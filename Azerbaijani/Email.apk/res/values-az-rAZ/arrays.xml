@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_settings_check_frequency_values">
+        <item>-1</item>
+        <item>15</item>
+        <item>60</item>
+        <item>240</item>
+        <item>720</item>
+    </string-array>
+    <string-array name="account_settings_check_frequency_values_push">
+        <item>-2</item>
+        <item>-1</item>
+        <item>15</item>
+        <item>60</item>
+        <item>240</item>
+        <item>720</item>
+    </string-array>
+    <string-array name="account_settings_mail_window_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+    <string-array name="account_settings_mail_window_values_eas">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>7</item>
+    </string-array>
+    <string-array name="account_settings_mail_window_values_with_default">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>7</item>
+    </string-array>
+    <string-array name="account_settings_message_load_imap_eas_values">
+        <item>2</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="alphabet_chars">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+        <item>∅</item>
+    </string-array>
+    <string-array name="alphabet_sub_table_with_starred">
+        <item>!</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="calendar_remind_string_array">
+        <item>Bu gecə</item>
+        <item>Sabah</item>
+        <item>Həftəsonu</item>
+        <item>Növbəti həftə</item>
+        <item>Növbəti ay</item>
+        <item>Tarix seçin</item>
+    </string-array>
+    <string-array name="error_message_respond">
+        <item>LOGIN Login error or password error</item>
+        <item>LOGIN Login error password error</item>
+        <item>Invalid login user or password</item>
+        <item>LOGIN failure, invalid username/password</item>
+        <item>LOGIN errno:1424, account not exist(md return:2100001)</item>
+        <item>ERR.LOGIN.DOMAINNOTEXIST</item>
+        <item>Please using authorized code to login. More information at https://service.mail.qq.com/cgi-bin/help?subtype=1&amp;&amp;no=1001607&amp;&amp;id=28</item>
+        <item>Authorized code is incorrect. More information at https://service.mail.qq.com/cgi-bin/help?subtype=1&amp;&amp;no=1001607&amp;&amp;id=28</item>
+        <item>LOGIN Login error user suspended</item>
+        <item>LOGIN failure, 楠岃瘉澶辫触锛\ufffd</item>
+        <item>LOGIN errno:1423, user password error(sp return:2200019)</item>
+        <item>AUTHENTICATIONFAILED LOGIN Invalid credentials</item>
+        <item>Login fail. Password is incorrect or service is not open</item>
+        <item>LOGIN imap4 nosupport</item>
+        <item>LOGIN errno:1328, custom imap off</item>
+        <item>LOGIN Login error user suspended</item>
+        <item>LOGIN user in black list</item>
+        <item>LOGIN failed. Account is blocked. Login to your account via a web browser to verify your identity.</item>
+        <item>LOGIN user in black list</item>
+        <item>LOGIN errno:1412 status=51 The password is not changed for a long time. Please modify the password. http://mail.10086.cn</item>
+        <item>LOGIN imap4 nosupport</item>
+        <item>LOGIN failed. Account is blocked. Login to your account via a web browser to verify your identity.</item>
+        <item>ERR Invalid login user or password</item>
+        <item>Login fail. Please using app password to login. More information at http://service.exmail.qq.com/cgi-bin/help?subtype=1&amp;&amp;id=10000&amp;&amp;no=1001494</item>
+        <item>ERR custom pop3 off</item>
+        <item>LOGIN Login error user name or password error</item>
+        <item>Invalid login or password</item>
+        <item>in blacklist, please switch your network or login https://mail.sohu.com to setup client ip whitelist</item>
+        <item>java.net.UnknownHostException: Unable to resolve host</item>
+        <item>müştəri sıradan çıxarıldı, lütfən https://mail.sohu.com saytında statusu dəyişdirin</item>
+        <item>başlanğıc parolu yoxdur, müştəri parolu yaratmaq üçün lütfən https://mail.sohu.com saytında giriş edin</item>
+    </string-array>
+    <string-array name="invoice_card_keyword">
+        <item>发票</item>
+    </string-array>
+    <string-array name="invoice_card_pdf_keyword">
+        <item>发票</item>
+        <item>faktura</item>
+    </string-array>
+    <string-array name="log_file_save_term_values">
+        <item>1</item>
+        <item>3</item>
+        <item>7</item>
+        <item>30</item>
+        <item>-1</item>
+    </string-array>
+    <string-array name="menu_att_mgr_sort_string_array">
+        <item>Təzəlikcə göstərilən</item>
+        <item>Format</item>
+        <item>Ad</item>
+        <item>Göndərən</item>
+        <item>Alınma tarixi</item>
+    </string-array>
+    <string-array name="multi_floating_package_allow_list">
+        <item>com.miui.securitycenter</item>
+        <item>com.miui.weather2</item>
+        <item>com.android.calendar</item>
+        <item>com.android.contacts</item>
+        <item>com.android.mms</item>
+        <item>com.miui.notes</item>
+        <item>com.android.settings</item>
+        <item>com.miui.gallery</item>
+        <item>com.miui.cloudservice</item>
+    </string-array>
+    <string-array name="prefEntries_contact_add">
+        <item>Hamısı</item>
+        <item>Yalnız göndərənlər</item>
+    </string-array>
+    <string-array name="prefValues_contact_add">
+        <item>contact_add</item>
+        <item>receiver_add</item>
+    </string-array>
+    <string-array name="prefValues_restart_detail_conversation">
+        <item>1</item>
+        <item>5</item>
+        <item>15</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="signature_normal_string_array">
+        <item>Bloq:</item>
+        <item>Sayt:</item>
+        <item>E-poçt:</item>
+        <item>mobil:</item>
+        <item>Telefon:</item>
+        <item>T:</item>
+        <item>www.</item>
+        <item>F:</item>
+        <item>E:</item>
+        <item>E-poçt:</item>
+        <item>Tel:</item>
+        <item>Faks:</item>
+        <item>Poçt:</item>
+        <item>QQ:</item>
+        <item>MSN:</item>
+    </string-array>
+    <string-array name="signature_normal_string_array_next">
+        <item>Ünvan:</item>
+        <item>Tel:</item>
+        <item>Ad:</item>
+        <item>E-poçt:</item>
+        <item>Mobil:</item>
+        <item>WeChat:</item>
+        <item>Faks:</item>
+        <item>Poçt Kodu:</item>
+    </string-array>
+    <string-array name="signature_special_string_array">
+        <item>Məsuliyyətdən imtina:</item>
+        <item>E-poçt məsuliyyətdən imtinası</item>
+        <item>WPSMail ilə göndərildi</item>
+        <item>Buradan göndərildi</item>
+        <item>Bununla göndərildi</item>
+        <item>Təşəkkürlər,</item>
+        <item>Hörmətlə</item>
+    </string-array>
+    <string-array name="signature_special_string_array_next">
+        <item>Təşəkkürlər,</item>
+        <item>Hörmətlə</item>
+        <item>Göndərildi</item>
+        <item>Orijinal e-poçt</item>
+        <item>Göndərildi</item>
+        <item>Göndərildi</item>
+        <item>Göndərən</item>
+        <item>Bu e-poçt</item>
+        <item>Məsuliyyətdən imtina</item>
+        <item>E-poçt məsuliyyətdən imtinası</item>
+    </string-array>
+</resources>

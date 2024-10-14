@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="HomePageTabTitle">
+        <item>Sağlamlıq</item>
+        <item>Məşqlər</item>
+    </string-array>
+    <string-array name="MediaControlView_playback_speeds">
+        <item>0.25x</item>
+        <item>0.5x</item>
+        <item>0.75x</item>
+        <item>1.25x</item>
+        <item>1.5x</item>
+        <item>2x</item>
+    </string-array>
+    <string-array name="ShareTabTitle">
+        <item>Təsvir</item>
+        <item>Marşrut</item>
+        <item>Kart</item>
+    </string-array>
+    <string-array name="SportTabTitle">
+        <item>Qaçış</item>
+        <item>Gəzinti</item>
+        <item>Velosiped sürmə</item>
+        <item>İplə tullanma</item>
+        <item>Məşq</item>
+    </string-array>
+    <string-array name="alphabet_table">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="arr_prompt_label">
+        <item>Ağlabatan</item>
+        <item>Uzun</item>
+        <item>Çox uzun</item>
+    </string-array>
+    <string-array name="arr_sedentary_reminder">
+        <item>Hərəkət etmək vaxtıdır!</item>
+        <item>Daha ətraflı</item>
+        <item>Bir az su için və gəzintiyə çıxın.</item>
+        <item>Daha ətraflı</item>
+        <item>Bir mərtəbəni pilləkənlə qalxın</item>
+        <item>Daha ətraflı</item>
+        <item>"Çox uzun oturmayın"</item>
+        <item>Daha ətraflı</item>
+    </string-array>
+    <string-array name="arr_time_label">
+        <item>1 saat</item>
+        <item>2 saat</item>
+    </string-array>
+    <string-array name="blood_types">
+        <item>A</item>
+        <item>B</item>
+        <item>AB</item>
+        <item>O</item>
+        <item>A(-)</item>
+        <item>A(+)</item>
+        <item>B(-)</item>
+        <item>B(+)</item>
+        <item>AB(-)</item>
+        <item>AB(+)</item>
+        <item>O(-)</item>
+        <item>O(+)</item>
+    </string-array>
+    <string-array name="contact_relation_array">
+        <item>Ayarlanmadı</item>
+        <item>Valideyn</item>
+        <item>Bacı</item>
+        <item>Qardaş</item>
+        <item>Həyat yoldaşı</item>
+        <item>Tərəfdaş</item>
+        <item>Dost</item>
+        <item>Həmkar</item>
+        <item>Sinif yoldaşı</item>
+    </string-array>
+    <string-array name="energy_unit">
+        <item>" kkal"</item>
+        <item>" kJ"</item>
+    </string-array>
+    <string-array name="gender_array">
+        <item>Ayarlanmadı</item>
+        <item>Kişi</item>
+        <item>Qadın</item>
+    </string-array>
+    <string-array name="hearing_reference">
+        <item>ISO 1999:2013 Standard</item>
+        <item>ISO 8253-1</item>
+        <item>Ətraf mühit səs-küyü standart sisteminin dizaynı və qarşılıqlı əlaqəsi üzrə tədqiqat [J].Ətraf mühitin monitorinqinin idarə edilməsi və texnologiyası, 2007, 19(6):18-21.</item>
+        <item>Dəmir yolu ətraf mühitinin səs-küy standartlarının formalaşdırılması üçün təməl üsullar[J] Dəmir yolu enerjisinə qənaət, ətraf mühitin mühafizəsi, güvənlik və sağlamlıq, 2005, 32(3):108-111.</item>
+        <item>\"Akustik mühitin keyfiyyət standartları\". Pekin: Çin Ətraf Mühit Elmi Mətbuatı, 2008: Tam mətn</item>
+        <item>\"Sosial Həyat üçün Səs-küyün Emissiyası Standartları\". Pekin: Çin Ətraf Mühit Elmi Mətbuatı, 2008: Tam mətn</item>
+    </string-array>
+    <string-array name="length_unit">
+        <item>" sm"</item>
+        <item>" m"</item>
+        <item>" km"</item>
+    </string-array>
+    <string-array name="normal_blood_array">
+        <item>Ayarlanmadı</item>
+        <item>A</item>
+        <item>B</item>
+        <item>AB</item>
+        <item>O</item>
+    </string-array>
+    <string-array name="pager_titles">
+        <item>Gün</item>
+        <item>Həftə</item>
+        <item>Ay</item>
+    </string-array>
+    <string-array name="references">
+        <item>Çin Xalq Respublikasının Səhiyyə Sənaye Standartı WS/T 476-2015 Qidalanma Terminologiyası</item>
+        <item>Ito H, Ohshima A, Ohto N, Ogasawara M, Tsuzuki M, Takao K, Hijii C, Tanaka H, Nishioka K. Sağlam Yapon subyektlərində bədən tərkibi və yaş arasında əlaqə. Eur J Clin Nutr. 55(6):462-70, 2001</item>
+        <item>Lee RD və Nieman DC. Qidalanma Qiymətləndirilməsi (ikinci nəşr), səhifə 264</item>
+        <item>Lohman TG. Bədən tərkibinin qiymətləndirilməsində qabaqcıl - Məşq elmləri seriyasında cari məsələlər. Champaign-IL: İnsan Kinetikası. səhifə 80. 1992</item>
+        <item>"Mahan LK və Escott-stump S. Krause's Qida, qidalanma və pəhriz terapiyası 9-cu nəşr. WB Saunders Co. səhifə 455"</item>
+        <item>\"Nevrologiya\" 9-cu nəşr 22-ci fəsil Yuxu pozğunluqları Xalq Tibb Nəşriyyatı</item>
+        <item>“Fiziologiya” 9-cu nəşr 10-cu fəsil Sinir sisteminin funksiyası Xalq Tibb Nəşriyyatı</item>
+        <item>\"Yuxu Təbabəti: Nəzəriyyə və Təcrübə\" 4-cü Buraxılış Fəsil 1 Normal Yuxu və Yuxu Variasiyaları Xalq Tibb Nəşriyyatı</item>
+        <item>\"Çin Sakinləri üçün Pəhriz Təlimatları 2016\" 1-ci Hissə Çin Qidalanma Cəmiyyəti tərəfindən tərtib edilmiş Ümumi Əhali üçün Qida Təlimatları</item>
+        <item>Qabaqcıl fitness qiymətləndirməsi və məşq resepti. Heyward VH. İnsan Kinetikası. səhifə 162</item>
+        <item>"Amerika İdman Tibb Kolleci. ACSM-nin Məşq Testi Resepti Təlimatları[M]. Wolters Kluwer/Lippincott Williams &amp; Wilkins Health, 2014."</item>
+        <item>Bray GA. Piylənmənin Müasir Diaqnozu və İdarə Edilməsi. səhifə 13, 1998</item>
+        <item>Brown JE. Qidalanma indi 2-ci nəşr. Wadsworth Nəşriyyat Şirkəti. səhifə 9-3. 1999</item>
+        <item>Brozek J. Grande F, Anderson JT, Keys A. Bədən tərkibinin densitometrik təhlili: Bəzi kəmiyyət fərziyyələrinin yenidən incələnməsi. Ann N Y Acad Sci. 1963 26 sentyabr;110:113-40</item>
+        <item>Heymsfield SB, Smith R, Aulet M, Bensen B, Lichtman S, Wang J, Pierson RN Jr. Appendikulyar skelet əzələ kütləsi: cüt foton absorptiometriya ilə ölçmə. Am J Clin Nutr. 52(2):214-8, 1990</item>
+        <item>Pollock, Michael L, Gaesser, Glenn A, Butcher, Janus D, 等. ACSM Mövqe Standı: Sağlam Yetkinlərdə Kardiorrespirator, Əzələ Fitnessi və Elastikliyin İnkişafı və Saxlanması üçün Məşqin Tövsiyə Edilən Kəmiyyəti və Keyfiyyəti[J]. Tibb &amp; Elm, İdmanda &amp; Məşq, 30(6):975-991.</item>
+        <item>Tahara Y, Moji K, Aoyagi K, Tsunawake N, Muraki S, Mascie-Taylor CG. 18-59 yaş arası Yapon kişi və qadınlarının bədən sıxlığının və bədən quruluşunun yaşa bağlı nümunəsi. Am J Hum Biol. 14(6):743-52, 2002</item>
+        <item>Wang ZM, Pierson RN Jr, Heymsfield SB. Beş səviyyəli model: gövdə quruluşu tədqiqatının təşkilinə yeni bir yanaşma. Am J Clin Nutr. 1992 İyul;56(1):19-28.</item>
+        <item>Bədən kütlə indeksi üçün Dünya Sağlamlıq Təşkilatı təlimatları</item>
+        <item>Pediatriya lüğəti. Pekin Elm və Texnologiya Nəşriyyatı. 2003</item>
+        <item>Kliniki təbabətin xülasəsi 2-ci nəşr 2-ci fəsil Fiziki müayinə Xalq Tibb Nəşriyyatı</item>
+        <item>Su Liang, Lu Zheng. 2017 Çin Yuxusuzluğun Diaqnozu və Müalicəsi Təlimatlarının şərhi [J]. Dünya Klinik Dərmanları, 2018, 39(4).</item>
+        <item>Səhiyyə Nazirliyinin “On ikinci beşillik” dərsliyi [Diaqnostika] 8-ci nəşr 3-cü hissə Fiziki müayinə</item>
+        <item>Qidalanma və Qida Gigiyenası (8-ci Buraxılış) Fəsil 1 Bölmə 5 Sun Changhao Xalq Tibb Nəşriyyatı tərəfindən düzəliş edilmişdir</item>
+        <item>Aşırı kiloluğun və Piylənmənin Tibbi Qidalanma Müalicəsi üzrə Çin Ekspert Konsensusunun Yazı Komitəsi. Aşırı Çəki/Piylənmənin Tibbi Qidalanma Müalicəsi üzrə Çin Mütəxəssisi Konsensus (2016-cı il nəşri)[J].</item>
+        <item>Hipertoniyanın qarşısının alınması və müalicəsi üçün Çin Təlimatları - 2005-ci il Yenidən İşlənmiş Nəşr Hipertoniyanın qarşısının alınması və müalicəsi üçün Çin Təlimatları, 2010-cu il Yenidən işlənmiş nəşr</item>
+        <item>Çin Xalq Respublikasının Səhiyyə Sənaye Standartı WS/T 476-2015 Qidalanma Terminologiyası</item>
+        <item>Amato M C, Giordano C, Galia M, et al. Visseral Piylənmə İndeksi[J]. 2010, 33(4):920-922.</item>
+        <item>Zhang Zhenlin. Osteoporoz diaqnozu və sümük sıxlığı müayinə hesabatlarının şərhi [J]. Çin Ümumi Səhiyyəsi, 2010, 13(2):117-117.</item>
+        <item>Xie Xing. Mamalıq və Ginekologiya (9-cu nəşr) [M]. Pekin: Xalq Tibb Nəşriyyatı. 2018.</item>
+        <item>Yağış pəncərəni döyür. Təhlükəsizlik müddəti həqiqətən təhlükəsizdirmi[J]. Reabilitasiya, 2013(1):16-16.</item>
+        <item>Xiao Wei, A Dan. Təhlükəsiz dövrdə doğum yoxlanışı təhlükəsizdirmi? [J]. Health Must Read, 2002(4).</item>
+        <item>2018 Fiziki Fəaliyyət Təlimatları Məsləhət Komitəsi, Elmi Hesabatı Təqdim etdi</item>
+    </string-array>
+    <string-array name="repeat_mode_mild_abnormal_array">
+        <item>B.e., Çər, Cümə</item>
+        <item>Ç.a., C.a., Şən</item>
+        <item>Çər, Cüm, Baz</item>
+    </string-array>
+    <string-array name="repeat_mode_week_array">
+        <item>Hər bazar ertəsi</item>
+        <item>Hər çərşənbə axşamı</item>
+        <item>Hər çərşənbə</item>
+        <item>Hər cümə axşamı</item>
+        <item>Hər cümə</item>
+        <item>Hər şənbə</item>
+        <item>Hər bazar</item>
+    </string-array>
+    <string-array name="rh_blood_array">
+        <item>Ayarlanmadı</item>
+        <item>Mənfi</item>
+        <item>Müsbət</item>
+    </string-array>
+    <string-array name="run_in_background_state">
+        <item>Məhdudiyyət yoxdur</item>
+        <item>Arxaplan fəaliyyətini məhdudlaşdır</item>
+        <item>10 dəqiqə sonra dayandır</item>
+        <item>Heç vaxt</item>
+    </string-array>
+    <string-array name="speed_unit">
+        <item>" km/sa"</item>
+        <item>" m/s"</item>
+    </string-array>
+    <string-array name="stand_guide_page_content1">
+        <item>"Oturmağın sağlamlığınıza heç bir faydası yoxdur. Oturmağa sərf etdiyiniz vaxtı azalda bilməsəniz belə, arada bir ayağa qalxmaq yaxşı fikirdir."</item>
+        <item>Bu özəllik, sizə hər saatın ən az 1 dəqiqəsini ayaqüstə keçirməyinizi xatırladacaq. Hər gün 12 saat ayaqda durma fasilələri, oturaq həyatın risklərindən qaçmağınıza kömək edəcək.</item>
+        <item>Daha ətraflı öyrənmək və bu özəlliyi işə salmaq üçün \"Davam et\"ə toxunun.</item>
+    </string-array>
+    <string-array name="stand_guide_page_content2">
+        <item>Xiaomi Health, ayaqda olduğunuzu aşkarlayıb qeyd edə bilir. Həmçinin 1 saatlıq hərəkətsizlikdən sonra ayağa qalxmağınız üçün xatırlatmalar ala bilərsiniz.</item>
+        <item>Bu özəllik, hərəkətinizi izləyir və nəticələrə görə xatırlatmalar göndərir.</item>
+    </string-array>
+    <string-array name="temperature_unit">
+        <item>℃</item>
+        <item>°F</item>
+    </string-array>
+    <string-array name="week">
+        <item>Bazar</item>
+        <item>Bazar ertəsi</item>
+        <item>Çərşənbə axşamı</item>
+        <item>Çərşənbə</item>
+        <item>Cümə axşamı</item>
+        <item>Cümə</item>
+        <item>Şənbə</item>
+    </string-array>
+    <string-array name="week_label">
+        <item>Baz</item>
+        <item>B.e.</item>
+        <item>Ç.a.</item>
+        <item>Çər</item>
+        <item>C.a.</item>
+        <item>Cüm</item>
+        <item>Şәn</item>
+    </string-array>
+    <string-array name="week_short">
+        <item>Baz</item>
+        <item>B.e.</item>
+        <item>Ç.a.</item>
+        <item>Çər</item>
+        <item>C.a.</item>
+        <item>Cüm</item>
+        <item>Şәn</item>
+    </string-array>
+    <string-array name="weight_unit">
+        <item>" q"</item>
+        <item>" kq"</item>
+        <item>" t"</item>
+        <item>" liang"</item>
+        <item>" jin"</item>
+        <item>" funt"</item>
+    </string-array>
+    <string-array name="yes_no_array">
+        <item>Ayarlanmadı</item>
+        <item>Bəli</item>
+        <item>Xeyr</item>
+    </string-array>
+</resources>

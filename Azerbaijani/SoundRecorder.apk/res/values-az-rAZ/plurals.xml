@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="one">1 saat əvvəl</item>
+        <item quantity="other">1 saat əvvəl</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="one">%d saat əvvəl</item>
+        <item quantity="other">%d saat əvvəl</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="one">Yarım saat əvvəl</item>
+        <item quantity="other">Yarım saat əvvəl</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="one">%d saat ərzində</item>
+        <item quantity="other">%d saat ərzində</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="one">Yarım saat ərzində</item>
+        <item quantity="other">Yarım saat ərzində</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="one">Dərhal</item>
+        <item quantity="other">Dərhal</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d dəq ərzində</item>
+        <item quantity="one">%d dəq ərzində</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="one">İndicə</item>
+        <item quantity="other">İndicə</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d dəq əvvəl</item>
+        <item quantity="one">%d dəq əvvəl</item>
+    </plurals>
+    <plurals name="btn_clear_records">
+        <item quantity="other">%d səsyazmanı sil</item>
+        <item quantity="one">%d səsyazmanı sil</item>
+    </plurals>
+    <plurals name="choose_call_records_count">
+        <item quantity="other">%d element</item>
+        <item quantity="one">%d element</item>
+    </plurals>
+    <plurals name="confirm_delete_cloud_records">
+        <item quantity="other">%d səsyazma buluddan silinsin?</item>
+        <item quantity="one">%d səsyazma buluddan silinsin?</item>
+    </plurals>
+    <plurals name="confirm_delete_records">
+        <item quantity="other">%d səsyazma silinsin?</item>
+        <item quantity="one">%d səsyazma silinsin?</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="one">Yarım saat əvvəl</item>
+        <item quantity="other">Yarım saat əvvəl</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="one">1 saat ərzində</item>
+        <item quantity="other">1 saat ərzində</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="one">Yarım saat ərzində</item>
+        <item quantity="other">Yarım saat ərzində</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="one">Dərhal</item>
+        <item quantity="other">Dərhal</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d dəqiqə ərzində</item>
+        <item quantity="one">1 dəqiqə ərzində</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="one">İndicə</item>
+        <item quantity="other">İndicə</item>
+    </plurals>
+    <plurals name="local_records_count">
+        <item quantity="other">%d element</item>
+        <item quantity="one">%d element</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d element seçildi</item>
+        <item quantity="one">%d element seçildi</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d yeni bildiriş</item>
+        <item quantity="one">%d yeni bildiriş</item>
+    </plurals>
+    <plurals name="notification_warning">
+        <item quantity="other">Anbar sahəsi azdır ( %d dəqiqədən az)</item>
+        <item quantity="one">Anbar sahəsi azdır ( %d dəqiqədən az)</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d dəqiqə əvvəl</item>
+        <item quantity="one">1 dəqiqə əvvəl</item>
+    </plurals>
+    <plurals name="record_downloading_complete_count">
+        <item quantity="other">%d səsyazma endirildi</item>
+        <item quantity="one">%d səsyazma endirildi</item>
+    </plurals>
+    <plurals name="recovery_failed_dialog_message">
+        <item quantity="other">"Bilinməyən bir xətaya görə %d element bərpa edilə bilmədi."</item>
+        <item quantity="one">"Bilinməyən bir xətaya görə %d element bərpa edilə bilmədi."</item>
+    </plurals>
+    <plurals name="search_all_records_hint">
+        <item quantity="other">%d səsyazma</item>
+        <item quantity="one">%d səsyazma</item>
+    </plurals>
+    <plurals name="search_app_records_hint">
+        <item quantity="other">%d səsyazma</item>
+        <item quantity="one">%d səsyazma</item>
+    </plurals>
+    <plurals name="search_call_records_hint">
+        <item quantity="other">%d zəng səsyazması</item>
+        <item quantity="one">%d zəng səsyazması</item>
+    </plurals>
+    <plurals name="search_fm_records_hint">
+        <item quantity="other">%d radio səsyazması</item>
+        <item quantity="one">%d radio səsyazması</item>
+    </plurals>
+    <plurals name="search_recorder_records_hint">
+        <item quantity="other">%d səs yazısı</item>
+        <item quantity="one">%d səs yazısı</item>
+    </plurals>
+    <plurals name="search_result">
+        <item quantity="other">%d səsyazma tapıldı</item>
+        <item quantity="one">%d səsyazma tapıldı</item>
+    </plurals>
+    <plurals name="time_left_for_clear_file">
+        <item quantity="other">%d gün qaldı</item>
+        <item quantity="one">%d gün qaldı</item>
+    </plurals>
+    <plurals name="trash_box_delete_items">
+        <item quantity="other">Seçilmiş %d səsyazma birdəfəlik silinsin?</item>
+        <item quantity="one">Seçilmiş %d səsyazma birdəfəlik silinsin?</item>
+    </plurals>
+    <plurals name="trash_box_tip">
+        <item quantity="other">Silinmiş elementlər %d günə qədər tullantı qutusunda saxlanıla bilər</item>
+        <item quantity="one">Silinmiş elementlər %d günə qədər tullantı qutusunda saxlanıla bilər</item>
+    </plurals>
+    <plurals name="unsynced_records_count">
+        <item quantity="other">%d element sinxronlaşdırılmadı</item>
+        <item quantity="one">%d element sinxronlaşdırılmadı</item>
+    </plurals>
+</resources>

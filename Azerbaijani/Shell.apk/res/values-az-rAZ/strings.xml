@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Qabıq</string>
+    <string name="bugreport_add_details_to_zip_failed">"Xəta hesabatının detalları zip faylına əlavə edilə bilmədi"</string>
+    <string name="bugreport_confirm">"Xəta hesabatları, həssas hesab etdiyiniz (tətbiq istifadə dataası və yerləşmə datası kimi) datalar daxil olmaqla sistemin müxtəlif jurnal fayllarından alınan dataları ehtiva edir. Xəta hesabatlarını yalnız güvəndiyiniz tətbiqlərlə və insanlarla paylaşın."</string>
+    <string name="bugreport_confirm_dont_repeat">"Təkrar göstərmə"</string>
+    <string name="bugreport_finished_pending_screenshot_text">Xəta hesabatınızı ekran şəkli olmadan paylaşmaq üçün toxunun və ya bitirmək üçün ekran şəklini gözləyin</string>
+    <string name="bugreport_finished_text">Xəta hesabatını paylaşmaq üçün toxunun</string>
+    <string name="bugreport_finished_title">#%d xəta hesabatı saxlanıldı</string>
+    <string name="bugreport_in_progress_title">#%d xəta hesabatı yaradılır</string>
+    <string name="bugreport_info_action">Detallar</string>
+    <string name="bugreport_info_description">Xəta icmalı</string>
+    <string name="bugreport_info_dialog_title">#%d xəta hesabatı detalları</string>
+    <string name="bugreport_info_name">Fayl adı</string>
+    <string name="bugreport_info_title">Xəta başlığı</string>
+    <string name="bugreport_intent_chooser_title">Xəta hesabatını paylaş</string>
+    <string name="bugreport_notification_channel">Xəta hesabatları</string>
+    <string name="bugreport_screenshot_action">Ekran şəkli</string>
+    <string name="bugreport_screenshot_failed">Ekran şəkli çəkilə bilmədi.</string>
+    <string name="bugreport_screenshot_taken">Ekran şəkli uğurla çəkildi.</string>
+    <string name="bugreport_storage_title">Xəta hesabatları</string>
+    <string name="bugreport_unnamed">adsız</string>
+    <string name="bugreport_unreadable_text">Xəta hesabatı faylı oxuna bilmədi</string>
+    <string name="bugreport_updating_title">Xəta hesabatına detallar əlavə edilir</string>
+    <string name="bugreport_updating_wait">Lütfən gözləyin…</string>
+    <string name="call_notification_answer_action">Cavabla</string>
+    <string name="call_notification_answer_video_action">Görüntülü</string>
+    <string name="call_notification_decline_action">Rədd et</string>
+    <string name="call_notification_hang_up_action">Dəstəyi as</string>
+    <string name="call_notification_incoming_text">Gələn zəng</string>
+    <string name="call_notification_ongoing_text">Davam edən zəng</string>
+    <string name="call_notification_screening_text">Gələn bir zəngin filtrlənməsi</string>
+    <string name="save">Saxla</string>
+</resources>

@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alphabet_sub_table_with_starred">
+        <item>!</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="apk_download_num_unit">
+        <item>Endirildi：%.1f</item>
+        <item>Endirildi：%.1fm</item>
+        <item>Endirildi：%.1fb</item>
+    </string-array>
+    <string-array name="apk_size_byte_unit">
+        <item>%.1fB</item>
+        <item>%.1fK</item>
+        <item>%.1fM</item>
+        <item>%.1fG</item>
+    </string-array>
+    <string-array name="aqi_detail_title">
+        <item>Yaxşı</item>
+        <item>Qənaətbəxş</item>
+        <item>Mülayim</item>
+        <item>Qeyri-sağlam</item>
+        <item>Şiddətli</item>
+        <item>Zərərli</item>
+    </string-array>
+    <string-array name="aqi_title">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="aqi_title_append">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>HKİ %1$s</item>
+        <item>HKİ %1$s</item>
+        <item>HKİ %1$s</item>
+        <item>HKİ %1$s</item>
+        <item>HKİ %1$s</item>
+        <item>HKİ %1$s</item>
+    </string-array>
+    <string-array name="aqi_value">
+        <item>Yaxşı</item>
+        <item>Qənaətbəxş</item>
+        <item>Mülayim</item>
+        <item>Qeyri-sağlam</item>
+        <item>Şiddətli</item>
+        <item>Zərərli</item>
+        <item>İndeksin üzərində</item>
+    </string-array>
+    <string-array name="big_thunder_1">
+        <item>dla_00.png</item>
+        <item>dla_01.png</item>
+        <item>dla_02.png</item>
+        <item>dla_03.png</item>
+        <item>dla_04.png</item>
+        <item>dla_05.png</item>
+        <item>dla_06.png</item>
+        <item>dla_07.png</item>
+        <item>dla_08.png</item>
+        <item>dla_09.png</item>
+        <item>dla_10.png</item>
+        <item>dla_11.png</item>
+        <item>dla_12.png</item>
+        <item>dla_13.png</item>
+        <item>dla_14.png</item>
+        <item>dla_15.png</item>
+        <item>dla_16.png</item>
+        <item>dla_17.png</item>
+        <item>dla_18.png</item>
+        <item>dla_19.png</item>
+        <item>dla_20.png</item>
+        <item>dla_21.png</item>
+        <item>dla_22.png</item>
+        <item>dla_23.png</item>
+        <item>dla_24.png</item>
+        <item>dla_25.png</item>
+        <item>dla_26.png</item>
+        <item>dla_27.png</item>
+        <item>dla_28.png</item>
+        <item>dla_29.png</item>
+        <item>dla_30.png</item>
+    </string-array>
+    <string-array name="big_thunder_2">
+        <item>dlb_00.png</item>
+        <item>dlb_01.png</item>
+        <item>dlb_02.png</item>
+        <item>dlb_03.png</item>
+        <item>dlb_04.png</item>
+        <item>dlb_05.png</item>
+        <item>dlb_06.png</item>
+        <item>dlb_07.png</item>
+        <item>dlb_08.png</item>
+        <item>dlb_09.png</item>
+        <item>dlb_10.png</item>
+        <item>dlb_11.png</item>
+        <item>dlb_12.png</item>
+        <item>dlb_13.png</item>
+        <item>dlb_14.png</item>
+        <item>dlb_15.png</item>
+        <item>dlb_16.png</item>
+        <item>dlb_17.png</item>
+        <item>dlb_18.png</item>
+        <item>dlb_19.png</item>
+        <item>dlb_20.png</item>
+        <item>dlb_21.png</item>
+        <item>dlb_22.png</item>
+        <item>dlb_23.png</item>
+        <item>dlb_24.png</item>
+    </string-array>
+    <string-array name="breeze">
+        <item>&lt;Force 2</item>
+        <item>&lt;6.0km/h</item>
+        <item>&lt;1.7m/s</item>
+        <item>&lt;3.7mph</item>
+        <item>&lt;3.2kn</item>
+    </string-array>
+    <string-array name="dark_thunder">
+        <item>al_00.png</item>
+        <item>al_01.png</item>
+        <item>al_02.png</item>
+        <item>al_03.png</item>
+        <item>al_04.png</item>
+        <item>al_05.png</item>
+        <item>al_06.png</item>
+        <item>al_07.png</item>
+        <item>al_08.png</item>
+        <item>al_09.png</item>
+        <item>al_10.png</item>
+        <item>al_11.png</item>
+        <item>al_12.png</item>
+        <item>al_13.png</item>
+        <item>al_14.png</item>
+        <item>al_15.png</item>
+        <item>al_16.png</item>
+        <item>al_17.png</item>
+        <item>al_18.png</item>
+        <item>al_19.png</item>
+        <item>al_20.png</item>
+        <item>al_21.png</item>
+        <item>al_22.png</item>
+        <item>al_23.png</item>
+        <item>al_24.png</item>
+        <item>al_25.png</item>
+        <item>al_26.png</item>
+        <item>al_27.png</item>
+        <item>al_28.png</item>
+        <item>al_29.png</item>
+        <item>al_30.png</item>
+        <item>al_31.png</item>
+        <item>al_32.png</item>
+        <item>al_33.png</item>
+        <item>al_34.png</item>
+        <item>al_35.png</item>
+        <item>al_36.png</item>
+        <item>al_37.png</item>
+        <item>al_38.png</item>
+        <item>al_39.png</item>
+        <item>al_40.png</item>
+        <item>al_41.png</item>
+        <item>al_42.png</item>
+        <item>al_43.png</item>
+        <item>al_44.png</item>
+        <item>al_45.png</item>
+        <item>al_46.png</item>
+        <item>al_47.png</item>
+        <item>al_48.png</item>
+        <item>al_49.png</item>
+        <item>al_50.png</item>
+        <item>al_51.png</item>
+        <item>al_52.png</item>
+        <item>al_53.png</item>
+        <item>al_54.png</item>
+        <item>al_55.png</item>
+        <item>al_56.png</item>
+        <item>al_57.png</item>
+        <item>al_58.png</item>
+        <item>al_59.png</item>
+        <item>al_60.png</item>
+        <item>al_61.png</item>
+        <item>al_62.png</item>
+        <item>al_63.png</item>
+        <item>al_64.png</item>
+        <item>al_65.png</item>
+        <item>al_66.png</item>
+        <item>al_67.png</item>
+        <item>al_68.png</item>
+        <item>al_69.png</item>
+        <item>al_70.png</item>
+        <item>al_71.png</item>
+        <item>al_72.png</item>
+        <item>al_73.png</item>
+        <item>al_74.png</item>
+        <item>al_75.png</item>
+        <item>al_76.png</item>
+        <item>al_77.png</item>
+        <item>al_78.png</item>
+        <item>al_79.png</item>
+        <item>al_80.png</item>
+        <item>al_81.png</item>
+        <item>al_82.png</item>
+        <item>al_83.png</item>
+        <item>al_84.png</item>
+        <item>al_85.png</item>
+        <item>al_86.png</item>
+        <item>al_87.png</item>
+        <item>al_88.png</item>
+        <item>al_89.png</item>
+        <item>al_90.png</item>
+        <item>al_91.png</item>
+        <item>al_92.png</item>
+        <item>al_93.png</item>
+        <item>al_94.png</item>
+        <item>al_95.png</item>
+        <item>al_96.png</item>
+        <item>al_97.png</item>
+        <item>al_98.png</item>
+        <item>al_99.png</item>
+        <item>al_100.png</item>
+        <item>al_101.png</item>
+        <item>al_102.png</item>
+        <item>al_103.png</item>
+        <item>al_104.png</item>
+        <item>al_105.png</item>
+        <item>al_106.png</item>
+        <item>al_107.png</item>
+        <item>al_108.png</item>
+        <item>al_109.png</item>
+        <item>al_110.png</item>
+        <item>al_111.png</item>
+        <item>al_112.png</item>
+        <item>al_113.png</item>
+        <item>al_114.png</item>
+        <item>al_115.png</item>
+        <item>al_116.png</item>
+        <item>al_117.png</item>
+        <item>al_118.png</item>
+        <item>al_119.png</item>
+    </string-array>
+    <string-array name="hot_city">
+        <item>Pekin</item>
+        <item>Şanxay</item>
+        <item>Honkonq</item>
+        <item>Taypey</item>
+        <item>Cakarta</item>
+        <item>Delhi</item>
+        <item>Mumbay</item>
+        <item>Moskva</item>
+        <item>Çennai</item>
+        <item>İstanbul</item>
+        <item>Rio-de-Janeyro</item>
+        <item>Sinqapur</item>
+        <item>Berlin</item>
+        <item>Roma</item>
+        <item>Nyu York</item>
+        <item>Los-Anceles</item>
+        <item>Çikaqo</item>
+        <item>Tokio</item>
+        <item>Paris</item>
+        <item>Banqkok</item>
+        <item>Seul</item>
+        <item>Kuala Lumpur</item>
+    </string-array>
+    <string-array name="middle_devices">
+        <item>marble</item>
+    </string-array>
+    <array name="middle_platforms"></array>
+    <string-array name="minute_rain_array">
+        <item>Şiddətli</item>
+        <item>Mülayim</item>
+        <item>Yüngül</item>
+    </string-array>
+    <string-array name="multi_floating_package_allow_list">
+        <item>com.miui.securitycenter</item>
+        <item>com.miui.weather2</item>
+        <item>com.android.calendar</item>
+        <item>com.android.contacts</item>
+        <item>com.android.mms</item>
+        <item>com.miui.notes</item>
+        <item>com.android.settings</item>
+        <item>com.miui.gallery</item>
+        <item>com.miui.cloudservice</item>
+        <item>com.android.deskclock</item>
+    </string-array>
+    <string-array name="pollution_level_desc_arr">
+        <item>Mükəmməl</item>
+        <item>Yaxşı</item>
+        <item>Yüngül çirkli</item>
+        <item>Orta dərəcədə çirkli</item>
+        <item>Çox çirkli</item>
+        <item>Şiddətli dərəcədə çirkli</item>
+        <item>İndeksdən kənar</item>
+    </string-array>
+    <string-array name="primary_devices">
+        <item>sweet_k6a</item>
+        <item>sweet</item>
+    </string-array>
+    <array name="primary_platforms"></array>
+    <string-array name="realtime_humidity_status">
+        <item>Quru</item>
+        <item>Rahat</item>
+        <item>Rütubət</item>
+    </string-array>
+    <string-array name="realtime_pressure_status">
+        <item>Yüksək</item>
+        <item>Mülayim</item>
+        <item>Aşağı</item>
+    </string-array>
+    <string-array name="realtime_temperature_status">
+        <item>Soyuq</item>
+        <item>Sərin</item>
+        <item>Rahat</item>
+        <item>İlıq</item>
+        <item>İsti</item>
+    </string-array>
+    <string-array name="realtime_uv_level">
+        <item>Zəif</item>
+        <item>Mülayim</item>
+        <item>Güclü</item>
+        <item>Çox güclü</item>
+        <item>Şiddətli</item>
+    </string-array>
+    <string-array name="settings_atmospheric_pressure_unit_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="small_thunder_1">
+        <item>xla_00.png</item>
+        <item>xla_01.png</item>
+        <item>xla_02.png</item>
+        <item>xla_03.png</item>
+        <item>xla_04.png</item>
+        <item>xla_05.png</item>
+        <item>xla_06.png</item>
+        <item>xla_07.png</item>
+        <item>xla_08.png</item>
+        <item>xla_09.png</item>
+        <item>xla_10.png</item>
+        <item>xla_11.png</item>
+        <item>xla_12.png</item>
+        <item>xla_13.png</item>
+        <item>xla_14.png</item>
+        <item>xla_15.png</item>
+        <item>xla_16.png</item>
+    </string-array>
+    <string-array name="small_thunder_2">
+        <item>xlb_00.png</item>
+        <item>xlb_01.png</item>
+        <item>xlb_02.png</item>
+        <item>xlb_03.png</item>
+        <item>xlb_04.png</item>
+        <item>xlb_05.png</item>
+        <item>xlb_06.png</item>
+        <item>xlb_07.png</item>
+        <item>xlb_08.png</item>
+        <item>xlb_09.png</item>
+        <item>xlb_10.png</item>
+        <item>xlb_11.png</item>
+        <item>xlb_12.png</item>
+        <item>xlb_13.png</item>
+        <item>xlb_14.png</item>
+        <item>xlb_15.png</item>
+        <item>xlb_16.png</item>
+        <item>xlb_17.png</item>
+        <item>xlb_18.png</item>
+        <item>xlb_19.png</item>
+        <item>xlb_20.png</item>
+        <item>xlb_21.png</item>
+        <item>xlb_22.png</item>
+        <item>xlb_23.png</item>
+    </string-array>
+    <string-array name="temperature_setting_unit_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="weather_type">
+        <item>Təmiz</item>
+        <item>Buludlu</item>
+        <item>Tutqun</item>
+        <item>Sis</item>
+        <item>Şiddətli yağış fırtınası</item>
+        <item>Leysan</item>
+        <item>Yağış fırtınası</item>
+        <item>Tufan</item>
+        <item>Leysan</item>
+        <item>Şiddətli yağıntı</item>
+        <item>Mülayim yağışlı</item>
+        <item>Yüngül yağışlı</item>
+        <item>Sulu qar</item>
+        <item>Çovğun</item>
+        <item>Qar leysanı</item>
+        <item>Şiddətli qar</item>
+        <item>Mülayim qarlı</item>
+        <item>Yüngül qarlı</item>
+        <item>Güclü qum fırtınası</item>
+        <item>Qum fırtınası</item>
+        <item>Yüngül qum fırtınası</item>
+        <item>Toz fırtınası</item>
+        <item>Dolu</item>
+        <item>Toz</item>
+        <item>Sisli</item>
+        <item>Donmuş yağış</item>
+        <item></item>
+    </string-array>
+    <string-array name="wind_direction">
+        <item>Şimal</item>
+        <item>Şimal-şərq</item>
+        <item>Şərq</item>
+        <item>Cənub-şərq</item>
+        <item>Cənub</item>
+        <item>Cənub-qərb</item>
+        <item>Qərb</item>
+        <item>Şimal-qərb</item>
+    </string-array>
+    <string-array name="wind_direction_simple">
+        <item>Şm</item>
+        <item>Şm-Şə</item>
+        <item>Şə</item>
+        <item>Cə-Şə</item>
+        <item>Cə</item>
+        <item>Cə-Qə</item>
+        <item>Qə</item>
+        <item>Şm-Qə</item>
+    </string-array>
+    <string-array name="wind_power">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="wind_power_setting_unit_values">
+        <item>0</item>
+        <item>1</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="wind_unit_detail">
+        <item>Bofort şkalası</item>
+        <item>Kilometr/saat (km/s)</item>
+        <item>Metr/saniyə (m/s)</item>
+        <item>Mil/saat (mil/s)</item>
+        <item>Knot (kn)</item>
+    </string-array>
+    <string-array name="wind_unit_no_translate">
+        <item>km/sa</item>
+        <item>m/s</item>
+        <item>mil/sa</item>
+        <item>kn</item>
+    </string-array>
+    <string-array name="wind_unit_replace">
+        <item>%1$s. güc</item>
+        <item>%1$s km/s</item>
+        <item>%1$s m/s</item>
+        <item>%1$s mil/s</item>
+        <item>%1$s kn</item>
+    </string-array>
+</resources>

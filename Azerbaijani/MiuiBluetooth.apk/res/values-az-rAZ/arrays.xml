@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="BLE_MMA_FEATURE_VERSION"></array>
+    <array name="IS_SUPPORT_SPLIT"></array>
+    <array name="LC3_CG_FEATURE_VERSION"></array>
+    <array name="SUPPORT_V2_FEATURE"></array>
+    <array name="TARGET_PRODUCT"></array>
+    <array name="TIME_STAMP"></array>
+    <string-array name="alphabet_sub_table_with_starred">
+        <item>!</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="ble_package_names">
+        <item></item>
+        <item>Mi Fit</item>
+        <item>Mi VR</item>
+        <item>Xiaomi Wear</item>
+    </string-array>
+    <string-array name="ble_packages">
+        <item></item>
+        <item>com.xiaomi.hm.health</item>
+        <item>com.mi.dlabs.vr.thor</item>
+        <item>com.xiaomi.wearable</item>
+    </string-array>
+    <string-array name="ble_profile_mi_band">
+        <item>Zəng çalarkən titrət</item>
+        <item>Mesaj alanda titrət</item>
+        <item>Zəngli saat çalanda titrət</item>
+    </string-array>
+    <string-array name="ble_profile_mi_key">
+        <item>Foto çək</item>
+        <item>Telefonu tap</item>
+        <item>\"Mi-key\"i tap</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_titles">
+        <item>Sistem seçimini istfdə et (İlkin)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™ səs</item>
+        <item>Qualcomm® aptX™ HD səs</item>
+        <item>LDAC</item>
+    </string-array>
+    <string-array name="bluetooth_audio_active_device_summaries">
+        <item></item>
+        <item>, aktiv</item>
+        <item>, aktiv (media)</item>
+        <item>, aktiv (telefon)</item>
+    </string-array>
+    <string-array name="multi_floating_package_allow_list">
+        <item>com.miui.securitycenter</item>
+        <item>com.miui.weather2</item>
+        <item>com.android.calendar</item>
+        <item>com.android.contacts</item>
+        <item>com.android.mms</item>
+        <item>com.miui.notes</item>
+        <item>com.android.settings</item>
+        <item>com.miui.gallery</item>
+        <item>com.miui.cloudservice</item>
+    </string-array>
+</resources>

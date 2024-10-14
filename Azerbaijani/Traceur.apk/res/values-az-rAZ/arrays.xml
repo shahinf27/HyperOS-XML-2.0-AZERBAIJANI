@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="select_logpersist_summaries">
+    <item>Bağlı</item>
+    <item>Bütün jurnal buferləri</item>
+    <item>Radio jurnal buferi xaric hamısı</item>
+    <item>yalnız kernel jurnal buferi</item>
+  </string-array>
+  <string-array name="wifitrackerlib_wifi_status">
+    <item></item>
+    <item>Skan edilir…</item>
+    <item>Bağlantı qurulur…</item>
+    <item>Kimlik doğrulanır…</item>
+    <item>IP ünvanı alınır…</item>
+    <item>Bağlantılıdır</item>
+    <item>Dayandırıldı</item>
+    <item>Bağlantı kəsilir…</item>
+    <item>Bağlantı kəsildi</item>
+    <item>Uğursuz</item>
+    <item>Əngəlləndi</item>
+    <item>Zəif bağlantıdan müvəqqəti qaçılır</item>
+  </string-array>
+</resources>

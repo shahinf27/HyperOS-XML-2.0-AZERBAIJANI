@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alphabet_sub_table_with_starred">
+        <item>!</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="auto_process_mode">
+        <item>Bildir</item>
+        <item>Təmizlə</item>
+        <item>Təmizlə və bildir</item>
+    </string-array>
+    <string-array name="cache_sort_type">
+        <item>Ölçü</item>
+        <item>Ad</item>
+    </string-array>
+    <string-array name="installed_app_sort_type">
+        <item>Tez-tez istifadə edilən</item>
+        <item>Ölçü</item>
+    </string-array>
+    <string-array name="large_file_sort_type">
+        <item>Ölçü</item>
+        <item>Ad</item>
+    </string-array>
+    <string-array name="multi_floating_package_allow_list">
+        <item>com.miui.securitycenter</item>
+        <item>com.miui.weather2</item>
+        <item>com.android.calendar</item>
+        <item>com.android.contacts</item>
+        <item>com.android.mms</item>
+        <item>com.miui.notes</item>
+        <item>com.android.settings</item>
+        <item>com.miui.gallery</item>
+        <item>com.miui.cloudservice</item>
+        <item>com.android.deskclock</item>
+    </string-array>
+    <string-array name="suggest_lock_app">
+        <item>com.tencent.mobileqq</item>
+        <item>com.android.mms</item>
+        <item>com.miui.gallery</item>
+        <item>com.android.contacts</item>
+        <item>com.eg.android.AlipayGphone</item>
+        <item>com.android.fileexplorer</item>
+        <item>com.taobao.taobao</item>
+        <item>com.tmall.wireless</item>
+        <item>com.jingdong.app.mall</item>
+        <item>com.baidu.tieba</item>
+        <item>com.miui.notes</item>
+        <item>com.UCMobile</item>
+        <item>com.android.browser</item>
+        <item>com.mi.globalbrowser</item>
+        <item>com.sina.weibo</item>
+        <item>com.xiaomi.channel</item>
+        <item>com.baidu.netdisk</item>
+        <item>com.qzone</item>
+        <item>com.alibaba.mobileim</item>
+        <item>com.immomo.momo</item>
+        <item>com.xiaomi.account</item>
+        <item>com.mipay.wallet</item>
+        <item>com.xiaomi.pass</item>
+        <item>com.android.email</item>
+        <item>com.miui.backup</item>
+        <item>com.wumii.android.mimi</item>
+        <item>com.facebook.katana</item>
+        <item>com.facebook.orca</item>
+        <item>jp.naver.line.android</item>
+        <item>com.whatsapp</item>
+        <item>com.renren.mobile.android</item>
+        <item>cn.wps.moffice_eng</item>
+        <item>com.qihoo.yunpan</item>
+    </string-array>
+    <string-array name="uninstalled_app_sort_type">
+        <item>Ölçü</item>
+        <item>İstifadə tezliyi</item>
+        <item>Quraşdırma vaxtı</item>
+    </string-array>
+    <string-array name="wechat_sort">
+        <item>Tarix</item>
+        <item>Ölçü</item>
+    </string-array>
+</resources>

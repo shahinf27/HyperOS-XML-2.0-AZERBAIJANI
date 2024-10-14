@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_call">Zəng et: %s</string>
+    <string name="action_text">Mesaj: %s</string>
+    <string name="app_name">Etiketlər</string>
+    <string name="button_done">Hazırdır</string>
+    <string name="call_notification_answer_action">Cavabla</string>
+    <string name="call_notification_answer_video_action">Görüntülü</string>
+    <string name="call_notification_decline_action">Rədd et</string>
+    <string name="call_notification_hang_up_action">Dəstəyi as</string>
+    <string name="call_notification_incoming_text">Gələn zəng</string>
+    <string name="call_notification_ongoing_text">Davam edən zəng</string>
+    <string name="call_notification_screening_text">Gələn bir zəngin filtrlənməsi</string>
+    <string name="call_phone_permission_denied">Bu tətbiqin zəng edə bilməsi üçün Telefon icazəsinə müraciət etməsi lazımdır. Etiket icazəsini Ayarlarda idarə edə bilərsiniz</string>
+    <string name="empty_tag_prompt">Bu etiket boşdur.</string>
+    <string name="external_storage_permission_denied">Bu tətbiqin fayllara müraciət edə bilməsi üçün Xarici Anbar icazəsinə müraciət etməsi lazımdır. Etiket icazəsini Ayarlarda idarə edə bilərsiniz</string>
+    <string name="import_vcard">^1 idxal et</string>
+    <string name="mime_display_name">NFC etiketindən data</string>
+    <string name="tag_empty">Boş etiketi</string>
+    <string name="tag_unknown">Bilinməyən etiket növü</string>
+    <string name="title_existing_tag">Etiket</string>
+    <string name="title_scanned_tag">Yeni etiket yığıldı</string>
+    <string name="vcard_title">^1 üçün əlaqə məlumatları</string>
+</resources>

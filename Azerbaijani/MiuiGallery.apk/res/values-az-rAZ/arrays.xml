@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="activities_title">
+        <item>Xüsusi gün</item>
+        <item>Xatırlanacaq gün</item>
+        <item>Canlı anlar</item>
+    </string-array>
+    <string-array name="alphabet_sub_table_with_starred">
+        <item>!</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="annual_foods_title">
+        <item>Ləzzətli bir il</item>
+        <item>Üç kurs. Dörd mövsüm.</item>
+    </string-array>
+    <string-array name="annual_travel_title">
+        <item>Salam dünya!</item>
+        <item>Yolda</item>
+        <item>Məkanların kaleydoskopu</item>
+    </string-array>
+    <string-array name="autumn_season_title">
+        <item>Payız əzəməti</item>
+        <item>Parlaq payız</item>
+    </string-array>
+    <string-array name="baby_sexy">
+        <item>Oğlan</item>
+        <item>Qız</item>
+    </string-array>
+    <string-array name="backup_automatically_key_words">
+        <item>Fotoları nüsxələ</item>
+        <item>Fotoları buludda sinxronlaşdır</item>
+    </string-array>
+    <string-array name="card_last_week_day">
+        <item>Keçən Bazar ertəsi</item>
+        <item>Keçən Çərşənbə axşamı</item>
+        <item>Keçən Çərşənbə</item>
+        <item>Keçən Cümə axşamı</item>
+        <item>Keçən Cümə</item>
+    </string-array>
+    <string-array name="chinese_holiday_last_year">
+        <item>"Keçən Çin Yeni İl ərəfəsi"</item>
+        <item>Keçən Çin Yeni İli</item>
+        <item>Keçən Fənər Festivalı</item>
+        <item>Keçən Dragon Boat Festivalı</item>
+        <item>Keçən Qixi Festivalı</item>
+        <item>Keçən Orta Payız Festivalı</item>
+    </string-array>
+    <string-array name="chinese_holiday_past_year">
+        <item>"İllər boyu Çin Yeni İl ərəfəsi"</item>
+        <item>İllər boyu Çin Yeni İli</item>
+        <item>İllər boyu Fənər Festivalı</item>
+        <item>İllər boyu Dragon Boat Festivalı</item>
+        <item>İllər boyu Qixi Festivalı</item>
+        <item>İllər boyu Orta Payız Festivalı</item>
+    </string-array>
+    <string-array name="chinese_new_year_eve_title">
+        <item>Xatırlamaq üçün bir gecə</item>
+        <item>Yeni səhifə</item>
+        <item>Atəşfəşanlıq</item>
+    </string-array>
+    <string-array name="chinese_new_year_title">
+        <item>Yeni İliniz Mübarək!</item>
+        <item>Yeni ilin şəfəqi</item>
+    </string-array>
+    <string-array name="chinese_zodiac_year">
+        <item>Meymun ili</item>
+        <item>Xoruz ili</item>
+        <item>İt ili</item>
+        <item>Donuz ili</item>
+        <item>Siçovul ili</item>
+        <item>Öküz ili</item>
+        <item>Pələng ili</item>
+        <item>Dovşan ili</item>
+        <item>Əjdaha ili</item>
+        <item>İlan ili</item>
+        <item>At ili</item>
+        <item>Keçi ili</item>
+    </string-array>
+    <string-array name="city_title">
+        <item>Şəhər mənzərələri</item>
+        <item>Küçələr və künclər</item>
+    </string-array>
+    <string-array name="flowers_title">
+        <item>Zərif yarpaqlar</item>
+        <item>Çiçək açdı</item>
+    </string-array>
+    <string-array name="forest_title">
+        <item>Vəhşi təbiətə</item>
+        <item>Vəhşi və sərbəst</item>
+    </string-array>
+    <string-array name="group_people_title">
+        <item>Görüşlərimiz</item>
+        <item>Dostların şirkətində</item>
+        <item>Uzun müddətdir görmürəm</item>
+    </string-array>
+    <string-array name="holiday_last_year">
+        <item>"Keçən Yeni İl Günü"</item>
+        <item>"Keçən Sevgililər Günü"</item>
+        <item>Keçən Əmək Günü</item>
+        <item>"Keçən Uşaqlar Günü"</item>
+        <item>Keçən Milli Gün</item>
+        <item>Keçən Milad</item>
+    </string-array>
+    <string-array name="holiday_past_year">
+        <item>"İllər boyu Yeni İl Günü"</item>
+        <item>"İllər boyu Sevgililər Günü"</item>
+        <item>İllər boyu Əmək Günü</item>
+        <item>"İllər boyu Uşaqlar Günü"</item>
+        <item>İllər boyu Milli Gün</item>
+        <item>İllər boyu Milad</item>
+    </string-array>
+    <string-array name="important_people_title">
+        <item>Sevimli mövzularınız</item>
+        <item>Qohum ruhlar</item>
+        <item>"Həyatın parlaq anları"</item>
+    </string-array>
+    <string-array name="last_month">
+        <item>Yanvar</item>
+        <item>Fevral</item>
+        <item>Mart</item>
+        <item>Aprel</item>
+        <item>İyun</item>
+        <item>İyul</item>
+        <item>Avqust</item>
+        <item>Sentyabr</item>
+        <item>Oktyabr</item>
+        <item>Noyabr</item>
+        <item>Dekabr</item>
+    </string-array>
+    <string-array name="last_some_day_babies_title">
+        <item>Böyüməklə məşğuldur</item>
+        <item>Daha şirin və daha şirin</item>
+        <item>Kiçik kəşfiyyatçı</item>
+    </string-array>
+    <string-array name="last_some_day_fit_title">
+        <item>İdman gündəliyi</item>
+        <item>Daha güclü və daha güclü</item>
+    </string-array>
+    <string-array name="last_some_day_foods_title">
+        <item>Nuş olsun!</item>
+        <item>Daha bir dişlək?</item>
+        <item>Nuş olsun!</item>
+    </string-array>
+    <string-array name="last_some_day_playground_title">
+        <item>Gülümsə və əl yellə!</item>
+        <item>Oyun vaxtı</item>
+    </string-array>
+    <string-array name="last_some_day_ski_title">
+        <item>Möhtəşəm açıq hava</item>
+        <item>Qarda izlər</item>
+    </string-array>
+    <string-array name="last_some_day_sports_title">
+        <item>Dayandırıla bilməyən</item>
+        <item>Fit qalmaq</item>
+    </string-array>
+    <string-array name="last_some_day_wedding_title">
+        <item>Böyük gün</item>
+        <item>Dəhlizdən aşağı!</item>
+    </string-array>
+    <string-array name="last_week_baby_title">
+        <item>Oyun vaxtıdır</item>
+        <item>"Uşaqların həftəsonu"</item>
+        <item>Kiçik olan</item>
+    </string-array>
+    <string-array name="last_weekend_title">
+        <item>Həftəsonlarım</item>
+        <item>Həyatın parçaları</item>
+        <item>Həftəsonu xatirələri</item>
+    </string-array>
+    <string-array name="last_year_group_people">
+        <item>Yeni dostlar və köhnə dostlar</item>
+        <item>"Keçən ilki görüşlər"</item>
+    </string-array>
+    <string-array name="month">
+        <item>Yanvar</item>
+        <item>Fevral</item>
+        <item>Mart</item>
+        <item>Aprel</item>
+        <item>May</item>
+        <item>İyun</item>
+        <item>İyul</item>
+        <item>Avqust</item>
+        <item>Sentyabr</item>
+        <item>Oktyabr</item>
+        <item>Noyabr</item>
+        <item>Dekabr</item>
+    </string-array>
+    <string-array name="month_last_year">
+        <item>Keçən Yanvar</item>
+        <item>Keçən Fevral</item>
+        <item>Keçən Mart</item>
+        <item>Keçən Aprel</item>
+        <item>Keçən May</item>
+        <item>Keçən İyun</item>
+        <item>Keçən İyul</item>
+        <item>Keçən Avqust</item>
+        <item>Keçən Sentyabr</item>
+        <item>Keçən Oktyabr</item>
+        <item>Keçən Noyabr</item>
+        <item>Keçən Dekabr</item>
+    </string-array>
+    <string-array name="monthly_babies_title">
+        <item>"Böyüdün!"</item>
+        <item>"Yenidən böyüdün!"</item>
+    </string-array>
+    <string-array name="monthly_foods_title">
+        <item>Şəxsi menyum</item>
+        <item>Dadlı xatirələr</item>
+        <item>İkinci kömək, lütfən!</item>
+    </string-array>
+    <string-array name="mountain_title">
+        <item>"Dünyanın ən yaxşı mənzərələri"</item>
+        <item>Dırmaşmağa davam</item>
+    </string-array>
+    <string-array name="multi_floating_package_allow_list">
+        <item>com.miui.securitycenter</item>
+        <item>com.miui.weather2</item>
+        <item>com.android.calendar</item>
+        <item>com.android.contacts</item>
+        <item>com.android.mms</item>
+        <item>com.miui.notes</item>
+        <item>com.android.settings</item>
+        <item>com.miui.gallery</item>
+        <item>com.miui.cloudservice</item>
+        <item>com.android.deskclock</item>
+    </string-array>
+    <string-array name="owner_relation">
+        <item>Ata</item>
+        <item>Ana</item>
+        <item>Ata babası</item>
+        <item>Ata nənəsi</item>
+        <item>Ana babası</item>
+        <item>Ana nənəsi</item>
+    </string-array>
+    <string-array name="parties_title">
+        <item>Birlikdə</item>
+        <item>Yaxşı vaxtlar</item>
+        <item>Birlikdə</item>
+    </string-array>
+    <string-array name="passport_account_user_gender_name">
+        <item>Kişi</item>
+        <item>Qadın</item>
+    </string-array>
+    <string-array name="passport_alphabet_table">
+        <item>\#</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+    <string-array name="people_travel_title">
+        <item>Yol bizi hara aparsa</item>
+        <item>Səyahətlər yaxşı paylaşılır</item>
+    </string-array>
+    <string-array name="quarterly_babies_title">
+        <item>Şən bahar</item>
+        <item>Nəşəli yay</item>
+        <item>Xoşbəxt payız</item>
+        <item>Coşqun qış</item>
+    </string-array>
+    <string-array name="quarterly_foods_title">
+        <item>Bahar yeməkləri</item>
+        <item>Yay təamları</item>
+        <item>Payız şənlikləri</item>
+        <item>Qış təamları</item>
+    </string-array>
+    <string-array name="recent_group_people">
+        <item>Birlikdə</item>
+        <item>Bağlar və əlaqələr</item>
+    </string-array>
+    <string-array name="relation_with_me">
+        <item>Mən</item>
+        <item>Uşaq</item>
+        <item>Ailə</item>
+        <item>İş yoldaşları</item>
+        <item>Sinif yoldaşları</item>
+        <item>Dostlar</item>
+        <item>Qruplaşdırılmamış</item>
+    </string-array>
+    <string-array name="search_voice_assistant_suggestion">
+        <item>Kimlik fotosunu tapmağıma kömək et</item>
+        <item>\"Sanya\"da çəkilmiş fotolara baxmaq istəyirəm</item>
+        <item>Xiaomi mətni olan şəkilləri tap</item>
+        <item>Keçən ilki Bahar Festivalından fotoları axtar</item>
+        <item>Keçən ay gəzintidəki fotoları tap</item>
+    </string-array>
+    <string-array name="season">
+        <item>Yaz</item>
+        <item>Yay</item>
+        <item>Payız</item>
+        <item>Qış</item>
+    </string-array>
+    <string-array name="season_last_year">
+        <item>Keçən yaz</item>
+        <item>Keçən yay</item>
+        <item>Keçən payız</item>
+        <item>Keçən qış</item>
+    </string-array>
+    <string-array name="sharer_relation_addressive">
+        <item>Ata</item>
+        <item>Ana</item>
+        <item>Ata babası</item>
+        <item>Ata nənəsi</item>
+        <item>Ana babası</item>
+        <item>Ana nənəsi</item>
+    </string-array>
+    <string-array name="sports_title">
+        <item>İrəliləyirəm</item>
+        <item>Enerji dolu</item>
+    </string-array>
+    <string-array name="spring_season_title">
+        <item>Baharın çiçəkləri</item>
+        <item>Havada bahar var</item>
+        <item>Salam yaz!</item>
+    </string-array>
+    <string-array name="summer_season_title">
+        <item>Bir az yay</item>
+        <item>Yayın heç bitmədiyi yer</item>
+    </string-array>
+    <string-array name="sunrise_sunset_title">
+        <item>Qızıl saatlar</item>
+        <item>Qızıl şüaları</item>
+    </string-array>
+    <string-array name="three_month_baby_title">
+        <item>Çox tez böyüyürlər</item>
+        <item>"Uşaqların fotoları"</item>
+    </string-array>
+    <string-array name="weekend_title">
+        <item>Keçən həftəsonları</item>
+        <item>Xatırlanacaq günlər</item>
+        <item>Gündəlik tədbirlər</item>
+        <item>Adi və qeyri-adi</item>
+    </string-array>
+    <string-array name="winter_season_title">
+        <item>Qış günləri</item>
+        <item>Qış nağılı</item>
+    </string-array>
+</resources>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_search_earth">
+        <item>Ev</item>
+        <item>Divar kağızı/Super divar kağızları/Ev</item>
+        <item>Dünya;Super divar kağızları;Dünya Versiyası;Divar kağızı</item>
+    </string-array>
+    <string-array name="settings_search_geometry">
+        <item>Həndəsə</item>
+        <item>Divar kağızı/Super divar kağızları/Həndəsə</item>
+        <item>Həndəsə;Abstrakt;Super divar kağızı;Divar kağızı</item>
+    </string-array>
+    <string-array name="settings_search_mars">
+        <item>Qırmızı planet</item>
+        <item>Divar kağızı/Super divar kağızları/Qırmızı planet</item>
+        <item>Mars;Mars Versiyası;Super divar kağızları;Divar kağızı</item>
+    </string-array>
+    <string-array name="settings_search_moon">
+        <item>Ay</item>
+        <item>Divar kağızı/Super divar kağızları/Ay</item>
+        <item>kosmos;Ay;Super divar kağızları;divar kağızı</item>
+    </string-array>
+    <string-array name="settings_search_saturn">
+        <item>Saturnun halqaları</item>
+        <item>Divar kağızı/Super divar kağızları/Saturnun halqaları</item>
+        <item>Saturn;Saturnun halqaları;Super divar kağızı;Divar kağızı</item>
+    </string-array>
+    <string-array name="settings_search_snowmountain">
+        <item>Qarlı zirvələr</item>
+        <item>Divar kağızı/Super divar kağızları/Qarlı zirvələr</item>
+        <item>Qarlı zirvələr;Dağlar;Super divar kağızları;Divar kağızı</item>
+    </string-array>
+    <string-array name="settings_search_superwp">
+        <item>Super divar kağızları</item>
+        <item>Divar kağızı/Super divar kağızları</item>
+        <item>Super divar kağızları;Divar kağızı;Dinamik divar kağızı;3D divar kağızı</item>
+    </string-array>
+    <string-array name="super_wallpaper_list_complete_packages">
+        <item>com.miui.miwallpaper.moon</item>
+        <item>com.miui.miwallpaper.snowdain</item>
+        <item>com.miui.miwallpaper.geometry</item>
+        <item>com.miui.miwallpaper.saturn</item>
+        <item>com.miui.miwallpaper.earth</item>
+        <item>com.miui.miwallpaper.mars</item>
+    </string-array>
+    <string-array name="super_wallpaper_list_packages">
+        <item>com.miui.miwallpaper.moon</item>
+        <item>com.miui.miwallpaper.snowdain</item>
+        <item>com.miui.miwallpaper.geometry</item>
+        <item>com.miui.miwallpaper.saturn</item>
+        <item>com.miui.miwallpaper.earth</item>
+        <item>com.miui.miwallpaper.mars</item>
+    </string-array>
+</resources>

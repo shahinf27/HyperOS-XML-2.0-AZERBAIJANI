@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Əsas ekrana keç</string>
+    <string name="abc_action_bar_up_description">Yuxarı keç</string>
+    <string name="abc_action_menu_overflow_description">Daha çox seçim</string>
+    <string name="abc_action_mode_done">Hazırdır</string>
+    <string name="abc_activity_chooser_view_see_all">Hamısına bax</string>
+    <string name="abc_activitychooserview_choose_application">Bir tətbiq seçin</string>
+    <string name="abc_capital_off">BAĞLI</string>
+    <string name="abc_capital_on">AÇIQ</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Fn+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Axtar…</string>
+    <string name="abc_searchview_description_clear">Sorğunu təmizlə</string>
+    <string name="abc_searchview_description_query">Axtarış sorğusu</string>
+    <string name="abc_searchview_description_search">Axtar</string>
+    <string name="abc_searchview_description_submit">Sorğu göndər</string>
+    <string name="abc_searchview_description_voice">Səsli axtarış</string>
+    <string name="abc_shareactionprovider_share_with">Paylaş</string>
+    <string name="abc_shareactionprovider_share_with_application">%s ilə paylaş</string>
+    <string name="abc_toolbar_collapse_description">Yığcamlaşdır</string>
+    <string name="accessing_notification_title">%1$s dan fayllara müraciət edilir</string>
+    <string name="app_label">MTP Host</string>
+    <string name="call_notification_answer_action">Cavabla</string>
+    <string name="call_notification_answer_video_action">Görüntülü</string>
+    <string name="call_notification_decline_action">Rədd et</string>
+    <string name="call_notification_hang_up_action">Dəstəyi as</string>
+    <string name="call_notification_incoming_text">Gələn zəng</string>
+    <string name="call_notification_ongoing_text">Davam edən zəng</string>
+    <string name="call_notification_screening_text">Gələn bir zəngin filtrlənməsi</string>
+    <string name="downloads_app_label">Endirilənlər</string>
+    <string name="error_busy_device">"Digər cihaz məşğuldur. Əlçatan olana qədər faylları köçürə bilməzsiniz."</string>
+    <string name="error_locked_device">Heç bir fayl tapılmadı. Digər cihaz kilidli ola bilər. Əgər belədirsə, kilidini açıb yenidən sınayın.</string>
+    <string name="search_menu_title">Axtar</string>
+</resources>

@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="one">1 saat əvvəl</item>
+        <item quantity="other">1 saat əvvəl</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="one">%d saat əvvəl</item>
+        <item quantity="other">%d saat əvvəl</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="one">Yarım saat əvvəl</item>
+        <item quantity="other">Yarım saat əvvəl</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="one">%d saat ərzində</item>
+        <item quantity="other">%d saat ərzində</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="one">Yarım saat ərzində</item>
+        <item quantity="other">Yarım saat ərzində</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="one">Dərhal</item>
+        <item quantity="other">Dərhal</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d dəq ərzində</item>
+        <item quantity="one">%d dəq ərzində</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="one">İndicə</item>
+        <item quantity="other">İndicə</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d dəq əvvəl</item>
+        <item quantity="one">%d dəq əvvəl</item>
+    </plurals>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="other">%d gün əvvəl</item>
+        <item quantity="one">%d gün əvvəl</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="other">%d dəq əvvəl</item>
+        <item quantity="one">%d dəq əvvəl</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="other">%d il əvvəl</item>
+        <item quantity="one">%d il əvvəl</item>
+    </plurals>
+    <plurals name="auto_disable_screenbuttons_disabled_header_title">
+        <item quantity="other">%d tətbiq üçün heç vaxt sıradan çıxartma</item>
+        <item quantity="one">%d tətbiq üçün heç vaxt sıradan çıxartma</item>
+    </plurals>
+    <plurals name="auto_disable_screenbuttons_enabled_header_title">
+        <item quantity="other">%d tətbiq üçün həmişə sıradan çıxart</item>
+        <item quantity="one">%d tətbiq üçün həmişə sıradan çıxart</item>
+    </plurals>
+    <plurals name="auto_startup_count">
+        <item quantity="other">%d tətbiqə avto-başlama icazəsi verildi</item>
+        <item quantity="one">%d tətbiqə avto-başlama icazəsi verildi</item>
+    </plurals>
+    <plurals name="bg_network_allow_count">
+        <item quantity="other">%d tətbiq şəbəkəyə bağlana bilir</item>
+        <item quantity="one">%d tətbiq şəbəkəyə bağlana bilir</item>
+    </plurals>
+    <plurals name="bg_network_restrict_count">
+        <item quantity="other">"%d tətbiq şəbəkəyə bağlana bilmir"</item>
+        <item quantity="one">"%d tətbiq şəbəkəyə bağlana bilmir"</item>
+    </plurals>
+    <plurals name="bt_usable_device_title">
+        <item quantity="other">%d mövcud cihaz</item>
+        <item quantity="one">%d mövcud cihaz</item>
+    </plurals>
+    <plurals name="clean_time">
+        <item quantity="other">%d saniyə</item>
+        <item quantity="one">%d saniyə</item>
+    </plurals>
+    <plurals name="color_game_led_freq_entries">
+        <item quantity="other">Hər %d saniyədə</item>
+        <item quantity="one">Hər %d saniyədə</item>
+    </plurals>
+    <plurals name="connected_devices_number">
+        <item quantity="other">%d cihaz</item>
+        <item quantity="one">%d cihaz</item>
+    </plurals>
+    <plurals name="firewall_item_summary">
+        <item quantity="other">%s tətbiq üçün məhdud bağlantı</item>
+        <item quantity="one">%s tətbiq üçün məhdud bağlantı</item>
+    </plurals>
+    <plurals name="fivega_info">
+        <item quantity="other">Dəyişikliklər %d saniyəyə tətbiq olunacaq</item>
+        <item quantity="one">Dəyişikliklər %d saniyəyə tətbiq olunacaq</item>
+    </plurals>
+    <plurals name="free_wifi_connected_count">
+        <item quantity="other">%1$d şəxs bağlantılıdır</item>
+        <item quantity="one">%1$d şəxs bağlantılıdır</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="one">Yarım saat əvvəl</item>
+        <item quantity="other">Yarım saat əvvəl</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="one">1 saat ərzində</item>
+        <item quantity="other">1 saat ərzində</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="one">Yarım saat ərzində</item>
+        <item quantity="other">Yarım saat ərzində</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="one">Dərhal</item>
+        <item quantity="other">Dərhal</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d dəqiqə ərzində</item>
+        <item quantity="one">1 dəqiqə ərzində</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="one">İndicə</item>
+        <item quantity="other">İndicə</item>
+    </plurals>
+    <plurals name="lockpassword_password_too_long">
+        <item quantity="other">%d simvola qədər daxil edə bilərsiniz</item>
+        <item quantity="one">%d simvola qədər daxil edə bilərsiniz</item>
+    </plurals>
+    <plurals name="lockpassword_password_too_short">
+        <item quantity="other">Ən azı %d simvol daxil edin</item>
+        <item quantity="one">Ən azı %d simvol daxil edin</item>
+    </plurals>
+    <plurals name="lockpassword_pin_fixed_length">
+        <item quantity="other">PIN, %d rəqəmli olmalıdır</item>
+        <item quantity="one">PIN, %d rəqəmli olmalıdır</item>
+    </plurals>
+    <plurals name="lockpassword_pin_too_long">
+        <item quantity="other">%d rəqəmə qədər daxil edə bilərsiniz</item>
+        <item quantity="one">%d rəqəmə qədər daxil edə bilərsiniz</item>
+    </plurals>
+    <plurals name="lockpassword_pin_too_short">
+        <item quantity="other">Ən azı %d rəqəm daxil edin</item>
+        <item quantity="one">Ən azı %d rəqəm daxil edin</item>
+    </plurals>
+    <plurals name="lockpattern_recording_incorrect_too_short">
+        <item quantity="other">Ən azı %d nöqtəni birləşdirin. Yenidən sınayın.</item>
+        <item quantity="one">Ən azı %d nöqtəni birləşdirin. Yenidən sınayın.</item>
+    </plurals>
+    <plurals name="lockpattern_too_many_failed_confirmation_attempts">
+        <item quantity="other">Həddindən artıq yanlış cəhd. %d saniyə ərzində yenidən sınayın.</item>
+        <item quantity="one">Həddindən artıq yanlış cəhd. %d saniyə ərzində yenidən sınayın.</item>
+    </plurals>
+    <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
+        <item quantity="other">%d saniyə gözləyib yenidən sınayın.</item>
+        <item quantity="one">%d saniyə gözləyib yenidən sınayın.</item>
+    </plurals>
+    <plurals name="lockscreen_quick_affordances_summary">
+        <item quantity="other">%1$s, %2$s</item>
+        <item quantity="one">%1$s</item>
+    </plurals>
+    <plurals name="max_number_of_processes">
+        <item quantity="other">Ən çox %d proses</item>
+        <item quantity="one">Ən çox %d proses</item>
+    </plurals>
+    <plurals name="miui_sos_emergency_contacts_quantity">
+        <item quantity="other">%d əlavə edildi</item>
+        <item quantity="one">%d əlavə edildi</item>
+    </plurals>
+    <plurals name="miui_wifi_wakeup_summary">
+        <item quantity="other">Cihazınız yaxınlıqdakı saxlanılmış şəbəkələri aşkarlayanda Wi-Fi açılacaq və bağlantı qurulmasa %d dəqiqə sonra bağlanılacaq</item>
+        <item quantity="one">Cihazınız yaxınlıqdakı saxlanılmış şəbəkələri aşkarlayanda Wi-Fi açılacaq və bağlantı qurulmasa %d dəqiqə sonra bağlanılacaq</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d element seçildi</item>
+        <item quantity="one">%d element seçildi</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d yeni bildiriş</item>
+        <item quantity="one">%d yeni bildiriş</item>
+    </plurals>
+    <plurals name="nrca_info">
+        <item quantity="other">Dəyişikliklər %d saniyəyə tətbiq olunacaq</item>
+        <item quantity="one">Dəyişikliklər %d saniyəyə tətbiq olunacaq</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d dəqiqə əvvəl</item>
+        <item quantity="one">1 dəqiqə əvvəl</item>
+    </plurals>
+    <plurals name="saved_network_checked_num">
+        <item quantity="other">%d element seçildi</item>
+        <item quantity="one">%d element seçildi</item>
+    </plurals>
+    <plurals name="show_cit_countdown">
+        <item quantity="other">"Təchizat testlərinə %1$d addım qaldı."</item>
+        <item quantity="one">"Təchizat testlərinə %1$d addım qaldı."</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">"Artıq tərtibatçı olmağınıza %1$d addım qaldı."</item>
+        <item quantity="one">"Artıq tərtibatçı olmağınıza %1$d addım qaldı."</item>
+    </plurals>
+    <plurals name="show_pho_countdown">
+        <item quantity="other">"Cihaz məlumatlarını açmağınıza %1$d addım qaldı."</item>
+        <item quantity="one">"Cihaz məlumatlarını açmağınıza %1$d addım qaldı."</item>
+    </plurals>
+    <plurals name="show_rep_countdown">
+        <item quantity="other">"Xətaların bildirilməsinə %1$d addım qaldı."</item>
+        <item quantity="one">"Xətaların bildirilməsinə %1$d addım qaldı."</item>
+    </plurals>
+    <plurals name="special_access_summary">
+        <item quantity="other">%d tətbiq məhdudiyyətsiz internet istifadə edə bilər</item>
+        <item quantity="one">1 tətbiq məhdudiyyətsiz internet istifadə edə bilər</item>
+    </plurals>
+    <plurals name="status_bar_settings_disabled_header_title">
+        <item quantity="other">"%d tətbiq bildirişləri göstərə bilmir"</item>
+        <item quantity="one">"%d tətbiq bildirişləri göstərə bilmir"</item>
+    </plurals>
+    <plurals name="status_bar_settings_enabled_header_title">
+        <item quantity="other">%d tətbiq bildirişləri göstərə bilir</item>
+        <item quantity="one">%d tətbiq bildirişləri göstərə bilir</item>
+    </plurals>
+    <plurals name="string_after_int_minute">
+        <item quantity="other">%d dəqiqə sonra</item>
+        <item quantity="one">%d dəqiqə sonra</item>
+    </plurals>
+    <plurals name="string_bits_per_sample">
+        <item quantity="other">%d bit/nümunə</item>
+        <item quantity="one">%d bit/nümunə</item>
+    </plurals>
+    <plurals name="string_int">
+        <item quantity="other">%d</item>
+        <item quantity="one">%d</item>
+    </plurals>
+    <plurals name="string_int_hour">
+        <item quantity="other">%d saat</item>
+        <item quantity="one">%d saat</item>
+    </plurals>
+    <plurals name="string_int_minute">
+        <item quantity="other">%d dəqiqə</item>
+        <item quantity="one">%d dəqiqə</item>
+    </plurals>
+    <plurals name="string_int_second">
+        <item quantity="other">%d saniyə</item>
+        <item quantity="one">%d saniyə</item>
+    </plurals>
+    <plurals name="switch_headset_anti_lost_summary">
+        <item quantity="other">Qulaqlıqlarınızdan biri qulağınızdan və ya doldurma qabından %d dəqiqədən artıq uzaqda qalanda bir xəbərdarlıq alın</item>
+        <item quantity="one">Qulaqlıqlarınızdan biri qulağınızdan və ya doldurma qabından %d dəqiqədən artıq uzaqda qalanda bir xəbərdarlıq alın</item>
+    </plurals>
+    <plurals name="usage_state_device_explain_today">
+        <item quantity="other">%d dəfə kilidi açıldı</item>
+        <item quantity="one">%d dəfə kilidi açıldı</item>
+    </plurals>
+    <plurals name="usage_state_device_explain_week">
+        <item quantity="other">%d dəfə kilidi açıldı</item>
+        <item quantity="one">%d dəfə kilidi açıldı</item>
+    </plurals>
+    <plurals name="usage_state_device_noti_explain_today">
+        <item quantity="other">%d bildiriş alındı</item>
+        <item quantity="one">%d bildiriş alındı</item>
+    </plurals>
+    <plurals name="usage_state_device_noti_explain_week">
+        <item quantity="other">%d bildiriş alındı</item>
+        <item quantity="one">%d bildiriş alındı</item>
+    </plurals>
+    <plurals name="usage_state_hour">
+        <item quantity="other">%d saat</item>
+        <item quantity="one">%d saat</item>
+    </plurals>
+    <plurals name="usage_state_hour24">
+        <item quantity="other">%d saat</item>
+        <item quantity="one">%d saat</item>
+    </plurals>
+    <plurals name="usage_state_hour_text">
+        <item quantity="other">" saat"</item>
+        <item quantity="one">" saat"</item>
+    </plurals>
+    <plurals name="usage_state_minute">
+        <item quantity="other">%d dəq</item>
+        <item quantity="one">%d dəq</item>
+    </plurals>
+    <plurals name="usage_state_miunte_text">
+        <item quantity="other">" dəq"</item>
+        <item quantity="one">" dəq"</item>
+    </plurals>
+    <plurals name="usage_state_noti_count">
+        <item quantity="other">%d bildiriş</item>
+        <item quantity="one">%d bildiriş</item>
+    </plurals>
+    <plurals name="usage_state_unlock_count">
+        <item quantity="other">%d dəfə</item>
+        <item quantity="one">%d dəfə</item>
+    </plurals>
+    <plurals name="usage_state_week_day_hour">
+        <item quantity="other">Həftə sonları: %d saat</item>
+        <item quantity="one">Həftə sonları: %d saat</item>
+    </plurals>
+    <plurals name="usage_state_week_day_minute">
+        <item quantity="other">Həftə sonları: %d dəqiqə</item>
+        <item quantity="one">Həftə sonları: %d dəqiqə</item>
+    </plurals>
+    <plurals name="usage_state_work_day_hour">
+        <item quantity="other">Həftə içi: %d saat</item>
+        <item quantity="one">Həftə içi: %d saat</item>
+    </plurals>
+    <plurals name="usage_state_work_day_minute">
+        <item quantity="other">Həftə içi: %d dəqiqə</item>
+        <item quantity="one">Həftə içi: %d dəqiqə</item>
+    </plurals>
+    <plurals name="usagestats_device_notification_des_hour">
+        <item quantity="other">" saat"</item>
+        <item quantity="one">" saat"</item>
+    </plurals>
+    <plurals name="usagestats_device_notification_des_min">
+        <item quantity="other">" dəq"</item>
+        <item quantity="one">" dəq"</item>
+    </plurals>
+    <plurals name="virus_scan_app_find_risk">
+        <item quantity="other">%d risk tapıldı</item>
+        <item quantity="one">%d risk tapıldı</item>
+    </plurals>
+    <plurals name="wifi_share_count">
+        <item quantity="other">%d paylaşılan şəbəkə</item>
+        <item quantity="one">%d paylaşılan şəbəkə</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d cihaz bağlantılıdır</item>
+        <item quantity="one">%1$d cihaz bağlantılıdır</item>
+    </plurals>
+</resources>

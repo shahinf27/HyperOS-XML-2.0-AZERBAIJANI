@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Kontakt Saxlama</string>
+    <string name="call_log_provider_label">Zəng tarixçəsi</string>
+    <string name="debug_dump_database_message">1) Kontaktlarınızla bağlı bütün əlaqə məlumatlarını və bütün zəng jurnalını ehtiva edən data bazanızı daxili anbara kopyalamaq və 2) e-poçt göndərmək üzrəsiniz. Cihazdan uğurla kopyaladıqda və ya e-poçt aldıqda, kopyasını silməyi unutmayın.</string>
+    <string name="debug_dump_delete_button">İndi sil</string>
+    <string name="debug_dump_email_body">Qoşmada, bütün kontakt məlumatlarımı ehtiva edən kontaktlarımın data bazası mövcuddur. Diqqətlə istifadə edin.</string>
+    <string name="debug_dump_email_sender_picker">Fayllarınızı göndərmək üçün proqram seçin</string>
+    <string name="debug_dump_email_subject">Kontaktlar Db əlavə edildi</string>
+    <string name="debug_dump_start_button">Başlat</string>
+    <string name="debug_dump_title">Kontaktlar data bazasını kopyala</string>
+    <string name="default_directory">Kontaktlar</string>
+    <string name="local_invisible_directory">Digər</string>
+    <string name="low_memory_toast">"Aşağı yaddaşa görə istifadəyə davam edilə bilmir."</string>
+    <string name="pound_search_tip">Kontaktları axtarmaq üçün #-dan sonra bir nömrə daxil edin</string>
+    <string name="provider_label">Kontaktlar</string>
+    <string name="sharedUserLabel">Android Nüvə Tətbiqləri</string>
+    <string name="sim_state_changed">SIM kart dəyişdirildi</string>
+    <string name="update_accounts_changed">Hesablar dəyişdirildi</string>
+    <string name="upgrade_out_of_memory_notification_text">Güncəlləməni tamamlamaq üçün toxunun.</string>
+    <string name="upgrade_out_of_memory_notification_ticker">Güncəlləmə, daha çox yaddaş tələb edir.</string>
+    <string name="upgrade_out_of_memory_notification_title">Kontaktları yükləmək üçün yaddaşı artırın</string>
+    <string name="voicemail_cleanup">Səsli poçtu təmizlə</string>
+    <string name="voicemail_from_column">"Səsli poçt göndərən "</string>
+</resources>

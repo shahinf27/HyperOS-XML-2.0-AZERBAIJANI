@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_frequent_phrases">Çox işlədilən ifadə əlavə et</string>
+    <string name="call">Zəng</string>
+    <string name="call_notification_answer_action">Cavabla</string>
+    <string name="call_notification_answer_video_action">Görüntülü</string>
+    <string name="call_notification_decline_action">Rədd et</string>
+    <string name="call_notification_hang_up_action">Dəstəyi as</string>
+    <string name="call_notification_incoming_text">Gələn zəng</string>
+    <string name="call_notification_ongoing_text">Davam edən zəng</string>
+    <string name="call_notification_screening_text">Gələn bir zəngin filtrlənməsi</string>
+    <string name="edit_frequent_phrases">Çox işlədilən ifadələrə düzəliş et</string>
+    <string name="floating_toolbar_close_overflow_description">Daşmanı bağla</string>
+    <string name="floating_toolbar_menu_item_text_tag">floating_toolbar_menu_item_text</string>
+    <string name="floating_toolbar_open_overflow_description">Daha çox seçim</string>
+    <string name="frequent_phrases">Çox işlədilən ifadələr</string>
+    <string name="google_call">Zəng</string>
+    <string name="google_email">E-poçt</string>
+    <string name="google_map">Xəritə</string>
+    <string name="google_open">Aç</string>
+    <string name="google_translate">Tərcümə et</string>
+    <string name="open">Nəzər yetir</string>
+    <string name="query">Sorğu</string>
+    <string name="select">Seç</string>
+    <string name="translate">Tərcümə et</string>
+    <string name="translation_more">Daha çox</string>
+    <string name="translation_query_error">"Nəticə tapıla bilmədi"</string>
+    <string name="translation_query_error_network">"Məlumat alına bilmədi, şəbəkə bağlantısını yoxlayıb yenidən sınayın"</string>
+</resources>

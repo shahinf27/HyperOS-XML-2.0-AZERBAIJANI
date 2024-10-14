@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="other">%d gün əvvəl</item>
+        <item quantity="one">%d gün əvvəl</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="other">%d dəq əvvəl</item>
+        <item quantity="one">%d dəq əvvəl</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="other">%d il əvvəl</item>
+        <item quantity="one">%d il əvvəl</item>
+    </plurals>
+    <plurals name="atmospheric_pressure_desc">
+        <item quantity="other">Atmosfer təzyiqi: %s hektopaskal</item>
+        <item quantity="one">Atmosfer təzyiqi: %s hektopaskal</item>
+    </plurals>
+    <plurals name="health_chart_calories_burned_schedule_format_desc">
+        <item quantity="other">%1$s kalori yandırıldı</item>
+        <item quantity="one">%1$s kalori yandırıldı</item>
+    </plurals>
+    <plurals name="health_chart_calories_goal_schedule_format_desc">
+        <item quantity="other">Kalori hədəfi: %1$s kalori</item>
+        <item quantity="one">Kalori hədəfi: %1$s kalori</item>
+    </plurals>
+    <plurals name="health_chart_calories_schedule_format">
+        <item quantity="other">%1$s/%2$s kkal</item>
+        <item quantity="one">%1$s/%2$s kkal</item>
+    </plurals>
+    <plurals name="health_chart_sport_time_current_schedule_format_desc">
+        <item quantity="other">Fəaliyyət vaxtı: %1$s dəqiqə</item>
+        <item quantity="one">Fəaliyyət vaxtı: %1$s dəqiqə</item>
+    </plurals>
+    <plurals name="health_chart_sport_time_goal_schedule_format_desc">
+        <item quantity="other">Fəaliyyət hədəfi: %1$s dəqiqə</item>
+        <item quantity="one">Fəaliyyət hədəfi: %1$s dəqiqə</item>
+    </plurals>
+    <plurals name="health_chart_sport_time_schedule_format">
+        <item quantity="other">%1$s/%2$s dəq</item>
+        <item quantity="one">%1$s/%2$s dəq</item>
+    </plurals>
+    <plurals name="health_chart_stand_count_schedule_format_desc">
+        <item quantity="other">%1$s saat ərzində ayaqda durdu</item>
+        <item quantity="one">%1$s saat ərzində ayaqda durdu</item>
+    </plurals>
+    <plurals name="health_chart_stand_goal_schedule_format_desc">
+        <item quantity="other">Ayaqda durma hədəfi: %1$s saat</item>
+        <item quantity="one">Ayaqda durma hədəfi: %1$s saat</item>
+    </plurals>
+    <plurals name="health_chart_stand_schedule_format">
+        <item quantity="other">%1$s/%2$s saat</item>
+        <item quantity="one">%1$s/%2$s saat</item>
+    </plurals>
+    <plurals name="health_chart_step_count_current_schedule_format_desc">
+        <item quantity="other">Hazırkı addım sayı: %1$s addım</item>
+        <item quantity="one">Hazırkı addım sayı: %1$s addım</item>
+    </plurals>
+    <plurals name="health_chart_step_count_goal_schedule_format_desc">
+        <item quantity="other">Addım hədəfi: %1$s addım</item>
+        <item quantity="one">Addım hədəfi: %1$s addım</item>
+    </plurals>
+    <plurals name="health_chart_step_count_schedule_format">
+        <item quantity="other">%1$s/%2$s addım</item>
+        <item quantity="one">%1$s/%2$s addım</item>
+    </plurals>
+    <plurals name="input_pattern_after_timeout_msg">
+        <item quantity="other">Həmişə xatırlamaq üçün parolunuzu ən azı %d saatda bir dəfə daxil edin</item>
+        <item quantity="one">Həmişə xatırlamaq üçün parolunuzu ən azı %d saatda bir dəfə daxil edin</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d yeni bildiriş</item>
+        <item quantity="one">%d yeni bildiriş</item>
+    </plurals>
+    <plurals name="phone_locked_timeout_minutes_string">
+        <item quantity="other">%d dəqiqə ərzində yenidən sınayın</item>
+        <item quantity="one">%d dəqiqə ərzində yenidən sınayın</item>
+    </plurals>
+    <plurals name="phone_locked_timeout_seconds_string">
+        <item quantity="other">%d saniyə ərzində yenidən sınayın</item>
+        <item quantity="one">%d saniyə ərzində yenidən sınayın</item>
+    </plurals>
+    <plurals name="weather_temperature_desc">
+        <item quantity="other">Temperatur: %1$s dərəcə, %2$s</item>
+        <item quantity="one">Temperatur: %1$s dərəcə, %2$s</item>
+    </plurals>
+</resources>

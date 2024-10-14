@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="one">1 saat əvvəl</item>
+        <item quantity="other">1 saat əvvəl</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="one">%d saat əvvəl</item>
+        <item quantity="other">%d saat əvvəl</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="one">Yarım saat əvvəl</item>
+        <item quantity="other">Yarım saat əvvəl</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="one">%d saat ərzində</item>
+        <item quantity="other">%d saat ərzində</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="one">Yarım saat ərzində</item>
+        <item quantity="other">Yarım saat ərzində</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="one">Dərhal</item>
+        <item quantity="other">Dərhal</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d dəq ərzində</item>
+        <item quantity="one">%d dəq ərzində</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="one">İndicə</item>
+        <item quantity="other">İndicə</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d dəq əvvəl</item>
+        <item quantity="one">%d dəq əvvəl</item>
+    </plurals>
+    <plurals name="article_num">
+        <item quantity="other">%d məqalə</item>
+        <item quantity="one">%d məqalə</item>
+    </plurals>
+    <plurals name="feed_article_entrance_title">
+        <item quantity="other">Sizə tövsiyə olunan %s məqaləyə baxın</item>
+        <item quantity="one">Sizə tövsiyə olunan %s məqaləyə baxın</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="one">Yarım saat əvvəl</item>
+        <item quantity="other">Yarım saat əvvəl</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="one">1 saat ərzində</item>
+        <item quantity="other">1 saat ərzində</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="one">Yarım saat ərzində</item>
+        <item quantity="other">Yarım saat ərzində</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="one">Dərhal</item>
+        <item quantity="other">Dərhal</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d dəqiqə ərzində</item>
+        <item quantity="one">1 dəqiqə ərzində</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="one">İndicə</item>
+        <item quantity="other">İndicə</item>
+    </plurals>
+    <plurals name="llks_tools_remote_control_data">
+        <item quantity="other">%s element</item>
+        <item quantity="one">%s element</item>
+    </plurals>
+    <plurals name="llks_tools_smart_devices_data">
+        <item quantity="other">%s cihaz</item>
+        <item quantity="one">%s cihaz</item>
+    </plurals>
+    <plurals name="lockscreen_magazine_subscribe">
+        <item quantity="other">%1$s nəfər abunə oldu</item>
+        <item quantity="one">%1$s nəfər abunə oldu</item>
+    </plurals>
+    <plurals name="lockscreen_magazine_system_subscribe">
+        <item quantity="other">%1$s divar kağızı</item>
+        <item quantity="one">%1$s divar kağızı</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d element seçildi</item>
+        <item quantity="one">%d element seçildi</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d yeni bildiriş</item>
+        <item quantity="one">%d yeni bildiriş</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d dəqiqə əvvəl</item>
+        <item quantity="one">1 dəqiqə əvvəl</item>
+    </plurals>
+    <plurals name="photo_count">
+        <item quantity="other">%s foto</item>
+        <item quantity="one">%s foto</item>
+    </plurals>
+    <plurals name="time_day_ago">
+        <item quantity="other">%d gün əvvəl</item>
+        <item quantity="one">%d gün əvvəl</item>
+    </plurals>
+    <plurals name="time_hour_ago">
+        <item quantity="other">%d saat əvvəl</item>
+        <item quantity="one">%d saat əvvəl</item>
+    </plurals>
+    <plurals name="time_minute_ago">
+        <item quantity="other">%d dəq əvvəl</item>
+        <item quantity="one">%d dəq əvvəl</item>
+    </plurals>
+    <plurals name="wm_cw_count">
+        <item quantity="other">%d şəkil</item>
+        <item quantity="one">%d şəkil</item>
+    </plurals>
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="attachment_chooser">
+        <item>Kamera</item>
+        <item>Qalereya</item>
+    </string-array>
+    <string-array name="contact_entries">
+        <item>Ad</item>
+        <item>Ləqəb</item>
+        <item>Telefon</item>
+        <item>E-poçt</item>
+        <item>Şirkət</item>
+        <item>IM</item>
+        <item>SIP Telefon</item>
+        <item>Doğum günü</item>
+        <item>Veb sayt</item>
+        <item>Ünvan</item>
+        <item>Qeyd</item>
+    </string-array>
+    <string-array name="font_size_names">
+        <item>Kiçik</item>
+        <item>Orta</item>
+        <item>Böyük</item>
+        <item>Çox böyük</item>
+    </string-array>
+    <string-array name="note_sort_way">
+        <item>Yaradılma tarixinə görə</item>
+        <item>Dəyişdirilmə tarixinə görə</item>
+    </string-array>
+</resources>

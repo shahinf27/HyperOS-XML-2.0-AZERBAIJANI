@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="one">1 saat əvvəl</item>
+        <item quantity="other">1 saat əvvəl</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="one">%d saat əvvəl</item>
+        <item quantity="other">%d saat əvvəl</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="one">Yarım saat əvvəl</item>
+        <item quantity="other">Yarım saat əvvəl</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="one">%d saat ərzində</item>
+        <item quantity="other">%d saat ərzində</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="one">Yarım saat ərzində</item>
+        <item quantity="other">Yarım saat ərzində</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="one">Dərhal</item>
+        <item quantity="other">Dərhal</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d dəq ərzində</item>
+        <item quantity="one">%d dəq ərzində</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="one">İndicə</item>
+        <item quantity="other">İndicə</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d dəq əvvəl</item>
+        <item quantity="one">%d dəq əvvəl</item>
+    </plurals>
+    <plurals name="car_map_hour">
+        <item quantity="other">%d sa</item>
+        <item quantity="one">%d sa</item>
+    </plurals>
+    <plurals name="car_map_kilometre">
+        <item quantity="other">%d km</item>
+        <item quantity="one">%d km</item>
+    </plurals>
+    <plurals name="car_map_kilometre_decimal">
+        <item quantity="other">%.1f km</item>
+        <item quantity="one">%.1f km</item>
+    </plurals>
+    <plurals name="car_map_meter">
+        <item quantity="other">%d m</item>
+        <item quantity="one">%d m</item>
+    </plurals>
+    <plurals name="car_map_minute">
+        <item quantity="other">%d dəq</item>
+        <item quantity="one">%d dəq</item>
+    </plurals>
+    <plurals name="circulate_audio_group_subtitle_format">
+        <item quantity="other">%1$d cihaz</item>
+        <item quantity="one">%1$d cihaz</item>
+    </plurals>
+    <plurals name="circulate_audio_group_title_format">
+        <item quantity="other">%1$d cihaz</item>
+        <item quantity="one">%1$d cihaz</item>
+    </plurals>
+    <plurals name="controller_auth_count_down">
+        <item quantity="other">%1$s kodunu daxil edin (%2$d san)</item>
+        <item quantity="one">%1$s kodunu daxil edin (%2$d san)</item>
+    </plurals>
+    <plurals name="habit_executed_number_day">
+        <item quantity="other">%1$d gün əvvəl istifadə edildi</item>
+        <item quantity="one">%1$d gün əvvəl istifadə edildi</item>
+    </plurals>
+    <plurals name="habit_remembered_number_day">
+        <item quantity="other">%1$d gün əvvəl xatırlandı</item>
+        <item quantity="one">%1$d gün əvvəl xatırlandı</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="one">Yarım saat əvvəl</item>
+        <item quantity="other">Yarım saat əvvəl</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="one">1 saat ərzində</item>
+        <item quantity="other">1 saat ərzində</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="one">Yarım saat ərzində</item>
+        <item quantity="other">Yarım saat ərzində</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="one">Dərhal</item>
+        <item quantity="other">Dərhal</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d dəqiqə ərzində</item>
+        <item quantity="one">1 dəqiqə ərzində</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="one">İndicə</item>
+        <item quantity="other">İndicə</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d element seçildi</item>
+        <item quantity="one">%d element seçildi</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d yeni bildiriş</item>
+        <item quantity="one">%d yeni bildiriş</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d dəqiqə əvvəl</item>
+        <item quantity="one">1 dəqiqə əvvəl</item>
+    </plurals>
+    <plurals name="remember_number_habit">
+        <item quantity="other">%1$d model xatırlandı</item>
+        <item quantity="one">%1$d model xatırlandı</item>
+    </plurals>
+    <plurals name="remembered_number_habit">
+        <item quantity="other">%1$d naxış əlavə edildi</item>
+        <item quantity="one">%1$d naxış əlavə edildi</item>
+    </plurals>
+    <plurals name="un_remember_number_habit">
+        <item quantity="other">%1$d naxış gözləyir</item>
+        <item quantity="one">%1$d naxış gözləyir</item>
+    </plurals>
+</resources>

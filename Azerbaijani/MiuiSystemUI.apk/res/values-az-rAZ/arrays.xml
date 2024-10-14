@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="activity_dot_black_list"></array>
+    <string-array name="alphabet_table">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="battery_options">
+        <item>Faizi həmişə göstər</item>
+        <item>Doldurarkən faizi göstər (ilkin)</item>
+        <item>"Bu ikonu göstərmə"</item>
+    </string-array>
+    <string-array name="bluetooth_audio_active_device_summaries">
+        <item></item>
+        <item>, aktiv</item>
+        <item>, aktiv (media)</item>
+        <item>, aktiv (telefon)</item>
+    </string-array>
+    <array name="bottom_caption_insets_black_list"></array>
+    <string-array name="clock_options">
+        <item>Saat, dəqiqə və saniyəni göstər</item>
+        <item>Saat və dəqiqəni göstər (ilkin)</item>
+        <item>"Bu ikonu göstərmə"</item>
+    </string-array>
+    <string-array name="config_xmsfNotificationChannel">
+        <item>84</item>
+        <item>61</item>
+        <item>72</item>
+        <item>213</item>
+        <item>102</item>
+        <item>233</item>
+        <item>54</item>
+        <item>96</item>
+        <item>VoIP</item>
+        <item>Xatırladıcı</item>
+        <item>FloatAndKeyguard</item>
+    </string-array>
+    <string-array name="nav_bar_buttons">
+        <item>Lövhə</item>
+        <item>Açar kodu</item>
+        <item>Döndərməni təsdiqlə, klaviatura dəyişdirici</item>
+        <item>Heç nə</item>
+    </string-array>
+    <string-array name="nav_bar_layouts">
+        <item>Normal</item>
+        <item>Yığcam</item>
+        <item>Sola əyilmiş</item>
+        <item>Sağa əyilmiş</item>
+    </string-array>
+    <string-array name="tile_states_airplane">
+        <item>Əlçatmazdır</item>
+        <item>Bağlı</item>
+        <item>Açıq</item>
+    </string-array>
+    <string-array name="tile_states_alarm">
+        <item>Əlçatmazdır</item>
+        <item>Bağlı</item>
+        <item>Açıq</item>
+    </string-array>
+    <string-array name="tile_states_battery">
+        <item>Əlçatmazdır</item>
+        <item>Bağlı</item>
+        <item>Açıq</item>
+    </string-array>
+    <string-array name="tile_states_bt">
+        <item>Əlçatmazdır</item>
+        <item>Bağlı</item>
+        <item>Açıq</item>
+    </string-array>
+    <string-array name="tile_states_cameratoggle">
+        <item>Əlçatmazdır</item>
+        <item>Bağlı</item>
+        <item>Açıq</item>
+    </string-array>
+    <string-array name="tile_states_cast">
+        <item>Əlçatmazdır</item>
+        <item>Bağlı</item>
+        <item>Açıq</item>
+    </string-array>
+    <string-array name="tile_states_cell">
+        <item>Əlçatmazdır</item>
+        <item>Bağlı</item>
+        <item>Açıq</item>
+    </string-array>
+    <string-array name="tile_states_color_correction">
+        <item>Əlçatmazdır</item>
+        <item>Bağlı</item>
+        <item>Açıq</item>
+    </string-array>
+    <string-array name="tile_states_controls">
+        <item>Əlçatmazdır</item>
+        <item>Bağlı</item>
+        <item>Açıq</item>
+    </string-array>
+    <string-array name="tile_states_dark">
+        <item>Əlçatmazdır</item>
+        <item>Bağlı</item>
+        <item>Açıq</item>
+    </string-array>
+    <string-array name="tile_states_dnd">
+        <item>Əlçatmazdır</item>
+        <item>Bağlı</item>
+        <item>Açıq</item>
+    </string-array>
+    <string-array name="tile_states_dream">
+        <item>Əlçatmazdır</item>
+        <item>Bağlı</item>
+        <item>Açıq</item>
+    </string-array>
+    <string-array name="tile_states_flashlight">
+        <item>Əlçatmazdır</item>
+        <item>Bağlı</item>
+        <item>Açıq</item>
+    </string-array>
+    <string-array name="tile_states_font_scaling">
+        <item>Əlçatmazdır</item>
+        <item>Bağla</item>
+        <item>Açıq</item>
+    </string-array>
+    <string-array name="tile_states_hotspot">
+        <item>Əlçatmazdır</item>
+        <item>Bağlı</item>
+        <item>Açıq</item>
+    </string-array>
+    <string-array name="tile_states_internet">
+        <item>Əlçatmazdır</item>
+        <item>Bağlı</item>
+        <item>Açıq</item>
+    </string-array>
+    <string-array name="tile_states_inversion">
+        <item>Əlçatmazdır</item>
+        <item>Bağlı</item>
+        <item>Açıq</item>
+    </string-array>
+    <string-array name="tile_states_location">
+        <item>Əlçatmazdır</item>
+        <item>Bağlı</item>
+        <item>Açıq</item>
+    </string-array>
+    <string-array name="tile_states_mictoggle">
+        <item>Əlçatmazdır</item>
+        <item>Bağlı</item>
+        <item>Açıq</item>
+    </string-array>
+    <string-array name="tile_states_night">
+        <item>Əlçatmazdır</item>
+        <item>Bağlı</item>
+        <item>Açıq</item>
+    </string-array>
+    <string-array name="tile_states_onehanded">
+        <item>Əlçatmazdır</item>
+        <item>Bağlı</item>
+        <item>Açıq</item>
+    </string-array>
+    <string-array name="tile_states_qr_code_scanner">
+        <item>Əlçatmazdır</item>
+        <item>Bağlı</item>
+        <item>Açıq</item>
+    </string-array>
+    <string-array name="tile_states_reduce_brightness">
+        <item>Əlçatmazdır</item>
+        <item>Bağlı</item>
+        <item>Açıq</item>
+    </string-array>
+    <string-array name="tile_states_reverse">
+        <item>Əlçatmazdır</item>
+        <item>Bağlı</item>
+        <item>Açıq</item>
+    </string-array>
+    <string-array name="tile_states_rotation">
+        <item>Əlçatmazdır</item>
+        <item>Bağlı</item>
+        <item>Açıq</item>
+    </string-array>
+    <string-array name="tile_states_saver">
+        <item>Əlçatmazdır</item>
+        <item>Bağlı</item>
+        <item>Açıq</item>
+    </string-array>
+    <string-array name="tile_states_screenrecord">
+        <item>Əlçatmazdır</item>
+        <item>Bağlı</item>
+        <item>Açıq</item>
+    </string-array>
+    <string-array name="tile_states_wallet">
+        <item>Əlçatmazdır</item>
+        <item>Bağlı</item>
+        <item>Açıq</item>
+    </string-array>
+    <string-array name="tile_states_wifi">
+        <item>Əlçatmazdır</item>
+        <item>Bağlı</item>
+        <item>Açıq</item>
+    </string-array>
+    <string-array name="tile_states_work">
+        <item>Əlçatmazdır</item>
+        <item>Bağlı</item>
+        <item>Açıq</item>
+    </string-array>
+    <string-array name="udfps_accessibility_touch_hints">
+        <item>Sola daşı</item>
+        <item>Aşağı daşı</item>
+        <item>Sağa daşı</item>
+        <item>Yuxarı daşı</item>
+    </string-array>
+    <string-array name="wifitrackerlib_wifi_status">
+        <item>Skan edilir…</item>
+        <item>Bağlantı qurulur…</item>
+        <item>Kimlik doğrulanır…</item>
+        <item>IP ünvanı alınır…</item>
+        <item>Bağlantılıdır</item>
+        <item>Dayandırılıb</item>
+        <item>Bağlantı kəsilir…</item>
+        <item>Bağlantı kəsildi</item>
+        <item>Uğursuz</item>
+        <item>Əngəlləndi</item>
+        <item>Zəif bağlantıdan müvəqqəti qaçılır</item>
+    </string-array>
+</resources>

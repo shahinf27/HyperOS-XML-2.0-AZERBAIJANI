@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Ayarlar</string>
+    <string name="app_name">Addım provayderi</string>
+    <string name="end_title">Oyun bitdi</string>
+    <string name="hello_world">Salam dünya!</string>
+    <string name="joyose_name">Joyose</string>
+    <string name="not_resurge_title">Yenidən başla</string>
+    <string name="resurged_content">Getdik!</string>
+    <string name="resurged_title">Yenidən başlandı</string>
+</resources>

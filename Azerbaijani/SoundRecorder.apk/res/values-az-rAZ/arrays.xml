@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>Kişi</item>
+        <item>Qadın</item>
+    </string-array>
+    <string-array name="alphabet_sub_table_with_starred">
+        <item>!</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table">
+        <item>\#</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+	<string-array name="global_recognize_language_list">
+        <item>Azərbaycan dili</item>
+        <item>Malay dili</item>
+        <item>Çex dili</item>
+        <item>Alman dili</item>
+        <item>İngilis dili</item>
+        <item>İspan dili</item>
+        <item>Fransız dili</item>
+        <item>İndoneziya dili</item>
+        <item>İtalyan dili</item>
+        <item>Niderland dili</item>
+        <item>Özbək dili</item>
+        <item>Polyak dili</item>
+        <item>Portuqal dili</item>
+        <item>Rumın dili</item>
+        <item>Slovak dili</item>
+        <item>Vyetnam dili</item>
+        <item>Türk dili</item>
+        <item>Yunan dili</item>
+        <item>Qazax dili</item>
+        <item>Rus dili</item>
+        <item>Ərəb dili</item>
+        <item>Hind dili</item>
+        <item>Tay dili</item>
+        <item>Birman dili</item>
+        <item>Koreya dili</item>
+        <item>Yapon dili</item>
+        <item>Çin dili (Mandarin dili)</item>
+        <item>Çin dili (Kanton dili)</item>
+        <item>Filippin dili</item>
+    </string-array>
+    <string-array name="hd_record_scenes_entries">
+        <item>Musiqi</item>
+        <item>Səs</item>
+        <item>Müsahibə</item>
+        <item>HD</item>
+    </string-array>
+    <string-array name="interview_record_scenes_entries">
+        <item>Musiqi</item>
+        <item>Səs</item>
+        <item>Müsahibə</item>
+    </string-array>
+    <string-array name="multi_floating_package_allow_list">
+        <item>com.miui.securitycenter</item>
+        <item>com.miui.weather2</item>
+        <item>com.android.calendar</item>
+        <item>com.android.contacts</item>
+        <item>com.android.mms</item>
+        <item>com.miui.notes</item>
+        <item>com.android.settings</item>
+        <item>com.miui.gallery</item>
+        <item>com.miui.cloudservice</item>
+        <item>com.android.deskclock</item>
+    </string-array>
+	<string-array name="recognition_language_list">
+        <item>Çincə</item>
+        <item>İngiliscə</item>
+        <item>Almanca</item>
+        <item>Rusca</item>
+        <item>Fransızca</item>
+        <item>Koreya dili</item>
+        <item>Portuqalca</item>
+        <item>Yapon dili</item>
+        <item>İspanca</item>
+        <item>İtalyan dili</item>
+        <item>Hind dili</item>
+        <item>İndoneziya dili</item>
+    </string-array>
+    <string-array name="record_format_entries">
+        <item>M4A</item>
+        <item>MP3</item>
+        <item>WAV</item>
+    </string-array>
+    <string-array name="record_format_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="record_quality_entries">
+        <item>Yüksək</item>
+        <item>Standard</item>
+        <item>Zəif</item>
+    </string-array>
+    <string-array name="record_quality_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="record_scenes_entries">
+        <item>Musiqi</item>
+        <item>Səs</item>
+    </string-array>
+    <string-array name="record_scenes_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+	<string-array name="share_category">
+        <item>Səsi paylaş</item>
+        <item>Mətni paylaş</item>
+    </string-array>
+</resources>

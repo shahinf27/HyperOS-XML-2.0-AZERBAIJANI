@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wfd Xidməti</string>
+    <string name="channel_name">WFD Xidməti</string>
+    <string name="notif_text">\"Ekranı əks etdir\" açıqdır</string>
+    <string name="notif_title">Naqilsiz Ekran</string>
+    <string name="perm_desc">Qualcomm Wi-Fi Display Stack API-lərinə müraciət et</string>
+    <string name="perm_label">QC Wi-Fi Ekran Yığını</string>
+</resources>

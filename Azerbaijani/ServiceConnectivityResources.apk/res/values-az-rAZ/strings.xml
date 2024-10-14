@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="config_ethernet_iface_regex">eth\\d</string>
+    <string name="config_ethernet_tcp_buffers">524288,1048576,3145728,524288,1048576,2097152</string>
+    <string name="config_networkCaptivePortalServerUrl"></string>
+    <string name="connectivityResourcesAppLabel">Sistem Bağlantı Resursları</string>
+    <string name="mobile_no_internet">Mobil şəbəkənin internetə müraciəti yoxdur</string>
+    <string name="network_available_sign_in">Şəbəkəyə daxil ol</string>
+    <string name="network_available_sign_in_detailed">%1$s</string>
+    <string name="network_partial_connectivity">%1$s, limitli bağlantıya sahibdir</string>
+    <string name="network_partial_connectivity_detailed">Yenə də bağlantı qurmaq üçün toxunun</string>
+    <string name="network_switch_metered">Dəyişdirildi: %1$s</string>
+    <string name="network_switch_metered_detail">Cihaz, %2$s şəbəkəsinin internetə müraciəti olmadıqda %1$s istifadə edir. Ödəniş tətbiq oluna bilər.</string>
+    <string name="network_switch_metered_toast">Dəyişdirildi: %1$s > %2$s</string>
+    <string name="network_switch_type_name_unknown">bilinməyən şəbəkə növü</string>
+    <string name="other_networks_no_internet">Şəbəkənin internetə müraciəti yoxdur</string>
+    <string name="private_dns_broken_detailed">Şəxsi DNS serverinə müraciət edilə bilmir</string>
+    <string name="wifi_available_sign_in">Wi-Fi şəbəkəsinə daxil ol</string>
+    <string name="wifi_no_internet">%1$s - internetə müraciəti yoxdur</string>
+    <string name="wifi_no_internet_detailed">Seçimlər üçün toxunun</string>
+</resources>

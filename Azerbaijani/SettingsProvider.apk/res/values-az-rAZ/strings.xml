@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Ayarlar Anbarı</string>
+    <string name="def_ntp_server_2">persist.vendor.ntp.svr_2</string>
+    <string name="def_wearable_androidWearVersion">2</string>
+    <string name="def_wearable_leSystemCapabilities">1</string>
+    <string name="def_wearable_systemCapabilities">3</string>
+    <string name="wifi_softap_config_change">Hotspot ayarları dəyişdirildi</string>
+    <string name="wifi_softap_config_change_summary">Detallara baxmaq üçün toxunun</string>
+</resources>

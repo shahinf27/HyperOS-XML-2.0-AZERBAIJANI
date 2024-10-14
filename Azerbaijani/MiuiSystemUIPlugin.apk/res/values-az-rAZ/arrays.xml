@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alphabet_sub_table_with_starred">
+        <item>!</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="card_style_tiles_mobile">
+        <item>wifi</item>
+        <item>cell</item>
+    </string-array>
+    <string-array name="card_style_tiles_wifi">
+        <item>wifi</item>
+        <item>bt</item>
+    </string-array>
+    <string-array name="config_canShowCustomFocusPackages">
+        <item>com.android.incallui</item>
+        <item>com.miui.personalassistant</item>
+    </string-array>
+    <string-array name="config_canShowFocusPackages">
+        <item>com.autonavi.minimap</item>
+        <item>com.sankuai.meituan</item>
+        <item>com.sankuai.meituan.takeoutnew</item>
+        <item>me.ele</item>
+        <item>com.xiaomi.smarthome</item>
+        <item>com.android.calendar</item>
+        <item>com.xiaomi.calendar</item>
+        <item>com.android.soundrecorder</item>
+        <item>com.android.deskclock</item>
+        <item>com.android.mms</item>
+        <item>com.android.settings</item>
+        <item>com.android.incallui</item>
+        <item>com.android.server.telecom</item>
+        <item>com.xiaomi.xmsf</item>
+        <item>com.xiaomi.mipushdemo</item>
+        <item>com.miui.securitycenter</item>
+        <item>com.miui.personalassistant</item>
+    </string-array>
+    <string-array name="config_controlsPreferredPackages">
+        <item>com.xiaomi.smarthome</item>
+        <item>com.google.android.apps.chromecast.app</item>
+    </string-array>
+    <string-array name="control_center_independent_tiles_mobile">
+        <item>cell</item>
+        <item>wifi</item>
+    </string-array>
+    <string-array name="control_center_independent_tiles_wifi">
+        <item>wifi</item>
+        <item>bt</item>
+    </string-array>
+    <array name="miui_config_quickSettingsAutoAdd"></array>
+    <string-array name="multi_floating_package_allow_list">
+        <item>com.miui.securitycenter</item>
+        <item>com.miui.weather2</item>
+        <item>com.android.calendar</item>
+        <item>com.android.contacts</item>
+        <item>com.android.mms</item>
+        <item>com.miui.notes</item>
+        <item>com.android.settings</item>
+        <item>com.miui.gallery</item>
+        <item>com.miui.cloudservice</item>
+    </string-array>
+    <string-array name="vowifi_tiles">
+        <item>vowifi1</item>
+        <item>vowifi2</item>
+    </string-array>
+</resources>

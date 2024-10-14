@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_repeat_type">
+        <item>Bir dəfə</item>
+        <item>Hər gün</item>
+        <item>Qanuni iş günləri</item>
+        <item>Həftəiçi</item>
+        <item>Özəl</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Bir dəfə</item>
+        <item>Hər gün</item>
+        <item>Həftəiçi</item>
+        <item>Özəl</item>
+    </string-array>
+    <string-array name="alphabet_sub_table_with_starred">
+        <item>!</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="app_behavior_type_menu">
+        <item>Bütün qeydlər</item>
+        <item>Avto-başlatma</item>
+        <item>Zəncirvari başlatma</item>
+        <item>İcazələrin istifadəsi</item>
+        <item>Həssas əməliyyatlar</item>
+    </string-array>
+    <string-array name="app_initials_label">
+        <item>!</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="applock_password_types">
+        <item>Naxış</item>
+        <item>PIN</item>
+        <item>Parol</item>
+    </string-array>
+    <string-array name="auto_task_screen_zoom_level">
+        <item>XS</item>
+        <item>S</item>
+        <item>L</item>
+    </string-array>
+    <string-array name="auto_task_text_layout_size_level">
+        <item>Ekstra kiçik</item>
+        <item>Kiçik</item>
+        <item>Orta</item>
+        <item>Böyük</item>
+        <item>Ekstra böyük</item>
+        <item>XXL</item>
+    </string-array>
+    <string-array name="cache_sort_type">
+        <item>Ölçü</item>
+        <item>Ad</item>
+    </string-array>
+    <string-array name="cellular_data_unit">
+        <item>GB</item>
+        <item>MB</item>
+    </string-array>
+    <string-array name="cellular_package_type">
+        <item>Aylıq plan</item>
+        <item>Limitsiz</item>
+        <item>Günlük plan</item>
+    </string-array>
+    <string-array name="config_skip_reset_apps_package_name">
+        <item>android</item>
+    </string-array>
+    <string-array name="daily_brand">
+        <item>Özəl</item>
+        <item>Xiaomi Fan kartı</item>
+        <item>Xiao Tiansheng kartı</item>
+        <item>Tencent King kartı</item>
+    </string-array>
+    <string-array name="daily_rent_card_brands">
+        <item>Özəl</item>
+        <item>Mi Mobile</item>
+        <item>Xiaomi Fan kartı</item>
+        <item>Tianshen kartı</item>
+        <item>Tencent kartı</item>
+    </string-array>
+    <string-array name="date_of_app_all">
+        <item>"Dünən (mobil internet) "</item>
+        <item>"Bu gün (mobil internet) "</item>
+        <item>"Keçən ay (mobil internet) "</item>
+        <item>"Bu ay (mobil internet) "</item>
+        <item>"Dünən (Wi-Fi) "</item>
+        <item>"Bu gün (Wi-Fi) "</item>
+        <item>"Keçən ay (Wi-Fi) "</item>
+        <item>"Bu ay (Wi-Fi) "</item>
+    </string-array>
+    <string-array name="date_of_traffic">
+        <item>"Dünən "</item>
+        <item>"Bu gün "</item>
+        <item>"Keçən ay "</item>
+        <item>"Bu ay "</item>
+    </string-array>
+    <string-array name="date_of_traffic_cmcc">
+        <item>"Bu həftə "</item>
+        <item>"Bu gün "</item>
+        <item>"Bu ay "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix">
+        <item>"Dünən: "</item>
+        <item>"Bu gün: "</item>
+        <item>"Keçən ay: "</item>
+        <item>"Bu ay: "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix_cmcc">
+        <item>"Bu həftə: "</item>
+        <item>"Bu gün: "</item>
+        <item>"Bu ay: "</item>
+    </string-array>
+    <string-array name="debug_open_intercept">
+        <item>Bir kompüter istifadə edərək cihazınızdakı fayllara müraciət etmək və düzəliş etmək mümkün olacaq.</item>
+        <item>Açıq icazəniz olmadan cihazınızda tətbiq quraşdırmasına icazə veriləcək.</item>
+        <item>"Ekran məzmununuzu uzaqdan izləyə və yaza biləcəksiniz."</item>
+        <item>Cihazınız haqqında ətraflı məlumat əldə etmək mümkün olacaq.</item>
+    </string-array>
+    <string-array name="ew_emergency_blood_type_arrays">
+        <item>A</item>
+        <item>B</item>
+        <item>AB</item>
+        <item>O</item>
+    </string-array>
+    <string-array name="ew_emergency_organ_donation_arrays">
+        <item>Bəli</item>
+        <item>Xeyr</item>
+    </string-array>
+    <string-array name="exo_controls_playback_speeds">
+        <item>0.25x</item>
+        <item>0.5x</item>
+        <item>0.75x</item>
+        <item>Normal</item>
+        <item>1.25x</item>
+        <item>1.5x</item>
+        <item>2x</item>
+    </string-array>
+    <string-array name="gb_adv_touch_custom_level">
+        <item>Ən aşağı</item>
+        <item>Aşağı</item>
+        <item>Normal</item>
+        <item>Yüksək</item>
+        <item>Ən yüksək</item>
+    </string-array>
+    <string-array name="lock_mode">
+        <item>Cihaz kilidlənəndə</item>
+        <item>Cihaz kilidləndikdə və ya tətbiqdən çıxıldıqdan sonra</item>
+        <item>Cihaz kilidləndikdə və ya tətbiqdən çıxıldıqdan 1 dəqiqə sonra</item>
+    </string-array>
+    <string-array name="lock_mode_value">
+        <item>1</item>
+        <item>0</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="luckymoney_sound">
+        <item>Səsi kəs</item>
+        <item>金币</item>
+        <item>红包来了</item>
+    </string-array>
+    <string-array name="mi_service_traffic_type">
+        <item>"Mobil internet istifadəsi "</item>
+        <item>"Wi-Fi istifadəsi "</item>
+    </string-array>
+    <string-array name="miui_optimization_close_intercept">
+        <item>Vacib: Çoxlu sistem tətbiqləri düzgün işləməyi dayandıra bilər.</item>
+        <item>Mətn düzümləri, hesablar və məzmun düzgün göstərilməyə bilər.</item>
+    </string-array>
+    <string-array name="multi_floating_package_allow_list">
+        <item>com.miui.securitycenter</item>
+        <item>com.miui.weather2</item>
+        <item>com.android.calendar</item>
+        <item>com.android.contacts</item>
+        <item>com.android.mms</item>
+        <item>com.miui.notes</item>
+        <item>com.android.settings</item>
+        <item>com.miui.gallery</item>
+        <item>com.miui.cloudservice</item>
+        <item>com.android.deskclock</item>
+    </string-array>
+    <string-array name="operate_entryValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="operate_memory_entryValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="over_limit_traffic_waring_style">
+        <item>Xəbərdarlıq göstər</item>
+        <item>Xəbərdarlıq et və mobil interneti bağla</item>
+    </string-array>
+    <string-array name="pc_fast_charge_entry">
+        <item>10%</item>
+        <item>20%</item>
+        <item>30%</item>
+        <item>40%</item>
+        <item>50%</item>
+    </string-array>
+    <string-array name="pc_fast_charge_entry_value">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_entries">
+        <item>İlkin</item>
+        <item>Performansa üstünlük ver</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_summaries">
+        <item>İlkin temperatur kontrol rejimi istifadə edilir</item>
+        <item>Performansa üstünlük verilir</item>
+    </string-array>
+    <string-array name="perm_intercept_notification">
+        <item>Mətn mesajlarınızın məzmunu və şəxsi məlumatları ehtiva edən digər elementlər də daxil olmaqla bütün bildirişlərinizi oxuma</item>
+        <item>Bəzi tətbiqlər üçün bildiriş icazələrini məhdudlaşdır</item>
+        <item>Toxunma bildirişlərini və açıq tətbiqləri simulyasiya et</item>
+        <item>\"Narahat etməyin\" rejimini aç və bağla</item>
+    </string-array>
+    <string-array name="perm_intercept_statitics">
+        <item>Hansı tətbiqləri nə qədər istifadə etdiyinizi öyrənərək maraqlarınız və davranışlarınızla bağlı məlumat yığın</item>
+        <item>Operatorunuzla əlaqəli və dil ayarlarına, eləcə də digər detallara müraciət et</item>
+    </string-array>
+    <string-array name="perm_intercept_unknown_source">
+        <item>"Doğrulanmamış üçüncü tərəf tətbiqlər bir çox problemə səbəb ola bilər və sistem stabilliyini azalda bilər."</item>
+        <item>Bəzi üçüncü tərəf tətbiqlərdə şəxsi məlumatlarınızı riskə atan zərərli proqram ola bilər.</item>
+    </string-array>
+    <string-array name="pp_lab_compact_blur_location_entry">
+        <item>İlkin</item>
+        <item>Hamısı</item>
+    </string-array>
+    <string-array name="priority_storage_entries">
+        <item>Daxili anbar</item>
+        <item>Xarici anbar</item>
+    </string-array>
+    <string-array name="priority_storage_value">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="roaming_network_type">
+        <item>Həmişə</item>
+        <item>Yalnız istisnalar üçün</item>
+        <item>Heç vaxt</item>
+    </string-array>
+    <string-array name="sms_report_type">
+        <item>İnternet istifadəsi</item>
+        <item>Telefon balansı</item>
+    </string-array>
+    <string-array name="sort_title_new">
+        <item>Tətbiq adına görə sırala</item>
+        <item>Ən son istfdə edlnlərə görə sırala</item>
+        <item>İstfd. etdy. anbar sahəsinə görə sırala</item>
+        <item>Quraşdırma vaxtına görə sırala</item>
+    </string-array>
+    <string-array name="sort_type_new">
+        <item>Tətbiq adı</item>
+        <item>Təzəlikcə istifadə edilən</item>
+        <item>İstifadə edilən anbar</item>
+        <item>Quraşdırma vaxtı</item>
+    </string-array>
+    <string-array name="st_antispam_handle_methods_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="st_antispam_handle_methods_value_intl">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="st_antispam_notification_show_types_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="tether_limit_warn_type">
+        <item>Söndür və bildir</item>
+        <item>Yalnız bildir</item>
+    </string-array>
+    <string-array name="title_app_info">
+        <item>Quraşdırma mənbəyi</item>
+        <item>Quraşdırma vaxtı</item>
+        <item>Son güncəlləmə mənbəyi</item>
+        <item>Son güncəlləmə vaxtı</item>
+    </string-array>
+    <string-array name="traffic_package_type">
+        <item>Aylıq internet planı</item>
+        <item>Gündəlik internet planı</item>
+        <item>Limitsiz internet planı</item>
+    </string-array>
+    <string-array name="traffic_type">
+        <item>"Mobil internet istifadəsi "</item>
+        <item>"Wi-Fi istifadəsi "</item>
+    </string-array>
+</resources>

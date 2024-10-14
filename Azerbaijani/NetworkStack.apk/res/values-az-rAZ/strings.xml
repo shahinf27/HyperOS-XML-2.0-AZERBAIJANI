@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_label">Şəbəkə meneceri</string>
+    <string name="connected">Bağlantılıdır</string>
+    <string name="notification_channel_description_connected">Cihazın kimliyi bir captive portal şəbəkəsində uğurla doğrulandıqda göstərilən bildirişlər</string>
+    <string name="notification_channel_description_network_venue_info">Şəbəkənin bir məkan məlumat səhifəsinə sahib olduğunu göstərmək üçün göstərilən bildirişlər</string>
+    <string name="notification_channel_name_connected">Captive portal kimlik doğrulaması</string>
+    <string name="notification_channel_name_network_venue_info">Şəbəkə məkan məlumatı</string>
+    <string name="tap_for_info">Bağlantılıdır / Veb sayta baxmaq üçün toxunun</string>
+</resources>
