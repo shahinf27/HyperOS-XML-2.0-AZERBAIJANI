@@ -384,7 +384,7 @@
     <string name="fmt_date_numeric_month">M</string>
     <string name="fmt_date_numeric_month_day">d-M</string>
     <string name="fmt_date_numeric_year">yyyy</string>
-    <string name="fmt_date_numeric_year_month">M/yyyy</string>
+    <string name="fmt_date_numeric_year_month">M-yyyy</string>
     <string name="fmt_date_numeric_year_month_day">d-M-yyyy</string>
     <string name="fmt_date_short_month">MMM</string>
     <string name="fmt_date_short_month_day">d MMM</string>
@@ -691,6 +691,17 @@
     <string name="miuix_appcompat_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_select_all_description">Hamısını seç</string>
     <string name="miuix_appcompat_select_item">Elementləri seç</string>
+    <string name="miuix_font_style_misans_bold_font_family">mipro-bold</string>
+    <string name="miuix_font_style_misans_demibold_font_family">sans-serif-medium</string>
+    <string name="miuix_font_style_misans_extralight_font_family">sans-serif-thin</string>
+    <string name="miuix_font_style_misans_font_family">sans-serif</string>
+    <string name="miuix_font_style_misans_heavy_font_family">sans-serif-black</string>
+    <string name="miuix_font_style_misans_light_font_family">sans-serif-light</string>
+    <string name="miuix_font_style_misans_medium_font_family">sans-serif-medium</string>
+    <string name="miuix_font_style_misans_normal_font_family">sans-serif-light</string>
+    <string name="miuix_font_style_misans_regular_font_family">sans-serif</string>
+    <string name="miuix_font_style_misans_semibold_font_family">mipro-semibold</string>
+    <string name="miuix_font_style_misans_thin_font_family">sans-serif-thin</string>
     <string name="miuix_indexer_collect">Kolleksiyalar</string>
     <string name="miuix_indexer_selected">%s seçildi</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Təzələmək üçün aşağı çək</string>
@@ -926,7 +937,7 @@
     <string name="preference_key_whatsapp_setting_other_shortcut">key_whatsapp_setting_other_shortcut</string>
     <string name="preference_key_whatsapp_setting_privacy_mi">key_whatsapp_setting_privacy_mi</string>
     <string name="preference_key_whatsapp_setting_privacy_third">key_whatsapp_setting_privacy_third</string>
-    <string name="privacy_appdata_chrome_history_des">Visited websites</string>
+    <string name="privacy_appdata_chrome_history_des">Ziyarət edilən veb saytlar</string>
     <string name="privacy_browser_desc">Axtarılmış elementlər</string>
     <string name="privacy_cache_empty">Şəxsi data yoxdur</string>
     <string name="privacy_cache_scaning">Yoxlanılır…</string>
@@ -955,6 +966,7 @@
     <string name="recommended">Seçilmiş</string>
     <string name="remain_item_name_n7p"></string>
     <string name="remain_item_name_pamp"></string>
+    <string name="required_permissions">android.permission.POST_NOTIFICATION;com.android.permission.GET_INSTALLED_APPS</string>
     <string name="resutl_function_deep_clean_summary"><Data>Daha &lt;font color=#ff0000 &gt;%1$s&lt;/font&gt; fayl təmizlənə bilər. Daha çox boş yer açın.</Data></string>
     <string name="resutl_function_qq_clean_summary"><Data>QQ tərəfindən yaradılmış &lt;font color=#ff0000 &gt;%1$s&lt;/font&gt; keşi təmizləyə bilərsiniz</Data></string>
     <string name="resutl_function_wechat_clean_summary"><Data>&lt;font color=#ff0000 &gt;%1$s&lt;/font&gt; WeChat keşi mövcuddur. Daha çox boş yer açın.</Data></string>
@@ -1009,8 +1021,8 @@
     <string name="solar_term_hoar_frost_falls">Şaxta</string>
     <string name="solar_term_insects_awaken">Həşəratlar oyanır</string>
     <string name="solar_term_light_snow">Zəif qar</string>
-    <string name="solar_term_slight_cold">Orta soyuq</string>
-    <string name="solar_term_slight_heat">Orta isti</string>
+    <string name="solar_term_slight_cold">Mülayim soyuq</string>
+    <string name="solar_term_slight_heat">Mülayim isti</string>
     <string name="solar_term_spring_begins">Bahar başlayır</string>
     <string name="solar_term_stopping_the_heat">İstilik geri çəkilir</string>
     <string name="solar_term_summer_begins">Yay başlayır</string>
@@ -1019,7 +1031,7 @@
     <string name="solar_term_vernal_equinox">İlkbahar gündönümü</string>
     <string name="solar_term_white_dews">Şeh</string>
     <string name="solar_term_winter_begins">Qış başlayır</string>
-    <string name="solar_term_winter_solstice">Qış göndönümü</string>
+    <string name="solar_term_winter_solstice">Qış gündönümü</string>
     <string name="sponsored">Sponsorlu</string>
     <string name="start_downloading_app">Endirmə başlayır: %1$s</string>
     <string name="start_install">İndi quraşdır</string>
@@ -1034,31 +1046,33 @@
     <string name="sunday_shortest">Baz</string>
     <string name="sys_cache_on_sdcard_item_name">Keş</string>
     <string name="terabyteShort">TB</string>
-    <string name="the_anniversary_of_lifting_martial_law">Hərbi vəziyyət ləğvinin ildönümü</string>
+    <string name="the_anniversary_of_lifting_martial_law">Hərbi Vəziyyətin Qaldırılma İl dönümü</string>
     <string name="the_anti_aggression_day">Təcavüzlə Mübarizə Günü</string>
     <string name="the_arbor_day">Ağacəkmə Günü</string>
     <string name="the_armed_forces_day">Silahlı Qüvvələr Günü</string>
-    <string name="the_armys_day">Ordu Günü</string>
+    <string name="the_armys_day">Çin Xalq Azadlıq Ordusunun yaranma günü</string>
     <string name="the_childrens_day">"Uşaqlar Günü"</string>
     <string name="the_christmas_day">Milad</string>
-    <string name="the_double_ninth_festival">İkiqat Doqquzuncu Festivalı</string>
+    <string name="the_double_ninth_festival">Double Ninth Festivalı</string>
     <string name="the_dragon_boat_festival">Dragon Boat Festivalı</string>
     <string name="the_easter_day">Pasxa</string>
+    <string name="the_eve_of_the_spring_festival">Çin Yeni İl axşamı</string>
     <string name="the_fools_day">"Ümumdünya Gülüş Günü"</string>
     <string name="the_hksar_establishment_day">Honq Konq SAR Quruluş Günü</string>
     <string name="the_international_womens_day">"Qadınlar Günü"</string>
     <string name="the_laba_festival">Laba Festivalı</string>
     <string name="the_labour_day">Əmək Günü</string>
     <string name="the_lantern_festival">Fənər Festivalı</string>
-    <string name="the_mid_autumn_festival">Ay Festivalı</string>
+    <string name="the_mid_autumn_festival">Orta Payız Festivalı</string>
     <string name="the_national_day">Milli gün</string>
-    <string name="the_national_father_day">"Sun Yat-sen-in Ad günü"</string>
+    <string name="the_national_father_day">"\"Sun Yat-sen\"in Doğum Günü"</string>
     <string name="the_new_years_day">Yeni İl</string>
     <string name="the_night_of_sevens">Qixi Festivalı</string>
     <string name="the_partys_day">CPC Günü</string>
     <string name="the_peace_day">Anma Günü</string>
-    <string name="the_retrocession_day">Geriləmə Günü</string>
+    <string name="the_retrocession_day">Restrosessiya Günü</string>
     <string name="the_spirit_festival">Ruh Festivalı</string>
+    <string name="the_spring_festival">Çin Yeni ili</string>
     <string name="the_teachers_day">"Müəllimlər Günü"</string>
     <string name="the_tw_childrens_day">"Uşaqlar Günü"</string>
     <string name="the_tw_youth_day">Gənclər Günü</string>
@@ -1286,7 +1300,7 @@
     <string name="unit_gb">%s GB</string>
     <string name="unit_mb">%s MB</string>
     <string name="unlike">Xeyr, təşəkkürlər</string>
-    <string name="update_date_format">dd/MM/yyyy</string>
+    <string name="update_date_format">dd-MM-yyyy</string>
     <string name="v7_preference_off">BAĞLI</string>
     <string name="v7_preference_on">AÇIQ</string>
     <string name="virus_scan">Virus üzrə skan</string>
