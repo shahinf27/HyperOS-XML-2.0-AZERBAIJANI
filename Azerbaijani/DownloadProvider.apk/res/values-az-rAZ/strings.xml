@@ -205,7 +205,7 @@
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"İndilik bu qədər"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">"İndilik bu qədər"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Bir saniyə…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Eementlər yüklənə bilmədi"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Elementlər yüklənə bilmədi"</string>
     <string name="mobile_recommended_title">Mobil internet istifadəsi</string>
     <string name="monday">Bazar ertəsi</string>
     <string name="monday_short">B.e.</string>
