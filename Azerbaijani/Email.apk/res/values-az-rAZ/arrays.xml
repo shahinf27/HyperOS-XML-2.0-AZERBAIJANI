@@ -169,43 +169,43 @@
         <item>Tarix seçin</item>
     </string-array>
     <string-array name="error_message_respond">
-        <item>LOGIN Login error or password error</item>
-        <item>LOGIN Login error password error</item>
-        <item>Invalid login user or password</item>
-        <item>LOGIN failure, invalid username/password</item>
-        <item>LOGIN errno:1424, account not exist(md return:2100001)</item>
+        <item>LOGIN Giriş xətası və ya parol xətası</item>
+        <item>LOGIN Giriş xətası, parol xətası</item>
+        <item>Yararsız istifadəçi adı və ya parol ilə giriş</item>
+        <item>LOGIN uğursuzdur, yararsız istifadəçi adı/parol</item>
+        <item>LOGIN xəta nömrəsi:1424, hesab mövcud deyil (md return:2100001)</item>
         <item>ERR.LOGIN.DOMAINNOTEXIST</item>
-        <item>Please using authorized code to login. More information at https://service.mail.qq.com/cgi-bin/help?subtype=1&amp;&amp;no=1001607&amp;&amp;id=28</item>
-        <item>Authorized code is incorrect. More information at https://service.mail.qq.com/cgi-bin/help?subtype=1&amp;&amp;no=1001607&amp;&amp;id=28</item>
-        <item>LOGIN Login error user suspended</item>
+        <item>Giriş etmək üçün lütfən tətbiq parolunu istifadə edin. Daha çox məlumat: https://service.mail.qq.com/cgi-bin/help?subtype=1&amp;&amp;no=1001607&amp;&amp;id=28</item>
+        <item>Səlahiyyətləndirmə kodu yanlışdır. Daha çox məlumat: https://service.mail.qq.com/cgi-bin/help?subtype=1&amp;&amp;no=1001607&amp;&amp;id=28</item>
+        <item>LOGIN Giriş xətası, istifadəçinin fəaliyyəti dayandırılıb</item>
         <item>LOGIN failure, 楠岃瘉澶辫触锛\ufffd</item>
-        <item>LOGIN errno:1423, user password error(sp return:2200019)</item>
-        <item>AUTHENTICATIONFAILED LOGIN Invalid credentials</item>
-        <item>Login fail. Password is incorrect or service is not open</item>
-        <item>LOGIN imap4 nosupport</item>
-        <item>LOGIN errno:1328, custom imap off</item>
-        <item>LOGIN Login error user suspended</item>
-        <item>LOGIN user in black list</item>
-        <item>LOGIN failed. Account is blocked. Login to your account via a web browser to verify your identity.</item>
-        <item>LOGIN user in black list</item>
-        <item>LOGIN errno:1412 status=51 The password is not changed for a long time. Please modify the password. http://mail.10086.cn</item>
-        <item>LOGIN imap4 nosupport</item>
-        <item>LOGIN failed. Account is blocked. Login to your account via a web browser to verify your identity.</item>
-        <item>ERR Invalid login user or password</item>
-        <item>Login fail. Please using app password to login. More information at http://service.exmail.qq.com/cgi-bin/help?subtype=1&amp;&amp;id=10000&amp;&amp;no=1001494</item>
-        <item>ERR custom pop3 off</item>
-        <item>LOGIN Login error user name or password error</item>
-        <item>Invalid login or password</item>
-        <item>in blacklist, please switch your network or login https://mail.sohu.com to setup client ip whitelist</item>
+        <item>LOGIN xəta nömrəsi:1423, istifadəçi parol xətası (sp return:2200019)</item>
+        <item>AUTHENTICATIONFAILED LOGIN Yararsız kimlik məlumatları</item>
+        <item>Giriş uğursuzdur. Parol yanlışdır və ya xidmət açılmır</item>
+        <item>LOGIN imap4 dəstəyi yoxdur</item>
+        <item>LOGIN xəta nömrəsi:1328, özəl imap bağlıdır</item>
+        <item>LOGIN Giriş xətası, istifadəçinin fəaliyyəti dayandırılıb</item>
+        <item>LOGIN istifadəçi qara siyahıdadır</item>
+        <item>LOGIN uğursuzdur. Hesab əngəllənib. Kimliyinizi doğrulamaq üçün veb brauzer vasitəsilə hesabınıza giriş edin.</item>
+        <item>LOGIN istifadəçi qara siyahıdadır</item>
+        <item>LOGIN xəta nömrəsi:1412 status=51 Parol uzun müddətdir ki, dəyişdirilməyib. Lütfən parolu dəyişdirin. http://mail.10086.cn</item>
+        <item>LOGIN imap4 dəstəyi yoxdur</item>
+        <item>LOGIN uğursuzdur. Hesab əngəllənib. Kimliyinizi doğrulamaq üçün veb brauzer vasitəsilə hesabınıza giriş edin.</item>
+        <item>ERR Yararsız istifadəçi adı və ya parol ilə giriş</item>
+        <item>Giriş uğursuzdur. Giriş etmək üçün lütfən tətbiq parolunu istifadə edin. Daha çox məlumat: http://service.exmail.qq.com/cgi-bin/help?subtype=1&amp;&amp;id=10000&amp;&amp;no=1001494</item>
+        <item>ERR özəl pop3 bağlıdır</item>
+        <item>LOGIN Giriş xətası, istifadəçi adı və ya parol xətası</item>
+        <item>Yararsız giriş və ya parol</item>
+        <item>qara siyahıda, lütfən şəbəkənizi dəyişdirin və ya client icazəli siyahısını qurmaq üçün giriş edin: https://mail.sohu.com</item>
         <item>java.net.UnknownHostException: Unable to resolve host</item>
-        <item>müştəri sıradan çıxarıldı, lütfən https://mail.sohu.com saytında statusu dəyişdirin</item>
-        <item>başlanğıc parolu yoxdur, müştəri parolu yaratmaq üçün lütfən https://mail.sohu.com saytında giriş edin</item>
+        <item>client sıradan çıxarıldı, lütfən https://mail.sohu.com saytında statusu dəyişdirin</item>
+        <item>başlanğıc parolu yoxdur, client parolu yaratmaq üçün lütfən https://mail.sohu.com saytında giriş edin</item>
     </string-array>
     <string-array name="invoice_card_keyword">
-        <item>发票</item>
+        <item>Faktura</item>
     </string-array>
     <string-array name="invoice_card_pdf_keyword">
-        <item>发票</item>
+        <item>Faktura</item>
         <item>faktura</item>
     </string-array>
     <string-array name="log_file_save_term_values">
@@ -216,7 +216,7 @@
         <item>-1</item>
     </string-array>
     <string-array name="menu_att_mgr_sort_string_array">
-        <item>Təzəlikcə göstərilən</item>
+        <item>Təzəlikcə baxılan</item>
         <item>Format</item>
         <item>Ad</item>
         <item>Göndərən</item>
@@ -232,6 +232,14 @@
         <item>com.android.settings</item>
         <item>com.miui.gallery</item>
         <item>com.miui.cloudservice</item>
+        <item>com.android.deskclock</item>
+    </string-array>
+    <string-array name="permission_array">
+        <item>android.permission.READ_CONTACTS</item>
+        <item>android.permission.GET_ACCOUNTS</item>
+    </string-array>
+    <string-array name="permission_array_pie">
+        <item>android.permission.READ_CONTACTS</item>
     </string-array>
     <string-array name="prefEntries_contact_add">
         <item>Hamısı</item>
