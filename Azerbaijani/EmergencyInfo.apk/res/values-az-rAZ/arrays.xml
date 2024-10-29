@@ -34,8 +34,6 @@
         <item>3</item>
         <item>4</item>
     </string-array>
-    <array name="avatar_image_descriptions"></array>
-    <array name="avatar_images"></array>
     <string-array name="battery_labels">
         <item>0%</item>
         <item>50%</item>
@@ -213,7 +211,7 @@
     </string-array>
     <string-array name="debug_hw_overdraw_entries">
         <item>Bağlı</item>
-        <item>Uzağa çəkmə sahələrini göstər</item>
+        <item>Aşırı çəkmə sahələrini göstər</item>
         <item>Deyteranomaliya sahələrini göstər</item>
     </string-array>
     <string-array name="debug_hw_overdraw_values">
@@ -241,6 +239,12 @@
         <item>1.50</item>
         <item>1.80</item>
         <item>2.0</item>
+    </string-array>
+    <string-array name="grammatical_gender_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
     </string-array>
     <string-array name="hdcp_checking_summaries">
         <item>HDCP yoxlanışını heç vaxt istifadə etmə</item>
@@ -423,12 +427,6 @@
         <item>300</item>
         <item>350</item>
         <item>400</item>
-    </string-array>
-    <string-array name="udfps_accessibility_touch_hints">
-        <item>Sola daşı</item>
-        <item>Aşağı daşı</item>
-        <item>Sağa daşı</item>
-        <item>Yuxarı daşı</item>
     </string-array>
     <string-array name="usb_configuration_titles">
         <item>Dolur</item>
