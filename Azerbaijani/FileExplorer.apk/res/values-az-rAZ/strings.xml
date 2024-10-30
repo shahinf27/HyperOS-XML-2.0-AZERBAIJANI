@@ -1039,7 +1039,7 @@ Faylları cihazınızdan Mi Drive-a daşımağa çalışın."</string>
     <string name="to_open">Ayarlar</string>
     <string name="to_setting">Ayarlar</string>
     <string name="toast_copy_clipboard">Lövhəyə əlavə edildi</string>
-    <string name="toast_file_not_can_read">Bu əməliyyatı idarə edəcəkheç bir tətbiq tapılmadı.</string>
+    <string name="toast_file_not_can_read">Bu əməliyyatı idarə edəcək heç bir tətbiq tapılmadı.</string>
     <string name="today">Bu gün</string>
     <string name="tomorrow">Sabah</string>
     <string name="tools">ALƏTLƏR</string>
