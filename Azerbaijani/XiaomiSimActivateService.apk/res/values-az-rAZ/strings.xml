@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="activate">Aktivləşdir</string>
+    <string name="activate_feature_call_log_sync">Zəng tarixçəsini sinxronlaşdır</string>
+    <string name="activate_feature_default_title">Xiaomi</string>
+    <string name="activate_feature_find_device">SMS yerləşdirmə</string>
+    <string name="activate_feature_live_talk">Artırma paketi</string>
+    <string name="activate_feature_mi_roaming">Mi Rouminq</string>
+    <string name="activate_feature_mms_sync">Mesajları sinxronlaşdır</string>
+    <string name="activate_feature_mx">Mi Mesaj</string>
+    <string name="activate_feature_register_xiaomi_account">Xiaomi Hesabnı qur</string>
+    <string name="activate_feature_remote_assist">Uzaq köməkçi</string>
+    <string name="activate_feature_verify_mx_token">Xiaomi Hesabı doğrulama</string>
+    <string name="activate_feature_voip">Mi Mesaj VoIP</string>
+    <string name="activate_history_canceled_overview">SIM kart aktivləşdirmə ləğv edildi. Aktivləşdirmə \"%1$s\" tərəfindən başladıldı.</string>
+    <string name="activate_history_multisim_canceled_overview">SIM kart %2$d aktivləşdirmə ləğv edildi. Aktivləşdirmə \"%1$s\" tərəfindən başladıldı.</string>
+    <string name="activate_history_multisim_success_overview">SIM kart %2$d uğurla aktivləşdirildi. Aktivləşdirmə \"%1$s\" tərəfindən başladıldı.</string>
+    <string name="activate_history_sms">Aktivləşdirmə zamanı SMS göndərilib.</string>
+    <string name="activate_history_success_overview">SIM kart uğurla aktivləşdirildi. Aktivləşdirmə \"%1$s\" tərəfindən başladıldı.</string>
+    <string name="activate_history_title">SIM kartın aktivləşdirilməsi</string>
+    <string name="activate_phone_failed_notif_title_sim">"\"%2$s\", SIM %1$d istifadə edilərək aktivləşdirilə bilmədi"</string>
+    <string name="activate_phone_register_xiaomi_account_success_notif_title_sim">SIM %d istifadə edilərək Xiaomi Hesabı uğurla yaradıldı</string>
+    <string name="activate_phone_registered_xiaomi_account_failed_notif_title_sim">"SIM %d istifadə edilərək Xiaomi Hesabı yaradıla bilmədi"</string>
+    <string name="activate_phone_server_failed_notif_title">"\"%s\" aktivləşdirilə bilmədi"</string>
+    <string name="activate_phone_server_success_notif_title">\"%s\" uğurla aktivləşdirildi</string>
+    <string name="activate_phone_success_notif_title_sim">\"%2$s\", SIM %1$d istifadə edilərək uğurla aktivləşdirildi</string>
+    <string name="activate_popup_confirm_all_gateway_failed_query_info">Yenidən sına</string>
+    <string name="activate_popup_confirm_all_gateway_failed_send_sms">Yenidən sına</string>
+    <string name="activate_popup_confirm_error_device_id">Yenidən sına</string>
+    <string name="activate_popup_confirm_failed_phone_error">Yenidən sına</string>
+    <string name="activate_popup_confirm_failed_query_info">Təkrar göndər</string>
+    <string name="activate_popup_confirm_failed_receive_sms">Yenidən sına</string>
+    <string name="activate_popup_confirm_failed_send_sms">Təkrar göndər</string>
+    <string name="activate_popup_confirm_failed_server">Yenidən sına</string>
+    <string name="activate_popup_desc_2_intl_sim_cards_msg_with_charge_hint">\"%2$s\" aktivləşdirmək üçün, &lt;xliff:g id=number_sms refersto=2&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;beynəlxalq ödənişli SMS&lt;/font&gt; göndəriləcək. Operatorunuz bu mesajlara görə sizdən ödəniş tələb edəcək.</string>
+    <string name="activate_popup_desc_2_sim_cards_msg_with_charge_hint">\"%2$s\" aktivləşdirmək üçün, &lt;xliff:g id=number_sms refersto=2&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;ölkədaxili ödənişli SMS&lt;/font&gt; göndəriləcək. Operatorunuz bu mesajlara görə sizdən ödəniş tələb edəcək.</string>
+    <string name="activate_popup_desc_all_gateway_failed_query_info">"Telefon nömrəniz tapıla bilmədi. SIM kartınızın aktivləşdirildiyinə əmin olun.
+%s-i yenidən aktivləşdirmək üçün yeni SIM kartınız ilə əlaqələndirilmiş telefon nömrənizi daxil edin."</string>
+    <string name="activate_popup_desc_all_gateway_failed_send_sms">"Aktivləşdirmə mesajı göndərilə bilmədi. SIM kartınızın aktivləşdirildiyinə əmin olun.
+ %s yenidən aktivləşdirmək üçün yeni SIM kartınız ilə əlaqələndirilmiş telefon nömrəsini daxil edin."</string>
+    <string name="activate_popup_desc_error_device">Yararsız IMEI. Yenidən sınamaq üçün toxunun.</string>
+    <string name="activate_popup_desc_failed_phone_error">Daxil etdiyiniz telefon nömrəsi yararsızdır.</string>
+    <string name="activate_popup_desc_failed_query_info">"Telefon nömrəniz tapıla bilmədi. SIM kartınızın aktivləşdirildiyinə əmin olun."</string>
+    <string name="activate_popup_desc_failed_query_info_msg">"Telefon nömrəsi yoxlana bilmədi. SIM %d kartının düzgün işlədiyinə əmin olub yenidən sınayın."</string>
+    <string name="activate_popup_desc_failed_query_info_msg_one_sim">"Telefon nömrəsi yoxlana bilmədi. SIM kartınızın düzgün işlədiyinə əmin olub yenidən sınayın."</string>
+    <string name="activate_popup_desc_failed_receive_sms">Daxil etdiyiniz telefon nömrəsinin düzgün olduğuna və SIM kartınızın aktivləşdirildiyinə əmin olun.</string>
+    <string name="activate_popup_desc_failed_server">Şəbəkə bağlantınızı yoxlayıb yenidən sınayın.</string>
+    <string name="activate_popup_desc_failed_server_msg">Bir server xətası baş verdi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın.</string>
+    <string name="activate_popup_desc_find_device_postfix_msg">%1$s \"%3$s\" aktivləşdirmək üçün SIM %2$d telefon nömrəsini daxil edin. Bu SIM kartı dəyişdirsəniz, başqa bir aktivləşdirmə SMS-i göndəriləcək.</string>
+    <string name="activate_popup_desc_find_device_postfix_msg_one_sim">%1$s \"%2$s\" aktivləşdirmək üçün telefon nömrənizi daxil edin. Bu SIM kartı dəyişdirsəniz, başqa bir aktivləşdirmə SMS-i göndəriləcək.</string>
+    <string name="activate_popup_desc_intl_sim_card_msg_with_charge_hint">\"%2$s\" aktivləşdirmək üçün, &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;beynəlxalq ödənişli SMS&lt;/font&gt; göndəriləcək. Operatorunuz bu mesaja görə sizdən ödəniş tələb edəcək.</string>
+    <string name="activate_popup_desc_mi_account_user_manual">\"%1$s
+\"<Data>Hər hansısa bir sualınız varsa &lt;a href=https://account.xiaomi.com/helpcenter/faq&gt;Xiaomi Hesabı İstifadəçisi üçün Bələdçi&lt;/a&gt;yə baxın.</Data></string>
+    <string name="activate_popup_desc_mixed_sim_cards_msg_with_charge_hint">\"%3$s\" aktivləşdirmək üçün, &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;ölkədaxili ödənişli SMS&lt;/font&gt; və &lt;xliff:g id=number_sms refersto=1&gt;%2$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;beynəlxalq ödənişli SMS&lt;/font&gt; göndəriləcək. Operatorunuz bu mesajlara görə sizdən ödəniş tələb edəcək.</string>
+    <string name="activate_popup_desc_sim_card_downlink_msg">\"%2$s\" aktivləşdirmək üçün SIM %1$d telefon nömrəsini daxil edin.</string>
+    <string name="activate_popup_desc_sim_card_downlink_msg_one_sim">%s aktivləşdirmək üçün telefon nömrənizi daxil edin.</string>
+    <string name="activate_popup_desc_sim_card_msg_with_charge_hint">\"%2$s\" aktivləşdirmək üçün, &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;ödənişli SMS&lt;/font&gt; göndəriləcək. Operatorunuz bu mesaja görə sizdən ödəniş alacaq.</string>
+    <string name="activate_popup_desc_voip_privacy_prefix_msg">%1$s \"%3$s\" aktivləşdirmək üçün SIM %2$d telefon nömrəsini daxil edin. Texniki dəstək qismən Weihuitel tərəfindən təmin edilir. Ətraflı məlumat üçün Weihuitel Gizlilik Siyasətinə baxın.</string>
+    <string name="activate_popup_desc_voip_privacy_prefix_msg_one_sim">%1$s \"%2$s\" aktivləşdirmək üçün telefon nömrənizi daxil edin. Texniki dəstək qismən Weihuitel tərəfindən təmin edilir. Ətraflı məlumat üçün Weihuitel Gizlilik Siyasətinə baxın.</string>
+    <string name="activate_popup_failed_send_sms_desc">"Aktivləşdirmə SMS-i göndərilə bilmədi. SIM %d kartının düzgün işlədiyinə əmin olub yenidən sınayın."</string>
+    <string name="activate_popup_failed_send_sms_desc_one_sim">"Aktivləşdirmə SMS-i göndərilə bilmədi. SIM kartınızın düzgün işlədiyinə əmin olub yenidən sınayın."</string>
+    <string name="activate_progress_status_title">\"%s\" aktivləşdirilir…</string>
+    <string name="activate_registered_xiaomi_account_failed_notif_title">"Xiaomi Hesabı yaradıla bilmədi"</string>
+    <string name="activate_registered_xiaomi_account_success_notif_title">Xiaomi Hesabı uğurla yaradıldı</string>
+    <string name="activate_sms_postfix">MI</string>
+    <string name="activate_status_desc_acquire_phone_number">Telefon nömrəsi doğrulanır…</string>
+    <string name="activate_status_desc_acquire_phone_number_server_no_info_tip">"Telefon nömrəsi doğrulana bilmədi. SIM %d kartının düzgün işlədiyinə əmin olub yenidən sınayın."</string>
+    <string name="activate_status_desc_acquire_phone_number_server_no_info_tip_one_sim">"Telefon nömrəsi doğrulana bilmədi. SIM kartınızın düzgün işlədiyinə əmin olub yenidən sınayın."</string>
+    <string name="activate_status_desc_completed_with_sms_sent_for_activate_server">Bu xidməti aktivləşdirmək üçün %d normal SMS göndərildi.</string>
+    <string name="activate_status_desc_getting_gateway">SMS şəbəkə keçidi alınır…</string>
+    <string name="activate_status_desc_query_activation_server_info">Məlumat alınır…</string>
+    <string name="activate_status_desc_registering_sim_account">SIM kart qeydiyyatdan keçirilir…</string>
+    <string name="activate_status_desc_request_activation_sms">Aktivləşdirmə SMS-i tələb olunur…</string>
+    <string name="activate_status_desc_request_activation_sms_server_error_tip">"Aktivləşdirmə SMS-i alına bilmədi. SIM %d kartının düzgün işlədiyinə əmin olub yenidən sınayın."</string>
+    <string name="activate_status_desc_request_activation_sms_server_error_tip_one_sim">"Aktivləşdirmə SMS-i alına bilmədi. SIM kartınızın düzgün işlədiyinə əmin olub yenidən sınayın."</string>
+    <string name="activate_status_desc_sending_sms">Aktivləşdirmə SMS-i göndərilir…</string>
+    <string name="activate_status_desc_wait_for_sms">Serverdən aktivləşdirmə SMS-i gözlənilir…</string>
+    <string name="activate_status_title_activating_sim">SIM %1$d istifadə edilərək \"%2$s\" aktivləşdirilir…</string>
+    <string name="activate_status_title_registering_xiaomi_account">Xiaomi Hesab yaradılır…</string>
+    <string name="activate_status_title_registering_xiaomi_account_sim">SIM %d istifadə edilərək Xiaomi Hesabı yaradılır…</string>
+    <string name="app_name">Xiaomi SIM Aktivləşdirmə Xidməti</string>
+    <string name="checking_client">Aktivləşdirmə mühiti yoxlanılır</string>
+    <string name="error_checking_client_tip">"Aktivləşdirmə mühiti yoxlanıla bilmədi. Yenidən sınamaq üçün toxunun."</string>
+    <string name="error_network_io_tip">Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın</string>
+    <string name="error_no_get_send_sms_permission">Əvvəlcə SIM %d üçün SMS göndərmə icazəsi verin.</string>
+    <string name="error_no_get_send_sms_permission_one_sim">Əvvəlcə SMS göndərməsinə icazə verin.</string>
+    <string name="error_sim_not_in_service_tip">"SIM %d şəbəkəyə bağlana bilmir. SIM kartınızın düzgün işlədiyinə əmin olub yenidən sınayın."</string>
+    <string name="error_sim_not_in_service_tip_one_sim">"Şəbəkəyə bağlana bilmir. SIM kartınızın düzgün işlədiyinə əmin olub yenidən sınayın."</string>
+    <string name="explain_activate_register_xiaomi_account_title">Xiaomi Hesab Yarat</string>
+    <string name="explain_activate_send_sms_permission_msg">%s aktivləşdirmək üçün cihazınıza aktivləşdirmə SMS-i göndərmə icazələri lazımdır. Operatorunuz bu mesaja görə sizdən ödəniş alacaq.</string>
+    <string name="explain_send_sms_permission_button">Doğrula</string>
+    <string name="privacy_revoke_failed_msg_tip">Əvvəlcə bu xidmətin nömrənizə müraciət etməsinə icazə verin.</string>
+    <string name="privacy_revoke_tips">Səlahiyyəti ləğv etdikdən sonra, tətbiq datanızın yığılmasını dayandıracaq və datanızın hamısı serverlərdən silinəcək. Xiaomi Cloud, Mi mesaj, və digər Mesajlaşma özəllikləri ilə sinxronlaşdırma artıq əlçatan olmayacaq. Səlahiyyət yenə də ləğv edilsin?</string>
+    <string name="sim_activate_failed">"Xidmət aktivləşdirilə bilmədi"</string>
+    <string name="sim_activate_notificat_channel">Aktivləşdirmə bildirişləri</string>
+    <string name="sim_activate_prepare">Xidməti aktivləşdir</string>
+    <string name="sim_activated_failed_msg">"Xidmət aktivləşdirilə bilmədi. Yenidən sınamaq üçün toxunun."</string>
+    <string name="sim_unactivated_feature_title">"\"%s\" aktivləşdirilmədi"</string>
+    <string name="sim_unactivated_msg">"Bu xidmət aktiv deyil. Yenidən sınamaq üçün toxunun."</string>
+    <string name="sim_unactivated_register_xiaomi_account_feature_title">"Xiaomi Hesabı yaradılmadı"</string>
+    <string name="waiting_sim_in_service">SIM aktivləşdirməsi gözlənilir</string>
+</resources>
