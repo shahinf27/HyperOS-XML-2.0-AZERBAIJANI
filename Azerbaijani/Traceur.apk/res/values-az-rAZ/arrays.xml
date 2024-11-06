@@ -1,19 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string-array name="select_logpersist_summaries">
-    <item>Bağlı</item>
-    <item>Bütün jurnal buferləri</item>
-    <item>Radio jurnal buferi xaric hamısı</item>
-    <item>yalnız kernel jurnal buferi</item>
+  <string-array name="buffer_size_values">
+    <item>8192</item>
+    <item>32768</item>
+    <item>65536</item>
+  </string-array>
+  <string-array name="continuous_heap_dump_interval_values">
+    <item>5</item>
+    <item>10</item>
+    <item>30</item>
+  </string-array>
+  <string-array name="long_trace_duration_values">
+    <item>10</item>
+    <item>60</item>
+    <item>480</item>
+    <item>720</item>
+    <item>1440</item>
+  </string-array>
+  <string-array name="long_trace_size_values">
+    <item>200</item>
+    <item>1024</item>
+    <item>5120</item>
+    <item>20480</item>
   </string-array>
   <string-array name="wifitrackerlib_wifi_status">
-    <item></item>
     <item>Skan edilir…</item>
     <item>Bağlantı qurulur…</item>
     <item>Kimlik doğrulanır…</item>
     <item>IP ünvanı alınır…</item>
     <item>Bağlantılıdır</item>
-    <item>Dayandırıldı</item>
+    <item>Dayandırılıb</item>
     <item>Bağlantı kəsilir…</item>
     <item>Bağlantı kəsildi</item>
     <item>Uğursuz</item>
