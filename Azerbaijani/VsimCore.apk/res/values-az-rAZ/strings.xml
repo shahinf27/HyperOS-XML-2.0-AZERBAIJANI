@@ -35,14 +35,14 @@
     <string name="assist_center_title">Hazırda istifadə edilən</string>
     <string name="assist_center_traffic_title">Qaldı</string>
     <string name="assist_key1_title">Bu gün istfdə edilən</string>
-    <string name="assist_key2_title">Data planı</string>
+    <string name="assist_key2_title">İnternet planı</string>
     <string name="gb">GB</string>
     <string name="kb">KB</string>
     <string name="mb">MB</string>
     <string name="noti_key1_today_used">Bu gün: %1$s</string>
     <string name="noti_key2_remain">Qalan: %1$s</string>
-    <string name="noti_key2_used">İstifadə: %1$s</string>
-    <string name="noti_key3">Detallar &gt;</string>
+    <string name="noti_key2_used">İstifadə edilən: %1$s</string>
+    <string name="noti_key3">Detallar </string>
     <string name="search_menu_title">Axtar</string>
     <string name="status_bar_notification_info_overflow">999+</string>
 </resources>
