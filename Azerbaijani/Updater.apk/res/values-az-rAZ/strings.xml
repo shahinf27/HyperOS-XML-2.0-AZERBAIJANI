@@ -6,7 +6,7 @@
     <string name="btn_changelog">Dəyişiklik jurnalı</string>
     <string name="btn_download">Endir (%1$s)</string>
     <string name="btn_error">Xəta baş verdi, yenidən sınayırsınız?</string>
-    <string name="btn_install">MD5-i yoxla və Quraşdır</string>
+    <string name="btn_install">MD5-i yoxla və quraşdır</string>
     <string name="btn_no">İmtina</string>
     <string name="btn_not">Xeyr</string>
     <string name="btn_ok">Oldu</string>
@@ -26,7 +26,7 @@
     <string name="dialog_btn_wifi">Wi-Fi-a keç</string>
     <string name="dialog_stop_desc">Endirməyə fasilə verə və ya onu dayandıra bilərsiniz, seçiminizi indi edin.</string>
     <string name="dialog_stop_title">Endirmə dayandırılsın?</string>
-    <string name="dialog_twrp">Daxili anbarınız şifrəlidir. Cihazı Geri qaytarma rejimində yenidən başlatdıqdan sonra, lütfən davam etmək üçün cihazın kilid açma parolunu daxil edin.</string>
+    <string name="dialog_twrp">Daxili anbarınız şifrələnib. Cihazı Geri qaytarma rejimində yenidən başlatdıqdan sonra, lütfən davam etmək üçün cihazın kilid açma parolunu daxil edin.</string>
     <string name="downgrade_warning">OTA ilə versiya endirmə aşkarlandı və əngəlləndi! Sisteminizi zədələməyə imkan verməmək üçün!</string>
     <string name="download_done">Uğurla endirildi!</string>
     <string name="download_fail">Endirilərkən xəta baş verdi!</string>
@@ -47,14 +47,14 @@
     <string name="fetch_notification_download_failed">Uğursuz</string>
     <string name="fetch_notification_download_pause">Fasilə ver</string>
     <string name="fetch_notification_download_paused">Fasilə verildi</string>
-    <string name="fetch_notification_download_resume">Davam et</string>
+    <string name="fetch_notification_download_resume">Davam etdir</string>
     <string name="fetch_notification_download_retry">Yenidən sına</string>
     <string name="fetch_notification_download_starting">Başladılır</string>
     <string name="fetching_data">Endirmə keçidi alınır, lütfən gözləyin…</string>
     <string name="install_desc">Cihaz, Geri qaytarma rejimində yenidən başladılacaq və seçilmiş faylı quraşdıracaq:
 <b>%1$s</b>\"
 Datalar silinməyəcək.\"</string>
-    <string name="install_title">Davam etməyə əminsiniz?</string>
+    <string name="install_title">Davam etmək istədiyizə əminsiniz?</string>
     <string name="menu_title_current_version_log">Yeni nə var?</string>
     <string name="menu_title_fastboot">Fastboot rejimində yenidən başlat</string>
     <string name="menu_title_fastboot_mode">Fastboot rejimində güncəllə</string>
@@ -70,7 +70,7 @@ Datalar silinməyəcək.\"</string>
     <string name="no_mirror">Bütün serverlər hazırda oflayndır, daha sonra sınayın…</string>
     <string name="no_network">Şəbəkəyə müraciət yoxdur.</string>
     <string name="no_update">Güncəlsiniz!</string>
-    <string name="no_xioamieu">"Xiaomi.eu komandası tərəfindən hazırlanmış HyperOS ROM-u istifadə etmirsiniz!
+    <string name="no_xioamieu">"Xiaomi.eu komandası tərəfindən hazırlanmış HyperOS ROM-unu istifadə etmirsiniz!
 Güncəlləmələr sizin üçün əlçatan deyil!"</string>
     <string name="notif_cancel">İmtina</string>
     <string name="notif_install">Quraşdır</string>
@@ -79,7 +79,7 @@ Güncəlləmələr sizin üçün əlçatan deyil!"</string>
     <string name="notif_service_summary">\"Arxaplan Xidməti\" bildirişini sıradan çıxartmaq üçün basılı tutun!</string>
     <string name="notif_service_title">Tətbiq arxaplanda işləyir…</string>
     <string name="notifications_switch">Bildirişləri göstər</string>
-    <string name="permdesc_cache_filesystem">Tətbiqə /cache-ə fayl yazma icazəsi verir.</string>
+    <string name="permdesc_cache_filesystem">Tətbiqə /cache-də fayl yazma icazəsi verir.</string>
     <string name="permdesc_reboot">Tətbiqə cihazı yenidən başlatma icazəsi verir.</string>
     <string name="permlab_cache_filesystem">Keşə müraciət</string>
     <string name="permlab_reboot">Yen. Başlatma müraciəti</string>
