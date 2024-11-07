@@ -36,6 +36,10 @@
         <item quantity="other">%d dəq əvvəl</item>
         <item quantity="one">%d dəq əvvəl</item>
     </plurals>
+    <plurals name="ai_generate_progress">
+        <item quantity="one">Bu, təxminən %s saniyə çəkəcək.</item>
+        <item quantity="other">Bu, təxminən %s saniyə çəkəcək.</item>
+    </plurals>
     <plurals name="anonymous_resource_count_aod">
         <item quantity="other">%1$d AOD teması</item>
         <item quantity="one">%1$d AOD teması</item>
@@ -79,6 +83,10 @@
     <plurals name="atmospheric_pressure_desc">
         <item quantity="other">Atmosfer təzyiqi: %s hektopaskal</item>
         <item quantity="one">Atmosfer təzyiqi: %s hektopaskal</item>
+    </plurals>
+    <plurals name="author_follow">
+        <item quantity="other">%d izləyici</item>
+        <item quantity="one">%d izləyici</item>
     </plurals>
     <plurals name="de_author_fans_amount">
         <item quantity="other">%1$d pərəstişkar</item>

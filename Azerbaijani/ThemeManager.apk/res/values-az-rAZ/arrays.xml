@@ -92,8 +92,26 @@
         <item>Z</item>
         <item>\#</item>
     </string-array>
+    <string-array name="default_colors">
+        <item>\#ff0000</item>
+        <item>\#ff7f00</item>
+        <item>\#ffff00</item>
+        <item>\#800080</item>
+        <item>\#0000ff</item>
+        <item>\#00ff00</item>
+    </string-array>
     <string-array name="disable_package_replacement">
         <item>paket adını sıradan çıxart</item>
+    </string-array>
+    <string-array name="kg_glass_filters">
+        <item>Orijinal</item>
+        <item>Bulanıq</item>
+        <item>Yivli</item>
+        <item>Qabırğalı</item>
+        <item>Prizma</item>
+        <item>Çuxurlar</item>
+        <item>Dalğalar</item>
+        <item>Kvadratlar</item>
     </string-array>
     <string-array name="multi_floating_package_allow_list">
         <item>com.miui.securitycenter</item>
