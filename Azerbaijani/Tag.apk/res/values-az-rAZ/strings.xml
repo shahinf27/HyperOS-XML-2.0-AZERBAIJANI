@@ -11,9 +11,9 @@
     <string name="call_notification_incoming_text">Gələn zəng</string>
     <string name="call_notification_ongoing_text">Davam edən zəng</string>
     <string name="call_notification_screening_text">Gələn bir zəngin filtrlənməsi</string>
-    <string name="call_phone_permission_denied">Bu tətbiqin zəng edə bilməsi üçün Telefon icazəsinə müraciət etməsi lazımdır. Etiket icazəsini Ayarlarda idarə edə bilərsiniz</string>
+    <string name="call_phone_permission_denied">Bu tətbiq, zəng edə bilmək üçün Telefon icazəsinə müraciət etməlidir. Etiket icazəsini Ayarlarda idarə edə bilərsiniz</string>
     <string name="empty_tag_prompt">Bu etiket boşdur.</string>
-    <string name="external_storage_permission_denied">Bu tətbiqin fayllara müraciət edə bilməsi üçün Xarici Anbar icazəsinə müraciət etməsi lazımdır. Etiket icazəsini Ayarlarda idarə edə bilərsiniz</string>
+    <string name="external_storage_permission_denied">Bu tətbiq, fayllara müraciət edə bilmək üçün Xarici Anbar icazəsinə müraciət etməlidir. Etiket icazəsini Ayarlarda idarə edə bilərsiniz</string>
     <string name="import_vcard">^1 idxal et</string>
     <string name="mime_display_name">NFC etiketindən data</string>
     <string name="tag_empty">Boş etiketi</string>
