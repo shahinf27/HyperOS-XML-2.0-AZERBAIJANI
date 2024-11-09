@@ -98,4 +98,12 @@
         <item quantity="one">"
 %d cəhd qaldı."</item>
     </plurals>
+    <plurals name="satellite_low_battery_turn_off_message">
+        <item quantity="other">Batareya zəifdir. Tiantong Satellite rabitələri %d saniyə ərzində söndürüləcək.</item>
+        <item quantity="one">Batareya zəifdir. Tiantong Satellite rabitələri %d saniyə ərzində söndürüləcək.</item>
+    </plurals>
+    <plurals name="satellite_privacy_withdrawal_dialog_disable_negative">
+        <item quantity="other">Xidmətlərdən imtina (%d s)</item>
+        <item quantity="one">Xidmətlərdən imtina (%d s)</item>
+    </plurals>
 </resources>
