@@ -99,6 +99,7 @@
     <string name="ai_generate_text">Dinamik divar kağızı yarat</string>
     <string name="ai_generate_title">Dinamik divar kağızı yaradılsın?</string>
     <string name="ai_generate_verify_text">Təsvir məzmunu doğrulanır…</string>
+	<string name="ai_generate_waiting">Hazırda növbədə çox adam var, lütfən daha sonra yenidən sınayın.</string>
     <string name="ai_generate_wallpaper_done">AI dinamik divar kağızı uğurla yaradıldı</string>
     <string name="ai_generate_wallpaper_fail">"AI dinamik divar kağızı yaradıla bilmədi"</string>
     <string name="ai_generate_wallpaper_fail_message">Seçdiyiniz fotolar qaydalarımızı poza bilər. Yeni fotolar seçin.</string>

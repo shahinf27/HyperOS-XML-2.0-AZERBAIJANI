@@ -29,6 +29,8 @@
     <string name="HIPS_Perm_Intl_group_name_call_log">Zəng tarixçəsi</string>
     <string name="HIPS_Perm_Intl_group_name_camera">Kamera</string>
     <string name="HIPS_Perm_Intl_group_name_contact">Kontaktlar</string>
+	<string name="HIPS_Perm_Intl_group_name_read_note">Notlar</string>
+    <string name="HIPS_Perm_Intl_group_name_read_record">Səsyazmalar</string>
     <string name="HIPS_Perm_Location">Yer məlumatlarını al</string>
     <string name="HIPS_Perm_Location_Desc">dəqiq yerləşməni alır (GPS və şəbəkə əsaslı)</string>
     <string name="HIPS_Perm_NEARBY_DEVICES">Yaxınlıqdakı cihazlara bağlan</string>
@@ -80,7 +82,9 @@
     <string name="HIPS_Perm_operator_get_phonenumbner_Desc">Daxil olmaq üçün operatordan telefon nömrəsini alır</string>
     <string name="HIPS_Perm_operator_get_phonenumbner_Hint">"İndi bir toxunuşla daxil ola bilmirsinizsə, daxil olma səhifəsinə geri qayıdın və yenidən sınayın."</string>
     <string name="HIPS_Perm_operator_get_phonenumbner_Message">Bu tətbiq, hesaba daxil olmaq üçün opetordan telefon nömrənizi almaq istəyir. İcazə verilsin?</string>
-    <string name="HIPS_Perm_operator_shake">Cihaz hərəkətinə və istiqamətinə icazə ver</string>
+    <string name="HIPS_Perm_operator_read_note">Notlara müraciət</string>
+    <string name="HIPS_Perm_operator_read_record">Səsyazmalara müraciət</string>
+	<string name="HIPS_Perm_operator_shake">Cihaz hərəkətinə və istiqamətinə icazə ver</string>
     <string name="HIPS_Perm_operator_shake_Desc">"Cihazın kosmosdakı mövqeyini aşkarlamaq, silkələnməni tanımaq və interaktiv həssas özəllikləri təmin etmək üçün"</string>
     <string name="HIPS_Perm_operator_wall_paper">Dinamik divar kağızı xidmətləri</string>
     <string name="HIPS_Perm_operator_wall_paper_Desc">Sistemin dinamik divar kağızı xidmətlərinə düzəliş et</string>
@@ -371,8 +375,10 @@
     <string name="permdesc_read_call_log">%1$s - zəng tarixçəsinə müraciət etməsinə icazə verilsin?</string>
     <string name="permdesc_read_contacts">%1$s - kontaktlara müraciət etməsinə icazə verilsin?</string>
     <string name="permdesc_read_mms">%1$s - multimedia mesajlarını oxumasına icazə verilsin?</string>
+	<string name="permdesc_read_note">%1$s - notlara müraciət etməsinə icazə verilsin?</string>
     <string name="permdesc_read_phone_numbers">%1$s - bu cihazdakı telefon nömrələrini oxumasına icazə verilsin?</string>
     <string name="permdesc_read_phone_state">%1$s - cihazın statusuna və mobil şəbəkə məlumatlarına müraciət etməsinə icazə verilsin?</string>
+	<string name="permdesc_read_record">%1$s - səsyazmalara müraciətinə icazə verilsin?</string>
     <string name="permdesc_read_sms">%1$s - mətn və multimedia mesajlarını oxumasına icazə verilsin?</string>
     <string name="permdesc_read_storage">%1$s - cihazınızda saxlanılan fotolara, videolara, səslərə və fayllara müraciət etməsinə icazə verilsin?</string>
     <string name="permdesc_receive_sms">%1$s - SMS və MMS almasına icazə verilsin?</string>
