@@ -51,9 +51,9 @@
     <string name="profile_name_watch">saat</string>
     <string name="summary_app_streaming">%1$s, səs, foto, parol və mesajlar daxil olmaqla telefonda görünən və ya oxudulan hər bir şeyə müraciət edə biləcək.&lt;br/&gt;&lt;br/&gt;Bu icazəyə olan müraciəti silənə qədər %1$s, tətbiqləri yayımlaya biləcək.</string>
     <string name="summary_generic">Bu tətbiq, zəng edənin adı kimi məlumatları cihazınızla seçilən cihaz arasında sinxronlaşdıra biləcək</string>
-    <string name="summary_glasses">Bu tətbiqin %1$s cihazınızda bu icazələr müraciət etməsinə icazə veriləcək</string>
+    <string name="summary_glasses">Bu tətbiqin %1$s cihazınızdakı bu icazələr müraciət etməsinə icazə veriləcək</string>
     <string name="summary_nearby_device_streaming">%1$s, səs, foto, ödəniş məlumatları, parol və mesajlar daxil olmaqla telefonunuzda görünən və ya oxudulan hər bir şeyə müraciət edə biləcək.&lt;br/&gt;&lt;br/&gt;Bu icazəyə olan müraciəti silənə qədər %1$s, tətbiqləri və sistem özəlliklərini yayımlaya biləcək.</string>
-    <string name="summary_watch">Bu tətbiqin zəng edənin adı kimi məlumatları sinxronlaşdırmasına və %1$s cihazınızda bu icazələrə müraciət etməsinə icazə veriləcək</string>
+    <string name="summary_watch">Bu tətbiqin zəng edənin adı kimi məlumatları sinxronlaşdırmasına və %1$s cihazınızdakı bu icazələrə müraciət etməsinə icazə veriləcək</string>
     <string name="title_app_streaming">&lt;strong&gt;%1$s&lt;/strong&gt; - bu məlumatlara telefonunuzdan müraciət etməsinə icazə ver</string>
     <string name="title_app_streaming_with_mirroring">&lt;strong&gt;%1$s&lt;/strong&gt; - telefonunuzun tətbiqlərini yayımlamasına icazə verilsin?</string>
     <string name="title_automotive_projection"></string>
