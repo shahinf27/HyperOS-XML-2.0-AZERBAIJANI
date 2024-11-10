@@ -364,6 +364,7 @@ Lütfən eşitdiyiniz rəqəmə uyğun düyməyə basın"</string>
     <string name="cit_external_keyboard_test_summary">Lütfən klaviaturanı qoşduqdan sonra düymələri təsadüfi şəkildə daxil edin və test nəticəsini yoxlayın</string>
     <string name="cit_external_keyboard_test_title">Xarici klaviatura testi</string>
     <string name="cit_fail">Fail</string>
+	<string name="cit_first_pen_hall_test">Toxunaqlı qələm üst S Hall dedektor testi:</string>
     <string name="cit_flash_life_check_summary">Cihaz fləş ömrü təxmini</string>
     <string name="cit_flash_life_check_title">Fləş ömrü</string>
     <string name="cit_flash_timeout_tip">Testin vaxtı bitdi, lütfən fləş testinə yenidən daxil olun</string>
@@ -375,6 +376,9 @@ Lütfən eşitdiyiniz rəqəmə uyğun düyməyə basın"</string>
 Testdən əvvəl qulaqlığı daxil etməlisiniz"</string>
     <string name="cit_fm_check_title">FM Radio</string>
     <string name="cit_fold_hall_test_summary">Cihazı qatlayıb açın. Əgər PASS düyməsinə toxunmaq mümkündürsə, test uğurludur</string>
+	<string name="cit_fourth_pen_hall_test">Toxunaqlı qələm PPE S Hall dedektor testi:</string>
+    <string name="cit_fp_cali_diaglog_msg">Lütfən, ekranın rəsmi Xiaomi qoruyucu film ilə və ya qoruyucu film olmadan kalibrləndiyinə əmin olun və barmaq izi sahəsini təmiz və zədəsiz saxlayın.</string>
+    <string name="cit_fp_cali_diaglog_tip">İpucular</string>
     <string name="cit_fp_fod_cali_title">Fod barmaq izi kalibrləmə</string>
     <string name="cit_front_camera_check_title">Ön kamera</string>
     <string name="cit_front_camera_motor_cali_fail">Mühərrik kalibrləmə uğursuz oldu</string>
@@ -469,9 +473,11 @@ Do not turn off the screen during the test"</string>
     <string name="cit_no_sim_check_title">Sim kart yoxdur</string>
     <string name="cit_nt_chip_check_title">NT chip check</string>
     <string name="cit_nt_rt_rx_title">NT RT/RX check</string>
+	<string name="cit_null">Null</string>
     <string name="cit_otg_not_supported">"Bu cihaz OTG testini dəstəkləmir"</string>
-    <string name="cit_pass">Pass</string>
-    <string name="cit_pencil_reverse_wireless_charger_summary">Please place the pencil on the right sensing area of the table to start the test</string>
+    <string name="cit_pass">Keçdi</string>
+	<string name="cit_pen_hall_test_title">PPE HALL</string>
+    <string name="cit_pencil_reverse_wireless_charger_summary">Testi başlatmaq üçün lütfən qələmi masanın sağ aşkarlama sahəsinə qoyun</string>
     <string name="cit_pencil_reverse_wireless_charger_title">Qələm Doldurma Testi</string>
     <string name="cit_pixeworks_chip_check_title">Pixeworks Iris 7 çip yoxlanışı</string>
     <string name="cit_pointer_location_title">Toxunma sensoru</string>
@@ -495,7 +501,8 @@ Kalibrasiya zamanı, əlinizlə sensor arasında (məs. qoruyucu ekran şüşəs
     <string name="cit_recovery_signature_passed">recovery signature PASSED</string>
     <string name="cit_reverse_charge_check_summary">"Qarşı tərəfin cihazını doldurmaq üçün lütfən OTG tərsinə doldurma cihazınızı taxın"</string>
     <string name="cit_reverse_wireless_charge_check_tips">Lütfən cihazı tələb olunduğu kimi doldurun və testə başlayın</string>
-    <string name="cit_sar_sensor_collect_cali_description">Sar Sensor Calibrate and Data Collect</string>
+    <string name="cit_sar_sensor_collect_cali_description">Sar Sensor Kalibrləmə və Data Yığılması</string>
+	<string name="cit_second_pen_hall_test">Toxunaqlı qələm alt S Hall dedektor testi:</string>
     <string name="cit_second_screen_accelermeter_sensor_cali_title">İkinci Ekran Akselerometr sensoru kalibrləmə testi</string>
     <string name="cit_second_screen_gyroscope_sensor_cali_title">İkinci Ekran Giroskop sensoru kalibrləmə testi</string>
     <string name="cit_signature_check_label">signature check:</string>
@@ -537,6 +544,7 @@ Kalibrasiya zamanı, əlinizlə sensor arasında (məs. qoruyucu ekran şüşəs
     <string name="cit_tfcard_support_title">TFCard dəstəyi</string>
     <string name="cit_tfcard_total_size">Cəmi ölçü</string>
     <string name="cit_tfcard_unmounted">SD kart əlçatmazdır</string>
+	<string name="cit_third_pen_hall_test">Toxunaqlı qələm PPE N Hall dedektor testi:</string>
     <string name="cit_tof_sensor_check_summary">TOF dəyərləri aşağıda görünməlidir</string>
     <string name="cit_tof_sensor_check_title">TofSensor</string>
     <string name="cit_tool">Əlavə alətlər</string>
@@ -879,6 +887,7 @@ Lütfən müxtəlif titrəmə hallarına görə düzgün düyməni seçin"</stri
     <string name="cold_light_title">Soyuq işıq</string>
     <string name="continue_vibrator">Continue vibrator</string>
     <string name="current_angle">Hazırkı bucaq:</string>
+	<string name="digital_mic_check_record_tip">Yazılır, lütfən cihazın arxa kamerasının yanındakı Mikrofona nəsə deyin</string>
     <string name="dispaly_sar_sensor_values">Bütün hazırkı sensor dəyərlərini göstər</string>
     <string name="display_test_finish">Ekran testi tamamlandı</string>
     <string name="dsi_sar_on_off_tips">Dsi Sar On/Off Switch</string>
@@ -1045,6 +1054,7 @@ Kalibrləmə uğurlu olduqdan sonra avadanlığı cihaza yaxın və uzaq zonadan
     <string name="test_back_handset">Arxa telefon testi</string>
     <string name="test_back_mic">Arxa mikrofon</string>
     <string name="test_bottom_speaker">bottom_speaker</string>
+	<string name="test_digital_mic">Rəqəmsal Mikrofon</string>
     <string name="test_first_flash">İlk fləş testi</string>
     <string name="test_flash">Fləş testi</string>
     <string name="test_front_handset">Ön telefon testi</string>
