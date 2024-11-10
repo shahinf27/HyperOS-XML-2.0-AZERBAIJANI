@@ -748,7 +748,7 @@
     <string name="worldcolock_timezone_date">dd MMM</string>
     <string name="worldcolock_timezone_local">Yerli vaxtla eyni</string>
     <string name="xiaoai_ringtone_title">Mi AI zəng səsləri</string>
-    <string name="xiaomi_deskclock_uninstall_description_content">"Saat, bir sistem tətbiqidir. Tətbiqi sildikdən sonra vaxtı yoxlaya, zəngli saatlar qura və ya digər Saat özəlliklərini istifadə edə bilməyəcəksiniz."</string>
+    <string name="xiaomi_deskclock_uninstall_description_content">"Saat, bir sistem tətbiqidir. Tətbiqi sildikdən sonra vaxtı yoxlaya, zəngli saatları qura və ya digər Saat özəlliklərini istifadə edə bilməyəcəksiniz."</string>
     <string name="xiaomi_deskclock_uninstall_description_title">Saat silinsin?</string>
     <string name="yesterday">Dünən</string>
 </resources>

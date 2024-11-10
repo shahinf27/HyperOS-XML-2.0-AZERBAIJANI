@@ -117,12 +117,12 @@
         <item quantity="one">%1$s dəfə çal</item>
     </plurals>
     <plurals name="snooze_duration_min">
-        <item quantity="other">Hər %1$s dəqiqədə</item>
-        <item quantity="one">Hər %1$s dəqiqədə</item>
+        <item quantity="other">Hər %1$s dəqiqədə bir</item>
+        <item quantity="one">Hər %1$s dəqiqədə bir</item>
     </plurals>
     <plurals name="snooze_duration_minute">
-        <item quantity="other">Hər %1$d dəqiqədə</item>
-        <item quantity="one">Hər %1$d dəqiqədə</item>
+        <item quantity="other">Hər %1$d dəqiqədə bir</item>
+        <item quantity="one">Hər %1$d dəqiqədə bir</item>
     </plurals>
     <plurals name="snooze_duration_time">
         <item quantity="other">%1$d dəfə çal</item>
