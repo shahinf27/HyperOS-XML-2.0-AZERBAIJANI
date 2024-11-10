@@ -447,6 +447,8 @@ Qeyd: Quraşdırdığınız tətbiqlərin dataları Xiaomi Cloud-da nüsxələnm
     <string name="not_set">Ayarlanmadı</string>
     <string name="notification_channel_remind">Xatırladıcı</string>
     <string name="notification_channel_service">Xidmət</string>
+    <string name="oobe_no_available_backups">Mövcud nüsxə yoxdur</string>
+    <string name="oobe_use_as_new_device">Bu cihazı yeni bir cihaz kimi istifadə edə bilərsiniz.</string>
     <string name="open_backup_switch">Nüsxələmə açarını dəyişdir</string>
     <string name="open_wechat_dialog_message">"WeChat datasının nüsxələnməsi böyük miqdarda anbar sahəsini çox tez istifadə edəcək. Anbar sahəniz yetərsiz olsa, datanız buluda nüsxələnməyəcək və itə bilər. Yenə də işə salınsın?"</string>
     <string name="open_wechat_dialog_negative_btn">İmtina</string>
@@ -486,6 +488,14 @@ Qeyd: Quraşdırdığınız tətbiqlərin dataları Xiaomi Cloud-da nüsxələnm
     <string name="request_permissions_dialog_description">Cloud nüsxələmənin təklif etdiyi bütün xidmətlərdən yararlana bilmək üçün bildiriş və xatırladıcı göndərmə icazələrini verin.</string>
     <string name="request_permissions_dialog_title">İcazələr tələb olunur</string>
     <string name="required_permissions">android.permission.READ_EXTERNAL_STORAGE;android.permission.WRITE_EXTERNAL_STORAGE;com.android.permission.GET_INSTALLED_APPS</string>
+    <string name="restore_32bit_apps_no_tango_page_primary_button">Davam et</string>
+    <string name="restore_32bit_apps_no_tango_page_secondary_button">Bərpanı ləğv et</string>
+    <string name="restore_32bit_apps_no_tango_page_sub_title">"Bu tətbiqlər %d-bit arxitekturası ilə uyumlu deyil və bu cihazda bərpa edilə bilməz. Bərpa prosesini davam etdirə bilərsiniz, ancaq bu tətbiqlər ötürüləcək"</string>
+    <string name="restore_32bit_apps_no_tango_page_title">Uyumsuz tətbiqlər</string>
+    <string name="restore_32bit_apps_page_primary_button">İşə sal</string>
+    <string name="restore_32bit_apps_page_secondary_button">İndi yox</string>
+    <string name="restore_32bit_apps_page_sub_title">"Bu tətbiqlər %d-bit arxitekturası ilə uyumlu deyil. Bu tətbiqləri bərpa etmək üçün Tətbiq uyumluluq rejimini aşağıda işə sala bilərsiniz."</string>
+    <string name="restore_32bit_apps_page_title">Tətbiq uyumluluq rejimi</string>
     <string name="restore_app_order_finish">Hazırdır</string>
     <string name="restore_app_order_loading">Bir saniyə…</string>
     <string name="restore_app_order_retry">Yenidən sına</string>
