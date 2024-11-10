@@ -53,6 +53,7 @@
     <string name="button_cancel">İmtina</string>
     <string name="button_quit">Çıxış</string>
     <string name="button_revoke">Geri götür</string>
+    <string name="checkUpdateSdkVersion">4.2.5</string>
     <string name="check_contact">Əlavə et</string>
     <string name="choose_contact_title">Kontaktlar</string>
     <string name="clearable_edittext_clear_description">Təmizlə</string>
@@ -158,6 +159,8 @@
     <string name="e2ee_data_protection_update_security_key_title">Güvənlik keçid açarını güncəllə</string>
     <string name="e2ee_device_delete">Cihazı sil</string>
     <string name="e2ee_device_delete_tip">"Bu cihazı, \"Xiaomi Hesabı\"nızdan sildikdə, hesabınızdan çıxış ediləcək və yenidən hesabınıza daxil olana qədər Xiaomi Cloud xidmətlərini, axtarışı və digər hesabla əlaqəli özəllikləri istifadə edə bilməyəcəksiniz."</string>
+    <string name="e2ee_device_delete_warning_dialog_content">"Bu cihaz, Qabaqcıl data qorumanı dəstəkləmir, ona görə də, bu özəlliyi işə salsanız hesabınıza daxil ola bilməyəcəksiniz. Hesabınıza daxil ola bilmək üçün bu cihazı Xiaomi Hyper OS 2-yə güncəlləyin."</string>
+    <string name="e2ee_device_delete_warning_dialog_title">"Daxil ola bilmədi"</string>
     <string name="e2ee_device_exit_failed_tip">"Hesabdan çıxış edilə bilmədi. Bir və ya iki dəqiqə gözləyib yenidən sınayın."</string>
     <string name="e2ee_device_exit_failed_toast">"Hesabdan çıxış edilə bilmədi. Bir və ya iki dəqiqə gözləyib yenidən sınayın."</string>
     <string name="e2ee_device_exit_tip">%s hesabdan çıxış etdi</string>
@@ -181,6 +184,7 @@
     <string name="e2ee_error_global_account">"Bu özəllik bölgənizdə dəstəklənmir."</string>
     <string name="e2ee_error_init">"Başladıla bilmədi. Bir və ya iki dəqiqə gözləyib yenidən sınayın."</string>
     <string name="e2ee_error_network">"Şəbəkəyə bağlana bilmədi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın."</string>
+    <string name="e2ee_error_real_device">"Bu mühit güvənli deyil. Fərqli bir cihaz istifadə etməyə çalışın."</string>
     <string name="e2ee_exit_account_button_close">Söndür</string>
     <string name="e2ee_exit_account_button_exit">Çıxış et</string>
     <string name="e2ee_exit_account_subtitle">"Xiaomi Hesabınızla əlaqələndirilmiş son bağlantılı cihazda hesabınızdan çıxış etmək üzrəsiniz. Yenidən hesaba daxil olmaq və buludda saxlanılan datalarınıza müraciət etmək üçün ekran kilidinizi və ya güvənlik keçid açarınızı istifadə etməlisiniz. Alternativ olaraq Qabaqcıl data qorumasını söndürmək üçün aşağıdakı \"Söndür\"ə toxunun."</string>
@@ -766,6 +770,7 @@ Həmçinin başqa şəxslərin öz Xiaomi cihazlarını tapmasına anonim olaraq
     <string name="other_lockscreen_forget_pin_dialog_title">Ekran kilidini unutdum</string>
     <string name="other_lockscreen_sub_title">"Doğrulamanı tamamlamaq üçün bu cihazın ekran kilidini daxil edin"</string>
     <string name="other_lockscreen_title">"%s - ekran kilidini daxil et"</string>
+    <string name="other_lockscreen_update_password_error_hint">Ekran kilidinizi təzəlikcə dəyişmisiniz? Doğrulama üçün köhnə ekran kilidini daxil etməyə çalışın.</string>
     <string name="pay_info_dialog_confirm_to_pay">%s ödə</string>
     <string name="pay_info_dialog_mibi_balance_prefix">Qalan Mi Coin-ləri istifadə edin: %s</string>
     <string name="pay_info_dialog_title">Ödəniş üsulunu seçin</string>
@@ -850,6 +855,10 @@ Həmçinin başqa şəxslərin öz Xiaomi cihazlarını tapmasına anonim olaraq
     <string name="recommend_service_cloudservice_description">Sistem tətbiq datasını, nüsxələmə ayarlarınızı, Əsas ekran düzümünü və daha çoxunu sinxronlaşdırın</string>
     <string name="recommend_service_sharelocation_description">İtmiş cihazlarda cihazı tapın, kilidləyin və ya datanı təmizləyin, yerinizi dostlarınızla və ailənizlə paylaşın</string>
     <string name="recommend_service_title">Tövsiyə edilən xidmətlər</string>
+    <string name="request_os_permissions_dialog_message">Sinxronlaşdırılmamış elementləri və miqdarlarını müəyyənləşdirə bilmək üçün Xiaomi Cloud, cihazınızda saxlanılan elementlərə müraciət etməlidir. Bu icazə indi verilsin?</string>
+    <string name="request_os_permissions_dialog_neg_button">"Razı deyiləm"</string>
+    <string name="request_os_permissions_dialog_pos_button">Razıyam</string>
+    <string name="request_os_permissions_dialog_title">İcazələr tələb olunur</string>
     <string name="required_permissions">android.permission.READ_EXTERNAL_STORAGE;android.permission.WRITE_EXTERNAL_STORAGE;android.permission.READ_PHONE_STATE;android.permission.READ_CALENDAR;android.permission.WRITE_CALENDAR;android.permission.READ_SMS;android.permission.READ_CONTACTS;android.permission.WRITE_CONTACTS;android.permission.READ_CALL_LOG;android.permission.WRITE_CALL_LOG;</string>
     <string name="retain_data_high_quality_photo_waring_message">Çıxış etdikdən sonra foto və videolarınızın yüksək keyfiyyətli kopyaları Qalereyadan silinəcək. Müvafiq orijinal fayllar hələ də buludda saxlanılmağa davam edəcək. Çıxış etməzdən əvvəl orijinal faylları da endirə bilərsiniz.</string>
     <string name="retain_data_high_quality_photo_waring_title">"Yüksək keyfiyyətli şəkillər mövcud olmayacaq"</string>
@@ -1119,6 +1128,8 @@ Həmçinin başqa şəxslərin öz Xiaomi cihazlarını tapmasına anonim olaraq
     <string name="v7_preference_off">BAĞLI</string>
     <string name="v7_preference_on">AÇIQ</string>
     <string name="verify_camera_error_toast">"Güvənlik keçid açarı tanına bilmədi"</string>
+    <string name="verify_camera_google_permission_message">Güvənlik açarınızı skan edə bilmək üçün \"Xiaomi Cloud\"un kamera icazələrinə ehtiyacı var. Bu icazəni Ayarlarda verə bilərsiniz.</string>
+    <string name="verify_camera_google_permission_positive_button">Anladım</string>
     <string name="verify_camera_permission_message">Bu tətbiqin güvənlik keçid açarınızı skan edə bilməsi üçün kameraya müraciət etməsinə icazə verin. Bu icazəni Ayalarda verə bilərsiniz.</string>
     <string name="verify_camera_permission_negative_button">İmtina</string>
     <string name="verify_camera_permission_positive_button">Ayarlar</string>
@@ -1181,6 +1192,8 @@ Həmçinin başqa şəxslərin öz Xiaomi cihazlarını tapmasına anonim olaraq
     <string name="verify_warning_dialog_title">Başqa bir cihazda ucdan-uca şifrələmə işə salındı</string>
     <string name="verify_warning_dialog_title_pc">İcazələr tələb olunur</string>
     <string name="verify_warning_dialog_title_web">İcazələr tələb olunur</string>
+    <string name="verify_warning_verify_dialog_message">%s dakı doğrulama kodunu daxil edin</string>
+    <string name="verify_warning_verify_dialog_title">Xiaomi Hesabını doğrula</string>
     <string name="waiting_for_sync">Gözləyir…</string>
     <string name="web_view_auto_login_fail">"Daxil oluna bilmədi. Yenidən sınayın."</string>
     <string name="web_view_login_text">Daxil olunur…</string>
@@ -1201,6 +1214,18 @@ Həmçinin başqa şəxslərin öz Xiaomi cihazlarını tapmasına anonim olaraq
     <string name="xiaomi_market_sdk_update_dialog_cancel">İndi yox</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Güncəllə</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Bir güncəlləmə mövcuddur</string>
+    <string name="xiaomi_update_sdk_bytes_unit">%1$sB</string>
+    <string name="xiaomi_update_sdk_connect_download_manager_fail">\"Endirmə Meneceri\"nə bağlanmadı, lütfən Tətbiq İdarəetmə bölməsində \"Endirmə Meneceri\"nin statusunu yoxlayın.</string>
+    <string name="xiaomi_update_sdk_dialog_message">"%1$s versiyasını təqdim edirik
+Həcmi: %2$s"</string>
+    <string name="xiaomi_update_sdk_dialog_message_diff">"Tanıtım versiyası: %1$s
+Delta güncəlləmə həcmi: %2$s"</string>
+    <string name="xiaomi_update_sdk_dialog_title">Bir güncəlləmə mövcuddur</string>
+    <string name="xiaomi_update_sdk_external_storage_unavailable">Anbar sahəsi əlçatmazdır, lütfən SD kartı yoxlayın.</string>
+    <string name="xiaomi_update_sdk_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_update_sdk_megabytes_unit">%1$sMB</string>
+    <string name="xiaomi_update_sdk_update_dialog_cancel">İndi yox</string>
+    <string name="xiaomi_update_sdk_update_dialog_ok">Güncəllə</string>
     <string name="xmpp_server_addr"></string>
     <string name="yesterday">Dünən</string>
 </resources>
