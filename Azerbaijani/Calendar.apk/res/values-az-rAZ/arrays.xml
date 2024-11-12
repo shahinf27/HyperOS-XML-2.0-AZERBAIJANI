@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="additional_cal_dialog_labels">
-        <item>Yoxdur</item>
-        <item>İslami təqvim</item>
-        <item>Hindistan Milli Təqvimi</item>
-        <item>Vikram təqvimi</item>
+    <string-array name="account_sync_frequency">
+        <item>Manual</item>
+        <item>Hər %d dəqiqədə bir</item>
+        <item>Hər saat</item>
+        <item>Hər %d saatda bir</item>
+        <item>Hər %d saatda bir</item>
+    </string-array>
+    <string-array name="alphabet_sub_table_with_starred">
+        <item>!</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
     </string-array>
     <string-array name="alphabet_table">
         <item>A</item>
@@ -76,78 +103,30 @@
     <string-array name="aquarius_info">
         <item>dolça</item>
         <item>Dolça</item>
-        <item>20/1 - 18/2</item>
     </string-array>
     <string-array name="aries_info">
         <item>qoç</item>
         <item>Qoç</item>
-        <item>21/3 - 19/4</item>
     </string-array>
     <string-array name="cancer_info">
         <item>xərçəng</item>
         <item>Xərçəng</item>
-        <item>22/6 - 22/7</item>
     </string-array>
     <string-array name="capricorn_info">
         <item>oğlaq</item>
         <item>Oğlaq</item>
-        <item>22/12 - 19/1</item>
     </string-array>
     <string-array name="change_response_labels">
         <item>Yalnız bu tədbir</item>
         <item>Seriyadakı bütün tədbirlər</item>
     </string-array>
     <string-array name="close_alarm_repeating_labels">
-        <item>Bir dəfə söndür</item>
-        <item>Həmişə bağlı</item>
+        <item>Sadəcə bu dəfəlik</item>
+        <item>Təkrarlanan xatırlatmanı söndür</item>
     </string-array>
     <string-array name="date_calculate_spinner">
         <item>İrəli</item>
         <item>Geri</item>
-    </string-array>
-    <string-array name="dates_eng">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-        <item>6</item>
-        <item>7</item>
-        <item>8</item>
-        <item>9</item>
-        <item>10</item>
-        <item>11</item>
-        <item>12</item>
-        <item>13</item>
-        <item>14</item>
-        <item>15</item>
-        <item>16</item>
-        <item>17</item>
-        <item>18</item>
-        <item>19</item>
-        <item>20</item>
-        <item>21</item>
-        <item>22</item>
-        <item>23</item>
-        <item>24</item>
-        <item>25</item>
-        <item>26</item>
-        <item>27</item>
-        <item>28</item>
-        <item>29</item>
-        <item>30</item>
-        <item>31</item>
-    </string-array>
-    <string-array name="default_reminder_labels">
-        <item>Tədbir vaxtında</item>
-        <item>5 dəqiqə əvvəl</item>
-        <item>15 dəqiqə əvvəl</item>
-        <item>30 dəqiqə əvvəl</item>
-        <item>1 saat əvvəl</item>
-        <item>4 saat əvvəl</item>
-        <item>1 gün əvvəl</item>
-        <item>2 gün əvvəl</item>
-        <item>1 həftə əvvəl</item>
     </string-array>
     <string-array name="delete_repeating_labels">
         <item>Yalnız bu tədbir</item>
@@ -166,28 +145,27 @@
         <item>壬</item>
         <item>癸</item>
     </string-array>
-    <string-array name="english_complete_months">
-        <item>Yanvar</item>
-        <item>Fevral</item>
-        <item>Mart</item>
-        <item>Aprel</item>
-        <item>May</item>
-        <item>İyun</item>
-        <item>İyul</item>
-        <item>Avqust</item>
-        <item>Sentyabr</item>
-        <item>Oktyabr</item>
-        <item>Noyabr</item>
-        <item>Dekabr</item>
+    <string-array name="edit_event_dislike">
+        <item>Yaratmaq istədiyim tədbir növü yoxdur</item>
+        <item>Doldurulacaq çoxlu ayar var.</item>
+        <item>Bəzi ayar məlumatları qeyri-müəyyəndir</item>
+        <item>Sadəcə gəzinirəm</item>
+        <item>Demək istəmirəm</item>
     </string-array>
     <string-array name="entryvalues_settings_debug">
         <item>Heç biri</item>
         <item>Jurnallarını xaricə köçür və göndər</item>
         <item>Jurnalları fayl menecerində yarat</item>
+        <item>Cihaz kimliyi üzrə statistikalara bax</item>
+        <item>Server konfiqurasiyasını indi güncəllə</item>
     </string-array>
     <string-array name="fortune_gender">
         <item>Kişi</item>
         <item>Qadın</item>
+    </string-array>
+    <string-array name="fortune_love">
+        <item>Münasibəti var</item>
+        <item>Münasibəti yoxdur</item>
     </string-array>
     <string-array name="fortune_random_birthday">
         <item>1992-01-01</item>
@@ -218,41 +196,6 @@
     <string-array name="gemini_info">
         <item>əkizlər</item>
         <item>Əkizlər</item>
-        <item>21/5 - 21/6</item>
-    </string-array>
-    <string-array name="global_criket_match">
-        <item>Beynəlxalq</item>
-        <item>IPL</item>
-        <item>Daxili</item>
-        <item>T20 Liqaları</item>
-    </string-array>
-    <string-array name="hijri_samvat_month_names">
-        <item>Məhərrəm</item>
-        <item>Səfər</item>
-        <item>Rəbiüləvvəl</item>
-        <item>Rəbiülaxır</item>
-        <item>Cəmadiyələvvəl</item>
-        <item>Cəmadiyəlaxır</item>
-        <item>Rəcəb</item>
-        <item>Şaban</item>
-        <item>Ramazan</item>
-        <item>Şəvval</item>
-        <item>Zilqədə</item>
-        <item>Zilhiccə</item>
-    </string-array>
-    <string-array name="hindi_horoscope_names">
-        <item>Mesha</item>
-        <item>Vrishabha</item>
-        <item>Mithun</item>
-        <item>Karka</item>
-        <item>Sinh</item>
-        <item>Kanya</item>
-        <item>Tula</item>
-        <item>Vruschika</item>
-        <item>Dhanu</item>
-        <item>Makar</item>
-        <item>Kumbha</item>
-        <item>Meena</item>
     </string-array>
     <string-array name="jia_zi">
         <item>甲子</item>
@@ -319,68 +262,129 @@
     <string-array name="leo_info">
         <item>şir</item>
         <item>Şir</item>
-        <item>23/7 - 22/8</item>
     </string-array>
     <string-array name="libra_info">
         <item>tərəzi</item>
         <item>Tərəzi</item>
-        <item>23/9 - 23/10</item>
+    </string-array>
+    <string-array name="locale_calendar_array">
+        <item>Yoxdur</item>
+        <item>Ənənəvi Çin təqvimi</item>
+        <item>İslami təqvim</item>
+        <item>İbrani təqvim</item>
+        <item>Yapon təqvimi</item>
+        <item>Fars təqvimi</item>
+        <item>Hind təqvimi</item>
+        <item>Buddist təqvimi</item>
+    </string-array>
+    <string-array name="months_English_array">
+        <item>Yanvar</item>
+        <item>Fevral</item>
+        <item>Mart</item>
+        <item>Aprel</item>
+        <item>May</item>
+        <item>İyun</item>
+        <item>İyul</item>
+        <item>Avqust</item>
+        <item>Sentyabr</item>
+        <item>Oktyabr</item>
+        <item>Noyabr</item>
+        <item>Dekabr</item>
+    </string-array>
+    <string-array name="multi_floating_package_allow_list">
+        <item>com.miui.securitycenter</item>
+        <item>com.miui.weather2</item>
+        <item>com.android.calendar</item>
+        <item>com.android.contacts</item>
+        <item>com.android.mms</item>
+        <item>com.miui.notes</item>
+        <item>com.android.settings</item>
+        <item>com.miui.gallery</item>
+        <item>com.miui.cloudservice</item>
+        <item>com.android.deskclock</item>
     </string-array>
     <string-array name="open_alarm_repeating_labels">
-        <item>Bir dəfə işə sal</item>
-        <item>Həmişə açıq</item>
+        <item>Sadəcə bu dəfəlik</item>
+        <item>Təkrarlanan xatırladıcını qur</item>
     </string-array>
-    <string-array name="panchang_weeks">
-        <item>Bazar</item>
-        <item>Bazar ertəsi</item>
-        <item>Çərşənbə axşamı</item>
-        <item>Çərşənbə</item>
-        <item>Cümə axşamı</item>
-        <item>Cümə</item>
-        <item>Şənbə</item>
+    <string-array name="passport_account_user_gender_name">
+        <item>Kişi</item>
+        <item>Qadın</item>
+    </string-array>
+    <string-array name="passport_alphabet_table">
+        <item>\#</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
     </string-array>
     <string-array name="pisces_info">
         <item>balıq</item>
         <item>Balıq</item>
-        <item>19/2 - 20/3</item>
     </string-array>
     <string-array name="prefEntries_alerts_popup_new">
         <item>Bağlı</item>
         <item>Bütün tədbirlər üçün</item>
         <item>Zamana həssas tədbirlər üçün</item>
     </string-array>
+    <string-array name="prefEntries_alerts_popup_new_summary">
+        <item></item>
+        <item></item>
+    </string-array>
     <string-array name="prefEntries_alerts_vibrateWhen">
         <item>Həmişə</item>
-        <item>Yalnız zəng səsi səssizdə ikən</item>
+        <item>Yalnız zəng səsi susdurulduqda</item>
         <item>Heç vaxt</item>
     </string-array>
+    <string-array name="prefValues_alerts_popup">
+        <item>none</item>
+        <item>all</item>
+        <item>smart</item>
+    </string-array>
     <string-array name="prefValues_alerts_vibrateWhen">
-        <item>həmişə</item>
-        <item>səssiz</item>
-        <item>heç vaxt</item>
+        <item>always</item>
+        <item>silent</item>
+        <item>never</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_later_time_values">
+        <item>300000</item>
+        <item>600000</item>
+        <item>900000</item>
+        <item>1800000</item>
+        <item>3600000</item>
     </string-array>
     <string-array name="preferences_default_reminder_values">
         <item>0</item>
         <item>5</item>
+        <item>10</item>
         <item>15</item>
         <item>30</item>
         <item>60</item>
-        <item>240</item>
         <item>1440</item>
         <item>2880</item>
         <item>10080</item>
-    </string-array>
-    <string-array name="preferences_language_values">
-        <item>en</item>
-        <item>hi</item>
-        <item>ta</item>
-        <item>te</item>
-        <item>mr</item>
-        <item>bn</item>
-        <item>kn</item>
-        <item>gu</item>
-        <item>pa</item>
-        <item>ml</item>
     </string-array>
     <string-array name="preferences_week_start_day_labels">
         <item>Bölgə üzrə ilkin</item>
@@ -395,37 +399,37 @@
         <item>2</item>
     </string-array>
     <string-array name="repeat_choose_day">
-        <item>1-ci</item>
-        <item>2-ci</item>
-        <item>3-cü</item>
-        <item>4-cü</item>
-        <item>5-ci</item>
-        <item>6-cı</item>
-        <item>7-ci</item>
-        <item>8-ci</item>
-        <item>9-cu</item>
-        <item>10-cu</item>
-        <item>11-ci</item>
-        <item>12-ci</item>
-        <item>13-cü</item>
-        <item>14-cü</item>
-        <item>15-ci</item>
-        <item>16-cı</item>
-        <item>17-ci</item>
-        <item>18-ci</item>
-        <item>19-cu</item>
-        <item>20-ci</item>
-        <item>21-ci</item>
-        <item>22-ci</item>
-        <item>23-cü</item>
-        <item>24-cü</item>
-        <item>25-ci</item>
-        <item>26-cı</item>
-        <item>27-ci</item>
-        <item>28-ci</item>
-        <item>29-cu</item>
-        <item>30-cu</item>
-        <item>31-ci</item>
+        <item>1.</item>
+        <item>2.</item>
+        <item>3.</item>
+        <item>4.</item>
+        <item>5.</item>
+        <item>6.</item>
+        <item>7.</item>
+        <item>8.</item>
+        <item>9.</item>
+        <item>10.</item>
+        <item>11.</item>
+        <item>12.</item>
+        <item>13.</item>
+        <item>14.</item>
+        <item>15.</item>
+        <item>16.</item>
+        <item>17.</item>
+        <item>18.</item>
+        <item>19.</item>
+        <item>20.</item>
+        <item>21.</item>
+        <item>22.</item>
+        <item>23.</item>
+        <item>24.</item>
+        <item>25.</item>
+        <item>26.</item>
+        <item>27.</item>
+        <item>28.</item>
+        <item>29.</item>
+        <item>30.</item>
+        <item>31.</item>
     </string-array>
     <string-array name="repeat_choose_end">
         <item>Heç vaxt</item>
@@ -521,20 +525,23 @@
         <item>Bəlkə</item>
         <item>Xeyr</item>
     </string-array>
+    <string-array name="response_labels2">
+        <item>"Cavab verilməsin"</item>
+        <item>Qəbul et</item>
+        <item>Daha sonra qərar ver</item>
+        <item>Rədd et</item>
+    </string-array>
     <string-array name="sagittarius_info">
         <item>oxatan</item>
         <item>Oxatan</item>
-        <item>23/11 - 21/12</item>
     </string-array>
     <string-array name="scorpio_info">
         <item>əqrəb</item>
         <item>Əqrəb</item>
-        <item>24/10 - 22/11</item>
     </string-array>
     <string-array name="taurus_info">
         <item>buğa</item>
         <item>Buğa</item>
-        <item>20/4 - 20/5</item>
     </string-array>
     <string-array name="tian_gan">
         <item>子</item>
@@ -550,12 +557,12 @@
         <item>戌</item>
         <item>亥</item>
     </string-array>
-    <string-array name="timezone_labels">
+    <string-array name="timezone_labels_v3">
         <item>Marşall adaları</item>
         <item>Midway Adası</item>
         <item>Havay</item>
         <item>Alyaska</item>
-        <item>Sakit okean vaxtı</item>
+        <item>Sakit Okean</item>
         <item>Tixuana</item>
         <item>Arizona</item>
         <item>Çiuaua</item>
@@ -580,16 +587,19 @@
         <item>Azor adaları</item>
         <item>Kabo Verde</item>
         <item>Kasablanka</item>
-        <item>London, Dublin</item>
-        <item>Amsterdam, Berlin</item>
+        <item>London</item>
+        <item>Dublin</item>
+        <item>Amsterdam</item>
+        <item>Berlin</item>
         <item>Belqrad</item>
         <item>Brüssel</item>
         <item>Sarayevo</item>
         <item>Vindhuk</item>
         <item>Qərbi Afrika saatı</item>
-        <item>Amman, İordaniya</item>
-        <item>Afina, İstanbul</item>
-        <item>Beirut, Livan</item>
+        <item>Amman</item>
+        <item>Afina</item>
+        <item>İstanbul</item>
+        <item>Beyrut</item>
         <item>Qahirə</item>
         <item>Helsinki</item>
         <item>Qüds</item>
@@ -605,32 +615,34 @@
         <item>İrəvan</item>
         <item>Dubay</item>
         <item>Kabil</item>
-        <item>İslamabad, Kəraçi</item>
+        <item>Karaçi</item>
         <item>"Uralsk"</item>
         <item>Yekaterinburq</item>
-        <item>Kəlkətə</item>
-        <item>Şri Lanka</item>
+        <item>Kolkata</item>
+        <item>Şri-Lanka</item>
         <item>Katmandu</item>
         <item>Astana</item>
         <item>Yanqon</item>
         <item>Krasnoyarsk</item>
         <item>Banqkok</item>
         <item>Pekin</item>
-        <item>Honkonq</item>
-        <item>Makao</item>
+        <item>Çuntsin</item>
+        <item>Honq Konq</item>
+        <item>Makau</item>
         <item>Sinqapur</item>
         <item>İrkutsk</item>
-        <item>Kuala Lumpur</item>
+        <item>Kuala-Lumpur</item>
         <item>Pert</item>
-        <item>Taybey</item>
+        <item>Taypey</item>
         <item>Seul</item>
-        <item>Tokio, Osaka</item>
+        <item>Tokyo</item>
         <item>Yakutsk</item>
         <item>Adelaida</item>
         <item>Darvin</item>
         <item>Brisben</item>
         <item>Hobart</item>
-        <item>Sidney, Kanberra</item>
+        <item>Sidney</item>
+        <item>Kanberra</item>
         <item>Vladivostok</item>
         <item>Quam</item>
         <item>Maqadan</item>
@@ -638,7 +650,7 @@
         <item>Fici</item>
         <item>Tonqa</item>
     </string-array>
-    <string-array name="timezone_values">
+    <string-array name="timezone_values_v3">
         <item>Pacific/Majuro</item>
         <item>Pacific/Midway</item>
         <item>Pacific/Honolulu</item>
@@ -669,7 +681,9 @@
         <item>Atlantic/Cape_Verde</item>
         <item>Africa/Casablanca</item>
         <item>Europe/London</item>
+        <item>Europe/Dublin</item>
         <item>Europe/Amsterdam</item>
+        <item>Europe/Berlin</item>
         <item>Europe/Belgrade</item>
         <item>Europe/Brussels</item>
         <item>Europe/Sarajevo</item>
@@ -677,6 +691,7 @@
         <item>Africa/Brazzaville</item>
         <item>Asia/Amman</item>
         <item>Europe/Athens</item>
+        <item>Europe/Istanbul</item>
         <item>Asia/Beirut</item>
         <item>Africa/Cairo</item>
         <item>Europe/Helsinki</item>
@@ -696,7 +711,7 @@
         <item>Asia/Karachi</item>
         <item>Asia/Oral</item>
         <item>Asia/Yekaterinburg</item>
-        <item>Asiya/Kolkata</item>
+        <item>Asia/Calcutta</item>
         <item>Asia/Colombo</item>
         <item>Asia/Katmandu</item>
         <item>Asia/Almaty</item>
@@ -704,6 +719,7 @@
         <item>Asia/Krasnoyarsk</item>
         <item>Asia/Bangkok</item>
         <item>Asia/Shanghai</item>
+        <item>Asia/Chongqing</item>
         <item>Asia/Hong_Kong</item>
         <item>Asia/Macao</item>
         <item>Asia/Singapore</item>
@@ -719,6 +735,7 @@
         <item>Australia/Brisbane</item>
         <item>Australia/Hobart</item>
         <item>Australia/Sydney</item>
+        <item>Australia/Canberra</item>
         <item>Asia/Vladivostok</item>
         <item>Pacific/Guam</item>
         <item>Asia/Magadan</item>
@@ -726,54 +743,29 @@
         <item>Pacific/Fiji</item>
         <item>Pacific/Tongatapu</item>
     </string-array>
-    <string-array name="vikrami_samvat_month_names">
-        <item>Çaitra</item>
-        <item>Vaishākha</item>
-        <item>Jyshtha</item>
-        <item>Āshadha</item>
-        <item>Şravana</item>
-        <item>Bhaadra</item>
-        <item>Āshwin</item>
-        <item>Kārtika</item>
-        <item>Mārgaśīrṣa</item>
-        <item>Pausha</item>
-        <item>Māgha</item>
-        <item>Phalguna</item>
-    </string-array>
     <string-array name="virgo_info">
         <item>qız</item>
         <item>Qız</item>
-        <item>23/8 - 22/9</item>
     </string-array>
-    <string-array name="weather_forecasts">
-        <item>Açıq</item>
-        <item>Buludlu</item>
-        <item>Tutqun</item>
-        <item>Duman</item>
-        <item>Şiddətli fırtına</item>
-        <item>Fırtına</item>
-        <item>Yüngül fırtına</item>
-        <item>Şimşək çaxacaq</item>
-        <item>Yüngül yağışlı</item>
-        <item>Şiddətli yağış</item>
-        <item>Yağışlı</item>
-        <item>Yüngül yağışlı</item>
-        <item>Yağışlı və qarlı</item>
-        <item>Çovğun</item>
-        <item>Qar yağışı</item>
-        <item>Şiddətli qar</item>
-        <item>Qar</item>
-        <item>Yüngül qarlı</item>
-        <item>Güclü qum fırtınası</item>
-        <item>Qum fırtınası</item>
-        <item>Toz</item>
-        <item>Yüngül qum fırtınası</item>
-        <item>Dolu</item>
-        <item>Üzən toz</item>
-        <item>Sisli</item>
-        <item>Donmuş yağış</item>
+    <string-array name="week_array">
+        <item>Bazar</item>
+        <item>Bazar ertəsi</item>
+        <item>Çərşənbə axşamı</item>
+        <item>Çərşənbə</item>
+        <item>Cümə axşamı</item>
+        <item>Cümə</item>
+        <item>Şənbə</item>
     </string-array>
     <string-array name="week_header_name">
+        <item>BAZ</item>
+        <item>B.E.</item>
+        <item>Ç.A.</item>
+        <item>ÇƏR</item>
+        <item>C.A.</item>
+        <item>CÜM</item>
+        <item>ŞƏN</item>
+    </string-array>
+    <string-array name="week_header_name_phone_landscape">
         <item>BAZ</item>
         <item>B.E.</item>
         <item>Ç.A.</item>
@@ -787,13 +779,13 @@
         <item>Ağ arxaplan</item>
     </string-array>
     <string-array name="year_view_week_header_name">
-        <item>B.</item>
-        <item>B.e.</item>
-        <item>Ç.a.</item>
-        <item>Ç.</item>
-        <item>C.a.</item>
-        <item>C.</item>
-        <item>Ş.</item>
+        <item>S</item>
+        <item>M</item>
+        <item>T</item>
+        <item>W</item>
+        <item>T</item>
+        <item>F</item>
+        <item>S</item>
     </string-array>
     <string-array name="year_view_week_header_name_other">
         <item>7</item>
