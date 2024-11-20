@@ -96,6 +96,10 @@
         <item quantity="other">%d dəqiqə əvvəl</item>
         <item quantity="one">1 dəqiqə əvvəl</item>
     </plurals>
+    <plurals name="recent_delete_tip">
+        <item quantity="other">Silinmiş səsyazmalar %d gün ərzində bərpa edilə bilər</item>
+        <item quantity="one">Silinmiş səsyazmalar %d gün ərzində bərpa edilə bilər</item>
+    </plurals>
     <plurals name="record_downloading_complete_count">
         <item quantity="other">%d səsyazma endirildi</item>
         <item quantity="one">%d səsyazma endirildi</item>

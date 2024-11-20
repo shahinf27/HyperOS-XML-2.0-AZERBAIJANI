@@ -1,9 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="account_user_gender_name">
-        <item>Kişi</item>
-        <item>Qadın</item>
-    </string-array>
+	<array name="ai_recognize">
+        <item>#b3ffd2f5</item>
+        <item>#b3ffeee7</item>
+        <item>#b3ededff</item>
+        <item>#b3eaf2ff</item>
+    </array>
+    <array name="ai_speaker_text_color_array">
+        <item>#ff3c70ff</item>
+        <item>#ff72b6ff</item>
+        <item>#ff8794ff</item>
+        <item>#fffcb5e8</item>
+        <item>#ffff6f1d</item>
+        <item>#ffffb685</item>
+    </array>
     <string-array name="alphabet_sub_table_with_starred">
         <item>!</item>
         <item>A</item>
@@ -31,7 +41,6 @@
         <item>\#</item>
     </string-array>
     <string-array name="alphabet_table">
-        <item>\#</item>
         <item>A</item>
         <item>B</item>
         <item>C</item>
@@ -58,6 +67,7 @@
         <item>X</item>
         <item>Y</item>
         <item>Z</item>
+        <item>\#</item>
     </string-array>
     <string-array name="alphabet_table_with_starred">
         <item>!</item>
@@ -89,7 +99,46 @@
         <item>Z</item>
         <item>\#</item>
     </string-array>
-	<string-array name="global_recognize_language_list">
+	<integer-array name="default_card_stroke_gradient_colors_dark">
+        <item>0x1FFFFFFF</item>
+        <item>0x14FFFFFF</item>
+    </integer-array>
+    <integer-array name="default_card_stroke_gradient_colors_light">
+        <item>0x4DFFFFFF</item>
+        <item>0x36FFFFFF</item>
+    </integer-array>
+    <string-array name="global_recognize_language_array">
+        <item>Azərbaycan dili</item>
+        <item>Malay dili</item>
+        <item>Çex dili</item>
+        <item>Alman dili</item>
+        <item>İngilis dili</item>
+        <item>İspan dili</item>
+        <item>Fransız dili</item>
+        <item>İndoneziya dili</item>
+        <item>İtalyan dili</item>
+        <item>Niderland dili</item>
+        <item>Özbək dili</item>
+        <item>Polyak dili</item>
+        <item>Portuqal dili</item>
+        <item>Rumın dili</item>
+        <item>Slovak dili</item>
+        <item>Vyetnam dili</item>
+        <item>Türk dili</item>
+        <item>Yunan dili</item>
+        <item>Qazax dili</item>
+        <item>Rus dili</item>
+        <item>Ərəb dili</item>
+        <item>Hind dili</item>
+        <item>Tay dili</item>
+        <item>Birman dili</item>
+        <item>Koreya dili</item>
+        <item>Yapon dili</item>
+        <item>Çin dili (Mandarin dili)</item>
+        <item>Çin dili (Kanton dili)</item>
+        <item>Filippin dili</item>
+    </string-array>
+    <string-array name="global_recognize_language_list">
         <item>Azərbaycan dili</item>
         <item>Malay dili</item>
         <item>Çex dili</item>
@@ -143,7 +192,40 @@
         <item>com.miui.cloudservice</item>
         <item>com.android.deskclock</item>
     </string-array>
-	<string-array name="recognition_language_list">
+    <string-array name="passport_account_user_gender_name">
+        <item>Kişi</item>
+        <item>Qadın</item>
+    </string-array>
+    <string-array name="passport_alphabet_table">
+        <item>\#</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+    <string-array name="recognition_language_list">
         <item>Çincə</item>
         <item>İngiliscə</item>
         <item>Almanca</item>
@@ -187,8 +269,29 @@
         <item>3</item>
         <item>4</item>
     </string-array>
-	<string-array name="share_category">
+    <string-array name="share_category">
         <item>Səsi paylaş</item>
         <item>Mətni paylaş</item>
     </string-array>
+	<array name="speaker_background_color_array">
+        <item>#1a3482ff</item>
+        <item>#1a8482ff</item>
+        <item>#1a8c93b0</item>
+        <item>#1a36d167</item>
+        <item>#1affb21d</item>
+        <item>#1aff8514</item>
+        <item>#1aff5b29</item>
+    </array>
+    <array name="speaker_text_color_array">
+        <item>#ff3482ff</item>
+        <item>#ff8482ff</item>
+        <item>#ff8c93b0</item>
+        <item>#ff36d167</item>
+        <item>#ffffb21d</item>
+        <item>#ffff8514</item>
+        <item>#ffff5b29</item>
+    </array>
+    <array name="support_ai_devices_cn"></array>
+    <array name="support_ai_devices_global"></array>
+    <array name="support_ai_devices_special"></array>
 </resources>
