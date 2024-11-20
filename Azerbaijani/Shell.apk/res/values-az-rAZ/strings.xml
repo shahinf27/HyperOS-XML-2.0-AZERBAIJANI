@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_label">Qabıq</string>
+    <string name="app_label">Shell</string>
     <string name="bugreport_add_details_to_zip_failed">"Xəta hesabatının detalları zip faylına əlavə edilə bilmədi"</string>
     <string name="bugreport_confirm">"Xəta hesabatları, həssas hesab etdiyiniz (tətbiq istifadə dataası və yerləşmə datası kimi) datalar daxil olmaqla sistemin müxtəlif jurnal fayllarından alınan dataları ehtiva edir. Xəta hesabatlarını yalnız güvəndiyiniz tətbiqlərlə və insanlarla paylaşın."</string>
     <string name="bugreport_confirm_dont_repeat">"Təkrar göstərmə"</string>
