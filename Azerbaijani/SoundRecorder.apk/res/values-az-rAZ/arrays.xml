@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<array name="ai_recognize">
+    <array name="ai_recognize">
         <item>#b3ffd2f5</item>
         <item>#b3ffeee7</item>
         <item>#b3ededff</item>
