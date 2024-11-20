@@ -284,6 +284,7 @@
     <string name="desk_calendar">Seçilmiş masa təqvimi</string>
     <string name="desk_calendar_apply_button_apply">Tətbiq edildi</string>
     <string name="desk_calendar_apply_button_apply_now">Tətbiq et</string>
+	<string name="desk_calendar_store_title">Masa təqvimi teması</string>
     <string name="desk_calendar_view">Masa təqvimi</string>
     <string name="desk_image_cannot_slip_hint">"İndilik bu qədər"</string>
     <string name="desk_image_load_fail">"Təsvir yüklənə bilmədi"</string>
