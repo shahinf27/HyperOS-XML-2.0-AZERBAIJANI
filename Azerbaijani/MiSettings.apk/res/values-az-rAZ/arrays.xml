@@ -127,6 +127,14 @@
         <item>ringtones/MiJazz.ogg</item>
         <item>ringtones/MiHouse.ogg</item>
     </string-array>
+    <integer-array name="default_card_stroke_gradient_colors_dark">
+        <item>0x1FFFFFFF</item>
+        <item>0x14FFFFFF</item>
+    </integer-array>
+     <integer-array name="default_card_stroke_gradient_colors_light">
+        <item>0x4DFFFFFF</item>
+        <item>0x36FFFFFF</item>
+    </integer-array>
     <string-array name="disable_apptitmer_device_list">
         <item>cactus</item>
         <item>pine</item>
@@ -180,6 +188,11 @@
         <item>0.69f</item>
         <item>0.87f</item>
         <item>1f</item>
+    </string-array>
+    <string-array name="msc_password_types">
+        <item>Naxış</item>
+        <item>PIN</item>
+        <item>Parol</item>
     </string-array>
     <string-array name="multi_floating_package_allow_list">
         <item>com.miui.securitycenter</item>
