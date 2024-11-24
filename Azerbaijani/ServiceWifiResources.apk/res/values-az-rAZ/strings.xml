@@ -119,14 +119,14 @@ Bu dəyişiklik, cihazın yerləşməsini yaxınlıqdakı cihazlardan tərəfind
     <string name="wifi_interface_priority_title">%1$s şəbəkə resursunu istifadə etmək istəyir</string>
     <string name="wifi_localhotspot_configure_ssid_default">AndroidShare</string>
     <string name="wifi_network_disabled_by_admin_button">Bağla</string>
-    <string name="wifi_network_disabled_by_admin_message">%1$s, administratorunuz tərəfindən sıradan çıxarıldı.</string>
+    <string name="wifi_network_disabled_by_admin_message">%1$s, inzibatçınız tərəfindən sıradan çıxarıldı.</string>
     <string name="wifi_network_disabled_by_admin_title">Əlçatmaz şəbəkə</string>
     <string name="wifi_network_switch_dialog_negative_button">"Keçmə"</string>
     <string name="wifi_network_switch_dialog_positive_button">Keç</string>
     <string name="wifi_network_switch_dialog_title_bad_internet">%1$s aşağı keyfiyyətdədir. %2$s - keçilsin?</string>
     <string name="wifi_network_switch_dialog_title_no_internet">%1$s internetə bağlı görünmür. %2$s - keçilsin?</string>
     <string name="wifi_p2p_enter_pin_message">Tələb olunan PIN-i daxil edin:</string>
-    <string name="wifi_p2p_frequency_conflict_message">"%1$s ilə bağlantı qurularkən telefonun Wi-Fi bağlantısı müvəqqəti olaraq kəsiləcək"</string>
+    <string name="wifi_p2p_frequency_conflict_message">"Cihazınız %1$s ilə bağlantılı olarkən müvəqqəti olaraq Wi-Fi bağlantısı kəsiləcək"</string>
     <string name="wifi_p2p_from_message">Göndərən:</string>
     <string name="wifi_p2p_invitation_seconds_remaining">{0, plural, one {}=1 {# saniyə ərzində qəbul edin.} other {# saniyə ərzində qəbul edin.} }</string>
     <string name="wifi_p2p_invitation_sent_title">Dəvət göndərildi</string>
@@ -156,8 +156,8 @@ Bu dəyişiklik, cihazın yerləşməsini yaxınlıqdakı cihazlardan tərəfind
     <string name="wifi_wakeup_enabled_content">"Yadda saxlanılmış bir şəbəkənin yaxınlığındasınız: %1$s"</string>
     <string name="wifi_wakeup_enabled_title">Wi‑Fi avtomatik açıldı</string>
     <string name="wifi_wakeup_onboarding_action_disable">"Təkrar açma"</string>
-    <string name="wifi_wakeup_onboarding_subtext">"Yadda saxlanılmış yüksək keyfiyyətli bir şəbəkənin yaxınlığında olanda"</string>
+    <string name="wifi_wakeup_onboarding_subtext">"Saxlanılmış yüksək keyfiyyətli bir şəbəkənin yaxınlığında olduğunuz zaman"</string>
     <string name="wifi_wakeup_onboarding_title">Wi‑Fi avtomatik açılacaq</string>
-    <string name="wifi_watchdog_network_disabled">"Wi-Fi ilə bağlantı qurula bilmədi"</string>
+    <string name="wifi_watchdog_network_disabled">"Wi-Fi-a bağlana bilmədi"</string>
     <string name="wifi_watchdog_network_disabled_detailed">" zəif bir internet bağlantısına sahibdir."</string>
 </resources>
