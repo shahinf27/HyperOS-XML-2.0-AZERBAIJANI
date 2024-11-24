@@ -1,16 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <array name="config_oemPrivilegedWifiAdminPackages"></array>
+    <array name="config_wifiAfcServerUrlsForCountry"></array>
     <array name="config_wifiBackgroundRttThrottleExceptionList"></array>
     <array name="config_wifiBackgroundScanThrottleExceptionList"></array>
     <string-array name="config_wifiCharsetsForSsidTranslation">
         <item>all,GBK</item>
     </string-array>
+	<integer-array name="config_wifiConnectedScanIntervalScheduleSec">
+        <item>20</item>
+        <item>40</item>
+        <item>80</item>
+        <item>160</item>
+    </integer-array>
+    <integer-array name="config_wifiConnectedScanType">
+        <item>2</item>
+    </integer-array>
     <string-array name="config_wifiDisableReasonAuthenticationFailureCarrierSpecificDurationMs_carrier_overrides">
         <item>:::1839:::14400000</item>
     </string-array>
     <string-array name="config_wifiDisableReasonAuthenticationFailureCarrierSpecificThreshold_carrier_overrides">
         <item>:::1839:::2</item>
+    </string-array>
+	<integer-array name="config_wifiDisconnectedScanIntervalScheduleSec">
+        <item>20</item>
+        <item>40</item>
+        <item>80</item>
+        <item>160</item>
+    </integer-array>
+    <integer-array name="config_wifiDisconnectedScanType">
+        <item>2</item>
+    </integer-array>
+    <string-array name="config_wifiEapFailureConfig">
+        <item>1839, 0, 0, 1, 240</item>
+        <item>1839, 16384, 0, 1, 5</item>
+        <item>1839, 1026, 0, 1, 240</item>
+        <item>1839, 1031, 1, 1, 1440</item>
+        <item>1839, 16385, 0, 3, 120</item>
     </string-array>
     <array name="config_wifiExcludedFromUserApprovalForD2dInterfacePriority"></array>
     <array name="config_wifiForceDisableMacRandomizationSsidList"></array>
@@ -20,8 +46,16 @@
     <array name="config_wifiOobPseudonymEnabled_carrier_overrides"></array>
     <array name="config_wifiOobPseudonymEntitlementServerUrl_carrier_overrides"></array>
     <array name="config_wifiPasspointUseApWanLinkStatusAnqpElementFqdnAllowlist"></array>
+	<integer-array name="config_wifiRssiLevelThresholds">
+        <item>-88</item>
+        <item>-77</item>
+        <item>-66</item>
+        <item>-55</item>
+    </integer-array>
     <array name="config_wifiSingleSavedNetworkConnectedScanIntervalScheduleSec"></array>
     <array name="config_wifiSingleSavedNetworkConnectedScanType"></array>
+    <array name="config_wifiTwtBlockedOuiList"></array>
+    <array name="config_wifiUnknownAkmToKnownAkmMapping"></array>
     <array name="config_wifi_fatal_firmware_alert_error_code_list"></array>
     <array name="config_wifi_non_persistent_randomization_ssid_allowlist"></array>
     <array name="config_wifi_non_persistent_randomization_ssid_blocklist"></array>
