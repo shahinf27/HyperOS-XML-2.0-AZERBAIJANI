@@ -56,6 +56,14 @@
         <item quantity="other">Müddət: %d saniyə</item>
         <item quantity="one">Müddət: %d saniyə</item>
     </plurals>
+    <plurals name="accessibility_watermark_characters_inputted">
+        <item quantity="other">%d xarakter daxil edildi.</item>
+        <item quantity="one">%d xarakter daxil edildi.</item>
+    </plurals>
+    <plurals name="accessibility_watermark_characters_max">
+        <item quantity="other">%d xarakterə qədər daxil et.</item>
+        <item quantity="one">%d xarakterə qədər daxil et.</item>
+    </plurals>
     <plurals name="cinemaster_toast_camera_overflow">
         <item quantity="other">Eyni şəbəkəyə ən çox %d kamera bağlaya bilərsiniz</item>
         <item quantity="one">Eyni şəbəkəyə ən çox %d kamera bağlaya bilərsiniz</item>
@@ -65,8 +73,8 @@
         <item quantity="one">Eyni şəbəkəyə ən çox %d monitor bağlaya bilərsiniz</item>
     </plurals>
     <plurals name="clone_guide_tip2">
-        <item quantity="other">Bir dəfədə %d klona qədər yarada bilərsiniz.</item>
-        <item quantity="one">Bir dəfədə %d klona qədər yarada bilərsiniz.</item>
+        <item quantity="other">Eyni anda %d klona qədər yarada bilərsiniz.</item>
+        <item quantity="one">Eyni anda %d klona qədər yarada bilərsiniz.</item>
     </plurals>
     <plurals name="exit_camera_hint">
         <item quantity="other">&lt;Data&gt;\"Kameraya bağlana bilmir.&lt;br&gt;Bu tətbiq &lt;font color=#FFCE16&gt;&lt;b&gt;%1$d saniyə&lt;/b&gt;&lt;/font&gt; ərzində bağlanılacaq. Bundan sonra, bir-iki dəqiqə gözləyib yenidən sınayın.\"&lt;/Data&gt;</item>
@@ -143,6 +151,10 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">%d dəqiqə əvvəl</item>
         <item quantity="one">1 dəqiqə əvvəl</item>
+    </plurals>
+    <plurals name="number_unit_seconds_split">
+        <item quantity="other">%ds</item>
+        <item quantity="one">%ds</item>
     </plurals>
     <plurals name="pref_camera_fastmotion_duration_unit">
         <item quantity="other">%1$s dəq</item>
