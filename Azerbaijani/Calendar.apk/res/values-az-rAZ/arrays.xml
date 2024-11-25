@@ -7,91 +7,6 @@
         <item>Hər %d saatda bir</item>
         <item>Hər %d saatda bir</item>
     </string-array>
-    <string-array name="alphabet_sub_table_with_starred">
-        <item>!</item>
-        <item>A</item>
-        <item>B</item>
-        <item>C</item>
-        <item>H</item>
-        <item>I</item>
-        <item>J</item>
-        <item>K</item>
-        <item>L</item>
-        <item>M</item>
-        <item>N</item>
-        <item>O</item>
-        <item>P</item>
-        <item>Q</item>
-        <item>R</item>
-        <item>S</item>
-        <item>T</item>
-        <item>U</item>
-        <item>V</item>
-        <item>W</item>
-        <item>X</item>
-        <item>Y</item>
-        <item>Z</item>
-        <item>\#</item>
-    </string-array>
-    <string-array name="alphabet_table">
-        <item>A</item>
-        <item>B</item>
-        <item>C</item>
-        <item>D</item>
-        <item>E</item>
-        <item>F</item>
-        <item>G</item>
-        <item>H</item>
-        <item>I</item>
-        <item>J</item>
-        <item>K</item>
-        <item>L</item>
-        <item>M</item>
-        <item>N</item>
-        <item>O</item>
-        <item>P</item>
-        <item>Q</item>
-        <item>R</item>
-        <item>S</item>
-        <item>T</item>
-        <item>U</item>
-        <item>V</item>
-        <item>W</item>
-        <item>X</item>
-        <item>Y</item>
-        <item>Z</item>
-        <item>\#</item>
-    </string-array>
-    <string-array name="alphabet_table_with_starred">
-        <item>!</item>
-        <item>A</item>
-        <item>B</item>
-        <item>C</item>
-        <item>D</item>
-        <item>E</item>
-        <item>F</item>
-        <item>G</item>
-        <item>H</item>
-        <item>I</item>
-        <item>J</item>
-        <item>K</item>
-        <item>L</item>
-        <item>M</item>
-        <item>N</item>
-        <item>O</item>
-        <item>P</item>
-        <item>Q</item>
-        <item>R</item>
-        <item>S</item>
-        <item>T</item>
-        <item>U</item>
-        <item>V</item>
-        <item>W</item>
-        <item>X</item>
-        <item>Y</item>
-        <item>Z</item>
-        <item>\#</item>
-    </string-array>
     <string-array name="aqi_level_simple_desc">
         <item>Əla</item>
         <item>Yaxşı</item>
@@ -133,18 +48,6 @@
         <item>Bu və gələcək tədbirlər</item>
         <item>Bütün tədbirlər</item>
     </string-array>
-    <string-array name="di_zhi">
-        <item>甲</item>
-        <item>乙</item>
-        <item>丙</item>
-        <item>丁</item>
-        <item>戊</item>
-        <item>甲</item>
-        <item>己</item>
-        <item>庚</item>
-        <item>壬</item>
-        <item>癸</item>
-    </string-array>
     <string-array name="edit_event_dislike">
         <item>Yaratmaq istədiyim tədbir növü yoxdur</item>
         <item>Doldurulacaq çoxlu ayar var.</item>
@@ -167,97 +70,9 @@
         <item>Münasibəti var</item>
         <item>Münasibəti yoxdur</item>
     </string-array>
-    <string-array name="fortune_random_birthday">
-        <item>1992-01-01</item>
-        <item>2013-02-04</item>
-        <item>1995-04-05</item>
-        <item>1999-08-06</item>
-        <item>1996-06-21</item>
-        <item>2014-01-18</item>
-        <item>2006-01-23</item>
-        <item>2012-01-13</item>
-        <item>1993-01-17</item>
-        <item>1980-01-08</item>
-        <item>1982-01-10</item>
-    </string-array>
-    <string-array name="fortune_random_name">
-        <item>王伟</item>
-        <item>李东</item>
-        <item>孙辉</item>
-        <item>李俊</item>
-        <item>周永</item>
-        <item>郑健</item>
-        <item>黄海</item>
-        <item>郑飞飞</item>
-        <item>程杰</item>
-        <item>宋小宝</item>
-        <item>郭德纲</item>
-    </string-array>
     <string-array name="gemini_info">
         <item>əkizlər</item>
         <item>Əkizlər</item>
-    </string-array>
-    <string-array name="jia_zi">
-        <item>甲子</item>
-        <item>乙丑</item>
-        <item>丙寅</item>
-        <item>丁卯</item>
-        <item>戊辰</item>
-        <item>己巳</item>
-        <item>庚午</item>
-        <item>辛未</item>
-        <item>壬申</item>
-        <item>癸酉</item>
-        <item>甲戌</item>
-        <item>乙亥</item>
-        <item>丙子</item>
-        <item>丁丑</item>
-        <item>戊寅</item>
-        <item>己卯</item>
-        <item>庚辰</item>
-        <item>辛巳</item>
-        <item>壬午</item>
-        <item>癸未</item>
-        <item>甲申</item>
-        <item>乙酉</item>
-        <item>丙戌</item>
-        <item>丁亥</item>
-        <item>戊子</item>
-        <item>己丑</item>
-        <item>庚寅</item>
-        <item>辛卯</item>
-        <item>壬辰</item>
-        <item>癸巳</item>
-        <item>甲午</item>
-        <item>乙未</item>
-        <item>丙申</item>
-        <item>丁酉</item>
-        <item>戊戌</item>
-        <item>己亥</item>
-        <item>庚子</item>
-        <item>辛丑</item>
-        <item>壬寅</item>
-        <item>癸卯</item>
-        <item>甲辰</item>
-        <item>乙巳</item>
-        <item>丙午</item>
-        <item>丁未</item>
-        <item>戊申</item>
-        <item>己酉</item>
-        <item>庚戌</item>
-        <item>辛亥</item>
-        <item>壬子</item>
-        <item>癸丑</item>
-        <item>甲寅</item>
-        <item>乙卯</item>
-        <item>丙辰</item>
-        <item>丁巳</item>
-        <item>戊午</item>
-        <item>己未</item>
-        <item>庚申</item>
-        <item>辛酉</item>
-        <item>壬戌</item>
-        <item>癸亥</item>
     </string-array>
     <string-array name="leo_info">
         <item>şir</item>
@@ -291,18 +106,6 @@
         <item>Noyabr</item>
         <item>Dekabr</item>
     </string-array>
-    <string-array name="multi_floating_package_allow_list">
-        <item>com.miui.securitycenter</item>
-        <item>com.miui.weather2</item>
-        <item>com.android.calendar</item>
-        <item>com.android.contacts</item>
-        <item>com.android.mms</item>
-        <item>com.miui.notes</item>
-        <item>com.android.settings</item>
-        <item>com.miui.gallery</item>
-        <item>com.miui.cloudservice</item>
-        <item>com.android.deskclock</item>
-    </string-array>
     <string-array name="open_alarm_repeating_labels">
         <item>Sadəcə bu dəfəlik</item>
         <item>Təkrarlanan xatırladıcını qur</item>
@@ -310,35 +113,6 @@
     <string-array name="passport_account_user_gender_name">
         <item>Kişi</item>
         <item>Qadın</item>
-    </string-array>
-    <string-array name="passport_alphabet_table">
-        <item>\#</item>
-        <item>A</item>
-        <item>B</item>
-        <item>C</item>
-        <item>D</item>
-        <item>E</item>
-        <item>F</item>
-        <item>G</item>
-        <item>H</item>
-        <item>I</item>
-        <item>J</item>
-        <item>K</item>
-        <item>L</item>
-        <item>M</item>
-        <item>N</item>
-        <item>O</item>
-        <item>P</item>
-        <item>Q</item>
-        <item>R</item>
-        <item>S</item>
-        <item>T</item>
-        <item>U</item>
-        <item>V</item>
-        <item>W</item>
-        <item>X</item>
-        <item>Y</item>
-        <item>Z</item>
     </string-array>
     <string-array name="pisces_info">
         <item>balıq</item>
@@ -349,54 +123,16 @@
         <item>Bütün tədbirlər üçün</item>
         <item>Zamana həssas tədbirlər üçün</item>
     </string-array>
-    <string-array name="prefEntries_alerts_popup_new_summary">
-        <item></item>
-        <item></item>
-    </string-array>
     <string-array name="prefEntries_alerts_vibrateWhen">
         <item>Həmişə</item>
         <item>Yalnız zəng səsi susdurulduqda</item>
         <item>Heç vaxt</item>
-    </string-array>
-    <string-array name="prefValues_alerts_popup">
-        <item>none</item>
-        <item>all</item>
-        <item>smart</item>
-    </string-array>
-    <string-array name="prefValues_alerts_vibrateWhen">
-        <item>always</item>
-        <item>silent</item>
-        <item>never</item>
-    </string-array>
-    <string-array name="preferences_default_reminder_later_time_values">
-        <item>300000</item>
-        <item>600000</item>
-        <item>900000</item>
-        <item>1800000</item>
-        <item>3600000</item>
-    </string-array>
-    <string-array name="preferences_default_reminder_values">
-        <item>0</item>
-        <item>5</item>
-        <item>10</item>
-        <item>15</item>
-        <item>30</item>
-        <item>60</item>
-        <item>1440</item>
-        <item>2880</item>
-        <item>10080</item>
     </string-array>
     <string-array name="preferences_week_start_day_labels">
         <item>Bölgə üzrə ilkin</item>
         <item>Şənbə</item>
         <item>Bazar</item>
         <item>Bazar ertəsi</item>
-    </string-array>
-    <string-array name="preferences_week_start_day_values">
-        <item>-1</item>
-        <item>7</item>
-        <item>1</item>
-        <item>2</item>
     </string-array>
     <string-array name="repeat_choose_day">
         <item>1.</item>
@@ -543,20 +279,6 @@
         <item>buğa</item>
         <item>Buğa</item>
     </string-array>
-    <string-array name="tian_gan">
-        <item>子</item>
-        <item>丑</item>
-        <item>寅</item>
-        <item>卯</item>
-        <item>辰</item>
-        <item>巳</item>
-        <item>午</item>
-        <item>未</item>
-        <item>申</item>
-        <item>酉</item>
-        <item>戌</item>
-        <item>亥</item>
-    </string-array>
     <string-array name="timezone_labels_v3">
         <item>Marşall adaları</item>
         <item>Midway Adası</item>
@@ -650,99 +372,6 @@
         <item>Fici</item>
         <item>Tonqa</item>
     </string-array>
-    <string-array name="timezone_values_v3">
-        <item>Pacific/Majuro</item>
-        <item>Pacific/Midway</item>
-        <item>Pacific/Honolulu</item>
-        <item>America/Anchorage</item>
-        <item>America/Los_Angeles</item>
-        <item>America/Tijuana</item>
-        <item>America/Phoenix</item>
-        <item>America/Chihuahua</item>
-        <item>America/Denver</item>
-        <item>America/Costa_Rica</item>
-        <item>America/Chicago</item>
-        <item>America/Mexico_City</item>
-        <item>America/Regina</item>
-        <item>America/Bogota</item>
-        <item>America/New_York</item>
-        <item>America/Caracas</item>
-        <item>America/Barbados</item>
-        <item>America/Halifax</item>
-        <item>America/Manaus</item>
-        <item>America/Santiago</item>
-        <item>America/St_Johns</item>
-        <item>America/Sao_Paulo</item>
-        <item>America/Argentina/Buenos_Aires</item>
-        <item>America/Godthab</item>
-        <item>America/Montevideo</item>
-        <item>Atlantic/South_Georgia</item>
-        <item>Atlantic/Azores</item>
-        <item>Atlantic/Cape_Verde</item>
-        <item>Africa/Casablanca</item>
-        <item>Europe/London</item>
-        <item>Europe/Dublin</item>
-        <item>Europe/Amsterdam</item>
-        <item>Europe/Berlin</item>
-        <item>Europe/Belgrade</item>
-        <item>Europe/Brussels</item>
-        <item>Europe/Sarajevo</item>
-        <item>Africa/Windhoek</item>
-        <item>Africa/Brazzaville</item>
-        <item>Asia/Amman</item>
-        <item>Europe/Athens</item>
-        <item>Europe/Istanbul</item>
-        <item>Asia/Beirut</item>
-        <item>Africa/Cairo</item>
-        <item>Europe/Helsinki</item>
-        <item>Asia/Jerusalem</item>
-        <item>Europe/Minsk</item>
-        <item>Africa/Harare</item>
-        <item>Asia/Baghdad</item>
-        <item>Europe/Moscow</item>
-        <item>Asia/Kuwait</item>
-        <item>Africa/Nairobi</item>
-        <item>Asia/Tehran</item>
-        <item>Asia/Baku</item>
-        <item>Asia/Tbilisi</item>
-        <item>Asia/Yerevan</item>
-        <item>Asia/Dubai</item>
-        <item>Asia/Kabul</item>
-        <item>Asia/Karachi</item>
-        <item>Asia/Oral</item>
-        <item>Asia/Yekaterinburg</item>
-        <item>Asia/Calcutta</item>
-        <item>Asia/Colombo</item>
-        <item>Asia/Katmandu</item>
-        <item>Asia/Almaty</item>
-        <item>Asia/Rangoon</item>
-        <item>Asia/Krasnoyarsk</item>
-        <item>Asia/Bangkok</item>
-        <item>Asia/Shanghai</item>
-        <item>Asia/Chongqing</item>
-        <item>Asia/Hong_Kong</item>
-        <item>Asia/Macao</item>
-        <item>Asia/Singapore</item>
-        <item>Asia/Irkutsk</item>
-        <item>Asia/Kuala_Lumpur</item>
-        <item>Australia/Perth</item>
-        <item>Asia/Taipei</item>
-        <item>Asia/Seoul</item>
-        <item>Asia/Tokyo</item>
-        <item>Asia/Yakutsk</item>
-        <item>Australia/Adelaide</item>
-        <item>Australia/Darwin</item>
-        <item>Australia/Brisbane</item>
-        <item>Australia/Hobart</item>
-        <item>Australia/Sydney</item>
-        <item>Australia/Canberra</item>
-        <item>Asia/Vladivostok</item>
-        <item>Pacific/Guam</item>
-        <item>Asia/Magadan</item>
-        <item>Pacific/Auckland</item>
-        <item>Pacific/Fiji</item>
-        <item>Pacific/Tongatapu</item>
-    </string-array>
     <string-array name="virgo_info">
         <item>qız</item>
         <item>Qız</item>
@@ -777,23 +406,5 @@
     <string-array name="widget_style_list">
         <item>Şəffaf</item>
         <item>Ağ arxaplan</item>
-    </string-array>
-    <string-array name="year_view_week_header_name">
-        <item>S</item>
-        <item>M</item>
-        <item>T</item>
-        <item>W</item>
-        <item>T</item>
-        <item>F</item>
-        <item>S</item>
-    </string-array>
-    <string-array name="year_view_week_header_name_other">
-        <item>7</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-        <item>6</item>
     </string-array>
 </resources>
