@@ -13,91 +13,6 @@
         <item>Həftəiçi</item>
         <item>Özəl</item>
     </string-array>
-    <string-array name="alphabet_sub_table_with_starred">
-        <item>!</item>
-        <item>A</item>
-        <item>B</item>
-        <item>C</item>
-        <item>H</item>
-        <item>I</item>
-        <item>J</item>
-        <item>K</item>
-        <item>L</item>
-        <item>M</item>
-        <item>N</item>
-        <item>O</item>
-        <item>P</item>
-        <item>Q</item>
-        <item>R</item>
-        <item>S</item>
-        <item>T</item>
-        <item>U</item>
-        <item>V</item>
-        <item>W</item>
-        <item>X</item>
-        <item>Y</item>
-        <item>Z</item>
-        <item>\#</item>
-    </string-array>
-    <string-array name="alphabet_table">
-        <item>A</item>
-        <item>B</item>
-        <item>C</item>
-        <item>D</item>
-        <item>E</item>
-        <item>F</item>
-        <item>G</item>
-        <item>H</item>
-        <item>I</item>
-        <item>J</item>
-        <item>K</item>
-        <item>L</item>
-        <item>M</item>
-        <item>N</item>
-        <item>O</item>
-        <item>P</item>
-        <item>Q</item>
-        <item>R</item>
-        <item>S</item>
-        <item>T</item>
-        <item>U</item>
-        <item>V</item>
-        <item>W</item>
-        <item>X</item>
-        <item>Y</item>
-        <item>Z</item>
-        <item>\#</item>
-    </string-array>
-    <string-array name="alphabet_table_with_starred">
-        <item>!</item>
-        <item>A</item>
-        <item>B</item>
-        <item>C</item>
-        <item>D</item>
-        <item>E</item>
-        <item>F</item>
-        <item>G</item>
-        <item>H</item>
-        <item>I</item>
-        <item>J</item>
-        <item>K</item>
-        <item>L</item>
-        <item>M</item>
-        <item>N</item>
-        <item>O</item>
-        <item>P</item>
-        <item>Q</item>
-        <item>R</item>
-        <item>S</item>
-        <item>T</item>
-        <item>U</item>
-        <item>V</item>
-        <item>W</item>
-        <item>X</item>
-        <item>Y</item>
-        <item>Z</item>
-        <item>\#</item>
-    </string-array>
     <string-array name="app_behavior_type_menu">
         <item>Bütün qeydlər</item>
         <item>Avto-başlatma</item>
@@ -105,45 +20,9 @@
         <item>İcazələrin istifadəsi</item>
         <item>Həssas əməliyyatlar</item>
     </string-array>
-    <string-array name="app_initials_label">
-        <item>!</item>
-        <item>A</item>
-        <item>B</item>
-        <item>C</item>
-        <item>D</item>
-        <item>E</item>
-        <item>F</item>
-        <item>G</item>
-        <item>H</item>
-        <item>I</item>
-        <item>J</item>
-        <item>K</item>
-        <item>L</item>
-        <item>M</item>
-        <item>N</item>
-        <item>O</item>
-        <item>P</item>
-        <item>Q</item>
-        <item>R</item>
-        <item>S</item>
-        <item>T</item>
-        <item>U</item>
-        <item>V</item>
-        <item>W</item>
-        <item>X</item>
-        <item>Y</item>
-        <item>Z</item>
-        <item>\#</item>
-    </string-array>
     <string-array name="applock_password_types">
         <item>Naxış</item>
-        <item>PIN</item>
         <item>Parol</item>
-    </string-array>
-    <string-array name="auto_task_screen_zoom_level">
-        <item>XS</item>
-        <item>S</item>
-        <item>L</item>
     </string-array>
     <string-array name="auto_task_text_layout_size_level">
         <item>Ekstra kiçik</item>
@@ -151,23 +30,15 @@
         <item>Orta</item>
         <item>Böyük</item>
         <item>Ekstra böyük</item>
-        <item>XXL</item>
     </string-array>
     <string-array name="cache_sort_type">
         <item>Ölçü</item>
         <item>Ad</item>
     </string-array>
-    <string-array name="cellular_data_unit">
-        <item>GB</item>
-        <item>MB</item>
-    </string-array>
     <string-array name="cellular_package_type">
         <item>Aylıq plan</item>
         <item>Limitsiz</item>
         <item>Günlük plan</item>
-    </string-array>
-    <string-array name="config_skip_reset_apps_package_name">
-        <item>android</item>
     </string-array>
     <string-array name="daily_brand">
         <item>Özəl</item>
@@ -177,7 +48,6 @@
     </string-array>
     <string-array name="daily_rent_card_brands">
         <item>Özəl</item>
-        <item>Mi Mobile</item>
         <item>Xiaomi Fan kartı</item>
         <item>Tianshen kartı</item>
         <item>Tencent kartı</item>
@@ -220,24 +90,12 @@
         <item>"Ekran məzmununuzu uzaqdan izləyə və yaza biləcəksiniz."</item>
         <item>Cihazınız haqqında ətraflı məlumat əldə etmək mümkün olacaq.</item>
     </string-array>
-    <string-array name="ew_emergency_blood_type_arrays">
-        <item>A</item>
-        <item>B</item>
-        <item>AB</item>
-        <item>O</item>
-    </string-array>
     <string-array name="ew_emergency_organ_donation_arrays">
         <item>Bəli</item>
         <item>Xeyr</item>
     </string-array>
     <string-array name="exo_controls_playback_speeds">
-        <item>0.25x</item>
-        <item>0.5x</item>
-        <item>0.75x</item>
         <item>Normal</item>
-        <item>1.25x</item>
-        <item>1.5x</item>
-        <item>2x</item>
     </string-array>
     <string-array name="gb_adv_touch_custom_level">
         <item>Ən aşağı</item>
@@ -251,15 +109,8 @@
         <item>Cihaz kilidləndikdə və ya tətbiqdən çıxıldıqdan sonra</item>
         <item>Cihaz kilidləndikdə və ya tətbiqdən çıxıldıqdan 1 dəqiqə sonra</item>
     </string-array>
-    <string-array name="lock_mode_value">
-        <item>1</item>
-        <item>0</item>
-        <item>2</item>
-    </string-array>
     <string-array name="luckymoney_sound">
         <item>Səsi kəs</item>
-        <item>金币</item>
-        <item>红包来了</item>
     </string-array>
     <string-array name="mi_service_traffic_type">
         <item>"Mobil internet istifadəsi "</item>
@@ -269,45 +120,9 @@
         <item>Vacib: Çoxlu sistem tətbiqləri düzgün işləməyi dayandıra bilər.</item>
         <item>Mətn düzümləri, hesablar və məzmun düzgün göstərilməyə bilər.</item>
     </string-array>
-    <string-array name="multi_floating_package_allow_list">
-        <item>com.miui.securitycenter</item>
-        <item>com.miui.weather2</item>
-        <item>com.android.calendar</item>
-        <item>com.android.contacts</item>
-        <item>com.android.mms</item>
-        <item>com.miui.notes</item>
-        <item>com.android.settings</item>
-        <item>com.miui.gallery</item>
-        <item>com.miui.cloudservice</item>
-        <item>com.android.deskclock</item>
-    </string-array>
-    <string-array name="operate_entryValues">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </string-array>
-    <string-array name="operate_memory_entryValues">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </string-array>
     <string-array name="over_limit_traffic_waring_style">
         <item>Xəbərdarlıq göstər</item>
         <item>Xəbərdarlıq et və mobil interneti bağla</item>
-    </string-array>
-    <string-array name="pc_fast_charge_entry">
-        <item>10%</item>
-        <item>20%</item>
-        <item>30%</item>
-        <item>40%</item>
-        <item>50%</item>
-    </string-array>
-    <string-array name="pc_fast_charge_entry_value">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
     </string-array>
     <string-array name="pc_settings_thermal_entries">
         <item>İlkin</item>
@@ -339,10 +154,6 @@
         <item>Daxili anbar</item>
         <item>Xarici anbar</item>
     </string-array>
-    <string-array name="priority_storage_value">
-        <item>0</item>
-        <item>1</item>
-    </string-array>
     <string-array name="roaming_network_type">
         <item>Həmişə</item>
         <item>Yalnız istisnalar üçün</item>
@@ -363,20 +174,6 @@
         <item>Təzəlikcə istifadə edilən</item>
         <item>İstifadə edilən anbar</item>
         <item>Quraşdırma vaxtı</item>
-    </string-array>
-    <string-array name="st_antispam_handle_methods_value">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </string-array>
-    <string-array name="st_antispam_handle_methods_value_intl">
-        <item>0</item>
-        <item>1</item>
-    </string-array>
-    <string-array name="st_antispam_notification_show_types_value">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
     </string-array>
     <string-array name="tether_limit_warn_type">
         <item>Söndür və bildir</item>

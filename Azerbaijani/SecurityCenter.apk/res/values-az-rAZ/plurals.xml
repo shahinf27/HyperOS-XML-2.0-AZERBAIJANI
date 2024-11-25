@@ -201,8 +201,8 @@
         <item quantity="one">%d özəllik</item>
     </plurals>
     <plurals name="fw_blocked_count_call">
-        <item quantity="other">%2$s və digərlərindən %1$d zəng</item>
-        <item quantity="one">%2$s kontaktından %1$d zəng</item>
+        <item quantity="other">%2$s və digərləri %1$d dəfə zəng etdi</item>
+        <item quantity="one">%2$s, %1$d dəfə zəng etdi</item>
     </plurals>
     <plurals name="fw_blocked_count_call_one">
         <item quantity="other">%2$s kontaktından %1$d zəng</item>
@@ -303,9 +303,9 @@
         <item quantity="one">%d günlük ödənişsiz sınaq al</item>
     </plurals>
     <plurals name="gb_voice_changer_user_status_get_twice_trial_card_dialog">
-        <item quantity="other">"Abunləyinizin müddəti bitdi.
+        <item quantity="other">"Abunəliyinizin müddəti bitdi.
 İndi %d günlük ödənişsiz sınaq ala bilərsiniz!"</item>
-        <item quantity="one">"Abunləyinizin müddəti bitdi.
+        <item quantity="one">"Abunəliyinizin müddəti bitdi.
 İndi %d günlük ödənişsiz sınaq ala bilərsiniz!"</item>
     </plurals>
     <plurals name="gb_voice_changer_user_tips_info">
@@ -607,6 +607,10 @@
     <plurals name="pc_extreme_mode_count_down_title">
         <item quantity="other">Cihazınızın batareyası tükənib. %1$d saniyə sonra Yuxu rejiminə keçir.</item>
         <item quantity="one">Cihazınızın batareyası tükənib. %1$d saniyə sonra Yuxu rejiminə keçir.</item>
+    </plurals>
+    <plurals name="pc_extreme_mode_count_down_title_new">
+        <item quantity="other">Batareya zəifdir. Cihazınız %1$d saniyə sonra Yuxu rejimində keçir. Performans və siqnal gücündə bir az azalma ola bilər.</item>
+        <item quantity="one">Batareya zəifdir. Cihazınız %1$d saniyə sonra Yuxu rejimində keçir. Performans və siqnal gücündə bir az azalma ola bilər.</item>
     </plurals>
     <plurals name="pc_main_power_center_battery_day">
         <item quantity="other">%s gün</item>
@@ -932,6 +936,10 @@
         <item quantity="other">"%1$s | Bu tətbiq, bu cihazın kamerasını %2$d dəfə istifadə etdi"</item>
         <item quantity="one">"%1$s | Bu tətbiq, bu cihazın kamerasını %2$d dəfə istifadə etdi"</item>
     </plurals>
+    <plurals name="permission_usage_terminal_file">
+        <item quantity="other">%1$s | Bu cihazdakı fayllara %2$d dəfə müraciət edildi</item>
+        <item quantity="one">%1$s | Bu cihazdakı fayllara %2$d dəfə müraciət edildi</item>
+    </plurals>
     <plurals name="permission_usage_terminal_screen">
         <item quantity="other">"%1$s | Bu tətbiq, bu cihazın ekranını %2$d dəfə istifadə etdi"</item>
         <item quantity="one">"%1$s | Bu tətbiq, bu cihazın ekranını %2$d dəfə istifadə etdi"</item>
@@ -1093,16 +1101,16 @@
         <item quantity="one">%1$s | Bu tətbiq, %2$d dəfə boş bir təqvim tədbiri qaytardı</item>
     </plurals>
     <plurals name="privacy_apps_disable_header_title">
-        <item quantity="other">%d tətbiq nişanı gizlidir</item>
-        <item quantity="one">%d tətbiq nişanı gizlidir</item>
+        <item quantity="other">%d tətbiq ikonu gizlidir</item>
+        <item quantity="one">%d tətbiq ikonu gizlidir</item>
     </plurals>
     <plurals name="privacy_apps_enable_header_title">
-        <item quantity="other">"%d tətbiq nişanı gizli deyil"</item>
-        <item quantity="one">"%d tətbiq nişanı gizli deyil"</item>
+        <item quantity="other">"%d tətbiq nişanı ikonu deyil"</item>
+        <item quantity="one">"%d tətbiq nişanı ikonu deyil"</item>
     </plurals>
     <plurals name="privacy_permission_summary">
-        <item quantity="other">%s tətbiqin daimi müraciəti var</item>
-        <item quantity="one">%s tətbiqin daimi müraciəti var</item>
+        <item quantity="other">%s tətbiq daim müraciət edir</item>
+        <item quantity="one">%s tətbiq daim müraciət edir</item>
     </plurals>
     <plurals name="privacy_permission_summary_allow">
         <item quantity="other">%s tətbiqə icazə verildi</item>
