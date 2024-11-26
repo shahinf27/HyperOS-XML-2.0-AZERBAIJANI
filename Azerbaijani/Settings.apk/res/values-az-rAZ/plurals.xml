@@ -176,6 +176,14 @@
         <item quantity="other">%d yeni bildiriş</item>
         <item quantity="one">%d yeni bildiriş</item>
     </plurals>
+	<plurals name="musical_rhythm_app_summary">
+        <item quantity="other">%2$s daxil olmaqla %1$d tətbiq</item>
+        <item quantity="one">%2$s daxil olmaqla %1$d tətbiq</item>
+    </plurals>
+	<plurals name="notification_frequency_summary">
+        <item quantity="other">Günə təxminən %d element</item>
+        <item quantity="one">Günə təxminən %d element</item>
+     </plurals>
     <plurals name="nrca_info">
         <item quantity="other">Dəyişikliklər %d saniyəyə tətbiq olunacaq</item>
         <item quantity="one">Dəyişikliklər %d saniyəyə tətbiq olunacaq</item>
@@ -187,6 +195,10 @@
     <plurals name="saved_network_checked_num">
         <item quantity="other">%d element seçildi</item>
         <item quantity="one">%d element seçildi</item>
+    </plurals>
+	<plurals name="search_app_hint">
+        <item quantity="other">%d tətbiqi axtar</item>
+        <item quantity="one">%d tətbiqi axtar</item>
     </plurals>
     <plurals name="show_cit_countdown">
         <item quantity="other">"Təchizat testlərinə %1$d addım qaldı."</item>
