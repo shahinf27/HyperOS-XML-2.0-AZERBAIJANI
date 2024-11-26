@@ -77,8 +77,8 @@
         <item quantity="one">%d yeni bildiriş</item>
     </plurals>
     <plurals name="net_booster_expire_notification_tip">
-        <item quantity="other">Şəbəkə sürətini artırma seansınız %d günə bitir. Şəbəkə gecikmələri yaşamağa başlaya bilərsiniz. Seans indi yenilənsin?</item>
-        <item quantity="one">Şəbəkə sürətini artırma seansınız %d günə bitir. Şəbəkə gecikmələri yaşamağa başlaya bilərsiniz. Seans indi yenilənsin?</item>
+        <item quantity="other">Şəbəkə sürətini artırma seansınız %d günə bitir. Şəbəkə gecikmələri yaşaya bilərsiniz. Seans indi yenilənsin?</item>
+        <item quantity="one">Şəbəkə sürətini artırma seansınız %d günə bitir. Şəbəkə gecikmələri yaşaya bilərsiniz. Seans indi yenilənsin?</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d dəqiqə əvvəl</item>
