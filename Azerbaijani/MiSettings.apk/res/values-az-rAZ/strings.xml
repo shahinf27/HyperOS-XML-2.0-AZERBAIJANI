@@ -48,8 +48,10 @@
     <string name="animal_select_alert_info">5 elementə qədər seçə bilərsiniz</string>
     <string name="anti_flicker_mode">Titrəməsiz</string>
     <string name="anti_flicker_mode_categroy">Rejimlər</string>
+	<string name="anti_flicker_mode_new_data">Universal DC qaraltma</string>
     <string name="anti_flicker_mode_summary">Zəif işıq şəraitində aşırı titrəməni önləyin və göz yorğunluğunu azaldın</string>
     <string name="anti_flicker_mode_summary_new">Göz yorğunluğunu azaltmaq üçün zəif işıqda DC qaralmanı istifadə edin</string>
+	<string name="anti_flicker_mode_summary_new_data">Göz yorğunluğunu azaltmaq üçün tam parlaqlıqda istifadə edin</string>
     <string name="anti_flicker_title">Titrəməsiz rejim</string>
     <string name="app_cancel">İmtina</string>
     <string name="app_cta_desc">"Ayarlara xoş gəlmisiniz! Sizə xidmətlərimizi təqdim edə bilmək üçün bu məlumatları yığmağımız lazımdır: ekran kilidinin neçə dəfə açıldığı daxil olmaqla cihazını necə istifadə etməyiniz, hər bir tətbiqin adı və o tətbiqi nə qədər müddət istifadə etməyiniz, ekranı oyandırma vaxtı, Fokus rejimi nə qədər müddət açıq qalıb, ekrana nə qədər müddət baxmısınız, cihazınıza uzanarkən, sönük işıqda və yaxın məsafədə nə qədər baxmısınız. Yuxarıda göstərilən məlumatlar, yalnız cihazınızda istifadə olunur."</string>
@@ -794,12 +796,15 @@
     <string name="no_sound_summary">Yoxdur</string>
     <string name="no_unhealthy_eyes_habits">Qeyri-sağlam vərdiş datası yoxdur</string>
     <string name="noon">Günorta</string>
-    <string name="normal_mode">Müntəzəm</string>
+    <string name="normal_mode">Normal</string>
+	<string name="normal_mode_new_data">Yüksək tezlikdə PWM qaraltma</string>
     <string name="normal_mode_summary">"Zəif işıq şəraitində titrəməni azaltmayın"</string>
     <string name="normal_mode_summary_new">Zəif işıq şəraitində titrəməyə icazə ver</string>
+	<string name="normal_mode_summary_new_data">Göz yorğunluğunu azaltmaq üçün aşağı parlaqlıqda istifadə edin</string>
     <string name="north_white_rhinoceros">Ağ kərgədan</string>
     <string name="norway_lemmings">Norveç lemminqi</string>
     <string name="norway_lemmings_info">Norveç lemminqi, tundra və dağlıq ərazilərdə yaşayır və su yaxınlığında yaşamağa üstünlük verir.</string>
+	<string name="not_allowed_for_child">"Bu özəllik kiçiklər üçün əlçatmazdır"</string>
     <string name="not_set">Ayarlanmadı</string>
     <string name="notification_sound">Bildiriş səsləri</string>
     <string name="ocelot">Oselot</string>
