@@ -12,8 +12,6 @@
     <string name="AI_download_function_message">Mi AI-nin açıqlamalarınızdan şəkillər yaratması üçün \"Mi AI Image Creator\"u quraşdırın.</string>
     <string name="AI_download_title">Mi AI Image Creator modeli</string>
     <string name="AI_version_number">Versiya: %d</string>
-    <string name="FOCUS_MIJIA_LOW_VERSION">Hazırkı Mi Home versiyası aşağıdır, lütfən Mi Home 10.0 və daha yuxarı versiyaya yüksəldin</string>
-    <string name="FOCUS_NOT_INSTALL_MIJIA">Mi Home quraşdırılmayıb, lütfən detallar üçün endirin</string>
     <string name="HM_permission_desc_common">Öyrənmə modelləri və tövsiyə dəqiqliyini inkişaf etdirmək üçün</string>
     <string name="HM_permission_desc_phone_state">Zənglə əlaqəli modelləri icra etmək üçün</string>
     <string name="abc_action_bar_home_description">Əsas ekrana keç</string>
@@ -75,9 +73,7 @@
     <string name="aireco_intent_dialog_notification_title">İcazələr tələb olunur</string>
     <string name="aireco_intent_dialog_op_gps_service_message">Əhatəsindəki bütün xidmətləri təqdim edə bilməsi üçün Mi AI təkliflərinin yerləşmənizə müraciətinə icazə verin. Ayarlarda bu icazəni verə bilərsiniz.</string>
     <string name="aireco_intent_dialog_op_gps_service_title">Yerləşmə xidmətlərini aç</string>
-    <string name="aireco_intent_voice_assistant_launch_small_program_error">Remote service yanlışdır və WeChat Mini Program-ı açma uğursuz oldu</string>
-    <string name="aireco_intent_voice_error_privacy_update">Xiaoai Voice, gizlilik siyasətini güncəllədi, lütfən Xiaoai Voice-ə gedərək gizlilik siyasəti ilə razılaşın və sonra sınayın</string>
-    <string name="am">GƏ</string>
+	<string name="am">GƏ</string>
     <string name="app_name">Mi AI Mühərriki</string>
     <string name="app_name_hyper">Xiaomi HyperAI Engine</string>
     <string name="background_download">Anladım</string>
@@ -350,8 +346,8 @@
     <string name="dist_compute_pad_remind_content">Hesablama dəstəyini istifadə edə bilmək üçün hesabınıza daxil olmuş daha yüksək hesablama gücünə malik bir cihazla bağlantı qurun. Bunu Ayarlar &gt; Xiaomi HyperAI &gt; \"Hesablama dəstəyi\"ndə edə bilərsiniz.</string>
     <string name="dist_compute_pad_remind_title">Cihaza bağlan</string>
     <string name="dist_compute_pad_subtitle_local">Yaxınlıqdakı cihazların dəstəyi ilə AI brifinq və AI yazma özəlliklərini istifadə et</string>
-    <string name="dist_compute_pad_test_content">AI mesaj icmalı, mesajların icmalını hazırlamaq və sizə mühüm məlumatları göstərmək üçün böyük model imkanlarını istifadə edir. Bu özəlliyin işə salınması, enerji sərfiyyatını bir qədər artıracaq.</string>
-    <string name="dist_compute_pad_test_title">AI mesaj icmalı - Beta test</string>
+    <string name="dist_compute_pad_test_content">Böyük model bacarıqlarına əsaslanaraq, uzun önizləmə məzmununu ağıllı şəkildə ümumiləşdirir və vacib məlumatları cəld şəkildə əldə edir. Bu özəlliyin işə salınması, enerji sərfiyyatını bir qədər artıracaq.</string>
+    <string name="dist_compute_pad_test_title">Bildiriş siyahısı icmalı, daxili test dəvəti</string>
     <string name="dist_compute_privacy_management">Gizlilik</string>
     <string name="dist_compute_setting_switch_content_local">"Yaxınlıqdakı cihazlar, bu cihazın hesablama gücünü istifadə edərək AI brifinq və AI yazma özəlliklərini istifadə edə bilər"</string>
     <string name="dist_compute_title">Hesablama dəstəyi</string>
@@ -383,29 +379,9 @@
     <string name="fmt_date_numeric_year_month_day">d-M-yyyy</string>
     <string name="fmt_date_short_month_day">d MMM</string>
     <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
-    <string name="focus_alread_arrive">Çatıb</string>
-    <string name="focus_data_error">nəzərdə tutulan datanı tapa bilmir</string>
-    <string name="focus_hypermind_operation_metro_info">%1$s stansiyasına çatmısınız, stansiyaya daxil olmaq və stansiyanı tərk etmək üçün minmə kodunuzu aça bilərsiniz.</string>
-    <string name="focus_hypermind_operation_success">uğurlu</string>
-    <string name="focus_metro_code">Minmə kodu</string>
-    <string name="focus_operate_failed">Nəsə səhv getdi</string>
-    <string name="focus_please_show_qr_code">, avtobusa minmək üçün kodu skan edə bilərsiniz</string>
-    <string name="focus_super_va">超级小爱</string>
-    <string name="focus_weather_button">Səyahət seçimlərinə bax</string>
-    <string name="focus_weather_context">%1$s - %2$s başlayır</string>
-    <string name="focus_weather_title">Gediş-gəliş zamanı %1$s var, erkən tərk etmək tövsiyə olunur, yağış geyimi götürməyi unutmayın və səyahət zamanı təhlükəsizliyə diqqət edin</string>
     <string name="friday">Cümə</string>
     <string name="friday_short">Cüm</string>
     <string name="friday_shortest">Cüm</string>
-    <string name="google_application_id"></string>
-    <string name="hmind_cancel">Ləğv et</string>
-    <string name="hmind_download">Mijia-nı endir</string>
-    <string name="hmind_mj_download_hint">Detallara baxmaq üçün lütfən endirin</string>
-    <string name="hmind_mj_download_hint_title">Quraşdırılmayıb</string>
-    <string name="hmind_mj_version_low">Detallara baxmaq üçün lütfən güncəlləyin</string>
-    <string name="hmind_mj_version_low_title">Hazırkı versiya çox aşağıdır</string>
-    <string name="hmind_network_disable">Şəbəkə mövcud deyil, lütfən şəbəkəyə bağlanıb yenidən sınayın</string>
-    <string name="hmind_update">Güncəllə</string>
     <string name="icon_content_description">Dialoq ikonu</string>
     <string name="install_wps_dialog_cancel_text">Ləğv et</string>
     <string name="install_wps_dialog_confirm_text">Təsdiqlə</string>
@@ -555,7 +531,6 @@
     <string name="notification_operation_failed">"Model xatırlana bilmədi"</string>
     <string name="notification_remember_habit">Naxış xatırlandı</string>
     <string name="notification_remember_this_habit">Naxışı xatırla</string>
-    <string name="open_qr_code_for_traffic">Minmə kodunu aç</string>
     <string name="passport_access_denied">Müraciət rədd edildi</string>
     <string name="passport_account_crop_user_avatar">Fotonu qayçıla</string>
     <string name="passport_account_empty_user_name">Adınızı daxil edin</string>
@@ -732,8 +707,8 @@
     <string name="privacy_agreement">Gizlilik Siyasəti</string>
     <string name="privacy_cancel">İmtina</string>
     <string name="privacy_cancel_not_do">"İmtina edilməsin"</string>
-    <string name="privacy_cancel_privacy_detail">Xiaomi HyperAI Engine Gizlilik Siyasətinə verdiyiniz razılığı geri götürmə</string>
-    <string name="privacy_cancel_privacy_title">Razılığın geri götürülməsi</string>
+    <string name="privacy_cancel_privacy">Razılığı geri götürmə</string>
+    <string name="privacy_cancel_privacy_title">Xidmətlərdən imtina</string>
     <string name="privacy_cancel_service">Xidmətlərdən imtina</string>
     <string name="privacy_cannel_service">Xidmətlərdən imtina</string>
     <string name="privacy_cannel_service_content">"Davam etsəniz, Xiaomi HyperAI Engine xidmətləri ləğv ediləcək. Bütün əlaqəli fərdi məlumatlarınız həmişəlik silinəcək. İndi xidmətlər ləğv edilsin?"</string>
@@ -743,18 +718,6 @@
     <string name="privacy_cta_all_purpose_old_user">Mi AI Engine, Mi AI təkliflərini dəstəkləyən, kontekstual fərqindəlik və ağıllı tanıma bacarıqlarını təqdim edən təməl bir xidmətdir. Bu, vəziyyətinizi dərk edə, vərdişlərinizi öyrənə və dəqiq, fərdiləşdirilmiş xidmətlər təmin edə bilər. Bu güncəlləmə ilə, Mi AI Engine təkliflərinin bulud datası yeni xidmətə köçürüləcək və daxili data artıq istifadə olunmayacaq. Mi AI Engine, bu məlumatları yenidən öyrənəcək. Mi AI Engine Gizlilik Siyasəti ilə razılaşmağınız, Mi AI Engine-ə güvənən xidmətləri də əhatə edir (məs. Xiaomi HyperMind).</string>
     <string name="privacy_dialog_location_message">Mi AI təkliflərinin yerləşmənizə müraciətinə icazə verin və \"Həmişə icazə ver\"i seçin. Ayarlarda bu icazəni verə bilərsiniz.</string>
     <string name="privacy_dialog_location_title">İcazələr tələb olunur</string>
-    <string name="privacy_dialog_manager_data_access_car_content">Xiaomi EV tətbiqindəki icazələri verin</string>
-    <string name="privacy_dialog_manager_data_access_car_title">Xiaomi EV</string>
-    <string name="privacy_dialog_manager_data_access_description">Sizin icazənizlə Proaktiv zəka, İnsan × Avtomobil × Ev ekosistem cihazları üçün avtomatlaşdırılmış kontrollar yaratmağınıza kömək edə bilər. Proaktiv zəka və Xiaomi Home avtomatlaşdırmaları, eyni avtomatlaşdırma mühərrikinə güvəndiyi üçün, bu icazə hər iki özəlliyə də şamil edilir.</string>
-    <string name="privacy_dialog_manager_data_access_detail"><Data>Daha çox detal üçün &lt;a href=\"%1$s\"&gt;İnsan × Avtomobil × Ev Ekosistem Datalarını Paylaşma Bəyanatını&lt;/a&gt; oxuyun</Data></string>
-    <string name="privacy_dialog_manager_data_access_granted">Bura müraciətə icazə ver:</string>
-    <string name="privacy_dialog_manager_data_access_health_content">Health və fitness datası və ağıllı geyinə bilən cihaz identifikatorları</string>
-    <string name="privacy_dialog_manager_data_access_health_title">Mi Fitness</string>
-    <string name="privacy_dialog_manager_data_access_home_content">Xiaomi Home-dan ağıllı ev cihazı məlumatları, yerləşmə, cihazların necə istifadə edildiyinə dair məlumatlar və ağıllı ev cihazları tərəfindən bildirilən məlumatlar</string>
-    <string name="privacy_dialog_manager_data_access_home_title">Xiaomi Home</string>
-    <string name="privacy_dialog_manager_data_access_phone_content">Xiaomi HyperAI Engine-dən cihazınız və onu necə istifadə etməyinizlə bağlı məlumatlar</string>
-    <string name="privacy_dialog_manager_data_access_phone_title">Xiaomi telefonu</string>
-    <string name="privacy_dialog_manager_data_access_title">İnsan × Avtomobil × Ev icazələri</string>
     <string name="privacy_dialog_retention_comment"><Data>Bu tətbiqi istifadə etməzdən əvvəl &lt;a href=\"%1$s\"&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; və &lt;a href=\"%2$s\"&gt;Gizlilik Siyasətimizi&lt;/a&gt; oxuyun və razılaşın.</Data></string>
     <string name="privacy_dialog_retention_content_agree_privacy">\"Mi AI təkliflərini istifadə edə bilmək üçün &lt;a href=\"%1$s\"&gt;Xiaomi HyperAI Engine Gizlilik Siyasəti&lt;/a&gt; ilə razılaşın. Əgər razılaşmasanız, yalnız tətbiq təkliflərini istifadə edə biləcəksiniz. Güncəllənmiş &lt;a href=\"%2$s\"&gt;Xiaomi HyperAI Engine Gizlilik Siyasəti&lt;/a&gt; ilə indi razılaşırsınız?\"&lt;/Data&gt;</string>
     <string name="privacy_dialog_retention_content_express_permission">Bu özəllik, lazımi xidmətləri təmin etməsi üçün internetə bağlanmalıdır. Əlavə xidmətlər təmin etmək üçün aşağıdakı icazələri tələb edə bilərik: Bluetooth və Wi-Fi-ı açıb bağlama, telefon nömrəsinə, zəng statusuna, SMS və MMS məzmununa, cihazınızda quraşdırılmış tətbiqlər barədə məlumatlara, cihazın MAC ünvanına, yerləşməsinə və cihazınızdakı musiqi, səs, foto və videolara müraciət. İstənilən vaxt icazə ayarlarınızı nizamlaya bilərsiniz.</string>
@@ -774,16 +737,6 @@ Gizliliyinizə əhəmiyyət veririk. Bütün məlumatlar anonimləşdirilir. Xia
     <string name="privacy_is_close">Açıq deyil</string>
     <string name="privacy_logout">İmtina</string>
     <string name="privacy_management">Gizlilik</string>
-    <string name="privacy_manager_data_access_car_content">Xiaomi EV tətbiqindəki icazələri verin</string>
-    <string name="privacy_manager_data_access_car_title">Xiaomi EV</string>
-    <string name="privacy_manager_data_access_home_content">Xiaomi Home-dan ağıllı ev cihazı məlumatları, yerləşmə, cihazların necə istifadə edildiyinə dair məlumatlar və ağıllı ev cihazları tərəfindən bildirilən məlumatlar</string>
-    <string name="privacy_manager_data_access_home_title">Xiaomi Home</string>
-    <string name="privacy_manager_data_access_management_tips">Proaktiv zəkanın (Xiaomi Home daxilində Xiaomi Home təklifləri olaraq adlandırılır) və Xiaomi Home avtomatlaşdırmalarının, əlaqələndirilmiş cihazları və avtomatlaşdırmaları idarə edə bilməsi üçün hesabınıza əlaqələndirilmiş İnsan × Avtomobil × Ev datalarına müraciət etməsinə icazə verin</string>
-    <string name="privacy_manager_data_access_management_title">İnsan × Avtomobil × Ev müraciəti</string>
-    <string name="privacy_manager_data_access_phone_content">Xiaomi HyperAI Engine-dən cihazınız və onu necə istifadə etməyinizlə bağlı məlumatlar</string>
-    <string name="privacy_manager_data_access_phone_title">Xiaomi telefonu</string>
-    <string name="privacy_manager_data_access_wear_content">Health və fitness datası və ağıllı geyinə bilən cihaz identifikatorları</string>
-    <string name="privacy_manager_data_access_wear_title">Mi Fitness</string>
     <string name="privacy_manager_law">Hüquqi sənədlər</string>
     <string name="privacy_manager_permission">İcazələr</string>
     <string name="privacy_manager_permission_detail">Gizliliyinizi və güvənliyinizi təmin etmək üçün icazə ayarlarınızı idarə edin</string>
@@ -791,14 +744,14 @@ Gizliliyinizə əhəmiyyət veririk. Bütün məlumatlar anonimləşdirilir. Xia
     <string name="privacy_manager_privacy_switch_title">Xiaoai Suggest xidmət optimallaşdırma</string>
     <string name="privacy_manager_setting">Gizlilik ayarları</string>
     <string name="privacy_manager_user_improvement_plan">İstifadəçi Təcrübə Proqramı</string>
-    <string name="privacy_manager_user_improvement_plan_detail">Öz xidmətlərini inkişaf etdirmək üçün Xiaomi HyperAI Engine-in datalarınızı istifadə etməsinə icazə verin</string>
+    <string name="privacy_manager_user_improvement_plan_detail">Xiaomi HyperAI Engine-in tövsiyə alqoritmlərini inkişaf etdirməsi üçün datalarınızı istifadə etməsinə icazə verin</string>
     <string name="privacy_op_gps_service_dialog_message">Daha dəqiq xidmətləri təqdim edə bilməsi üçün Mi AI təkliflərinin yerləşmənizə müraciətinə icazə verin. Ayarlarda bu icazəni verə bilərsiniz.</string>
     <string name="privacy_op_gps_service_dialog_title">İcazələr tələb olunur</string>
     <string name="privacy_permission_tip_text">Yerləşməyə müraciətə icazə verin və \"Həmişə icazə ver\"i seçin</string>
     <string name="privacy_personalized">Fərdiləşdirilmiş tövsiyələr</string>
     <string name="privacy_personalized_close_content">"Bu özəllik söndürüldükdə, fərdiləşdirilmiş tövsiyələr almayacaqsınız və kart sifarişi, istifadə tarixçənizə əsaslanmayacaq"</string>
     <string name="privacy_personalized_close_title">Fərdiləşdirilmiş tövsiyələri söndür</string>
-    <string name="privacy_personalized_content">Daha dəqiq, fərdiləşdirilmiş xidmətlər təqdim etməsi üçün datanızı istifadə edir</string>
+    <string name="privacy_personalized_content">Əgər bu özəlliyi söndürsəniz, Xiaomi HyperAI Engine, artıq fərdiləşdirilmiş xidmətləri təqdim etmək üçün fərdi məlumatlarınızı istifadə etməyəcək. Bu məlumatlar, hazırda yalnız Mi AI təklifləri üçün istifadə olunur.</string>
     <string name="privacy_refuse">İndi yox</string>
     <string name="privacy_request_background_location_permission_reason">Arxaplanda yerləşmə məlumatlarına əsasən səyahət təklifləri, sürüş kodları və ağıllı ev təkliflərini təqdim etmək üçün</string>
     <string name="privacy_request_location_permission_reason">Yerləşmə məlumatlarına əsasən səyahət təklifləri, sürüş kodları və ağıllı ev təkliflərini təqdim etmək üçün</string>
@@ -808,14 +761,14 @@ Gizliliyinizə əhəmiyyət veririk. Bütün məlumatlar anonimləşdirilir. Xia
     <string name="privacy_tip_item_view_location_permission_hint">Bu tətbiqin yerləşməyə müraciətə icazə verin və \"Həmişə icazə ver\"i seçin</string>
     <string name="privacy_update_user_notice_title">Diqqət</string>
     <string name="privacy_user_agreement">İstifadəçi Razılaşması</string>
-    <string name="privacy_user_experience">İstifadəçi Təcrübə Proqramına qoşul</string>
+    <string name="privacy_user_experience">İstifadəçi Təcrübə Proqramı</string>
     <string name="privacy_user_experience_banner_content">"İstifadəçi Tərcrübə Proqramına qoşulduğunuz zaman, bunları alacaqsınız:
 1. Daha dəqiq səyahət, gediş-gəliş və ağıllı ev xidmətləri.
 2. Developer-lərlə təkbətək ünsiyyət qurma imkanı.
 3. Yeni Xiaomi HyperAI Engine özəlliklərini ilk təcrübə edənlərdən biri olun."</string>
     <string name="privacy_user_experience_banner_title">Xiaomi HyperAI Engine-in daha da yaxşılaşmasına kömək edin</string>
     <string name="privacy_withdraw">Geri götür</string>
-    <string name="privacy_withdraw_content">"Davam etsəniz, \"Xiaomi HyperAI Engine\"nin Gizlilik Siyasətinə verdiyiniz razılığı geri götürəcəksiniz. Şəxsi məlumatların yığılmasını dayandıracağıq, artıq yığılmış və saxlanılmış şəxsi məlumatlar, əksi tələb olunmadığı müddətcə, müvafiq qanun və nizamlamalara uyğun olaraq müəyyən bir müddət ərzində silinəcəkdir. \"Xiaomi HyperAI Engine\", öz xidmətlərini lazımi şəxsi məlumatların yığılması əsasında təmin etdiyi üçün, razılığınızı geri götürməyiniz, Proaktiv zəka, Xiaomi HyperAI axtarışı, Super Mi AI və Hesablama dəstəyi daxil olmaqla, bu xidmətləri qəbul etməkdən imtina olaraq nəzərə alınacaq. Razılıq indi geri götürülsün?"</string>
+    <string name="privacy_withdraw_content">"Davam etsəniz, \"Xiaomi HyperAI Engine\"nin Gizlilik Siyasətinə verdiyiniz razılığı geri götürəcəksiniz. Şəxsi məlumatların yığılmasını dayandıracağıq, artıq yığılmış və saxlanılmış şəxsi məlumatlar, əksi tələb olunmadığı müddətcə, müvafiq qanun və nizamlamalara uyğun olaraq müəyyən bir müddət ərzində silinəcəkdir. \"Xiaomi HyperAI Engine\", öz xidmətlərini lazımi şəxsi məlumatların yığılması əsasında təmin etdiyi üçün, razılığınızı geri götürməyiniz, Mi AI təklifləri xidmətlərini qəbul etməkdən imtina olaraq nəzərə alınacaq. Razılıq indi geri götürülsün?"</string>
     <string name="privacy_withdraw_title">Razılığı geri götür</string>
     <string name="prompt_delete_model">Bu model silinsin?</string>
     <string name="qq_application_id"></string>
