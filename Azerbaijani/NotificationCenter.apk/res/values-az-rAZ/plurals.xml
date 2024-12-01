@@ -36,6 +36,10 @@
         <item quantity="other">%d dəq əvvəl</item>
         <item quantity="one">%d dəq əvvəl</item>
     </plurals>
+    <plurals name="aon_on_confirm">
+        <item quantity="other">Oldu (%ds)</item>
+        <item quantity="one">Oldu (%ds)</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">Yarım saat əvvəl</item>
         <item quantity="other">Yarım saat əvvəl</item>
