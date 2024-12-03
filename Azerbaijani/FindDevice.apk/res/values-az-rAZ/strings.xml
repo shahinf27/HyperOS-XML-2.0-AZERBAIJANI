@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="activate_xiaomi_account">Bu cihazı aktivləşdir</string>
-    <string name="activate_xiaomi_account_guide"></string>
+    <string name="activate_xiaomi_account_guide">Daxili ekranda davam et</string>
     <string name="adding_or_updating_account">Hesab güncəllənir…</string>
-    <string name="androidx_startup">androidx.startup</string>
     <string name="app_name">Cihazı tap</string>
     <string name="call_notification_answer_action">Cavabla</string>
     <string name="call_notification_answer_video_action">Görüntülü</string>
@@ -12,7 +11,6 @@
     <string name="call_notification_incoming_text">Gələn zəng</string>
     <string name="call_notification_ongoing_text">Davam edən zəng</string>
     <string name="call_notification_screening_text">Gələn bir zəngin filtrlənməsi</string>
-    <string name="captcha">Captcha</string>
     <string name="change_find_device_status_failed">"Kilid açıla bilmədi. %s."</string>
     <string name="common_google_play_services_enable_button">Fəallaşdır</string>
     <string name="common_google_play_services_enable_text">"Google Play xidmətlərini fəallaşdırana qədər %1$s işləməyəcək."</string>
@@ -40,7 +38,6 @@ kilidlənib.
 Ətraflı məlumat üçün satış nümayəndəsi ilə əlaqə saxlayın."</string>
     <string name="default_lock_msg_words">Bu cihaz mövcud Xiaomi Hesabı ilə əlaqələndirilib. Güvənlik səbəblərinə görə cihazı doğrulamaq üçün parolu daxil etməlisiniz.</string>
     <string name="default_lock_msg_words_with_phone">Salam! Bu cihazı itirmişəm. Lütfən mənimlə əlaqə saxlaya bilərsiniz? Təşəkkürlər!</string>
-    <string name="default_web_client_id">630236635882-e9rqvpt2onbe87uramm8stt7v375of1e.apps.googleusercontent.com</string>
     <string name="device_locked">Bu cihaz kilidlidir</string>
     <string name="device_lost">Bu cihaz itib</string>
     <string name="disable_find_device_error">"\"Cihazı tap\" söndürülə bilmədi. %1$s"</string>
@@ -58,7 +55,6 @@ kilidlənib.
     <string name="find_device_error_access_denied">Müraciət rədd edildi.</string>
     <string name="find_device_error_account_sys_timeout">"Xiaomi Hesabına bağlana bilmədi."</string>
     <string name="find_device_error_account_unknown_error">Xiaomi Hesabı xətası (%s).</string>
-    <string name="find_device_error_custom">%s</string>
     <string name="find_device_error_network">Şəbəkə xətası.</string>
     <string name="find_device_error_password_changed">Hesab parolu təzəlikcə dəyişdirildi.</string>
     <string name="find_device_error_server">Server xətası (%s).</string>
@@ -72,11 +68,6 @@ kilidlənib.
     <string name="find_device_storage_corrupted">\"Cihaz tap\" anbar sahəsi zədələndi. Cihazınız indi güvəndə deyil.</string>
     <string name="find_device_success_title">\"Cihazı tap\" açıqdır</string>
     <string name="find_device_telephony_fault">Cihazı tap: Telefon xətası (%s).</string>
-    <string name="gcm_defaultSenderId">630236635882</string>
-    <string name="google_api_key">AIzaSyD0N3c1iN_Y93_Xslg5n_ZSN_HNTQxw7ew</string>
-    <string name="google_app_id">1:630236635882:android:29cce928e80a9a6b96ed93</string>
-    <string name="google_crash_reporting_api_key">AIzaSyD0N3c1iN_Y93_Xslg5n_ZSN_HNTQxw7ew</string>
-    <string name="google_storage_bucket">micloud-43705.appspot.com</string>
     <string name="i_know">Oldu</string>
     <string name="lock_msg_phone">Əlaqə məlumatları: %s</string>
     <string name="login_extra_steps">Daxil olma doğrulaması</string>
@@ -94,10 +85,7 @@ kilidlənib.
     <string name="phone_locked">Bu cihaz, Xiaomi Hesabı (%s) ilə əlaqələndirilib. Cihazı aktivləşdirmək üçün parolu daxil edin.</string>
     <string name="phone_locked_account_email">, əlaqələndirilmiş e-poçt: %s</string>
     <string name="phone_locked_account_phone">, əlaqələndirilmiş telefon nömrəsi: %s</string>
-    <string name="project_id">micloud-43705</string>
-    <string name="required_permissions">android.permission.READ_PHONE_STATE;android.permission.ACCESS_FINE_LOCATION;android.permission.ACCESS_BACKGROUND_LOCATION;android.permission.ACCESS_COARSE_LOCATION;android.permission.SEND_SMS</string>
     <string name="return_to_call">Zəngə qayıt</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stop_on_empty_captcha">"Captcha boş buraxıla bilməz"</string>
     <string name="stop_on_empty_password">"Parol boş ola bilməz"</string>
     <string name="sys_notification_async_open_failed_content">Yenidən sınamaq üçün toxunun və ya ləğv edin.</string>
