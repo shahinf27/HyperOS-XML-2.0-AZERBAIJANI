@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="one">1 saat əvvəl</item>
+        <item quantity="other">1 saat əvvəl</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="one">1 saat əvvəl</item>
+        <item quantity="other">1 saat əvvəl</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="one">Yarım saat əvvəl</item>
+        <item quantity="other">Yarım saat əvvəl</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="one">1 saat ərzində</item>
+        <item quantity="other">1 saat ərzində</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="one">Yarım saat ərzində</item>
+        <item quantity="other">Yarım saat ərzində</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="one">Dərhal</item>
+        <item quantity="other">Dərhal</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d dəq ərzində</item>
+        <item quantity="one">1 dəq ərzində</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="one">İndicə</item>
+        <item quantity="other">İndicə</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d dəq əvvəl</item>
+        <item quantity="one">1 dəq əvvəl</item>
+    </plurals>
+    <plurals name="birthday_format">
+        <item quantity="other">" (%1$d yaşında)"</item>
+        <item quantity="one">" (%1$d yaşında)"</item>
+    </plurals>
+    <plurals name="count_duration_standard">
+        <item quantity="other">%1$d-%2$d dəfə</item>
+        <item quantity="one">%1$d-%2$d dəfə</item>
+    </plurals>
+    <plurals name="cousume_unit_format">
+        <item quantity="other">%1$d Kal</item>
+        <item quantity="one">%1$d Kal</item>
+    </plurals>
+    <plurals name="daily_suggestions_steps">
+        <item quantity="other">Hər gün ən azı %1$d addım gəzin</item>
+        <item quantity="one">Hər gün ən azı %1$d addım gəzin</item>
+    </plurals>
+    <plurals name="day_index">
+        <item quantity="other">%1$d gün</item>
+        <item quantity="one">%1$d gün</item>
+    </plurals>
+    <plurals name="days_in_menstrual_period">
+        <item quantity="other">Period müddəti: %1$d gün</item>
+        <item quantity="one">Period müddəti: %1$d gün</item>
+    </plurals>
+    <plurals name="days_in_period">
+        <item quantity="other">Dövr müddəti: %1$d gün</item>
+        <item quantity="one">Dövr müddəti: %1$d gün</item>
+    </plurals>
+    <plurals name="dialog_choose_items">
+        <item quantity="other">%1$d element seçildi</item>
+        <item quantity="one">%1$d element seçildi</item>
+    </plurals>
+    <plurals name="dialog_delete_records_confirm">
+        <item quantity="other">%1$d qeyd silinsin?</item>
+        <item quantity="one">%1$d qeyd silinsin?</item>
+    </plurals>
+    <plurals name="dream_talk_segment">
+        <item quantity="other">%1$d qeyd</item>
+        <item quantity="one">%1$d qeyd</item>
+    </plurals>
+    <plurals name="dream_talk_segment_unit">
+        <item quantity="other">" misal"</item>
+        <item quantity="one">" misal"</item>
+    </plurals>
+    <plurals name="duration_unit_hour_format">
+        <item quantity="other">%1$d sa</item>
+        <item quantity="one">%1$d sa</item>
+    </plurals>
+    <plurals name="duration_unit_minute_format">
+        <item quantity="other">%1$d dəq</item>
+        <item quantity="one">%1$d dəq</item>
+    </plurals>
+    <plurals name="duration_unit_second_format">
+        <item quantity="other">%1$d san</item>
+        <item quantity="one">%1$d san</item>
+    </plurals>
+    <plurals name="goal_format_with_unit">
+        <item quantity="other">Hədəf: %1$d addım</item>
+        <item quantity="one">Hədəf: %1$d addım</item>
+    </plurals>
+    <plurals name="goal_unit">
+        <item quantity="other">" addım"</item>
+        <item quantity="one">" addım"</item>
+    </plurals>
+    <plurals name="goal_unit_with_number">
+        <item quantity="other">%1$d addım</item>
+        <item quantity="one">%1$d addım</item>
+    </plurals>
+    <plurals name="group_unit">
+        <item quantity="other">%1$d dövr</item>
+        <item quantity="one">%1$d dövr</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="one">Yarım saat əvvəl</item>
+        <item quantity="other">Yarım saat əvvəl</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%1$d sa</item>
+        <item quantity="one">%1$d sa</item>
+    </plurals>
+    <plurals name="hr_fp_detect_time_remainder">
+        <item quantity="other">%1$d saniyə qaldı</item>
+        <item quantity="one">%1$d saniyə qaldı</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="one">1 saat ərzində</item>
+        <item quantity="other">1 saat ərzində</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="one">Yarım saat ərzində</item>
+        <item quantity="other">Yarım saat ərzində</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="one">Dərhal</item>
+        <item quantity="other">Dərhal</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d dəqiqə ərzində</item>
+        <item quantity="one">1 dəqiqə ərzində</item>
+    </plurals>
+    <plurals name="last_measure_date_interval">
+        <item quantity="other">Son çəki ölçmədən %1$d gün keçib</item>
+        <item quantity="one">Son çəki ölçmədən %1$d gün keçib</item>
+    </plurals>
+    <plurals name="last_measure_day_body_weight">
+        <item quantity="other">Son çəki ölçmədən %1$d gün keçib</item>
+        <item quantity="one">Son çəki ölçmədən %1$d gün keçib</item>
+    </plurals>
+    <plurals name="length_unit_meter_format">
+        <item quantity="other">%1$d metr</item>
+        <item quantity="one">%1$d metr</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="one">İndicə</item>
+        <item quantity="other">İndicə</item>
+    </plurals>
+    <plurals name="mens_offset_predict_menstrual_period">
+        <item quantity="other">Periodunuz çox güman ki, %1$d günə başlayacaq</item>
+        <item quantity="one">Periodunuz çox güman ki, %1$d günə başlayacaq</item>
+    </plurals>
+    <plurals name="menstruation_sum_days">
+        <item quantity="other">%1$d günlük period</item>
+        <item quantity="one">%1$d günlük period</item>
+    </plurals>
+    <plurals name="mesens_card_title_day_in_predict">
+        <item quantity="other">%1$d. gün (gözlənilən)</item>
+        <item quantity="one">%1$d. gün (gözlənilən)</item>
+    </plurals>
+    <plurals name="mesens_card_title_days">
+        <item quantity="other">Gün %1$d</item>
+        <item quantity="one">Gün %1$d</item>
+    </plurals>
+    <plurals name="mesens_card_title_predict_date">
+        <item quantity="other">Növbəti period %1$d gün ərzində</item>
+        <item quantity="one">Növbəti period %1$d gün ərzində</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%1$d dəq</item>
+        <item quantity="one">%1$d dəq</item>
+    </plurals>
+    <plurals name="minutes_ago">
+        <item quantity="other">%1$d dəq əvvəl</item>
+        <item quantity="one">%1$d dəq əvvəl</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d element seçildi</item>
+        <item quantity="one">%d element seçildi</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d yeni bildiriş</item>
+        <item quantity="one">%d yeni bildiriş</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d dəqiqə əvvəl</item>
+        <item quantity="one">1 dəqiqə əvvəl</item>
+    </plurals>
+    <plurals name="sleep_goal_by_hour">
+        <item quantity="other">Hədəf: %1$d saat</item>
+        <item quantity="one">Hədəf: %1$d saat</item>
+    </plurals>
+    <plurals name="sleep_management_exp_hours">
+        <item quantity="other">"Hazırkı ayarlar sizə gündəlik %1$d saatlıq yuxu zəmanəti vermir. Bundan daha çoxuna ehtiyacınız var."</item>
+        <item quantity="one">"Hazırkı ayarlar sizə gündəlik %1$d saatlıq yuxu zəmanəti vermir. Bundan daha çoxuna ehtiyacınız var."</item>
+    </plurals>
+    <plurals name="sport_tts_goal_consume">
+        <item quantity="other">Hədəfinizə çatana qədər yandırmaq üçün daha %s kalori qalıb</item>
+        <item quantity="one">Hədəfinizə çatana qədər yandırmaq üçün daha %s kalori qalıb</item>
+    </plurals>
+    <plurals name="sport_tts_goal_distance">
+        <item quantity="other">Hədəfinizə çatmağınıza daha %s kilometr qalıb</item>
+        <item quantity="one">Hədəfinizə çatmağınıza daha %s kilometr qalıb</item>
+    </plurals>
+    <plurals name="sport_tts_goal_time">
+        <item quantity="other">Hədəfinizə çatmağınıza %s dəqiqə qalıb</item>
+        <item quantity="one">Hədəfinizə çatmağınıza %s dəqiqə qalıb</item>
+    </plurals>
+    <plurals name="sport_tts_riding_distance">
+        <item quantity="other">"%s kilometr velosiped sürdünüz"</item>
+        <item quantity="one">"%s kilometr velosiped sürdünüz"</item>
+    </plurals>
+    <plurals name="sport_tts_running_distance">
+        <item quantity="other">"%s kilometr qaçdınız"</item>
+        <item quantity="one">"%s kilometr qaçdınız"</item>
+    </plurals>
+    <plurals name="sport_tts_total_consume">
+        <item quantity="other">"%s kalori yandırdınız"</item>
+        <item quantity="one">"%s kalori yandırdınız"</item>
+    </plurals>
+    <plurals name="sport_tts_walking_distance">
+        <item quantity="other">"%s kilometr gəzdiniz"</item>
+        <item quantity="one">"%s kilometr gəzdiniz"</item>
+    </plurals>
+    <plurals name="sporting_content_calories">
+        <item quantity="other">"Artıq %1$s kalori yandırdınız"</item>
+        <item quantity="one">"Artıq %1$s kalori yandırdınız"</item>
+    </plurals>
+    <plurals name="sporting_content_min">
+        <item quantity="other">%1$d dəqiqə</item>
+        <item quantity="one">%1$d dəqiqə</item>
+    </plurals>
+    <plurals name="sporting_content_riding_km">
+        <item quantity="other">"Artıq %1$s kilometr velosiped sürmüsünüz"</item>
+        <item quantity="one">"Artıq %1$s kilometr velosiped sürmüsünüz"</item>
+    </plurals>
+    <plurals name="sporting_content_running_km">
+        <item quantity="other">"Artıq %1$s kilometr qaçmısınız"</item>
+        <item quantity="one">"Artıq %1$s kilometr qaçmısınız"</item>
+    </plurals>
+    <plurals name="sporting_content_sec">
+        <item quantity="other">%1$d saniyə</item>
+        <item quantity="one">%1$d saniyə</item>
+    </plurals>
+    <plurals name="sporting_content_walking_km">
+        <item quantity="other">"Artıq %1$s kilometr gəzmisiniz"</item>
+        <item quantity="one">"Artıq %1$s kilometr gəzmisiniz"</item>
+    </plurals>
+    <plurals name="sporting_content_walking_stpe">
+        <item quantity="other">"Artıq %1$s addım gəzmisiniz"</item>
+        <item quantity="one">"Artıq %1$s addım gəzmisiniz"</item>
+    </plurals>
+    <plurals name="sporting_unit_calories">
+        <item quantity="other">%1$d kalori</item>
+        <item quantity="one">%1$d kalori</item>
+    </plurals>
+    <plurals name="sporting_unit_step">
+        <item quantity="other">addım</item>
+        <item quantity="one">addım</item>
+    </plurals>
+    <plurals name="step_num_format">
+        <item quantity="other">%1$d addım</item>
+        <item quantity="one">%1$d addım</item>
+    </plurals>
+    <plurals name="subtitle_add_record">
+        <item quantity="other">"%1$d gün qeyd etməmisiniz. Daha dəqiq təxminlər almaq üçün periodlarınızı qeyd edin."</item>
+        <item quantity="one">"%1$d gün qeyd etməmisiniz. Daha dəqiq təxminlər almaq üçün periodlarınızı qeyd edin."</item>
+    </plurals>
+    <plurals name="subtitle_menstruation_continued_days">
+        <item quantity="other">Bu period cəmi %1$d gün davam edir</item>
+        <item quantity="one">Bu period cəmi %1$d gün davam edir</item>
+    </plurals>
+    <plurals name="subtitle_menstruation_cycle_days">
+        <item quantity="other">Bu menstruasiya dövrünün %1$d. günü</item>
+        <item quantity="one">Bu menstruasiya dövrünün %1$d. günü</item>
+    </plurals>
+    <plurals name="sum_cycle_days">
+        <item quantity="other">%1$d günlük dövr</item>
+        <item quantity="one">%1$d günlük dövr</item>
+    </plurals>
+    <plurals name="time_duration_compare_standard">
+        <item quantity="other">≤%1$d dəqiqə</item>
+        <item quantity="one">≤%1$d dəqiqə</item>
+    </plurals>
+    <plurals name="time_duration_hour_float">
+        <item quantity="other">%1$.2f sa</item>
+        <item quantity="one">%1$.2f sa</item>
+    </plurals>
+    <plurals name="time_duration_hour_int">
+        <item quantity="other">%d saat</item>
+        <item quantity="one">%d saat</item>
+    </plurals>
+    <plurals name="time_duration_hour_standard">
+        <item quantity="other">%1$.1f-%2$.1f saat</item>
+        <item quantity="one">%1$.1f-%2$.1f saat</item>
+    </plurals>
+    <plurals name="time_duration_minute">
+        <item quantity="other">%1$d dəqiqə</item>
+        <item quantity="one">%1$d dəqiqə</item>
+    </plurals>
+    <plurals name="time_duration_minute_standard">
+        <item quantity="other">%1$d-%2$d dəqiqə</item>
+        <item quantity="one">%1$d-%2$d dəqiqə</item>
+    </plurals>
+    <plurals name="time_duration_time">
+        <item quantity="other">%1$d dəfə</item>
+        <item quantity="one">%1$d dəfə</item>
+    </plurals>
+    <plurals name="times_format">
+        <item quantity="other">%1$d dəfə</item>
+        <item quantity="one">%1$d dəfə</item>
+    </plurals>
+    <plurals name="title_menstruation_day">
+        <item quantity="other">Periodun %1$d. günü</item>
+        <item quantity="one">Periodun %1$d. günü</item>
+    </plurals>
+    <plurals name="title_menstruation_margin_next_time_days">
+        <item quantity="other">Növbəti perioda %1$d gün qaldı</item>
+        <item quantity="one">Növbəti perioda %1$d gün qaldı</item>
+    </plurals>
+    <plurals name="title_menstruation_predict_period">
+        <item quantity="other">Periodun təxminən %1$d. günü</item>
+        <item quantity="one">Periodun təxminən %1$d. günü</item>
+    </plurals>
+    <plurals name="title_today_exercise_steps">
+        <item quantity="other">bu gün %1$d addım</item>
+        <item quantity="one">bu gün %1$d addım</item>
+    </plurals>
+    <plurals name="unit_days">
+        <item quantity="other">" gün"</item>
+        <item quantity="one">" gün"</item>
+    </plurals>
+    <plurals name="unit_group">
+        <item quantity="other">" dövr"</item>
+        <item quantity="one">" dövr"</item>
+    </plurals>
+    <plurals name="unit_hours">
+        <item quantity="other">" sa "</item>
+        <item quantity="one">" sa "</item>
+    </plurals>
+    <plurals name="unit_hours2">
+        <item quantity="other">" saat "</item>
+        <item quantity="one">" saat "</item>
+    </plurals>
+    <plurals name="unit_mins">
+        <item quantity="other">" dəq "</item>
+        <item quantity="one">" dəq "</item>
+    </plurals>
+    <plurals name="unit_mins2">
+        <item quantity="other">" dəqiqə "</item>
+        <item quantity="one">" dəqiqə "</item>
+    </plurals>
+    <plurals name="unit_seconds">
+        <item quantity="other">" san "</item>
+        <item quantity="one">" san "</item>
+    </plurals>
+    <plurals name="unit_times">
+        <item quantity="other">" dəfə"</item>
+        <item quantity="one">" dəfə"</item>
+    </plurals>
+    <plurals name="user_age_display_format_year">
+        <item quantity="other">%1$d yaşında</item>
+        <item quantity="one">%1$d yaşında</item>
+    </plurals>
+</resources>
