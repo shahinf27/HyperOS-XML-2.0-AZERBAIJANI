@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="one">1 saat əvvəl</item>
+        <item quantity="other">1 saat əvvəl</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="one">%d saat əvvəl</item>
+        <item quantity="other">%d saat əvvəl</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="one">Yarım saat əvvəl</item>
+        <item quantity="other">Yarım saat əvvəl</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="one">%d saat ərzində</item>
+        <item quantity="other">%d saat ərzində</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="one">Yarım saat ərzində</item>
+        <item quantity="other">Yarım saat ərzində</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="one">Dərhal</item>
+        <item quantity="other">Dərhal</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d dəq ərzində</item>
+        <item quantity="one">%d dəq ərzində</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="one">İndicə</item>
+        <item quantity="other">İndicə</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d dəq əvvəl</item>
+        <item quantity="one">%d dəq əvvəl</item>
+    </plurals>
+    <plurals name="file_type_detail_count">
+        <item quantity="other">%1$d fayl</item>
+        <item quantity="one">%1$d fayl</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="one">Yarım saat əvvəl</item>
+        <item quantity="other">Yarım saat əvvəl</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="one">1 saat ərzində</item>
+        <item quantity="other">1 saat ərzində</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="one">Yarım saat ərzində</item>
+        <item quantity="other">Yarım saat ərzində</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="one">Dərhal</item>
+        <item quantity="other">Dərhal</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d dəqiqə ərzində</item>
+        <item quantity="one">1 dəqiqə ərzində</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="one">İndicə</item>
+        <item quantity="other">İndicə</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d element seçildi</item>
+        <item quantity="one">%d element seçildi</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d dəqiqə əvvəl</item>
+        <item quantity="one">1 dəqiqə əvvəl</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc">
+        <item quantity="other">%1$s mənbəsindən %2$d quraşdırma paketi (%3$s)</item>
+        <item quantity="one">%1$s mənbəsindən %2$d quraşdırma paketi (%3$s)</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc_received">
+        <item quantity="other">%1$s mənbəsindən %2$d quraşdırma paketi alındı (%3$s)</item>
+        <item quantity="one">%1$s mənbəsindən %2$d quraşdırma paketi alındı (%3$s)</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc_receiving">
+        <item quantity="other">%1$s mənbəsindən %2$d quraşdırma paketi alınır (%3$s)…</item>
+        <item quantity="one">%1$s mənbəsindən %2$d quraşdırma paketi alınır (%3$s)…</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc">
+        <item quantity="other">%1$s mənbəsindən %2$d səs faylı (%3$s)</item>
+        <item quantity="one">%1$s mənbəsindən %2$d səs faylı (%3$s)</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc_received">
+        <item quantity="other">%1$s mənbəsindən %2$d səs faylı alındı (%3$s)</item>
+        <item quantity="one">%1$s mənbəsindən %2$d səs faylı alındı (%3$s)</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc_receiving">
+        <item quantity="other">%1$s mənbəsindən %2$d səs faylı alınır (%3$s)…</item>
+        <item quantity="one">%1$s mənbəsindən %2$d səs faylı alınır (%3$s)…</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc">
+        <item quantity="other">%1$s mənbəsindən %2$d %3$s fayl (%4$s)</item>
+        <item quantity="one">%1$s mənbəsindən %2$d %3$s fayl (%4$s)</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc_received">
+        <item quantity="other">%1$s mənbəsindən %2$d %3$s fayl alındı (%4$s)</item>
+        <item quantity="one">%1$s mənbəsindən %2$d %3$s fayl alındı (%4$s)</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc_receiving">
+        <item quantity="other">%1$s mənbəsindən %2$d %3$s fayl alınır (%4$s)…</item>
+        <item quantity="one">%1$s mənbəsindən %2$d %3$s fayl alınır (%4$s)…</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc">
+        <item quantity="other">%1$s mənbəsindən %2$d şəkil</item>
+        <item quantity="one">%1$s mənbəsindən %2$d şəkil</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc_received">
+        <item quantity="other">%1$s mənbəsindən %2$d şəkil alındı</item>
+        <item quantity="one">%1$s mənbəsindən %2$d şəkil alındı</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc_receiving">
+        <item quantity="other">%1$s mənbəsindən %2$d şəkil alınır…</item>
+        <item quantity="one">%1$s mənbəsindən %2$d şəkil alınır…</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc">
+        <item quantity="other">%1$s mənbəsindən %2$d şəkil və ya video</item>
+        <item quantity="one">%1$s mənbəsindən %2$d şəkil və ya video</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc_received">
+        <item quantity="other">%1$s mənbəsindən %2$d şəkil və ya video alındı</item>
+        <item quantity="one">%1$s mənbəsindən %2$d şəkil və ya video alındı</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc_receiving">
+        <item quantity="other">%1$s mənbəsindən %2$d şəkil və ya video alınır…</item>
+        <item quantity="one">%1$s mənbəsindən %2$d şəkil və ya video alınır…</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc">
+        <item quantity="other">%1$s mənbəsindən %2$d fayl</item>
+        <item quantity="one">%1$s mənbəsindən %2$d fayl</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc_received">
+        <item quantity="other">%1$s mənbəsindən %2$d fayl alındı</item>
+        <item quantity="one">%1$s mənbəsindən %2$d fayl alındı</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc_receiving">
+        <item quantity="other">%1$s mənbəsindən %2$d fayl alınır…</item>
+        <item quantity="one">%1$s mənbəsindən %2$d fayl alınır…</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc">
+        <item quantity="other">%1$s mənbəsindən %2$d video</item>
+        <item quantity="one">%1$s mənbəsindən %2$d video</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc_received">
+        <item quantity="other">%1$s mənbəsindən %2$d video alındı</item>
+        <item quantity="one">%1$s mənbəsindən %2$d video alındı</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc_receiving">
+        <item quantity="other">%1$s mənbəsindən %2$d video alınır…</item>
+        <item quantity="one">%1$s mənbəsindən %2$d video alınır…</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc">
+        <item quantity="other">%1$s mənbəsindən %2$d arxiv (%3$s)</item>
+        <item quantity="one">%1$s mənbəsindən %2$d arxiv (%3$s)</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc_received">
+        <item quantity="other">%1$s mənbəsindən %2$d arxiv alındı (%3$s)</item>
+        <item quantity="one">%1$s mənbəsindən %2$d arxiv alındı (%3$s)</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc_receiving">
+        <item quantity="other">%1$s mənbəsindən %2$d arxiv alınır (%3$s)…</item>
+        <item quantity="one">%1$s mənbəsindən %2$d arxiv alınır (%3$s)…</item>
+    </plurals>
+</resources>
