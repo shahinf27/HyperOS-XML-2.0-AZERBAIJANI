@@ -895,8 +895,6 @@ Təkrar onlayn olduğunuz zaman daha çoxunu paylaşacağıq."</string>
     <string name="resutl_function_deep_clean_summary"><Data>Daha &lt;font color=#ff0000 &gt;%1$s&lt;/font&gt; fayl təmizlənə bilər. Daha çox boş yer açın.</Data></string>
     <string name="resutl_function_qq_clean_summary"><Data>QQ tərəfindən yaradılmış &lt;font color=#ff0000 &gt;%1$s&lt;/font&gt; keşi təmizləyə bilərsiniz</Data></string>
     <string name="resutl_function_wechat_clean_summary"><Data>&lt;font color=#ff0000 &gt;%1$s&lt;/font&gt; WeChat keşi mövcuddur. Daha çox boş yer açın.</Data></string>
-    string name="s1">Təsviri saxla</string>
-    <string name="s2">Reklamın şəkil qalereyasında şəkil saxlamasına icazə verilsin?</string>
     <string name="s3">Qəbul et</string>
     <string name="s4">Rədd et</string>
     <string name="s5">Təqvim tədbiri yarat</string>
