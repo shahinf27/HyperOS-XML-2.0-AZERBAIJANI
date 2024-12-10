@@ -58,6 +58,7 @@
     <string name="add_first_cw_toast3">Divar kağızlarınız uğurla əlavə edildi</string>
     <string name="add_launch_hint_text">Əsas ekrana qısayol əlavə et</string>
     <string name="add_to_cw">Özəl bir slayd şouya əlavə et</string>
+	<string name="add_to_my_wallpaper_success_toast">\"Divar kağızlarım\"a əlavə edildi</string>
     <string name="addcw_apply_btn_txt">Divar kağızı əlavə et</string>
     <string name="afternoon">Günortadan sonra</string>
     <string name="allowed">İcazə verildi</string>
@@ -770,6 +771,7 @@ dd-MM"</string>
     <string name="sst_my_wallpaper_desc">Divar kağızlarına \"Divar kağızı Karuseli\"ndən bax</string>
     <string name="sst_my_wallpaper_title">Divar kağızlarım</string>
     <string name="sst_new_feature">Yeni özəlliklər</string>
+	<string name="sst_no_wallpaper">Burada hələ heç nə yoxdur</string>
     <string name="sst_privacy_policy_title">Gizlilik Siyasəti</string>
     <string name="sst_prov_enable_desc">Kilid ekranınıza müntəzəm olaraq göndərilən yeni divar kağızları alın</string>
     <string name="sst_prov_enable_title">\"Divar kağızı Karuseli\"ni aç</string>

@@ -72,6 +72,8 @@ kilidlənib.
     <string name="lock_msg_phone">Əlaqə məlumatları: %s</string>
     <string name="login_extra_steps">Daxil olma doğrulaması</string>
     <string name="login_failed">"Daxil ola bilmədi. %s."</string>
+	<string name="notification_locate_device">Cihazlar axtarılır</string>
+    <string name="notification_open_find">Cihazı tap işə salındı</string>
     <string name="open_wifi_settings">Wi-Fi ayarlarını aç</string>
     <string name="open_wifi_settings_china">Wi-Fi ayarlarını aç</string>
     <string name="passport_checking_vcode">Parol yoxlanılır…</string>

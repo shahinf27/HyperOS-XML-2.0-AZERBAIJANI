@@ -196,6 +196,66 @@
         <item quantity="other">%1$s şəxsindən %2$d arxiv (%3$s) alınır…</item>
         <item quantity="one">%1$s şəxsindən %2$d arxiv (%3$s) alınır…</item>
     </plurals>
+	<plurals name="share_notification_receive_confirm_title_file">
+        <item quantity="other">%1$d fayl alındı</item>
+        <item quantity="one">%1$d fayl alındı</item>
+    </plurals>
+    <plurals name="share_notification_receive_confirm_title_image">
+        <item quantity="other">%1$d foto alındı</item>
+        <item quantity="one">%1$d foto alındı</item>
+    </plurals>
+    <plurals name="share_notification_receive_confirm_title_video">
+        <item quantity="other">%1$d video alındı</item>
+        <item quantity="one">%1$d video alındı</item>
+    </plurals>
+    <plurals name="share_notification_receiving_title_file">
+        <item quantity="other">%1$d fayl alınır</item>
+        <item quantity="one">%1$d fayl alınır</item>
+    </plurals>
+    <plurals name="share_notification_receiving_title_image">
+        <item quantity="other">%1$d foto alınır</item>
+        <item quantity="one">%1$d foto alınır</item>
+    </plurals>
+    <plurals name="share_notification_receiving_title_video">
+        <item quantity="other">%1$d video alınır</item>
+        <item quantity="one">%1$d video alınır</item>
+    </plurals>
+    <plurals name="share_notification_sending_title_file">
+        <item quantity="other">%1$d fayl göndərilir</item>
+        <item quantity="one">%1$d fayl göndərilir</item>
+    </plurals>
+    <plurals name="share_notification_sending_title_image">
+        <item quantity="other">%1$d foto göndərilir</item>
+        <item quantity="one">%1$d foto göndərilir</item>
+    </plurals>
+    <plurals name="share_notification_sending_title_video">
+        <item quantity="other">%1$d video göndərilir</item>
+        <item quantity="one">%1$d video göndərilir</item>
+    </plurals>
+    <plurals name="share_received_describe_for_aod_status_bar_file">
+        <item quantity="other">%1$d fayl alındı</item>
+        <item quantity="one">%1$d fayl alındı</item>
+    </plurals>
+    <plurals name="share_received_describe_for_aod_status_bar_image">
+        <item quantity="other">%1$d foto alındı</item>
+        <item quantity="one">%1$d foto alındı</item>
+    </plurals>
+    <plurals name="share_received_describe_for_aod_status_bar_video">
+        <item quantity="other">%1$d video alındı</item>
+        <item quantity="one">%1$d video alındı</item>
+    </plurals>
+    <plurals name="share_receiving_describe_file">
+        <item quantity="other">%1$d fayl</item>
+        <item quantity="one">%1$d fayl</item>
+    </plurals>
+    <plurals name="share_receiving_describe_image">
+        <item quantity="other">%1$d foto</item>
+        <item quantity="one">%1$d foto</item>
+    </plurals>
+    <plurals name="share_receiving_describe_video">
+        <item quantity="other">%1$d video</item>
+        <item quantity="one">%1$d video</item>
+    </plurals>
     <plurals name="someone_send_file_to_you_files">
         <item quantity="other">%1$s sizə %2$d fayl göndərir…</item>
         <item quantity="one">%1$s sizə %2$d fayl göndərir…</item>

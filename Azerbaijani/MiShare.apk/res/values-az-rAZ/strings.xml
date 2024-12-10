@@ -59,7 +59,7 @@
     <string name="device_offline">Digər cihaz oflayndır. Başdan başlat.</string>
     <string name="device_status_failed">"Göndərilə bilmədi"</string>
     <string name="device_status_sending">Göndərilir…</string>
-    <string name="device_status_success">Uğurla göndərildi</string>
+    <string name="device_status_success">Göndərildi</string>
     <string name="device_status_waiting">Gözlənilir…</string>
     <string name="device_type_pc">Kompüterlər</string>
     <string name="disconnect">BAĞLANTINI KƏS</string>
@@ -69,10 +69,11 @@
     <string name="eras_ad">B.E.</string>
     <string name="eras_bc">B.E.Ə.</string>
     <string name="err_send_short_connect_error">"Bağlantı qurula bilmədi"</string>
-    <string name="err_send_short_remote_busy">Məşğul</string>
+    <string name="err_send_short_remote_busy">Cihaz məşğuldur</string>
     <string name="err_send_short_remote_cancel">Ləğv edildi</string>
     <string name="err_send_short_remote_refuse">Rədd edildi</string>
     <string name="err_send_short_remote_timeout">Cavab yoxdur</string>
+	<string name="err_send_short_send_cancel">Ləğv edilmiş köçürmə</string>
     <string name="error_ap_in_use">"Hotspot açıq olduqda digər cihazlara fayl göndərilə bilmir"</string>
     <string name="error_ap_or_screen_already_hosting">"Yayım zamanı və ya portativ hotspot istifadə edərkən digər cihazlara element göndərilə bilmir."</string>
     <string name="error_ble_connect_failure">"Alıcı cihaz, Bluetooth-a bağlana bilmədi. Ekranının açıq olduğuna əmin olun."</string>
@@ -135,18 +136,9 @@
     <string name="friday_short">Cüm</string>
     <string name="friday_shortest">Cüm</string>
     <string name="functions_are_being_developed">Bu özəllik tezliklə əlçatan olacaq. Bizimlə qalın!</string>
-    <string name="global_help">Kömək</string>
-    <string name="global_imac">iMac-ım</string>
-    <string name="global_ipad">iPad-im</string>
-    <string name="global_iphone">iPhone-um</string>
-    <string name="global_macbook">MacBook-um</string>
-    <string name="global_macmini">Mac mini-m</string>
-    <string name="global_macpro">Mac Pro-m</string>
-    <string name="global_macstudio">Mac Studio-m</string>
-    <string name="global_pad">Planşetim</string>
-    <string name="global_pc">Notbukum</string>
-    <string name="global_phone">Telefonum</string>
-    <string name="go_to_settings">Ayarlar</string>
+    <string name="global_help">Cihaz tapıla bilmir</string>
+    <string name="global_my">"Cihazım
+%1$s"</string>
     <string name="guide_summary_1">Digər şəxs Bildiriş panelindəki açara toxuna bilər</string>
     <string name="guide_summary_1_lyra">\"İdarəetmə mərkəzi\"ndə \"Xiaomi Share\"i işə sala bilərsiniz</string>
     <string name="guide_summary_2">"Elementlər göndərmək istədiyiniz cihazı seçin və ikonuna toxunun"</string>
@@ -154,7 +146,6 @@
     <string name="guide_title_1_lyra">Faylları almaq üçün Xiaomi Share-i işə salın</string>
     <string name="guide_title_2">Paylaşılacaq cihazı seçin</string>
     <string name="help">"Cihazlar tapıla bilmir?"</string>
-    <string name="help_content">"Ehtiyacınız olan cihazı tapa bilmirsinizsə, digər şəxsdən \"Xiaomi Share\"i işə salmasını istəyin."</string>
     <string name="hide">Gizlət</string>
     <string name="i_know">Anladım</string>
     <string name="international_privacy_dialog_agree">Razıyam</string>
@@ -172,13 +163,20 @@
     <string name="menu_new_display_open">Yeni pəncərədə aç</string>
     <string name="menu_pc_open">Kompüter proqramında aç</string>
     <string name="midnight">Gecə</string>
+	<string name="mishare_device_find_conditions_comment">Cihazlar kəşf olunur</string>
+    <string name="mishare_device_version_comment">*Eyni Xiaomi Hesabına daxil olmuş cihazlar avtomatik olaraq bir-birilərinə güvənə və mesaj göndərə bilər. Bu özəllik, hər iki cihazın Xiaomi HyperOS işlətməsini və Xiaomi Share-in 3.0.0 və ya daha yuxarı versiyaya güncəllənməsini tələb edir.</string>
     <string name="mishare_folder_in_file_explorer">Fayl Meneceri və Xiaomi Share</string>
     <string name="mishare_service_channel_desc">Xiaomi Share prosesləri barədə bildirişlər</string>
-    <string name="mishare_settings_summary_international">"Xiaomi Share, elementləri yaxınlıqdakı digər cihazlara naqilsiz göndərməyinizə imkan verir.
-Bu özəllik OPPO, vivo, realme və digər ağıllı telefon istehsalçıları tərəfindən dəstəklənir. İstənilən seçilmiş markanın rəsmi saytında dəstəklənən cihazların siyahısını yoxlaya bilərsiniz."</string>
-    <string name="mishare_state_protection">\"Xiaomi Share\"i avtomatik işə sal</string>
+    <string name="mishare_settings_summary_international">"Xiaomi telefonları və planşetləri
+Daha çox Android cihazları: vivo, realme, OPPO və digər markalar bu özəlliyi dəstəkləyə bilər. Detallı məlumat üçün hər bir markanın rəsmi veb saytına baxın."</string><string name="mishare_state_protection">\"Xiaomi Share\"i avtomatik işə sal</string>
     <string name="mishare_state_protection_summary">Bluetooth və Wi-Fi təkrar açıldıqda \"Xiaomi Share\"i avtomatik olaraq yenidən işə sal</string>
     <string name="mishare_state_protection_summary_china">Bluetooth və Wi-Fi təkrar açıldıqda \"Xiaomi Share\"i avtomatik olaraq yenidən işə sal</string>
+	<string name="mishare_support_device_comment">Dəstəklənən cihazlar</string>
+    <string name="mishare_support_device_summary">"Xiaomi telefonları, planşetləri və dizüstü kompüterləri
+Digər istehsalçılardan Android cihazları: vivo, realme, OPPO, Black Shark, Meizu, OnePlus, ZTE, Hisense, ASUS, ROG, Samsung, Lenovo, Motorola, NIO"</string>
+    <string name="mishare_support_device_summary_ios">"Xiaomi telefonları, planşetləri, notbukları
+Apple cihazları: iPhone, iPad, Mac
+Digər istehsalçılardan Android cihazları: vivo, realme, OPPO, Black Shark, Meizu, OnePlus, ZTE, Hisense, ASUS, ROG, Samsung, Lenovo, Motorola, NIO"</string>
     <string name="mishare_transefer_channel_desc">Xiaomi Share tərəfindən göndərilən və alınan elementlər barədə bildirişlər</string>
     <string name="miuix_access_state_desc">Seçildi</string>
     <string name="miuix_alphabet_indexer_name">İndeks çubuğu</string>
@@ -287,7 +285,7 @@ Bu özəllik OPPO, vivo, realme və digər ağıllı telefon istehsalçıları t
     <string name="saturday">Şənbə</string>
     <string name="saturday_short">Şәn</string>
     <string name="saturday_shortest">Şәn</string>
-    <string name="scanning_device_tips">Yaxınlıqdakı cihazlar axtarılır… Digər cihazların kəşf edilə bilən rejimdə olduğuna əmin olun.</string>
+    <string name="scanning_device_tips"><Data>Yaxınlıqdakı cihazlar axtarılır. Digər şəxsin İdarəetmə mərkəzində Xiaomi Share-i işə salması lazımdır. &lt;a>Ətraflı öyrən&lt;/a></Data></string>
     <string name="scanning_only_xiaomi_device">Bu element yalnız Xiaomi və ya Black Shark cihazlarına köçürülə bilər</string>
     <string name="search_menu_title">Axtar</string>
     <string name="seize_content">Elementləri köçürə bilmək üçün ekranın paylaşılmasını dayandırın. Paylaşma indi dayandırılsın?</string>
@@ -312,6 +310,12 @@ Bu özəllik OPPO, vivo, realme və digər ağıllı telefon istehsalçıları t
     <string name="send_one_zip_dialog_desc_receiving">%2$d ZIP faylı \"%3$s\" | %1$s cihazından alınır</string>
     <string name="send_successfully">Uğurla göndərildi</string>
     <string name="sender_error">"Göndərilə bilmədi. Bir və ya iki dəqiqə gözləyib yenidən sınayın."</string>
+	<string name="share_canceled">Köçürmə ləğv edildi</string>
+    <string name="share_complete">Köçürmə uğurla tamamlandı</string>
+    <string name="share_failed">Köçürmə tamamlana bilmədi</string>
+    <string name="share_notification_receive_confirm_content">Buradan: %1$s</string>
+    <string name="share_refuse">Köçürməyə rədd cavabı verildi</string>
+    <string name="share_send_notification_describe">Alıcı: %1$s</string>
     <string name="solar_term_autumn_begins">Payız başlayır</string>
     <string name="solar_term_autumn_equinox">Payız gündönümü</string>
     <string name="solar_term_clear_and_bright">Təmiz və parlaq</string>
@@ -345,9 +349,10 @@ Bu özəllik OPPO, vivo, realme və digər ağıllı telefon istehsalçıları t
     <string name="stop_scan">SKANI DAYANDIR</string>
     <string name="sub_title_mishare_switch">Bu özəllik %d dəqiqə sonra avtomatik söndürüləcək</string>
     <string name="sub_title_mishare_switch_all">Bütün faylları ala bilərsiniz</string>
-    <string name="sub_title_mishare_switch_mine">Hesabınıza daxil olmuş cihazlardan faylları ala bilərsiniz</string>
+    <string name="sub_title_mishare_switch_mine">Sizin hesabınıza daxil olmuş cihazlardan faylları ala bilərsiniz</string>
+	<string name="sub_title_mishare_switch_mine_desc">"Alma statusunuzu \"Bu hesabdan\" olaraq ayarlamazdan əvvəl, digər cihazın Xiaomi HyperOS və ya daha yuxarı sistem versiyasına və Xiaomi Share-in 3.0.0 və ya daha yuxarı versiyaya güncəlləndiyinə əmin olun."</string>
     <string name="sub_title_mishare_switch_none">Faylları ala bilmək üçün Xiaomi Share-i işə salın</string>
-    <string name="sub_title_turbo_mode">Xiaomi telefonları və planşetləri arasında super sürətli köçürmələr. Köçürmə zamanı şəbəkənin bağlanıtısı kəsiləcək.</string>
+    <string name="sub_title_turbo_mode">Bu özəllik işə salındıqda, köçürmə zamanı şəbəkənin bağlantısı kəsiləcək</string>
     <string name="sub_title_withdraw_privacy_policy_consent">Gizlilik Siyasətinə verilmiş razılığın geri götürülməsi ilə \"Xiaomi Share\" də söndürüləcək</string>
     <string name="success_receive_much_file_from_pc">%1$s cihazından %2$d ədəddən çox fayl alınır. Baxmaq üçün toxunun.</string>
     <string name="sunday">Bazar</string>
@@ -410,14 +415,17 @@ Bu özəllik OPPO, vivo, realme və digər ağıllı telefon istehsalçıları t
     <string name="today">Bu gün</string>
     <string name="tomorrow">Sabah</string>
     <string name="transfer_intercept_to_remote">"Göndərilə bilmədi: %1$s"</string>
-    <string name="transfer_to_different_account_summary">Əvvəlcə İdarəetmə mərkəzində Xiaomi Share-in açıq olduğuna əmin olun. Cihazınız %d dəqiqə ərzində başqaları tərəfindən kəşf edilə bilən olacaq.</string>
-    <string name="transfer_to_different_account_title">Fərqli hesablar altında cihazları kəşf etmə</string>
-    <string name="transfer_to_pc_summary_new_plus"><Data>Xiaomi PC Manager, artıq \"Xiaomi Share\"i dəstəkləyir! Dəstəklənən kompüter modellərinin siyahısına &lt;a href=%1$s&gt;buradan&lt;/a&gt; baxa bilərsiniz.</Data></string>
-    <string name="transfer_to_pc_title">Kompüterlərə fayl göndər</string>
-    <string name="transfer_to_phone_summary">"Bildiriş panelindəki açarı istifadə edərək \"Xiaomi Share\"i işə salın. Bundan sonra, foto və ya fayl paylaşmağa başladıqda yaxınlıqdakı cihazları görə biləcəksiniz. Paylaşdığınız elementi göndərmək üçün alıcının cihazına toxunun."</string>
+    <string name="transfer_to_different_account_summary">"Hər iki cihazda (Xiaomi və digər Android cihazı) İdarəetmə mərkəzindən Xiaomi Share işə salınmalıdır. %d dəqiqə ərzində hər kəsdən fayl ala biləcəksiniz."</string>
+    <string formatted="false" name="transfer_to_different_account_summary_ios">"%d. Hər iki cihazda (Xiaomi və digər Android cihazı) İdarəetmə mərkəzindən Xiaomi Share işə salınmalıdır. %d dəqiqə ərzində hər kəsdən fayl ala biləcəksiniz.
+%d. iPhones və iPad-lərdə Xiaomi Interconnectivity Xidmətlərini işə salmağınız və hər iki cihazın eyni LAN-a bağlandığına əmin olmağınız lazımdır."</string>
+    <string name="transfer_to_different_account_title">Telefonlar və planşetlər kəşf edilir</string>
+    <string name="transfer_to_pc_summary_new_plus"><Data>Xiaomi PC Manager-in endirildiyinə əmin olun, daha sonra faylları ala bilmək üçün İdarəetmə mərkəzindən Xiaomi Share-i işə salın. Dəstəklənən kompüter modellərinin siyahısını &lt;a href=%1$s>burada&lt;/a> tapa bilərsiniz.</Data></string>
+    <string name="transfer_to_pc_summary_new_plus_ios"><Data>&lt;xliff:g id=mishare_ios_1 refersto=1>%1$d&lt;/xliff:g>. Xiaomi planşetində, Xiaomi PC Manager-in endirildiyinə əmin olun, daha sonra faylları ala bilmək üçün İdarəetmə mərkəzindən Xiaomi Share-i işə salın. Dəstəklənən kompüter modellərinin siyahısını &lt;a href=%2$s>burada&lt;/a> tapa bilərsiniz.&lt;br>&lt;xliff:g id=mishare_ios_2 refersto=2>%3$d&lt;/xliff:g>. Mac cihazında, Xiaomi Interconnectivity Xidmətlərini işə salın və hər iki cihazın eyni LAN-a bağlandığına əmin olun.</Data></string>
+    <string name="transfer_to_pc_title">Kompüterlər kəşf olunur</string>
+	<string name="transfer_to_phone_summary">"Bildiriş panelindəki açarı istifadə edərək \"Xiaomi Share\"i işə salın. Bundan sonra, foto və ya fayl paylaşmağa başladıqda yaxınlıqdakı cihazları görə biləcəksiniz. Paylaşdığınız elementi göndərmək üçün alıcının cihazına toxunun."</string>
     <string name="transfer_to_phone_summary_new">Elementləri asanlıqla göndərə və ala bilmək üçün \"İdarəetmə Mərkəzi\"ndə \"Xiaomi Share\"i işə salın. İşə saldıqdan sonra, avtomatik olaraq sönməzdən əvvəl %d dəqiqə ərzində yaxınlıqdakı cihazlarla element paylaşa bilərsiniz.</string>
     <string name="transfer_to_phone_title">Faylları telefona göndər</string>
-    <string name="transfer_to_same_account_summary">Eyni hesab altındakı cihazlar asanlıqda kəşf edilə bilən olmalıdır. Ayarlarda Xiaomi Share-in açıq olduğuna əmin olun.</string>
+    <string name="transfer_to_same_account_summary">"Hesabınıza daxil olmuş cihazlara elementləri köçürmək üçün, əvvəlcə digər cihazın Xiaomi HyperOS və ya daha yuxarı sistem versiyasına və Xiaomi Share-in 3.0.0 və ya daha yuxarı versiyaya güncəlləndiyinə əmin olun. Alma statusunu \"Bu cihazdan\" olaraq ayarlayın. Əks halda, %d dəqiqə ərzində hər hansısa bir cihazdan fayl ala bilmək üçün İdarəetmə mərkəzindən Xiaomi Share-i işə salmalı olacaqsınız."</string>
     <string name="transfer_to_same_account_title">Eyni hesab altındakı cihazları kəşf etmə</string>
     <string name="transfer_to_summary">"Bildiriş panelindəki açarı istifadə edərək \"Xiaomi Share\"i işə salın. Bundan sonra, foto və ya fayl paylaşmağa başladıqda yaxınlıqdakı cihazları görə biləcəksiniz. Paylaşdığınız elementi göndərmək üçün alıcının cihazına toxunun."</string>
     <string name="transfer_to_summary_new">Elementləri asanlıqla göndərə və ala bilmək üçün \"İdarəetmə Mərkəzi\"ndə \"Xiaomi Share\"i işə salın. İşə saldıqdan sonra, avtomatik olaraq sönməzdən əvvəl %d dəqiqə ərzində yaxınlıqdakı cihazlarla element paylaşa bilərsiniz.</string>

@@ -8,16 +8,6 @@
     <string name="abc_activitychooserview_choose_application">Bir tətbiq seçin</string>
     <string name="abc_capital_off">BAĞLI</string>
     <string name="abc_capital_on">AÇIQ</string>
-    <string name="abc_menu_alt_shortcut_label">Alt+</string>
-    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-    <string name="abc_menu_delete_shortcut_label">sil</string>
-    <string name="abc_menu_enter_shortcut_label">enter</string>
-    <string name="abc_menu_function_shortcut_label">Function+</string>
-    <string name="abc_menu_meta_shortcut_label">Meta+</string>
-    <string name="abc_menu_shift_shortcut_label">Shift+</string>
-    <string name="abc_menu_space_shortcut_label">boşluq</string>
-    <string name="abc_menu_sym_shortcut_label">Sym+</string>
-    <string name="abc_prepend_shortcut_label">Menyu+</string>
     <string name="abc_search_hint">Axtar…</string>
     <string name="abc_searchview_description_clear">Sorğunu təmizlə</string>
     <string name="abc_searchview_description_query">Axtarış sorğusu</string>
@@ -53,7 +43,6 @@
     <string name="button_cancel">İmtina</string>
     <string name="button_quit">Çıxış</string>
     <string name="button_revoke">Geri götür</string>
-    <string name="checkUpdateSdkVersion">4.2.5</string>
     <string name="check_contact">Əlavə et</string>
     <string name="choose_contact_title">Kontaktlar</string>
     <string name="clearable_edittext_clear_description">Təmizlə</string>
@@ -115,7 +104,6 @@
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
     <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="default_noti_quota_full_title">Bulud anbarı dolub</string>
-    <string name="default_web_client_id">630236635882-e9rqvpt2onbe87uramm8stt7v375of1e.apps.googleusercontent.com</string>
     <string name="detect_sim_card">SIM kartı axtar</string>
     <string name="device_activation_card_cannot_get_yet">"Məlumat alına bilmədi. 3-5 gün ərzində yenidən sınayın."</string>
     <string name="device_activation_card_description">"İlk aktivləşdirmə, cihaz ilk dəfə şəbəkəyə bağlandıqda (limitli olmayan Wi-Fi və mobil şəbəkələr daxildir) qeydə alınır. İlk aktivləşdirmənin qeydə alınması normalda bir qədər vaxt aparır, ona görə də aktivləşmə statusunu yoxlamazdan əvvəl şəbəkəyə bağlandıqdan sonra 3-5 gün gözləmək daha yaxşıdır.&lt;br&gt;&lt;br&gt;Cihazın aktivləşdirilməsi, uzadılmış zəmanətimizin qüvvədə olma müddətini müəyyən edən əsas amildir. Daha ətraflı məlumat üçün &lt;a href=%1$s&gt;Qaytarma, Mübadilə və Təmir Siyasətimizə&lt;/a&gt; nəzər salın.&lt;br&gt;&lt;br&gt;Hər hansısa bir sualınız olarsa, müştəri dəstəyi qaynar xəttimizə zəng etməkdən çəkinməyin: 400-100-5678."</string>
@@ -215,7 +203,6 @@
     <string name="e2ee_tip_lockscreen_open_subtitle">Qabaqcıl data qorumasını istifadə edə bilmək üçün bu cihazda ekran kilidini işə salın.</string>
     <string name="e2ee_tip_lockscreen_open_title">Ekran kilidini işə sal</string>
     <string name="early_morning">Səhər</string>
-    <string name="empty"></string>
     <string name="enable_find_device_success">\"Cihazı tap\" açıqdır.</string>
     <string name="enable_micloud">Xiaomi Cloud-u istifadə etmək üçün daxil olun</string>
     <string name="enable_sync_setting_title">Bulud xidmətləri konfiqurasiya edilir…</string>
@@ -270,57 +257,15 @@ Həmçinin başqa şəxslərin öz Xiaomi cihazlarını tapmasına anonim olaraq
     <string name="find_permission_sms_title">SMS göndər</string>
     <string name="finddevice_miservice_notification_content">"Əgər cihazınızı itirsəniz uzaqdan kilidləyin"</string>
     <string name="finddevice_miservice_notification_title">\"Cihazı tap\"ı işə sal</string>
-    <string name="fmt_date">D</string>
-    <string name="fmt_date_day">d</string>
-    <string name="fmt_date_long_month">MMMM</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month">MMMM yyyy</string>
     <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
-    <string name="fmt_date_numeric_day">d</string>
-    <string name="fmt_date_numeric_month">M</string>
     <string name="fmt_date_numeric_month_day">d-M</string>
-    <string name="fmt_date_numeric_year">yyyy</string>
     <string name="fmt_date_numeric_year_month">M-yyyy</string>
     <string name="fmt_date_numeric_year_month_day">d-M-yyyy</string>
-    <string name="fmt_date_short_month">MMM</string>
     <string name="fmt_date_short_month_day">d MMM</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
     <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
-    <string name="fmt_date_time">D T</string>
-    <string name="fmt_date_time_timezone">D T z</string>
-    <string name="fmt_date_timezone">D z</string>
-    <string name="fmt_date_year">yyyy</string>
-    <string name="fmt_time">T</string>
-    <string name="fmt_time_12hour">"hh"</string>
-    <string name="fmt_time_12hour_minute">h:mm</string>
-    <string name="fmt_time_12hour_minute_pm">h:mm a</string>
-    <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
-    <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
-    <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
-    <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
-    <string name="fmt_time_12hour_pm">ha</string>
-    <string name="fmt_time_24hour">"HH"</string>
-    <string name="fmt_time_24hour_minute">HH:mm</string>
-    <string name="fmt_time_24hour_minute_second">HH:mm:ss</string>
-    <string name="fmt_time_24hour_minute_second_millis">HH:mm:ss.S</string>
-    <string name="fmt_time_millis">"S'ms'"</string>
-    <string name="fmt_time_minute">"m'min'"</string>
-    <string name="fmt_time_minute_second">"m'min' s's'"</string>
-    <string name="fmt_time_minute_second_millis">"m'min' s.S's'"</string>
-    <string name="fmt_time_second">"s's'"</string>
-    <string name="fmt_time_second_millis">"s.S's'"</string>
-    <string name="fmt_time_timezone">T z</string>
-    <string name="fmt_timezone">z</string>
-    <string name="fmt_weekday">W</string>
-    <string name="fmt_weekday_date">W, D</string>
-    <string name="fmt_weekday_date_time">W, D T</string>
-    <string name="fmt_weekday_date_time_timezone">W, D T z</string>
-    <string name="fmt_weekday_date_timezone">W, D z</string>
-    <string name="fmt_weekday_long">EEEE</string>
-    <string name="fmt_weekday_short">E</string>
-    <string name="fmt_weekday_time">W T</string>
-    <string name="fmt_weekday_time_timezone">W T z</string>
-    <string name="fmt_weekday_timezone">W z</string>
     <string name="forget_password"><u>Parolu unutdum</u></string>
     <string name="friday">Cümə</string>
     <string name="friday_short">Cüm</string>
@@ -334,11 +279,6 @@ Həmçinin başqa şəxslərin öz Xiaomi cihazlarını tapmasına anonim olaraq
     <string name="gallery_service_termination_announcement_title">"Qalereya elementləri artıq Xiaomi Cloud ilə sinxronlaşdırıla bilməz. Buludda sinxronlaşdırdığınız foto və videoları \"Google Fotolar\"a köçürməyi və ya sinxronlaşdırılmış foto və videoları cihazınıza endirmək üçün i.mi.com saytını ziyarət etməyi tövsiyə edirik. Köçürmə və endirmə xidmətləri %s tarixinə qədər əlçatan olacaq və bu zaman Xiaomi Cloud hesabınızla sinxronlaşdırılan bütün Qalereya elementləri həmişəlik silinəcək."</string>
     <string name="gallery_service_termination_btn_continue">Davam</string>
     <string name="gallery_service_termination_more_info">Daha çox məlumat üçün baxın: \"%s\"</string>
-    <string name="gcm_defaultSenderId">630236635882</string>
-    <string name="google_api_key">AIzaSyD0N3c1iN_Y93_Xslg5n_ZSN_HNTQxw7ew</string>
-    <string name="google_app_id">1:630236635882:android:075d2c0ae502da8696ed93</string>
-    <string name="google_crash_reporting_api_key">AIzaSyD0N3c1iN_Y93_Xslg5n_ZSN_HNTQxw7ew</string>
-    <string name="google_storage_bucket">micloud-43705.appspot.com</string>
     <string name="help_and_feedback">Kömək və əks-əlaqə</string>
     <string name="i_know">Oldu</string>
     <string name="input_password_hint">Parolu daxil edin</string>
@@ -373,15 +313,6 @@ Həmçinin başqa şəxslərin öz Xiaomi cihazlarını tapmasına anonim olaraq
     <string name="ks_download_success">Uğurla endirildi</string>
     <string name="ks_fingerprint_payment">Barmaq izi ödənişləri</string>
     <string name="ks_fingerprint_status">Ödəniş statusu</string>
-    <string name="ks_name_C2PAKey">C2PA</string>
-    <string name="ks_name_MiCertKey">MiCertKey</string>
-    <string name="ks_name_alipay">IFAA</string>
-    <string name="ks_name_fido">FIDO</string>
-    <string name="ks_name_high_precise_position">high precise position</string>
-    <string name="ks_name_keybox">Keybox</string>
-    <string name="ks_name_passpoint">Wi-Fi Passpoint</string>
-    <string name="ks_name_soter">Soter</string>
-    <string name="ks_name_widevine">Widevine (L1)</string>
     <string name="ks_status_available">Əlçatan</string>
     <string name="ks_status_unavailable">Əlçatmazdır</string>
     <string name="ks_update_certificate">Sertifikat</string>
@@ -418,17 +349,12 @@ Həmçinin başqa şəxslərin öz Xiaomi cihazlarını tapmasına anonim olaraq
     <string name="lockscreen_positive_btn">Sonrakı</string>
     <string name="low_battery_locate_summary">Batareya az olduqda yerləşmə məlumatını avtomatik bildir</string>
     <string name="low_battery_locate_title">Batareya az olduqda yeri bildir</string>
-    <string name="marketSdkVersion">3.2.22</string>
     <string name="master_alert_notif_content">Mühüm bir şeyi itirməmək üçün elementləri müntəzəm olaraq nüsxələyin.</string>
     <string name="master_alert_notif_title">Xiaomi Cloud-u işə sal</string>
     <string name="member_menu_vipname_free">Ödənişsiz</string>
-    <string name="member_menu_vipname_mega">Mega</string>
-    <string name="member_menu_vipname_premium">Premium</string>
-    <string name="member_menu_vipname_ultra">Ultra</string>
     <string name="menu_add_short_cut">Əsas ekran qısayolu yarat</string>
     <string name="menu_migrate_to_google_photos">Datanı \"Google Fotolar\"a köçür</string>
     <string name="merge">Birləşdir</string>
-    <string name="mi_drive_title">Mi Drive</string>
     <string name="micloud_alert_dialog_positive">Oldu</string>
     <string name="micloud_all_sub_resend_common_sms_with_charge_hint">"\"Cihazı tap\"ı və Xiaomi Cloud xidmətlərini işə salmaq üçün, &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;ödənişli SMS&lt;/b&gt;&lt;/font&gt; avtomatik olaraq göndəriləcək.&lt;br/&gt;SIM kartları dəyişdirəndə, &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;ödənişli SMS&lt;/b&gt;&lt;/font&gt; təkrar aktivləşdirmə üçün avtomatik olaraq göndəriləcəkdir.&lt;br/&gt;Yuxarıda qeyd olunan əməliyyatların nəticəsi ilə yaranmış bütün SMS ödənişləri operatorunuz tərəfindən yığılacaq. Xiaomi, bu mesajlar üçün sizdən ödəniş almır."</string>
     <string name="micloud_all_sub_resend_domestic_sms_with_charge_hint">"\"Cihazı tap\"ı və Xiaomi Cloud xidmətlərini işə salmaq üçün, &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;ölkədaxili ödənişli SMS&lt;/b&gt;&lt;/font&gt; avtomatik olaraq göndəriləcək.&lt;br/&gt;SIM kartları dəyişdirəndə, &lt;xliff:g id=number_sms refersto=1&gt;%1$d&lt;/xliff:g&gt; &lt;font color=#0097FF&gt;&lt;b&gt;ölkədaxili ödənişli SMS&lt;/b&gt;&lt;/font&gt; təkrar aktivləşdirmə üçün avtomatik olaraq göndəriləcəkdir.&lt;br/&gt;Yuxarıda qeyd olunan əməliyyatların nəticəsi ilə yaranmış bütün SMS ödənişləri operatorunuz tərəfindən yığılacaq. Xiaomi, bu mesajlar üçün sizdən ödəniş almır."</string>
@@ -664,17 +590,6 @@ Həmçinin başqa şəxslərin öz Xiaomi cihazlarını tapmasına anonim olaraq
     <string name="miuix_appcompat_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_select_all_description">Hamısını seç</string>
     <string name="miuix_appcompat_select_item">Elementləri seç</string>
-    <string name="miuix_font_style_misans_bold_font_family">mipro-bold</string>
-    <string name="miuix_font_style_misans_demibold_font_family">sans-serif-medium</string>
-    <string name="miuix_font_style_misans_extralight_font_family">sans-serif-thin</string>
-    <string name="miuix_font_style_misans_font_family">sans-serif</string>
-    <string name="miuix_font_style_misans_heavy_font_family">sans-serif-black</string>
-    <string name="miuix_font_style_misans_light_font_family">sans-serif-light</string>
-    <string name="miuix_font_style_misans_medium_font_family">sans-serif-medium</string>
-    <string name="miuix_font_style_misans_normal_font_family">sans-serif-light</string>
-    <string name="miuix_font_style_misans_regular_font_family">sans-serif</string>
-    <string name="miuix_font_style_misans_semibold_font_family">mipro-semibold</string>
-    <string name="miuix_font_style_misans_thin_font_family">sans-serif-thin</string>
     <string name="miuix_indexer_collect">Kolleksiyalar</string>
     <string name="miuix_indexer_selected">%s seçildi</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Təzələmək üçün aşağı çək</string>
@@ -750,7 +665,7 @@ Həmçinin başqa şəxslərin öz Xiaomi cihazlarını tapmasına anonim olaraq
     <string name="offline_find_doing_enable">Oflayn yerləşmə işə salınır…</string>
     <string name="offline_find_function">Oflayn yerləşmə</string>
     <string name="offline_find_msg_to_open_1">Digər oflayn cihazların yerini görə bilmək üçün bu cihazda Oflayn yerləşməni işə salın.</string>
-    <string name="offline_find_msg_to_open_2">Bu cihazı güvənli olaraq doğrulayın və digər oflayn cihazların yerini görə bilmək üçün Oflayn yerləşməni işə salın.</string>
+    <string name="offline_find_msg_to_open_2">Şəbəkəyə bağlanmadıqda bu cihazı tapa bilmək və digər cihazların yerləşməsini görə bilmək üçün bu özəlliyi işə salın.</string>
     <string name="offline_find_msg_to_open_3">Datalarınızın təhlükəsizliyini qorumaq üçün, Oflayn yerləşməni işə salmazdan əvvəl bu cihazın güvənli olduğunu doğrulayın.</string>
     <string name="offline_find_title_to_open_1">Oflayn yerləşməni işə sal</string>
     <string name="offline_find_title_to_open_2">Bu cihazı doğrula</string>
@@ -840,7 +755,6 @@ Həmçinin başqa şəxslərin öz Xiaomi cihazlarını tapmasına anonim olaraq
     <string name="privacy_runtime_perm_sms_desc">Mesajları sinxronlaşdırmaq üçün</string>
     <string name="privacy_runtime_perm_sms_title">Mesajlara müraciət</string>
     <string name="privacy_settings">Gizlilik</string>
-    <string name="project_id">micloud-43705</string>
     <string name="provision_back">Geri</string>
     <string name="provision_next">Növbəti</string>
     <string name="provision_skip_underline">Ötür</string>
@@ -1013,7 +927,6 @@ Həmçinin başqa şəxslərin öz Xiaomi cihazlarını tapmasına anonim olaraq
     <string name="soundrecorder_sync_records">Xiaomi Cloud ilə sinxronlaşdır</string>
     <string name="starred_contact">Sevimlilər</string>
     <string name="start_transfer_gallery_data">Datanı köçür</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_manage_cloud_data_title">Buluddakı elementlərə bax</string>
     <string name="storage_manage_list_title">Bulud datası</string>
     <string name="storage_manage_list_title_action">Daha çoxuna bax</string>
@@ -1023,7 +936,6 @@ Həmçinin başqa şəxslərin öz Xiaomi cihazlarını tapmasına anonim olaraq
     <string name="sub_sync_item_sms_summary">"Wi-Fi şəbəkəsinə bağlandığınız zaman yalnız foto, səs və ya digər media ehtiva edən mesajlar sinxronlaşdırılacaq"</string>
     <string name="sub_sync_item_sms_title_wifi_only">MMS-i yalnız Wi-Fi ilə sinxronlaşdır</string>
     <string name="sub_sync_item_sms_title_wifi_only_china">MMS-i yalnız Wi-Fi ilə sinxronlaşdır</string>
-    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Bazar</string>
     <string name="sunday_short">Baz</string>
     <string name="sunday_shortest">Baz</string>
@@ -1063,7 +975,7 @@ Həmçinin başqa şəxslərin öz Xiaomi cihazlarını tapmasına anonim olaraq
     <string name="system_busy_or_network_error">Xəta baş verdi. Bir və ya iki dəqiqə gözləyib yenidən sınayın.</string>
     <string name="talkback_hide_passcode">Parolu gizlət</string>
     <string name="talkback_show_passcode">Parolu göstər</string>
-    <string name="the_anniversary_of_lifting_martial_law">Hərbi Vəziyyətin Qaldırılma İl dönümü</string>
+    <string name="the_anniversary_of_lifting_martial_law">Hərbi Vəziyyətin Qaldırılma İldönümü</string>
     <string name="the_anti_aggression_day">Təcavüzlə Mübarizə Günü</string>
     <string name="the_arbor_day">Ağacəkmə Günü</string>
     <string name="the_armed_forces_day">Silahlı Qüvvələr Günü</string>
@@ -1124,7 +1036,6 @@ Həmçinin başqa şəxslərin öz Xiaomi cihazlarını tapmasına anonim olaraq
     <string name="user_agreement_p5">"
 "</string>
     <string name="user_agreement_title">"Xiaomi Cloud-un Xidmət Şərtləri"</string>
-    <string name="user_agreement_url">app://com.miui.cloudservice.user_agreement.license</string>
     <string name="v7_preference_off">BAĞLI</string>
     <string name="v7_preference_on">AÇIQ</string>
     <string name="verify_camera_error_toast">"Güvənlik keçid açarı tanına bilmədi"</string>
@@ -1162,9 +1073,11 @@ Həmçinin başqa şəxslərin öz Xiaomi cihazlarını tapmasına anonim olaraq
     <string name="verify_loading_progressDialog">Doğrulanır…</string>
     <string name="verify_login_error_not_support_toast">"Başqa cihazda Qabaqcıl data qoruması işə salınıb. Bu cihaz, bu özəlliyi dəstəkləmədiyi üçün bu cihazda Xiaomi Hesabınıza daxil ola bilmək məqsədilə Qabaqcıl data qorumasını söndürün."</string>
     <string name="verify_notification_text">Bu cihazın, bu özəlliyi bütün cihazlarınızda istifadə etməsinə icazə verin</string>
+	<string name="verify_notification_text_find_device_push">Digər cihazın bu cihazı tapmasına icazə ver</string>
     <string name="verify_notification_text_pc">Qabaqcıl data qoruması açıqdır. Şifrələnmiş datalara müraciət edə bilmək üçün kompüterinizdə tələb olunan icazələri verin.</string>
     <string name="verify_notification_text_web">Qabaqcıl data qoruması açıqdır. Şifrələnmiş datalara müraciət edə bilmək üçün i.mi.com ünvanında tələb olunan icazələri verin.</string>
     <string name="verify_notification_title">Başqa bir cihazda ucdan-uca şifrələmə işə salındı</string>
+	<string name="verify_notification_title_find_device_push">Başqa cihaz \"Oflayn yerləşmə\" özəlliyini işə saldı</string>
     <string name="verify_ocr_loading_progressDialog">Tanınır…</string>
     <string name="verify_process_dialog_message">Doğrulanır…</string>
     <string name="verify_scan_Second_title">%d rəqəmli keçid açarını daxil edin</string>
@@ -1185,11 +1098,13 @@ Həmçinin başqa şəxslərin öz Xiaomi cihazlarını tapmasına anonim olaraq
     <string name="verify_warning_dialog_code_web">Bu kodu i.mi.com ünvanında daxil edin</string>
     <string name="verify_warning_dialog_message">%s, Xiaomi Hesabınıza daxil olmuş bütün cihazlar üçün ucdan-uca şifrələməni işə salmaq istəyir. Bu özəllik, şifrələnmiş bulud datanıza bütün cihazlardan asanlıqla müraciət etməyinizə imkan verəcək. İndi icazə verilsin?</string>
     <string name="verify_warning_dialog_message_default">Xiaomi cihazınız</string>
+	<string name="verify_warning_dialog_message_find_device">"\"Oflayn yerləşmə\" %s üçün açıqdır. Bu özəllik işə salındıqda, oflayn olduğunuz zaman cihazınızın yerləşməsini yoxlaya biləcəksiniz."</string>
     <string name="verify_warning_dialog_message_pc">Qabaqcıl data qoruması açıqdır. Şifrələnmiş datalara müraciət edə bilmək üçün kompüterinizdə tələb olunan icazələri verin.</string>
     <string name="verify_warning_dialog_message_web">Qabaqcıl data qoruması açıqdır. Şifrələnmiş datalara müraciət edə bilmək üçün i.mi.com ünvanında tələb olunan icazələri verin.</string>
     <string name="verify_warning_dialog_negative_btn">"İcazə vermə"</string>
     <string name="verify_warning_dialog_positive_btn">İcazə ver</string>
     <string name="verify_warning_dialog_title">Başqa bir cihazda ucdan-uca şifrələmə işə salındı</string>
+	<string name="verify_warning_dialog_title_find_device">\"Oflayn yerləşmə\" başqa cihaz üçün açıqdır</string>
     <string name="verify_warning_dialog_title_pc">İcazələr tələb olunur</string>
     <string name="verify_warning_dialog_title_web">İcazələr tələb olunur</string>
     <string name="verify_warning_verify_dialog_message">%s dakı doğrulama kodunu daxil edin</string>
@@ -1214,7 +1129,6 @@ Həmçinin başqa şəxslərin öz Xiaomi cihazlarını tapmasına anonim olaraq
     <string name="xiaomi_market_sdk_update_dialog_cancel">İndi yox</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Güncəllə</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Bir güncəlləmə mövcuddur</string>
-    <string name="xiaomi_update_sdk_bytes_unit">%1$sB</string>
     <string name="xiaomi_update_sdk_connect_download_manager_fail">\"Endirmə Meneceri\"nə bağlanmadı, lütfən Tətbiq İdarəetmə bölməsində \"Endirmə Meneceri\"nin statusunu yoxlayın.</string>
     <string name="xiaomi_update_sdk_dialog_message">"%1$s versiyasını təqdim edirik
 Həcmi: %2$s"</string>
@@ -1222,10 +1136,7 @@ Həcmi: %2$s"</string>
 Delta güncəlləmə həcmi: %2$s"</string>
     <string name="xiaomi_update_sdk_dialog_title">Bir güncəlləmə mövcuddur</string>
     <string name="xiaomi_update_sdk_external_storage_unavailable">Anbar sahəsi əlçatmazdır, lütfən SD kartı yoxlayın.</string>
-    <string name="xiaomi_update_sdk_kilobytes_unit">%1$sKB</string>
-    <string name="xiaomi_update_sdk_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_update_sdk_update_dialog_cancel">İndi yox</string>
     <string name="xiaomi_update_sdk_update_dialog_ok">Güncəllə</string>
-    <string name="xmpp_server_addr"></string>
     <string name="yesterday">Dünən</string>
 </resources>
