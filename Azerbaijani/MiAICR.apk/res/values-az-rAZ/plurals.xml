@@ -36,6 +36,14 @@
         <item quantity="other">%d dəq əvvəl</item>
         <item quantity="one">%d dəq əvvəl</item>
     </plurals>
+    <plurals name="aiSearch_buildDB_dialog_analysis_completed_progress_time">
+        <item quantity="other">%1$s tamamlandı. Təxminən %2$s dəqiqə qalıb.</item>
+        <item quantity="one">%1$s tamamlandı. Təxminən %2$s dəqiqə qalıb.</item>
+    </plurals>
+    <plurals name="aiSearch_buildDB_dialog_secondary_confirmation_content">
+        <item quantity="other">Təhlilin tamamlanması təxminən %1$s dəqiqə çəkəcək. Bu proses zamanı cihazınız isinə və ya bir az artıq enerji sərf edə bilər. İndi başladılsın?</item>
+        <item quantity="one">Təhlilin tamamlanması təxminən %1$s dəqiqə çəkəcək. Bu proses zamanı cihazınız isinə və ya bir az artıq enerji sərf edə bilər. İndi başladılsın?</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">Yarım saat əvvəl</item>
         <item quantity="other">Yarım saat əvvəl</item>
