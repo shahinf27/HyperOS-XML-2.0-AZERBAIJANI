@@ -123,7 +123,6 @@
     <string name="accessibility_flash_soft_light_off">Yumşaq fləş bağlıdır</string>
     <string name="accessibility_flash_soft_light_touch">Yumşaq fləş, fənər rejimində açıqdır</string>
     <string name="accessibility_flash_torch">Fləş açıqdır (fənər rejimi)</string>
-	<string name="accessibility_focal">Fokus uzunluğu</string>
     <string name="accessibility_focal_lens">%s mm-ə bərabər fokus uzunluğu</string>
     <string name="accessibility_focus_face_pos_bottom">Çərçivənin alt kənarına yaxın yerləşdirildi</string>
     <string name="accessibility_focus_face_pos_left">Çərçivənin sol kənarına yaxın yerləşdirildi</string>
@@ -275,7 +274,6 @@
     <string name="actionbar_button_up_description">Geri</string>
     <string name="afternoon">Günortadan sonra</string>
     <string name="agent_flip_tbc">Daxili ekranda davam et</string>
-	<string name="agent_function_active">%1$s tənzimləmə qüvvəyə mindi</string>
     <string name="agent_function_max">Maksimum dəyərə ayarlandı</string>
     <string name="agent_function_min">Minimum dəyərə ayarlandı</string>
     <string name="agent_workspace_mode_not_supported">"Bu özəllik dəstəklənmir"</string>
@@ -3099,7 +3097,6 @@ xxxxxxxxxxxxxxxx"</string>
     <string name="title_snap_double_confirm">Yenidən təsdiqlə</string>
     <string name="toast_burst_snap_forbidden_when_audio_capture_open">"Səs yaxalama açıq olduqda ardıcıl çəkiliş edilə bilmir"</string>
     <string name="toast_camera_connect_success">Uğurla bağlantılıdır. Kamera yayımına baxılır.</string>
-	<string name="toast_handle_not_found">Əvvəlcə müvafiq tətbiqi quraşdır</string>
     <string name="toast_monitor_connect_success">Uğurla bağlantılıdır. Paylaşılan önizləməyə baxılır.</string>
     <string name="toast_monitor_connect_timeout">Digər cihaz paylaşılan önizləməni bağladı</string>
     <string name="toast_saving">Fotolar saxlanılır…</string>

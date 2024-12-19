@@ -160,14 +160,12 @@
     <string name="cetus_invisible_mode_notice_location">"Gizli rejimdəsiniz. Yerləşmə xidmətləri indi istifadə edilə bilmir."</string>
     <string name="cetus_invisible_mode_notice_tip">Ayarlarda Gizli rejimi söndürmək üçün toxunun</string>
     <string name="clearable_edittext_clear_description">Təmizlə</string>
-	<string name="clip_notification_close_summary">Bir tətbiq lövhəyə müraciət etdikdə xatırladıcı almağı dayandırırsınız?</string>
-    <string name="clip_notification_close_title">Lövhəyə müraciət xatırladıcılarını söndür</string>
     <string name="clipboard_ai_allow_once">%1$s - lövhədəki elementlərə avtomatik müraciət etməsinə icazə verildi</string>
     <string name="clipboard_ai_allow_tip">%1$s - lövhədən %2$s oxumasına ağıllıca icazə verildi</string>
     <string name="clipboard_may_sensitive">Ehtimal ki, həssas məlumatlar var</string>
     <string name="clipboard_read_ai_deny_once">%1$s - lövhəyə müraciət etməsi məhdudlaşdırıldı</string>
     <string name="clipboard_read_deny_dialog_title">%1$s - lövhəyə müraciət etməsi məhdudlaşdırıldı</string>
-    <string name="close">Söndür</string>
+    <string name="close">Bağla</string>
     <string name="copy">Kopyala</string>
     <string name="date_picker_label_day"></string>
     <string name="date_picker_label_month"></string>
@@ -356,7 +354,6 @@
     <string name="not_set">Ayarlanmadı</string>
     <string name="notification_click_tip">Detallara baxmaq üçün toxunun</string>
     <string name="ok">Oldu</string>
-	<string name="overlay_read_clip_toast">\"%1$s\" lövhəyə müraciət etdi</string>
     <string name="perm_action_allow">İcazə ver</string>
     <string name="perm_action_deny">Heç vaxt icazə vermə</string>
     <string name="perm_educate_post_notification">Bildirişlər, Bildiriş panelində və Əsas ekran ikonlarında göründüyü üçün səs və titrəmə ilə müşayiət oluna bilər. Bildiriş tərcihlərinizi Ayarlarda dəyişdirə bilərsiniz.</string>
@@ -372,8 +369,7 @@
     <string name="permdesc_location_background">%1$s - arxaplanda yerləşmə məlumatlarına müraciət etməsinə icazə verilsin?</string>
     <string name="permdesc_microphone">%1$s - səs yazmaq üçün mikrofonu istifadə etməsinə icazə verilsin?</string>
     <string name="permdesc_nearby_devices">%1$s - yaxınlıqdakı cihazları aşkarlamasına və onlara bağlanmasına icazə verilsin?</string>
-	<string name="permdesc_nearby_wifi_devices">Bu tətbiqin Wi-Fi vasitəsilə yaxınlıqdakı cihazlara bağlanmasına, onlara yayım etməsinə və onların nisbi yerləşmələrini müəyyən etməsinə icazə verin.</string>
-    <string name="permdesc_post_notification">%1$s - bildiriş göndərməsinə icazə verilsin?</string>
+	<string name="permdesc_post_notification">%1$s - bildiriş göndərməsinə icazə verilsin?</string>
     <string name="permdesc_process_outgoing_call">%1$s - zəngləri cavablandırmasına və sonlandırmasına icazə verilsin?</string>
     <string name="permdesc_read_calendar">%1$s - Təqvim tədbirlərinə müraciət etməsinə icazə verilsin?</string>
     <string name="permdesc_read_call_log">%1$s - zəng tarixçəsinə müraciət etməsinə icazə verilsin?</string>

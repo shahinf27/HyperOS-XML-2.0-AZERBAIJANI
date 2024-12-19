@@ -177,8 +177,8 @@
         <item quantity="one">%d yeni bildiriş</item>
     </plurals>
 	<plurals name="musical_rhythm_app_summary">
-        <item quantity="other">%2$s daxil olmaqla %1$d tətbiq</item>
-        <item quantity="one">%2$s daxil olmaqla %1$d tətbiq</item>
+        <item quantity="other">%1$d daxil olmaqla %1$d tətbiq</item>
+        <item quantity="one">%1$d daxil olmaqla %1$d tətbiq</item>
     </plurals>
 	<plurals name="notification_frequency_summary">
         <item quantity="other">Günə təxminən %d element</item>
