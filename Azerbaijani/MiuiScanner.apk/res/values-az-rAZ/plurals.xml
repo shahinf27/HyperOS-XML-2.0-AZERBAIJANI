@@ -89,7 +89,7 @@
         <item quantity="one">1 dəqiqə əvvəl</item>
     </plurals>
     <plurals name="word_limit_prompt">
-        <item quantity="other">%d simvol limiti aşır</item>
-        <item quantity="one">%d simvol limiti aşır</item>
+        <item quantity="other">%d xarakter limiti aşır</item>
+        <item quantity="one">%d xarakter limiti aşır</item>
     </plurals>
 </resources>
