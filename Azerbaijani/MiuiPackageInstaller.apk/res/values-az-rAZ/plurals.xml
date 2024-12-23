@@ -49,8 +49,8 @@
         <item quantity="one">%1$s gizliliklə əlaqəli icazə</item>
     </plurals>
     <plurals name="comment_count">
-        <item quantity="other">%1$s incələmə</item>
-        <item quantity="one">%1$s incələmə</item>
+        <item quantity="other">%1$s rəy</item>
+        <item quantity="one">%1$s rəy</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="one">Yarım saat əvvəl</item>
