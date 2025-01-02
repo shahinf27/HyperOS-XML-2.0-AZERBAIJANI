@@ -624,6 +624,7 @@ Başlamazdan əvvəl USB sürücüsündə yetərli anbar sahəsi olduğuna əmin
     <string name="notif_trans_wait_for_reconnecting">Bağlantı yarımçıq kəsildi. Yenidən bağlantı qurun.</string>
     <string name="old_soft_name">QR kod ilə bağlan</string>
     <string name="old_way">Yeni cihazınızda QR kod yarada və köhnə cihazı istifadə edərək onu skan edə bilərsiniz.</string>
+	<string name="open_compatibility_mode">İşə sal</string>
     <string name="page_loading">Bir saniyə…</string>
     <string name="password">Parol</string>
     <string name="password_null">"Parol boş buraxıla bilməz"</string>
@@ -765,6 +766,7 @@ Wi-Fi-ı söndürməyin"</string>
     <string name="set_app_suspend">Bu tətbiq indi nüsxələnir. Nüsxələmə tamamlanana qədər gözləyib yenidən sınayın.</string>
     <string name="settings_summary">Telefon və mesajlaşma ayarları</string>
     <string name="side_sheet_accessibility_pane_title">Yan vərəq</string>
+	<string name="skip_compatibility_mode">Ötür</string>
     <string name="sms_title">Mesajlaşma</string>
     <string name="soft_ap_create_failed">"Hotspot yaradıla bilmədi"</string>
     <string name="soft_ap_creating">Hotspot yaradılır…</string>
@@ -799,6 +801,7 @@ Wi-Fi-ı söndürməyin"</string>
     <string name="state_waiting">Bir saniyə…</string>
     <string name="storage_sd_card">SD kart</string>
     <string name="storage_usb">USB drive</string>
+	<string name="subtitle_compatibility_mode">Bu tətbiqlər %d-bit arxitekturası ilə uyumlu deyil. Tətbiq uyumluluq rejimini işə salaraq bu tətbiqləri bərpa etmək üçün aşağıya toxunun.</string>
 	<string name="succ_description">Uğurlu</string>
     <string name="succeed">Tamamlandı</string>
     <string name="summary_err_backup_encrypting">Xiaomi Hesabınıza daxil olun.</string>
@@ -874,6 +877,7 @@ Wi-Fi-ı söndürməyin"</string>
     <string name="thursday_short">C.a.</string>
     <string name="thursday_shortest">C.a.</string>
     <string name="time_picker_dialog_title">Vaxtı ayarla</string>
+	<string name="title_compatibility_mode">Tətbiq uyumluluq rejimi</string>
     <string name="today">Bu gün</string>
     <string name="tomorrow">Sabah</string>
     <string name="trans_backingup">Nüsxələnir …</string>

@@ -235,17 +235,19 @@
     <string name="find_device">Cihazı tap</string>
     <string name="find_device_dspt_provision">Cihazınızı itirsəniz, cihazı kilidləmək, tapmaq və ya sıfırlamaq üçün &lt;font color=#0097FF&gt;%s&lt;/font&gt; ünvanına gedə bilərsiniz. Bu özəlliyi istənilən vaxt Ayarlarda işə sala və ya söndürə bilərsiniz.</string>
     <string name="find_device_gdpr_prompt">\"Cihazı tap\"ı işə salaraq,<u>
-  <a href="app://com.miui.cloudservice.gdpr.license">Gizlilik Siyasətimizi</a> qəbul edirsiniz
+  "<a href="app://com.miui.cloudservice.gdpr.license"><u>Gizlilik Siyasətimizi</u></a> qəbul edirsiniz
 </u>. Razılığınızı geri götürmək istəsəniz bu özəlliyi söndürün.</string>
     <string name="find_device_icp_record_text">ICP qeydiyyat nömrəsi: Pekin ICP No. 10046444-73A</string>
     <string name="find_device_operation_failure_rpc">"RPC xətasına görə əməliyyat icra edilə bilmədi."</string>
     <string name="find_device_permissions_footer">"Seçdiyiniz icazələri vermək üçün \"İcazə ver\"ə toxunun."</string>
     <string name="find_device_permissions_header">"\"Cihazı tap\"a xoş gəlmisiniz! Bu tətbiqi istifadə edərək cihazınızı tapa, izləyə və itdiyi halda kilidləyə bilərsiniz. Həmçinin başqa şəxslərin öz Xiaomi cihazlarını tapmasına anonim olaraq kömək edə bilərsiniz. Bu tətbiq, normal işləməsi üçün aşağıdakı icazələri tələb edir:"</string>
+	<string name="find_device_permissions_header_without_offline_find">"Cihazı Tap özəlliyi ilə, itdiyi halda cihazınızı tapa, izləyə və kilidləyə bilərsiniz. Bu tətbiqin normal işləməsi üçün aşağıdakı icazələrə ehtiyacı var:"</string>
     <string name="find_device_service_title">Cihazı tap</string>
     <string name="find_device_status_summary">"Cihazınızı tapmaq və izləmək və ya datalarını uzaqdan təmizləmək üçün işə salın.
 Həmçinin başqa şəxslərin öz Xiaomi cihazlarını tapmasına anonim olaraq kömək edə bilərsiniz.
 "</string>
-    <string name="find_device_status_title_pad">Cihazı tap</string>
+    <string name="find_device_status_summary_without_offline_find">Cihazınızı tapmaq və izləmək və ya içindəki dataları uzaqdan təmizləmək üçün işə salın</string>
+	<string name="find_device_status_title_pad">Cihazı tap</string>
     <string name="find_device_status_title_phone">Cihazı tap</string>
     <string name="find_permission_location_summary">Bu cihazı tapmaq üçün</string>
     <string name="find_permission_location_title">Yerləşməyə müraciət</string>
@@ -711,7 +713,9 @@ Həmçinin başqa şəxslərin öz Xiaomi cihazlarını tapmasına anonim olaraq
     <string name="preference_copied">\"%1$s\" lövhəyə kopyalandı.</string>
     <string name="privacy_and_agreement">Şərtlər və qaydalar</string>
     <string name="privacy_dialog_finddevice_all_purpose_pad">"\"Cihazı tap\"a xoş gəlmisiniz! Bu tətbiqi istifadə edərək cihazınızı tapa, izləyə və itdiyi halda kilidləyə bilərsiniz. Həmçinin başqa şəxslərin öz Xiaomi cihazlarını tapmasına anonim olaraq kömək edə bilərsiniz."</string>
+	<string name="privacy_dialog_finddevice_all_purpose_pad_without_offline_find">"İtdiyi halda cihazınızı tapmaq, kilidləmək və ya içindəki dataları təmizləmək üçün Cihazı tap özəlliyini istifadə edə bilərsiniz."</string>
     <string name="privacy_dialog_finddevice_all_purpose_phone">"\"Cihazı tap\"a xoş gəlmisiniz! Bu tətbiqi istifadə edərək cihazınızı tapa, izləyə və itdiyi halda kilidləyə bilərsiniz. Həmçinin başqa şəxslərin öz Xiaomi cihazlarını tapmasına anonim olaraq kömək edə bilərsiniz."</string>
+	<string name="privacy_dialog_finddevice_all_purpose_phone_without_offline_find">"İtdiyi halda cihazınızı tapmaq, kilidləmək və ya içindəki dataları təmizləmək üçün Cihazı tap özəlliyini istifadə edə bilərsiniz."</string>
     <string name="privacy_dialog_sync_all_purpose_china">Xiaomi Cloud xidmətlərinə xoş gəlmisiniz! Mesajlarınızı, kontaktlarınızı, notlarınızı, Brauzer ayarlarınızı, foto və videolarınızı, Wi-Fi ayarlarınızı, səsyazmalarınızı, Əsas ekran düzümünü, tətbiqləri, təqvim tədbirlərini, Əngəlli siyahısı elementlərini, zəng tarixçəsini və Tətbiq seyfini bütün bağlantılı cihazlar arasında sinxronlaşdırmaq üçün Xiaomi Cloud-u istifadə edə bilərsiniz.</string>
     <string name="privacy_dialog_sync_all_purpose_china_v2">Xiaomi Cloud xidmətlərinə xoş gəlmisiniz! Mesajlarınızı, kontaktlarınızı, notlarınızı, Brauzer ayarlarınızı, foto və videolarınızı, Wi-Fi ayarlarınızı, səsyazmalarınızı, Əsas ekran düzümünü, tətbiqləri, təqvim tədbirlərini, Əngəlli siyahısı elementlərini, zəng tarixçəsini və Tətbiq seyfini bütün bağlantılı cihazlar arasında sinxronlaşdırmaq üçün Xiaomi Cloud-u istifadə edə bilərsiniz.</string>
     <string name="privacy_dialog_sync_all_purpose_pad">Xiaomi Cloud xidmətlərinə xoş gəlmisiniz! Mesajlarınızı, kontaktlarınızı, notlarınızı, Brauzer elementlərinizi, bulud albomlarınızı, musiqilərinizi, təqviminizi, əngəlli siyahınızı və zəng tarixçənizi buluda sinxronlaşdırmaq üçün bu tətbiqi istifadə edə bilərsiniz.</string>
@@ -866,7 +870,7 @@ Həmçinin başqa şəxslərin öz Xiaomi cihazlarını tapmasına anonim olaraq
     <string name="share_sdk_pref_category_title_scan_qr_code">QR kodunu skan et</string>
     <string name="share_sdk_pref_family_detail_title">Ailə qrup detallarını göstər</string>
     <string name="share_sdk_privacy_link_description">Bu xidməti istifadə etməzdən əvvəl <u>
-  <a href="https://account.xiaomi.com/about/protocol/privacy">Xiaomi Hesabı Gizlilik Siyasətini</a>
+  <a href="https://account.xiaomi.com/about/protocol/privacy"><u>Xiaomi Hesabı Gizlilik Siyasətini</u></a>
 </u> oxuyun və razılaşın.</string>
     <string name="share_sdk_qr_code_description">"%1$s göndərən dəvət"</string>
     <string name="share_sdk_qr_code_expire_time">QR kodu etibarlılıq müddəti: %1$s</string>
