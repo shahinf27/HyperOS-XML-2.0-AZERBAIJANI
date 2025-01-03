@@ -854,6 +854,7 @@ test uğursuz oldu!"</string>
     <string name="cit_usb_OTG_plug_re_plugin">USB_OTG testi tamamlandı, təkrar testə ehtiyac yoxdur</string>
     <string name="cit_usb_charger_in">Charging via (USB)</string>
     <string name="cit_usb_charger_out">Doldurma cihazı ayrıldı</string>
+	<string name="cit_usb_typec_test_title">USB Type-C Funksional Test Köməkçiləri</string>
     <string name="cit_uwb_calibrate_color_black">Qara</string>
     <string name="cit_uwb_calibrate_color_cali_tip">Please select the back shell of the machine before performing data calibration</string>
     <string name="cit_uwb_calibrate_color_gray">Boz</string>
@@ -1089,6 +1090,14 @@ Lütfən eşitdiyiniz rəqəmə uyğun düyməyə basın"</string>
     <string name="touch_auto">Touch panel self test ongoing, please wait....</string>
     <string name="tp_color">TP Rəngi:</string>
     <string name="tp_version">TP Versiyası:</string>
+	<string name="usb_typec_test1_but1">Enter USB2 suspend</string>
+    <string name="usb_typec_test1_but2">Enter USB3 suspend</string>
+    <string name="usb_typec_test1_but_resume">resume</string>
+    <string name="usb_typec_test1_title">TD4.9.1 USB Type-C Source Suspend Test</string>
+    <string name="usb_typec_test2_but1">USB2</string>
+    <string name="usb_typec_test2_but2">USB3</string>
+    <string name="usb_typec_test2_but_exit">EXIT</string>
+    <string name="usb_typec_test2_title">TD4.9.3 USB Type-C Source PR_Swap Test</string>
     <string name="verified_boot_lock">Kilidlə</string>
     <string name="verified_boot_state">VerifiedBootState</string>
     <string name="verified_boot_unlock">Kilidi aç</string>
