@@ -26,13 +26,11 @@
     <string name="fix">İncələmə icazəsi</string>
     <string name="forget">Unut</string>
     <string name="hostname_or_ip">Host adı və ya IP ünvanı</string>
-    <string name="ip_hint">192.168.0.4</string>
     <string name="media_size_4x6in">4x6 düym</string>
     <string name="media_size_54x86mm">54x86 mm</string>
     <string name="media_size_5x7in">5x7 düym</string>
     <string name="media_size_89x119mm">89x119 mm</string>
     <string name="media_size_8x10in">8x10 düym</string>
-    <string name="media_size_l">L</string>
     <string name="no_printer_found">Bu ünvanda printer tapılmadı</string>
     <string name="not_encrypted_request">Bu printer artıq şifrələnmiş işləri qəbul etmir. Çap etməyə davam edilsin?</string>
     <string name="print">Çap et</string>
@@ -56,7 +54,6 @@
     <string name="recommendation_summary">İlkin Çap Xidməti, təməl seçimləri təqdim edir. Bu printer üçün digər seçimlər başqa bir printer xidmətindən əldə edilə bilər.</string>
     <string name="recommendations_heading">Tövsiyə edilən xidmətlər</string>
     <string name="reject">Rədd et</string>
-    <string name="resolution_300_dpi">300 dpi</string>
     <string name="saved_printers">Saxlanılmış printerlər</string>
     <string name="searching">Axtarılır…</string>
     <string name="security">Güvənlik</string>
@@ -64,7 +61,6 @@
     <string name="title_activity_add_printer">Printer əlavə et</string>
     <string name="unreadable_input">Sənəd oxuna bilmədi</string>
     <string name="waiting_to_send">Göndərmək üçün gözlənilir</string>
-    <string name="wifi_direct">Wi-Fi Direct</string>
     <string name="wifi_direct_permission_rationale">İlkin Çap Xidmətinin, yaxınlıqdakı printerləri tapması üçün \"yaxınlıqdakı cihazlar\" icazəsinə ehtiyacı var.</string>
     <string name="wifi_direct_printers">Wi-Fi Direct printerləri</string>
     <string name="wifi_direct_printing">Wi-Fi Direct çapı</string>
