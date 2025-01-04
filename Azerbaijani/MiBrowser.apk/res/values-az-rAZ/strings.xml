@@ -841,7 +841,7 @@ Baxdığınız səhifələr tarixçədə görünməyəcək."</string>
     <string name="homepage_more_sites">Daha çox veb sayt</string>
     <string name="homepage_search_hint">Axtar</string>
     <string name="homepage_setting">Başlatma səhifəsi ayarları</string>
-    <string name="homepage_tab_tips_chatgpt">Yeni AI axtarışımıza baxın</string>
+    <string name="homepage_tab_tips_chatgpt">Yeni süni zəka özəlliklərini istifadə etmək üçün bura toxunun</string>
     <string name="homepage_top_card_menu">Başlıca</string>
     <string name="hot_games">Məşhur</string>
     <string name="hot_news_notify_summary">Başlıca xəbər hekayələri üçün ani bildirişlər</string>
@@ -1073,6 +1073,7 @@ Baxdığınız səhifələr tarixçədə görünməyəcək."</string>
     <string name="miuix_appcompat_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_select_all_description">Hamısını seç</string>
     <string name="miuix_appcompat_select_item">Elementləri seç</string>
+	<string name="miuix_appcompat_show_dialog_description">Açılan pəncərə</string>
     <string name="miuix_indexer_collect">Kolleksiyalar</string>
     <string name="miuix_indexer_selected">%s seçildi</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Təzələmək üçün aşağı çək</string>
@@ -2177,6 +2178,8 @@ Bəzi saytlar, reklamlarını sizin üçün fərdiləşdirmək məqsədilə əvv
     <string name="tag_undo">Geri al</string>
     <string name="tag_undo_title">%s bağlandı</string>
     <string name="talk_back_voice_search">Səsli axtarış</string>
+	<string name="text_input_layout_default_content_description">Bu, ilkin məzmun açıqlamasıdır</string>
+    <string name="text_input_layout_default_error">Bu, ilkin xətadır</string>
     <string name="the_anniversary_of_lifting_martial_law">Hərbi Vəziyyətin Qaldırılma İldönümü</string>
     <string name="the_anti_aggression_day">Təcavüzlə Mübarizə Günü</string>
     <string name="the_arbor_day">Ağacəkmə Günü</string>
