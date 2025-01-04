@@ -104,6 +104,9 @@
         <item quantity="other">%d dəqiqə əvvəl</item>
         <item quantity="one">1 dəqiqə əvvəl</item>
     </plurals>
+	<plurals name="operation_delete_desc_vip">
+        <item quantity="other">"Bu elementi %d gün ərzində \"Təzəlikcə silinən elementlər\"dən bərpa edə biləcəksiniz. İndi silinsin?"</item>
+    </plurals>
     <plurals name="search_head_hint_file">
         <item quantity="other">%2$d element \"%1$s\" ehtiva edir</item>
         <item quantity="one">%2$d element \"%1$s\" ehtiva edir</item>
@@ -133,8 +136,8 @@
         <item quantity="one">Yükləmək üçün gözlənilir. %1$s fayl qaldı.</item>
     </plurals>
     <plurals name="uploading_info_for_sys_title">
-        <item quantity="other">Yüklənilir… %1$d element qaldı (%2$s%%)</item>
-        <item quantity="one">Yüklənilir… %1$d element qaldı (%2$s%%)</item>
+        <item quantity="other">Yüklənir… %1$d element qaldı (%2$s%%)</item>
+        <item quantity="one">Yüklənir… %1$d element qaldı (%2$s%%)</item>
     </plurals>
     <plurals name="view_all">
         <item quantity="other">%1$d element</item>
