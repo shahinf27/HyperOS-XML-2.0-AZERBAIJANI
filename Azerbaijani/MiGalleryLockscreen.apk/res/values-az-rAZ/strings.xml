@@ -77,6 +77,11 @@
     <string name="apply_warning_title">Divar kağızını tətbiq et</string>
     <string name="auto_interval">Cihazın kilidi hər açılanda</string>
     <string name="back_icon_content_description">Geri</string>
+	<string name="bottomsheet_action_collapse">Alt vərəqi yığcamlaşdır</string>
+    <string name="bottomsheet_action_expand">Alt vərəqi genişləndir</string>
+    <string name="bottomsheet_action_expand_halfway">Yarıya qədər genişləndir</string>
+    <string name="bottomsheet_drag_handle_clicked">Tutacağa cüt toxunaraq sürükləyin</string>
+    <string name="bottomsheet_drag_handle_content_description">Sürükləmə tutacağı</string>
     <string name="cancel">İmtina</string>
     <string name="cancel_button">Bəli</string>
     <string name="cancel_lockscreen">İmtina</string>
