@@ -83,18 +83,18 @@
     <string formatted="false" name="ai_estimated_two_three_minutes">Bu, %d–%d dəqiqə çəkəcək</string>
     <string name="ai_generate">AI tərəfindən yaradılıb</string>
     <string name="ai_generate_action">Yarat</string>
-    <string name="ai_generate_add_latter">Lütfən bitdikdən sonra yeni şəkillər əlavə edin</string>
+    <string name="ai_generate_add_latter">Yeni fotolar əlavə etməzdən əvvəl lütfən tamamlanmasını gözləyin.</string>
     <string name="ai_generate_background">Arxaplanda bitir</string>
     <string name="ai_generate_determine">Fotolar təhlil edilir…</string>
     <string name="ai_generate_fail">"Yaradıla bilmədi"</string>
     <string name="ai_generate_forbid">"Bu özəlliyi güncəlləyirik. İzləmədə qalın!"</string>
-    <string name="ai_generate_latter">Lütfən daha sonra yenidən sınayın</string>
+    <string name="ai_generate_latter">Daha sonra yenidən sınayın</string>
     <string name="ai_generate_loading">Divar kağızı yaradılır…</string>
     <string name="ai_generate_message">"Dinamik bir divar kağızı yaratsanız, divar kağızının statik versiyasına etdiyiniz heç bir dəyişiklik saxlanılmayacaq. İndi yaradılsın?"</string>
     <string name="ai_generate_text">Dinamik divar kağızı yarat</string>
     <string name="ai_generate_title">Dinamik divar kağızı yaradılsın?</string>
     <string name="ai_generate_verify_text">Təsvir məzmunu doğrulanır…</string>
-    <string name="ai_generate_waiting">Hazırda növbədə çox adam var, lütfən daha sonra yenidən sınayın.</string>
+    <string name="ai_generate_waiting">Server məşğuldur. Bir və ya iki dəqiqə gözləyib yenidən sınayın.</string>
     <string name="ai_generate_wallpaper_done">AI dinamik divar kağızı uğurla yaradıldı</string>
     <string name="ai_generate_wallpaper_fail">"AI dinamik divar kağızı yaradıla bilmədi"</string>
     <string name="ai_generate_wallpaper_fail_message">Seçdiyiniz fotolar qaydalarımızı poza bilər. Yeni fotolar seçin.</string>
