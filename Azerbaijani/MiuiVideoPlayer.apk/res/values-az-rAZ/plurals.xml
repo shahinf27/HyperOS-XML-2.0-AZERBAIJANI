@@ -117,8 +117,8 @@
         <item quantity="one">%d dəq</item>
     </plurals>
     <plurals name="long_video_season">
-        <item quantity="other">%d sezon</item>
-        <item quantity="one">%d sezon</item>
+        <item quantity="other">%d mövsüm</item>
+        <item quantity="one">%d mövsüm</item>
     </plurals>
     <plurals name="lv_subtitle_offset_advance_times">
         <item quantity="other">Altyazı %.1f saniyə əvvəl göstəriləcək</item>
@@ -161,8 +161,8 @@
         <item quantity="one">%d mahnı</item>
     </plurals>
     <plurals name="notice_user_banned">
-        <item quantity="other">Məzmununuzda cəmiyyət standartlarımızı pozan elementlər (%1$s) var. Hesabınız %3$s tarixinə qədər %2$d günlük dayandırılıb.</item>
-        <item quantity="one">Məzmununuzda cəmiyyət standartlarımızı pozan elementlər (%1$s) var. Hesabınız %3$s tarixinə qədər %2$d günlük dayandırılıb.</item>
+        <item quantity="other">Məzmununuzda cəmiyyət standartlarımızı pozan elementlər (%1$s) var. Hesabınızın fəaliyyəti %3$s tarixinə qədər %2$d günlük dayandırılıb.</item>
+        <item quantity="one">Məzmununuzda cəmiyyət standartlarımızı pozan elementlər (%1$s) var. Hesabınızın fəaliyyəti %3$s tarixinə qədər %2$d günlük dayandırılıb.</item>
     </plurals>
     <plurals name="notification_close_tip">
         <item quantity="other">Bu özəllik %s günlük söndürüləcək</item>
@@ -242,6 +242,6 @@
     </plurals>
     <plurals name="vip_validity_date">
         <item quantity="other">Etibarlılıq dövrü: %d gün</item>
-        <item quantity="one">%d epizod satın alınır</item>
+        <item quantity="one">Etibarlılıq dövrü: %d gün</item>
     </plurals>
 </resources>
