@@ -4,91 +4,6 @@
         <item>Kişi</item>
         <item>Qadın</item>
     </string-array>
-    <string-array name="alphabet_sub_table_with_starred">
-        <item>!</item>
-        <item>A</item>
-        <item>B</item>
-        <item>C</item>
-        <item>H</item>
-        <item>I</item>
-        <item>J</item>
-        <item>K</item>
-        <item>L</item>
-        <item>M</item>
-        <item>N</item>
-        <item>O</item>
-        <item>P</item>
-        <item>Q</item>
-        <item>R</item>
-        <item>S</item>
-        <item>T</item>
-        <item>U</item>
-        <item>V</item>
-        <item>W</item>
-        <item>X</item>
-        <item>Y</item>
-        <item>Z</item>
-        <item>\#</item>
-    </string-array>
-    <string-array name="alphabet_table">
-        <item>\#</item>
-        <item>A</item>
-        <item>B</item>
-        <item>C</item>
-        <item>D</item>
-        <item>E</item>
-        <item>F</item>
-        <item>G</item>
-        <item>H</item>
-        <item>I</item>
-        <item>J</item>
-        <item>K</item>
-        <item>L</item>
-        <item>M</item>
-        <item>N</item>
-        <item>O</item>
-        <item>P</item>
-        <item>Q</item>
-        <item>R</item>
-        <item>S</item>
-        <item>T</item>
-        <item>U</item>
-        <item>V</item>
-        <item>W</item>
-        <item>X</item>
-        <item>Y</item>
-        <item>Z</item>
-    </string-array>
-    <string-array name="alphabet_table_with_starred">
-        <item>!</item>
-        <item>A</item>
-        <item>B</item>
-        <item>C</item>
-        <item>D</item>
-        <item>E</item>
-        <item>F</item>
-        <item>G</item>
-        <item>H</item>
-        <item>I</item>
-        <item>J</item>
-        <item>K</item>
-        <item>L</item>
-        <item>M</item>
-        <item>N</item>
-        <item>O</item>
-        <item>P</item>
-        <item>Q</item>
-        <item>R</item>
-        <item>S</item>
-        <item>T</item>
-        <item>U</item>
-        <item>V</item>
-        <item>W</item>
-        <item>X</item>
-        <item>Y</item>
-        <item>Z</item>
-        <item>\#</item>
-    </string-array>
     <string-array name="countries">
         <item>Əfqanıstan</item>
         <item>Albaniya</item>
@@ -292,17 +207,9 @@
         <item>Zimbabve</item>
     </string-array>
     <string-array name="feedback_tag_list">
-        <item>Bug</item>
-        <item>Suggestion</item>
-        <item>Other</item>
-    </string-array>
-    <string-array name="lang_detect">
-        <item>中</item>
-        <item>繁</item>
-        <item>英</item>
-        <item>韩</item>
-        <item>日</item>
-        <item>法</item>
+        <item>Xəta</item>
+        <item>Təklif</item>
+        <item>Digər</item>
     </string-array>
     <string-array name="local_subtitle_language_names">
         <item>all</item>
@@ -406,76 +313,5 @@
         <item>اردو</item>
         <item>Tiếng Việt</item>
         <item>Cymraeg</item>
-    </string-array>
-    <string-array name="multi_floating_package_allow_list">
-        <item>com.miui.securitycenter</item>
-        <item>com.miui.weather2</item>
-        <item>com.android.calendar</item>
-        <item>com.android.contacts</item>
-        <item>com.android.mms</item>
-        <item>com.miui.notes</item>
-        <item>com.android.settings</item>
-        <item>com.miui.gallery</item>
-        <item>com.miui.cloudservice</item>
-        <item>com.android.deskclock</item>
-    </string-array>
-    <string-array name="subtitle_font_title">
-        <item>A</item>
-        <item>A</item>
-        <item>A</item>
-    </string-array>
-    <string-array name="subtitle_language_codes">
-        <item>zh_CN</item>
-        <item>zh_HK</item>
-        <item>zh_TW</item>
-        <item>th_TH</item>
-        <item>ja_JP</item>
-        <item>ms_MY</item>
-        <item>pt_PT</item>
-        <item>it_IT</item>
-        <item>id_ID</item>
-        <item>ru_RU</item>
-        <item>sw_CD</item>
-        <item>ar_SA</item>
-        <item>de_DE</item>
-        <item>tl_PH</item>
-        <item>es_ES</item>
-        <item>ko_KR</item>
-        <item>fr_FR</item>
-        <item>vi_VN</item>
-        <item>en_GB</item>
-        <item>中en_GB双语</item>
-        <item>中文字幕</item>
-        <item>泰文</item>
-        <item>无字幕</item>
-        <item>AE_DR</item>
-        <item>PH_FIL</item>
-    </string-array>
-    <string-array name="subtitle_language_names">
-        <item>简体中文</item>
-        <item>繁體中文</item>
-        <item>繁體中文</item>
-        <item>ไทย</item>
-        <item>日本語</item>
-        <item>Melayu</item>
-        <item>Português</item>
-        <item>Italiano</item>
-        <item>Indonesia</item>
-        <item>Русский</item>
-        <item>kiswahili</item>
-        <item>العربية</item>
-        <item>Deutsch</item>
-        <item>Filipino</item>
-        <item>Español</item>
-        <item>한국어</item>
-        <item>Français</item>
-        <item>Tiếng Việt</item>
-        <item>English</item>
-        <item>中英双语</item>
-        <item>中文字幕</item>
-        <item>ไทย</item>
-        <item>无字幕</item>
-        <item>العربية</item>
-        <item>Filipino</item>
     </string-array>
 </resources>
