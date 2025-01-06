@@ -11,11 +11,11 @@
         <item>E-poçt</item>
         <item>Şirkət</item>
         <item>IM</item>
-        <item>SIP Telefon</item>
+        <item>SIP Telefonu</item>
         <item>Doğum günü</item>
         <item>Veb sayt</item>
         <item>Ünvan</item>
-        <item>Qeyd</item>
+        <item>Not</item>
     </string-array>
     <string-array name="font_size_names">
         <item>Kiçik</item>
