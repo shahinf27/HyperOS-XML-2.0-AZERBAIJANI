@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">MiCloudSync</string>
-    <string name="error_data_in_transfer">Sinxrn %s saata bitəcək.</string>
-    <string name="error_forbidden">Mi Hesabınızla əlaqəli problemlərə görə sinxrn sıradan çıxarıldı.</string>
-    <string name="error_not_acceptable">Sinxrn sıradan çıxarıldı.</string>
-    <string name="error_title">"Sinxrn edilə bilmədi"</string>
-    <string name="error_unauthorized">Həddən artıq daxil olma cəhdlərinə görə sinrxn sıradan çıxarıldı.</string>
+    <string name="error_data_in_transfer">Sinxronlaşdırma %s saata bitəcək.</string>
+    <string name="error_forbidden">Mi Hesabınızla əlaqəli problemlərə görə sinxronlaşdırma sıradan çıxarıldı.</string>
+    <string name="error_not_acceptable">Sinxronlaşdırma sıradan çıxarıldı.</string>
+    <string name="error_title">"Sinxronlaşdırıla bilmədi"</string>
+    <string name="error_unauthorized">Həddən artıq daxil olma cəhdlərinə görə sinxronlaşdırma sıradan çıxarıldı.</string>
     <string name="micloud_downloading_clipboard_message_from_web">Lövhə: Kompüterinizdən bir mesaj alındı</string>
     <string name="micloud_send_message_desc">Mi Mesaj göndərilir</string>
-    <string name="required_permissions">android.permission.READ_EXTERNAL_STORAGE;android.permission.WRITE_EXTERNAL_STORAGE;android.permission.READ_PHONE_STATE;android.permission.READ_CALENDAR;android.permission.WRITE_CALENDAR;android.permission.READ_SMS;android.permission.READ_CONTACTS;android.permission.WRITE_CONTACTS;android.permission.READ_CALL_LOG;android.permission.WRITE_CALL_LOG;</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
 </resources>
