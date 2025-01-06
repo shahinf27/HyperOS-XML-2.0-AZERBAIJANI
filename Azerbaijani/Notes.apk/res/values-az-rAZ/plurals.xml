@@ -36,9 +36,25 @@
         <item quantity="other">%d dəq əvvəl</item>
         <item quantity="one">%d dəq əvvəl</item>
     </plurals>
-	<plurals name="ai_content_exceeded_warn">
-        <item quantity="other">"Bu notun məzmunu süni zəka emal limitlərini aşır. Ən çox %1$s simvol daxil edib yenidən sınayın."</item>
-        <item quantity="one">"Bu notun məzmunu süni zəka emal limitlərini aşır. Ən çox %1$s simvol daxil edib yenidən sınayın."</item>
+    <plurals name="ai_cannot_add_content_toast_text">
+        <item quantity="other">"Heç bir not %1$s xarakteri aşa bilməz. Daha çox məzmun əlavə edilə bilmir."</item>
+        <item quantity="one">"Heç bir not %1$s xarakteri aşa bilməz. Daha çox məzmun əlavə edilə bilmir."</item>
+    </plurals>
+    <plurals name="ai_cannot_useAI_toast_text">
+        <item quantity="other">"%1$s xarakterdən çox notlar üçün AI yazma istifadə edilə bilmir"</item>
+        <item quantity="one">"%1$s xarakterdən çox notlar üçün AI yazma istifadə edilə bilmir"</item>
+    </plurals>
+    <plurals name="ai_content_exceeded_warn">
+        <item quantity="other">"Bu notun məzmunu süni zəka emal limitlərini aşır. %1$s xarakterə qədər daxil edib yenidən sınayın."</item>
+        <item quantity="one">"Bu notun məzmunu süni zəka emal limitlərini aşır. %1$s xarakterə qədər daxil edib yenidən sınayın."</item>
+    </plurals>
+    <plurals name="ai_correct_mistakes">
+        <item quantity="other">%1$s xəta düzəldildi</item>
+        <item quantity="one">%1$s xəta düzəldildi</item>
+    </plurals>
+    <plurals name="ai_word_count_exceed_title">
+        <item quantity="other">"%1$s xarakterdən çox məzmun yaradıla bilmir"</item>
+        <item quantity="one">"%1$s xarakterdən çox məzmun yaradıla bilmir"</item>
     </plurals>
     <plurals name="alert_message_delete">
         <item quantity="other">%1$s element silinsin?</item>
@@ -48,7 +64,7 @@
         <item quantity="other">"%1$s element sinxronlaşdırılmadı"</item>
         <item quantity="one">"%1$s element sinxronlaşdırılmadı"</item>
     </plurals>
-	<plurals name="corrected_title">
+    <plurals name="corrected_title">
         <item quantity="other">%1$s düzəltmə</item>
         <item quantity="one">%1$s düzəltmə</item>
     </plurals>
@@ -153,7 +169,7 @@
         <item quantity="one">%1$s tapşırıq</item>
     </plurals>
     <plurals name="word_count">
-        <item quantity="other">%d simvol</item>
-        <item quantity="one">%d simvol</item>
+        <item quantity="other">%d xarakter</item>
+        <item quantity="one">%d xarakter</item>
     </plurals>
 </resources>
