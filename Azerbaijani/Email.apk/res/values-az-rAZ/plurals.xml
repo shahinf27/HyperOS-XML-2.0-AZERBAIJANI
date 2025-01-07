@@ -45,8 +45,8 @@
         <item quantity="one">%1$d oxunmamış</item>
     </plurals>
     <plurals name="contact_num_selected">
-        <item quantity="other">%d əlaqə əlavə edildi</item>
-        <item quantity="one">%d əlaqə əlavə edildi</item>
+        <item quantity="other">%d kontakt əlavə edildi</item>
+        <item quantity="one">%d kontakt əlavə edildi</item>
     </plurals>
     <plurals name="conversation_msg_header_count">
         <item quantity="other">+%1$d digər şəxs</item>

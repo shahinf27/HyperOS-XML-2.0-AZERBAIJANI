@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="action_missing_private_key">Sertifikatı quraşdırmaq üçün şəxsi açar tələb olunur</string>
-    <string name="action_missing_user_cert">Şəxsi açarı quraşdırmaq üçün sertifikat tələb olunur</string>
+    <string name="action_missing_private_key">Sertifikatı quraşdırmaq üçün private açar tələb olunur</string>
+    <string name="action_missing_user_cert">Private açarı quraşdırmaq üçün sertifikat tələb olunur</string>
     <string name="app_name">Sertifikat Quraşdırıcı</string>
     <string name="ca_cert_is_added">CA sertifikatı quraşdırıldı</string>
     <string name="ca_certificate">CA sertifikatı</string>
