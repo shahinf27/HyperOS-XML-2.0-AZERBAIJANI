@@ -35,20 +35,4 @@
         <item>Divar kağızı/Super divar kağızları</item>
         <item>Super divar kağızları;Divar kağızı;Dinamik divar kağızı;3D divar kağızı</item>
     </string-array>
-    <string-array name="super_wallpaper_list_complete_packages">
-        <item>com.miui.miwallpaper.moon</item>
-        <item>com.miui.miwallpaper.snowdain</item>
-        <item>com.miui.miwallpaper.geometry</item>
-        <item>com.miui.miwallpaper.saturn</item>
-        <item>com.miui.miwallpaper.earth</item>
-        <item>com.miui.miwallpaper.mars</item>
-    </string-array>
-    <string-array name="super_wallpaper_list_packages">
-        <item>com.miui.miwallpaper.moon</item>
-        <item>com.miui.miwallpaper.snowdain</item>
-        <item>com.miui.miwallpaper.geometry</item>
-        <item>com.miui.miwallpaper.saturn</item>
-        <item>com.miui.miwallpaper.earth</item>
-        <item>com.miui.miwallpaper.mars</item>
-    </string-array>
 </resources>
