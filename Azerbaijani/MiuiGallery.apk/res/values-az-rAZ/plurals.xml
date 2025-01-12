@@ -448,6 +448,10 @@
         <item quantity="other">%1$d seqment seç (%2$d)</item>
         <item quantity="one">%1$d seqment seç (%2$d)</item>
     </plurals>
+    <plurals name="privacy_watermark_word_count_not_full">
+        <item quantity="other">Ən çox %d xarakter daha daxil edin</item>
+        <item quantity="one">Ən çox %d xarakter daha daxil edin</item>
+    </plurals>
     <plurals name="quickly_discovery_message_format">
         <item quantity="other">Yeni %1$d foto tapıldı</item>
         <item quantity="one">Yeni %1$d foto tapıldı</item>
@@ -751,10 +755,6 @@
     <plurals name="trash_vip_info_text_login_medium_or_low_level">
         <item quantity="other">Elementlər burada %1$s gün ərzində saxlanıla bilər. Bu müddəti uzatmaq üçün toxunun.</item>
         <item quantity="one">Elementlər burada %1$s gün ərzində saxlanıla bilər. Bu müddəti uzatmaq üçün toxunun.</item>
-    </plurals>
-    <plurals name="trash_vip_info_text_no_sync_server">
-        <item quantity="other">Silinmiş elementlər %1$d gün ərzində buludda saxlanılır</item>
-        <item quantity="one">Silinmiş elementlər %1$d gün ərzində buludda saxlanılır</item>
     </plurals>
     <plurals name="trash_vip_info_text_unlogin">
         <item quantity="other">Elementlər burada %1$d gün saxlanıla bilər. Bu müddəti uzatmaq üçün planınızı yüksəldin.</item>
