@@ -5,91 +5,6 @@
         <item>Xatırlanacaq gün</item>
         <item>Canlı anlar</item>
     </string-array>
-    <string-array name="alphabet_sub_table_with_starred">
-        <item>!</item>
-        <item>A</item>
-        <item>B</item>
-        <item>C</item>
-        <item>H</item>
-        <item>I</item>
-        <item>J</item>
-        <item>K</item>
-        <item>L</item>
-        <item>M</item>
-        <item>N</item>
-        <item>O</item>
-        <item>P</item>
-        <item>Q</item>
-        <item>R</item>
-        <item>S</item>
-        <item>T</item>
-        <item>U</item>
-        <item>V</item>
-        <item>W</item>
-        <item>X</item>
-        <item>Y</item>
-        <item>Z</item>
-        <item>\#</item>
-    </string-array>
-    <string-array name="alphabet_table">
-        <item>A</item>
-        <item>B</item>
-        <item>C</item>
-        <item>D</item>
-        <item>E</item>
-        <item>F</item>
-        <item>G</item>
-        <item>H</item>
-        <item>I</item>
-        <item>J</item>
-        <item>K</item>
-        <item>L</item>
-        <item>M</item>
-        <item>N</item>
-        <item>O</item>
-        <item>P</item>
-        <item>Q</item>
-        <item>R</item>
-        <item>S</item>
-        <item>T</item>
-        <item>U</item>
-        <item>V</item>
-        <item>W</item>
-        <item>X</item>
-        <item>Y</item>
-        <item>Z</item>
-        <item>\#</item>
-    </string-array>
-    <string-array name="alphabet_table_with_starred">
-        <item>!</item>
-        <item>A</item>
-        <item>B</item>
-        <item>C</item>
-        <item>D</item>
-        <item>E</item>
-        <item>F</item>
-        <item>G</item>
-        <item>H</item>
-        <item>I</item>
-        <item>J</item>
-        <item>K</item>
-        <item>L</item>
-        <item>M</item>
-        <item>N</item>
-        <item>O</item>
-        <item>P</item>
-        <item>Q</item>
-        <item>R</item>
-        <item>S</item>
-        <item>T</item>
-        <item>U</item>
-        <item>V</item>
-        <item>W</item>
-        <item>X</item>
-        <item>Y</item>
-        <item>Z</item>
-        <item>\#</item>
-    </string-array>
     <string-array name="annual_foods_title">
         <item>Ləzzətli bir il</item>
         <item>Üç kurs. Dörd mövsüm.</item>
@@ -106,6 +21,10 @@
     <string-array name="baby_sexy">
         <item>Oğlan</item>
         <item>Qız</item>
+    </string-array>
+    <string-array name="baby_sexy_value">
+        <item>kişi</item>
+        <item>qadın</item>
     </string-array>
     <string-array name="backup_automatically_key_words">
         <item>Fotoları nüsxələ</item>
@@ -207,6 +126,7 @@
         <item>Oktyabr</item>
         <item>Noyabr</item>
         <item>Dekabr</item>
+        <item>Dekabr</item>
     </string-array>
     <string-array name="last_some_day_babies_title">
         <item>Böyüməklə məşğuldur</item>
@@ -252,6 +172,10 @@
         <item>Yeni dostlar və köhnə dostlar</item>
         <item>"Keçən ilki görüşlər"</item>
     </string-array>
+    <string-array name="menu_copy_or_move">
+        <item>Daşı</item>
+        <item>Kopyala</item>
+    </string-array>
     <string-array name="month">
         <item>Yanvar</item>
         <item>Fevral</item>
@@ -293,18 +217,6 @@
         <item>"Dünyanın ən yaxşı mənzərələri"</item>
         <item>Dırmaşmağa davam</item>
     </string-array>
-    <string-array name="multi_floating_package_allow_list">
-        <item>com.miui.securitycenter</item>
-        <item>com.miui.weather2</item>
-        <item>com.android.calendar</item>
-        <item>com.android.contacts</item>
-        <item>com.android.mms</item>
-        <item>com.miui.notes</item>
-        <item>com.android.settings</item>
-        <item>com.miui.gallery</item>
-        <item>com.miui.cloudservice</item>
-        <item>com.android.deskclock</item>
-    </string-array>
     <string-array name="owner_relation">
         <item>Ata</item>
         <item>Ana</item>
@@ -312,6 +224,14 @@
         <item>Ata nənəsi</item>
         <item>Ana babası</item>
         <item>Ana nənəsi</item>
+    </string-array>
+    <string-array name="owner_relation_value">
+        <item>ata</item>
+        <item>ana</item>
+        <item>baba</item>
+        <item>nənə</item>
+        <item>ana babası</item>
+        <item>ana nənəsi</item>
     </string-array>
     <string-array name="parties_title">
         <item>Birlikdə</item>
@@ -321,35 +241,6 @@
     <string-array name="passport_account_user_gender_name">
         <item>Kişi</item>
         <item>Qadın</item>
-    </string-array>
-    <string-array name="passport_alphabet_table">
-        <item>\#</item>
-        <item>A</item>
-        <item>B</item>
-        <item>C</item>
-        <item>D</item>
-        <item>E</item>
-        <item>F</item>
-        <item>G</item>
-        <item>H</item>
-        <item>I</item>
-        <item>J</item>
-        <item>K</item>
-        <item>L</item>
-        <item>M</item>
-        <item>N</item>
-        <item>O</item>
-        <item>P</item>
-        <item>Q</item>
-        <item>R</item>
-        <item>S</item>
-        <item>T</item>
-        <item>U</item>
-        <item>V</item>
-        <item>W</item>
-        <item>X</item>
-        <item>Y</item>
-        <item>Z</item>
     </string-array>
     <string-array name="people_travel_title">
         <item>Yol bizi hara aparsa</item>
@@ -379,6 +270,15 @@
         <item>Sinif yoldaşları</item>
         <item>Dostlar</item>
         <item>Qruplaşdırılmamış</item>
+    </string-array>
+    <string-array name="relation_with_me_value">
+        <item>özüm</item>
+        <item>uşaq</item>
+        <item>ailə</item>
+        <item>həmkar</item>
+        <item>sinif yoldaşı</item>
+        <item>dost</item>
+        <item>bilinməyən</item>
     </string-array>
     <string-array name="search_voice_assistant_suggestion">
         <item>Kimlik fotosunu tapmağıma kömək et</item>
