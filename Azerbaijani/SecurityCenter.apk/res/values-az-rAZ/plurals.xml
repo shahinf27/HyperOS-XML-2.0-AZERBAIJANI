@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="a_hour_ago">
-        <item quantity="one">1 saat əvvəl</item>
+        <item quantity="one">1 hour ago</item>
         <item quantity="other">1 saat əvvəl</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="one">%d saat əvvəl</item>
+        <item quantity="one">%d hour ago</item>
         <item quantity="other">%d saat əvvəl</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
-        <item quantity="one">Yarım saat əvvəl</item>
+        <item quantity="one">Half an hour ago</item>
         <item quantity="other">Yarım saat əvvəl</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="one">%d saat ərzində</item>
+        <item quantity="one">In %d hour</item>
         <item quantity="other">%d saat ərzində</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
-        <item quantity="one">Yarım saat ərzində</item>
+        <item quantity="one">In half an hour</item>
         <item quantity="other">Yarım saat ərzində</item>
     </plurals>
     <plurals name="abbrev_in_less_than_one_minute">
-        <item quantity="one">Dərhal</item>
+        <item quantity="one">Immediately</item>
         <item quantity="other">Dərhal</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
@@ -29,7 +29,7 @@
         <item quantity="one">%d dəq ərzində</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="one">İndicə</item>
+        <item quantity="one">Just now</item>
         <item quantity="other">İndicə</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
@@ -212,14 +212,6 @@
         <item quantity="other">%d mesaj</item>
         <item quantity="one">%d mesaj</item>
     </plurals>
-    <plurals name="game_booster_incoming_call_duration_p1">
-        <item quantity="other">%1$s:</item>
-        <item quantity="one">%1$s:</item>
-    </plurals>
-    <plurals name="game_booster_incoming_call_duration_p2">
-        <item quantity="other">%1$s</item>
-        <item quantity="one">%1$s</item>
-    </plurals>
     <plurals name="gamebooster_push_expiring_soon_link_message">
         <item quantity="other">Game Turbo üzvlüyünüz %d günə bitəcək.</item>
         <item quantity="one">Game Turbo üzvlüyünüz %d günə bitəcək.</item>
@@ -344,17 +336,9 @@
         <item quantity="other">"%d tətbiqin avtomatik başladılmasına icazə verilmir"</item>
         <item quantity="one">"%d tətbiqin avtomatik başladılmasına icazə verilmir"</item>
     </plurals>
-    <plurals name="hints_auto_start_disable_title_global">
-        <item quantity="other">"%d tətbiqin arxaplanda başlamasına icazə verilmir"</item>
-        <item quantity="one">"%d tətbiqin arxaplanda başlamasına icazə verilmir"</item>
-    </plurals>
     <plurals name="hints_auto_start_enable_title">
         <item quantity="other">%d tətbiq avtomatik başladıla bilər</item>
         <item quantity="one">%d tətbiq avtomatik başladıla bilər</item>
-    </plurals>
-    <plurals name="hints_auto_start_enable_title_global">
-        <item quantity="other">%d tətbiq arxaplanda başlaya bilər</item>
-        <item quantity="one">%d tətbiq arxaplanda başlaya bilər</item>
     </plurals>
     <plurals name="hints_get_root_disable_title">
         <item quantity="other">"%d tətbiqin root müraciəti yoxdur"</item>
@@ -413,15 +397,15 @@
         <item quantity="one">%d şəkli sil</item>
     </plurals>
     <plurals name="in_a_hour">
-        <item quantity="one">1 saat ərzində</item>
+        <item quantity="one">In 1 hour</item>
         <item quantity="other">1 saat ərzində</item>
     </plurals>
     <plurals name="in_half_hour">
-        <item quantity="one">Yarım saat ərzində</item>
+        <item quantity="one">In half an hour</item>
         <item quantity="other">Yarım saat ərzində</item>
     </plurals>
     <plurals name="in_less_than_one_minute">
-        <item quantity="one">Dərhal</item>
+        <item quantity="one">Immediately</item>
         <item quantity="other">Dərhal</item>
     </plurals>
     <plurals name="in_num_minutes">
@@ -445,7 +429,7 @@
         <item quantity="one">%s dəqiqə</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
-        <item quantity="one">İndicə</item>
+        <item quantity="one">Just now</item>
         <item quantity="other">İndicə</item>
     </plurals>
     <plurals name="lockpattern_recording_incorrect_too_short">
@@ -580,10 +564,6 @@
         <item quantity="other">%1$s daxil olmaqla %2$d tətbiq zərərli ola bilər</item>
         <item quantity="one">%1$s daxil olmaqla %2$d tətbiq zərərli ola bilər</item>
     </plurals>
-    <plurals name="optimize_result_button_add_score">
-        <item quantity="other">+%d</item>
-        <item quantity="one">+%d</item>
-    </plurals>
     <plurals name="pc_abnormal_scan_result_model_result_title">
         <item quantity="other">%d tətbiq batareya tükədir</item>
         <item quantity="one">%d tətbiq batareya tükədir</item>
@@ -609,8 +589,8 @@
         <item quantity="one">Cihazınızın batareyası tükənib. %1$d saniyə sonra Yuxu rejiminə keçir.</item>
     </plurals>
     <plurals name="pc_extreme_mode_count_down_title_new">
-        <item quantity="other">Batareya zəifdir. Cihazınız %1$d saniyə sonra Yuxu rejimində keçir. Performans və siqnal gücündə bir az azalma ola bilər.</item>
-        <item quantity="one">Batareya zəifdir. Cihazınız %1$d saniyə sonra Yuxu rejimində keçir. Performans və siqnal gücündə bir az azalma ola bilər.</item>
+        <item quantity="other">Batareya zəifdir. Cihazınız %1$d saniyə sonra Yuxu rejimində keçəcək. Performans və siqnal gücündə bir az azalma ola bilər.</item>
+        <item quantity="one">Batareya zəifdir. Cihazınız %1$d saniyə sonra Yuxu rejimində keçəcək. Performans və siqnal gücündə bir az azalma ola bilər.</item>
     </plurals>
     <plurals name="pc_main_power_center_battery_day">
         <item quantity="other">%s gün</item>
@@ -1032,14 +1012,6 @@
         <item quantity="other">Batareyaya qənaət etmək üçün %d elementi optimallaşdıra bilərsiniz</item>
         <item quantity="one">Batareyaya qənaət etmək üçün %d elementi optimallaşdıra bilərsiniz</item>
     </plurals>
-    <plurals name="power_center_battery_temperature">
-        <item quantity="other">%d ℃</item>
-        <item quantity="one">%d ℃</item>
-    </plurals>
-    <plurals name="power_center_battery_volume">
-        <item quantity="other">%d mAh</item>
-        <item quantity="one">%d mAh</item>
-    </plurals>
     <plurals name="power_center_list_item_optimize_button">
         <item quantity="other">%d dəqiqə əlavə et</item>
         <item quantity="one">%d dəqiqə əlavə et</item>
@@ -1248,10 +1220,6 @@
         <item quantity="other">&lt;big&gt;&lt;big&gt;&lt;big&gt;&lt;big&gt;&lt;big&gt;&lt;big&gt;%s&lt;/big&gt;&lt;/big&gt;&lt;/big&gt;&lt;/big&gt;&lt;/big&gt;&lt;/big&gt; fraqment</item>
         <item quantity="one">&lt;big&gt;&lt;big&gt;&lt;big&gt;&lt;big&gt;&lt;big&gt;&lt;big&gt;%s&lt;/big&gt;&lt;/big&gt;&lt;/big&gt;&lt;/big&gt;&lt;/big&gt;&lt;/big&gt; fraqment</item>
     </plurals>
-    <plurals name="storage_ufs_number">
-        <item quantity="other">&lt;big&gt;&lt;big&gt;%s&lt;/big&gt;&lt;/big&gt; GB</item>
-        <item quantity="one">&lt;big&gt;&lt;big&gt;%s&lt;/big&gt;&lt;/big&gt; GB</item>
-    </plurals>
     <plurals name="summary_absorbed_time_foramt">
         <item quantity="other">Fokus rejimini %d dəqiqəlik işə sal</item>
         <item quantity="one">Fokus rejimini %d dəqiqəlik işə sal</item>
@@ -1277,8 +1245,8 @@
         <item quantity="one">Ekranı %d dəq sonra kilidlə</item>
     </plurals>
     <plurals name="system_anti_fraud_dialog_countdown_unit">
-        <item quantity="other">(%ds)</item>
-        <item quantity="one">(%ds)</item>
+        <item quantity="other">(%d sn)</item>
+        <item quantity="one">(%d sn)</item>
     </plurals>
     <plurals name="system_check_content">
         <item quantity="other">%1$d element güvənlidir</item>
