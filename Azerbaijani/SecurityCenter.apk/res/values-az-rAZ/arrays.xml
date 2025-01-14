@@ -23,6 +23,7 @@
     <string-array name="applock_password_types">
         <item>Naxış</item>
         <item>Parol</item>
+        <item>Parol</item>
     </string-array>
     <string-array name="auto_task_text_layout_size_level">
         <item>Ekstra kiçik</item>
@@ -50,6 +51,7 @@
         <item>Özəl</item>
         <item>Xiaomi Fan kartı</item>
         <item>Tianshen kartı</item>
+        <item>Tencent kartı</item>
         <item>Tencent kartı</item>
     </string-array>
     <string-array name="date_of_app_all">
