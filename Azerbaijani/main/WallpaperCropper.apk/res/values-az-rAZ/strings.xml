@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="crop_wallpaper">Divar kağızını kəs</string>
-    <string name="wallpaper_instructions">Divar kağızı təyin et</string>
-    <string name="wallpaper_load_fail">"Təsvir, divar kağızı kimi yüklənə bilmədi"</string>
-</resources>
