@@ -34,16 +34,6 @@
     <string name="abc_activitychooserview_choose_application">Bir tətbiq seçin</string>
     <string name="abc_capital_off">BAĞLI</string>
     <string name="abc_capital_on">AÇIQ</string>
-    <string name="abc_menu_alt_shortcut_label">Alt+</string>
-    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-    <string name="abc_menu_delete_shortcut_label">sil</string>
-    <string name="abc_menu_enter_shortcut_label">enter</string>
-    <string name="abc_menu_function_shortcut_label">Function+</string>
-    <string name="abc_menu_meta_shortcut_label">Meta+</string>
-    <string name="abc_menu_shift_shortcut_label">Shift+</string>
-    <string name="abc_menu_space_shortcut_label">boşluq</string>
-    <string name="abc_menu_sym_shortcut_label">Sym+</string>
-    <string name="abc_prepend_shortcut_label">Menyu+</string>
     <string name="abc_search_hint">Axtar…</string>
     <string name="abc_searchview_description_clear">Sorğunu təmizlə</string>
     <string name="abc_searchview_description_query">Axtarış sorğusu</string>
@@ -69,8 +59,6 @@
     <string name="chart_power_bmw">Güc</string>
     <string name="chart_series_bmw">Seriyalar</string>
     <string name="chart_unsupport_bmw">Bu qrafiki çəkmək olmur</string>
-    <string name="com.google.firebase.crashlytics.mapping_file_id">00000000000000000000000000000000</string>
-    <string name="crash_upload_url">https://mo-dump.wps.cn/errorReport/up</string>
     <string name="doc_scan_save_to_album">Qalereyada saxlanıldı</string>
     <string name="documentmanager_addPic_failed">"Şəkil daxil edilə bilmədi"</string>
     <string name="documentmanager_checkUpdate">Güncəlləmələri yoxla</string>
@@ -137,8 +125,6 @@
     <string name="et_sorter_expand_selection">"Seçimin yanında datanın olduğu aşkarlanıb. Hansı dataları sıralamaq istəyirsiniz?"</string>
     <string name="et_sorter_expand_selection_cancel">Hazırkı seçim</string>
     <string name="et_sorter_expand_selection_ok">Digər sahələrə genişləndirin</string>
-    <string name="exception_report">wpsoffice_exception_report@kingsoft.com</string>
-    <string name="exception_report_cn">wpsoffice_exception_report_cn@kingsoft.com</string>
     <string name="feedback_display_subject">Ekran xətası</string>
     <string name="feedback_display_subject_jp">Zədəli simvollar - görüntüləmə problemləri</string>
     <string name="feedback_display_subject_tw">Sənəd xətalı göstərilir</string>
@@ -169,7 +155,6 @@
     <string name="feedback_suggestion_subject_zh">Tələb təklifləri</string>
     <string name="file_format_error">Bu sənəd formatı dəstəklənmir</string>
     <string name="filter">Filtr</string>
-    <string name="find_path">com.netease.mail.fileprovider#netease/Mail/;com.netease.mobimail.fileprovider#netease/163mail/;com.tencent.wework.external.fileprovider#tencent/WeixinWork/filecache;com.baidu.searchbox.fileprovider#baidu/searchbox/downloads/;com.yearsdiary.tenyear.mis.fileprovider#/Android/data/com.yearsdiary.tenyear/files/wwwroot;com.android.fileexplorer.myprovider#/documents;im.yixin.fileprovider#/Android/data/im.yixin/files/Yixin/file;com.baidu.wenku.fileProvider#BaiduWenku/download/original;com.android.providers.downloads.documents#/document;com.android.chrome.FileProvider#/downloads;com.tencent.mm.external.fileprovider#/tencent/MicroMsg/Download;999@com.tencent.mm.external.fileprovider#/tencent/MicroMsg/Download;com.synology.dsfile.fileprovider#DSfile/;com.tencent.weworklocal.fileprovider#Tencent/WeixinWork/filecache/;com.synology.dsdrive.external#DSfile/;im.yixin.qiye.fileprovider#Android/data/im.yixin/files/Yixin/file/;com.microsoft.emmx.FileProvider#Android/data/com.microsoft.emmx/files/Download/;</string>
     <string name="func_extract_sheet">Arxivdən çıxart</string>
     <string name="func_output_as_pic">Təsvir</string>
     <string name="func_pdf_to_word">Söz</string>
@@ -178,9 +163,6 @@
     <string name="go_to_download">Endirilənlərə get</string>
     <string name="help_send_editing_file">Tərtibatçının problemin yerini aşkarlamasına kömək etmək üçün %s göndər.</string>
     <string name="highlight">Vurğula</string>
-    <string name="kslite_sign_url"></string>
-    <string name="kslite_sign_url_test"></string>
-    <string name="kslite_sign_url_v2"></string>
     <string name="online_security_error_code_no_operation_permission">Bu əməliyyat üçün icazəniz yoxdur</string>
     <string name="oppo_app_packageName">OPPO sənəd görüntüləyici（WPS Özəlləşdirmə）</string>
     <string formatted="false" name="oppo_scre_dialog_message"><Data>\"WPS Document Viewer\", sənəd fayllarına baxmaq üçün nəzərdə tutulmuş tətbiqdir. Bu tətbiqdən düzgün faydalana bilmək üçün anbar icazəsini vermək lazımdır. Məhsul təcrübəsini artırmaq üçün WPS Office, funksiya istifadə məlumatlarını yığacaq və məlumatlarınızın təhlükəsizliyini təmin etmək üçün &lt;a href=\"%s\"&gt;Son İstifadəçi Lisenziya Razılaşmasına (EULA)&lt;/a&gt; və &lt;a href=\"%s\"&gt;Gizlilik Siyasətinə&lt;/a&gt; ciddi şəkildə əməl edəcək.</Data></string>
@@ -227,11 +209,9 @@
     <string name="ppt_volume_is_too_low_tip">Qulaqlığı taxın və ya səsi artırın</string>
     <string name="print_error_open_wps_exception">Server istisnası, daha sonra yenidən sınayın</string>
     <string name="print_error_wps_print_activity_not_found">WPS Office, yeni versiyaya güncəllənməlidir</string>
-    <string name="privacy_mobile">https://www.wps.com/privacy/mobile/</string>
-    <string name="privacy_protecte">https://www.wps.com/privacy-policy/</string>
     <string name="projection_fail">"Yaymlana bilmədi. Xarici ekranı yoxlayıb yenidən sınayın."</string>
     <string name="public_2pic">Təsvirə köçür</string>
-    <string name="public_about_us">about</string>
+    <string name="public_about_us">haqqımızda</string>
     <string name="public_ack">Bilirəm</string>
     <string name="public_amazon_autosave_finished">Sənəd avtomatik saxlanıb</string>
     <string name="public_app_language">2052</string>
@@ -293,7 +273,6 @@
     <string name="public_iat_audiocomment_reply_longpress">Danışmaq üçün uzun basın</string>
     <string name="public_iat_audiocomment_reply_stop">Dayandır</string>
     <string name="public_iat_convert_to_text">Mətnə çevir</string>
-    <string name="public_icp_code">Pekin ICP Nö. 14035597号-9A</string>
     <string name="public_inputEditPasswdText">Dəyişdirmək üçün parolu daxil edin və ya yalnız oxunan rejimində açın.</string>
     <string name="public_inputEditPasswdTextReadOnly">Müəllif, sənəd üçün dəyişdirmə parolu ayarladı. Davam etmək üçün parolu daxil edin.</string>
     <string name="public_inputPasswd">Faylı açmaq üçün parolu daxil edin</string>
@@ -427,7 +406,6 @@
     <string name="public_undo">Geri al</string>
     <string name="public_unsave">Ləğv et</string>
     <string name="public_warnedit_dialog_title_text">Məsləhətlər</string>
-    <string name="public_wps_name">WPS</string>
     <string name="public_wpscloud_recovery_edit_not_exist_tips">Sənəd, digər tətbiqlər tərəfindən silindi və WPS Cloud Docs tərəfindən geri qaytarıldı.</string>
     <string name="public_wpscloud_recovery_edit_not_save_tips">"Son düzəliş edilmiş məzmun saxlanılmadı və WPS Cloud Docs tərəfindən geri qaytarıldı."</string>
     <string name="public_wpscloud_recovery_edit_not_saved_and_to_save">Sənədi güvənli şəkildə saxlayın</string>
@@ -457,15 +435,10 @@
     <string name="reader_writer_table_edit_add_column">sütun əlavə et</string>
     <string name="reader_writer_table_edit_add_row">sətir əlavə et</string>
     <string name="search_menu_title">Axtar</string>
-    <string name="secret_internation_policy_url">https://www.wps.com/privacy-policy/</string>
-    <string name="secret_internation_service_url">https://www.wps.com/eula</string>
     <string name="ss_card_mode_filter_title_text">Göstəriləcək elementləri seçin</string>
     <string name="ss_card_view_mode">Kart görünüşü</string>
     <string name="ss_grid_view_mode">Xana görünüşü</string>
     <string name="ss_toolbar_sheets_unhided">Bütün iş vərəqləri</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="wps_lite_app_svn">svn</string>
-    <string name="wps_lite_app_version">4.0.2</string>
     <string name="wps_lite_xiaomi_app_packageName">Mi Doc Viewer (WPS tərəfindən təmin edilir)</string>
     <string name="writer_characters">Simvollar (boşluqsuz)</string>
     <string name="writer_characters_with_spaces">Simvollar (boşluqla)</string>
