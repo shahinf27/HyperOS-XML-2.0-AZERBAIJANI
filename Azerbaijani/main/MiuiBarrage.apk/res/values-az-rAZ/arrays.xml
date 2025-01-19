@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="danmu_preview_text_default">
+        <item>Görünməyən heç bir mesaj yoxdur, yalnız cavablamaq istəməyən insanlar var</item>
+        <item>Birini istədikdə, mesajlarına daha sürətli cavab verərsiniz</item>
+        <item>Black Shark ilə subay qalmaq qismətinizdədir</item>
+        <item>Deyəsən, sevgiliniz yoxdur, elə deyilmi?</item>
+        <item>Necə yəni mesajıma cavab verə bilmirsən, niyə mesajını gözləyə bilmirəm… Gecən xeyrə</item>
+        <item>Yaxşı dost tez cavab verər, elə deyilmi?</item>
+        <item>İzləməyi, baxmağı dayandır. E-idman sevgiyə layiq deyil.</item>
+    </string-array>
+    <string-array name="danmu_preview_text_new">
+        <item>Mənə necə etmək lazım olduğunu öyrədirsən?</item>
+        <item>Thunder Gaba, Bird Vodka!!</item>
+        <item>Mən çox axmaqam, mənim necə ağıllı və bacarıqlı bacım ola bilər? (somurtaraq)</item>
+        <item>Bir yerdə gəzintiyə çıxmaq istəyirsiniz?</item>
+        <item>Gəncliyim geri döndü</item>
+        <item>Beləliklə, sevgi yox olur, elə deyilmi?</item>
+        <item>Südlü çayını səssiz iç, məni narahat etmə.</item>
+        <item>Rol modelimiz</item>
+        <item>Fikirləşirsən ki, hələ də şansım var?</item>
+        <item>Növbəti dəfə mütləq</item>
+    </string-array>
+</resources>
