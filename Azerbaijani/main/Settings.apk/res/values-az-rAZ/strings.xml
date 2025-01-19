@@ -676,7 +676,7 @@ Bu icazə ləğv edilsə, bu tətbiq tərəfindən planlaşdırılan mövcud zə
     <string name="alarms_and_reminders_title">Zəngli saatlar və xatırladıcılar</string>
     <string name="all_apps">Bütün tətbiqlər</string>
     <string name="all_supported_app_locales_title">Bütün dillər</string>
-    <string name="all_volume_title">Səs həcmi</string>
+    <string name="all_volume_title">Həcm</string>
     <string name="allow">İcazə ver</string>
     <string name="allow_all_rotations_title">Bütün döndərmələrə icazə ver</string>
 	<string name="allow_badge_summary">Bildirişləri və yeni məzmunu göstərmək üçün Əsas ekran ikonlarında nömrəli bir qırmızı nöqtənin görünməsinə icazə ver</string>
@@ -800,7 +800,7 @@ Vicet: %2$s
     <string name="aon_gesture_status_open">Açıq</string>
     <string name="aon_gesture_supported_app_title">Dəstəklənən tətbiqlər</string>
     <string name="aon_gesture_supported_title">Əlçatan jestlər</string>
-    <string name="aon_gesture_up_down_waving_summary">Media səs həcmini ayarla, qısa videolar arasında keçid et və sənədlərdə səhifələri çevir</string>
+    <string name="aon_gesture_up_down_waving_summary">Media həcmini ayarla, qısa videolar arasında keçid et və sənədlərdə səhifələri çevir</string>
     <string name="aon_gesture_up_down_waving_title">Şaquli yellə</string>
     <string formatted="false" name="aon_gesture_up_waving_diagram_summary">Barmaqlarınız aşağıya yönəlmiş şəkildə əlinizi kameradan %d–%d sm uzaqda tutun və gözləyin. Əl ikonu göründükdə, əlinizi yuxarı doğru yelləyin.</string>
     <string name="aon_gesture_up_waving_diagram_title">Ekranın önündə yuxarı doğru yellə</string>
@@ -1036,7 +1036,7 @@ Ayarlar indi dəyişdirilsin?"</string>
     <string name="audio_category_title">Səs</string>
     <string name="audio_not_synced">Səs sinxronlaşdırılmadı</string>
     <string name="audio_profile_settings_title">Səs profilləri</string>
-    <string name="audio_share_abs_volume_message">"Səs paylaşımı istifadə edilərkən səs həcmi müstəqil olaraq ayarlana bilməz"</string>
+    <string name="audio_share_abs_volume_message">"Səs paylaşımı istifadə edilərkən həcm müstəqil olaraq ayarlana bilməz"</string>
     <string name="audio_share_cancel">Xeyr, təşəkkürlər</string>
     <string name="audio_share_confirm">Paylaş</string>
     <string name="audio_sharing_call_audio_description">Yalnız burada oxut: %1$s</string>
@@ -1100,7 +1100,7 @@ Ayarlar indi dəyişdirilsin?"</string>
     <string name="audio_streams_dialog_cannot_listen">"Səs yayımı dinlənə bilmir"</string>
     <string name="audio_streams_dialog_cannot_play">"Bu səs yayımı %1$s üzərində oxudula bilmir."</string>
     <string name="audio_streams_dialog_close">Bağla</string>
-    <string name="audio_streams_dialog_control_volume">Səs yayımı %1$s üzərində oxudulacaq. Səs həcmini idarə etmək üçün bu cihazı istifadə edin.</string>
+    <string name="audio_streams_dialog_control_volume">Səs yayımı %1$s üzərində oxudulacaq. Həcmi idarə etmək üçün bu cihazı istifadə edin.</string>
     <string name="audio_streams_dialog_default_device">bağlantılı uyumlu qulaqlıqlar</string>
     <string name="audio_streams_dialog_learn_more">Ətraflı öyrən</string>
     <string name="audio_streams_dialog_listen">Dinlə</string>
@@ -1859,8 +1859,8 @@ Daha əvvəl %2$s cihazına bağlanmamısınız."</string>
     <string name="bluetooth_devices_card_off_summary">Açmaq üçün toxunun</string>
     <string name="bluetooth_devices_card_off_title">Bluetooth bağlıdır</string>
     <string name="bluetooth_disable_a2dp_hw_offload">Bluetooth A2DP avadanlıq yükünü sıradan çıxart</string>
-    <string name="bluetooth_disable_absolute_volume">Mütləq səsi səviyyəsini sıradan çıxart</string>
-    <string name="bluetooth_disable_absolute_volume_summary">Uzaq cihazlarda qəbuledilməz bir yüksək səs həcmi və ya kontrol əskikliyi kimi səs həcmi problemləri baş verdiyi hallarda, Bluetooth üçün mütləq səs həcmi özəlliyini sıradan çıxardır.</string>
+    <string name="bluetooth_disable_absolute_volume">Mütləq həcmi sıradan çıxart</string>
+    <string name="bluetooth_disable_absolute_volume_summary">Uzaq cihazlarda qəbuledilməz bir yüksək həcm və ya kontrol əskikliyi kimi həcm problemləri baş verdiyi hallarda, Bluetooth üçün mütləq həcm özəlliyini sıradan çıxardır.</string>
     <string name="bluetooth_disable_hw_offload_dialog_cancel">İmtina</string>
     <string name="bluetooth_disable_hw_offload_dialog_confirm">Yenidən başlat</string>
     <string name="bluetooth_disable_hw_offload_dialog_message">Bu ayarı dəyişdirmək üçün cihazınızı yenidən başlatmalısınız.</string>
@@ -2069,8 +2069,8 @@ Daha əvvəl %2$s cihazına bağlanmamısınız."</string>
     <string name="bluetooth_profile_pbap">Kontaktlar və zəng tarixçəsi paylaşımı</string>
     <string name="bluetooth_profile_pbap_summary">Kontaktları paylaşmaq üçün istifadə edilir</string>
     <string name="bluetooth_profile_sap">SIM karta müraciət üçün istifadə edilir</string>
-    <string name="bluetooth_profile_vcp">Səs həcminə nəzarət</string>
-    <string name="bluetooth_profile_volume_control">Səs həcminə nəzarət</string>
+    <string name="bluetooth_profile_vcp">Həcmə nəzarət</string>
+    <string name="bluetooth_profile_volume_control">Həcmə nəzarət</string>
     <string name="bluetooth_refresh">Təzələ</string>
     <string name="bluetooth_rename_button">Adı dəyişdir</string>
     <string name="bluetooth_rename_device">Bu cihazın adını dəyişdir</string>
@@ -2289,10 +2289,10 @@ Bunu Ayarlarda dəyişdirilə bilərsiniz."</string>
 Bu özəlliyi Ayarlar &gt; Bluetooth &gt; \"Cütləşdirilmiş cihazlar\"da söndürə bilərsiniz."</string>
     <string name="bt_aac_open_dialog_title">AAC kodekinə keçilir</string>
     <string name="bt_aac_pre_title">AAC</string>
-    <string name="bt_absVolume_open_dialog_summary">Uyumluluq probleminə görə bəzi Bluetooth cihazlarında anormal səs həcmi ola bilər və bu problemi həll etmək üçün bu özəlliyi söndürmək kifayətdir.</string>
+    <string name="bt_absVolume_open_dialog_summary">Uyumluluq probleminə görə bəzi Bluetooth cihazlarında anormal həcm ola bilər və bu problemi həll etmək üçün bu özəlliyi söndürmək kifayətdir.</string>
     <string name="bt_absVolume_open_dialog_title">Diqqət</string>
-    <string name="bt_absVolume_pre_title">Mütləq səs həcmi</string>
-    <string name="bt_absVolume_summary">"Bluetooth cihazlarının və telefonun səs həcmlərini ciddi şəkildə sabit saxlayın. Media arxaplanda oxudulmadıqda bu özəlliyi işə salıb söndürə bilərsiniz."</string>
+    <string name="bt_absVolume_pre_title">Mütləq həcm</string>
+    <string name="bt_absVolume_summary">"Bluetooth cihazlarının və telefonun həcmlərini ciddi şəkildə sabit saxlayın. Media arxaplanda oxudulmadıqda bu özəlliyi işə salıb söndürə bilərsiniz."</string>
     <string name="bt_always_show_icon">Həmişə status çubuğu ikonunu göstər</string>
     <string name="bt_aptx_adaptive_open_dialog_summary">aptX Adaptiv enerji sərfiyyatını artıraraq yüksək keyfiyyətli oxutmanı təmin edir və oyunlar və videolar üçün səs gecikməsini azaldır. Oxutma, Bluetooth avandanlıq məhdudiyyətləri və ətraf mühit müdaxiləsinə görə kəkələyə bilər.</string>
     <string name="bt_aptx_adaptive_open_dialog_title">\"aptX Adaptiv\"ə keçilsin?</string>
@@ -4790,7 +4790,7 @@ Ekran kilidini təsdiqləyə biləcəyiniz sahə sağa hərəkət edəcək."</st
     <string name="haptic_text_edit_popup_13_content_description">Açılan menyu</string>
     <string name="haptic_upper_right_menu_15_content_description">Açılan menyu</string>
     <string name="haptic_video_content_description">Toxunuş əks-əlaqəsi demo videosu</string>
-    <string name="haptic_volume_adjustment_14_content_description">Səs həcmini ayarlama</string>
+    <string name="haptic_volume_adjustment_14_content_description">Həcmi ayarlama</string>
     <string name="hardkeyboard_category">Fiziki klaviatura ayarları</string>
     <string name="hardware_revision">Avadanlıq versiyası</string>
     <string name="hardware_version">Avadanlıq versiyası</string>
@@ -6734,7 +6734,7 @@ Bu əməliyyatın geri dönüşü yoxdur."</string>
     <string name="more_security_privacy_settings">Daha çox güvənlik və gizlilik</string>
     <string name="more_settings_button">Daha çox ayar</string>
     <string name="more_settings_eye_health">Daha çox göz sağlamlığı ayarları</string>
-    <string name="more_volume_settings">Səs həcmi ayarı</string>
+    <string name="more_volume_settings">Həcm ayarı</string>
     <string name="morning">Səhər</string>
     <string name="move_app">Daşı</string>
     <string name="move_app_failed_dlg_text">"Tətbiq daşına bilmədi. %1$s"</string>
@@ -6768,7 +6768,7 @@ Bu əməliyyatın geri dönüşü yoxdur."</string>
     <string name="mr_controller_play">Oxut</string>
     <string name="mr_controller_stop">Dayandır</string>
     <string name="mr_controller_stop_casting">Yayımı dayandır</string>
-    <string name="mr_controller_volume_slider">Səs həcmi diyircəyi</string>
+    <string name="mr_controller_volume_slider">Həcm diyircəyi</string>
     <string name="mr_dialog_default_group_name">Qrup</string>
     <string name="mr_dialog_groupable_header">Cihaz əlavə et</string>
     <string name="mr_dialog_transferable_header">Bir qrupda oxut</string>
@@ -6853,7 +6853,7 @@ Bu əməliyyatın geri dönüşü yoxdur."</string>
     <string name="multi_face_list">Üz datası</string>
     <string name="multi_face_name_prefix">Üz </string>
     <string name="multi_face_number_reach_limit">"2 ədəddən çox üz üçün data əlavə edilə bilmir"</string>
-    <string name="multi_music_coexistence_summary">"Gələn bildirişlər zamanı və ya başqa bir mənbədən səs oxudulduqda media səs həcmini ayarlamayın"</string>
+    <string name="multi_music_coexistence_summary">"Gələn bildirişlər zamanı və ya başqa bir mənbədən səs oxudulduqda media həcmi ayarlanmasın"</string>
     <string name="multi_music_coexistence_title">Birdən çox səs mənbəyi</string>
     <string name="multi_network_acceleration_app_settings">Tətbiqlər üçün şəbəkə sürətləndirmə</string>
     <string name="multi_network_acceleration_summery">Sürəti artırmaq üçün eyni anda bir neçə Wi-Fi şəbəkəsinə bağlanın</string>
@@ -7298,7 +7298,7 @@ Bu, həm də tətbiqə Narahat Etməyin rejimini işə salma və ya söndürmə 
     <string name="notification_log_details_remoteinput">uzaqdan girişlər</string>
     <string name="notification_log_details_title">başlıq</string>
     <string name="notification_log_title">Bildiriş jurnalı</string>
-    <string name="notification_polite_description">Qısa bir müddət ərzində çoxlu bildiriş aldığınız zaman, telefonunuzun səs həcmi azaldılır və ekrandakı açılan pəncərələr iki dəqiqəlik minimuma endirilir. Zənglər, zəngli saatlar və prioritet danışıqlar, titrəməyə, səs çıxartmağa və ya ekranda görünməyə davam edir və ekranın üst hissəsindən aşağı çəkdikdə bütün bildirişləri tapmaq asandır.</string>
+    <string name="notification_polite_description">Qısa bir müddət ərzində çoxlu bildiriş aldığınız zaman, telefonunuzun həcmi azaldılır və ekrandakı açılan pəncərələr iki dəqiqəlik minimuma endirilir. Zənglər, zəngli saatlar və prioritet danışıqlar, titrəməyə, səs çıxartmağa və ya ekranda görünməyə davam edir və ekranın üst hissəsindən aşağı çəkdikdə bütün bildirişləri tapmaq asandır.</string>
     <string name="notification_polite_main_control_title">Adaptiv bildirişləri istifadə et</string>
     <string name="notification_polite_title">Adaptiv bildirişlər</string>
     <string name="notification_polite_work">İş profillərinə tətbiq et</string>
@@ -7333,10 +7333,10 @@ Bu, həm də tətbiqə Narahat Etməyin rejimini işə salma və ya söndürmə 
     <string name="notification_vibrate_title">Titrəmə</string>
     <string name="notification_volume_content_description_vibrate_mode">Bildiriş səsi kəsildi, bildirişlərdə titrəmə olacaq</string>
     <string name="notification_volume_control">Bildiriş səslərini idarə et</string>
-    <string name="notification_volume_control_note">Bildiriş səslərinin səs həcmlərini ayrıca ayarla</string>
+    <string name="notification_volume_control_note">Bildiriş səslərinin həcmlərini ayrıca ayarla</string>
     <string name="notification_volume_disabled_summary">Zəng səsi səssizdə olduğu üçün əlçatmazdır</string>
-    <string name="notification_volume_option_title">Bildiriş səs həcmi</string>
-    <string name="notification_volume_sync_ring">Bildirişlərin səs həcmi zəngin səs həcmi ilə eyni olacaq</string>
+    <string name="notification_volume_option_title">Bildiriş həcmi</string>
+    <string name="notification_volume_sync_ring">Bildirişlərin həcmi, zəngin həcmi ilə eyni olacaq</string>
     <string name="notifications_bubble_setting_description">Bəzi danışıqlar, digər tətbiqlərin üzərində üzən ikonlar olaraq görünəcək</string>
     <string name="notifications_bubble_setting_on_summary">Açıq / Danışıqlar üzən ikonlar olaraq görünə bilər</string>
     <string name="notifications_bubble_setting_title">Tətbiqlərin qabarcıqları göstərməsinə icazə ver</string>
@@ -8300,7 +8300,7 @@ Cihazınızı kompüterə bağlayan və ya cihazınızda zərərli tətbiq qura�
     <string name="regulatory_info_text"></string>
     <string name="regulatory_labels">Tənzimləyici etiketlər</string>
     <string name="remaining_length_format">%1$s qaldı</string>
-    <string name="remote_media_volume_option_title">Yayımın səs həcmi</string>
+    <string name="remote_media_volume_option_title">Yayımın həcmi</string>
     <string name="remove">Sil</string>
     <string name="remove_account_failed">"Admininiz bu dəyişikliyə icazə vermir"</string>
     <string name="remove_account_label">Hesabı sil</string>
@@ -10960,7 +10960,7 @@ Bu, cihazınızda saxlanılan barmaq izi modelini də silir. Tətbiqlərdə kiml
     <string name="update_progress_for_updates">Güncəllənir (%s)</string>
     <string name="update_sourceinfo_btn_txt">Mənbə məlumatını güncəllə</string>
     <string name="updating_settings">Ayarlar güncəllənir…</string>
-    <string name="updown_waving_summary">Media səs həcmini ayarlayın, qısa videolar arasında keçid edin və sənədlərdə səhifələri çevirin</string>
+    <string name="updown_waving_summary">Media həcmini ayarlayın, qısa videolar arasında keçid edin və sənədlərdə səhifələri çevirin</string>
     <string name="updown_waving_title">Şaquli yellə</string>
     <string name="upgrade_prohibited_under_lea_button">Anladım</string>
     <string name="upgrade_prohibited_under_lea_summary">Qulaqlıq ayarlarında Bluetooth LE Audio-nu söndürüb yenidən güncəlləməyə çalışın.</string>
@@ -11379,18 +11379,18 @@ Səsli zəng zamanı interneti istifadə edə bilməzsiniz və bəzi tətbiqlər
     <string name="volume_adjustment">Səsi ayarla</string>
     <string name="volume_alarm_description">Zəngli saat</string>
     <string name="volume_bluetooth_description">Bluetooth</string>
-    <string name="volume_category_title">Səs həcmi</string>
-    <string name="volume_connectivity_panel_title">Səs həcmi</string>
+    <string name="volume_category_title">Həcm</string>
+    <string name="volume_connectivity_panel_title">Həcm</string>
     <string name="volume_content_description_silent_mode">%1$s səsi kəsilib</string>
     <string name="volume_hifi_description">Hi-Fi ayarları</string>
     <string name="volume_key_launch_camera">Kameranı aç</string>
     <string name="volume_key_launch_camera_and_take_photo">Foto çək</string>
-    <string name="volume_label">Səs həcmi</string>
+    <string name="volume_label">Həcm</string>
     <string name="volume_launch_camera_summary">Ekran kilidli olduqda Kameranı açmaq üçün \"Səs azaltma\" düyməsinə iki dəfə basın</string>
     <string name="volume_media_description">Musiqi, video, oyunlar və digər media</string>
     <string name="volume_notification_description">Bildirişlər</string>
     <string name="volume_restore">Səviyyələri sıfırla</string>
-    <string name="volume_restore_alert">Bütün səs həcmləri ilkin ayarlarına sıfırlansın?</string>
+    <string name="volume_restore_alert">Bütün həcmlər ilkin ayarlarına sıfırlansın?</string>
     <string name="volume_ring_description">Zəng səsi və bildirişlər</string>
     <string name="volume_system_description">Kamera, ekran şəkilləri, düymələr və sistem bildirişləri</string>
     <string name="volume_voice_description">Zəng daxili səs</string>
