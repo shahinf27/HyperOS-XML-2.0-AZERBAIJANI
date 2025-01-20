@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="add_frequent_phrases">Çox işlədilən ifadə əlavə et</string>
+	<string name="ai_recognition">Süni Zəka</string>
     <string name="call">Zəng</string>
     <string name="call_notification_answer_action">Cavabla</string>
     <string name="call_notification_answer_video_action">Görüntülü</string>
@@ -11,13 +12,14 @@
     <string name="call_notification_screening_text">Gələn bir zəngin filtrlənməsi</string>
     <string name="edit_frequent_phrases">Çox işlədilən ifadələrə düzəliş et</string>
     <string name="floating_toolbar_close_overflow_description">Daşmanı bağla</string>
-    <string name="floating_toolbar_menu_item_text_tag">floating_toolbar_menu_item_text</string>
     <string name="floating_toolbar_open_overflow_description">Daha çox seçim</string>
     <string name="frequent_phrases">Çox işlədilən ifadələr</string>
     <string name="google_call">Zəng</string>
+	<string name="google_check">Bax</string>
     <string name="google_email">E-poçt</string>
     <string name="google_map">Xəritə</string>
     <string name="google_open">Aç</string>
+	<string name="google_track">İzləmə</string>
     <string name="google_translate">Tərcümə et</string>
     <string name="open">Nəzər yetir</string>
     <string name="query">Sorğu</string>

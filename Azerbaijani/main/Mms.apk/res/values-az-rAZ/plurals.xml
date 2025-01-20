@@ -1,27 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="a_hour_ago">
-        <item quantity="one">1 saat əvvəl</item>
         <item quantity="other">1 saat əvvəl</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="one">%d saat əvvəl</item>
         <item quantity="other">%d saat əvvəl</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
-        <item quantity="one">Yarım saat əvvəl</item>
         <item quantity="other">Yarım saat əvvəl</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="one">%d saat ərzində</item>
         <item quantity="other">%d saat ərzində</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
-        <item quantity="one">Yarım saat ərzində</item>
         <item quantity="other">Yarım saat ərzində</item>
     </plurals>
     <plurals name="abbrev_in_less_than_one_minute">
-        <item quantity="one">Dərhal</item>
         <item quantity="other">Dərhal</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
@@ -29,7 +23,6 @@
         <item quantity="one">%d dəq ərzində</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="one">İndicə</item>
         <item quantity="other">İndicə</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
@@ -42,6 +35,7 @@
     </plurals>
     <plurals name="cloud_sms_count">
         <item quantity="other">%d mesaj</item>
+		<item quantity="zero">%d mesaj</item>
         <item quantity="one">%d mesaj</item>
     </plurals>
     <plurals name="cloud_state_unsynced_count">
@@ -54,6 +48,7 @@
     </plurals>
     <plurals name="custom_select_title_items_selected">
         <item quantity="other">%d seçildi</item>
+		<item quantity="zero">Elementləri seç</item>
         <item quantity="one">%d seçildi</item>
     </plurals>
     <plurals name="delivery_toast_body_more_plurals">
@@ -65,23 +60,20 @@
         <item quantity="one">"%d kontakta göndərilə bilmədi"</item>
     </plurals>
     <plurals name="half_hour_ago">
-        <item quantity="one">Yarım saat əvvəl</item>
         <item quantity="other">Yarım saat əvvəl</item>
     </plurals>
     <plurals name="hint_search_sms">
         <item quantity="other">%d mesaj</item>
+		<item quantity="zero">%d mesaj</item>
         <item quantity="one">%d mesaj</item>
     </plurals>
     <plurals name="in_a_hour">
-        <item quantity="one">1 saat ərzində</item>
         <item quantity="other">1 saat ərzində</item>
     </plurals>
     <plurals name="in_half_hour">
-        <item quantity="one">Yarım saat ərzində</item>
         <item quantity="other">Yarım saat ərzində</item>
     </plurals>
     <plurals name="in_less_than_one_minute">
-        <item quantity="one">Dərhal</item>
         <item quantity="other">Dərhal</item>
     </plurals>
     <plurals name="in_num_minutes">
@@ -89,7 +81,6 @@
         <item quantity="one">1 dəqiqə ərzində</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
-        <item quantity="one">İndicə</item>
         <item quantity="other">İndicə</item>
     </plurals>
     <plurals name="mark_number_dialog_subtitle">
@@ -109,8 +100,8 @@
         <item quantity="one">%1$4d kontakta qədər mesaj göndər</item>
     </plurals>
     <plurals name="max_text_size">
-        <item quantity="other">Mesajlarda ən çox %1$4d simvol ola bilər</item>
-        <item quantity="one">Mesajlarda ən çox %1$4d simvol ola bilər</item>
+        <item quantity="other">Mesajlarda ən çox %1$4d xarakter ola bilər</item>
+        <item quantity="one">Mesajlarda ən çox %1$4d xarakter ola bilər</item>
     </plurals>
     <plurals name="max_video_length">
         <item quantity="other">Videolar ən çox %1$4d san uzunluqda ola bilər</item>
@@ -147,10 +138,12 @@
     <plurals name="slide_audio_duration">
         <item quantity="other">%d san</item>
         <item quantity="one">%d san</item>
+		<item quantity="few">%d san</item>
     </plurals>
     <plurals name="slide_duration">
         <item quantity="other">%d san</item>
         <item quantity="one">%d san</item>
+		<item quantity="few">%d san</item>
     </plurals>
     <plurals name="timed_message_expired_title">
         <item quantity="other">"%d müddətli mesaj göndərilmədi"</item>
