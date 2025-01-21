@@ -1,27 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="a_hour_ago">
-        <item quantity="one">1 saat əvvəl</item>
         <item quantity="other">1 saat əvvəl</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="one">%d saat əvvəl</item>
         <item quantity="other">%d saat əvvəl</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
-        <item quantity="one">Yarım saat əvvəl</item>
         <item quantity="other">Yarım saat əvvəl</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="one">%d saat ərzində</item>
         <item quantity="other">%d saat ərzində</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
-        <item quantity="one">Yarım saat ərzində</item>
         <item quantity="other">Yarım saat ərzində</item>
     </plurals>
     <plurals name="abbrev_in_less_than_one_minute">
-        <item quantity="one">Dərhal</item>
         <item quantity="other">Dərhal</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
@@ -29,7 +23,6 @@
         <item quantity="one">%d dəq ərzində</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="one">İndicə</item>
         <item quantity="other">İndicə</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
@@ -37,19 +30,15 @@
         <item quantity="one">%d dəq əvvəl</item>
     </plurals>
     <plurals name="half_hour_ago">
-        <item quantity="one">Yarım saat əvvəl</item>
         <item quantity="other">Yarım saat əvvəl</item>
     </plurals>
     <plurals name="in_a_hour">
-        <item quantity="one">1 saat ərzində</item>
         <item quantity="other">1 saat ərzində</item>
     </plurals>
     <plurals name="in_half_hour">
-        <item quantity="one">Yarım saat ərzində</item>
         <item quantity="other">Yarım saat ərzində</item>
     </plurals>
     <plurals name="in_less_than_one_minute">
-        <item quantity="one">Dərhal</item>
         <item quantity="other">Dərhal</item>
     </plurals>
     <plurals name="in_num_minutes">
@@ -57,7 +46,6 @@
         <item quantity="one">1 dəqiqə ərzində</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
-        <item quantity="one">İndicə</item>
         <item quantity="other">İndicə</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
@@ -101,8 +89,8 @@
         <item quantity="one">Siyahıda %d nömrə.</item>
     </plurals>
     <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_desktop_4">
-        <item quantity="other">Element, %d viceti ehtiva edir. Vicet açıqlamasını açmaq üçün iki dəfə toxunun.</item>
-        <item quantity="one">Element, %d viceti ehtiva edir. Vicet açıqlamasını açmaq üçün iki dəfə toxunun.</item>
+        <item quantity="other">Elementdə %d vicet var. Vicet açıqlamasını açmaq üçün iki dəfə toxunun.</item>
+        <item quantity="one">Elementdə %d vicet var. Vicet açıqlamasını açmaq üçün iki dəfə toxunun.</item>
     </plurals>
     <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_minus_desktop_1">
         <item quantity="other">Vicet mağazası. Tətbiq siyahısı. Siyahıda %d element.</item>
@@ -113,8 +101,8 @@
         <item quantity="one">Siyahıda %d nömrə.</item>
     </plurals>
     <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_minus_desktop_4">
-        <item quantity="other">Element, %d viceti ehtiva edir. Vicet açıqlamasını açmaq üçün iki dəfə toxunun.</item>
-        <item quantity="one">Element, %d viceti ehtiva edir. Vicet açıqlamasını açmaq üçün iki dəfə toxunun.</item>
+        <item quantity="other">Elementdə %d vicet var. Vicet açıqlamasını açmaq üçün iki dəfə toxunun.</item>
+        <item quantity="one">Elementdə %d vicet var. Vicet açıqlamasını açmaq üçün iki dəfə toxunun.</item>
     </plurals>
     <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_third_1">
         <item quantity="other">Vicet mağazası. Tətbiq siyahısı. Siyahıda %d element.</item>
@@ -125,8 +113,8 @@
         <item quantity="one">Siyahıda %d nömrə.</item>
     </plurals>
     <plurals name="pa_accessibility_picker_widget_app_group_item_add_to_third_4">
-        <item quantity="other">Element, %d viceti ehtiva edir. Vicet açıqlamasını açmaq üçün iki dəfə toxunun.</item>
-        <item quantity="one">Element, %d viceti ehtiva edir. Vicet açıqlamasını açmaq üçün iki dəfə toxunun.</item>
+        <item quantity="other">Elementdə %d vicet var. Vicet açıqlamasını açmaq üçün iki dəfə toxunun.</item>
+        <item quantity="one">Elementdə %d vicet var. Vicet açıqlamasını açmaq üçün iki dəfə toxunun.</item>
     </plurals>
     <plurals name="pa_base_time_hour_ago">
         <item quantity="other">%d saat əvvəl</item>
@@ -137,12 +125,12 @@
         <item quantity="one">%d dəq əvvəl</item>
     </plurals>
     <plurals name="pa_edit_text_limit">
-        <item quantity="other">%1$d simvola qədər daxil edin</item>
-        <item quantity="one">%1$d simvola qədər daxil edin</item>
+        <item quantity="other">%1$d xarakterə qədər daxil edin</item>
+        <item quantity="one">%1$d xarakterə qədər daxil edin</item>
     </plurals>
     <plurals name="pa_edit_text_min_length">
-        <item quantity="other">Ən azı %1$d simvol</item>
-        <item quantity="one">Ən azı %1$d simvol</item>
+        <item quantity="other">Ən azı %1$d xarakter</item>
+        <item quantity="one">Ən azı %1$d xarakter</item>
     </plurals>
     <plurals name="pa_express_content_title_1">
         <item quantity="other">%d paket yoldadır</item>
@@ -161,8 +149,8 @@
         <item quantity="one">%d element seçildi</item>
     </plurals>
     <plurals name="pa_express_settings_title_2">
-        <item quantity="other">"%d telefon nörməsi əlavə etdiniz"</item>
-        <item quantity="one">"%d telefon nörməsi əlavə etdiniz"</item>
+        <item quantity="other">"%d telefon nörməsi əlavə etmisiniz"</item>
+        <item quantity="one">"%d telefon nörməsi əlavə etmisiniz"</item>
     </plurals>
     <plurals name="pa_express_widget_list_left_panel_subtitle_abandoned">
         <item quantity="other">%d paket tərk edildi</item>
@@ -211,6 +199,14 @@
     <plurals name="pa_stock_display_list_label">
         <item quantity="other">Vicetdə %1$d şirkət</item>
         <item quantity="one">Vicetdə %1$d şirkət</item>
+    </plurals>
+	<plurals name="pa_travel_departure_date_tip_other">
+        <item quantity="other">%d günə yola düşür</item>
+        <item quantity="one">%d günə yola düşür</item>
+    </plurals>
+	<plurals name="pa_travel_select_title">
+        <item quantity="other">%d element seçildi</item>
+        <item quantity="one">%d element seçildi</item>
     </plurals>
     <plurals name="pa_travel_train_tip_delay_hour_min">
         <item quantity="one">Qatar %1$d saat %2$d dəqiqə gecikir</item>
