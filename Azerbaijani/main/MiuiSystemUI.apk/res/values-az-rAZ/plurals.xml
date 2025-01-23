@@ -1,5 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+	<plurals name="a_hour_ago">
+        <item quantity="other">1 saat əvvəl</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">%d saat əvvəl</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Yarım saat əvvəl</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">%d saat ərzində</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Yarım saat ərzində</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Dərhal</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d dəq ərzində</item>
+        <item quantity="one">%d dəq ərzində</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">İndicə</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d dəq əvvəl</item>
+        <item quantity="one">%d dəq əvvəl</item>
+    </plurals>
     <plurals name="abc_slice_duration_days">
         <item quantity="other">%d gün əvvəl</item>
         <item quantity="one">%d gün əvvəl</item>
@@ -15,6 +44,9 @@
     <plurals name="atmospheric_pressure_desc">
         <item quantity="other">Atmosfer təzyiqi: %s hektopaskal</item>
         <item quantity="one">Atmosfer təzyiqi: %s hektopaskal</item>
+    </plurals>
+	<plurals name="half_hour_ago">
+        <item quantity="other">Yarım saat əvvəl</item>
     </plurals>
     <plurals name="health_chart_calories_burned_schedule_format_desc">
         <item quantity="other">%1$s kalori yandırıldı</item>
@@ -64,13 +96,37 @@
         <item quantity="other">%1$s/%2$s addım</item>
         <item quantity="one">%1$s/%2$s addım</item>
     </plurals>
+	<plurals name="in_a_hour">
+        <item quantity="other">1 saat ərzində</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Yarım saat ərzində</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Dərhal</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d dəqiqə ərzində</item>
+        <item quantity="one">1 dəqiqə ərzində</item>
+    </plurals>
     <plurals name="input_pattern_after_timeout_msg">
         <item quantity="other">Həmişə xatırlamaq üçün parolunuzu ən azı %d saatda bir dəfə daxil edin</item>
         <item quantity="one">Həmişə xatırlamaq üçün parolunuzu ən azı %d saatda bir dəfə daxil edin</item>
     </plurals>
+	<plurals name="less_than_one_minute_ago">
+        <item quantity="other">İndicə</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d element seçildi</item>
+        <item quantity="one">%d element seçildi</item>
+    </plurals>
     <plurals name="mtrl_badge_content_description">
         <item quantity="other">%d yeni bildiriş</item>
         <item quantity="one">%d yeni bildiriş</item>
+    </plurals>
+	<plurals name="num_minutes_ago">
+        <item quantity="other">%d dəqiqə əvvəl</item>
+        <item quantity="one">1 dəqiqə əvvəl</item>
     </plurals>
     <plurals name="phone_locked_timeout_minutes_string">
         <item quantity="other">%d dəqiqə ərzində yenidən sınayın</item>
