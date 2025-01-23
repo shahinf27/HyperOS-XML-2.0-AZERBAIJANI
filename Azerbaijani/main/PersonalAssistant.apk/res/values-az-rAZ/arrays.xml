@@ -16,10 +16,11 @@
         <item>Şənbə</item>
         <item>Bazar</item>
     </string-array>
-	<string-array name="pa_service_delivery_dislike_option">
+    <string-array name="pa_service_delivery_dislike_option">
         <item>Fərqli vaxtda tövsiyə et</item>
         <item>Daha az tövsiyə et</item>
         <item>"Bu xidməti tövsiyə etmə"</item>
+    </string-array>
     <string-array name="pa_stock_color_schema_value_array">
         <item>Qırmızı- yuxarı, yaşıl- aşağı</item>
         <item>Yaşıl- yuxarı, qırmızı- aşağı</item>
