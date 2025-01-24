@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>Kişi</item>
+        <item>Qadın</item>
+    </string-array>
+    <string-array name="countries">
+        <item>Əfqanıstan</item>
+        <item>Albaniya</item>
+        <item>Əlcəzair</item>
+        <item>Andorra</item>
+        <item>Anqola</item>
+        <item>Antiqua və Barbuda</item>
+        <item>Argentina</item>
+        <item>Ermənistan</item>
+        <item>Avstraliya</item>
+        <item>Avstriya</item>
+        <item>Azərbaycan</item>
+        <item>Baham adaları</item>
+        <item>Bəhreyn</item>
+        <item>Banqladeş</item>
+        <item>Barbados</item>
+        <item>Belarus</item>
+        <item>Belçika</item>
+        <item>Beliz</item>
+        <item>Benin</item>
+        <item>Butan</item>
+        <item>Boliviya</item>
+        <item>Bosniya və Herseqovina</item>
+        <item>Botsvana</item>
+        <item>Braziliya</item>
+        <item>Bruney</item>
+        <item>Bolqarıstan</item>
+        <item>Burkina Faso</item>
+        <item>Birma</item>
+        <item>Burundi</item>
+        <item>Kamboca</item>
+        <item>Kamerun</item>
+        <item>Kanada</item>
+        <item>Kabo Verde</item>
+        <item>Mərkəzi Afrika Respublikası</item>
+        <item>Çad</item>
+        <item>Çili</item>
+        <item>Çin</item>
+        <item>Kolumbiya</item>
+        <item>Komor</item>
+        <item>Konqo Demokratik Respublikası</item>
+        <item>Konqo Respublikası</item>
+        <item>Kosta Rika</item>
+        <item>"Fil Dişi Sahili"</item>
+        <item>Xorvatiya</item>
+        <item>Kuba</item>
+        <item>Kipr</item>
+        <item>Çex Respublikası</item>
+        <item>Danimarka</item>
+        <item>Cibuti</item>
+        <item>Dominika</item>
+        <item>Dominikan Respublikası</item>
+        <item>Ekvador</item>
+        <item>Misir</item>
+        <item>Salvador</item>
+        <item>Ekvatorial Qvineya</item>
+        <item>Eritriya</item>
+        <item>Estoniya</item>
+        <item>Efiopiya</item>
+        <item>Fici</item>
+        <item>Finlandiya</item>
+        <item>Fransa</item>
+        <item>Qabon</item>
+        <item>Qambiya</item>
+        <item>Gürcüstan</item>
+        <item>Qana</item>
+        <item>Yunanıstan</item>
+        <item>Qrenada</item>
+        <item>Qvatemala</item>
+        <item>Qvineya</item>
+        <item>Qvineya-Bisau</item>
+        <item>Qayana</item>
+        <item>Haiti</item>
+        <item>Holy See</item>
+        <item>Honduras</item>
+        <item>Honq Konq</item>
+        <item>Macarıstan</item>
+        <item>İslandiya</item>
+        <item>Hindistan</item>
+        <item>İndoneziya</item>
+        <item>İran</item>
+        <item>İraq</item>
+        <item>İrlandiya</item>
+        <item>İsrail</item>
+        <item>İtaliya</item>
+        <item>Yamayka</item>
+        <item>Yaponiya</item>
+        <item>İordaniya</item>
+        <item>Qazaxıstan</item>
+        <item>Keniya</item>
+        <item>Kiribati</item>
+        <item>Şimali Koreya</item>
+        <item>Cənubi Koreya</item>
+        <item>Kosovo</item>
+        <item>Küveyt</item>
+        <item>Qırğızıstan</item>
+        <item>Laos</item>
+        <item>Latviya</item>
+        <item>Livan</item>
+        <item>Lesoto</item>
+        <item>Liberiya</item>
+        <item>Liviya</item>
+        <item>Lixtenşteyn</item>
+        <item>Litva</item>
+        <item>Lüksemburq</item>
+        <item>Makau</item>
+        <item>Makedoniya</item>
+        <item>Madaqaskar</item>
+        <item>Malavi</item>
+        <item>Malayziya</item>
+        <item>Maldiv adaları</item>
+        <item>Mali</item>
+        <item>Malta</item>
+        <item>Marşal Adaları</item>
+        <item>Mavritaniya</item>
+        <item>Mavriki</item>
+        <item>Meksika</item>
+        <item>Mikroneziya</item>
+        <item>Moldova</item>
+        <item>Monako</item>
+        <item>Monqolustan</item>
+        <item>Monteneqro</item>
+        <item>Morokko</item>
+        <item>Mozambik</item>
+        <item>Namibiya</item>
+        <item>Nauru</item>
+        <item>Nepal</item>
+        <item>Niderland</item>
+        <item>Niderland Antilləri</item>
+        <item>Yeni Zelandiya</item>
+        <item>Nikaraqua</item>
+        <item>Niger</item>
+        <item>Nigeriya</item>
+        <item>Şimali Koreya</item>
+        <item>Norveç</item>
+        <item>Oman</item>
+        <item>Pakistan</item>
+        <item>Palau</item>
+        <item>Fələstin Əraziləri</item>
+        <item>Panama</item>
+        <item>Papua Yeni Qvineya</item>
+        <item>Paraqvay</item>
+        <item>Peru</item>
+        <item>Filippin</item>
+        <item>Polşa</item>
+        <item>Portuqaliya</item>
+        <item>Qətər</item>
+        <item>Rumıniya</item>
+        <item>Rusiya</item>
+        <item>Ruanda</item>
+        <item>Sent-Kits və Nevis</item>
+        <item>Sent-Lusiya</item>
+        <item>Sent-Vinsent və Qrenadin</item>
+        <item>Samoa</item>
+        <item>San-Marino</item>
+        <item>San-Tome və Prinsipi</item>
+        <item>Səudiyyə Ərəbistanı</item>
+        <item>Seneqal</item>
+        <item>Serbiya</item>
+        <item>Seyşel</item>
+        <item>Syerra-Leone</item>
+        <item>Sinqapur</item>
+        <item>Slovakiya</item>
+        <item>Sloveniya</item>
+        <item>Solomon Adaları</item>
+        <item>Somali</item>
+        <item>Cənubi Afrika</item>
+        <item>Cənubi Koreya</item>
+        <item>Cənubi Sudan</item>
+        <item>İspaniya</item>
+        <item>Şri-Lanka</item>
+        <item>Sudan</item>
+        <item>Surinam</item>
+        <item>Svazilend</item>
+        <item>İsveç</item>
+        <item>İsveçrə</item>
+        <item>Suriya</item>
+        <item>Tayvan</item>
+        <item>Tacikistan</item>
+        <item>Tanzaniya</item>
+        <item>Tailand</item>
+        <item>Şərqi Timor</item>
+        <item>Toqo</item>
+        <item>Tonqa</item>
+        <item>Trinidad və Tobaqo</item>
+        <item>Tunis</item>
+        <item>Türkiyə</item>
+        <item>Türkmənistan</item>
+        <item>Tuvalu</item>
+        <item>Uqanda</item>
+        <item>Ukrayna</item>
+        <item>Birləşmiş Ərəb Əmirlikləri</item>
+        <item>Birləşmiş Krallıq</item>
+        <item>Uruqvay</item>
+        <item>Özbəkistan</item>
+        <item>Vanuatu</item>
+        <item>Venesuela</item>
+        <item>Vyetnam</item>
+        <item>Yəmən</item>
+        <item>Zambiya</item>
+        <item>Zimbabve</item>
+    </string-array>
+    <string-array name="feedback_tag_list">
+        <item>Xəta</item>
+        <item>Təklif</item>
+        <item>Digər</item>
+    </string-array>
+    <string-array name="local_subtitle_language_names">
+        <item>all</item>
+        <item>简体中文</item>
+        <item>Abkhazian</item>
+        <item>Afrikaans</item>
+        <item>shqip</item>
+        <item>العربية</item>
+        <item>Aragonese</item>
+        <item>Հայերեն</item>
+        <item>অসমীয়া</item>
+        <item>Asturian</item>
+        <item>Azərbaycanca</item>
+        <item>euskara</item>
+        <item>беларуская мова</item>
+        <item>বাংলা (ভারত)</item>
+        <item>bosanski</item>
+        <item>Breton</item>
+        <item>Български</item>
+        <item>Burmese</item>
+        <item>català</item>
+        <item>繁体中文</item>
+        <item>中文双语</item>
+        <item>hrvatski</item>
+        <item>čeština</item>
+        <item>dansk</item>
+        <item>درى</item>
+        <item>Nederlands</item>
+        <item>English</item>
+        <item>Esperanto</item>
+        <item>eesti</item>
+        <item>Extremaduran</item>
+        <item>suomi</item>
+        <item>français</item>
+        <item>Gàidhlig</item>
+        <item>galego</item>
+        <item>ქართული</item>
+        <item>Deutsch</item>
+        <item>Ελληνικά</item>
+        <item>עברית</item>
+        <item>हिंदी</item>
+        <item>magyar</item>
+        <item>íslenska</item>
+        <item>Ndi Igbo</item>
+        <item>Bahasa Indonesia</item>
+        <item>Interlingua</item>
+        <item>Irish</item>
+        <item>italiano</item>
+        <item>日本語</item>
+        <item>Kannada</item>
+        <item>Қазақ</item>
+        <item>ខ្មែរ</item>
+        <item>한국어</item>
+        <item>سۆرانی</item>
+        <item>latviešu</item>
+        <item>lietuvių</item>
+        <item>Lëtzebuergesch</item>
+        <item>македонски јазик</item>
+        <item>Bahasa Melayu</item>
+        <item>Malayalam</item>
+        <item>Manipuri</item>
+        <item>मराठी</item>
+        <item>Монгол хэл</item>
+        <item>Montenegrin</item>
+        <item>Navajo</item>
+        <item>नेपाली</item>
+        <item>Northern Sami</item>
+        <item>norsk</item>
+        <item>Occitan</item>
+        <item>Odia</item>
+        <item>فارسی</item>
+        <item>Polski</item>
+        <item>português</item>
+        <item>português (BR)</item>
+        <item>português (MZ)</item>
+        <item>Pushto</item>
+        <item>română</item>
+        <item>Русский</item>
+        <item>Santali</item>
+        <item>srpski</item>
+        <item>سنڌي</item>
+        <item>සිංහල</item>
+        <item>slovenčina</item>
+        <item>slovenski</item>
+        <item>Somali</item>
+        <item>Español</item>
+        <item>Español (EU)</item>
+        <item>Español (LA)</item>
+        <item>Swahili</item>
+        <item>svenska</item>
+        <item>Syriac</item>
+        <item>Tagalog</item>
+        <item>தமிழ்</item>
+        <item>Татар</item>
+        <item>తెలుగు</item>
+        <item>ไทย</item>
+        <item>Toki Pona</item>
+        <item>Türkçe</item>
+        <item>Türkmençe</item>
+        <item>українська</item>
+        <item>اردو</item>
+        <item>Tiếng Việt</item>
+        <item>Cymraeg</item>
+    </string-array>
+</resources>
