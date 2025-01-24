@@ -22,7 +22,6 @@
         <item>Doldurarkən faizi göstər (ilkin)</item>
         <item>"Bu ikonu göstərmə"</item>
     </string-array>
-    <array name="biometric_dialog_package_names_for_logo_with_overrides"></array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
         <item>Sistem seçimini istfdə et (İlkin)</item>
         <item>16 bit/nümunə</item>
@@ -99,33 +98,14 @@
         <item>Canlı (ilkin)</item>
         <item>Təbii</item>
     </string-array>
-    <array name="config_blockBadgePackages"></array>
-    <array name="config_blockFloatPackages"></array>
-    <array name="config_blockKeyguardPackages"></array>
-    <array name="config_communalWidgetAllowlist"></array>
-    <array name="config_controlsPreferredPackages"></array>
-    <array name="config_face_acquire_device_entry_ignorelist"></array>
-    <array name="config_face_auth_props"></array>
-    <array name="config_face_help_msgs_defer_until_timeout"></array>
-    <array name="config_fingerprint_listen_on_occluding_activity_packages"></array>
-    <array name="config_inner_face_auth_props"></array>
-    <array name="config_quickSettingsHearingDevicesRelatedToolIcon"></array>
-    <array name="config_quickSettingsHearingDevicesRelatedToolName"></array>
     <string-array name="config_xmsfNotificationChannel">
         <item>Xatırladıcı</item>
     </string-array>
-    <array name="data_type_name_cus_reg_key"></array>
-    <array name="data_type_name_cus_reg_value"></array>
-    <array name="data_type_name_mcc_key"></array>
-    <array name="data_type_name_mcc_mnc_key"></array>
-    <array name="data_type_name_mcc_mnc_value"></array>
-    <array name="data_type_name_mcc_value"></array>
     <string-array name="debug_hw_overdraw_entries">
         <item>Bağlı</item>
         <item>Uzağa çəkmə sahələrini göstər</item>
         <item>Deyteranomaliya sahələrini göstər</item>
     </string-array>
-    <array name="doze_brightness_sensor_name_posture_mapping"></array>
     <string-array name="enable_opengl_traces_entries">
         <item>Heç biri</item>
     </string-array>
@@ -139,8 +119,6 @@
         <item>Yalnız DRM məzmunu üçün yoxla</item>
         <item>Həmişə yoxla</item>
     </string-array>
-    <array name="kg_wrong_puk_code_message_list"></array>
-    <array name="locale_carrier_names"></array>
     <string-array name="nav_bar_buttons">
         <item>Lövhə</item>
         <item>Açar kodu</item>
@@ -152,7 +130,6 @@
         <item>Sola əyilmiş</item>
         <item>Sağa əyilmiş</item>
     </string-array>
-    <array name="origin_carrier_names"></array>
     <string-array name="overlay_display_devices_entries">
         <item>Heç biri</item>
         <item>480p (güvənli)</item>
@@ -163,9 +140,6 @@
         <item>4K (yüksəldilmiş, güvənli)</item>
         <item>720p, 1080p (ikili ekran)</item>
     </string-array>
-    <array name="proximity_sensor_posture_mapping"></array>
-    <array name="proximity_sensor_secondary_posture_mapping"></array>
-    <string-array name="select_logd_size_lowram_titles">
         <item>Bağlı</item>
     </string-array>
     <string-array name="select_logd_size_summaries">
