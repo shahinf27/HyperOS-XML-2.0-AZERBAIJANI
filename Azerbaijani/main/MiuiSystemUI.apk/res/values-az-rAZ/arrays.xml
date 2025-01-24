@@ -1,95 +1,146 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <array name="activity_dot_black_list"></array>
-    <string-array name="alphabet_table">
-        <item>A</item>
-        <item>B</item>
-        <item>C</item>
-        <item>D</item>
-        <item>E</item>
-        <item>F</item>
-        <item>G</item>
-        <item>H</item>
-        <item>I</item>
-        <item>J</item>
-        <item>K</item>
-        <item>L</item>
-        <item>M</item>
-        <item>N</item>
-        <item>O</item>
-        <item>P</item>
-        <item>Q</item>
-        <item>R</item>
-        <item>S</item>
-        <item>T</item>
-        <item>U</item>
-        <item>V</item>
-        <item>W</item>
-        <item>X</item>
-        <item>Y</item>
-        <item>Z</item>
-        <item>\#</item>
+    <string-array name="animator_duration_scale_entries">
+        <item>Animasiya bağlıdır</item>
+        <item>Animasiya miqyası .5x</item>
+        <item>Animasiya miqyası 1x</item>
+        <item>Animasiya miqyası 1.5x</item>
+        <item>Animasiya miqyası 2x</item>
+        <item>Animasiya miqyası 5x</item>
+        <item>Animasiya miqyası 10x</item>
     </string-array>
-    <string-array name="alphabet_table_with_starred">
-        <item>!</item>
-        <item>A</item>
-        <item>B</item>
-        <item>C</item>
-        <item>D</item>
-        <item>E</item>
-        <item>F</item>
-        <item>G</item>
-        <item>H</item>
-        <item>I</item>
-        <item>J</item>
-        <item>K</item>
-        <item>L</item>
-        <item>M</item>
-        <item>N</item>
-        <item>O</item>
-        <item>P</item>
-        <item>Q</item>
-        <item>R</item>
-        <item>S</item>
-        <item>T</item>
-        <item>U</item>
-        <item>V</item>
-        <item>W</item>
-        <item>X</item>
-        <item>Y</item>
-        <item>Z</item>
-        <item>\#</item>
+    <string-array name="app_process_limit_entries">
+        <item>Standart limit</item>
+        <item>Arxaplan prosesi yoxdur</item>
+        <item>Ən çox 1 proses</item>
+        <item>Ən çox 2 proses</item>
+        <item>Ən çox 3 proses</item>
+        <item>Ən çox 4 proses</item>
     </string-array>
     <string-array name="battery_options">
         <item>Faizi həmişə göstər</item>
         <item>Doldurarkən faizi göstər (ilkin)</item>
         <item>"Bu ikonu göstərmə"</item>
     </string-array>
+    <array name="biometric_dialog_package_names_for_logo_with_overrides"></array>
+    <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
+        <item>Sistem seçimini istfdə et (İlkin)</item>
+        <item>16 bit/nümunə</item>
+        <item>24 bit/nümunə</item>
+        <item>32 bit/nümunə</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
+        <item>Sistem seçimini istfdə et (İlkin)</item>
+        <item>16 bit/nümunə</item>
+        <item>24 bit/nümunə</item>
+        <item>32 bit/nümunə</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
+        <item>Sistem tərcihini istifadə et (İlkin)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
+        <item>Sistem tərcihini istifadə et (İlkin)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
+        <item>Səs keyfiyyəti üçün optimallaşdırıldı</item>
+        <item>Tarazlı səs və bağlantı keyfiyyəti</item>
+        <item>Bağlantı keyfiyyəti üçün optimallaşdırıldı</item>
+        <item>Ən yaxşı səy (Adaptiv bit sürəti)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
+        <item>Səs keyfiyyəti üçün optimallaşdırıldı (990kbps/909kbps)</item>
+        <item>Tarazlı səs və bağlantı keyfiyyəti (660kbps/606kbps)</item>
+        <item>Bağlantı keyfiyyəti üçün optimallaşdırıldı (330kbps/303kbps)</item>
+        <item>Ən yaxşı cəhd (Adaptiv bit sürəti)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
+        <item>Sistem seçimini istfdə et (İlkin)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
+        <item>Sistem seçimini istfdə et (İlkin)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_summaries">
+        <item>Sistem seçimini istfdə et (İlkin)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_titles">
+        <item>Sistem seçimini istfdə et (İlkin)</item>
+    </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
-        <item></item>
         <item>, aktiv</item>
         <item>, aktiv (media)</item>
         <item>, aktiv (telefon)</item>
     </string-array>
-    <array name="bottom_caption_insets_black_list"></array>
+    <string-array name="bluetooth_avrcp_versions">
+        <item>AVRCP 1.5 (İlkin)</item>
+    </string-array>
+    <string-array name="bluetooth_map_versions">
+        <item>MAP 1.2 (İlkin)</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_entries">
+        <item>Sıradan çıxarıldı</item>
+        <item>Filtrləmə fəaldır</item>
+        <item>Fəaldır</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_profile_filter_entries">
+        <item>Sıradan çıxart</item>
+        <item>Tam olaraq sil</item>
+    </string-array>
     <string-array name="clock_options">
         <item>Saat, dəqiqə və saniyəni göstər</item>
         <item>Saat və dəqiqəni göstər (ilkin)</item>
         <item>"Bu ikonu göstərmə"</item>
     </string-array>
-    <string-array name="config_xmsfNotificationChannel">
-        <item>84</item>
-        <item>61</item>
-        <item>72</item>
-        <item>213</item>
-        <item>102</item>
-        <item>233</item>
-        <item>54</item>
-        <item>96</item>
-        <item>VoIP</item>
-        <item>Xatırladıcı</item>
-        <item>FloatAndKeyguard</item>
+    <string-array name="color_mode_descriptions">
+        <item>Təkmilləşdirilmiş rənglər</item>
+        <item>Gözlə göründüyü kimi təbii rənglər</item>
+        <item>Rəqəmsal məzmun üçün optimallaşdırılan rənglər</item>
     </string-array>
+    <string-array name="color_mode_names">
+        <item>Canlı (ilkin)</item>
+        <item>Təbii</item>
+    </string-array>
+    <array name="config_blockBadgePackages"></array>
+    <array name="config_blockFloatPackages"></array>
+    <array name="config_blockKeyguardPackages"></array>
+    <array name="config_communalWidgetAllowlist"></array>
+    <array name="config_controlsPreferredPackages"></array>
+    <array name="config_face_acquire_device_entry_ignorelist"></array>
+    <array name="config_face_auth_props"></array>
+    <array name="config_face_help_msgs_defer_until_timeout"></array>
+    <array name="config_fingerprint_listen_on_occluding_activity_packages"></array>
+    <array name="config_inner_face_auth_props"></array>
+    <array name="config_quickSettingsHearingDevicesRelatedToolIcon"></array>
+    <array name="config_quickSettingsHearingDevicesRelatedToolName"></array>
+    <string-array name="config_xmsfNotificationChannel">
+        <item>Xatırladıcı</item>
+    </string-array>
+    <array name="data_type_name_cus_reg_key"></array>
+    <array name="data_type_name_cus_reg_value"></array>
+    <array name="data_type_name_mcc_key"></array>
+    <array name="data_type_name_mcc_mnc_key"></array>
+    <array name="data_type_name_mcc_mnc_value"></array>
+    <array name="data_type_name_mcc_value"></array>
+    <string-array name="debug_hw_overdraw_entries">
+        <item>Bağlı</item>
+        <item>Uzağa çəkmə sahələrini göstər</item>
+        <item>Deyteranomaliya sahələrini göstər</item>
+    </string-array>
+    <array name="doze_brightness_sensor_name_posture_mapping"></array>
+    <string-array name="enable_opengl_traces_entries">
+        <item>Heç biri</item>
+    </string-array>
+    <string-array name="hdcp_checking_summaries">
+        <item>HDCP yoxlanışını heç vaxt istifadə etmə</item>
+        <item>HDCP yoxlanışını yalnız DRM məzmunu üçün istifadə et</item>
+        <item>HDCP yoxlanışını həmişə istifadə et</item>
+    </string-array>
+    <string-array name="hdcp_checking_titles">
+        <item>Heç vaxt yoxlama</item>
+        <item>Yalnız DRM məzmunu üçün yoxla</item>
+        <item>Həmişə yoxla</item>
+    </string-array>
+    <array name="kg_wrong_puk_code_message_list"></array>
+    <array name="locale_carrier_names"></array>
     <string-array name="nav_bar_buttons">
         <item>Lövhə</item>
         <item>Açar kodu</item>
@@ -97,10 +148,52 @@
         <item>Heç nə</item>
     </string-array>
     <string-array name="nav_bar_layouts">
-        <item>Normal</item>
         <item>Yığcam</item>
         <item>Sola əyilmiş</item>
         <item>Sağa əyilmiş</item>
+    </string-array>
+    <array name="origin_carrier_names"></array>
+    <string-array name="overlay_display_devices_entries">
+        <item>Heç biri</item>
+        <item>480p (güvənli)</item>
+        <item>720p (güvənli)</item>
+        <item>1080p (güvənli)</item>
+        <item>4K (güvənli)</item>
+        <item>4K (yüksəldilmiş)</item>
+        <item>4K (yüksəldilmiş, güvənli)</item>
+        <item>720p, 1080p (ikili ekran)</item>
+    </string-array>
+    <array name="proximity_sensor_posture_mapping"></array>
+    <array name="proximity_sensor_secondary_posture_mapping"></array>
+    <string-array name="select_logd_size_lowram_titles">
+        <item>Bağlı</item>
+    </string-array>
+    <string-array name="select_logd_size_summaries">
+        <item>Bağlı</item>
+        <item>Hər jurnal buferinə 64K</item>
+        <item>Hər jurnal buferinə 256K</item>
+        <item>Hər jurnal buferinə 1M</item>
+        <item>Hər jurnal buferinə 4M</item>
+        <item>Hhər jurnal buferinə 8M</item>
+    </string-array>
+    <string-array name="select_logd_size_titles">
+        <item>Bağlı</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>Bağlı</item>
+        <item>Bütün jurnal buferləri</item>
+        <item>Radio jurnal buferi xaric hamısı</item>
+        <item>Yalnız kernel jurnal buferi</item>
+    </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>Bağlı</item>
+        <item>Hamısı</item>
+        <item>Radiodan başqa hamısı</item>
+    </string-array>
+    <string-array name="show_non_rect_clip_entries">
+        <item>Bağlı</item>
+        <item>Qeyri-düzbucaqlı bölgəni mavi rəngdə çək</item>
+        <item>Test edilən çəkmə əmrlərini yaşıl rənglə vurğula</item>
     </string-array>
     <string-array name="tile_states_airplane">
         <item>Əlçatmazdır</item>
@@ -172,6 +265,11 @@
         <item>Bağla</item>
         <item>Açıq</item>
     </string-array>
+    <string-array name="tile_states_hearing_devices">
+        <item>Əlçatmazdır</item>
+        <item>Bağlı</item>
+        <item>Açıq</item>
+    </string-array>
     <string-array name="tile_states_hotspot">
         <item>Əlçatmazdır</item>
         <item>Bağlı</item>
@@ -209,6 +307,11 @@
     </string-array>
     <string-array name="tile_states_qr_code_scanner">
         <item>Əlçatmazdır</item>
+        <item>Bağlı</item>
+        <item>Açıq</item>
+    </string-array>
+    <string-array name="tile_states_record_issue">
+        <item>Əlçatan deyil</item>
         <item>Bağlı</item>
         <item>Açıq</item>
     </string-array>
@@ -252,11 +355,48 @@
         <item>Bağlı</item>
         <item>Açıq</item>
     </string-array>
-    <string-array name="udfps_accessibility_touch_hints">
-        <item>Sola daşı</item>
-        <item>Aşağı daşı</item>
-        <item>Sağa daşı</item>
-        <item>Yuxarı daşı</item>
+    <string-array name="track_frame_time_entries">
+        <item>Bağlı</item>
+        <item>Ekranda çubuqlar olaraq</item>
+    </string-array>
+    <string-array name="transition_animation_scale_entries">
+        <item>Animasiya bağlıdır</item>
+        <item>Animasiya miqyası .5x</item>
+        <item>Animasiya miqyası 1x</item>
+        <item>Animasiya miqyası 1.5x</item>
+        <item>Animasiya miqyası 2x</item>
+        <item>Animasiya miqyası 5x</item>
+        <item>Animasiya miqyası 10x</item>
+    </string-array>
+    <string-array name="usb_configuration_titles">
+        <item>Dolur</item>
+        <item>Səs mənbəyi</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item>Skan edilir…</item>
+        <item>Bağlantı qurulur…</item>
+        <item>Kimlik doğrulanır…</item>
+        <item>IP ünvanı alınır…</item>
+        <item>Bağlantılı</item>
+        <item>Dayandırıldı</item>
+        <item>Bağlantı kəsilir…</item>
+        <item>Bağlantı kəsildi</item>
+        <item>Uğursuz</item>
+        <item>Əngəlləndi</item>
+        <item>Zəif bağlantıdan müvəqqəti qaçılır</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item>Skan edilir…</item>
+        <item>%1$s ilə bağlantı qurulur…</item>
+        <item>%1$s ilə kimlik doğrulanır…</item>
+        <item>%1$s şəbəkəsindən IP ünvanı alınır…</item>
+        <item>%1$s ilə bağlantılıdır</item>
+        <item>Dayandırıldı</item>
+        <item>%1$s ilə bağlantı kəsilir…</item>
+        <item>Bağlantı kəsildi</item>
+        <item>Uğursuz</item>
+        <item>Əngəlləndi</item>
+        <item>Zəif bağlantıdan müvəqqəti qaçılır</item>
     </string-array>
     <string-array name="wifitrackerlib_wifi_status">
         <item>Skan edilir…</item>
@@ -270,5 +410,14 @@
         <item>Uğursuz</item>
         <item>Əngəlləndi</item>
         <item>Zəif bağlantıdan müvəqqəti qaçılır</item>
+    </string-array>
+    <string-array name="window_animation_scale_entries">
+        <item>Animasiya bağlıdır</item>
+        <item>Animasiya miqyası .5x</item>
+        <item>Animasiya miqyası 1x</item>
+        <item>Animasiya miqyası 1.5x</item>
+        <item>Animasiya miqyası 2x</item>
+        <item>Animasiya miqyası 5x</item>
+        <item>Animasiya miqyası 10x</item>
     </string-array>
 </resources>
