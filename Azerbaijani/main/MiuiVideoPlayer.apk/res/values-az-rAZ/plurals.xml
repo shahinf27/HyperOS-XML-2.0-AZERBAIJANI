@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 saat əvvəl</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">%d saat əvvəl</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Yarım saat əvvəl</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">%d saat ərzində</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Yarım saat ərzində</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Dərhal</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d dəq ərzində</item>
+        <item quantity="one">%d dəq ərzində</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">İndicə</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d dəq əvvəl</item>
+        <item quantity="one">%d dəq əvvəl</item>
+    </plurals>
+	<plurals name="bi_exist_playlist_toast1">
+        <item quantity="other">%d video uğurla əlavə edildi</item>
+        <item quantity="one">%d video uğurla əlavə edildi</item>
+    </plurals>
+    <plurals name="bi_exist_playlist_toast2">
+        <item quantity="other">%d video artıq bu pleylistdədir</item>
+        <item quantity="one">%d video artıq bu pleylistdədir</item>
+    </plurals>
+    <plurals name="comment_model_watch_reply">
+        <item quantity="other">%d cavaba bax</item>
+        <item quantity="one">%d cavaba bax</item>
+    </plurals>
+    <plurals name="dialog_app_rating_choose_star">
+        <item quantity="other">%s ulduz seçildi</item>
+        <item quantity="one">%s ulduz seçildi</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">%d saniyə irəli çək</item>
+        <item quantity="one">%d saniyə irəli çək</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">%d saniyə geri çək</item>
+        <item quantity="one">%d saniyə geri çək</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Yarım saat əvvəl</item>
+    </plurals>
+    <plurals name="hint_local_guide_views">
+        <item quantity="other">%s baxış</item>
+        <item quantity="one">%s baxış</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">1 saat ərzində</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Yarım saat ərzində</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Dərhal</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d dəqiqə ərzində</item>
+        <item quantity="one">1 dəqiqə ərzində</item>
+    </plurals>
+    <plurals name="incentive_popup_window_share_success">
+        <item quantity="other">Uğurla paylaşıldı. %d xal qazandınız.</item>
+        <item quantity="one">Uğurla paylaşıldı. %d xal qazandınız.</item>
+    </plurals>
+    <plurals name="incentive_popup_window_subscribe_success">
+        <item quantity="other">Uğurla abunə olundu. %d xal qazandınız.</item>
+        <item quantity="one">Uğurla abunə olundu. %d xal qazandınız.</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">İndicə</item>
+    </plurals>
+    <plurals name="local_diversion_video_number">
+        <item quantity="other">%d video</item>
+        <item quantity="one">%d video</item>
+    </plurals>
+    <plurals name="local_longpress_speed_chenge_tip">
+        <item quantity="other">%sX sürətində oxudulur. Normal sürətdə oxutmaq üçün buraxın.</item>
+        <item quantity="one">%sX sürətində oxudulur. Normal sürətdə oxutmaq üçün buraxın.</item>
+    </plurals>
+	 <plurals name="local_video_delete_confirm_text">
+        <item quantity="other">Davam etsəniz, seçdiyiniz %s elementin hamısı həmişəlik silinəcək. Yenə də silinsin?</item>
+        <item quantity="one">Davam etsəniz, seçdiyiniz %s elementin hamısı həmişəlik silinəcək. Yenə də silinsin?</item>
+    </plurals>
+    <plurals name="local_video_floder">
+        <item quantity="other">%d qovluq</item>
+        <item quantity="one">%d qovluq</item>
+    </plurals>
+    <plurals name="long_video_minute">
+        <item quantity="other">%d dəq</item>
+        <item quantity="one">%d dəq</item>
+    </plurals>
+    <plurals name="long_video_season">
+        <item quantity="other">%d mövsüm</item>
+        <item quantity="one">%d mövsüm</item>
+    </plurals>
+    <plurals name="lv_subtitle_offset_advance_times">
+        <item quantity="other">Altyazı %.1f saniyə əvvəl göstəriləcək</item>
+        <item quantity="one">Altyazı %.1f saniyə əvvəl göstəriləcək</item>
+    </plurals>
+    <plurals name="lv_subtitle_offset_delay_times">
+        <item quantity="other">Altyazılar %.1f saniyə sonra göstəriləcək</item>
+        <item quantity="one">Altyazı %.1f saniyə sonra göstəriləcək</item>
+    </plurals>
+    <plurals name="lv_subtitle_onlinesub_size_float_kb">
+        <item quantity="other">Ölçü: %.2fKB</item>
+        <item quantity="one">Ölçü: %.2fKB</item>
+    </plurals>
+    <plurals name="mangotv_feature_list_title1">
+        <item quantity="other">%1$1d/%2$2d epizod mövcuddur</item>
+        <item quantity="one">%1$1d/%2$2d epizod mövcuddur</item>
+    </plurals>
+    <plurals name="mangotv_feature_list_title2">
+        <item quantity="other">%1$1d/%2$2d epizod mövcuddur</item>
+        <item quantity="one">%1$1d/%2$2d epizod mövcuddur</item>
+    </plurals>
+    <plurals name="mangotv_feature_list_title_all">
+        <item quantity="other">Cəmi %d epizod</item>
+        <item quantity="one">Cəmi %d epizod</item>
+    </plurals>
+    <plurals name="mediation_animate_close_after">
+        <item quantity="other">%s san qaldı</item>
+        <item quantity="one">%s san qaldı</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d element seçildi</item>
+        <item quantity="one">%d element seçildi</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d yeni bildiriş</item>
+        <item quantity="one">%d yeni bildiriş</item>
+    </plurals>
+    <plurals name="music_playlist_title_count">
+        <item quantity="other">%d mahnı</item>
+        <item quantity="one">%d mahnı</item>
+    </plurals>
+    <plurals name="notice_user_banned">
+        <item quantity="other">Məzmununuzda cəmiyyət standartlarımızı pozan elementlər (%1$s) var. Hesabınızın fəaliyyəti %3$s tarixinə qədər %2$d günlük dayandırılıb.</item>
+        <item quantity="one">Məzmununuzda cəmiyyət standartlarımızı pozan elementlər (%1$s) var. Hesabınızın fəaliyyəti %3$s tarixinə qədər %2$d günlük dayandırılıb.</item>
+    </plurals>
+    <plurals name="notification_close_tip">
+        <item quantity="other">Bu özəllik %s günlük söndürüləcək</item>
+        <item quantity="one">Bu özəllik %s günlük söndürüləcək</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d dəqiqə əvvəl</item>
+        <item quantity="one">1 dəqiqə əvvəl</item>
+    </plurals>
+    <plurals name="plus_edit_delete_comfire_text">
+        <item quantity="other">%s element indi silinsin?</item>
+        <item quantity="one">%s element indi silinsin?</item>
+    </plurals>
+    <plurals name="plus_edit_top_titletext">
+        <item quantity="other">%s element seçildi</item>
+        <item quantity="one">%s element seçildi</item>
+    </plurals>
+    <plurals name="plus_local_edit_delete_confirm_text">
+        <item quantity="other">%s fayl indi birdəfəlik silinsin?</item>
+        <item quantity="one">%s fayl indi birdəfəlik silinsin?</item>
+    </plurals>
+    <plurals name="plus_player_subtitle_online_size">
+        <item quantity="other">Fayl ölçüsü: %.2fKB</item>
+        <item quantity="one">Fayl ölçüsü: %.2fKB</item>
+    </plurals>
+    <plurals name="plus_search_result_title">
+        <item quantity="other">\"%1$s\" üçün %2$s nəticə</item>
+        <item quantity="one">\"%1$s\" üçün %2$s nəticə</item>
+    </plurals>
+    <plurals name="plus_serval_pictures">
+        <item quantity="other">%d təsvir</item>
+        <item quantity="one">%d təsvir</item>
+    </plurals>
+    <plurals name="plus_serval_videos">
+        <item quantity="other">%d video</item>
+        <item quantity="one">%d video</item>
+    </plurals>
+    <plurals name="s_double_tap_backward">
+        <item quantity="other">%d saniyə geri çəkmək üçün iki dəfə toxunun</item>
+        <item quantity="one">%d saniyə geri çəkmək üçün iki dəfə toxunun</item>
+    </plurals>
+    <plurals name="s_double_tap_forward">
+        <item quantity="other">%d saniyə irəli çəkmək üçün iki dəfə toxunun</item>
+        <item quantity="one">%d saniyə irəli çəkmək üçün iki dəfə toxunun</item>
+    </plurals>
+    <plurals name="s_forward_tip">
+        <item quantity="other">%1$s san</item>
+        <item quantity="one">%1$s san</item>
+    </plurals>
+    <plurals name="subscriber">
+        <item quantity="other">%s abunəçi</item>
+        <item quantity="one">%s abunəçi</item>
+    </plurals>
+    <plurals name="subtitle_offset_advance_times">
+        <item quantity="other">Altyazılar %.1f saniyə irəli çəkildi</item>
+        <item quantity="one">Altyazılar %.1f saniyə irəli çəkildi</item>
+    </plurals>
+    <plurals name="subtitle_offset_delay_times">
+        <item quantity="other">Altyazılar %.1f saniyə gecikir</item>
+        <item quantity="one">Altyazılar %.1f saniyə gecikir</item>
+    </plurals>
+    <plurals name="toast_bookmark_max_size">
+        <item quantity="other">%d əlfəcinə qədər əlavə et</item>
+        <item quantity="one">%d əlfəcinə qədər əlavə et</item>
+    </plurals>
+    <plurals name="video_like_text">
+        <item quantity="other">%s bəyənmə</item>
+        <item quantity="one">%s bəyənmə</item>
+    </plurals>
+    <plurals name="video_view_count">
+        <item quantity="other">%d baxış</item>
+        <item quantity="one">%d baxış</item>
+    </plurals>
+	<plurals name="vip_diaolg_pay_episoed">
+        <item quantity="other">%d epizod satın alınır</item>
+        <item quantity="one">%d epizod satın alınır</item>
+    </plurals>
+    <plurals name="vip_validity_date">
+        <item quantity="other">Etibarlılıq dövrü: %d gün</item>
+        <item quantity="one">Etibarlılıq dövrü: %d gün</item>
+    </plurals>
+</resources>
