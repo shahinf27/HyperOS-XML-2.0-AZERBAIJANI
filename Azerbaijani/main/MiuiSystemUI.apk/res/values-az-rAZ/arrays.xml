@@ -140,6 +140,7 @@
         <item>4K (yüksəldilmiş, güvənli)</item>
         <item>720p, 1080p (ikili ekran)</item>
     </string-array>
+    <string-array name="select_logd_size_lowram_titles">
         <item>Bağlı</item>
     </string-array>
     <string-array name="select_logd_size_summaries">
