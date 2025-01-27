@@ -237,6 +237,9 @@ proqramımıza qoşulun"</string>
     <string name="gb_gpu_control_optimization_graph">Qrafikləri optimallaşdırın</string>
     <string name="gb_gpu_control_resolution">Dəqiqlik</string>
     <string name="gb_gpu_control_texture_filtering_quality">Toxuma filtrləmə keyfiyyəti</string>
+	<string name="gb_gpu_custom_frame_default">İlkin</string>
+    <string name="gb_gpu_custom_frame_smooth">Hamar</string>
+    <string name="gb_gpu_custom_frame_ultimate">Maksimum</string>
     <string name="gb_gpu_dialog_button">Anladım</string>
     <string name="gb_gpu_dialog_button_countdown">Anladım (%s)</string>
     <string name="gb_gpu_dialog_message">Hazırkı GPU ayarları \"%s\" üzərində tətbiq edilir. Ayarları tətbiq etmək üçün oyunu yenidən başladın.</string>
@@ -444,6 +447,10 @@ Güvənli və zəmanətli."</string>
     <string name="not_set">Ayarlanmadı</string>
     <string name="ok_button">Oldu</string>
     <string name="open_browser">Brauzerdə aç</string>
+	<string name="open_screen_resolution_tip_cancel">İmtina</string>
+    <string name="open_screen_resolution_tip_content">Davam etməzdən əvvəl Ayarlarda sisteminizin ekran dəqiqliyini WQHD+ olaraq ayarlayın.</string>
+    <string name="open_screen_resolution_tip_set">Ayarlar</string>
+    <string name="open_screen_resolution_tip_title">Diqqət</string>
     <string name="page_load_failed">"Səhifə açıla bilmir"</string>
     <string name="parent_center">Valideyn Mərkəzi</string>
     <string name="parent_center_app_exit_title">Uşaq Sahəsindən çıx</string>
