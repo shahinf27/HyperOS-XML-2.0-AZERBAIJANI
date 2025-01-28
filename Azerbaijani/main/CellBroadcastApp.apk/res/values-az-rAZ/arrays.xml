@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alert_reminder_interval_entries">
+        <item>Bir dəfə</item>
+        <item>Hər 2 dəqiqədə bir</item>
+        <item>Hər 5 dəqiqədə bir</item>
+        <item>Hər 15 dəqiqədə bir</item>
+        <item>Heç vaxt</item>
+    </string-array>
+</resources>

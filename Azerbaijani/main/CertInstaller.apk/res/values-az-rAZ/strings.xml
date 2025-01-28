@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_missing_private_key">Sertifikatı quraşdırmaq üçün private açar tələb olunur</string>
+    <string name="action_missing_user_cert">Private açarı quraşdırmaq üçün sertifikat tələb olunur</string>
+    <string name="app_name">Sertifikat Quraşdırıcı</string>
+    <string name="ca_cert_is_added">CA sertifikatı quraşdırıldı</string>
+    <string name="ca_certificate">CA sertifikatı</string>
+    <string name="cert_missing_error">"Sertifikat faylı tapıla bilmədiyi üçün quraşdırıla bilmədi."</string>
+    <string name="cert_not_saved">Sertifikat quraşdırılmayıb.</string>
+    <string name="cert_read_error">"Sertifikat faylı oxuna bilmədiyi üçün quraşdırıla bilmədi."</string>
+    <string name="cert_temp_error">Müvəqqəti xəta. Lütfən daha sonra yenidən sınayın.</string>
+    <string name="cert_too_large_error">"Sertifikat həcmi çox böyük olduğu üçün quraşdırıla bilmədi."</string>
+    <string name="certificate">Sertifikat</string>
+    <string name="certificate_capabilities_warning">Qeyd: Bu sertifikatı verən, cihaza gələn və cihazdan gedən bütün trafiki yoxlaya bilər.</string>
+    <string name="certificate_name">Sertifikat adı</string>
+    <string name="config_system_install_component">com.android.settings/com.android.settings.security.CredentialStorage</string>
+    <string name="credential_info">Paketə daxildir:</string>
+    <string name="credential_password">Sertifikatları arxivdən çıxarmaq üçün parolu yazın.</string>
+    <string name="credential_usage_label">Kimlik məlumatının istifadəsi:</string>
+    <string name="done_label">HAZIRDIR</string>
+    <string name="extracting_pkcs12">Çıxarılır…</string>
+    <string name="install_done">%1$s kimlik məlumatları, saxlanılmış Wi-Fi şəbəkələrinə əlavə edildi.</string>
+    <string name="install_done_title">Kimlik məlumatları quraşdırıldı</string>
+    <string name="invalid_cert">Sertifikat yararsızdır.</string>
+    <string name="invalid_certificate_close_button">Bağla</string>
+    <string name="invalid_certificate_message">"Bu fayl %1$s olaraq istifadə edilə bilməz"</string>
+    <string name="invalid_certificate_title">"Bu fayl istifadə edilə bilmir"</string>
+    <string name="n_cacrts">%d CA sertifikatları</string>
+    <string name="name_char_error">Yalnız hərf və rəqəmlərdən ibarət ad daxil edin.</string>
+    <string name="name_credential_dialog_title">Bu sertifikatı adlandırın</string>
+    <string name="name_empty_error">Ad daxil edin.</string>
+    <string name="no_cert_to_saved">Quraşdırılacaq sertifikat yoxdur.</string>
+    <string name="one_cacrt">bir CA sertifikatı</string>
+    <string name="one_usercrt">bir istifadəçi sertifikatı</string>
+    <string name="one_userkey">bir istifadəçi açarı</string>
+    <string name="only_primary_user_allowed">Yalnız bu cihazın sahibi sertifikatları quraşdıra bilər.</string>
+    <string name="p12_description">PKCS12 açar anbarındakı sertifikatlar.</string>
+    <string name="password_empty_error">Parolu yazın.</string>
+    <string name="password_error">Doğru parolu yazın.</string>
+    <string name="pick_file_title">Bir sertifikat seçin</string>
+    <string name="pkcs12_file_password_dialog_title">Bu arxivdən çıxart: %s</string>
+    <string name="pkcs12_password_dialog_title">Sertifikatı arxivdən çıxart</string>
+    <string name="redirect_ca_certificate_close_button">Bağla</string>
+    <string name="redirect_ca_certificate_title">Ayarlarda CA sertifikatlarını quraşdır</string>
+    <string name="redirect_ca_certificate_with_app_info_message">%1$s tərəfindən təmin edilən bu sertifikat Ayarlarda quraşdırılmalıdır. CA sertifikatlarını Yalnız güvəndiyiniz təşkilatlardan quraşdırın.</string>
+    <string name="select_certificate_usage_title">Sertifikat növünü seçin</string>
+    <string name="unable_to_save_cert">"Sertifikat saxlanıla bilmədi. Kimlik məlumatı anbarı fəal deyil və ya düzgün başladılmayıb."</string>
+    <string name="user_cert_is_added">İstifadəçi sertifikatı quraşdırıldı</string>
+    <string name="user_certificate">VPN və tətbiq istifadəçi sertifikatı</string>
+    <string name="userkey_type">Alqoritm:</string>
+    <string name="wifi_cancel_label">İmtina</string>
+    <string name="wifi_cert_is_added">Wi‑Fi sertifikatı quraşdırıldı</string>
+    <string name="wifi_certificate">Wi‑Fi sertifikatı</string>
+    <string name="wifi_config_text">"Ad: %1$s
+FQDN: %2$s
+Rouminq Konsorsiumları: %3$s
+Ölkə: %4$s
+Səlahiyyət üsulu: EAP-%5$s
+"</string>
+    <string name="wifi_detail_label">Detallar</string>
+    <string name="wifi_detail_title">%s üçün detallar</string>
+    <string name="wifi_dismiss_label">Rədd et</string>
+    <string name="wifi_install_label">Quraşdır</string>
+    <string name="wifi_installer_detail">%1$s ilə əlçatan şəbəkələrə bağlanmaq üçün Wi-Fi kimlik məlumatlarını quraşdırın.</string>
+    <string name="wifi_installer_download_error">"Endirilmiş faylda problem var və quraşdırıla bilməz. Faylı doğru mənbədən endirdiyinizə əmin olun."</string>
+    <string name="wifi_installer_fail">"Wi-Fi kimlik məlumatları quraşdırıla bilmir. Faylı yenidən endirməyə çalışın."</string>
+    <string name="wifi_installer_fail_no_wifi">Wi-Fi-ı açın və yenidən sınayın.</string>
+    <string name="wifi_installer_fail_no_wifi_title">Quraşdırma ləğv edildi</string>
+    <string name="wifi_installer_fail_title">"Quraşdırıla bilmir"</string>
+    <string name="wifi_installing_label">Quraşdırılır</string>
+    <string name="wifi_no_config">Yoxdur</string>
+    <string name="wifi_sim_config_text">"SIM: %s
+"</string>
+    <string name="wifi_title">Wi-Fi Profili</string>
+    <string name="wifi_tls_config_text">"Müştəri sertifikatı:
+%1$s
+Açar: %2$s
+"</string>
+    <string name="wifi_trust_config_text">"Güvənli sertifikat:
+%s
+"</string>
+    <string name="wifi_ttls_config_text">"İstifadəçi adı: %s
+"</string>
+</resources>

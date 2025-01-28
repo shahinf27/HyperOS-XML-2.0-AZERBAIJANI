@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="etws_primary_default_message_earthquake">Sakit olun və yaxınlıqda sığınacaq axtarın.</string>
+    <string name="etws_primary_default_message_earthquake_and_tsunami">Sakit olun və yaxınlıqda sığınacaq axtarın.</string>
+    <string name="etws_primary_default_message_others">Yerli orqan tərəfindən siqnal verildi. Daha çox məlumat tezliklə.</string>
+    <string name="etws_primary_default_message_test">Fövqəladə hal mesaj testi</string>
+    <string name="etws_primary_default_message_tsunami">Sahilyanı bölgədən və çay kənarındakı ərazilərdən yüksək yer kimi daha təhlükəsiz yerlərə dərhal təxliyə olunun.</string>
+</resources>
