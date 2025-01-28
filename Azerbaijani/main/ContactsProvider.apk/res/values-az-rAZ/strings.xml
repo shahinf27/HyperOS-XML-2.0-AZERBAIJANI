@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Kontaktlar Anbarı</string>
+    <string name="call_log_provider_label">Zəng tarixçəsi</string>
+    <string name="debug_dump_database_message">1) Bütün kontaktlarla bağlı məlumatları və bütün zəng jurnalını ehtiva edən databazanızın bir kopyasını daxili anbarda yaratmaq və 2) bunu e-poçtla göndərmək üzrəsiniz. Kopyanı cihazdan uğurla göndərdikdən və e-poçtu aldıqdan sonra kopyanı silməyi unutmayın.</string>
+    <string name="debug_dump_delete_button">İndi sil</string>
+    <string name="debug_dump_email_body">Qoşmada, bütün kontaktlarımın məlumatları olan kontakt databazam mövcuddur. Diqqətli istifadə edin.</string>
+    <string name="debug_dump_email_sender_picker">Fayllarınızı göndərmək üçün bir proqram seçin</string>
+    <string name="debug_dump_email_subject">Kontakt databazası əlavə edildi</string>
+    <string name="debug_dump_start_button">Başlat</string>
+    <string name="debug_dump_title">Kontakt databazasını kopyala</string>
+    <string name="default_directory">Kontaktlar</string>
+    <string name="local_invisible_directory">Digər</string>
+    <string name="low_memory_toast">"Yaddaş az olduğu üçün istifadəyə davam edilə bilmir."</string>
+    <string name="pound_search_tip">Kontaktları axtarmaq üçün # simvolundan sonra bir nömrə daxil edin</string>
+    <string name="provider_label">Kontaktlar</string>
+    <string name="sharedUserLabel">Android Core Tətbiqləri</string>
+    <string name="sim_state_changed">SIM kart dəyişdirildi</string>
+    <string name="update_accounts_changed">Hesablar dəyişdirildi</string>
+    <string name="upgrade_out_of_memory_notification_text">Yüksəltməni tamamlamaq üçün toxunun.</string>
+    <string name="upgrade_out_of_memory_notification_ticker">Kontaktlar yüksəltməsi üçün daha çox yaddaş lazımdır.</string>
+    <string name="upgrade_out_of_memory_notification_title">Kontaktlar üçün anbar sahəsi yüksəldilir</string>
+    <string name="voicemail_cleanup">Səsli poçtu təmizlə</string>
+    <string name="voicemail_from_column">"Səsli poçtu göndərən "</string>
+</resources>
