@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="permissions_desc">
+        <item>Şəkillər, tətbiqlər və digər fayllara müraciət etmək, onları saxlamaq, həmçinin köçürmək üçün</item>
+        <item>Bluetooth və Wi-Fi ilə fayl köçürmək üçün</item>
+    </string-array>
+</resources>

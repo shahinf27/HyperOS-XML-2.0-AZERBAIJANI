@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="animator_duration_scale_entries">
+        <item>Animasiya bağlıdır</item>
+        <item>Animasiya miqyası .5x</item>
+        <item>Animasiya miqyası 1x</item>
+        <item>Animasiya miqyası 1.5x</item>
+        <item>Animasiya miqyası 2x</item>
+        <item>Animasiya miqyası 5x</item>
+        <item>Animasiya miqyası 10x</item>
+    </string-array>
+    <string-array name="app_process_limit_entries">
+        <item>Standart limit</item>
+        <item>Arxaplan prosesi yoxdur</item>
+        <item>Ən çox 1 proses</item>
+        <item>Ən çox 2 proses</item>
+        <item>Ən çox 3 proses</item>
+        <item>Ən çox 4 proses</item>
+    </string-array>
+    <string-array name="blood_type_values">
+        <item>0+</item>
+        <item>O-</item>
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+        <item>H/H</item>
+        <item></item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
+        <item>Sistem seçimini istfdə et (İlkin)</item>
+        <item>16 bit/nümunə</item>
+        <item>24 bit/nümunə</item>
+        <item>32 bit/nümunə</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
+        <item>Sistem seçimini istfdə et (İlkin)</item>
+        <item>16 bit/nümunə</item>
+        <item>24 bit/nümunə</item>
+        <item>32 bit/nümunə</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
+        <item>Sistem seçimini istfdə et (İlkin)</item>
+        <item>Mono</item>
+        <item>Stereo</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
+        <item>Sistem seçimini istfdə et (İlkin)</item>
+        <item>Mono</item>
+        <item>Stereo</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
+        <item>Səs keyfiyyəti üçün optimallaşdırıldı</item>
+        <item>Tarazlı səs və bağlantı keyfiyyəti</item>
+        <item>Bağlantı keyfiyyəti üçün optimallaşdırıldı</item>
+        <item>Ən yaxşı cəhd (Adaptiv bit sürəti)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
+        <item>Səs keyfiyyəti üçün optimallaşdırıldı (990kbps/909kbps)</item>
+        <item>Tarazlı səs və bağlantı keyfiyyəti (660kbps/606kbps)</item>
+        <item>Bağlantı keyfiyyəti üçün optimallaşdırıldı (330kbps/303kbps)</item>
+        <item>Ən yaxşı cəhd (Adaptiv bit sürəti)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
+        <item>Sistem seçimini istfdə et (İlkin)</item>
+        <item>44.1 kHz</item>
+        <item>48.0 kHz</item>
+        <item>88.2 kHz</item>
+        <item>96.0 kHz</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
+        <item>Sistem seçimini istfdə et (İlkin)</item>
+        <item>44.1 kHz</item>
+        <item>48.0 kHz</item>
+        <item>88.2 kHz</item>
+        <item>96.0 kHz</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_summaries">
+        <item>Sistem seçimini istfdə et (İlkin)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™ səs</item>
+        <item>Qualcomm® aptX™ HD səs</item>
+        <item>LDAC</item>
+        <item>LC3</item>
+        <item>Opus</item>
+        <item>Qualcomm® aptX™ Adaptiv səs</item>
+        <item>Qualcomm® aptX™ TWS+ səs</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_titles">
+        <item>Sistem seçimini istfdə et (İlkin)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™ səs</item>
+        <item>Qualcomm® aptX™ HD səs</item>
+        <item>LDAC</item>
+        <item>LC3</item>
+        <item>Opus</item>
+        <item>Qualcomm® aptX™ Adaptiv səs</item>
+        <item>Qualcomm® aptX™ TWS+ səs</item>
+    </string-array>
+    <string-array name="bluetooth_audio_active_device_summaries">
+        <item></item>
+        <item>, aktiv</item>
+        <item>, aktiv (media)</item>
+        <item>, aktiv (telefon)</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_entries">
+        <item>Sıradan çıxarıldı</item>
+        <item>Filtrləmə fəaldır</item>
+        <item>Fəaldır</item>
+        <item>Fəal başlıqlar filtrləndi</item>
+        <item>Fəal media paketləri filtrləndi</item>
+        <item>Fəal profillər filtrləndi</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_filters_entries">
+        <item>Yalnız ACL başlıqları burax</item>
+        <item>A2DP media paketlərini filtrlə</item>
+        <item>RFCOMM kanalını filtrlə</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_profile_filter_entries">
+        <item>Sıradan çıxart</item>
+        <item>Simvol sətri ilə doldur</item>
+        <item>Yalnız başlığı burax</item>
+        <item>Tam olaraq sil</item>
+    </string-array>
+    <string-array name="color_mode_descriptions">
+        <item>Təkmilləşdirilmiş rənglər</item>
+        <item>Gözlə görülən təbii rənglər</item>
+        <item>Rəqəmsal məzmun üçün optimallaşdırılmış rənglər</item>
+    </string-array>
+    <string-array name="color_mode_names">
+        <item>Canlı (ilkin)</item>
+        <item>Təbii</item>
+        <item>Standart</item>
+    </string-array>
+    <string-array name="debug_hw_overdraw_entries">
+        <item>Bağlı</item>
+        <item>Aşırı çəkmə sahələrini göstər</item>
+        <item>Deyteranomaliya sahələrini göstər</item>
+    </string-array>
+    <string-array name="enable_opengl_traces_entries">
+        <item>Heç biri</item>
+        <item>Logcat</item>
+        <item>Systrace (Qrafik)</item>
+        <item>glGetError-da zəng yığını</item>
+    </string-array>
+    <string-array name="hdcp_checking_summaries">
+        <item>HDCP yoxlanışını heç vaxt istifadə etmə</item>
+        <item>HDCP yoxlanışını yalnız DRM məzmunu üçün istifadə et</item>
+        <item>HDCP yoxlanışını həmişə istifadə et</item>
+    </string-array>
+    <string-array name="hdcp_checking_titles">
+        <item>Heç vaxt yoxlama</item>
+        <item>Yalnız DRM məzmunu üçün yoxla</item>
+        <item>Həmişə yoxla</item>
+    </string-array>
+    <string-array name="organ_donor_values">
+        <item>Bəli</item>
+        <item>Xeyr</item>
+        <item></item>
+    </string-array>
+    <array name="origin_carrier_names"></array>
+    <string-array name="overlay_display_devices_entries">
+        <item>Heç biri</item>
+        <item>480p</item>
+        <item>480p (güvənli)</item>
+        <item>720p</item>
+        <item>720p (güvənli)</item>
+        <item>1080p</item>
+        <item>1080p (güvənli)</item>
+        <item>4K</item>
+        <item>4K (güvənli)</item>
+        <item>4K (yüksəldilmiş)</item>
+        <item>4K (yüksəldilmiş, güvənli)</item>
+        <item>720p, 1080p (ikili ekran)</item>
+    </string-array>
+    <string-array name="select_logd_size_lowram_titles">
+        <item>Bağlı</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+    </string-array>
+    <string-array name="select_logd_size_summaries">
+        <item>Bağlı</item>
+        <item>Hər jurnal buferinə 64K</item>
+        <item>Hər jurnal buferinə 256K</item>
+        <item>Hər jurnal buferinə 1M</item>
+        <item>Hər jurnal buferinə 4M</item>
+        <item>Hər jurnal buferinə 8M</item>
+    </string-array>
+    <string-array name="select_logd_size_titles">
+        <item>Bağlı</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+        <item>4M</item>
+        <item>8M</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>Bağlı</item>
+        <item>Bütün jurnal buferləri</item>
+        <item>Radio jurnal buferi xaric hamısı</item>
+        <item>yalnız kernel jurnal buferi</item>
+    </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>Bağlı</item>
+        <item>Hamısı</item>
+        <item>Radio xaric hamısı</item>
+        <item>yalnız kernel</item>
+    </string-array>
+    <string-array name="show_non_rect_clip_entries">
+        <item>Bağlı</item>
+        <item>Qeyri-düzbucaqlı bölgəni mavi rəngdə çək</item>
+        <item>Test edilən çəkmə əmrlərini yaşıl rənglə vurğula</item>
+    </string-array>
+    <string-array name="track_frame_time_entries">
+        <item>Bağlı</item>
+        <item>Ekranda çubuqlar olaraq</item>
+        <item>adb shell dumpsys gfxinfo daxilində</item>
+    </string-array>
+    <string-array name="transition_animation_scale_entries">
+        <item>Animasiya bağlıdır</item>
+        <item>Animasiya miqyası .5x</item>
+        <item>Animasiya miqyası 1x</item>
+        <item>Animasiya miqyası 1.5x</item>
+        <item>Animasiya miqyası 2x</item>
+        <item>Animasiya miqyası 5x</item>
+        <item>Animasiya miqyası 10x</item>
+    </string-array>
+    <string-array name="tts_demo_strings">
+        <item>Bu, ingiliscə bir nitq sintezi nümunəsidir.</item>
+        <item>Bu, fransızca bir nitq sintezi nümunəsidir.</item>
+        <item>Bu, almanca bir nitq sintezi nümunəsidir.</item>
+        <item>Bu, italyanca bir nitq sintezi nümunəsidir.</item>
+        <item>Bu, ispanca bir nitq sintezi nümunəsidir.</item>
+        <item>Bu, koreyaca bir nitq sintezi nümunəsidir.</item>
+    </string-array>
+    <string-array name="usb_configuration_titles">
+        <item>Dolur</item>
+        <item>MTP (Media Köçürmə Protokolu)</item>
+        <item>PTP (Şəkil Köçürmə Protokolu)</item>
+        <item>RNDIS (USB Ethernet)</item>
+        <item>Səs Mənbəyi</item>
+        <item>MIDI</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Skan edilir…</item>
+        <item>Bağlantı qurulur…</item>
+        <item>Kimlik doğrulanır…</item>
+        <item>IP ünvanı alınır…</item>
+        <item>Bağlantılı</item>
+        <item>Dayandırılıb</item>
+        <item>Bağlantı kəsilir…</item>
+        <item>Bağlantı kəsildi</item>
+        <item>Uğursuz</item>
+        <item>Əngəlləndi</item>
+        <item>Zəif bağlantıdan müvəqqəti qaçılır</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Skan edilir…</item>
+        <item>%1$s ilə bağlantı qurulur…</item>
+        <item>%1$s ilə kimlik doğrulanır…</item>
+        <item>%1$s şəbəkəsindən IP ünvanı alınır…</item>
+        <item>%1$s ilə bağlantılıdır</item>
+        <item>Dayandırılıb</item>
+        <item>%1$s ilə bağlantı kəsilir…</item>
+        <item>Bağlantı kəsildi</item>
+        <item>Uğursuz</item>
+        <item>Əngəlləndi</item>
+        <item>Zəif bağlantıdan müvəqqəti qaçılır</item>
+    </string-array>
+    <string-array name="wifitrackerlib_wifi_status">
+        <item></item>
+        <item>Skan edilir…</item>
+        <item>Bağlantı qurulur…</item>
+        <item>Kimlik doğrulanır…</item>
+        <item>IP ünvanı alınır…</item>
+        <item>Bağlantılıdır</item>
+        <item>Dayandırılıb</item>
+        <item>Bağlantı kəsilir…</item>
+        <item>Bağlantı kəsildi</item>
+        <item>Uğursuz</item>
+        <item>Əngəlləndi</item>
+        <item>Zəif bağlantıdan müvəqqəti qaçılır</item>
+    </string-array>
+    <string-array name="window_animation_scale_entries">
+        <item>Animasiya bağlıdır</item>
+        <item>Animasiya miqyası .5x</item>
+        <item>Animasiya miqyası 1x</item>
+        <item>Animasiya miqyası 1.5x</item>
+        <item>Animasiya miqyası 2x</item>
+        <item>Animasiya miqyası 5x</item>
+        <item>Animasiya miqyası 10x</item>
+    </string-array>
+</resources>

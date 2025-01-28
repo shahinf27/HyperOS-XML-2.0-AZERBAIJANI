@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Ayarlar</string>
+    <string name="app_name">Addım provayderi</string>
+    <string name="end_title">Oyun bitdi</string>
+	<string name="gamebox_filter_name_black_gold">Black gold</string>
+    <string name="gamebox_filter_name_cyberpunk">Cyberpunk</string>
+    <string name="gamebox_filter_name_golden_autumn">Autumn</string>
+    <string name="gamebox_filter_name_klein_blue">Electric blue</string>
+    <string name="gamebox_filter_name_midnight_green">Pine green</string>
+    <string name="gamebox_filter_name_original">Original</string>
+    <string name="gamebox_filter_name_vintage_brown">Chestnut</string>
+    <string name="gamebox_filter_name_warn_orange">Warm orange</string>
+    <string name="gamebox_filter_name_wild_wind">Wild wind</string>
+    <string name="hello_world">Salam dünya!</string>
+    <string name="joyose_name">Joyose</string>
+    <string name="not_resurge_title">Yenidən başla</string>
+    <string name="resurged_content">Getdik!</string>
+    <string name="resurged_title">Yenidən başlandı</string>
+</resources>
