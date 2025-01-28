@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="allow_backup_button_label">Məlumatlarımı nüsxələ</string>
+    <string name="allow_restore_button_label">Məlumatlarımı bərpa et</string>
+    <string name="backup_confirm_text">"Bütün datanın bağlantılı bir masaüstü kompüterə tam nüsxələnməsi tələb olundu. Bunun baş verməsinə icazə vermək istəyirsiniz?
+
+Nüsxələməni siz tələb etməmisinizsə, bu əməliyyatın davam etdirilməsinə icazə verməyin."</string>
+    <string name="backup_confirm_title">Tam nüsxələmə</string>
+    <string name="backup_enc_password_optional">Tam nüsxələmə datalarını şifrələmək istəyirsinizsə, aşağıda bir parol daxil edin:</string>
+    <string name="backup_enc_password_text">Lütfən tam nüsxələmə datalarını şifrələmək üçün istifadə olunacaq parolu daxil edin. Boş buraxsanız, mövcud nüsxələmə parolunuz istifadə olunacaq:</string>
+    <string name="current_password_text">Lütfən hazırkı nüsxə parolunuzu aşağıda daxil edin:</string>
+    <string name="deny_backup_button_label">Nüsxələnməsin</string>
+    <string name="deny_restore_button_label">Bərpa edilməsin</string>
+    <string name="device_encryption_backup_text">Lütfən cihazınızın şifrələmə parolunu aşağıda daxil edin. Bu, nüsxə arxivini şifrələmək üçün istifadə olunacaq.</string>
+    <string name="device_encryption_restore_text">Lütfən cihazınızın şifrələmə parolunu aşağıda daxil edin.</string>
+    <string name="restore_confirm_text">"Bütün datanın bağlantılı bir masaüstü kompüterdən tam bərpası tələb olundu. Bunun baş verməsinə icazə vermək istəyirsiniz?
+
+Bərpanı siz tələb etməmisinizsə, bu əməliyyatın davam etdirilməsinə icazə verməyin. Bu, hal-hazırda cihazınızda olan bütün dataları əvəz edəcək!"</string>
+    <string name="restore_confirm_title">Tam bərpa</string>
+    <string name="restore_enc_password_text">Bərpa datası şifrələnibsə, lütfən aşağıda parolu daxil edin:</string>
+    <string name="toast_backup_ended">Nüsxələmə bitdi</string>
+    <string name="toast_backup_started">Nüsxələmə başlayır...</string>
+    <string name="toast_restore_ended">Bərpa etmə bitdi</string>
+    <string name="toast_restore_started">Bərpa etmə başlayır...</string>
+    <string name="toast_timeout">Əməliyyatın vaxtı bitdi</string>
+</resources>
