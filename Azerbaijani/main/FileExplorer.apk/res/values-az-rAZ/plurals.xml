@@ -1,27 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="a_hour_ago">
-        <item quantity="one">1 saat əvvəl</item>
         <item quantity="other">1 saat əvvəl</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="one">%d saat əvvəl</item>
         <item quantity="other">%d saat əvvəl</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
-        <item quantity="one">Yarım saat əvvəl</item>
         <item quantity="other">Yarım saat əvvəl</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="one">%d saat ərzində</item>
         <item quantity="other">%d saat ərzində</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
-        <item quantity="one">Yarım saat ərzində</item>
         <item quantity="other">Yarım saat ərzində</item>
     </plurals>
     <plurals name="abbrev_in_less_than_one_minute">
-        <item quantity="one">Dərhal</item>
         <item quantity="other">Dərhal</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
@@ -29,7 +23,6 @@
         <item quantity="one">%d dəq ərzində</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="one">İndicə</item>
         <item quantity="other">İndicə</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
@@ -41,12 +34,12 @@
         <item quantity="one">"WeChat danışıqlarındakı %1$d videonun müddəti bitmək üzrədir. Cihazınızın daxili anbarına nüsxələnsin?"</item>
     </plurals>
     <plurals name="clockin_day_count">
-        <item quantity="other">Ardıcıl %1$s gün yoxlanıldı, davam edin!</item>
-        <item quantity="one">Ardıcıl %1$s gün yoxlanıldı, davam edin!</item>
+        <item quantity="other">Ardıcıl %1$s gün işarələndi, davam edin!</item>
+        <item quantity="one">Ardıcıl %1$s gün işarələndi, davam edin!</item>
     </plurals>
     <plurals name="clockin_days">
-        <item quantity="other">Ardıcıl %1$s gün yoxlanıldı</item>
-        <item quantity="one">Ardıcıl %1$s gün yoxlanıldı</item>
+        <item quantity="other">Ardıcıl %1$s gün işarələndi</item>
+        <item quantity="one">Ardıcıl %1$s gün işarələndi</item>
     </plurals>
     <plurals name="clockin_new_chip">
         <item quantity="other">&lt;font color=#faea47&gt;&lt;b&gt;%d&lt;/b&gt;&lt;/font&gt; xal aldınız</item>
@@ -97,7 +90,6 @@
         <item quantity="one">%1$s qiymətli daş</item>
     </plurals>
     <plurals name="half_hour_ago">
-        <item quantity="one">Yarım saat əvvəl</item>
         <item quantity="other">Yarım saat əvvəl</item>
     </plurals>
     <plurals name="hours_ago">
@@ -105,15 +97,12 @@
         <item quantity="one">%1$d saat əvvəl</item>
     </plurals>
     <plurals name="in_a_hour">
-        <item quantity="one">1 saat ərzində</item>
         <item quantity="other">1 saat ərzində</item>
     </plurals>
     <plurals name="in_half_hour">
-        <item quantity="one">Yarım saat ərzində</item>
         <item quantity="other">Yarım saat ərzində</item>
     </plurals>
     <plurals name="in_less_than_one_minute">
-        <item quantity="one">Dərhal</item>
         <item quantity="other">Dərhal</item>
     </plurals>
     <plurals name="in_num_minutes">
@@ -125,7 +114,6 @@
         <item quantity="one"> (%1$d element)</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
-        <item quantity="one">İndicə</item>
         <item quantity="other">İndicə</item>
     </plurals>
     <plurals name="mins_ago">
