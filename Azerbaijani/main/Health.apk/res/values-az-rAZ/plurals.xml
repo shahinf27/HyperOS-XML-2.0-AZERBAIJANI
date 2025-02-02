@@ -1,27 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="a_hour_ago">
-        <item quantity="one">1 saat əvvəl</item>
         <item quantity="other">1 saat əvvəl</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="one">1 saat əvvəl</item>
         <item quantity="other">1 saat əvvəl</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
-        <item quantity="one">Yarım saat əvvəl</item>
         <item quantity="other">Yarım saat əvvəl</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="one">1 saat ərzində</item>
         <item quantity="other">1 saat ərzində</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
-        <item quantity="one">Yarım saat ərzində</item>
         <item quantity="other">Yarım saat ərzində</item>
     </plurals>
     <plurals name="abbrev_in_less_than_one_minute">
-        <item quantity="one">Dərhal</item>
         <item quantity="other">Dərhal</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
@@ -29,7 +23,6 @@
         <item quantity="one">1 dəq ərzində</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="one">İndicə</item>
         <item quantity="other">İndicə</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
@@ -109,7 +102,6 @@
         <item quantity="one">%1$d dövr</item>
     </plurals>
     <plurals name="half_hour_ago">
-        <item quantity="one">Yarım saat əvvəl</item>
         <item quantity="other">Yarım saat əvvəl</item>
     </plurals>
     <plurals name="hours">
@@ -121,15 +113,12 @@
         <item quantity="one">%1$d saniyə qaldı</item>
     </plurals>
     <plurals name="in_a_hour">
-        <item quantity="one">1 saat ərzində</item>
         <item quantity="other">1 saat ərzində</item>
     </plurals>
     <plurals name="in_half_hour">
-        <item quantity="one">Yarım saat ərzində</item>
         <item quantity="other">Yarım saat ərzində</item>
     </plurals>
     <plurals name="in_less_than_one_minute">
-        <item quantity="one">Dərhal</item>
         <item quantity="other">Dərhal</item>
     </plurals>
     <plurals name="in_num_minutes">
@@ -149,7 +138,6 @@
         <item quantity="one">%1$d metr</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
-        <item quantity="one">İndicə</item>
         <item quantity="other">İndicə</item>
     </plurals>
     <plurals name="mens_offset_predict_menstrual_period">
@@ -259,6 +247,10 @@
     <plurals name="sporting_unit_calories">
         <item quantity="other">%1$d kalori</item>
         <item quantity="one">%1$d kalori</item>
+    </plurals>
+	<plurals name="sporting_unit_km">
+        <item quantity="other">%1$s km</item>
+        <item quantity="one">%1$s km</item>
     </plurals>
     <plurals name="sporting_unit_step">
         <item quantity="other">addım</item>
