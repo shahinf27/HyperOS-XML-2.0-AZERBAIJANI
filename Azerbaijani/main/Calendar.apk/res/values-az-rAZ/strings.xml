@@ -92,6 +92,7 @@
     <string name="agenda_not_today_empty_hint">Burada hələ heç bir tədbir yoxdur. Yaratmaq üçün toxunun.</string>
     <string name="agenda_tomorrow">SABAH, %1$s</string>
     <string name="agenda_view">Tədbirlər</string>
+	<string name="ai_introduce_card_sub_title">Süni Zəkanın təqviminizə səfərləri, biletləri və digər tədbir növlərini avtomatik əlavə etməsinə icazə verin</string>
     <string name="alarm_close_reminder">Siqnal xatırladıcısını söndür</string>
     <string name="alarm_label">Anladım</string>
     <string name="alarm_open_reminder">Siqnal qur</string>
@@ -106,7 +107,7 @@
     <string name="anniversary_secondary_tag">İldönümü</string>
     <string name="app_label">Təqvim</string>
     <string name="app_name">Təqvim</string>
-    <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
+	<string name="apply_auto_insert_ai_event_button">İşə sal</string>
     <string name="arbor_day">Ağacəkmə Günü</string>
     <string name="arbor_day_tradition">Ağacəkmə Günü</string>
     <string name="at_least_one_channel">Ən azı 1 kanalı izləməlisiniz</string>
@@ -121,6 +122,7 @@
     <string name="auth_notification_error_ssl_not_yet_valid">SSL hələ yararlı deyil. Davam edilsin?</string>
     <string name="auth_notification_error_ssl_untrusted">SSL güvənsizdir. Davam edilsin?</string>
     <string name="auto_import_birthday_from_contact">"Kontaktların doğum günlərini daxilə köçür"</string>
+	<string name="auto_insert_ai_event_toast">Süni Zəka tədbir assistenti açıqdır</string>
     <string name="autumn_begins">Payız başlayır</string>
     <string name="autumn_begins_tradition">Payız başlayır</string>
     <string name="autumn_equinox">Payız gündönümü</string>
@@ -1106,6 +1108,7 @@
     <string name="setting_about_calendar_version">Təqvim versiyası: %1$s-%2$s</string>
     <string name="setting_about_summary">Versiya:</string>
     <string name="setting_accounts">Təqvim hesabları</string>
+	<string name="setting_auto_insert">Süni Zəka tədbir assistenti</string>
     <string name="setting_chinese_calendar">Çin təqvimi</string>
     <string name="setting_content_promotion">Məzmun tanıtımı</string>
     <string name="setting_daysoff_no_update">İctimai bayramlar barədə məlumatlar güncəldir.</string>

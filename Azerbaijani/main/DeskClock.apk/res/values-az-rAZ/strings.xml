@@ -105,6 +105,7 @@
     <string name="clearable_edittext_clear_description">Təmizlə</string>
     <string name="click_listen_news_container">Səhər xəbər kartını dinləmək üçün toxunun</string>
     <string name="click_to_cancel_alarm">Söndürmək üçün toxunun</string>
+	<string name="click_to_view_alarm">Zəngli saata baxmaq üçün toxunun</string>
     <string name="clock_information_ipc">ICP qeydiyyat nömrəsi: Pekin ICP No. 10046444-57A</string>
     <string name="clock_tab_name">Dünya saatı</string>
     <string name="close">Bağla</string>
@@ -158,7 +159,7 @@
     <string name="friday_short">Cüm</string>
     <string name="friday_shortest">Cüm</string>
     <string name="go_back">Geri</string>
-    <string name="hide_bottom_view_on_scroll_behavior">miuix.android.miracle.behavior.HideBottomViewOnScrollBehavior</string>
+	<string name="greenwichmean_time">GMT</string>
     <string name="holiday_update_fail">"Güncəllənə bilmədi"</string>
     <string name="holiday_update_loading">Güncəllənir…</string>
     <string name="holiday_update_success">Bütün elementlər güncəldir</string>
@@ -203,7 +204,9 @@
     <string name="life_post_weather_invalid">Hava durumu məlumatını üçün toxunun</string>
     <string name="life_post_weather_no_network">Hava durumu məlumatlarını güncəlləmək üçün şəbəkəyə bağlanın</string>
     <string name="listen_news_privacy"><Data>Fərdiləşdirilmiş xidmətləri təmin etmək və səhər xəbərlərini zəngli saatınıza daxil etmək üçün \"Saat\"ın internetə bağlanmasına ehtiyacı var. \"Saat\"ı istifadə etməzdən əvvəl &lt;a href=\"%2$s\"&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=\"%3$s\"&gt;Gizlilik Siyasətimizi&lt;/a&gt; oxuyub razılaşmalısınız. Razılaşırsınız?</Data></string>
-    <string name="look_sleep_data">Yuxu datasına bax</string>
+    <string name="locked_show_arriving_alarm_summary">%d saat ərzində çalması üçün qurulan zəngli saatları Kilid ekranında göstər</string>
+    <string name="locked_show_arriving_alarm_title">Zəngli saatları Kilid ekranında göstər</string>
+	<string name="look_sleep_data">Yuxu datasına bax</string>
     <string name="material_clock_toggle_content_description">Gündüz və ya axşam seçin</string>
     <string name="material_hour_selection">Saatı seçin</string>
     <string name="material_hour_suffix">"Saat %1$s"</string>
@@ -376,7 +379,7 @@
     <string name="notification_permission_dialog_not_open">İndi yox</string>
     <string name="notification_permission_dialog_open">Ayarlar</string>
     <string name="notification_permission_dialog_title">İcazələr tələb olunur</string>
-    <string name="oneshot_alarm">Çaldıqdan sonra sil</string>
+    <string name="oneshot_alarm">Zəngli saat çalındıqdan sonra sil</string>
     <string name="open_keep_screen">Ekran açıq qalacaq</string>
     <string name="open_notification_permission_remind">Bildirişlərin siqnalları söndürə bilməsinə icazə verin</string>
     <string name="open_sleep_record">İşə sal</string>

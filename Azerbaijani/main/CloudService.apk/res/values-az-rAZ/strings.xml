@@ -56,6 +56,7 @@
     <string name="cloud_storage_almost_full_upgrade_text">Anbar demək olar ki, dolub. Fotolar sinxronlaşdırılmaya bilər.</string>
     <string name="cloud_storage_common_functions_text">Tez-tez istifadə edilən</string>
     <string name="cloud_storage_default_title">Bulud anbarı</string>
+	<string name="cloud_storage_full_international_upgrade_default_text">Yetərsiz anbar sahəsi. Bulud sinxronlaşdırmaya fasilə verildi.</string>
     <string name="cloud_storage_full_upgrade_default_text">"Yetərsiz anbar. Fotolar sinxronlaşdırıla bilmədi."</string>
     <string name="cloud_storage_info_type_creation">Mi Canvas</string>
     <string name="cloud_storage_info_type_drive">Mi Drive</string>
@@ -63,6 +64,7 @@
     <string name="cloud_storage_info_type_family">Ailə</string>
     <string name="cloud_storage_info_type_others">Digər</string>
     <string name="cloud_storage_info_type_pdc">Sistem ayarları</string>
+	<string name="cloud_storage_international_almost_full_upgrade_text">Anbar dolub. Bulud sinxronlaşdırmaya fasilə verildi.</string>
     <string name="cloud_storage_loading_data">Bir saniyə…</string>
     <string name="cloud_storage_manage_title">Anbarı idarə et</string>
     <string name="cloud_storage_no_data">Buludda heç bir element yoxdur</string>

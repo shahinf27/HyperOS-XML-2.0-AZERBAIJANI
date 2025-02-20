@@ -50,6 +50,7 @@
     <string name="all_list_empty">Kontakt yoxdur</string>
     <string name="am">GƏ</string>
     <string name="antispam_mark_my_contribution">İşarə məlumatı paylaşılır</string>
+	<string name="app_name">logProvider</string>
     <string name="attach_photo_dialog_title">Kontakt fotosu</string>
     <string name="audio_chat">Səsli söhbət</string>
     <string name="auto_nickname">Avto</string>
@@ -768,6 +769,7 @@ Səbəb: \"%s\""</string>
     <string name="miuix_appcompat_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_select_all_description">Hamısını seç</string>
     <string name="miuix_appcompat_select_item">Elementləri seç</string>
+	<string name="miuix_appcompat_show_dialog_description">Açılan Pəncərə</string>
     <string name="miuix_indexer_collect">Kolleksiyalar</string>
     <string name="miuix_indexer_selected">%s seçildi</string>
     <string name="miuix_item_view_role_description">Vərəq</string>
@@ -1232,8 +1234,10 @@ Səbəb: \"%s\""</string>
     <string formatted="false" name="t9_search_guide_pinyin_title2">\"Debbie Smith\" axtarmaq üçün \"%d\" və \"%d\" daxil edin</string>
     <string name="t9_search_guide_zhuyin_title1">Kontaktları tapmaq üçün rəqəm daxil edin</string>
     <string formatted="false" name="t9_search_guide_zhuyin_title2">\"Jeff Max\" axtarmaq üçün %d\" və \"%d\" daxil edin</string>
-    <string name="take_new_photo">Yeni şəkil çək</string>
-    <string name="take_photo">Şəkil çək</string>
+    <string name="take_new_photo">Yeni foto çək</string>
+    <string name="take_photo">Foto çək</string>
+	<string name="text_input_layout_default_content_description">这是默认的content description</string>
+    <string name="text_input_layout_default_error">这是默认的error</string>
     <string name="text_msim_balance">Bu gün istifadə edilən</string>
     <string name="text_vsim_remain_time">Qalan dəqiqə</string>
     <string name="the_anniversary_of_lifting_martial_law">Hərbi Vəziyyətin Qaldırılma İl dönümü</string>
