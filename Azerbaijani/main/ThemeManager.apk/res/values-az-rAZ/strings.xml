@@ -83,12 +83,12 @@
     <string formatted="false" name="ai_estimated_two_three_minutes">Bu, %d–%d dəqiqə çəkəcək</string>
     <string name="ai_generate">AI tərəfindən yaradılıb</string>
     <string name="ai_generate_action">Yarat</string>
-    <string name="ai_generate_add_latter">Yeni fotolar əlavə etməzdən əvvəl lütfən tamamlanmasını gözləyin.</string>
+    <string name="ai_generate_add_latter">Bu proses bitdikdə yeni fotoları əlavə et.</string>
     <string name="ai_generate_background">Arxaplanda bitir</string>
     <string name="ai_generate_determine">Fotolar təhlil edilir…</string>
     <string name="ai_generate_fail">"Yaradıla bilmədi"</string>
     <string name="ai_generate_forbid">"Bu özəlliyi güncəlləyirik. İzləmədə qalın!"</string>
-    <string name="ai_generate_latter">Daha sonra yenidən sınayın</string>
+    <string name="ai_generate_latter">Bir və ya iki dəqiqə gözləyib yenidən sınayın.</string>
     <string name="ai_generate_loading">Divar kağızı yaradılır…</string>
     <string name="ai_generate_message">"Dinamik bir divar kağızı yaratsanız, divar kağızının statik versiyasına etdiyiniz heç bir dəyişiklik saxlanılmayacaq. İndi yaradılsın?"</string>
     <string name="ai_generate_text">Dinamik divar kağızı yarat</string>
@@ -104,18 +104,16 @@
     <string name="ai_image_format_does_not_support_generation">Dəstəklənməyən format</string>
     <string name="ai_image_size_too_large">Şəkil çox böyükdür</string>
     <string name="ai_in_line">"Xətdəsiniz…"</string>
-    <string name="ai_in_line_match">Uzun növbə var</string>
+    <string name="ai_in_line_match">Server məşğuldur</string>
     <string name="ai_inquire_apply_wallpaper">Bu divar kağızı tətbiq edilsin?</string>
-    <string name="ai_moving_your_wallpaper">Süni zəkanın divar kağızlarınızı necə canlandıra biləcəyinə baxın</string>
-    <string name="ai_pic_unavailable_content">Lütfən əmin olun ki, fotonun subyekti aydın və maneəsizdir.</string>
     <string name="ai_pic_unavailable_title">"Bu foto, nəsil tələblərini qarşılamır"</string>
     <string name="ai_read_the_privacy_policy">&lt;Data&gt;Bu tətbiqi istifadə etməzdən əvvəl &lt;a href=\"%1$s\"&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; və &lt;a href=\"%2$s\"&gt;Gizlilik Siyasətimizi&lt;/a&gt; oxuyun və razılaşın.&lt;/Data&gt;</string>
     <string name="ai_read_the_privacy_policy_pad">&lt;Data&gt;İstifadə etməzdən əvvəl &lt;a href=\"%1$s\"&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; və &lt;a href=\"%2$s\"&gt;Divar kağızı və Fərdiləşdirmə Gizlilik Siyasətimizi&lt;/a&gt; oxuyun və razılaşın.&lt;/Data&gt;</string>
     <string name="ai_select_again">Seç</string>
     <string name="ai_select_images_in_the_following_formats">Aşağıdakı dəstəklənən formatlardan birinə sahib şəkil seçin: *.jpg, *.jpeg, *.png, *.bmp, WebP, HEIC və HEIF.</string>
     <string name="ai_select_images_smaller_than_one_hundred">%d MB-dan az bir şəkil seçib yenidən sınayın.</string>
-    <string name="ai_select_message">Yalnız mənzərə, şəhər, bitki və avtomobil təsvirləri seçin və təsvirin əsas subyektinin aydın və maneəsiz olduğuna əmin olun. </string>
-    <string name="ai_select_title">"Təsvirlər emal oluna bilmir"</string>
+    <string name="ai_select_message">Subyektin aydın göründüyü bir foto seçin.</string>
+    <string name="ai_select_title">"Yaradıla bilmədi"</string>
     <string name="ai_select_wallpaper">Divar kağızlarını seç</string>
     <string name="ai_service_temporarily_unavailable">"Özəllik əlçatmazdır"</string>
     <string name="ai_service_unavailable">"Özəllik əlçatmazdır"</string>
@@ -130,8 +128,7 @@
     <string name="ai_wallpaper_i_know">Anladım</string>
     <string name="ai_wallpaper_inside_invitation">Beta testi AI dinamik divar kağızları</string>
     <string name="ai_wallpaper_inside_invitation_agree">Razıyam</string>
-    <string name="ai_wallpaper_inside_invitation_description">Bu özəllik, dinamik video divar kağızlarını yaratmaq üçün mənzərə, şəhər, bitki və avtomobil fotolarından faydalanaraq böyük model bacarıqlarını istifadə edir. Sınamaq üçün \"Razıyam\"a toxunun!</string>
-    <string name="ai_wallpaper_inside_invitation_description_all">Bu özəllik, fotoları istifadə edərək dinamik video divar kağızlarını yaratmaq üçün böyük model bacarıqlarını istifadə edir. Sınamaq üçün \"Razıyam\"a toxunun!</string>
+    <string name="ai_wallpaper_inside_invitation_description">Bu özəllik, statik təsvirlərdən dinamik divar kağızlarını yaratmaq üçün böyük model bacarıqlarını istifadə edir. Sınamaq üçün \"Razıyam\"a toxunun!</string>
     <string name="ai_wallpaper_inside_invitation_disagree">"Razı deyiləm"</string>
     <string name="ai_wallpaper_network_connection_exception">"Şəbəkəyə bağlana bilmədi"</string>
     <string name="ai_wallpaper_network_exception">Şəbəkə xətası baş verdi</string>
@@ -406,6 +403,7 @@
     <string name="display">Ekran</string>
     <string name="do_not_allow">Məhdudlaşdırıldı</string>
     <string name="download_failed">"Endirilə bilmədi"</string>
+	<string name="download_limit">"Hazırda daha çox element endirilə bilmir. Daha sonra yenidən sınayın."</string>
     <string name="download_preview_failed">"Önizləmə yüklənə bilmir"</string>
     <string name="download_success">Endirmə bitdi</string>
     <string name="dynamic_large_icon_not_support_current_type">"%s, bu dinamik ikon üçün dəstəklənmir"</string>
@@ -664,10 +662,6 @@ Bu özəlliyi söndürmək üçün, Ayarlar &gt; Səs və titrəmə &gt; \"Profi
     <string name="kg_classic_item_step_number">Addım</string>
     <string name="kg_classic_item_sunrise_or_sunset">Günçıxma və günbatma</string>
     <string name="kg_classic_item_temperature">Temperatur</string>
-    <string name="kg_classic_item_type_date">Tarix</string>
-    <string name="kg_classic_item_type_health">Sağlam</string>
-    <string name="kg_classic_item_type_time">Vaxt</string>
-    <string name="kg_classic_item_type_weather">Hava</string>
     <string name="kg_classic_item_ultraviolet_ray">UV indeksi</string>
     <string name="kg_classic_item_vitality">Statistika</string>
     <string name="kg_classic_item_weather_cloudy">Buludlu</string>
@@ -684,6 +678,10 @@ Bu özəlliyi söndürmək üçün, Ayarlar &gt; Səs və titrəmə &gt; \"Profi
     <string name="kg_color_value_editor_title">Rəngə düzəliş et</string>
     <string name="kg_confirm">Oldu</string>
     <string name="kg_customize">Özəlləşdir</string>
+	<string name="kg_dialog_apply_link_video_wallpaper_confirm_title">Temanı tətbiq et</string>
+    <string name="kg_dialog_apply_link_video_wallpaper_nagetive_button">İmtina</string>
+    <string name="kg_dialog_apply_link_video_wallpaper_positive_button">Tətbiq et</string>
+    <string name="kg_dialog_apply_link_video_wallpaper_wallpaper_confirm">"Hazırda bir divar kağızı dəsti istifadə edirsiniz. Yeni bir tema tətbiq etsəniz, həm Kilid ekranının, həm də Əsas ekranın divar kağızları dəyişdiriləcək və Həmişə açıq ekran üçün əvvəlki üslub bərpa olunacaq. Yenə də tətbiq edilsin?"</string>
     <string name="kg_dialog_apply_not_support_super_wallpaper_confirm">"Bu Kilid ekranı Super divar kağızlarını dəstəkləmir. Davam etsəniz, həm Əsas, həm də Kilid ekranlarınızdakı divar kağızları əvəzlənəcək. Yenə də davam edilsin?"</string>
     <string name="kg_dialog_apply_super_wallpaper_confirm">"Hazırda Super divar kağızı istifadə edirsiniz. Davam etsəniz, həm Əsas, həm də Kilid ekranınız yeni bir divar kağız ilə əvəz olunacaq. Yenə də davam edilsin?"</string>
     <string name="kg_dialog_apply_super_wallpaper_nagetive_button">İmtina</string>
@@ -700,9 +698,11 @@ Bu özəlliyi söndürmək üçün, Ayarlar &gt; Səs və titrəmə &gt; \"Profi
     <string name="kg_doodle_secondary_disable_tip">Dərinlik effektini işə sal</string>
     <string name="kg_doodle_secondary_label">Arxaplan</string>
     <string name="kg_doodle_text_not_support_gallery_tip">"Divar kağızı Karuseli qaralamaları dəstəklənmir"</string>
+	<string name="kg_doodle_text_not_support_third_party_wallpaper_service_tip">"Üçüncü tərəf divar kağızları qaralamaları dəstəkləmir"</string>
     <string name="kg_doodle_text_not_support_wallpaper_tip">"Bu divar kağızı qaralamaları dəstəklənmir"</string>
     <string name="kg_edit_cancel_dialog_content">Bütün dəyişikliklər indi ləğv edilsin?</string>
     <string name="kg_edit_cancel_dialog_title">Dəyişikliklər ləğv edilsin?</string>
+	<string name="kg_effects_not_support_gallery_tip">"Divar kağızı slayd şousu istifadə edilərkən effektlər ayarlana bilmir"</string>
     <string name="kg_effects_tip_button">Anladım</string>
     <string name="kg_effects_tip_desc">"Sahənin dərinliyi effekti filtrlərlə birləşdirilə bilməz. Bunlardan birinin istifadəsi digərini əvəz edəcək."</string>
     <string name="kg_effects_tip_not_support">"Dinamik divar kağızlarına effektlər tətbiq edilə bilməz"</string>
@@ -749,7 +749,7 @@ Bu özəlliyi söndürmək üçün, Ayarlar &gt; Səs və titrəmə &gt; \"Profi
     <string name="kg_guidance_dialog_title">Tam yeni fərdiləşdirilmiş Kilid ekranı</string>
     <string name="kg_hierarchy_loading_tip">Qatlar aşkarlanır…</string>
     <string name="kg_hierarchy_not_support_avoid_tip">Dərinlik effektini görünən etmək üçün divar kağızı mövqeyini ayarlayın</string>
-    <string name="kg_hierarchy_not_support_gallery_tip">"Slayd şou elementlərinə dərinlik effekti tətbiq edilə bilməz"</string>
+    <string name="kg_hierarchy_not_support_gallery_tip">"Divar kağızı slayd şousu istifadə edilərkən dərinlik effekti işə salına bilməz"</string>
     <string name="kg_hierarchy_not_support_third_party_wallpaper_service_tip">"Üçüncü tərəf divar kağızları dərinlik effektlərini dəstəkləmir"</string>
     <string name="kg_hierarchy_not_support_wallpaper_tip">"Bu divar kağızı dərinlik effektini dəstəkləmir"</string>
     <string name="kg_hierarchy_switch_label">Dərinlik effekti</string>
@@ -803,7 +803,6 @@ Bu özəlliyi söndürmək üçün, Ayarlar &gt; Səs və titrəmə &gt; \"Profi
     <string name="kg_wallpaper_filter_type_striped_lens">Linzalar</string>
     <string name="kg_wallpaper_filter_type_water">Su</string>
     <string name="kg_wallpaper_scale_hint_text">Qayçılamaq üçün çimdiklə</string>
-    <string name="kg_wallpaper_scroll_type_disable_tips">Divar kağızı effekti təcrübəsini təmin etmək üçün ekran sürüşdürmə tətbiq edilmir</string>
     <string name="kg_wallpaper_scroll_type_tips">Divar kağızı sürüşdürmə</string>
     <string name="kg_word_spacing">Xarakter boşluğu</string>
     <string name="kuyin_user_agreement_content">Özəl zəng səsi abunəlikləri iFlytek tərəfindən təmin edilir. Özəl zəng səsi abunəliklərini istifadə etməzdən əvvəl %s ilə razılaşmalısınız. Razılaşırsınız?</string>
@@ -872,6 +871,7 @@ Söndürmək üçün toxunun."</string>
     <string name="login_theme">\"Temalar\"a daxil olun</string>
     <string name="long_click_can_hide_resource">Elementi gizlətmək üçün basılı tutun</string>
     <string name="loop_video_wallpaper">Dinamik divar kağızlarını dövr etdir</string>
+	<string name="mashup_sound">Təbiət qarışığı</string
     <string name="material_clock_toggle_content_description">GƏ və ya GS seçin</string>
     <string name="material_hour_selection">Saat seçin</string>
     <string name="material_hour_suffix">"Saat %1$s"</string>
@@ -1335,6 +1335,7 @@ Bu icazəni Ayarlar &gt; \"Gizlilik\"də verə bilərsiniz."</string>
     <string name="resource_account_login_title">Daxil ol</string>
     <string name="resource_account_switch">Dəyişdir</string>
     <string name="resource_alarm_default">Zəngli saat</string>
+	<string name="resource_alarm_default_with_brackets">Zəngli saat səsi (%1$s)</string>
     <string name="resource_app_name">Resurslara bax</string>
     <string name="resource_apply">Tətbiq et</string>
     <string name="resource_apply_trial">Tətbiq et</string>
@@ -1389,6 +1390,7 @@ Bu icazəni Ayarlar &gt; \"Gizlilik\"də verə bilərsiniz."</string>
     <string name="resource_data_empty">Burada element yoxdur.</string>
     <string name="resource_default">İlkin zəng səsi</string>
     <string name="resource_default_name">Resurs</string>
+	<string name="resource_default_with_brackets">İlkin zəng səsi (%1$s)</string>
     <string name="resource_delete">Sil</string>
     <string name="resource_delete_all">Seçilmiş %1$d resurs silinsin?</string>
     <string name="resource_delete_confirm">Bu resurslar silinsin?</string>
@@ -1464,6 +1466,7 @@ Bu icazəni Ayarlar &gt; \"Gizlilik\"də verə bilərsiniz."</string>
     <string name="resource_no_network_text">"Şəbəkəyə bağlana bilmir."</string>
     <string name="resource_no_result">"Heç nə tapılmadı"</string>
     <string name="resource_notification_default">Bildirişlər</string>
+	<string name="resource_notification_default_with_brackets">Bildiriş səsi (%1$s)</string>
     <string name="resource_on_trial">Cəhd edilir: %1$s</string>
     <string name="resource_online">Onlayn</string>
     <string name="resource_online_picker">Onlayn zəng səsi seçin</string>
@@ -1489,6 +1492,7 @@ Bu icazəni Ayarlar &gt; \"Gizlilik\"də verə bilərsiniz."</string>
     <string name="resource_restore_fail">"Bərpa edilə bilmədi"</string>
     <string name="resource_restore_succ">Uğurla bərpa edildi</string>
     <string name="resource_ringtone_default">Zəng səsləri</string>
+	<string name="resource_ringtone_default_with_brackets">Zəng səsi (%1$s)</string>
     <string name="resource_ringtone_playing_error">Xəta</string>
     <string name="resource_ringtone_too_large_waring">Zəng səsi faylları %1$d MB və ya daha kiçik olmalıdır</string>
     <string name="resource_ringtone_volume_mute">Zəng səsi susduruldu</string>

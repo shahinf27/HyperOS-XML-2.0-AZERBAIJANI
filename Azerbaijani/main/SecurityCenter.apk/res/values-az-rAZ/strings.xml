@@ -1122,6 +1122,7 @@ Yenə də, bəzi əməliyyatlarınız hələ tamamlanmayıb. Razılığı geri g
     <string name="button_text_update_now">Güncəllə</string>
     <string name="button_to_setting">Ayarlar</string>
     <string name="call_address">Ərazi əngəllləmə siyahısı</string>
+	<string name="call_all_number_block">Bütün zəngləri əngəllə</string>
     <string name="call_and_contact">Zənglər və Kontaktlar</string>
     <string name="call_blacklist">Zəng əngəlli siyahısı</string>
     <string name="call_cloud_block">Bulud əngəlli siyahısı</string>
@@ -2244,6 +2245,10 @@ Ağıllı kadr sürəti açıq olduqda, oyundaxili və üçüncü tərəf kadr s
     <string name="game_toolbox_title_wild">Ultimate rejimi</string>
     <string name="game_toolbox_wild_mode_toast_tip">Cihaz performansı əhəmiyyətli dərəcədə artırıldı</string>
     <string name="game_toolbox_wild_mode_toast_title">Ultimate rejimi açıqdır</string>
+	<string name="game_turbo_custom_subtitle">Kadr sürətini və təsvir keyfiyyətini idarə etmək üçün super dəqiqliyi və ağıllı kadr sürətini özəlləşdirə bilərsiniz</string>
+    <string name="game_turbo_frame_rate_priority_subtitle">Kadr sürətini ağıllı şəkildə təkmilləşdir</string>
+    <string name="game_turbo_image_quality_priority_subtitle">\"Təsvir keyfiyyətini təkmilləşdir\", super dəqiqlik vasitəsilə təsvir keyfiyyətini artırır və ağıllı kadr sürəti vasitəsilə kadr sürətini idarə edir</string>
+    <string name="game_turbo_performance_strategy_subtitle">Həqiqi kadr sürəti performans idarəetmə lövhəsində göstərilir</string>
     <string name="game_video_net_data">Mobil internet</string>
     <string name="game_video_network_eror">"Şəbəkəyə bağlana bilmədi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın."</string>
     <string name="game_wid_viewpoint_buttom">Qısa fasilə verin.</string>
@@ -2688,10 +2693,14 @@ məqamlarını yazın"</string>
     <string name="gd_setting_miui_dock">Həmişə göstər</string>
     <string name="gd_setting_title">Yan çubuğu</string>
     <string name="gd_setting_vtb">Videoları oxudarkən göstər</string>
+	<string name="gd_sidebar_edit_add_app_tips_talkback">Tətbiq əlavə et</string>
+    <string name="gd_sidebar_edit_add_app_upper_limit_talkback">"Daha çox vicet əlavə edilə bilmir"</string>
     <string name="gd_setting_vtb_desc">Video oxutma üçün xüsusi özəlliklər</string>
     <string name="gd_sidebar_edit_all_title">Bütün tətbiqlər</string>
     <string name="gd_sidebar_edit_btn_close">Gizlət</string>
     <string name="gd_sidebar_edit_btn_expand">Daha çox</string>
+	<string name="gd_sidebar_edit_delete_app_tips_talkback">Tətbiqi sil</string>
+    <string name="gd_sidebar_edit_division_line_talkback">Ayırıcı xətt</string>
     <string name="gd_sidebar_edit_quick_title">Qısayollar</string>
     <string name="gd_sidebar_long_press_tips">Cihazı şaquli tutaraq göstəricini hərəkət etdirmək üçün basılı tutun</string>
     <string name="gd_splite_screen_tips">"Bölünmüş ekran, üzən pəncərələri dəstəkləmir"</string>
@@ -2908,6 +2917,8 @@ mənzərə rejiminə keçin!"</string>
     <string name="hongbao_name">Xiaomi Red Packet Assistant</string>
     <string name="hot">Məşhur</string>
     <string name="hot_today">Bu gün məşhur</string>
+	<string name="how_to_modify_risk_app_permission">Addımlar</string>
+    <string name="how_to_modify_risk_app_permission_desc">"Tətbiqin gəlişdiricisinə güvənirsinizsə, tətbiqin icazələrə müraciət etməsinə icazə vermək üçün bu addımları izləyin:"</string>
     <string name="i_know">Anladım</string>
     <string name="i_know_time">Anladım (%d)</string>
     <string name="icon_content_description">Dialoq ikonu</string>
@@ -2995,6 +3006,7 @@ mənzərə rejiminə keçin!"</string>
     <string name="label_mi_stats">Mi analitika</string>
     <string name="last_check_canceled">Əvvəlki skan ləğv edildi</string>
     <string name="launch_instant_app">Aç</string>
+	<string name="learn_risk_app_permission_settings">İcazələrin əngəlini götürmə</string>
     <string name="legal_workday">Qanuni iş günləri</string>
     <string name="legal_workday_invalidate">B.e.-Cüm (bayram haqqında məlumatların vaxtı bitib)</string>
     <string name="legal_workday_invalidate_message">Rəsmi bayram məlumatlarını güncəlləmək üçün toxunun.</string>
@@ -3156,6 +3168,7 @@ gözlənilir"</string>
     <string name="mark_agent_block">Agentlik olaraq bildirildi</string>
     <string name="mark_agent_block_large">Agentliklər</string>
     <string name="mark_agent_time_setting">Müəyyən sayda agentlik olaraq bildirilmiş nömrələri əngəllə</string>
+	<string name="mark_call_intercept_threshold_dialog_message">*Əgər nömrə, təyin etdiyiniz həddi aşan sayda istifadəçi tərəfindən dələduzluq və ya spam olaraq bildirilibsə, zəng əngəllənir. Əgər hədd aşağı təyin edilibsə, spam olmayan zənglər səhvən əngəllənə bilər.</string>
     <string name="mark_fraud">Bildirilən dələduzluğu əngəllə</string>
     <string name="mark_fraud_block">Dələduzluq olaraq bildirildi</string>
     <string name="mark_fraud_block_large">Dələduzluq</string>
@@ -3329,6 +3342,11 @@ Cihazınız indi %s daha sürətlidir."</string>
     <string name="model_type_phone">Telefon</string>
     <string name="modify_cellular_type">Planınızı seçmək üçün toxunun</string>
     <string name="modify_password_mode"><u>Parol növünü dəyişdir</u></string>
+	<string name="modify_risk_app_permission_dialog_cancel">İmtina</string>
+    <string name="modify_risk_app_permission_dialog_confirm">İşə sal</string>
+    <string name="modify_risk_app_permission_dialog_message">Gizliliyinizi qorumaq üçün, bu tətbiqə icazə verdikdən sonra \"Boş mesaj qaytar\" seçimini işə salmağınızı tövsiyə edirik.</string>
+    <string name="modify_risk_app_permission_dialog_title">Boş mesaj qaytar</string>
+    <string name="modify_risk_app_permission_steps">%1$d. &lt;b>Ayarlars&lt;/b> > &lt;b>Tətbiqlər&lt;/b> açın.&lt;br>&lt;/br> %2$d. &lt;b>Tətbiqlər&lt;/b> seçin.&lt;br>&lt;/br> %3$d. &lt;b>İcazələri idarə et&lt;/b> seçin.&lt;br>&lt;/br> %4$d. ︙ ikonuna toxunub &lt;b>İcazələrin əngəlini götür&lt;/b> seçin.&lt;br>&lt;/br> %5$d. Daha sonra fərdi olaraq icazə verə bilərsiniz.</string>
     <string name="modifypassword">Parol növünü dəyişdir</string>
     <string name="monday">Bazar ertəsi</string>
     <string name="monday_short">B.e.</string>
@@ -4906,6 +4924,7 @@ söndürülür"</string>
     <string name="privacy_pop_location">Bu gün yerləşməyə müraciət edildi</string>
     <string name="privacy_pop_record">Bu gün səs yazıldı</string>
     <string name="privacy_pop_storage">Bu gün anbara müraciət edildi</string>
+	<string name="privacy_privacy_title">Gizlilik Siyasəti</string>
     <string name="privacy_prompt_tc_sms_report_message">"Telefon nömrəniz və operator detallarınız şifrələnəcək və internet istifadə məlumatlarınızı güncəlləmək üçün Mi serverlərinə yüklənəcək."</string>
     <string name="privacy_prompt_upload">Yüklə</string>
     <string name="privacy_protect_summary">Şəxsi məlumatlarınızı qoruyun</string>
@@ -5037,6 +5056,7 @@ Razılıq indi geri götürülsün?"</string>
     <string name="privacy_update_dialog_content_1">%s Gizlilik Siyasəti güncəlləndi:</string>
     <string name="privacy_update_dialog_content_2"><Data>Davam etməzdən əvvəl &lt;a href=\"%1$s\"&gt;Gizlilik Siyasətinin&lt;/a&gt; yeni versiyasını oxuyun və razılaşın.</Data></string>
     <string name="privacy_update_dialog_title">Güncəllənmiş Gizlilik Siyasəti</string>
+	<string name="privacy_user_notice_title">İstifadəçi bildirişi</string>
     <string name="privacy_using_camera">Kamera istifadə edilir</string>
     <string name="privacy_using_location">Yerləşməyə müraciət edilir</string>
     <string name="privacy_using_record">Səs yazılır</string>
@@ -5145,6 +5165,10 @@ Razılıq indi geri götürülsün?"</string>
     <string name="resume">Bərpa et</string>
     <string name="revoke_not_allow_net_summary">Güvənlik tətbiqinin Gizlilik Siyasətinə verdiyiniz razılığı geri götürə bilmək üçün internetə bağlanmasına icazə verin.</string>
     <string name="revoke_not_allow_net_title">Diqqət</string>
+	<string name="risk_app_dialog_confirm">Anladım</string>
+    <string name="risk_app_dialog_message">Bilinməyən bir mənbədən gəldiyi üçün, sistem bu tətbiqin həssas icazələrə müraciət etməsini əngəllədi.</string>
+    <string name="risk_app_dialog_more_info">İcazələrin əngəli necə götürülür</string>
+    <string name="risk_app_dialog_title">İcazələrə rədd cavabı verildi</string>
     <string name="risk_app_install_agree_button">Bu tətbiqə güvən</string>
     <string name="risk_app_install_agree_checkbox">"Bütün mümkün riskləri götürməyə hazıram."</string>
     <string name="risk_app_install_agree_message">"Bu tətbiqlər üçüncü tərəf tərəfindən hazırlanıb və yerli qanun və qaydaları poza bilər. Xiaomi, bu tətbiqin təmin etdiyi məzmun və xidmətlərin mövcudluğuna, davamlılığına və əlçatımlılığına zəmanət vermir. Bu tətbiqin istifadəsi nəticəsində yaranan hər hansı bir itki və ya zərər sizin tərəfinizdən qarşılanacaq."</string>
@@ -5154,6 +5178,8 @@ Razılıq indi geri götürülsün?"</string>
     <string name="risk_app_install_history">Səlahiyyətləndirmə tarixçəsi</string>
     <string name="risk_app_install_item_des">Versiya: %1$s</string>
     <string name="risk_app_install_manager">Mümkün riskləri olan tətbiqlər</string>
+	<string name="risk_app_menu_title">İcazələrin əngəlini götürmə</string>
+    <string name="risk_app_permission_settings_desc">Bilinməyən mənbələrdən gələn tətbiqlərin həssas icazələrə müraciətinə icazə vermək, cihazınız və datalarınızın güvənliyi üçün risk yarada bilər. Bu riskləri önləmək üçün bəzi tətbiqlərin bəzi icazələrə müraciət etməsi ilkin olaraq əngəllənəcək. Əllə &lt;u>icazələrin əngəlini götürə&lt;/u> bilərsiniz, daha sonra hər bir icazəni ayrılıqda istədiyiniz kimi verə bilərsiniz.</string>
     <string name="risk_count_suffix"></string>
     <string name="risk_detail_app">Risk təşkil edir</string>
     <string name="risk_detail_title">Mümkün risklər</string>
@@ -5651,15 +5677,15 @@ Razılıq indi geri götürülsün?"</string>
     <string name="st_antispam_mode_smart_sum">"Əllə əlavə etdiyiniz nömrələri və digər istifadəçilərin bildirdiyi nömrələri əngəllə"</string>
     <string name="st_antispam_title_anoy_incoming">Yadlardan gələn zənglər</string>
     <string name="st_antispam_title_anoy_sms">Yadlardan gələn mesajlar</string>
-    <string name="st_antispam_title_contact_incoming">Kontaktlardan gələn zənglər</string>
-    <string name="st_antispam_title_contact_sms">Kontaktlardan gələn mesajlar</string>
-    <string name="st_antispam_title_contactandanoy_group">Ayarlar</string>
     <string name="st_antispam_title_null_incoming">Gizli nömrələr</string>
     <string name="st_antispam_title_service_sms">Xidmət bildirişləri</string>
     <string name="st_antispam_title_whitelist">İstisnalar</string>
     <string name="st_call_backsound_group">Əngəlli siyahısı səsi</string>
-    <string name="st_call_intercept_contacts">Kontaktlardan gələn zəngləri əngəllə</string>
+    <string name="st_call_intercept_all">Bütün zəngləri əngəllə</string>
     <string name="st_call_intercept_forwarding">Yönləndirilmiş zəngləri əngəllə</string>
+	<string name="st_call_intercept_mark_agent">Daşınmaz əmlak agentliyindən zəngləri əngəllə</string>
+    <string name="st_call_intercept_mark_fraud">Dələduzluq zənglərini əngəllə</string>
+    <string name="st_call_intercept_mark_sell">Marketinq zənglərini əngəllə</string>
     <string name="st_call_intercept_oversea">Xaricdən gələn zəngləri əngəllə</string>
     <string name="st_call_intercept_reported">Bildirilmiş nömrələrdən gələn zəngləri əngəllə</string>
     <string name="st_call_intercept_stranger">Yadlardan gələn zəngləri əngəllə</string>
@@ -5667,10 +5693,10 @@ Razılıq indi geri götürülsün?"</string>
     <string name="st_call_other_group">Digər</string>
     <string name="st_call_settings">Əngəlli zəng siyahısı</string>
     <string name="st_call_stranger_group">Yadlardan gələn zəngləri əngəllə</string>
+	<string name="st_confirm_call_all_dialog_summary">"İstisnalarda olmayan istənilən nömrədən gələn zənglər əngəllənəcək. İndi işə salınsın?"</string>
     <string name="st_confirm_dialog_btn_open">Əngəllə</string>
-    <string name="st_confirm_dialog_summary_contact_call">Kontaktlardan gələn bütün zənglər əngəllənəcək.</string>
     <string name="st_confirm_dialog_summary_oversea_call">Xarici telefon nömrələrindən gələn bütün zənglər əngəllənəcək.</string>
-    <string name="st_confirm_dialog_summary_stranger_call">Yadlardan gələn bütün zənglər əngəllənəcək.</string>
+    <string name="st_confirm_dialog_summary_stranger_call">"İstisnalarda və kontaktlarınızda olmayan istənilən nömrədən gələn zənglər əngəllənəcək. İndi işə salınsın?"</string>
     <string name="st_filter_keywords_setting_summary1">Bu siyahıdakı sözləri ehtiva edən bilinməyən nömrələrdən gələn mesajlar əngəllənəcək.</string>
     <string name="st_filter_keywords_setting_summary2">(Çoxlu açar sözlərini ayırmaq üçün vergül istifadə edin)</string>
     <string name="st_filter_keywords_setting_summary3">Bu siyahıdakı sözləri ehtiva edən bilinməyən nömrələrdən gələn mesajlara icazə verilir.</string>
@@ -5678,11 +5704,13 @@ Razılıq indi geri götürülsün?"</string>
     <string name="st_hint_add_head_number">Prefiks daxil edin</string>
     <string name="st_hint_add_phonenumber">Telefon nömrəsini daxil edin</string>
     <string name="st_hint_operatelist">Deyəsən, bu qayda artıq mövcuddur</string>
+	<string name="st_mark_call_intercept_threshold_summary">Müəyyən saydan çox şikayət edilən nömrələri avtomatik əngəllə</string>
+    <string name="st_mark_call_intercept_threshold_title">Həddi əngəllə</string>
+    <string name="st_mark_number_group">Bildirilən nömrələrdən gələn zəngləri əngəllə</string>
     <string name="st_message_SMS_AntiSpam">SMS-ləri əngəllə</string>
     <string name="st_message_SMSpass">SMS-lərə icazə ver</string>
     <string name="st_message_phone_AntiSpam">Zəngləri əngəllə</string>
     <string name="st_message_phonepass">Zənglərə icazə ver</string>
-    <string name="st_msg_intercept_contacts">Kontaktlardan gələn SMS-ləri əngəllə</string>
     <string name="st_msg_keyword_black">Açar söz əngəlləmə siyahısı</string>
     <string name="st_msg_keyword_group">Açar sözlər</string>
     <string name="st_msg_keyword_white">Açar söz istisnaları</string>
@@ -5827,9 +5855,16 @@ Bu cihaz ilə ^1 istifadə etmək üçün əvvəlcə onu quraşdırmalısınız.
     <string name="storage_entry_file">Fayl meneceri</string>
     <string name="storage_entry_other">Digər</string>
     <string name="storage_entry_setting">Tənzimlə</string>
+	<string name="storage_fbo_action_des">Başlamaq üçün \"Birləşdir\" seçiminə toxun. Bu proses zamanı cihazınızda donmalar ola bilər. Birləşdirməni daha tez icra etmək üçün cihazınızı istifadə etməyin.</string>
+    <string name="storage_fbo_btn">Defragment</string>
+    <string name="storage_fbo_btn_estimate">Preparing…</string>
     <string name="storage_fbo_clear">Anbar təzələmə</string>
     <string name="storage_fbo_des">"Daxili anbarda parçalanma var, bu da cihazınızı əhəmiyyətli dərəcədə yavaşlandıra bilər. Anbar təzələmə, siz cihazı istifadə etmədiyiniz müddətdə avtomatik işləyir. Fayllarınızı fiziki olaraq gecikməni azaldan ən kiçik fraqment sayına görə düzür."</string>
-    <string name="storage_fbo_number_tip">%1$s tarixində emal olundu</string>
+    <string name="storage_fbo_finish_btn">Hazırdır</string>
+    <string name="storage_fbo_notification_finish_title">Birləşdirmə tamamlandı</string>
+    <string name="storage_fbo_notification_start_content">Bu proses zamanı cihazınızda donmalar ola bilər</string>
+    <string name="storage_fbo_notification_start_title">Anbar birləşdirilir</string>
+	<string name="storage_fbo_number_tip">%1$s tarixində emal olundu</string>
     <string name="storage_fbo_tools">Anbar optimallaşdırması</string>
     <string name="storage_file_delete_tip">Seçilmiş elementlər birdəfəlik silinsin? Onlardan bəziləri lazım olduqda yenidən yüklənə bilər.</string>
     <string name="storage_file_dialog_delete_title">Elementləri sil</string>
@@ -6372,6 +6407,8 @@ Format zamanı ^2 daxilindəki mövcud məzmun silinəcək. Məzmunu itirməmək
     <string name="track_phone">Telefon</string>
     <string name="track_screen_horizontal">Üfüqi ekran</string>
     <string name="track_screen_vertical">Şaquli ekran</string>
+	<string name="track_sidebar_click_app_icon">侧边栏_点击图标</string>
+    <string name="track_sidebar_click_split_screen_icon">侧边栏_长按后点击分屏</string>
     <string name="track_sidebar_drag_center">全局侧边栏_拖拽应用至屏幕中央</string>
     <string name="track_sidebar_drag_left">全局侧边栏_拖拽应用至屏幕左侧</string>
     <string name="track_sidebar_drag_right">全局侧边栏_拖拽应用至屏幕右侧</string>
@@ -6820,8 +6857,9 @@ Bu özəllik Batareya qənaəti və ya Ultra batareya qənaəti açıq olduqda i
     <string name="warningcenter_policeassist_open_content">"110, 120, 119 və ya 122-yə zəng edərkən yerləşmə məlumatlarınızı avtomatik olaraq SMS və ya mobil internet ilə polisə göndərin."</string>
     <string name="warningcenter_policeassist_open_title">Fövqəladə hal zəngləri əsnasında yerləşmənizi polislə paylaşın</string>
     <string name="warningcenter_policeassist_privacy"><Data>\"&lt;a href=\"%1$s\"&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=\"%2$s\"&gt;Gizlilik Siyasətini&lt;/a&gt; oxudum və razılaşıram.\"</Data></string>
-    <string name="warningcenter_policeassist_title">Fövqəladə hal yerləşməsi</string>
-    <string name="warningcenter_smarthome">Mi Home</string>
+    <string name="warningcenter_policeassist_privacy_tip"><Data>"Fövqəladə halda yerləşmə özəlliyini işə saldıqdan sonra 110, 120, 119 və ya 122 kimi qısa nömrələrə zəng etdiyiniz halda, daha sürətli müdaxilə etmələrinə kömək etməsi üçün sistem, olduğunuz yeri avtomatik olaraq alıb SMS və ya internet üzərindən polisə göndərəcək.&lt;br>Fövqəladə halda yerləşmə özəlliyinin təməl xidmətləri təqdim edə bilməsi üçün, internetə və yerləşmənizə bağlanması lazımdır. Yuxarıda qeyd olunan lazımi icazələrin verilməsi ilə razılaşmasanız, ya da bu məlumatları yığmağımıza və istifadə etməyimizə icazə verməsəniz, bu özəllik düzgün işləməyəcək. Bu özəlliyi istifadə etməyə, ya da istədiyiniz zaman istifadəni dayandırmaq üçün söndürə bilərsiniz.&lt;br>Davam etməzdən əvvəl bunları oxuyub razılaşın: &lt;a href=\"%1$s\">İstifadəçi bildirişi&lt;/a> və &lt;a href=\"%2$s\">Fövqəladə halda yerləşmə Gizlilik Siyasəti&lt;/a>."</Data></string>
+	<string name="warningcenter_policeassist_title">Fövqəladə halda yerləşməsi</string>
+    <string name="warningcenter_smarthome">Xiaomi Home</string>
     <string name="warningcenter_title">Xəbərdarlıq Mərkəzi</string>
     <string name="website">Veb sayt</string>
     <string name="wechat_lucky_warning">WeChat qırmızı zərf</string>
