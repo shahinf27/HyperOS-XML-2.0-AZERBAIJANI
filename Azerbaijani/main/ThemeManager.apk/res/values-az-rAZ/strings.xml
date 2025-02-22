@@ -871,7 +871,7 @@ Söndürmək üçün toxunun."</string>
     <string name="login_theme">\"Temalar\"a daxil olun</string>
     <string name="long_click_can_hide_resource">Elementi gizlətmək üçün basılı tutun</string>
     <string name="loop_video_wallpaper">Dinamik divar kağızlarını dövr etdir</string>
-	<string name="mashup_sound">Təbiət qarışığı</string
+	<string name="mashup_sound">Təbiət qarışığı</string>
     <string name="material_clock_toggle_content_description">GƏ və ya GS seçin</string>
     <string name="material_hour_selection">Saat seçin</string>
     <string name="material_hour_suffix">"Saat %1$s"</string>
