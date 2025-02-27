@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Əsas ekrana keç</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Yuxarı keç</string>
+    <string name="abc_action_menu_overflow_description">Daha çox seçim</string>
+    <string name="abc_action_mode_done">Hazırdır</string>
+    <string name="abc_activity_chooser_view_see_all">Hamısına bax</string>
+    <string name="abc_activitychooserview_choose_application">Bir tətbiq seçin</string>
+    <string name="abc_capital_off">BAĞLI</string>
+    <string name="abc_capital_on">AÇIQ</string>
+    <string name="abc_search_hint">Axtar…</string>
+    <string name="abc_searchview_description_clear">Sorğunu təmizlə</string>
+    <string name="abc_searchview_description_query">Axtarış sorğusu</string>
+    <string name="abc_searchview_description_search">Axtar</string>
+    <string name="abc_searchview_description_submit">Sorğu göndər</string>
+    <string name="abc_searchview_description_voice">Səsli axtarış</string>
+    <string name="abc_shareactionprovider_share_with">Paylaş</string>
+    <string name="abc_shareactionprovider_share_with_application">%s ilə paylaş</string>
+    <string name="abc_toolbar_collapse_description">Yığcamlaşdır</string>
+    <string name="app_name">MConnService</string>
+    <string name="assist_center_title">Hazırda istifadə edilən</string>
+    <string name="assist_center_traffic_title">Qaldı</string>
+    <string name="assist_key1_title">Bu gün istfdə edilən</string>
+    <string name="assist_key2_title">İnternet planı</string>
+    <string name="noti_key1_today_used">Bu gün: %1$s</string>
+    <string name="noti_key2_remain">Qalan: %1$s</string>
+    <string name="noti_key2_used">İstifadə edilən: %1$s</string>
+    <string name="noti_key3">Detallar </string>
+    <string name="search_menu_title">Axtar</string>
+</resources>
