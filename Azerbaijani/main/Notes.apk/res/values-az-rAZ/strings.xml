@@ -59,6 +59,7 @@
     <string name="ai_no_error">Heç bir səhv tapılmadı</string>
     <string name="ai_recommend_send_icon_talkback_text">Göndər</string>
     <string name="ai_result_warn">Yuxarıdakı məzmun süni zəka tərəfindən yaradılıb. Doğruluq dəyişə bilər.</string>
+	<string name="ai_search_database_building_progress">Daha dəqiq nəticələr təqdim etmək üçün notlar təhlil edilir…</string>
     <string name="ai_search_hint_text">İstəklərinizi daxil edin</string>
     <string name="ai_sensitive_content_warn">"Süni zəka özəllikləri həssas və ya uyğunsuz məzmun üçün istifadə edilə bilməz"</string>
     <string name="ai_summary">AI icmalı</string>
@@ -535,6 +536,7 @@
     <string name="net_error">Şəbəkə xətası baş verdi</string>
     <string name="network_error_info">Şəbəkə xətası baş verdi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın.</string>
     <string name="network_timeout_info">"Şəbəkəyə bağlana bilmədi. Yenidən sınayın."</string>
+	<string name="new_ai_search_database_building_pause">Daha dəqiq nəticələr təqdim etmək üçün notlar cihazınızdan təhlil ediləcək</string>
     <string name="new_alert_title_delete">Notları sil</string>
     <string name="new_app_name">Mi Notlar</string>
     <string name="new_audio_create_cancel_talkback_des">Ləğv edildi</string>
