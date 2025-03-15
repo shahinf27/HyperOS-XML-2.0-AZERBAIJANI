@@ -863,6 +863,8 @@ Lütfən cihazı şəkildəki bucağa uyğun yerləşdirin və yenidən sınayı
     <string name="waybill_num">"Sifariş: "</string>
     <string name="web">Veb sayt:</string>
     <string name="web_url">URL</string>
+	<string name="web_url_confirm_content">Skan etdiyiniz QR kod sizi riskli ola bilən bir keçidə yönləndirə bilər. Bu, cihazınızın təhlükəsizliyinə və ya şəxsi məxfiliyinizə zərər verə biləcək zərərli vebsaytlar və ya şəbəkə tələləri ilə əlaqəli ola bilər. Davam etməyə qərar versəniz, lütfən, riskləri tam başa düşdüyünüzü təsdiqləyin.</string>
+    <string name="web_url_confirm_title">Təhlükəsizlik bildirişi</string>
     <string name="website_details">Veb sayt:</string>
     <string name="wechat_scan_code">WeChat skaneri</string>
     <string name="wechatcode_auto_processing_function_requires_permissions">WeChat kodunun avto-emal funksiyası, WeChat-ın kamera və anbar icazələrinə sahib olmasını tələb edir.</string>
