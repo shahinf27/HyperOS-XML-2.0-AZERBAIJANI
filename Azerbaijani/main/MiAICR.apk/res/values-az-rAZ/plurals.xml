@@ -29,9 +29,16 @@
         <item quantity="other">%d dəq əvvəl</item>
         <item quantity="one">%d dəq əvvəl</item>
     </plurals>
+	<plurals name="aiSearch_buildDB_dialog_analysis_completed_progress_stop_notice">
+        <item quantity="other">%1$s təhlili tamamlandı və indi fasilə verildi. Sabah cihazınız doldurularkən və soyuyarkən davam edəcək.</item>
+    </plurals>
 	<plurals name="aiSearch_buildDB_dialog_analysis_completed_progress_time">
         <item quantity="other">%1$s tamamlandı. Təxminən %2$s dəqiqə qalıb.</item>
         <item quantity="one">%1$s tamamlandı. Təxminən %2$s dəqiqə qalıb.</item>
+    </plurals>
+	<plurals name="aiSearch_buildDB_dialog_analysis_completed_progress_time_notice">
+        <item quantity="other">%1$s təhlili tamamlandı, ≈%2$s dəqiqə qalıb. Bu proses cihazınızın isinməsinə və daha çox enerji istifadə etməsinə səbəb ola bilər.</item>
+        <item quantity="one">%1$s təhlili tamamlandı, ≈%2$s dəqiqə qalıb. Bu proses cihazınızın isinməsinə və daha çox enerji istifadə etməsinə səbəb ola bilər.</item>
     </plurals>
     <plurals name="aiSearch_buildDB_dialog_secondary_confirmation_content">
         <item quantity="other">Təhlilin tamamlanması təxminən %1$s dəqiqə çəkəcək. Bu proses zamanı cihazınız isinə və ya daha çox enerji sərf edə bilər. İndi başladılsın?</item>

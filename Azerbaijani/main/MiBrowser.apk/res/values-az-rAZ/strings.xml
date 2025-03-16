@@ -2513,6 +2513,8 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="web_ad_clear_dialog_confirm">Sil</string>
     <string name="web_ad_clear_dialog_msg">\"%s\" daxilindəki reklam etiketləri indi silinsin?</string>
     <string name="web_ad_clear_dialog_title">Reklam etiketlərini sil</string>
+	<string name="web_ai_chat_guide">Məndən hər şeyi soruş! Bunu sına: \"&lt;font color=#39219C>&lt;b>%s&lt;/b>&lt;/font>\".</string>
+    <string name="web_ai_chat_guide_content">Veb səhifə məzmununun icmalı</string>
     <string name="web_ai_close_translation">Söndür</string>
     <string name="web_ai_error">Xəta baş verdi</string>
     <string name="web_ai_input_suggestion">Sizə necə kömək edə bilərəm?</string>

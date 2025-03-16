@@ -239,6 +239,9 @@
     <string name="left_lks_detail_entrance">Daha çoxuna bax</string>
     <string name="left_lks_download_now">Endir</string>
     <string name="left_lks_reverse">Ön sifariş</string>
+	<string name="left_lks_see_more">Bax</string>
+    <string name="left_lks_subscribe">Ön sifariş</string>
+    <string name="left_lks_unlocked_download_tip">%s, siz cihazınızın kilidini açdıqda endiriləcək. Bu fəaliyyəti Bildiriş panelində ləğv edə bilərsiniz.</string>
     <string name="left_lks_view">Bax</string>
     <string name="left_xout_frequently">Çox tez-tez göstərir</string>
     <string name="left_xout_low_quality">Reklamın keyfiyyəti aşağıdır</string>
