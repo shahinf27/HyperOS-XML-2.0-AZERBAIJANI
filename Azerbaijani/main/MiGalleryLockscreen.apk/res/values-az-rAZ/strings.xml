@@ -76,6 +76,7 @@
     <string name="apply_warning_content_with_maml">"Üçüncü tərəf tema istifadə edirsiniz. Divar kağızınızı dəyişdirsəniz, Kilid ekranınızın saatı ilkin halına sıfırlana bilər. İndi tətbiq edilsin?"</string>
     <string name="apply_warning_title">Divar kağızını tətbiq et</string>
     <string name="auto_interval">Cihazın kilidi hər açılanda</string>
+	<string name="avatar_talkback">Profil fotosu</string>
     <string name="back_icon_content_description">Geri</string>
 	<string name="bottomsheet_action_collapse">Alt vərəqi yığcamlaşdır</string>
     <string name="bottomsheet_action_expand">Alt vərəqi genişləndir</string>
@@ -102,6 +103,7 @@
     <string name="change_time">Divar kağızını dəyişdir</string>
     <string name="character_counter_content_description">%1$d/%2$d xarakter daxil edilib</string>
     <string name="character_counter_overflowed_content_description">%1$d/%2$d xarakter limiti aşıldı</string>
+	<string name="checked_talkback">İşə salındı</string>
     <string name="chip_text">Çip mətni</string>
     <string name="clear_history">Axtarış tarixçəsini təmizlə</string>
     <string name="clear_search_edittext">Təmizlə</string>
@@ -159,6 +161,7 @@
     <string name="declaration_title">Şərtlər və qaydalar</string>
     <string name="delete_pic">Şəkli sil</string>
     <string name="deny_des">Divar kağızları Karuseli, normal işləyə bilməsi üçün Qalereyaya müraciət etməlidir.</string>
+	<string name="desktop_preview_talkback">Əsas ekran önizləməsi</string>
     <string name="detail_ad_download_btn">Endir</string>
     <string name="detail_ad_type_ad">Reklam</string>
     <string name="detail_ad_type_close_ad">Reklamı bağla</string>
@@ -193,6 +196,7 @@
     <string name="dlg_cancel">İmtina</string>
     <string name="dlg_ok">Tətbiq et</string>
     <string name="double_click_to_exit_activity">Çıxmaq üçün yenidən toxunun</string>
+	<string name="double_tap_to_switch_talkback">Açıb bağlamaq üçün cüt toxunun</string>
     <string name="early_morning">Səhər</string>
     <string name="empty"></string>
     <string name="enable_toast_ar">Tövsiyə edilən divar kağızları göstərilir</string>
@@ -235,6 +239,7 @@
     <string name="idbct_opt_low_dev_desc_text">Şəkilləri həmişə standart keyfiyyətdə endir</string>
     <string name="idbct_opt_low_dev_main_text">Standart</string>
     <string name="idbct_title">Şəbəkə növləri</string>
+	<string name="image_talkback">Təsvir</string>
     <string name="launch_bg_permission_exception">\"Divar kağızı Karuseli\"nə \"Güvənlik\"dən arxaplanda işləyərkən açılan pəncərələri göstərməsinə icazə verin</string>
     <string name="left_lks_detail_entrance">Daha çoxuna bax</string>
     <string name="left_lks_download_now">Endir</string>
@@ -289,9 +294,11 @@
     <string name="local_default_category">Lokal ön ayar kateqoriyaları</string>
     <string name="lock_screen_date">d MMMM, EEEE</string>
     <string name="lock_screen_date_12">d MMMM, EEEE</string>
+	<string name="lock_screen_preview_talkback">Kilid ekranı önizləməsi</string>
     <string name="lock_show_permission_exception">\"Divar kağızı Karuseli\"nə Kilid ekranında elementləri göstərməsinə icazə verin</string>
     <string name="lockscreen_h5_close_tv">Bağlı</string>
     <string name="lockscreen_magazine_title">Divar kağızı Karuseli</string>
+	<string name="logged_in_talkback">Daxil olundu</string>
     <string name="look_str">Məşhur</string>
     <string name="loop_service_dlg_content">Slayd şou səyahət, qida, sənət, əyləncə və daha çoxu daxil olmaqla tərcihlərinizə görə uyğunlaşan Kilid ekranı şəkilləri arasında avtomatik keçid edir. Kilid ekranı slayd şousu işə salınıb bu şəkil əlavə edilsin?</string>
     <string name="loop_service_dlg_negative">İndi yox</string>
@@ -340,8 +347,21 @@ dd-MM"</string>
     <string name="miuix_appcompat_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_select_all_description">Hamısını seç</string>
     <string name="miuix_appcompat_select_item">Elementləri seç</string>
+	<string name="miuix_appcompat_show_dialog_description">Açılan pəncərə</string>
+    <string name="miuix_bottom_sheet_accessibility_scroll_down_to_close">Bağlamaq üçün aşağı sürüşdür</string>
+    <string name="miuix_bottom_sheet_accessibility_scroll_down_to_half_screen">Ekranın yarısına qədər aşağı sürüşdür</string>
+    <string name="miuix_bottom_sheet_accessibility_scroll_down_to_minimized">Minimallaşdırana qədər aşağı sürüşdür</string>
+    <string name="miuix_bottom_sheet_accessibility_scroll_up_to_half_screen">Ekranın yarısına qədər yuxarı sürüşdür</string>
+    <string name="miuix_bottom_sheet_accessibility_scroll_up_to_maximized">Maksimallaşdırana qədər yuxarı sürüşdür</string>
+    <string name="miuix_bottom_sheet_accessibility_state_half_screen">Yarım ekran</string>
+    <string name="miuix_bottom_sheet_accessibility_state_maximized">Maksimallaşdırılmış</string>
+    <string name="miuix_bottom_sheet_accessibility_state_minimized">Minimallaşdırılmış</string>
+    <string name="miuix_bottom_sheet_accessibility_switch_to_half_screen">Yarım ekrana keçildi</string>
+    <string name="miuix_bottom_sheet_accessibility_switch_to_maximized">Maksimala keçildi</string>
+    <string name="miuix_bottom_sheet_accessibility_switch_to_minimized">Minimala keçildi</string>
     <string name="miuix_indexer_collect">Kolleksiyalar</string>
     <string name="miuix_indexer_selected">%s seçildi</string>
+	<string name="miuix_popup_window_default_title">Açılan pəncərə</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Təzələmək üçün aşağı çək</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Uğurla təzələndi</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Təzələnir…</string>
@@ -428,14 +448,17 @@ dd-MM"</string>
     <string name="mtrl_picker_toggle_to_year_selection">İl seçiminə keçmək üçün toxunun</string>
     <string name="need_open_gallery">\"Divar kağızı Karuseli\"ni işə sal</string>
     <string name="new_feature_title">"Yeniliklər"</string>
+	<string name="nickname_talkback">Ləqəb</string>
     <string name="night">Axşam</string>
     <string name="no_networdk">"Şəbəkəyə bağlana bilmədi"</string>
     <string name="no_pic_data">"Şəkil tapıla bilmədi"</string>
     <string name="noon">Günorta</string>
     <string name="not_allowed">İcazə verilmədi</string>
     <string name="not_cancel_button">Xeyr</string>
+	<string name="not_logged_in_talkback">Daxil olunmayıb</string>
     <string name="not_revoke_button">İmtina</string>
     <string name="not_set">Ayarlanmadı</string>
+	<string name="not_subscribed_talkback">Abunə olunmayıb</string>
     <string name="ok_enable_network_prov2">Razıyam</string>
     <string name="ok_lockscreen">Razıyam</string>
     <string name="ok_network">Razıyam</string>
@@ -822,15 +845,24 @@ dd-MM"</string>
     <string name="subscribe_success_content_per_quarter">Divar kağızını hər 15 dəqiqədə bir dəyişdir</string>
     <string name="subscribe_success_content_per_three_hour">Divar kağızını hər 3 saatda bir dəyişdir</string>
     <string name="subscribe_success_content_per_unlock">Divar kağızını hər cihaz kilidlənəndə dəyişdir</string>
+	<string name="subscribe_talkback">Abunə ol</string>
     <string name="subscribe_update_time_setting">Fərqli bir interval ayarla</string>
+	<string name="subscribed_talkback">Abunə olundu</string>
     <string name="summary">"Onlayn məzmuna baxmaq üçün &lt;a href='%s'&gt;Gizlilik Siyasətimizi&lt;/a&gt; qəbul edin. Razı deyilsinizsə, yerli divar kağızları hələ də əlçatan olacaq."</string>
     <string name="summary3">"\"Divar kağızı Karuseli\"nə xoş gəldiniz! Burada sevimli divar kağızı kateqoriyalarına abunə ola və Kilid ekranınıza müntəzəm olaraq yeni şəkillər göndərə bilərsiniz. Bu tətbiq, normal işləməsi üçün internetə bağlanmalı və tələb olunan şəxsi məlumatları yığmalıdır.&lt;br&gt;Əlavə xidmətlər təqdim etmək üçün, bu cihazın anbarındakı elementlərə müraciət etmə və onları saxlama icazəsi istəyə bilərik.&lt;br&gt;Bir istifadəçi kimi hüquqlarınızı və məlumatlarınızı necə istifadə etdiyimizi tam anlamağınız üçün, tətbiqi istifadə etməzdən əvvəl &lt;font color ='#37A5FF'&gt;&lt;a href='%1$s'&gt;İstifadəçi Razılaşmamızı&lt;/font&gt;&lt;/a&gt; və &lt;font color ='#37A5FF'&gt;&lt;a href='%2$s'&gt;Gizlilik Siyasətimizi&lt;/font&gt;&lt;/a&gt; oxuyun və razılaşın."</string>
     <string name="summary4">"\"Divar kağızı Karuseli\"nə xoş gəldiniz! Burada sevimli divar kağızı kateqoriyalarına abunə ola və Kilid ekranınıza müntəzəm olaraq yeni şəkillər göndərə bilərsiniz. "</string>
     <string name="sunday">Bazar</string>
     <string name="sunday_short">Baz</string>
     <string name="sunday_shortest">Baz</string>
+	<string name="switch_action_talkback">Aç/bağla</string>
+    <string name="switch_button_talkback">Dəyişdir</string>
+    <string name="switch_disabled_talkback">Sıradan çıxarıldı</string>
+    <string name="switched_off_talkback">Söndürüldü</string>
+    <string name="switched_on_talkback">İşə salındı</string>
     <string name="system_default">İlkin</string>
     <string name="tb_collapse_desc">\"Paylaş\" menyusunu gizlət</string>
+	<string name="text_input_layout_default_content_description">这是默认的content description</string>
+    <string name="text_input_layout_default_error">这是默认的error</string>
     <string name="the_anniversary_of_lifting_martial_law">Hərbi Vəziyyətin Qaldırılma İldönümü</string>
     <string name="the_anti_aggression_day">Təcavüzlə Mübarizə Günü</string>
     <string name="the_arbor_day">Ağacəkmə Günü</string>
@@ -897,6 +929,7 @@ dd-MM"</string>
     <string name="tuesday">Çərşənbə axşamı</string>
     <string name="tuesday_short">Ç.a.</string>
     <string name="tuesday_shortest">Ç.a.</string>
+	<string name="unchecked_talkback">Söndürüldü</string>
     <string name="understand_band_story">Daha ətraflı</string>
     <string name="uninstall_introducation_text_desc">Divar kağızı Karuseli, yüksək keyfiyyətli şəkilləri birbaşa Kilid ekranınıza göndərir. Tətbiqi silməzdən əvvəl bu özəlliklər olmadan edə biləcəyinizə əmin olun.</string>
     <string name="uninstall_introduction_text_title">Divar kağızı Karuseli haqqında</string>
@@ -919,6 +952,7 @@ dd-MM"</string>
     <string name="wm_storage_used">"Tutulan: "</string>
     <string name="wp_desktop_enable_title">Əsas ekran slayd şousu</string>
     <string name="wp_lockscreen_enable_title">Kilid ekranı slayd şousu</string>
+	<string name="xiaomi_account_talkback">Xiaomi Hesabı</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">İndi yox</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Güncəllə</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Bir güncəlləmə var</string>

@@ -254,6 +254,7 @@ Hazırkı Xiaomi Hesabınızı, MIUI sistem hesabınız kimi istifadə etdiyiniz
     <string name="miuix_appcompat_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_select_all_description">Hamısını seç</string>
     <string name="miuix_appcompat_select_item">Elementləri seç</string>
+	<string name="miuix_appcompat_show_dialog_description">Açılan pəncərə</string>
     <string name="miuix_indexer_collect">Kolleksiyalar</string>
     <string name="miuix_indexer_selected">%s seçildi</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Təzələmək üçün aşağı çək</string>
@@ -517,6 +518,8 @@ Hazırkı Xiaomi Hesabınızı, MIUI sistem hesabınız kimi istifadə etdiyiniz
     <string name="talkback_previous_song">Əvvəlki mahnı</string>
     <string name="talkback_random_play">Qarışdır</string>
     <string name="talkback_single_play">Birini dövr etdir</string>
+	<string name="text_input_layout_default_content_description">这是默认的content description</string>
+    <string name="text_input_layout_default_error">这是默认的error</string>
     <string name="text_select_all">Hamısını seç</string>
     <string name="text_select_nothing">Heç birini seçmə</string>
     <string name="the_anniversary_of_lifting_martial_law">Hərbi Vəziyyətin Qaldırılma İldönümü</string>

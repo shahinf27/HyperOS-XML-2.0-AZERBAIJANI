@@ -239,6 +239,7 @@
     <string name="miuix_appcompat_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_select_all_description">Hamısını seç</string>
     <string name="miuix_appcompat_select_item">Elementləri seç</string>
+	<string name="miuix_appcompat_show_dialog_description">Açılan pəncərə</string>
     <string name="miuix_indexer_collect">Kolleksiyalar</string>
     <string name="miuix_indexer_selected">%s seçildi</string>
     <string name="miuix_item_view_role_description">Vərəq</string>
@@ -247,6 +248,7 @@
     <string name="miuix_navigator_content_switch_description">Yan çubuğu göstər</string>
     <string name="miuix_navigator_multiple_choice">Seç</string>
     <string name="miuix_navigator_navigator_switch_description">Yan çubuğu gizlət</string>
+	<string name="miuix_popup_window_default_title">Açılan pəncərə</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Təzələmək üçün aşağı çək</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Uğurla təzələndi</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Təzələnir…</string>
@@ -498,6 +500,8 @@
     <string name="system_permission_agree_desc">Bütün özəlliklərə müraciət etmək üçün bu tətbiqin internetə bağlanmasına icazə verin.</string>
     <string name="system_permission_main_purpose">Saata baxma, zəngli saatları və taymerləri qurma, saniyəölçəni istifadə etmə</string>
     <string name="temperature_unit">℃</string>
+    <string name="text_input_layout_default_content_description">这是默认的content description</string>
+    <string name="text_input_layout_default_error">这是默认的error</string>
     <string name="the_anniversary_of_lifting_martial_law">Hərbi Vəziyyətin Qaldırılma İl dönümü</string>
     <string name="the_anti_aggression_day">Təcavüzlə Mübarizə Günü</string>
     <string name="the_arbor_day">Ağacəkmə Günü</string>

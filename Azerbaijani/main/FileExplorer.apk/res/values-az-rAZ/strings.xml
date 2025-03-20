@@ -32,6 +32,9 @@
     <string name="afternoon">Günortadan sonra</string>
     <string name="aggree_desc">Bu tətbiqin internetə bağlanmasına icazə verin və yuxarıda siyahılanmış vacib icazələri verin.</string>
     <string name="agree">Razıyam</string>
+	<string name="ai_search_building_database">Daha dəqiq nəticələr təqdim etmək üçün fayllar təhlil edilir…</string>
+	<string name="ai_search_building_database_details">Detallara bax</string>
+    <string name="ai_search_building_database_pause">Daha dəqiq nəticələr təqdim etmək üçün fayllar cihazınızda təhlil ediləcək</string>
     <string name="ai_search_progress">Fayllar təhlil edilir… (%s)</string>
     <string name="ai_search_progress_tips">"Cihazınızı doldurma cihazına bağlı saxlayın. Bu, ekran sönülü olduqda faylları daha sürətli təhlil edəcək."</string>
     <string name="am">GƏ</string>
@@ -49,7 +52,7 @@
     <string name="app_name_miuiringtone">Zəng səsi</string>
     <string name="app_name_miuiwallpaper">Divar kağızları</string>
     <string name="app_name_recorder">Səsyazan</string>
-    <string name="app_name_screenshot">Ekran şəkilləri</string>
+    <string name="app_name_screenshot">Ekran şəkilləri və ekran yazıları</string>
     <string name="available_size">Mövcud: %s</string>
     <string name="big5_summary">Ənənəvi Çincə Windows ilkin kodlaşdırma</string>
     <string name="bottomsheet_action_collapse">Alt vərəqi yığcamlaşdır</string>
@@ -72,12 +75,12 @@
     <string name="cancel">İmtina</string>
     <string name="cancel_error">"Silinə bilmədi. Yenidən sınayın."</string>
     <string name="cancel_mi_drive">Mi Drive xidmətlərini ləğv et</string>
-    <string formatted="false" name="cancel_mi_drive_alert_description">Xidmətləri ləğv edə bilmək üçün bütün elementləri Mi Drive-dan təmizləyin. Elementləri təmizləmək üçün bu addımları izləyin:&lt;br /&gt;&lt;xliff:g id=cancel_mi_drive_alert_description_list_1 refersto=1&gt;%1d&lt;/xliff:g&gt;. Mi Drive başlanğıc səhifəsində, \"Hamısını seç\" düyməsinin görünməsi üçün bir elementə basılı tutun. Bir dəfəyə ən çox 200 faylı seçmək və silmək üçün bu düyməni istifadə edin.&lt;br /&gt;&lt;xliff:g id=cancel_mi_drive_alert_description_list_2 refersto=2&gt;%2d&lt;/xliff:g&gt;. Bundan sonra, təzəlikcə silinmiş elementləri təmizləyin.</string>
-    <string formatted="false" name="cancel_mi_drive_alert_reminder_card_summary">"&lt;xliff:g id=cancel_mi_drive_alert_reminder_card_summary_list_1 refersto=1&gt;%1d&lt;/xliff:g&gt;. Elementləri silməzdən əvvəl onları nüsxələməyinizi məsləhət görürük. Bunu etmək üçün i.mi.com ünvanına gedin, Mi Drive-a klikləyin, elementlərinizi bir kompüterə endirin.&lt;br /&gt;&lt;xliff:g id=cancel_mi_drive_alert_reminder_card_summary_list_2 refersto=2&gt;%2d&lt;/xliff:g&gt;. Yadda saxlayın ki, təzəlikcə silinmiş elementlər silindikdən sonra geri qaytarıla bilməz."</string>
+    <string formatted="false" name="cancel_mi_drive_alert_description">"Xidmətləri ləğv edə bilmək üçün bütün elementləri Mi Drive-dan təmizləyin. Elementləri təmizləmək üçün bu addımları izləyin:&lt;br /&gt;&lt;xliff:g id=cancel_mi_drive_alert_description_list_1 refersto=1&gt;%1d&lt;/xliff:g&gt;. Mi Drive başlanğıc səhifəsində, \"Hamısını seç\" düyməsinin görünməsi üçün bir elementə basılı tutun. Ən çox &lt;xliff:g id=delete_number refersto=200>%2d&lt;/xliff:g> faylı seçmək və silmək üçün bu düyməni istifadə edin. Əgər &lt;xliff:g id=delete_max refersto=200>%3d&lt;/xliff:g> üzərində fayl varsa, bu prosesi təkrarlayın.&lt;br />&lt;xliff:g id=cancel_mi_drive_alert_description_list_2 refersto=2>%4d&lt;/xliff:g>. Bütün elementləri sildikdən sonra, bütün faylları Təzəlikcə silinmiş elementlər qovluğundan təmizləyin."</string>.</string>
+    <string formatted="false" name="cancel_mi_drive_alert_reminder_card_summary">"&lt;xliff:g id=cancel_mi_drive_alert_reminder_card_summary_list_1 refersto=1&gt;%1d&lt;/xliff:g&gt;. Elementləri silməzdən əvvəl onları nüsxələməyinizi məsləhət görürük. Bunu etmək üçün i.mi.com ünvanına gedin, Mi Drive-a klikləyin, elementlərinizi bir kompüterə endirin.&lt;br /&gt;&lt;xliff:g id=cancel_mi_drive_alert_reminder_card_summary_list_2 refersto=2&gt;%2d&lt;/xliff:g&gt;. Lütfən yadda saxlayın ki, Təzəlikcə silinmiş elementlər qovluğunuzdan təmizlənmiş elementlər, daha sonra geri qaytarıla bilməz."</string>
     <string name="cancel_mi_drive_confirm_button">Xidmətlərdən imtina</string>
     <string name="cancel_mi_drive_confirm_description">"Davam etsəniz, Mi Drive xidmətlərini ləğv edəcəksiniz. Şəxsi məlumatların yığılmasını dayandıracağıq və artıq yığılmış və saxlanılmış şəxsi məlumatlar, əksi tələb olunmadığı müddətcə, müvafiq qanun və nizamlamalara uyğun olaraq müəyyən bir müddət ərzində silinəcəkdir."</string>
     <string name="cancel_mi_drive_confirm_hint">"Mi Drive xidmətlərinin ləğv edilməsi, digər Xiaomi məhsul və xidmətlərinin istifadəsinə təsir etməyəcək. Xiaomi Hesabınızı silmək istəyirsinizsə, &lt;font color=#0097FF&gt;&lt;a href=%1$s&gt;burada&lt;/a&gt;&lt;/font&gt; edə bilərsiniz."</string>
-    <string formatted="false" name="cancel_mi_drive_confirm_reminder_card_summary">&lt;font color=#F22424&gt;Xidmətlərin ləğv edilməsindən sonra aşağıdakı elementlər birdəfəlik silinəcək:&lt;/font&gt;&lt;br /&gt;&lt;xliff:g id=cancel_mi_drive_confirm_reminder_card_summary_list_1 refersto=1&gt;%1d&lt;/xliff:g&gt;. Sənədlər, şəxsi fayllar və silinmiş elementlər daxil olmaqla, lakin bununla məhdudlaşmayaraq, Mi Drive-dakı bütün elementlər.&lt;br /&gt;&lt;xliff:g id=cancel_mi_drive_confirm_reminder_card_summary_list_2 refersto=2&gt;%2d&lt;/xliff:g&gt;. Cihaz icazələri, ayarlar və digər keşlənmiş məzmunlar.&lt;br /&gt;&lt;xliff:g id=cancel_mi_drive_confirm_reminder_card_summary_list_3 refersto=3&gt;%3d&lt;/xliff:g&gt;. Mi Drive yükləmə və endirmə tarixçəsi.</string>
+    <string formatted="false" name="cancel_mi_drive_confirm_reminder_card_summary">&lt;font color=#F22424&gt;Xidmətlərin ləğv edilməsindən sonra aşağıdakı elementlər birdəfəlik silinəcək:&lt;/font&gt;&lt;br /&gt;&lt;xliff:g id=cancel_mi_drive_confirm_reminder_card_summary_list_1 refersto=1&gt;%1d&lt;/xliff:g&gt;. Sənədlər, şəxsi fayllar və Təzəlikcə silinmiş elementlər daxil olmaqla, lakin bununla məhdudlaşmayaraq, Mi Drive-dakı bütün elementlər.&lt;br /&gt;&lt;xliff:g id=cancel_mi_drive_confirm_reminder_card_summary_list_2 refersto=2&gt;%2d&lt;/xliff:g&gt;. Cihaz icazələri, ayarlar və digər keşlənmiş məzmunlar.&lt;br /&gt;&lt;xliff:g id=cancel_mi_drive_confirm_reminder_card_summary_list_3 refersto=3&gt;%3d&lt;/xliff:g&gt;. Mi Drive yükləmə və endirmə tarixçəsi.</string>
     <string name="cancel_mi_drive_privacy_revoked_retry">Mi Drive-ı işə salıb yenidən sınayın</string>
     <string name="cancel_mi_drive_success">Xidmətlər uğurla ləğv edildi</string>
     <string name="cancel_mi_drive_title">Xidmətlərdən imtina</string>
@@ -288,6 +291,7 @@ Faylları cihazınızdan Mi Drive-a daşımağa çalışın."</string>
     <string name="file_cloud_setting">Fayl ayarları</string>
     <string name="file_cloud_setting_item_view_message">iWork, Xmind və *.psd fayllarına onlayn bax</string>
     <string name="file_cloud_setting_item_view_title">Onlayn fayllar</string>
+	<string name="file_error_cannt_view">"Bir xəta baş verdi. Fayla baxıla bilmir."</string>
     <string name="file_info_canread">Oxuna bilən: </string>
     <string name="file_info_canwrite">Yazıla bilən: </string>
     <string name="file_info_ishidden">Gizli: </string>
@@ -318,10 +322,12 @@ Faylları cihazınızdan Mi Drive-a daşımağa çalışın."</string>
     <string name="friday_shortest">Cüm</string>
     <string name="ftp_account_req_notice">"İstifadəçi adı və parol %1$d–%2$d xarakterdən ibarət olmalıdır, böyük-kiçik hərfə həssasdır və xüsusi simvollar ehtiva etməməlidir."</string>
     <string name="ftp_anonymous_login">Anonim giriş</string>
+	<string name="ftp_anonymous_warning_confirm">İstifadə et</string>
     <string name="ftp_anonymous_warning_msg">Anonimləşdirmə özəllikləri güvənlik riskləri yarada bilər. Yenə də özəllik istifadə edilsin?</string>
     <string name="ftp_anonymous_warning_title">Diqqət</string>
     <string name="ftp_invalid_username">"İstifadəçi adında xüsusi xarakterlər olmamalıdır. Başqa bir ad daxil edin."</string>
     <string name="ftp_invalid_username_or_password">Daxil etdiyiniz istifadəçi adı və ya parol yararsızdır.</string>
+	<string name="ftp_login_confirm">Daxil ol</string>
     <string name="ftp_open_port_error">"Port açıla bilmədi. Şəbəkə bağlantınızı yoxlayın və ya port nömrəsini sıfırlayın."</string>
     <string name="ftp_password_hint">Parol</string>
     <string name="ftp_port_number">Port nömrəsi</string>
@@ -458,6 +464,7 @@ Faylları cihazınızdan Mi Drive-a daşımağa çalışın."</string>
     <string name="miuix_appcompat_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_select_all_description">Hamısını seç</string>
     <string name="miuix_appcompat_select_item">Elementləri seç</string>
+	<string name="miuix_appcompat_show_dialog_description">Açılan pəncərə</string>
     <string name="miuix_indexer_collect">Kolleksiyalar</string>
     <string name="miuix_indexer_selected">%s seçildi</string>
     <string name="miuix_item_view_role_description">Vərəq</string>
@@ -466,6 +473,7 @@ Faylları cihazınızdan Mi Drive-a daşımağa çalışın."</string>
     <string name="miuix_navigator_content_switch_description">Yan çubuğu göstər</string>
     <string name="miuix_navigator_multiple_choice">Seç</string>
     <string name="miuix_navigator_navigator_switch_description">Yan çubuğu gizlət</string>
+	<string name="miuix_popup_window_default_title">Açılan pəncərə</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Təzələmək üçün aşağı çək</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Uğurla təzələndi</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Təzələnir…</string>
@@ -593,6 +601,7 @@ Faylları cihazınızdan Mi Drive-a daşımağa çalışın."</string>
     <string name="operation_cache_use_data">Endir</string>
     <string name="operation_cache_use_free_network">Wi-Fi-ı gözləyin</string>
     <string name="operation_cancel">İmtina</string>
+	<string name="operation_check_cloud_space">Bax</string>
     <string name="operation_cloud_copy_to_local">Saxla…</string>
     <string name="operation_compress">Sıxışdır</string>
     <string name="operation_compressing">Sıxışdırılır…</string>
@@ -609,6 +618,7 @@ Faylları cihazınızdan Mi Drive-a daşımağa çalışın."</string>
     <string name="operation_decompressing">Arxivdən çıxarılır…</string>
     <string name="operation_del_fav">Sevimlilərdən silinir…</string>
     <string name="operation_delete">Sil</string>
+	<string name="operation_delete_cloud_upload_record">Ləğv et</string>
     <string name="operation_delete_confirm_dcim_message_folder">DCIM, Qalereya qovluğudur. Bu qovluğu silsəniz, içindəki bütün elementlər də Qalereyadan həmişəlik silinəcək. Yenə də bu qovluq silinsin?</string>
     <string name="operation_delete_confirm_message">Silinsin?</string>
     <string name="operation_delete_confirm_message_folder">"Bütün qovluq məzmunları silinəcək.
@@ -659,7 +669,7 @@ Faylları cihazınızdan Mi Drive-a daşımağa çalışın."</string>
     <string name="operation_upload_delete">Sil</string>
     <string name="operation_upload_err_file_not_found">"Deyəsən, bu fayl mövcud deyil."</string>
     <string name="operation_upload_err_file_size_zero">"Boş fayllar yüklənə bilmir."</string>
-    <string name="operation_upload_err_full_space">Bulud anbar sahəsi dolub. Daha çox element yükləyə bilmək üçün anbar planınızı yüksəldin.</string>
+    <string name="operation_upload_err_full_manage_space">"Bulud anbar sahəsi dolub. Anbar planınızı yüksəldin, ya da ehtiyacınız olmayan faylları silin. Bulud anbar sahənizi görmək və idarə etmək üçün \"Bax\" seçiminə, ya da bu yükləmə tapşırığını silmək üçün \"Ləğv et\" seçiminə toxunun."</string>
     <string name="operation_upload_err_illegal_char">Bu faylın adında dəstəklənməyən simvollar var.</string>
     <string name="operation_upload_err_larger_than_4g">"%d GB-dan böyük fayllar yüklənə bilmir."</string>
     <string name="operation_upload_err_not_support_overseas">Hal-hazırda yalnız Çin materikindəki istifadəçilər elementləri yükləyə bilər.</string>
@@ -668,6 +678,7 @@ Faylları cihazınızdan Mi Drive-a daşımağa çalışın."</string>
     <string name="operation_upload_retry">Yenidən sına</string>
     <string name="operation_upload_save_to_local">Saxla…</string>
     <string name="operation_upload_use_data">Yüklə</string>
+	<string name="otg_data_safely_exiting">Bir saniyə…</string>
     <string name="otg_data_transfer_success">Uğurla köçürüldü</string>
     <string name="otg_data_transferring">"Fayllar köçürülür… Xarici anbar bağlantısını kəsməyin."</string>
     <string name="overwrite_msg">\"%s\" artıq mövcuddur. Yeni faylla əvəz etmək üçün toxunun.</string>
@@ -728,11 +739,11 @@ Faylları cihazınızdan Mi Drive-a daşımağa çalışın."</string>
     <string name="privacy_policy">Gizlilik Siyasəti</string>
     <string name="privacy_policy_renew">Güncəllənmiş Gizlilik Siyasəti</string>
     <string name="privacy_policy_renew_content"><Data>\"Fayl Menecerinin &lt;a href=\"%1$s\"&gt;Gizlilik Siyasəti&lt;/a&gt; güncəlləndi. Bir istifadəçi kimi hüquqlarınızı və datanızı necə istifadə etdiyimizi tam anlamaq üçün, davam etməzdən əvvəl Gizlilik Siyasətinin yeni versiyasını oxuyun və razılaşın.\"</Data></string>
-    <string formatted="false" name="privacy_recall_alert_description">Razılığı geri götürə bilmək üçün bütün elementləri \"Mi Drive\"dan təmizləyin. Elementləri təmizləmək üçün bu addımları izləyin:&lt;br /&gt;&lt;xliff:g id=privacy_recall_alert_description_list_1 refersto=1&gt;%1d&lt;/xliff:g&gt;. Mi Drive başlanğıc səhifəsində, \"Hamısını seç\" düyməsinin görünməsi üçün bir elementə basılı tutun. Bir dəfəyə ən çox 200 faylı seçmək və silmək üçün bu düyməni istifadə edin.&lt;br /&gt;&lt;xliff:g id=privacy_recall_alert_description_list_2 refersto=2&gt;%2d&lt;/xliff:g&gt;. Bundan sonra, təzəlikcə silinmiş elementləri təmizləyin.</string>
-    <string formatted="false" name="privacy_recall_alert_reminder_card_summary">"&lt;xliff:g id=privacy_recall_alert_reminder_card_summary_list_1 refersto=1&gt;%1d&lt;/xliff:g&gt;. Elementləri silməzdən əvvəl onları nüsxələməyinizi məsləhət görürük. Bunu etmək üçün i.mi.com ünvanına gedin, Mi Drive-a klikləyin, elementlərinizi bir kompüterə endirin.&lt;br /&gt;&lt;xliff:g id=privacy_recall_alert_reminder_card_summary_list_2 refersto=2&gt;%2d&lt;/xliff:g&gt;. Yadda saxlayın ki, təzəlikcə silinmiş elementlər silindikdən sonra geri qaytarıla bilməz."</string>
+    <string formatted="false" name="privacy_recall_alert_description">Gizlilik Siyasətinə verdiyiniz razılığı geri götürə bilmək üçün bütün elementləri \"Mi Drive\"dan təmizləyin. Elementləri təmizləmək üçün bu addımları izləyin:&lt;br /&gt;&lt;xliff:g id=privacy_recall_alert_description_list_1 refersto=1&gt;%1d&lt;/xliff:g&gt;. Mi Drive başlanğıc səhifəsində, \"Hamısını seç\" düyməsinin görünməsi üçün bir elementə basılı tutun. Ən çox &lt;xliff:g id=delete_number refersto=200>%2d&lt;/xliff:g> faylı seçmək və silmək üçün bu düyməni istifadə edin. Əgər &lt;xliff:g id=delete_max refersto=200>%3d&lt;/xliff:g> üzərində fayl varsa, bu prosesi təkrarlayın.&lt;br />&lt;xliff:g id=cancel_mi_drive_alert_description_list_2 refersto=2>%4d&lt;/xliff:g>. Bundan sonra, Təzəlikcə silinmiş elementləri təmizləyin.</string>
+    <string formatted="false" name="privacy_recall_alert_reminder_card_summary">"&lt;xliff:g id=privacy_recall_alert_reminder_card_summary_list_1 refersto=1&gt;%1d&lt;/xliff:g&gt;. Elementləri silməzdən əvvəl onları nüsxələməyinizi məsləhət görürük. Bunu etmək üçün i.mi.com ünvanına gedin, Mi Drive-a klikləyin, elementlərinizi bir kompüterə endirin.&lt;br /&gt;&lt;xliff:g id=privacy_recall_alert_reminder_card_summary_list_2 refersto=2&gt;%2d&lt;/xliff:g&gt;. Lütfən yadda saxlayın ki, Təzəlikcə silinmiş elementlər qovluğunuzdan təmizlənmiş elementlər, daha sonra geri qaytarıla bilməz."</string>
     <string name="privacy_recall_confirm_button">Geri götür</string>
     <string name="privacy_recall_confirm_description">"Davam etsəniz, \"Fayl Meneceri\"nin Gizlilik Siyasətinə verdiyiniz razılığı geri götürəcəksiniz. Şəxsi məlumatların yığılmasını dayandıracağıq və artıq yığılmış və saxlanılmış şəxsi məlumatlar, əksi tələb olunmadığı müddətcə, müvafiq qanun və nizamlamalara uyğun olaraq müəyyən bir müddət ərzində silinəcəkdir."</string>
-    <string formatted="false" name="privacy_recall_confirm_reminder_card_summary">&lt;font color=#F22424&gt;Razılığın geri götürülməsindən sonra aşağıdakı elementlər birdəfəlik silinəcək:&lt;/font&gt;&lt;br /&gt;&lt;xliff:g id=privacy_recall_confirm_reminder_card_summary_list_1 refersto=1&gt;%1d&lt;/xliff:g&gt;. Sənədlər, şəxsi fayllar və silinmiş elementlər daxil olmaqla, lakin bununla məhdudlaşmayaraq, \"Mi Drive\"dakı bütün elementlər.&lt;br /&gt;&lt;xliff:g id=privacy_recall_confirm_reminder_card_summary_list_2 refersto=2&gt;%2d&lt;/xliff:g&gt;. Cihaz icazələri, ayarlar və digər keşlənmiş məzmunlar.&lt;br /&gt;&lt;xliff:g id=privacy_recall_confirm_reminder_card_summary_list_3 refersto=3&gt;%3d&lt;/xliff:g&gt;. Mi Drive yükləmə və endirmə tarixçəsi.</string>
+    <string formatted="false" name="privacy_recall_confirm_reminder_card_summary">&lt;font color=#F22424&gt;Razılığın geri götürülməsindən sonra aşağıdakı elementlər birdəfəlik silinəcək:&lt;/font&gt;&lt;br /&gt;&lt;xliff:g id=privacy_recall_confirm_reminder_card_summary_list_1 refersto=1&gt;%1d&lt;/xliff:g&gt;. Sənədlər, şəxsi fayllar və Təzəlikcə silinmiş elementlər daxil olmaqla, lakin bununla məhdudlaşmayaraq, \"Mi Drive\"dakı bütün elementlər.&lt;br /&gt;&lt;xliff:g id=privacy_recall_confirm_reminder_card_summary_list_2 refersto=2&gt;%2d&lt;/xliff:g&gt;. Cihaz icazələri, ayarlar və digər keşlənmiş məzmunlar.&lt;br /&gt;&lt;xliff:g id=privacy_recall_confirm_reminder_card_summary_list_3 refersto=3&gt;%3d&lt;/xliff:g&gt;. Mi Drive yükləmə və endirmə tarixçəsi.</string>
     <string name="privacy_recall_success">Razılıq uğurla geri götürüldü</string>
     <string name="privacy_recall_title">Razılığın geri götürülməsi</string>
     <string name="privacy_recalling">Razılıq geri götürülür…</string>
@@ -882,6 +893,8 @@ Faylları cihazınızdan Mi Drive-a daşımağa çalışın."</string>
     <string name="tab_local">YERLİ</string>
     <string name="tab_more">Daha çox</string>
     <string name="tab_source">Tətbiqlər</string>
+	<string name="text_input_layout_default_content_description">这是默认的content description</string>
+    <string name="text_input_layout_default_error">这是默认的error</string>
     <string name="text_select_all">Hamısını seç</string>
     <string name="text_select_nothing">Heç birini seçmə</string>
     <string name="the_anniversary_of_lifting_martial_law">Hərbi Vəziyyətin Qaldırılma İldönümü</string>
@@ -964,6 +977,7 @@ Faylları cihazınızdan Mi Drive-a daşımağa çalışın."</string>
     <string name="v7_preference_on">AÇIQ</string>
     <string name="video_data_consume_dialog_confirm">Davam</string>
     <string name="video_data_consume_dialog_title">Mobil internet istifadə edilsin?</string>
+	<string name="view_decompress_files">Bax</string>
     <string name="view_mode_grid">Dama</string>
     <string name="view_mode_list">Siyahı</string>
     <string name="view_type">Bax</string>

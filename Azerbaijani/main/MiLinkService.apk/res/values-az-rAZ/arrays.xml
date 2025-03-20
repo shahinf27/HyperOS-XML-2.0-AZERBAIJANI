@@ -44,7 +44,7 @@
     </string-array>
     <string-array name="settings_search_relay_network">
         <item>Şəbəkə köməyi</item>
-        <item>Ara bağlantı/Şəbəkə yardımı</item>
+        <item>Ara bağlantı/Şəbəkə köməyi</item>
         <item>Şəbəkə köməyi, internet paylaşımı, hotspot paylaşımı</item>
     </string-array>
     <string-array name="settings_search_relay_network_2">

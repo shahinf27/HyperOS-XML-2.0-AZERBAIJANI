@@ -40,6 +40,7 @@
     <string name="afternoon">Günortadan sonra</string>
     <string name="aiSearch_buildDB_dialog_analysis_completed_progress">%1$s tamamlandı</string>
 	<string name="aiSearch_buildDB_dialog_analysis_completed_progress_stop">%1$s təhlili tamamlandı və indi fasilə verildi</string>
+	<string name="aiSearch_buildDB_dialog_analysis_notice_five">Cihaz soyuduqda və yetərli enerjiyə sahib olduqda təhlil davam etdiriləcək</string>
     <string name="aiSearch_buildDB_dialog_analysis_notice_four">Bu proses, cihaz soyuduqda və yetərli enerjiyə sahib olduqda başlayacaq</string>
     <string name="aiSearch_buildDB_dialog_analysis_notice_one">Bu proses zamanı cihazınız isinə və bir az artıq enerji sərf edə bilər</string>
     <string name="aiSearch_buildDB_dialog_analysis_notice_three">Təhlil prosesi sabah cihazınızın doldurularkən və soyuyarkən davam edəcək</string>
@@ -73,6 +74,8 @@
     <string name="aiSearch_buildDB_dialog_notice_window_two">AI axtarış təhlilinə fasilə verildi</string>
     <string name="aiSearch_buildDB_dialog_secondary_confirmation_remarks">Daha sürətli təhlil üçün cihazınızı doldurun və ekranı söndürün</string>
     <string name="aiSearch_buildDB_dialog_secondary_confirmation_title">İndi başladılsın?</string>
+	<string name="aiSearch_buildDB_dialog_secondary_tmp_confirmation_remarks">Önplanda çalışan tətbiqlər təhlil sürətinə təsir edir. Daha sürətli təhlil üçün cihazınızı ekranı sönülü halda doldurun.</string>
+    <string name="aiSearch_buildDB_dialog_secondary_tmp_confirmation_remarks_zh">Önplanda çalışan tətbiqlər təhlil sürətinə təsir edir. Daha sürətli təhlil üçün cihazınızı ekranı sönülü halda doldurun.</string>
     <string name="aiSearch_buildDB_dialog_sms_search_title">Mesajlaşma AI axtarışı</string>
     <string name="aiSearch_buildDB_dialog_soundrecord_search_title">Səsyazan AI axtarışı</string>
     <string name="aiSearch_enhance_setting_analysis_one">Daha dəqiq nəticələri təqdim etmək üçün elementlərin təhlili</string>
@@ -94,6 +97,12 @@
     <string name="aiSearch_privacy_dialog_permission_desc_user_notice_hyper">Xiaomi HyperAI Engine, bəzi tətbiqlər üçün təbii dil axtarışı bacarıqlarını təmin edir. Bu özəllikləri istifadə edə bilmək üçün Xiaomi HyperAI Engine Gizlilik Siyasəti ilə razılaşın.</string>
     <string name="aiSearch_privacy_dialog_permission_title_data_to_cloud">Fərdi dataları buluda yüklə</string>
     <string name="aiSearch_privacy_dialog_permission_title_user_notice">Şərtlər və qaydalar</string>
+	<string name="aiSearch_support_service_connect">Windows ilə əlaqələndir</string>
+    <string name="aiSearch_support_service_connect_computer">Daha dəqiq nəticələr əldə etmək üçün bir kompüterə bağlanın və AI Axtarışı istifadə edin</string>
+    <string name="aiSearch_support_service_search">Axtar</string>
+    <string name="aiSearch_support_service_search_aiSearch">Daha dəqiq nəticələr üçün AI ilə axtar</string>
+    <string name="aiSearch_support_service_search_aiSearch_global">Daha dəqiq nəticələr üçün AI ilə axtar</string>
+    <string name="aiSearch_support_service_search_global">Tətbiq tapıcı</string>
     <string name="aireco_comm_reject">İndi yox</string>
     <string name="aireco_comm_to_setting">Ayarlar</string>
     <string name="aireco_intent_dialog_app_update_button_no">İndi yox</string>
@@ -198,7 +207,8 @@
     <string name="cognition_os2_permission_cta_desc_aiSearch">Xiaomi HyperAI axtarışı</string>
     <string name="cognition_os2_permission_cta_desc_computingSharing">Hesablama dəstəyi</string>
     <string name="cognition_os2_permission_cta_desc_title">Xiaomi HyperAI Engine, aşağıdakı xidmətlər üçün səhnə tanıma və ağıllı kontrollar təqdim etmək məqsədilə cihazınızdakı istifadə davranışlarını əldə edən və təhlil edən bir sistem bacarıq mərkəzidir: %1$s.</string>
-    <string name="cognition_os2_permission_default_desc_appList">Super Mi AI-ın Tətbiq Fəaliyyətləri dəstəyini əldə etməsinə icazə vermək üçün</string>
+    <string name="cognition_os2_permission_cta_desc_xiaoaiPlus">Xiaomi Hyper XiaoAi</string>
+	<string name="cognition_os2_permission_default_desc_appList">Xiaomi Hyper XiaoAi-ın Tətbiq Fəaliyyətləri dəstəyini əldə etməsinə icazə vermək üçün</string>
     <string name="cognition_os2_permission_default_desc_calendar">Proaktiv Zəka vasitəsilə tədbir xatırladıcılarını təqdim etmək üçün</string>
     <string name="cognition_os2_permission_default_desc_context">"Ətraf mühiti dərk etmək üçün;Xiaomi Hyper AI axtarış indeksini qurmaq üçün;Zəng statusunu qiymətləndirmək üçün;Oyanıq və ya yatmış olduğunuzu müəyyən etmək üçün;Xiaomi Hyper AI axtarış indeksini qurmaq üçün;Xiaomi Hyper AI axtarış indeksini qurmaq üçün;Xiaomi Hyper AI axtarış indeksini qurmaq üçün;Xiaomi Hyper AI axtarış indeksini qurmaq üçün;Super Mi AI-ın Tətbiq Fəaliyyəti dəstəyini əldə etməsi üçün;Proaktiv Zəka vasitəsilə tədbir xatırladıcısını təmin etmək üçün"</string>
     <string name="cognition_os2_permission_default_desc_location">Ətraf mühiti dərk etmək üçün</string>
@@ -379,9 +389,12 @@
     <string name="dist_compute_ai_writing_content">Daha yüksək hesablama gücünə malik cihazların dəstəyi ilə AI yazınızı cilalayın</string>
     <string name="dist_compute_ai_writing_title">AI yazma</string>
     <string name="dist_compute_cancel">İmtina</string>
+	<string name="dist_compute_download_again_reminder">"Model endirilə bilmədi. Yenidən sınayın."</string>
     <string name="dist_compute_download_guidance_content">Hesablama dəstəyini istifadə edə bilmək üçün lazımi böyük modelləri cihazınıza endirin. İndi endirilsin?</string>
     <string name="dist_compute_download_guidance_title">Böyük modeli endir</string>
     <string name="dist_compute_download_now">Endir</string>
+	<string name="dist_compute_download_reminder_content">Bu özəlliyi istifadə edə bilmək üçün böyük modeli cihazda quraşdırın. İndi quraşdırılsın?</string>
+    <string name="dist_compute_download_reminder_title">Böyük modeli cihazda quraşdır</string>
     <string name="dist_compute_pad_already_connected">Bağlantılıdır: %1$s</string>
     <string name="dist_compute_pad_button_neutral">Anladım</string>
     <string name="dist_compute_pad_notification_content">Yaxınlıqdakı cihazların dəstəyi ilə AI özəlliklərini gücləndir</string>
@@ -413,8 +426,6 @@
     <string name="evening">Günortadan sonra</string>
     <string name="expand_button_title">Qabaqcıl</string>
     <string name="exposed_dropdown_menu_content_description">Açılan menyunu göstər</string>
-    <string name="facebook_application_id"></string>
-    <string name="fcm_fallback_notification_channel_label">Müxtəlif</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
     <string name="fmt_date_numeric_month_day">d-M</string>
@@ -424,9 +435,9 @@
     <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
     <string name="focus_alread_arrive">Çatıb</string>
     <string name="focus_data_error">nəzərdə tutulan datanı tapa bilmir</string>
-    <string name="focus_hypermind_operation_metro_info">%1$s stansiyasına çatmısınız, stansiyaya daxil olmaq və stansiyanı tərk etmək üçün minmə kodunuzu aça bilərsiniz.</string>
     <string name="focus_hypermind_operation_success">uğurlu</string>
     <string name="focus_metro_code">Minmə kodu</string>
+	<string name="focus_metro_info">%1$s stansiyasına çatmısınız, stansiyaya daxil olmaq və stansiyanı tərk etmək üçün minmə kodunuzu aça bilərsiniz.</string>
     <string name="focus_network_error">Şəbəkə xətası</string>
     <string name="focus_operate_failed">Nəsə səhv getdi</string>
     <string name="focus_operate_hm_code_1">Digər tərəf emal olundu</string>
@@ -442,6 +453,8 @@
     <string name="focus_prepare_car_time_out">İcra olundu. Nəticəni Xiaomi EV tətbiqində görün.</string>
     <string name="focus_proactive_intelligence">Proaktiv Zəka</string>
     <string name="focus_super_va">超级小爱</string>
+	<string name="focus_take_medicine_done">Hazırdır</string>
+    <string name="focus_take_medicine_igonore">Yox sayıldı</string>
     <string name="focus_weather_button">Səyahət seçimlərinə bax</string>
     <string name="focus_weather_context">%1$s - %2$s başlayır</string>
     <string name="focus_weather_title">Gediş-gəliş zamanı %1$s var, erkən tərk etmək tövsiyə olunur, yağış geyimi götürməyi unutmayın və səyahət zamanı təhlükəsizliyə diqqət edin</string>
@@ -508,8 +521,10 @@
     <string name="miuix_appcompat_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_select_all_description">Hamısını seç</string>
     <string name="miuix_appcompat_select_item">Elementləri seç</string>
+	<string name="miuix_appcompat_show_dialog_description">Açılan pəncərə</string>
     <string name="miuix_indexer_collect">Kolleksiyalar</string>
     <string name="miuix_indexer_selected">%s seçildi</string>
+	<string name="miuix_popup_window_default_title">Açılan pəncərə</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Təzələmək üçün aşağı çək</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Uğurla təzələndi</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Təzələnir…</string>
@@ -631,7 +646,7 @@
     <string name="passport_account_secure_info_pref_title">Hesab məlumatları</string>
     <string name="passport_account_security_info_pref_title">Güvənlik məlumatları</string>
     <string name="passport_account_user_avatar">Profil fotosu</string>
-    <string name="passport_account_user_avatar_from_album">Qalereya</string>
+    <string name="passport_account_user_avatar_from_album">Qalereyadan seç</string>
     <string name="passport_account_user_avatar_from_camera">Kamera</string>
     <string name="passport_account_user_base_info">Təməl məlumatlar</string>
     <string name="passport_account_user_details">Şəxsi məlumatlar</string>
@@ -737,7 +752,8 @@
     <string name="passport_request_error_invalid_token">"Doğrulana bilmədi"</string>
     <string name="passport_request_error_network">Bir şəbəkə xətası baş verdi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın.</string>
     <string name="passport_request_error_unknown">Sistem xətası baş verdi. Geri qayıdın və yenidən sınayın.</string>
-    <string name="passport_request_gallery_permission_message">Qalereyaya müraciətə icazə verin:&lt;br /&gt;Profil fotosunu ayarlamaq üçün</string>
+    <string name="passport_request_gallery_permission_message">Bu tətbiq, profil fotolarınızı ayarlaya bilmək üçün seçilmiş Qalereya elementlərinə müraciət etməlidir. İndi icazə verilsin?</string>
+    <string name="passport_request_permission_title">İcazələr tələb olunur</string>
     <string name="passport_resend_email_reach_limit_message">"Həddən artıq doğrulama e-poçtu tələb etdiniz. Doğrulama e-poçtunun gələn qutunuzun Spam qovluğunda olmadığına əmin olun."</string>
     <string name="passport_resend_email_reach_limit_title">Həddindən artıq cəhd</string>
     <string name="passport_resend_ticket">Kodu yenidən göndər</string>
@@ -756,6 +772,7 @@
     <string name="passport_talkback_switch_image_captcha">Şəkil doğrulama koduna keç</string>
     <string name="passport_talkback_switch_voice_captcha">Səsli doğrulama koduna keç</string>
     <string name="passport_talkback_voice_captcha">Səsli doğrulama kodunu oxut</string>
+	<string name="passport_third_sns_service_unavailable">"Xidmət əlçatmazdır. Əmin olun ki, tətbiq quraşdırılıb və əngəllənməyib."</string>
     <string name="passport_ticket_send_by_second">%d sonra göndər</string>
     <string name="passport_to_forget_password">Parolu unutdunuz?</string>
     <string name="passport_to_password_login">Parol istifadə edərək daxil ol</string>
@@ -910,6 +927,8 @@ Gizliliyinizə əhəmiyyət veririk. Bütün məlumatlar anonimləşdirilir. Xia
     <string name="sunday">Bazar</string>
     <string name="sunday_short">Baz</string>
     <string name="sunday_shortest">Baz</string>
+	<string name="text_input_layout_default_content_description">这是默认的content description</string>
+    <string name="text_input_layout_default_error">这是默认的error</string>
     <string name="the_anniversary_of_lifting_martial_law">Hərbi Vəziyyətin Qaldırılma İldönümü</string>
     <string name="the_anti_aggression_day">Təcavüzlə Mübarizə Günü</string>
     <string name="the_arbor_day">Ağacəkmə Günü</string>

@@ -637,6 +637,7 @@
     <string name="miuix_appcompat_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_select_all_description">Hamısını seç</string>
     <string name="miuix_appcompat_select_item">Elementləri seç</string>
+	<string name="miuix_appcompat_show_dialog_description">Açılan pəncərə</string>
     <string name="miuix_indexer_collect">Kolleksiyalar</string>
     <string name="miuix_indexer_selected">%s seçildi</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Təzələmək üçün aşağı çək</string>
@@ -858,6 +859,7 @@ Təkrar onlayn olduğunuz zaman daha çoxunu paylaşacağıq."</string>
     <string name="pref_title_clean_alert">Təmizləməni xatırlat</string>
     <string name="pref_title_cleanup_white_list">İstisnalar</string>
     <string name="pref_title_create_onekeyclean_shortcut">Əsas ekran qısayolunu göstər</string>
+	<string name="pref_title_engine">Tərifləri skan et</string>
     <string name="pref_title_expand_cache_group">Keşlənmiş elementləri göstər</string>
     <string name="pref_title_garbage_cleanup_check_size">Tullantı ölçüsü limiti</string>
     <string name="pref_title_garbage_cleanup_check_time">Cədvəl</string>
@@ -955,6 +957,8 @@ Təkrar onlayn olduğunuz zaman daha çoxunu paylaşacağıq."</string>
     <string name="sunday_short">Baz</string>
     <string name="sunday_shortest">Baz</string>
     <string name="sys_cache_on_sdcard_item_name">Keş</string>
+	<string name="text_input_layout_default_content_description">这是默认的content description</string>
+    <string name="text_input_layout_default_error">这是默认的error</string>
     <string name="the_anniversary_of_lifting_martial_law">Hərbi Vəziyyətin Qaldırılma İldönümü</string>
     <string name="the_anti_aggression_day">Təcavüzlə Mübarizə Günü</string>
     <string name="the_arbor_day">Ağacəkmə Günü</string>
