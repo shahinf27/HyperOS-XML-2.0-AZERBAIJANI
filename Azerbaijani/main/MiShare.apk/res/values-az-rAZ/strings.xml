@@ -359,7 +359,7 @@ Digər istehsalçılardan Android cihazları: vivo, realme, OPPO, Black Shark, M
     <string name="sunday_short">Baz</string>
     <string name="sunday_shortest">Baz</string>
     <string name="support_device_type">Dəstəklənən cihazlar</string>
-    <string name="switch_mode_all">Hər kəsdən (%dm üçün)</string>
+    <string name="switch_mode_all">Hər kəsdən (%d dəq)</string>
     <string name="switch_mode_close">Bağlı</string>
     <string name="switch_mode_sameaccount">Bu hesabdan</string>
     <string name="the_anniversary_of_lifting_martial_law">Hərbi Vəziyyətin Qaldırılma İldönümü</string>

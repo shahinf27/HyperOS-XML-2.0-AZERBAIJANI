@@ -65,6 +65,7 @@ dd-MM"</string>
     <string name="aod_mode_time_summary">Həmişə açıq rejiminin açılıb bağlanma vaxtını planlaşdırın</string>
     <string name="aod_mode_time_title">Cədvəl</string>
     <string name="aod_mode_title">Həmişə açıq ekran</string>
+	<string name="aod_multi_window_not_support">"Bu əməliyyat Bölünmüş ekranda dəstəklənmir"</string>
     <string name="aod_notification_use_app_icon">Bildirişlər üçün tətbiq ikonlarını istifadə et</string>
     <string name="aod_preview_title">Önizləmə</string>
     <string name="aod_resting_screen_define">Özəl</string>
@@ -260,7 +261,7 @@ dd-MM"</string>
     <string name="kg_dialog_apply_not_support_super_wallpaper_confirm">"Bu Kilid ekranı Super divar kağızlarını dəstəkləmir. Davam etsəniz, həm Əsas, həm də Kilid ekranlarınızdakı divar kağızları əvəzlənəcək. Yenə də davam edilsin?"</string>
 	<string name="kg_dialog_apply_successful">Uğurla tətbiq olundu</string>
     <string name="kg_dialog_apply_super_wallpaper_confirm">"Hazırda Super divar kağızı istifadə edirsiniz. Davam etsəniz, həm Əsas, həm də Kilid ekranınız yeni bir divar kağız ilə əvəz olunacaq. Yenə də davam edilsin?"</string>
-    <string name="kg_dialog_apply_super_wallpaper_negative_button">İmtina</string>
+	<string name="kg_dialog_apply_super_wallpaper_negative_button">İmtina</string>
     <string name="kg_dialog_apply_super_wallpaper_positive_button">Oldu</string>
 	<string name="kg_dialog_enable_depth_function">Əvvəlcə dərinlik effektini işə sal</string>
     <string name="kg_dialog_fashion_gallery_button_abandon">Ləğv et</string>
@@ -276,6 +277,7 @@ dd-MM"</string>
     <string name="kg_doodle_primary_label">Qaralamalar</string>
     <string name="kg_doodle_secondary_disable_tip">Dərinlik effektini işə sal</string>
     <string name="kg_doodle_secondary_label">Arxaplan</string>
+	<string name="kg_doodle_text_not_support_clock_tip">"Bu saatı istifadə edərkən qaralamalar istifadə oluna bilmir"</string>
     <string name="kg_doodle_text_not_support_gallery_tip">"Divar kağızı Karuseli qaralamaları dəstəklənmir"</string>
     <string name="kg_doodle_text_not_support_third_party_wallpaper_service_tip">"Üçüncü tərəf divar kağızları qaralamaları dəstəkləmir"</string>
     <string name="kg_doodle_text_not_support_wallpaper_tip">"Bu divar kağızı qaralamaları dəstəklənmir"</string>
@@ -288,6 +290,7 @@ dd-MM"</string>
     <string name="kg_effects_tip_not_support_third_party_wallpaper_service">"Üçüncü tərəf divar kağızları effektləri dəstəkləmir"</string>
     <string name="kg_effects_tip_title">Sahənin dərinliyi və filtrlər</string>
     <string name="kg_enable_blur">Mat effekti</string>
+	<string name="kg_exit">Çıx</string>
     <string name="kg_font_filter_classic_primary_label">Əsas</string>
     <string name="kg_font_filter_classic_secondary_label">İkinci</string>
     <string name="kg_font_filter_doodle_primary_label">Qaralama</string>
@@ -320,6 +323,7 @@ dd-MM"</string>
     <string name="kg_function_button_text_hierarchy">Dərinlik</string>
     <string name="kg_function_button_text_lang">Dil</string>
     <string name="kg_function_button_text_wallpaper">Divar kağızı</string>
+	<string name="kg_gallery_reset_magic_type_tips">"Divar kağızı slayd şousu istifadə edilərkən effektlər ayarlana bilmir. Orijinal təsvir bərpa olundu."</string>
     <string name="kg_glass_filter_on_time">Saata tətbiq et</string>
     <string name="kg_guidance_dialog_positive_button_text_next_step">Növbəti</string>
     <string name="kg_guidance_dialog_positive_button_text_start">Başla</string>
@@ -333,6 +337,7 @@ dd-MM"</string>
     <string name="kg_hierarchy_not_support_wallpaper_tip">"Bu divar kağızı dərinlik effektini dəstəkləmir"</string>
     <string name="kg_hierarchy_switch_label">Dərinlik effekti</string>
     <string name="kg_line_spacing">Xətt boşluğu</string>
+	<string name="kg_live_photo_land_tips">Üfüqi Canlı fotolar yalnız statik foto kimi ayarlana bilər</string>
     <string name="kg_magazine_a_b_primary_color_label">Saat</string>
     <string name="kg_magazine_a_b_secondary_color_label">İmza</string>
     <string name="kg_magazine_c_primary_color_label">Digər mətn</string>
@@ -373,6 +378,7 @@ dd-MM"</string>
     <string name="kg_title_fonts_and_content">Şrift və məzmun</string>
     <string name="kg_title_name">Şrift</string>
     <string name="kg_typesetting_string">Üslub</string>
+	<string name="kg_wallpaper_blur_effect">Bulanıq divar kağızı</string>
     <string name="kg_wallpaper_filter_title">Divar kağızı effektləri</string>
     <string name="kg_wallpaper_filter_type_crystallized">Kristallar</string>
     <string name="kg_wallpaper_filter_type_focus">Fokus</string>
@@ -384,6 +390,8 @@ dd-MM"</string>
     <string name="kg_wallpaper_filter_type_striped_lens">Linzalar</string>
     <string name="kg_wallpaper_filter_type_water">Su</string>
     <string name="kg_wallpaper_scale_hint_text">Qayçılamaq üçün çimdiklə</string>
+	<string name="kg_wallpaper_scroll_type_disable_tips">"Bu divar kağızı üçün sürüşdürmə işə salına bilmir"</string>
+    <string name="kg_wallpaper_scroll_type_tips">Divar kağızı sürüşdürmə</string>
     <string name="kg_word_spacing">Xarakter boşluğu</string>
     <string name="large_time">Böyük saat</string>
     <string name="letter_space">Hərf boşluğu</string>
@@ -487,8 +495,10 @@ M"</string>
     <string name="miuix_appcompat_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_select_all_description">Hamısını seç</string>
     <string name="miuix_appcompat_select_item">Elementləri seç</string>
+	<string name="miuix_appcompat_show_dialog_description">Açılan pəncərə</string>
     <string name="miuix_indexer_collect">Kolleksiyalar</string>
     <string name="miuix_indexer_selected">%s seçildi</string>
+	<string name="miuix_popup_window_default_title">Açılan pəncərə</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Təzələmək üçün aşağı çək</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Uğurla təzələndi</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Təzələnir…</string>
@@ -679,6 +689,8 @@ dd-M"</string>
     <string name="temporary_style_5">Toxunduqdan sonra 5 saniyə ərzində</string>
     <string name="temporary_style_summary">Tövsiyə edilən</string>
     <string name="text_color">Mətn rəngi</string>
+	<string name="text_input_layout_default_content_description">这是默认的content description</string>
+    <string name="text_input_layout_default_error">这是默认的error</string>
     <string name="text_length_exceed_limit_alert">* Daxil etdiyiniz mətn çox uzundur</string>
     <string name="text_size">Mətn ölçüsü</string>
     <string name="the_anniversary_of_lifting_martial_law">Hərbi Vəziyyətin Qaldırılma İldönümü</string>
