@@ -1073,9 +1073,7 @@ mövcuddur"</string>
     <string name="grant_permission_shortcut">Əvvəlcə bu tətbiqin Əsas ekran qısayolları yaratmasına icazə verin.</string>
     <string name="grant_permission_storage">Əvvəlcə bu tətbiqin anbara müraciətinə icazə verin.</string>
     <string name="grant_permission_storage_unlock">Cihazınızın kilidiin açın və əvvəlcə bu tətbiqin anbara müraciətinə icazə verin.</string>
-    <string name="grant_permission_text">"Qalereyanın normal işləməsi üçün 
-%s
- müraciətinə ehtiyacı var, İcazələrə getmək üçün \"Ayarla\"ya toxunun."</string>
+    <string name="grant_permission_text">Qalereyanın cihazınızdakı bütün foto və videolara müraciət etməsinə icazə verin. Bu icazəni Ayarlarda verə bilərsiniz.</string>
     <string name="grant_permission_title">Müraciətə icazə ver</string>
     <string name="grant_permission_unlock_and_set">Kilidi aç və ayarla</string>
     <string name="grant_permission_unlock_and_set_2">Kilidi aç</string>

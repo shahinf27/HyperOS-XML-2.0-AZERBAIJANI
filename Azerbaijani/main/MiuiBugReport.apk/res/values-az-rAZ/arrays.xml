@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>Kişi</item>
+        <item>Qadın</item>
+    </string-array>
+    <string-array name="net_diag_err_link_quality">
+        <item>Zəif Wi-Fi bağlantısı. Naqilsiz bantları dəyişdirin və ya ruteri yenidən başladın.</item>
+        <item>"Şəbəkəyə müraciət edilə bilmir. Wi-Fi-a yenidən bağlanın və ya ruteri yenidən başladın."</item>
+    </string-array>
+    <string-array name="net_diag_err_link_quality_china">
+        <item>Zəif Wi-Fi bağlantısı. Naqilsiz bantları dəyişdirin və ya ruteri yenidən başladın.</item>
+        <item>"Şəbəkəyə müraciət edilə bilmir. Wi-Fi-a yenidən bağlanın və ya ruteri yenidən başladın."</item>
+    </string-array>
+    <string-array name="net_diag_err_network_connectivity">
+        <item>Şəbəkəyə müraciət üçün kimlik doğrulama tələb olunur</item>
+        <item>"Şəbəkəyə müraciət məhdudlaşdırıldı. Bu cihazda vaxtı ayarlayın və ruterin şəbəkə ayarlarını yoxlayın."</item>
+        <item>Şəbəkə xətası. HTTP proksi ayarlarını yoxlayın.</item>
+        <item>Şəbəkə xətası. Ruterin interneti müraciət edib-edə bilmədiyini yoxlayın.</item>
+        <item>"Şəbəkəyə müraciət edilə bilmir. Wi-Fi-a yenidən bağlanın və ya ruteri yenidən başladın."</item>
+    </string-array>
+    <string-array name="net_diag_err_network_connectivity_china">
+        <item>Şəbəkəyə müraciət üçün kimlik doğrulama tələb olunur</item>
+        <item>"Şəbəkəyə müraciət məhdudlaşdırıldı. Bu cihazda vaxtı ayarlayın və ruterin şəbəkə ayarlarını yoxlayın."</item>
+        <item>Şəbəkə xətası. HTTP proksi ayarlarını yoxlayın.</item>
+        <item>Şəbəkə xətası. Ruterin interneti müraciət edib-edə bilmədiyini yoxlayın.</item>
+        <item>"Şəbəkəyə bağlana bilmir. Wi-Fi-a yenidən bağlanın və ya ruteri yenidən başladın."</item>
+    </string-array>
+    <string-array name="net_diag_err_network_dns">
+        <item>"DNS server xətası. Ruterin DNS konfiqurasiyasını yoxlayın."</item>
+        <item>"DNS serverindən böyük gecikmələr. Ruterin DNS konfiqurasiyasını yoxlayın."</item>
+        <item>"Şəbəkəyə müraciət edilə bilmir. Wi-Fi-a yenidən bağlanın və ya ruteri yenidən başladın."</item>
+    </string-array>
+    <string-array name="net_diag_err_network_dns_china">
+        <item>"DNS server xətası. Ruterin DNS konfiqurasiyasını yoxlayın."</item>
+        <item>"DNS serverindən böyük gecikmələr. Ruterin DNS konfiqurasiyasını yoxlayın."</item>
+        <item>"Şəbəkə keçidinə müraciət edilə bilmir. Wi-Fi-a yenidən bağlanın və ya ruteri yenidən başladın."</item>
+    </string-array>
+    <string-array name="net_diag_err_network_latency">
+        <item>Yerli şəbəkədən böyük gecikmələr. Ruteri yenidən başladın və ya başqa bir şəbəkəyə bağlanın.</item>
+        <item>İnternetdən böyük gecikmələr. Operatorun şəbəkə ayarlarını yoxlayın və ya başqa bir şəbəkəyə bağlanın.</item>
+    </string-array>
+    <string-array name="net_diag_err_network_parameters">
+        <item>Statik IP-dən DHCP-yə keçid</item>
+    </string-array>
+    <string-array name="net_diag_err_network_protocol">
+        <item>Şəbəkə protokolu xətası. Wi-Fi-a yenidən bağlanın və ya cihazı yenidən başladın.</item>
+    </string-array>
+    <string-array name="net_diag_err_network_protocol_china">
+        <item>Şəbəkə protokolu xətası. Wi-Fi-a yenidən bağlanın və ya cihazı yenidən başladın.</item>
+    </string-array>
+    <string-array name="net_diag_err_network_rssi">
+        <item>Wi-Fi əhatə dairəsi yaxşı olan bir əraziyə keçin</item>
+    </string-array>
+    <string-array name="net_diag_err_network_rssi_china">
+        <item>Wi-Fi əhatə dairəsi yaxşı olan bir əraziyə keçin</item>
+    </string-array>
+    <string-array name="net_diag_err_network_topology">
+        <item>"Ruterin DHCP ayarlarını və naqilli bağlantısını yoxlayın"</item>
+    </string-array>
+    <string-array name="wifi_diag_err_wifi_base">
+        <item>"Wi-Fi işə salına bilmədi. Cihazınızı yenidən başladın və ya ən son sistem versiyasına güncəlləyin."</item>
+        <item>"Hotspot tapıla bilmədi. Cihazınızı yenidən başladın və ya ən son sistem versiyasına güncəlləyin."</item>
+        <item>"Wi-Fi işə salına bilmir. Wi-Fi-ı söndürün və yenidən açın, ya da ruterinizi yenidən başladın."</item>
+        <item>Wi-Fi bağlantısı dəfələrlə kəsilib. Wi-Fi-ı söndürün və yenidən açın, ya da ruterinizi yenidən başladın.</item>
+        <item>"Hotspot işə salına bilmədi. Cihazınızı yenidən başladın və ya ən son sistem versiyasına güncəlləyin."</item>
+        <item>"Hotspot işə salına bilmədi. Təyyarə rejimi söndürün və yenidən sınayın."</item>
+    </string-array>
+    <string-array name="wifi_diag_err_wifi_base_china">
+        <item>"Wi-Fi işə salına bilmədi. Cihazınızı yenidən başladın və ya ən son sistem versiyasına güncəlləyin."</item>
+        <item>"Hotspot tapıla bilmədi. Cihazınızı yenidən başladın və ya ən son sistem versiyasına güncəlləyin."</item>
+        <item>"Wi-Fi işə salına bilmir. Wi-Fi-ı söndürün və yenidən açın, ya da ruterinizi yenidən başladın."</item>
+        <item>Wi-Fi bağlantısı dəfələrlə kəsilib. Wi-Fi-ı söndürün və yenidən açın, ya da ruterinizi yenidən başladın.</item>
+        <item>"Hotspot işə salına bilmədi. Cihazınızı yenidən başladın və ya ən son sistem versiyasına güncəlləyin."</item>
+        <item>"Hotspot işə salına bilmədi. Təyyarə rejimi söndürün və yenidən sınayın."</item>
+    </string-array>
+</resources>

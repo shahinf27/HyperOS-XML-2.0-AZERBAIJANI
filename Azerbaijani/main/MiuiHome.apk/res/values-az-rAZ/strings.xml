@@ -8,10 +8,6 @@
     <string name="abc_activitychooserview_choose_application">Bir tətbiq seçin</string>
     <string name="abc_capital_off">BAĞLI</string>
     <string name="abc_capital_on">AÇIQ</string>
-    <string name="abc_menu_delete_shortcut_label">sil</string>
-    <string name="abc_menu_function_shortcut_label">Fn+</string>
-    <string name="abc_menu_space_shortcut_label">boşluq</string>
-    <string name="abc_prepend_shortcut_label">Menyu+</string>
     <string name="abc_search_hint">Axtar…</string>
     <string name="abc_searchview_description_clear">Sorğunu təmizlə</string>
     <string name="abc_searchview_description_query">Axtarış sorğusu</string>
@@ -78,7 +74,8 @@
     <string name="am">GƏ</string>
     <string name="animation_rate_title">Animasiya sürəti</string>
     <string name="announce_for_app_move_in_folder">Qovluqda %1$d mövqeyinə daşındı</string>
-    <string name="announce_for_checked">%1$s, yoxlanıldı</string>
+    <string name="announce_for_checked">%1$s, işarələndi</string>
+	<string name="announce_for_checked_after">işarələndi, %1$s</string>
     <string name="announce_for_choose_default_screen">%1$d ekranını ilkin Əsas ekran olaraq ayarla</string>
     <string name="announce_for_close_default_preview">İlkin Əsas ekran ayarları bağlandı</string>
     <string name="announce_for_create_folder_with_app">%1$s ilə qovluq yaradıldı</string>
@@ -104,7 +101,8 @@
     <string name="announce_for_open_folder">%1$s qovluğu açıldı</string>
     <string name="announce_for_search_bar">Axtarış çubuğu</string>
     <string name="announce_for_show_uninstall_dialog">Silinmə dialoqu göründü. Ləğv et və ya təsdiqlə.</string>
-    <string name="announce_for_unchecked">%1$s, yoxlanılmadı</string>
+    <string name="announce_for_unchecked">%1$s, işarəsi götürüldü</string>
+	<string name="announce_for_unchecked_after">işarəsi götürüldü, %1$s</string>
     <string name="announce_for_widget_span">En %1$d, hündürlük %2$d</string>
     <string name="app_already_exist">Tətbiq artıq mövcuddur</string>
     <string name="app_being_backup_message">Tətbiqlər nüsxələnir</string>
@@ -269,7 +267,7 @@
     <string name="fs_gesture_switch_recents_summary">Aşağıdan sürüşdür və fasilə ver</string>
     <string name="fsg_assist_enable_summary">Google Köməkçisini istifadə etmək üçün ekranın küncündən sürüşdürün</string>
     <string name="fsg_assist_enable_title">Google Köməkçisi</string>
-    <string name="fsg_demo_back">Geri</string>
+    <string name="fsg_demo_back">Əvvəlki səhifə</string>
     <string name="fsg_demo_go_on">Öyrən</string>
     <string name="fsg_mistake_touch_summary">Bəzi hallarda (məs. oyun oynayarkən və ya videolara baxarkən), jestlər yalnız təkrarlandıqdan sonra işləyir</string>
     <string name="fsg_mistake_touch_title">Jest təsdiqi</string>
@@ -295,8 +293,8 @@
     <string name="home_gesture_no_action">Yoxdur</string>
     <string name="home_gesture_notification_and_control_center">Bildiriş paneli və İdarəetmə mərkəzi</string>
     <string name="home_gesture_notification_bar">Bildirişlər</string>
-    <string name="home_pull_down_content">Elementləri bu cihazda və onlayn axtarmaq üçün Əsas ekranda aşağı sürüşdürün.</string>
-    <string name="home_pull_down_content_tips">Tərcihlərinizi Ayarlar &gt; Əsas ekran &gt; \"Əsas ekranda aşağı sürüşdür\" bölməsində dəyişdirə bilərsiniz. Yuxarı sürüşdürmə jesti üzrə tərcihləriniz dəyişməz qalacaq.</string>
+    <string name="home_pull_down_content">Cihazınızdakı elementləri tapmaq və internet üzərindəki yüksək keyfiyyətli məzmunları kəşf etmək üçün Əsas ekranda aşağı sürüşdürün.</string>
+    <string name="home_pull_down_content_tips">Ayarlar &gt; Əsas ekran &gt; \"Əsas ekranda aşağı sürüşdür\" bölməsində Bildiriş paneli və İdarəetmə mərkəzi arasında keçid edə bilərsiniz.</string>
     <string name="home_pull_down_know">Anladım</string>
     <string name="home_screen">Əsas ekran</string>
     <string name="home_slide_up_action">Əsas ekranda yuxarı sürüşdürün</string>
@@ -629,6 +627,7 @@ Təkmilləşdirilmiş güvənlik."</string>
     <string name="shake_to_align_icons">Boş xanaları ikonlarla doldurmaq üçün cihazı silkələyin</string>
     <string name="share">Paylaş</string>
     <string name="sharedUserId"></string>
+	<string name="shortcut_menu_add_widget">Vicet əlavə et</string>
     <string name="shortcut_share_dialog_content">"Telefonunuzdan göndərdiyiniz fayllar, həmçinin onların alıcıları sizin tərəfinizdən seçilir və müəyyənləşdirilir. Paylaşılacaq faylları və alıcıları seçərkən diqqətli olun. Telefonunuzu hər hansısa bir virus, zərərli proqram təminatı, Troyan, saatlı bombalar və digər zərərli obyektləri digər insanlara ötürmək üçün istifadə edə bilməzsiniz. Telefonunuzu, alıcının cihazında müntəzəm istifadəyə təsir edə biləcək hər hansısa bir proqram təminatını və ya mobil terminal cihazlarındakı hər hansısa bir sistem datasına və ya şəxsi məlumatlara zərər verə, müdaxilə edə, araya girə və ya aradan qaldıra biləcək hər hansısa elementləri göndərmək üçün istifadə etməyin. Digər istifadəçilərə və ya mobil terminal cihazlarına dəyən hər hansısa bir zərərə görə siz məsuliyyət daşıyacaqsınız. Xiaomi, paylaşım funksionallığının, eləcə də texnologiya və məlumatların güvənli, effektiv, dəqiq və etibarlı olmasını təmin etmək üçün əlindən gələnin ən yaxşısını edəcək. Bununla belə, mövcud texnologiya məhdudiyyətlərinə görə, Xiaomi, paylaşım funksionallığının qüsursuz olduğuna və bütün ehtiyaclarınızı ödəyəcəyinə zəmanət vermir."</string>
     <string name="shortcut_share_dialog_content_pad">"Cihazınızdan göndərdiyiniz fayllar, həmçinin onların alıcıları sizin tərəfinizdən seçilir və müəyyənləşdirilir. Paylaşılacaq faylları və alıcıları seçərkən diqqətli olun. Cihazınızı hər hansısa bir virus, zərərli proqram təminatı, Troyan, saatlı bombalar və digər zərərli obyektləri digər insanlara ötürmək üçün istifadə edə bilməzsiniz. Cihazınızı, alıcının cihazında müntəzəm istifadəyə təsir edə biləcək hər hansısa bir proqram təminatını və ya mobil terminal cihazlarındakı hər hansısa bir sistem datasına və ya şəxsi məlumatlara zərər verə, müdaxilə edə, araya girə və ya aradan qaldıra biləcək hər hansısa elementləri göndərmək üçün istifadə etməyin. Digər istifadəçilərə və ya mobil terminal cihazlarına dəyən hər hansısa bir zərərə görə siz məsuliyyət daşıyacaqsınız. Xiaomi, paylaşım funksionallığının, eləcə də texnologiya və məlumatların güvənli, effektiv, dəqiq və etibarlı olmasını təmin etmək üçün əlindən gələnin ən yaxşısını edəcək. Bununla belə, mövcud texnologiya məhdudiyyətlərinə görə, Xiaomi, paylaşım funksionallığının qüsursuz olduğuna və bütün ehtiyaclarınızı ödəyəcəyinə zəmanət vermir."</string>
     <string name="shortcut_share_dialog_positive_button">Anladım</string>
@@ -685,6 +684,7 @@ Təkmilləşdirilmiş güvənlik."</string>
     <string name="system_shortcuts_icon_remove">Çıxart</string>
     <string name="system_shortcuts_more_operation">Tətbiq məlumatı</string>
     <string name="system_shortcuts_remove">Sil</string>
+	<string name="system_shortcuts_size_adapt">Ölçünü ayarla</string>
     <string name="system_text">Avto</string>
     <string name="talkback_systemaction_item_cts">Axtarış etmək üçün Dairə</string>
     <string name="task_access_locked_app_msg">Tətbiq kilidi işə salındı</string>

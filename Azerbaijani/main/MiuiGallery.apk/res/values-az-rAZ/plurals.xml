@@ -765,8 +765,8 @@
         <item quantity="one">%1$d fayl</item>
     </plurals>
     <plurals name="video_editor_component_hint_text">
-        <item quantity="other">%d seqment tələb olunur</item>
-        <item quantity="one">%d seqment tələb olunur</item>
+        <item quantity="other">%1$d seqment əlavə et (%2$d/%3$d)</item>
+        <item quantity="one">%1$d seqment əlavə et (%2$d/%3$d)</item>
     </plurals>
     <plurals name="video_editor_component_imageview_content_description">
         <item quantity="other">%1$d yuvası: %2$s saniyədən qısa olmayan bir seqment əlavə edin</item>
