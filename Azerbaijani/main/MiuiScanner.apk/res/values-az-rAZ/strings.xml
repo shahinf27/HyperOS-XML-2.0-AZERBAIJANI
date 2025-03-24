@@ -44,6 +44,9 @@
     <string name="already_ocr_result">Elementlər avtomatik seçildi</string>
     <string name="always">Həmişə</string>
     <string name="am">GƏ</string>
+	<string name="aon_no_network_tip">Wi-Fi və ya mobil interneti açıb yenidən sınayın</string>
+    <string name="aon_pay_setting_default_des">İlkin ödəniş üsulu</string>
+    <string name="aon_recognize_code_des">QR kod tanındı</string>
     <string name="app_description_content">Skaner QR kodları, sənədləri, vizitkaları və daha çoxunu skan etməyinizə imkan verir. Tətbiqi silməzdən əvvəl, bu özəliklər olmadan davam edə biləcəyinizə əmin olun.</string>
     <string name="app_description_title">Skaner haqqında</string>
     <string name="app_details">Tətbiq:</string>
@@ -53,6 +56,7 @@
     <string name="barcode_into_rectangle">Kodu çərçivənin daxilinə yerləşdirin</string>
     <string name="birthday">Doğum günü:</string>
     <string name="black_and_white">Q&amp;A</string>
+	<string name="bluetooth_auracast_fg_title">Səs yayımı</string>
     <string name="business_card">Vizit kartı</string>
     <string name="business_card_title">Vizit kartı çərçivənin içərisinə yerləşdirin</string>
     <string name="business_card_with_qr_code">Vizit kartı və ya QR kodu çərçivənin içərisinə yerləşdirin</string>
@@ -345,6 +349,9 @@
     <string name="mihome_install_title">\"Mi Home\"u quraşdır</string>
     <string name="mihome_update_message">Mi Home-u ən son versiyaya güncəlləyib yenidən sınayın.</string>
     <string name="mihome_update_title">\"Mi Home\"u güncəllə</string>
+	<string name="milink_toast_des">"Cihazınızda Xiaomi HyperOS çalışmır. Bunun əvəzinə Xiaomi HyperOS olmayan QR kodu skan edin."</string>
+    <string name="milink_update_des">GetApps-da Xiaomi Ara bağlantı xidmətlərini ən son versiyaya güncəlləyib yenidən sınayın.</string>
+    <string name="milink_update_title">Güncəllə</string>
     <string name="mipayin_dialog_more">Daha çox</string>
     <string name="mipayin_dialog_title">Aç</string>
     <string name="miracast_connect">Yayım</string>
@@ -370,6 +377,7 @@
     <string name="miuix_appcompat_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_select_all_description">Hamısını seç</string>
     <string name="miuix_appcompat_select_item">Elementləri seç</string>
+	<string name="miuix_appcompat_show_dialog_description">Açılan pəncərə</string>
     <string name="miuix_indexer_collect">Kolleksiyalar</string>
     <string name="miuix_indexer_selected">%s seçildi</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Təzələmək üçün aşağı çək</string>
@@ -580,6 +588,7 @@ Lütfən cihazı şəkildəki bucağa uyğun yerləşdirin və yenidən sınayı
     <string name="plant_reg_fail_2">"Bu obyekt tanına bilmədi. Skaner yalnız bitkiləri müəyyən edə bilir."</string>
     <string name="plant_support">" (Texniki dəstək)"</string>
     <string name="plant_title">Müəyyən etmək istədiyiniz bitkini skan edin</string>
+	<string name="please_enable_bluetooth_retry">Bluetooth-u açıb yenidən sınayın</string>
     <string name="please_select_an_item">Element seçin</string>
     <string name="please_try_again_later">Bir və ya iki dəqiqə gözləyib yenidən sınayın</string>
     <string name="pm">GS</string>
@@ -750,7 +759,16 @@ Lütfən cihazı şəkildəki bucağa uyğun yerləşdirin və yenidən sınayı
     <string name="take_the_word">Sözü qutuya qoyun və sözü almaq üçün basın</string>
     <string name="taobao">Taobao</string>
     <string name="tel">Telefon</string>
+	<string name="test_paper_to_handwrite">Test kağızı artıq əl yazısı deyil</string>
+    <string name="test_paper_to_handwrite_dialog_title">Çəkilmiş şəklin ləğv edilib-edilməməsi</string>
     <string name="text_extraction_demo_dialog_title">Mətni tanımaq və kopyalamaq üçün toxunun</string>
+	<string name="text_general_guide_btn_tips">Anladım</string>
+    <string name="text_general_guide_tips_first">Obyektləri skan et və tanı</string>
+    <string name="text_general_guide_tips_second">Kodları skan et, bitkiləri tanı və oxşar məhsulları tap</string>
+    <string name="text_input_layout_default_content_description">这是默认的content description</string>
+    <string name="text_input_layout_default_error">这是默认的error</string>
+    <string name="text_ipc_record_number">京ICP备10046444号-90A ></string>
+    <string name="text_price">Qiymət</string>
     <string name="text_to_be_translated_cannot_be_empty">Skaner mətni tərcümə etməlidir</string>
     <string name="textrecognition_results">Tanınan mətn</string>
     <string name="the_anniversary_of_lifting_martial_law">Hərbi vəziyyət ləğvinin ildönümü</string>
@@ -863,7 +881,7 @@ Lütfən cihazı şəkildəki bucağa uyğun yerləşdirin və yenidən sınayı
     <string name="waybill_num">"Sifariş: "</string>
     <string name="web">Veb sayt:</string>
     <string name="web_url">URL</string>
-	<string name="web_url_confirm_content">Skan etdiyiniz QR kod sizi riskli ola bilən bir keçidə yönləndirə bilər. Bu, cihazınızın təhlükəsizliyinə və ya şəxsi məxfiliyinizə zərər verə biləcək zərərli vebsaytlar və ya şəbəkə tələləri ilə əlaqəli ola bilər. Davam etməyə qərar versəniz, lütfən, riskləri tam başa düşdüyünüzü təsdiqləyin.</string>
+	<string name="web_url_confirm_content">Bu QR kod, cihazınızın təhlükəsizliyini və ya məxfiliyinizi təhlükəyə ata biləcək riskli bir keçidə yönləndirir. Davam etməyə qərar versəniz, lütfən, riskləri tam başa düşdüyünüzü təsdiqləyin.</string>
     <string name="web_url_confirm_title">Təhlükəsizlik bildirişi</string>
     <string name="website_details">Veb sayt:</string>
     <string name="wechat_scan_code">WeChat skaneri</string>
@@ -887,10 +905,8 @@ Lütfən cihazı şəkildəki bucağa uyğun yerləşdirin və yenidən sınayı
     <string name="word_to_be_recognized_is_aligned_with_cross">Tanınmalı söz xaçla hizalanıb</string>
     <string name="word_translation">Söz tərcüməsi</string>
     <string name="wx_not_installed_toast">Bu özəllik, WeChat istifadə etməlidir. Əvvəlcə WeChat-ı quraşdırın.</string>
-    <string name="xiaoai_classmate_scan_text">Mi AI ilə skan edin</string>
     <string name="xiaoai_dialog">"Mi AI-da nəyi skan etmək
 istədiyinizi deməyə çalışın"</string>
-    <string name="xiaoai_text">Kiçik sevgi düyməsi</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">İndi yox</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Güncəllə</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Bir güncəlləmə mövcuddur</string>
