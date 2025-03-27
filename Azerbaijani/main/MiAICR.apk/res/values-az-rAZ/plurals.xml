@@ -32,19 +32,7 @@
 	<plurals name="aiSearch_buildDB_dialog_analysis_completed_progress_stop_notice">
         <item quantity="other">%1$s təhlili tamamlandı və indi fasilə verildi. Sabah cihazınız doldurularkən və soyuyarkən davam edəcək.</item>
     </plurals>
-	<plurals name="aiSearch_buildDB_dialog_analysis_completed_progress_time">
-        <item quantity="other">%1$s tamamlandı. Təxminən %2$s dəqiqə qalıb.</item>
-        <item quantity="one">%1$s tamamlandı. Təxminən %2$s dəqiqə qalıb.</item>
-    </plurals>
-	<plurals name="aiSearch_buildDB_dialog_analysis_completed_progress_time_notice">
-        <item quantity="other">%1$s təhlili tamamlandı, ≈%2$s dəqiqə qalıb. Bu proses cihazınızın isinməsinə və daha çox enerji istifadə etməsinə səbəb ola bilər.</item>
-        <item quantity="one">%1$s təhlili tamamlandı, ≈%2$s dəqiqə qalıb. Bu proses cihazınızın isinməsinə və daha çox enerji istifadə etməsinə səbəb ola bilər.</item>
-    </plurals>
-    <plurals name="aiSearch_buildDB_dialog_secondary_confirmation_content">
-        <item quantity="other">Bu prosesin tamamlanması təxminən daha %1$s dəqiqə tələb edir. Təhlil zamanı cihazınız isinə, daha çox enerji sərf edə və ya daha yavaş işləyə bilər. Təhlillər indi başladılsın?</item>
-        <item quantity="one">Bu prosesin tamamlanması təxminən daha %1$s dəqiqə tələb edir. Təhlil zamanı cihazınız isinə, daha çox enerji sərf edə və ya daha yavaş işləyə bilər. Təhlillər indi başladılsın?</item>
-    </plurals>
-    <plurals name="half_hour_ago">
+	<plurals name="half_hour_ago">
         <item quantity="other">Yarım saat əvvəl</item>
     </plurals>
     <plurals name="in_a_hour">

@@ -40,6 +40,8 @@
     <string name="afternoon">Günortadan sonra</string>
     <string name="aiSearch_buildDB_dialog_analysis_completed_progress">%1$s tamamlandı</string>
 	<string name="aiSearch_buildDB_dialog_analysis_completed_progress_stop">%1$s təhlili tamamlandı və indi fasilə verildi</string>
+	<string name="aiSearch_buildDB_dialog_analysis_completed_progress_time">%1$s tamamlandı</string>
+    <string name="aiSearch_buildDB_dialog_analysis_completed_progress_time_notice">%1$s tamamlandı. Cihazınız bu proses zamanı isinə və ya bir az daha çox enerji sərf edə bilər.</string>
 	<string name="aiSearch_buildDB_dialog_analysis_notice_five">Cihaz soyuduqda və yetərli enerjiyə sahib olduqda təhlil davam etdiriləcək</string>
     <string name="aiSearch_buildDB_dialog_analysis_notice_four">Bu proses, cihaz soyuduqda və yetərli enerjiyə sahib olduqda başlayacaq</string>
     <string name="aiSearch_buildDB_dialog_analysis_notice_one">Bu proses zamanı cihazınız isinə və bir az artıq enerji sərf edə bilər</string>
@@ -72,6 +74,7 @@
     <string name="aiSearch_buildDB_dialog_notice_window_one">AI axtarış təhlili davam edir</string>
     <string name="aiSearch_buildDB_dialog_notice_window_three">Daha dəqiq axtarış nəticələri təqdim etmək üçün cihazınızdakı faylların təhlili</string>
     <string name="aiSearch_buildDB_dialog_notice_window_two">AI axtarış təhlilinə fasilə verildi</string>
+	<string name="aiSearch_buildDB_dialog_secondary_confirmation_content">Təhlil prosesi zamanı cihazınız isinə və ya bir az daha çox enerji sərf edə bilər. Təhlil indi başladılsın?</string>
     <string name="aiSearch_buildDB_dialog_secondary_confirmation_remarks">Daha sürətli təhlil üçün cihazınızı doldurun və ekranı söndürün</string>
     <string name="aiSearch_buildDB_dialog_secondary_confirmation_title">İndi başladılsın?</string>
 	<string name="aiSearch_buildDB_dialog_secondary_tmp_confirmation_remarks">Önplanda çalışan tətbiqlər təhlil sürətinə təsir edir. Daha sürətli təhlil üçün cihazınızı ekranı sönülü halda doldurun.</string>
@@ -97,6 +100,7 @@
     <string name="aiSearch_privacy_dialog_permission_desc_user_notice_hyper">Xiaomi HyperAI Engine, bəzi tətbiqlər üçün təbii dil axtarışı bacarıqlarını təmin edir. Bu özəllikləri istifadə edə bilmək üçün Xiaomi HyperAI Engine Gizlilik Siyasəti ilə razılaşın.</string>
     <string name="aiSearch_privacy_dialog_permission_title_data_to_cloud">Fərdi dataları buluda yüklə</string>
     <string name="aiSearch_privacy_dialog_permission_title_user_notice">Şərtlər və qaydalar</string>
+	<string name="aiSearch_support_service">Dəstəklənən cihazlar</string>
 	<string name="aiSearch_support_service_connect">Windows ilə əlaqələndir</string>
     <string name="aiSearch_support_service_connect_computer">Daha dəqiq nəticələr əldə etmək üçün bir kompüterə bağlanın və AI Axtarışı istifadə edin</string>
     <string name="aiSearch_support_service_search">Axtar</string>
@@ -394,6 +398,7 @@
     <string name="dist_compute_download_guidance_title">Böyük modeli endir</string>
     <string name="dist_compute_download_now">Endir</string>
 	<string name="dist_compute_download_reminder_content">Bu özəlliyi istifadə edə bilmək üçün böyük modeli cihazda quraşdırın. İndi quraşdırılsın?</string>
+	<string name="dist_compute_download_reminder_modelmanager">Cihazınızda AI özəlliklərini istifadə edə bilmək üçün cihaza xas böyük modeli endirib quraşdırın. İndi endirilsin?</string>
     <string name="dist_compute_download_reminder_title">Böyük modeli cihazda quraşdır</string>
     <string name="dist_compute_pad_already_connected">Bağlantılıdır: %1$s</string>
     <string name="dist_compute_pad_button_neutral">Anladım</string>
