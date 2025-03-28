@@ -1258,7 +1258,6 @@ Daha çox məlumat üçün toxunun"</string>
     <string name="keyguard_enter_your_pin">PIN-inizi daxil edin</string>
     <string name="keyguard_face_failed">Üz tanınmadı</string>
     <string name="keyguard_face_unlock_unavailable">Üzlə kilid açma əlçatmazdır</string>
-    <string name="keyguard_fancy_colon"></string>
     <string name="keyguard_indication_charging_time">%2$s • Dolur • %1$s ərzində tam dolacaq</string>
     <string name="keyguard_indication_charging_time_dock">%2$s • Dolur • %1$s ərzində tam dolacaq</string>
     <string name="keyguard_indication_charging_time_fast">%2$s • Sürətlə dolur • %1$s ərzində tam dolacaq</string>
@@ -2016,7 +2015,6 @@ Suallarınız varsa, %2$s ilə əlaqə saxlayın."</string>
     <string name="private_dns_mode_provider">Şəxsi DNS provayder hostunun adı</string>
     <string name="private_dns_mode_provider_failure">"Bağlantı qurula bilmədi"</string>
     <string name="private_dns_mode_provider_hostname_hint">DNS provayder host adını daxil edin</string>
-    <string name="process_kernel_label">Android ƏS</string>
     <string name="profile_connect_timeout_subtext">Bağlantı problemi. Cihazın söndürüb yenidən açın</string>
     <string name="profile_info_settings_title">Profil məlumatı</string>
     <string name="proximity_sensor_secondary_type"></string>
@@ -2210,7 +2208,6 @@ Suallarınız varsa, %2$s ilə əlaqə saxlayın."</string>
     <string name="quick_settings_sync_state_change_message_off">Sinxr bağlıdır</string>
     <string name="quick_settings_sync_state_change_message_on">Sinxr açıqdır</string>
     <string name="quick_settings_task_manager_lable">Aktiv tətbiqlər</string>
-    <string name="quick_settings_tiles">ilkin</string>
     <string name="quick_settings_ui_mode_night_label">Qaranlıq tema</string>
     <string name="quick_settings_vibrate_label">Titrəmə</string>
     <string name="quick_settings_vibrate_state_change_message_off">Titrəmə bağlıdır</string>

@@ -2426,7 +2426,6 @@ Növbəti dövr %2$d günə başlayır (%3$s)"</string>
     <string name="time_end_minute">vaxt bitiş dəqiqəsi</string>
     <string name="time_formate_am">GƏ</string>
     <string name="time_formate_pm">GS</string>
-    <string name="time_interval_char">:</string>
     <string name="time_next_day">növbəti gün</string>
     <string name="time_picker_dialog_title">Vaxtı ayarla</string>
     <string name="time_picker_label_hour">H</string>

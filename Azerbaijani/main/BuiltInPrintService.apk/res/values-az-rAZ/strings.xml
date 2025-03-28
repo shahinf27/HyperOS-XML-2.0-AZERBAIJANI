@@ -37,7 +37,6 @@
     <string name="printer_bad_certificate">Zədəli sertifikat</string>
     <string name="printer_busy">Məşğul</string>
     <string name="printer_check">Printeri yoxla</string>
-    <string name="printer_description">%1$s – %2$s</string>
     <string name="printer_door_open">Qapaq açıqdır</string>
     <string name="printer_jammed">Sıxılmış</string>
     <string name="printer_low_on_ink">Mürəkkəb azdır</string>

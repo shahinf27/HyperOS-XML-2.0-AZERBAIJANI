@@ -500,7 +500,6 @@ yol prefiksi"</string>
     <string name="forward_attribution_no_headers">---------- Yönləndirilən mesaj ----------</string>
     <string name="forward_download_failed_ticker">"Bir və ya daha çox qoşma yönləndirilə bilmədi."</string>
     <string name="forward_download_failed_title">Qoşma yönləndirilmədi</string>
-    <string name="forward_subject_label">Yönlndr:</string>
     <string name="friday">Cümə</string>
     <string name="friday_short">Cüm</string>
     <string name="friday_shortest">Cüm</string>
@@ -606,14 +605,6 @@ Bu problem, hesabın iki faktorlu kimlik doğrulaması ilə bağlı ola bilər. 
     <string name="mailbox_name_display_starred">Ulduzlu</string>
     <string name="mailbox_name_display_trash">Tullantı</string>
     <string name="mailbox_name_display_unread">Oxunmamış</string>
-    <string name="mailbox_name_server_all_unread">Oxunmamış</string>
-    <string name="mailbox_name_server_drafts">Qaralamalar</string>
-    <string name="mailbox_name_server_inbox">Gələn qutusu</string>
-    <string name="mailbox_name_server_junk">Lazımsız</string>
-    <string name="mailbox_name_server_outbox">Gedən qutusu</string>
-    <string name="mailbox_name_server_sent">Göndərildi</string>
-    <string name="mailbox_name_server_starred">Ulduzlu</string>
-    <string name="mailbox_name_server_trash">Tullantı</string>
     <string name="mailbox_setting_preference_sync_summary_close">Sinxronlaşdırma bağlıdır</string>
     <string name="mailbox_setting_preference_sync_summary_open">Sinxronlaşdırma açıqdır</string>
     <string name="mailbox_settings_activity_title">Sinxr. ayarları</string>

@@ -22,10 +22,6 @@
         <item>Oğlan</item>
         <item>Qız</item>
     </string-array>
-    <string-array name="baby_sexy_value">
-        <item>kişi</item>
-        <item>qadın</item>
-    </string-array>
     <string-array name="backup_automatically_key_words">
         <item>Fotoları nüsxələ</item>
         <item>Fotoları buludda sinxronlaşdır</item>
@@ -225,14 +221,6 @@
         <item>Ana babası</item>
         <item>Ana nənəsi</item>
     </string-array>
-    <string-array name="owner_relation_value">
-        <item>ata</item>
-        <item>ana</item>
-        <item>baba</item>
-        <item>nənə</item>
-        <item>ana babası</item>
-        <item>ana nənəsi</item>
-    </string-array>
     <string-array name="parties_title">
         <item>Birlikdə</item>
         <item>Yaxşı vaxtlar</item>
@@ -270,15 +258,6 @@
         <item>Sinif yoldaşları</item>
         <item>Dostlar</item>
         <item>Qruplaşdırılmamış</item>
-    </string-array>
-    <string-array name="relation_with_me_value">
-        <item>özüm</item>
-        <item>uşaq</item>
-        <item>ailə</item>
-        <item>həmkar</item>
-        <item>sinif yoldaşı</item>
-        <item>dost</item>
-        <item>bilinməyən</item>
     </string-array>
     <string-array name="search_voice_assistant_suggestion">
         <item>Kimlik fotosunu tapmağıma kömək et</item>
