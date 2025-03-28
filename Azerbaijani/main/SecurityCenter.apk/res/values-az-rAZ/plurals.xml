@@ -213,6 +213,14 @@
         <item quantity="other">Game Turbo üzvlüyünüz %d günə bitəcək. Problemsiz oyundan həzz almaq üçün indi yeniləyin.</item>
         <item quantity="one">Game Turbo üzvlüyünüz %d günə bitəcək. Problemsiz oyundan həzz almaq üçün indi yeniləyin.</item>
     </plurals>
+	<plurals name="gamebox_time_elapsed_time_minute_talkback">
+        <item quantity="other">%1$d dəqiqə</item>
+        <item quantity="one">%1$d dəqiqə</item>
+    </plurals>
+    <plurals name="gamebox_time_elapsed_time_second_talkback">
+        <item quantity="other">%1$d saniyə</item>
+        <item quantity="one">%1$d saniyə</item>
+    </plurals>
     <plurals name="gb_ad_people_play">
         <item quantity="other">%1$d nəfər oynayır</item>
         <item quantity="one">%1$d nəfər oynayır</item>
@@ -329,9 +337,17 @@
         <item quantity="other">"%d tətbiqin avtomatik başladılmasına icazə verilmir"</item>
         <item quantity="one">"%d tətbiqin avtomatik başladılmasına icazə verilmir"</item>
     </plurals>
+	<plurals name="hints_auto_start_disable_title_global">
+        <item quantity="other">"%d tətbiqin arxaplanda başladılmasına icazə verilmir"</item>
+        <item quantity="one">"%d tətbiqin arxaplanda başladılmasına icazə verilmir"</item>
+    </plurals>
     <plurals name="hints_auto_start_enable_title">
         <item quantity="other">%d tətbiq avtomatik başladıla bilər</item>
         <item quantity="one">%d tətbiq avtomatik başladıla bilər</item>
+    </plurals>
+	<plurals name="hints_auto_start_enable_title_global">
+        <item quantity="other">%d tətbiq arxaplanda başladıla bilər</item>
+        <item quantity="one">%d tətbiq arxaplanda başladıla bilər</item>
     </plurals>
     <plurals name="hints_get_root_disable_title">
         <item quantity="other">"%d tətbiqin root müraciəti yoxdur"</item>
@@ -560,6 +576,14 @@
     <plurals name="pc_abnormal_scan_result_model_result_title">
         <item quantity="other">%d tətbiq batareya tükədir</item>
         <item quantity="one">%d tətbiq batareya tükədir</item>
+    </plurals>
+	<plurals name="pc_battery_history_accessibility_hour">
+        <item quantity="other">%d saat</item>
+        <item quantity="one">%d saat</item>
+    </plurals>
+    <plurals name="pc_battery_history_accessibility_minute">
+        <item quantity="other">%d dəqiqə</item>
+        <item quantity="one">%d dəqiqə</item>
     </plurals>
     <plurals name="pc_battery_history_hour">
         <item quantity="other">" sa"</item>

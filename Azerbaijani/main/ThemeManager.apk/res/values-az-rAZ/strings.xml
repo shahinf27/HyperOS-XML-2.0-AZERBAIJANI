@@ -29,6 +29,10 @@
     <string name="about_app_name">Temalar haqqında</string>
     <string name="about_securitycenter_icp">Qeyd nömrəsi：Pekin ICP Nö. 10046444号-51A &gt;</string>
     <string name="about_version_update">"Yeniliklər"</string>
+	<string name="accessibility_sliding_button_state_description_off">Söndürüldü</string>
+	<string name="accessibility_sliding_button_state_description_on">İşə salındı</string>
+	<string name="accessibility_tab_state_description_unselect">Seçilmədi</string>
+	<string name="accessibility_tab_statedesc_unselect">Seçilmədi</string>
     <string name="accessibiliy_ad">Reklam ver</string>
     <string name="accessibiliy_description_content_account">Profil</string>
     <string name="accessibiliy_description_content_ad">Reklam</string>
@@ -80,6 +84,9 @@
     <string name="ai_apply_wallpaper">Tətbiq et</string>
     <string name="ai_cannot_scrolling_with_the_screen">"Bu divar kağızı üçün sürüşdürmə işə salına bilmir"</string>
     <string name="ai_delete_wallpaper">Çıx</string>
+	<string name="ai_dialog_support_type_confirm">İndi sına</string>
+    <string name="ai_dialog_support_type_content">Artıq insan və ya heyvan fotoları və animasiya təsvirləri ilə dinamik divar kağızları yarada bilərsiniz.</string>
+    <string name="ai_dialog_support_type_title">Yeni təsvir növləri</string>
     <string formatted="false" name="ai_estimated_two_three_minutes">Bu, %d–%d dəqiqə çəkəcək</string>
     <string name="ai_generate">AI tərəfindən yaradılıb</string>
     <string name="ai_generate_action">Yarat</string>
@@ -109,7 +116,10 @@
     <string name="ai_pic_unavailable_title">"Bu foto, nəsil tələblərini qarşılamır"</string>
     <string name="ai_read_the_privacy_policy">&lt;Data&gt;Bu tətbiqi istifadə etməzdən əvvəl &lt;a href=\"%1$s\"&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; və &lt;a href=\"%2$s\"&gt;Gizlilik Siyasətimizi&lt;/a&gt; oxuyun və razılaşın.&lt;/Data&gt;</string>
     <string name="ai_read_the_privacy_policy_pad">&lt;Data&gt;İstifadə etməzdən əvvəl &lt;a href=\"%1$s\"&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; və &lt;a href=\"%2$s\"&gt;Divar kağızı və Fərdiləşdirmə Gizlilik Siyasətimizi&lt;/a&gt; oxuyun və razılaşın.&lt;/Data&gt;</string>
-    <string name="ai_select_again">Seç</string>
+    <string name="ai_recorded_information">Qeydiyyat məlumatı</string>
+    <string name="ai_recorded_name1">Xiaomi video istehsalı böyük model alqoritmi-1</string>
+    <string name="ai_recorded_number1">网信算备110108916280901240061号</string>
+	<string name="ai_select_again">Seç</string>
     <string name="ai_select_images_in_the_following_formats">Aşağıdakı dəstəklənən formatlardan birinə sahib şəkil seçin: *.jpg, *.jpeg, *.png, *.bmp, WebP, HEIC və HEIF.</string>
     <string name="ai_select_images_smaller_than_one_hundred">%d MB-dan az bir şəkil seçib yenidən sınayın.</string>
     <string name="ai_select_message">Subyektin aydın göründüyü bir foto seçin.</string>
@@ -141,16 +151,20 @@
     <string name="ai_wallpaper_selection_prompt_message">Ən yaxşı nəticələr əldə etmək üçün aşağıdakı kateqoriyalara aid olan fotoları seçin və təsvirin əsas subyektinin aydın və maneəsiz olduğuna əmin olun.</string>
     <string name="ai_wallpaper_service_exception">Xəta baş verdi</string>
     <string name="ai_wallpaper_start_use">Başlat</string>
+	<string name="ai_wallpaper_tips_animal">Heyvan</string>
+    <string name="ai_wallpaper_tips_anime">Animasiya</string>
     <string name="ai_wallpaper_tips_car">Avtomobillər</string>
     <string name="ai_wallpaper_tips_city">Şəhərlər</string>
     <string name="ai_wallpaper_tips_content_violation">"Bu məzmun qaydalarımızı poza bilər. Divar kağızı yaratmağa davam edilə bilmir."</string>
     <string name="ai_wallpaper_tips_network_exception">"Şəbəkəyə bağlana bilmədi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın."</string>
+	<string name="ai_wallpaper_tips_people">Portret</string>
     <string name="ai_wallpaper_tips_plant">Bitkilər</string>
     <string name="ai_wallpaper_tips_service_exception">Bir server xətası baş verdi. Bir və ya iki dəqiqə gözləyib yenidən sınayın.</string>
     <string name="ai_wallpaper_tips_title_content_violation">Uyğunsuz məzmun</string>
     <string name="ai_wallpaper_tips_view">Mənzərələr</string>
     <string name="air_quality_index_abbreviation">HKİ</string>
     <string name="all_resources">Hamısı</string>
+	<string name="all_selected_talkback">Hamısı seçildi</string>
     <string name="allow">İcazə verildi</string>
     <string name="already_latest_version">Güncəldir</string>
     <string name="already_newest_version">Hazırkı versiya güncəldir</string>
@@ -178,6 +192,7 @@
     <string name="application_list_permission_desc">Şəffaf divar kağızları ilə uyumlu tətbiqləri göstərmək üçün</string>
     <string name="application_notify_title">Diqqət</string>
     <string name="apply_4k_video_wallpaper_warning">"4K və 8K videolar video divar kağızı kimi istifadə edilə bilməz."</string>
+	<string name="apply_at_the_same_time">Hər ikisinə tətbiq et</string>
     <string name="apply_choosen_type_resource">Seçilmiş elementləri tətbiq et</string>
     <string name="apply_default_font_tip">"Sistemin hazırkı şrifti istifadə edilməyə davam edilsin?"</string>
     <string name="apply_failed">"Tətbiq edilə bilmədi"</string>
@@ -247,7 +262,10 @@
     <string name="can_not_apply_error">"Bu video formatı dəstəklənmir"</string>
     <string name="can_not_apply_pc_video">"PC rejimi, canlı divar kağızlarını dəstəkləmir"</string>
     <string name="can_not_apply_size_invalid">Bu video çox böyükdür</string>
+	<string name="cancel_all_selected_talkback">Bütün seçimlər götürüldü</string>
+    <string name="cancel_collected_talkback">Sevimlilərdən silindi</string>
     <string name="cancel_download">Endirmə ləğv edildi</string>
+	<string name="cancel_like_talkback">Bəyənmə götürüldü</string>
     <string name="card_data_request_error">Xəta baş verdi. Bir və ya iki dəqiqə gözləyib yenidən sınayın.</string>
     <string name="card_loading">Bir saniyə…</string>
     <string name="card_no_network">"Şəbəkəyə bağlana bilmədi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın."</string>
@@ -271,7 +289,8 @@
     <string name="close">Bağla</string>
     <string name="close_custom_permission_warning_text">"Anbar icazələri olmadan bu tətbiq elementləri endirə və cihazınızı fərdiləşdirə bilməz. Yenə də söndürülsün?"</string>
     <string name="close_custom_permission_warning_text_above_eleven">"Anbar icazələri olmadan bu tətbiq cihazınızı fərdiləşdirə bilməz. Yenə də söndürülsün?"</string>
-    <string name="common_applying">Tətbiq edilir…</string>
+    <string name="collected_talkback">Sevimlilərə əlavə edildi</string>
+	<string name="common_applying">Tətbiq edilir…</string>
     <string name="common_downloading">Endirilir…</string>
     <string name="common_format_date_no_year">dd-MM</string>
     <string name="common_skip">Ötür</string>
@@ -294,6 +313,7 @@
     <string name="component_title_widget_suit">Vicetlər</string>
     <string name="concentration_old_period">Daha çox</string>
     <string name="configure_success_not_enable_aod">Uğurla tətbiq edildi. Temanın qüvvəyə minməsi üçün \"Həmişə açıq ekran\"ı işə salın.</string>
+	<string name="continue_download_talkback">Endirməni davam etdir</string>
     <string name="copy">Kopyala</string>
     <string name="count_down_tip">%d san qaldı</string>
     <string name="create_home_icon">Əsas ekran qısayolu</string>
@@ -356,8 +376,10 @@
     <string name="deep_sea">Dərin dəniz</string>
     <string name="deep_sea_resource_comment">Yerdəki həyatın mənşəyi</string>
     <string name="deleting">Silinir…</string>
+	<string name="depth_effect_talkback">Dərinlik effekti</string>
     <string name="desc_more_online_wallpaper">Daha çox onlayn divar kağızı</string>
     <string name="description_author">Müəllif</string>
+	<string name="description_certified_designer">Sertifikatlı dizayner</string>
     <string name="description_designer">Dizayner</string>
     <string name="description_download">Endirildi</string>
     <string name="description_size">Ölçü</string>
@@ -406,6 +428,8 @@
 	<string name="download_limit">"Hazırda daha çox element endirilə bilmir. Daha sonra yenidən sınayın."</string>
     <string name="download_preview_failed">"Önizləmə yüklənə bilmir"</string>
     <string name="download_success">Endirmə bitdi</string>
+	<string name="download_super_wallpaper">Bu Super divar kağızı quraşdırılsın?</string>
+	<string name="download_talkback">Endir</string>
     <string name="dynamic_large_icon_not_support_current_type">"%s, bu dinamik ikon üçün dəstəklənmir"</string>
     <string name="dynamic_video_wallpaper">24H divar kağızı</string>
     <string name="early_morning">Səhər</string>
@@ -486,6 +510,7 @@
     <string name="find_more_theme">Daha çoxunu tap</string>
     <string name="find_more_wallpapers">Daha çoxunu tap</string>
     <string name="first_page_recommend">Tövsiyə edilən</string>
+	<string name="first_total_talkback">Divar kağızı %1$d, cəmi divar kağızı: %2$d</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
     <string name="fmt_date_numeric_month_day">d-M</string>
@@ -626,9 +651,10 @@ Bu özəlliyi söndürmək üçün, Ayarlar &gt; Səs və titrəmə &gt; \"Profi
     <string name="item_resource_audio_optional_phone_ring">Zəng səsi</string>
     <string name="item_view_role_description">Vərəq</string>
     <string name="kg_activity_label">Kilid ekranına düzəliş et</string>
+	<string name="kg_aod_settings_depth_video_toast">Dərinlik effektini istifadə edərkən yalnız özəl Həmişə açıq ekran dəstəklənir</string>
     <string name="kg_apply">Tətbiq et</string>
     <string name="kg_apply_to_all_alert_dialog_negative_text">Yalnız Kilid ekranı</string>
-    <string name="kg_apply_to_all_alert_dialog_positive_text">Tətbiq et</string>
+    <string name="kg_apply_to_all_alert_dialog_positive_text">Hər ikisinə tətbiq et</string>
     <string name="kg_apply_to_all_alert_dialog_title">Bu divar kağızı Əsas ekrana da tətbiq edilsin?</string>
     <string name="kg_apply_to_aod_alert_dialog_negative_text">Xeyr, təşəkkürlər</string>
     <string name="kg_apply_to_aod_alert_dialog_positive_text">İşə sal</string>
@@ -648,6 +674,7 @@ Bu özəlliyi söndürmək üçün, Ayarlar &gt; Səs və titrəmə &gt; \"Profi
     <string name="kg_classic_item_empty">Yoxdur</string>
     <string name="kg_classic_item_humidity">Rütubət</string>
     <string name="kg_classic_item_lunar_date">Ənənəvi Çin təqvimi</string>
+	<string name="kg_classic_item_lunar_date1">Ənənəvi Çin təqvimi</string>
     <string name="kg_classic_item_lunar_month_day">Ənənəvi Çin təqvimi</string>
     <string name="kg_classic_item_lunar_year">İl (Ənənəvi Çin təqvimi)</string>
     <string name="kg_classic_item_month">Ay</string>
@@ -662,6 +689,10 @@ Bu özəlliyi söndürmək üçün, Ayarlar &gt; Səs və titrəmə &gt; \"Profi
     <string name="kg_classic_item_step_number">Addım</string>
     <string name="kg_classic_item_sunrise_or_sunset">Günçıxma və günbatma</string>
     <string name="kg_classic_item_temperature">Temperatur</string>
+	<string name="kg_classic_item_type_date">Tarix</string>
+    <string name="kg_classic_item_type_health">Sağlamlıq</string>
+    <string name="kg_classic_item_type_time">Vaxt</string>
+    <string name="kg_classic_item_type_weather">Hava</string>
     <string name="kg_classic_item_ultraviolet_ray">UV indeksi</string>
     <string name="kg_classic_item_vitality">Statistika</string>
     <string name="kg_classic_item_weather_cloudy">Buludlu</string>
@@ -678,25 +709,44 @@ Bu özəlliyi söndürmək üçün, Ayarlar &gt; Səs və titrəmə &gt; \"Profi
     <string name="kg_color_value_editor_title">Rəngə düzəliş et</string>
     <string name="kg_confirm">Oldu</string>
     <string name="kg_customize">Özəlləşdir</string>
-	<string name="kg_dialog_apply_link_video_wallpaper_confirm_title">Temanı tətbiq et</string>
-    <string name="kg_dialog_apply_link_video_wallpaper_nagetive_button">İmtina</string>
-    <string name="kg_dialog_apply_link_video_wallpaper_positive_button">Tətbiq et</string>
-    <string name="kg_dialog_apply_link_video_wallpaper_wallpaper_confirm">"Hazırda bir divar kağızı dəsti istifadə edirsiniz. Yeni bir tema tətbiq etsəniz, həm Kilid ekranının, həm də Əsas ekranın divar kağızları dəyişdiriləcək və Həmişə açıq ekran üçün əvvəlki üslub bərpa olunacaq. Yenə də tətbiq edilsin?"</string>
+	<string name="kg_depth_preset_button_download">Dinamik divar kağızını endir</string>
+    <string name="kg_depth_preset_button_downloading">Endirilir…</string>
+    <string name="kg_depth_preset_button_dynamic">Dinamik</string>
+    <string name="kg_depth_preset_button_static">Statik</string>
+    <string name="kg_depth_preset_dialog_content">Bu dərinlik effekti divar kağızının dinamik versiyası endirilib tətbiq edilsin?</string>
+    <string name="kg_depth_preset_dialog_download_button">Endir</string>
+    <string name="kg_depth_preset_dialog_image_button">Statik versiya</string>
+    <string name="kg_depth_preset_dialog_title">Dinamik divar kağızını endir</string>
+    <string name="kg_depth_preset_network_fail">Şəbəkə bağlantısı yoxdur</string>
+    <string name="kg_depth_preset_network_fail_download_pause">Şəbəkə bağlantısı yoxdur. Endirməyə fasilə verildi.</string>
+    <string name="kg_depth_produce_video_detail_failed">Dərinlik effekti, yalnız insanlar, itlər və pişiklər üçün istifadə oluna bilər</string>
+    <string name="kg_depth_produce_video_failed">"Dərinlik effekti tətbiq oluna bilmir"</string>
+    <string name="kg_depth_produce_video_progress_dialog_label">Süni zəka, video dərinlik effektini emal edir…</string>
+    <string name="kg_depth_video_apply_aod_close_toast">Video dərinlik effekti açıqdır. Tam ekranda Həmişə açıq ekran bağlıdır.</string>
+    <string name="kg_dialog_apply_linkage_video_wallpaper_confirm_title">Temanı tətbiq et</string>
+    <string name="kg_dialog_apply_linkage_video_wallpaper_negative_button">İmtina</string>
+    <string name="kg_dialog_apply_linkage_video_wallpaper_positive_button">Tətbiq et</string>
+    <string name="kg_dialog_apply_linkage_video_wallpaper_wallpaper_confirm">"Hazırda bir divar kağızı dəsti istifadə edirsiniz. Yeni bir tema tətbiq etsəniz, həm Kilid ekranının, həm də Əsas ekranın divar kağızları dəyişdiriləcək və Həmişə açıq ekran üçün əvvəlki üslub bərpa olunacaq. Yenə də tətbiq edilsin?"</string>
     <string name="kg_dialog_apply_not_support_super_wallpaper_confirm">"Bu Kilid ekranı Super divar kağızlarını dəstəkləmir. Davam etsəniz, həm Əsas, həm də Kilid ekranlarınızdakı divar kağızları əvəzlənəcək. Yenə də davam edilsin?"</string>
-    <string name="kg_dialog_apply_super_wallpaper_confirm">"Hazırda Super divar kağızı istifadə edirsiniz. Davam etsəniz, həm Əsas, həm də Kilid ekranınız yeni bir divar kağız ilə əvəz olunacaq. Yenə də davam edilsin?"</string>
+    <string name="kg_dialog_apply_successful">Uğurla tətbiq olundu</string>
+	<string name="kg_dialog_apply_super_wallpaper_confirm">"Hazırda Super divar kağızı istifadə edirsiniz. Davam etsəniz, həm Əsas, həm də Kilid ekranınız yeni bir divar kağız ilə əvəz olunacaq. Yenə də davam edilsin?"</string>
     <string name="kg_dialog_apply_super_wallpaper_nagetive_button">İmtina</string>
     <string name="kg_dialog_apply_super_wallpaper_positive_button">Oldu</string>
+	<string name="kg_dialog_enable_depth_function">Əvvəlcə dərinlik effektini işə sal</string>
     <string name="kg_dialog_fashion_gallery_button_abandon">Ləğv et</string>
     <string name="kg_dialog_fashion_gallery_button_negative">Tətbiq et</string>
     <string name="kg_dialog_fashion_gallery_button_positive">İmtina</string>
     <string name="kg_dialog_fashion_gallery_message">"Hazırda Divar kağızı Karuseli istifadə edirsiniz. Dinamik bir divar kağızının tətbiq edilməsi, Divar kağızı Karuselini söndürəcək. Yenə də tətbiq edilsin?"</string>
     <string name="kg_dialog_fashion_gallery_title">Diqqət</string>
     <string name="kg_dialog_fontfilter_dualclock_button">"İkili saat açıq olduqda şriftə düzəliş edilə bilmir"</string>
+	<string name="kg_dialog_no_content_available_the_moment">Burada hələ heç nə yoxdur</string>
+    <string name="kg_dialog_too_much_time_blocking">"Saat qeyri-müəyyəndir. Dərinlik effekti istifadə edilə bilmir."</string>
     <string name="kg_discard_changes_text">Dəyişikliklər ləğv edilsin?</string>
     <string name="kg_doodle_font_label">Qaralama</string>
     <string name="kg_doodle_primary_label">Qaralamalar</string>
     <string name="kg_doodle_secondary_disable_tip">Dərinlik effektini işə sal</string>
     <string name="kg_doodle_secondary_label">Arxaplan</string>
+	<string name="kg_doodle_text_not_support_clock_tip">"Bu saatı istifadə edərkən qaralamalar istifadə edilə bilmir"</string>
     <string name="kg_doodle_text_not_support_gallery_tip">"Divar kağızı Karuseli qaralamaları dəstəklənmir"</string>
 	<string name="kg_doodle_text_not_support_third_party_wallpaper_service_tip">"Üçüncü tərəf divar kağızları qaralamaları dəstəkləmir"</string>
     <string name="kg_doodle_text_not_support_wallpaper_tip">"Bu divar kağızı qaralamaları dəstəklənmir"</string>
@@ -709,6 +759,7 @@ Bu özəlliyi söndürmək üçün, Ayarlar &gt; Səs və titrəmə &gt; \"Profi
     <string name="kg_effects_tip_not_support_third_party_wallpaper_service">"Üçüncü tərəf divar kağızları effektləri dəstəkləmir"</string>
     <string name="kg_effects_tip_title">Sahənin dərinliyi və filtrlər</string>
     <string name="kg_enable_blur">Mat effekti</string>
+	<string name="kg_exit">Çıx</string>
     <string name="kg_font_filter_classic_primary_label">Əsas</string>
     <string name="kg_font_filter_classic_secondary_label">İkinci</string>
     <string name="kg_font_filter_doodle_primary_label">Qaralama</string>
@@ -721,8 +772,8 @@ Bu özəlliyi söndürmək üçün, Ayarlar &gt; Səs və titrəmə &gt; \"Profi
     <string name="kg_font_filter_hsl_title">Özəl rəng</string>
     <string name="kg_font_filter_magazine_a_b_primary_label">Vaxt</string>
     <string name="kg_font_filter_magazine_a_b_secondary_label">İmza</string>
-    <string name="kg_font_filter_magazine_c2_secondary_label">Dəqiqə</string>
-    <string name="kg_font_filter_magazine_c_style_1_primary_label">Əsas</string>
+    <string name="kg_font_filter_magazine_c2_secondary_label">İkinci</string>
+    <string name="kg_font_filter_magazine_c_style_1_primary_label">Birinci</string>
     <string name="kg_font_filter_magazine_c_style_3_primary_label">Saat</string>
     <string name="kg_font_filter_object_label_date">Tarix</string>
     <string name="kg_font_filter_object_label_date_color">Tarix rəngi</string>
@@ -754,6 +805,7 @@ Bu özəlliyi söndürmək üçün, Ayarlar &gt; Səs və titrəmə &gt; \"Profi
     <string name="kg_hierarchy_not_support_wallpaper_tip">"Bu divar kağızı dərinlik effektini dəstəkləmir"</string>
     <string name="kg_hierarchy_switch_label">Dərinlik effekti</string>
     <string name="kg_line_spacing">Xətt boşluğu</string>
+	<string name="kg_live_photo_land_tips">Üfüqi Canlı fotolar, yalnız statik foto kimi təyin edilə bilər</string>
     <string name="kg_magazine_a_b_primary_color_label">Saat</string>
     <string name="kg_magazine_a_b_secondary_color_label">İmza</string>
     <string name="kg_magazine_c_primary_color_label">Digər mətn</string>
@@ -782,8 +834,10 @@ Bu özəlliyi söndürmək üçün, Ayarlar &gt; Səs və titrəmə &gt; \"Profi
     <string name="kg_template_description_rhombus">Vaxt vacibdir. Mənalı et.</string>
     <string name="kg_template_preview_content_description">Önizləmə</string>
     <string name="kg_template_title_classic">Klassik</string>
+	<string name="kg_template_title_classic_phone">Mənzərə</string>
     <string name="kg_template_title_eastern_art">Şərq estetikası</string>
     <string name="kg_template_title_magazine">Jurnal</string>
+	<string name="kg_template_title_magazine_phone">İnsanlar</string>
     <string name="kg_template_title_mine">Kilid ekranı</string>
     <string name="kg_template_title_rhombus">Romb</string>
     <string name="kg_time_language_string">Rəqəm</string>
@@ -791,7 +845,8 @@ Bu özəlliyi söndürmək üçün, Ayarlar &gt; Səs və titrəmə &gt; \"Profi
     <string name="kg_title_content">Məzmun</string>
     <string name="kg_title_fonts_and_content">Şrift və məzmun</string>
     <string name="kg_title_name">Şrift</string>
-    <string name="kg_typesetting_string">Düzüm</string>
+    <string name="kg_typesetting_string">Üslub</string>
+    <string name="kg_wallpaper_blur_effect">Bulanıq divar kağızı</string>
     <string name="kg_wallpaper_filter_title">Divar kağızı effektləri</string>
     <string name="kg_wallpaper_filter_type_crystallized">Kristallar</string>
     <string name="kg_wallpaper_filter_type_focus">Fokus</string>
@@ -803,6 +858,7 @@ Bu özəlliyi söndürmək üçün, Ayarlar &gt; Səs və titrəmə &gt; \"Profi
     <string name="kg_wallpaper_filter_type_striped_lens">Linzalar</string>
     <string name="kg_wallpaper_filter_type_water">Su</string>
     <string name="kg_wallpaper_scale_hint_text">Qayçılamaq üçün çimdiklə</string>
+	<string name="kg_wallpaper_scroll_type_disable_tips">"Bu divar kağızı üçün sürüşdürmə işə salına bilmir"</string>
     <string name="kg_wallpaper_scroll_type_tips">Divar kağızı sürüşdürmə</string>
     <string name="kg_word_spacing">Xarakter boşluğu</string>
     <string name="kuyin_user_agreement_content">Özəl zəng səsi abunəlikləri iFlytek tərəfindən təmin edilir. Özəl zəng səsi abunəliklərini istifadə etməzdən əvvəl %s ilə razılaşmalısınız. Razılaşırsınız?</string>
@@ -832,6 +888,7 @@ Bu özəlliyi söndürmək üçün, Ayarlar &gt; Səs və titrəmə &gt; \"Profi
     <string name="large_icon_warning_not_install">Quraşdır: %s</string>
     <string name="large_icon_warning_not_install_msg">Super ikon istifadə edə bilmək üçün %s quraşdırılmalıdır. İndi quraşdırılsın?</string>
     <string name="like_list">Bəyənmələrim</string>
+	<string name="liked_talkback">Bəyənildi</string>
     <string name="linked_wallpaper">Divar kağızı dəstləri</string>
     <string name="live_wallpaper">Dinamik divar kağızı</string>
     <string name="load_from_local_photos">Qalereya</string>
@@ -908,6 +965,8 @@ dd-MM-yyyy"</string>
     <string name="miui_lock_aqi_level_description_mild">Mülayim</string>
     <string name="miui_lock_aqi_level_description_moderate">Qeyri-sağlam</string>
     <string name="miui_lock_aqi_level_description_serious">Şiddətli</string>
+	<string name="miui_lock_eastern_art_date_curisive_12">dd MMM h:mm</string>
+    <string name="miui_lock_eastern_art_date_curisive_24">dd MMM H:mm</string>
     <string name="miui_lock_eastern_art_date_time_12">d-M h:mm aa</string>
     <string name="miui_lock_eastern_art_date_time_24">d-M H:mm</string>
     <string name="miui_lock_empty"></string>
@@ -976,7 +1035,13 @@ M"</string>
     <string name="miuishare_title_more">Daha çox</string>
     <string name="miuishare_title_share">Paylaş</string>
     <string name="miuix_access_state_desc">Seçildi</string>
+	<string name="miuix_accessibility_title">Başlıq</string>
     <string name="miuix_alphabet_indexer_name">İndeks çubuğu</string>
+	<string name="miuix_appcompat_accessibility_collapse_state">Yığcamlaşdırıldı</string>
+    <string name="miuix_appcompat_accessibility_expand_state">Genişləndirildi</string>
+	<string name="miuix_appcompat_accessibility_finish_edit_action_mode">Düzəliş rejimindən çıx</string>
+    <string name="miuix_appcompat_accessibility_new_message">Yeni bildiriş</string>
+    <string name="miuix_appcompat_accessibility_start_edit_action_mode">Düzəliş rejiminə keç</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Heç birini seçmə</string>
     <string name="miuix_appcompat_action_mode_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_action_mode_title_empty">Elementləri seç</string>
@@ -992,6 +1057,18 @@ M"</string>
     <string name="miuix_appcompat_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_select_all_description">Hamısını seç</string>
     <string name="miuix_appcompat_select_item">Elementləri seç</string>
+	<string name="miuix_appcompat_show_dialog_description">Açılan pəncərə</string>
+    <string name="miuix_bottom_sheet_accessibility_scroll_down_to_close">Bağlamaq üçün aşağı sürüşdür</string>
+    <string name="miuix_bottom_sheet_accessibility_scroll_down_to_half_screen">Yarım ekrana keçmək üçün aşağı sürüşdür</string>
+    <string name="miuix_bottom_sheet_accessibility_scroll_down_to_minimized">Kiçiltmək üçün aşağı sürüşdür</string>
+    <string name="miuix_bottom_sheet_accessibility_scroll_up_to_half_screen">Yarım ekrana keçmək üçün yuxarı sürüşdür</string>
+    <string name="miuix_bottom_sheet_accessibility_scroll_up_to_maximized">Böyütmək üçün yuxarı sürüşdür</string>
+    <string name="miuix_bottom_sheet_accessibility_state_half_screen">Yarım ekran</string>
+    <string name="miuix_bottom_sheet_accessibility_state_maximized">Böyüdüldü</string>
+    <string name="miuix_bottom_sheet_accessibility_state_minimized">Kiçildildi</string>
+    <string name="miuix_bottom_sheet_accessibility_switch_to_half_screen">Yarım ekrana keç</string>
+    <string name="miuix_bottom_sheet_accessibility_switch_to_maximized">Böyüt</string>
+    <string name="miuix_bottom_sheet_accessibility_switch_to_minimized">Kiçilt</string>
     <string name="miuix_compat_contact">Kontaktlar</string>
     <string name="miuix_compat_dialog_button">Anladım</string>
     <string name="miuix_compat_dialog_cancel">İmtina</string>
@@ -1002,7 +1079,8 @@ M"</string>
     <string name="miuix_compat_dialog_update_title">Güncəllənməlidir</string>
     <string name="miuix_compat_mms">Mesajlaşma</string>
     <string name="miuix_indexer_collect">Kolleksiyalar</string>
-    <string name="miuix_indexer_selected">%s seçildi</string>
+    <string name="miuix_popup_window_default_title">Açılan pəncərə</string>
+    <string name="miuix_progressbar_loading">Bir saniyə…</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Təzələmək üçün aşağı çək</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Uğurla təzələndi</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Təzələnir…</string>
@@ -1011,6 +1089,9 @@ M"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">"İndilik bu qədər"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Bir saniyə…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Elementlər yüklənilə bilmədi"</string>
+	<string name="miuix_show_password">Parolu göstər</string>
+	<string name="miuix_stretchablewidget_collapsed">Bağlandı</string>
+    <string name="miuix_stretchablewidget_expanded">Genişləndirildi</string>
     <string name="mix_global_option">Ümumi</string>
     <string name="mix_global_option_des">Bildiriş paneli, Telefon, Mesajlaşma və digər sistem elementləri. İlkin seçimləri istifadə etmək üçün bu qutunun işarəsini götürün.</string>
     <string name="mix_home_option_des">Divar kağızı və saat. İlkin seçimləri istifadə etmək üçün bu qutunun işarəsini götürün.</string>
@@ -1143,6 +1224,7 @@ Satın aldığınız və ya sevimlilərə əlavə etdiyiniz elementləri görün
     <string name="pad_fold_no_permission">Anbar icazələri tələb olunur</string>
     <string name="pad_fold_no_permission_detail">Fərdiləşdirmə tərcihlərini dəyişdirə və endirilmiş elementləri saxlaya bilmək üçün, əvvəlcə bu özəlliyin anbara müraciətinə icazə verin.</string>
     <string name="password_toggle_content_description">Parolu göstər</string>
+	<string name="pause_download_talkback">Endirməyə fasilə ver</string>
     <string name="paying">Satın alınır…</string>
     <string name="personalize">Fərdiləşdirmə</string>
     <string name="personalize_alarm_ringtone_title">Zəngli saatlar</string>
@@ -1187,7 +1269,8 @@ Satın aldığınız və ya sevimlilərə əlavə etdiyiniz elementləri görün
     <string name="present_local_themes">Temalarım</string>
     <string name="present_local_themes_subtitle">Cihazınızı özəlləşdirin</string>
     <string name="present_official_themes">Seçdiklərimiz</string>
-    <string name="present_online_themes">Daha çox onlayn tema alın</string>
+    <string name="present_online_themes">Daha çox onlayn tema al</string>
+	<string name="preview_image_talkback">Önizləmə</string>
     <string name="privacy_action_failed_net_content">Bir şəbəkə xətası baş verdi. Bir və ya iki dəqiqə gözləyib yenidən sınayın.</string>
     <string name="privacy_action_failed_server_content">Bir server xətası baş verdi. Bir və ya iki dəqiqə gözləyib yenidən sınayın.</string>
     <string name="privacy_action_failed_title">Xəta</string>
@@ -1573,6 +1656,7 @@ Bu icazəni Ayarlar &gt; \"Gizlilik\"də verə bilərsiniz."</string>
     <string name="sdcard_not_mounted_dialog_message">"İndi SD kartı daxil edin.
 "</string>
     <string name="sdcard_not_mounted_dialog_title">SD kart aşkarlanmadı</string>
+	<string name="search_bar_talkback">Axtarış çubuğu</string>
     <string name="search_filter_name">Filtr</string>
     <string name="search_hint_header_text">Popular axtarışlar</string>
     <string name="search_menu_title">Axtar</string>
@@ -1716,6 +1800,7 @@ Bu icazəni Ayarlar &gt; \"Gizlilik\"də verə bilərsiniz."</string>
     <string name="tag_ad">Reklam</string>
     <string name="task_already_exist">Bu tapşırıq artıq mövcuddur</string>
     <string name="ten_thousand_unit">On min</string>
+	<string name="text_input_layout_default_error">Bu, ilkin xətadır</string>
     <string name="the_anniversary_of_lifting_martial_law">Hərbi Vəziyyətin Qaldırılma İldönümü</string>
     <string name="the_anti_aggression_day">Təcavüzlə Mübarizə Günü</string>
     <string name="the_arbor_day">Ağacəkmə Günü</string>
@@ -1873,6 +1958,8 @@ Bu icazəni Ayarlar &gt; \"Gizlilik\"də verə bilərsiniz."</string>
     <string name="title_system_audio_resource">Sistem zəng səsləri</string>
     <string name="title_system_wallpaper_resource">Sistem divar kağızları</string>
     <string name="to_activate_the_account">Xiaomi Hesabınızı indi aktivləşdirin</string>
+	<string name="to_lock_screen">Kilid ekranına təyin et</string>
+    <string name="to_the_desktop">Əsas ekrana təyin et</string>
     <string name="toast_both_all_apply_failured">"Əsas və ya Kilid ekranına tətbiq edilə bilmədi"</string>
     <string name="toast_both_all_apply_success">Əsas və Kilid ekranlarına uğurla tətbiq edildi</string>
     <string name="toast_home_apply_failured">"Əsas ekrana tətbiq edilə bilmədi"</string>
@@ -1964,6 +2051,8 @@ Daha çox seçim üçün Temalar &gt; Hesabım &gt; \"Tema laboratoriyası\"na g
     <string name="video_silence_apply_success">Səssiz video uğurla konfiqurasiya edildi</string>
     <string name="video_wallpaper_apply_warning">Bu divar kağızı həm Əsas, həm də Kilid ekranınıza tətbiq ediləcək. İndi tətbiq edilsin?</string>
     <string name="video_wallpaper_import">Element əlavə etmək üçün toxunun</string>
+	<string name="view_not_selected_talkback">Seçilmədi</string>
+    <string name="view_selected_talkback">Seçildi</string>
     <string name="vip_level_dialog_positive">Aydındır</string>
     <string name="vip_level_dialog_title">İpucu</string>
     <string name="vlog_saving_no_edit">Video hazırlanır…</string>

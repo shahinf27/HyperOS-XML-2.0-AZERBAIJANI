@@ -107,6 +107,10 @@
     <string name="accessibility_keyboard_symbol_board_shift2letter_button">Hərflər</string>
     <string name="accessibility_keyboard_symbol_board_symbol_lock_button">Simvol kilidi</string>
     <string name="accessibility_service_description"></string>
+	<string name="accessibility_sliding_button_state_description_off">Söndürüldü</string>
+	<string name="accessibility_sliding_button_state_description_on">İşə salındı</string>
+	<string name="accessibility_tab_state_description_unselect">Seçilmədi</string>
+	<string name="accessibility_tab_statedesc_unselect">Seçilmədi</string>
     <string name="action_button_text_100">Optimallaşdır</string>
     <string name="action_button_text_60">Düzəlt</string>
     <string name="action_button_text_60_80">Düzəlt</string>
@@ -839,6 +843,7 @@ Fərdi və qrup qırmızı zərfləri dəstəkləyir"</string>
     <string name="auto_task_setting_show_task_shortcut_in_desktop">Əsas ekran qısayolu</string>
     <string name="auto_task_show_notification_before_exclude">İcradan əvvəl bildirişlər</string>
     <string name="auto_task_show_notification_before_exit">Tamamlanmadan əvvəl bildirişlər</string>
+	<string name="auto_task_switch">Dəyişdir</string>
     <string name="auto_task_temp_allow">Oldu</string>
     <string name="auto_task_temp_no_exit">İmtina</string>
     <string name="auto_task_temp_no_need">İmtina</string>
@@ -851,7 +856,8 @@ Fərdi və qrup qırmızı zərfləri dəstəkləyir"</string>
     <string name="back_modifypassword">Parol növünün dəyişdirilməsinə qayıdın</string>
     <string name="back_sound_data">Mobil interneti açıb yenidən sınayın.</string>
     <string name="back_sound_fail">"Ayarlana bilmədi. Operator ayarları dəyişdirildi. Hazırkı SIM kartınızı internet kartı olaraq ayarlayın, şəbəkəyə bağlanıb yenidən sınayın."</string>
-    <string name="back_sound_success">Uğurla ayarlandı</string>
+    <string name="back_sound_no_support_oversea">"SIM %1$d, bu planı dəstəkləmir"</string>
+	<string name="back_sound_success">Uğurla ayarlandı</string>
     <string name="back_sound_support">Əvvəlcə Wi-Fi-ı söndürün</string>
     <string name="back_sound_support_china">Əvvəlcə Wi-Fi-ı söndürün</string>
     <string name="background_restrict_app_dialog_message">Bu tətbiq üçün arxaplan şəbəkə müraciətini məhdudlaşdırmaq, tətbiqin normal işləməsi, mesaj almasını, məzmun endirməsini və s. qeyri-mümkün edə bilər. Yenə də məhdudlaşdırılsın?</string>
@@ -923,6 +929,7 @@ Fərdi və qrup qırmızı zərfləri dəstəkləyir"</string>
     <string name="beauty_fun_filter">Gözəlləşdir</string>
     <string name="beauty_fun_front_light">Ön doldurma işığı</string>
     <string name="beauty_fun_light">Doldurma işığı</string>
+	<string name="beauty_fun_portrait_center_check">"Ultra HD rejimi FocusFrame-i dəstəkləmir"</string>
     <string name="beauty_fun_privacy">Gizlilik kamerası</string>
     <string name="beauty_fun_privacy_dialog_message">Kameranı üz tanıma özəllikləri üçün istifadə etdikdə, üzünüz avtomatik aşkarlanacaq və digər yaxalanmış sahələr maskalanacaq.</string>
     <string name="beauty_fun_privacy_dialog_tips">Bu özəllik, üz tanımanın uğur dərəcəsini azalda bilər</string>
@@ -933,6 +940,7 @@ Fərdi və qrup qırmızı zərfləri dəstəkləyir"</string>
     <string name="beauty_fun_privacy_tips">Gizlilik kamerası artıq uyumlu üz tanıma özəllikləri ilə ilkin olaraq istifadə olunacaq</string>
     <string name="beauty_fun_screen_light">Ekran doldurma işığı</string>
     <string name="beauty_fun_settings_light">Doldurma işığı parlaqlığı</string>
+	<string name="beauty_fun_ultra_clear_check">"FocusFrame, Ultra HD rejimi dəstəkləmir"</string>
     <string name="beauty_fun_video_effect">Video üçün gözəlləşdir</string>
     <string name="beauty_portrait_center_desc">Görüntülü zənglərdə və görüşlərdə üzləri avtomatik aşkarlayın və mərkəzləşdirin. Bu özəllik bəzi tətbiqlər tərəfindən dəstəklənmir.</string>
     <string name="beauty_settings">Ayarlar</string>
@@ -1023,6 +1031,7 @@ Yenə də, bəzi əməliyyatlarınız hələ tamamlanmayıb. Razılığı geri g
     <string name="bl_no_block_call">Əngəllənmiş zəng yoxdur.</string>
     <string name="bl_no_block_sms">Əngəllənmiş mesaj yoxdur.</string>
     <string name="blacklist_prefix_add_hint">Bu prefiks ilə başlayan bütün nömrələri əngəllə</string>
+	<string name="blacklist_prefix_add_hint_international">Xüsusi bir nömrə ilə başlayan zəngləri əngəllə</string>
     <string name="block_message_number">Mesajlar: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
     <string name="block_phone_number">Zənglər: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
     <string name="blur_clipboard1">Lövhə qoruması</string>
@@ -1147,6 +1156,11 @@ Yenə də, bəzi əməliyyatlarınız hələ tamamlanmayıb. Razılığı geri g
     <string name="cancal_to_setting_fingerprint">İmtina</string>
     <string name="cancel">İmtina</string>
     <string name="cancel_button">İmtina</string>
+	<string name="car_sickness_relief_comment_text">Nəqliyyat hərəkəti aşkarlandıqda, nəqliyyatın hərəkətdə olub-olmadığını göstərmək üçün ekranında hər iki tərəfində nöqtələr nümayiş olunur. Bu, hərəkət xəstəliyinin (motion sickness) başlamasına mane olur.</string>
+    <string name="car_sickness_relief_example_text_1">Nəqliyyat sürətləndikdə və ya yavaşladıqda</string>
+    <string name="car_sickness_relief_example_text_2">Nəqliyyat döndükdə və ya zolaq dəyişdirdikdə</string>
+    <string name="car_sickness_remind_time_title">Hərəkət göstəriciləri</string>
+    <string name="car_sickness_title">Hərəkət xəstəliyini aradan qaldırma</string>
     <string name="card_click_type_close_ad">Üst sağ küncdəki reklam düyməsini bağla</string>
     <string name="card_click_type_open_or_download">Sağ alt küncdə aç/endir</string>
     <string name="card_click_type_other">Digər sahələr</string>
@@ -1633,6 +1647,7 @@ Bu, istisnalara əlavə ediləcək, ancaq əvvəlcədən əngəllənmiş element
     <string name="domestic_roaming_setting">Milli rouminq</string>
     <string name="dont_bore">"Düymələr və bildirişlərin diqqətinizi yayındırmasına icazə verməyin"</string>
     <string name="download">Endir</string>
+	<string name="download_tvm_limit_toast">Endirmə yarımçıq kəsildi. Limit: %1$d MB. Bildiriş panelində detallara baxın.</string>
     <string name="download_tvm_title">Telefon Açar Komponenti qoşması</string>
     <string name="downloading">Endirilir</string>
     <string name="doze_optimization_summary">Toxunuş reaksiyası və həssaslığını artır</string>
@@ -2181,6 +2196,8 @@ könüllüsü"</string>
     <string name="game_anti_disturb_msg">Oyun \"Narahat etməyin\" rejimi</string>
     <string name="game_balance_more_setting_title">Əlavə ayarlar</string>
     <string name="game_balance_vision_enhance_subtitle">Oyunlar üçün kontrastı artırın və detalları təkmilləşdirin</string>
+	<string name="game_balance_vision_enhance_subtitle_xring_sr">"Yalnız oyunun ekran dəqiqliyi ən yüksək dəyərə ayarlandıqda əlçatandır"</string>
+    <string name="game_balance_vision_enhance_subtitle_xring_ys">"Yalnız oyunun render dəqiqliyi ən yüksək dəyərə ayarlandıqda əlçatandır"</string>
     <string name="game_balance_vision_enhance_title">Təkmil vizuallar</string>
     <string name="game_booster_close">Game Turbo bağlıdır</string>
     <string name="game_booster_intro">Game Turbo haqqında</string>
@@ -2315,6 +2332,8 @@ Ağıllı kadr sürəti açıq olduqda, oyundaxili və üçüncü tərəf kadr s
     <string name="gamebox_screenshot">Ekran şəkli</string>
     <string name="gamebox_simcard">SIM kartları dəyişdir</string>
     <string name="gamebox_time">Taymer</string>
+	<string name="gamebox_time_elapsed_time_talkback">%1$s %2$s</string>
+    <string name="gamebox_time_ready_to_start_talkback">Başladılmadı</string>
     <string name="gamebox_type_close">"Göstərmə"</string>
     <string name="gamebox_type_float">Sabit qısayol</string>
     <string name="gamebox_type_gesture">Göstərmək üçün sürüşdür</string>
@@ -2386,9 +2405,19 @@ Ağıllı kadr sürəti açıq olduqda, oyundaxili və üçüncü tərəf kadr s
     <string name="gb_barrage_chat_desc">Həmişə gözəl bir şeyin baş verəcəyinə inanın</string>
     <string name="gb_barrage_chat_pre_desc">Önizləmə</string>
     <string name="gb_barrage_chat_text_color">Rəng</string>
+	<string name="gb_barrage_chat_text_color_black_talkback">Qara</string>
+    <string name="gb_barrage_chat_text_color_blue_talkback">Mavi</string>
+    <string name="gb_barrage_chat_text_color_red_talkback">Qırmızı</string>
+    <string name="gb_barrage_chat_text_color_white_talkback">Ağ</string>
+    <string name="gb_barrage_chat_text_color_yellow_talkback">Sarı</string>
     <string name="gb_barrage_chat_text_size">Mətn ölçüsü</string>
     <string name="gb_barrage_chat_text_size_big">Böyük</string>
+	<string name="gb_barrage_chat_text_size_largest_talkback">Ən böyük</string>
+    <string name="gb_barrage_chat_text_size_medium_talkback">Orta</string>
+    <string name="gb_barrage_chat_text_size_slightly_large_talkback">Daha böyük</string>
+    <string name="gb_barrage_chat_text_size_slightly_small_talkback">Daha kiçik</string>
     <string name="gb_barrage_chat_text_size_small">Kiçik</string>
+	<string name="gb_barrage_chat_text_size_smallest_talkback">Ən kiçik</string>
     <string name="gb_barrage_chat_text_speed">Sürət</string>
     <string name="gb_barrage_chat_text_speed_faster">Sürətli</string>
     <string name="gb_barrage_chat_text_speed_moderate">Orta</string>
@@ -2649,6 +2678,7 @@ və Səs dəyişdiricimizi kəşf et!"</string>
     <string name="gb_voice_changer_user_status_renew">Yenilə</string>
     <string name="gb_voice_changer_user_tips_info_vip_expire">Abunəliyinizin vaxtı bitdi. Faydaları almaq üçün abunəliyinizi indi yeniləyin!</string>
     <string name="gb_voice_changer_user_vip_expired">Müddəti bitdi</string>
+	<string name="gb_voice_changer_user_vip_loading">Bir saniyə…</string>
     <string name="gb_voice_changer_user_vip_remain_time">Son istifadə tarixi: %s</string>
     <string name="gb_wild_mode_game_performance_enhance">Oyun performansını təkmilləşdir</string>
     <string name="gb_wonderful_moment_toast_window_new_pop">"Oyun seanslarınızın əsas
@@ -2667,6 +2697,8 @@ məqamlarını yazın"</string>
     <string name="gb_xunyou_gift_type_two_new">Xunyou %d günlük sürətləndirmə</string>
     <string name="gd_app_edit_done">Hazırdır</string>
     <string name="gd_app_edit_title_new">Üzən pəncərə qısayollarına düzəliş et</string>
+	<string name="gd_beauty_manage_summary">Bu özəlliyi istifadə etmək üçün görüntülü zəng zamanı yan alət qutusundan açın</string>
+    <string name="gd_beauty_manage_title">Görüntülü zənglər üçün gözəlləşdirmə</string>
     <string name="gd_dock_shortcut_fullscreen">Tam ekran</string>
     <string name="gd_dock_shortcut_splitescreen">Bölünmüş ekran</string>
     <string name="gd_setting_conversation">Konfrans alətləri</string>
@@ -2680,6 +2712,7 @@ məqamlarını yazın"</string>
     <string name="gd_setting_dock_title">Yan çubuğu</string>
     <string name="gd_setting_dock_video_summary">Videolara baxarkən Dolby Atmos kimi effektləri istifadə et</string>
     <string name="gd_setting_dock_video_summary_new">Videolara baxarkən alətləri və effektləri istifadə et</string>
+	<string name="gd_setting_group_custom_beauty_new">Görüntülü zənglər üçün Gözəlləşdirməni idarə et</string>
     <string name="gd_setting_group_custom_conversation_apps">Zənglər üçün səs izini yaz</string>
     <string name="gd_setting_group_custom_gtb_apps">Oyunlar</string>
     <string name="gd_setting_group_custom_gtb_apps_new">Oyun tətbiqlərini idarə et</string>
@@ -3303,7 +3336,11 @@ Cihazınız indi %s daha sürətlidir."</string>
     <string name="miui_optimization_close_final_tip">Sistem optimallaşdırması söndürülsün?</string>
     <string name="miui_optimization_close_title">Bu özəllik, gəlişdiricilər üçün nəzərdə tutulub və ümumi istifadəçilər üçün əlverişli olmaya bliər. Sistem optimallaşdırmasını söndürmək, aşağıdakı dəyişiklikləri gətirə bilər:</string>
     <string name="miuix_access_state_desc">Seçildi</string>
+	<string name="miuix_accessibility_title">Başlıq</string>
     <string name="miuix_alphabet_indexer_name">İndeks çubuğu</string>
+	<string name="miuix_appcompat_accessibility_finish_edit_action_mode">Düzəliş rejimindən çıx</string>
+    <string name="miuix_appcompat_accessibility_new_message">Yeni mesaj</string>
+    <string name="miuix_appcompat_accessibility_start_edit_action_mode">Düzəliş rejiminə keç</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Heç birini seçmə</string>
     <string name="miuix_appcompat_action_mode_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_action_mode_title_empty">Elementləri seç</string>
@@ -3319,8 +3356,22 @@ Cihazınız indi %s daha sürətlidir."</string>
     <string name="miuix_appcompat_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_select_all_description">Hamısını seç</string>
     <string name="miuix_appcompat_select_item">Elementləri seç</string>
+	<string name="miuix_appcompat_show_dialog_description">Açılan pəncərə</string>
+    <string name="miuix_bottom_sheet_accessibility_scroll_down_to_close">Bağlamaq üçün aşağı sürüşdür</string>
+    <string name="miuix_bottom_sheet_accessibility_scroll_down_to_half_screen">Yarım ekrana keçmək üçün aşağı sürüşdür</string>
+    <string name="miuix_bottom_sheet_accessibility_scroll_down_to_minimized">Kiçiltmək üçün aşağı sürüşdür</string>
+    <string name="miuix_bottom_sheet_accessibility_scroll_up_to_half_screen">Yarım ekrana keçmək üçün yuxarı sürüşdür</string>
+    <string name="miuix_bottom_sheet_accessibility_scroll_up_to_maximized">Böyütmək üçün yuxarı sürüşdür</string>
+    <string name="miuix_bottom_sheet_accessibility_state_half_screen">Yarım ekran</string>
+    <string name="miuix_bottom_sheet_accessibility_state_maximized">Böyüdüldü</string>
+    <string name="miuix_bottom_sheet_accessibility_state_minimized">Kiçildildi</string>
+    <string name="miuix_bottom_sheet_accessibility_switch_to_half_screen">Yarım ekrana keç</string>
+    <string name="miuix_bottom_sheet_accessibility_switch_to_maximized">Böyüt</string>
+    <string name="miuix_bottom_sheet_accessibility_switch_to_minimized">Kiçilt</string>
     <string name="miuix_indexer_collect">Kolleksiyalar</string>
     <string name="miuix_indexer_selected">%s seçildi</string>
+	<string name="miuix_popup_window_default_title">Açılan pəncərə</string>
+    <string name="miuix_progressbar_loading">Yüklənir</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Təzələmək üçün aşağı çək</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Uğurla təzələndi</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Təzələnir…</string>
@@ -3328,7 +3379,8 @@ Cihazınız indi %s daha sürətlidir."</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"İndilik bu qədər"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">"İndilik bu qədər"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Bir saniyə…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Elementlər yüklənilə bilmədi"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Elementlər yüklənə bilmədi"</string>
+	<string name="miuix_show_password">Parolu göstər</string>
     <string name="mixed_need_to_confirm">Təsdiqləmək üçün yenidən daxil edin</string>
     <string name="mixed_password_confirmed_header_confirm">Uğurla ayarlandı. Təsdiqləmək üçün toxunun.</string>
     <string name="mixed_password_confirmed_header_continue">Uğurla ayarlandı. \"Növbəti\"yə toxunun.</string>
@@ -3735,6 +3787,7 @@ Ruterinizi bağlamaq üçün başqa bir Ethernet kabeli istifadə etməyə çal�
     <string name="optimize_result_toast_system_no_item_selected">Heç bir element seçilmədi</string>
     <string name="optional_permissions">İxtiyari icazələr</string>
     <string name="optional_permissions_desc">"Əlavə özəllikləri istifadə edərkən bu icazələr tələb olunur."</string>
+	<string name="optmizingbar_item_img_description">Hazırdır</string>
     <string name="optmizingbar_optimize_done">Optimallaşdırıldı</string>
     <string name="optmizingbar_ready">Optimallaşdırılır…</string>
     <string name="optmizingbar_stop_optmize">Dayandır</string>
@@ -3799,6 +3852,9 @@ Ruterinizi bağlamaq üçün başqa bir Ethernet kabeli istifadə etməyə çal�
     <string name="pc_battery_detail_curve_reference_now">İndi</string>
     <string name="pc_battery_detail_device_item_title">Batareya istifadə statistikaları</string>
     <string name="pc_battery_health_revise_title">Batareya sağlamlıq məlumatını kalibrlə</string>
+	<string name="pc_battery_history_accessibility_item_chart_binary">Son doldurmadan bəri istifadə edilən vaxt: %1$s %2$s</string>
+    <string name="pc_battery_history_accessibility_item_chart_single">Son doldurmadan bəri istifadə edilən vaxt: %1$s</string>
+    <string name="pc_battery_history_accessibility_item_consueme_list">%1$s, Batareya istifadəsi: %2$s</string>
     <string name="pc_battery_history_battery_detail_menu_item">Detallar</string>
     <string name="pc_battery_history_battery_software_menu_item">Proqram təminatı</string>
     <string name="pc_battery_history_consume_all_menu_item">Hamısı</string>
@@ -3898,9 +3954,11 @@ Ruterinizi bağlamaq üçün başqa bir Ethernet kabeli istifadə etməyə çal�
     <string name="pc_going_to_extreme_mode">Yuxu rejiminə keçilir</string>
     <string name="pc_handle_battery_level">Tutacaq</string>
     <string name="pc_have_no_battery_issue">Problem yoxdur</string>
+	<string name="pc_health_charge_default">Tam dolub</string>
     <string name="pc_health_charge_protect_noti_summary_title">Cihaz, batareya səviyyəsi %1$s olduqda doldurmanı dayandıracaq</string>
     <string name="pc_health_charge_protect_notification_summary">Batareyanın yaşlanmasını azaltmaq üçün Batareya qorumasını işə sal</string>
     <string name="pc_health_charge_protect_summary">Batareya ömrünü uzatmaq üçün cihaz, batareya səviyyəsi %1$s olduqda doldurmanı dayandıracaq</string>
+	<string name="pc_health_charge_protect_summary_new">Batareya ömrünü uzatmaq üçün cihaz, batareya səviyyəsi %1$s olduqda doldurmanı dayandıracaq və yalnız planlaşdırılan vaxtda tam doldurulacaq</string>
     <string name="pc_health_charge_protect_title">Batareya qoruması</string>
     <string name="pc_hide_more_power_rank_apps">Gizlət</string>
     <string name="pc_hidemode_normal">Tarazlı</string>
@@ -3919,6 +3977,8 @@ Ruterinizi bağlamaq üçün başqa bir Ethernet kabeli istifadə etməyə çal�
     <string name="pc_install_manager">USB vasitəsilə quraşdır</string>
     <string name="pc_intellect_charge_protect_summary">İstifadə ssenarilərinə görə doldurmanı ayarla</string>
     <string name="pc_intellect_charge_protect_title">Optimallaşdırılmış doldurma</string>
+	<string name="pc_is_exiting_low_temperature">"Söndürülür
+Soyuğa davamlılıq rejimi"</string>
     <string name="pc_is_exiting_super_power">"Ultra batareya qənaəti
 söndürülür"</string>
     <string name="pc_keywords_fast_charge">Sürətli doldurma</string>
@@ -3940,7 +4000,7 @@ söndürülür"</string>
     <string name="pc_low_battery_fast_charge_summary">Ekran sönülü və batareya az olduqda doldurmanı sürətləndirmək üçün məhsulla birlikdə gələn doldurma cihazınızı qoşun. Bu özəllik cihazınız isinməsinə səbəb ola bilər.</string>
     <string name="pc_low_temp_charge_summary">Doldurma cihazını qoşulu saxlayın və normal doldurmaq üçün ekran söndükdən sonra batareyanın isinməsini gözlə</string>
     <string name="pc_low_temp_charge_title">Zəif temperaturda doldurma</string>
-    <string name="pc_low_temperature_extreme_endurance_summary">Mühit temperaturu həddən artıq aşağı olduqda batareya ömrünü uzatmaq üçün cihaz performansını məhdudlaşdırın</string>
+    <string name="pc_low_temperature_extreme_endurance_summary">Soyuq mühitdə batareya ömrünü uzatmaq üçün cihaz performansını məhdudlaşdırın</string>
     <string name="pc_low_temperature_extreme_endurance_title">Soyuğa davamlılıq rejimi</string>
     <string name="pc_main_activity_back">Geri</string>
     <string name="pc_main_battery_text_day">%1$s dəq əlavə edildi, %2$s gün qaldı</string>
@@ -5724,11 +5784,11 @@ Razılıq indi geri götürülsün?"</string>
     <string name="st_sub_title_whiteblack_list_group">Əngəlli siyahısı</string>
     <string name="st_sum_call_wait">Uzaqda olan mesajınız, gələn zənglər üçün məşğul siqnalı olaraq oxudulacaq.</string>
     <string name="st_summary_blacklist_numbers">Xüsusi nömrə və ərazilərdən gələn zəng və mesajları əngəllə</string>
-    <string name="st_summary_blacklist_numbers_international">Xüsusi nömrələrdən gələn zəng və mesajları əngəllə</string>
+    <string name="st_summary_blacklist_numbers_international">Zəngləri nömrəyə və ya prefiksə görə əngəllə</string>
     <string name="st_summary_keywords_blacklist">Mesajları əngəlləmək üçün açar sözlər əlavə et</string>
     <string name="st_summary_special_numbers">İşarələnmiş telefon nömrələrini əngəllə</string>
     <string name="st_summary_whitelist_numbers">Xüsusi nömrə və ərazilərdən gələn zəng və mesajlara icazə ver</string>
-    <string name="st_summary_whitelist_numbers_international">Xüsusi nömrələrdən gələn zəng və mesajlara icazə ver</string>
+    <string name="st_summary_whitelist_numbers_international">Zənglərə nömrəyə və ya prefiksə görə icazə ver</string>
     <string name="st_title_addblacklist">Əngəlli siyahısına əlavə et</string>
     <string name="st_title_addwhitelist">İstisnalara əlavə et</string>
     <string name="st_title_adress">Yerləşmə əlavə et</string>
@@ -6071,6 +6131,9 @@ Format zamanı ^2 daxilindəki mövcud məzmun silinəcək. Məzmunu itirməmək
     <string name="tab_guide">Bələdçi</string>
     <string name="tab_sort_all">Hamısı</string>
     <string name="tab_title">Əngəlli siyahısı</string>
+	<string name="talkback_virus_scan_omitted">Skan edilmədi</string>
+    <string name="talkback_virus_scan_risky">Riskli</string>
+    <string name="talkback_virus_scan_safe">Güvənli</string>
     <string name="task_summary_close_airplane">Təyyarə rejimini söndür</string>
     <string name="task_summary_close_auto_brightness">Avto-parlaqlığı söndür</string>
     <string name="task_summary_close_bluetooth">Bluetooth-u söndür</string>
@@ -6190,6 +6253,7 @@ Format zamanı ^2 daxilindəki mövcud məzmun silinəcək. Məzmunu itirməmək
     <string name="text_day"></string>
     <string name="text_done">Oldu</string>
     <string name="text_error">Əlaqədar tətbiq versiyası çox köhnədir</string>
+	<string name="text_input_layout_default_error">Bu, ilkin xətadır</string>
     <string name="text_security">Gizlilik</string>
     <string name="the_anniversary_of_lifting_martial_law">Hərbi Vəziyyətin Qaldırılma İldönümü</string>
     <string name="the_anti_aggression_day">Təcavüzlə Mübarizə Günü</string>
@@ -6869,6 +6933,7 @@ Bu özəllik Batareya qənaəti və ya Ultra batareya qənaəti açıq olduqda i
     <string name="weight_heavy">Qalın</string>
     <string name="weight_light">Nazik</string>
     <string name="whitelist_prefix_add_hint">Prefiksi olan bütün nömrələri istisnalara əlavə et</string>
+	<string name="whitelist_prefix_add_hint_international">Xüsusi bir nömrə ilə başlayan zənglərə icazə ver</string>
     <string name="widget_appbehavior_apps_count_unit">İkinci dərəcəli</string>
     <string name="widget_appbehavior_apps_title">Tətbiq A və digər 3 tətbiq</string>
     <string name="widget_back_guide_appbehavior_summary">Gizlilik və güvənlik, tam aydındır</string>
