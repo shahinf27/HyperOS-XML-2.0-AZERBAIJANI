@@ -1262,9 +1262,13 @@ Sonuncu dəfə %2$s tarixində işə salındı"</string>
     <string name="back_navigation_animation_summary">Proqnozlaşdırılan geri animasiyaları üçün sistem animasiyalarını fəallaşdır</string>
     <string name="back_sensitivity_dialog_message">Daha yüksək həssaslıq, ekranın kənarlarındakı tətbiq jestləri ilə çaxnaşa bilər.</string>
     <string name="back_sensitivity_dialog_title">Geri getmə həssaslığı</string>
+	<string name="back_strap_image_new_text">Vizual bildirişlər və fərdiləşdirilmiş işıq effektləri almaq üçün bu özəlliyi işə salın</string>
     <string name="back_strap_image_simplified_text">Cihaz ekranı sönülü ikən üzü aşağı olduqda, arxa işıq, bildiriş xatırladıcılarını nümayiş etdirəcək</string>
     <string name="back_strap_image_text">Cihaz ekranı sönülü ikən üzü aşağı olduqda, arxa işıq, fərqli səhnələr üçün bildiriş xatırladıcılarını və işıqlandırma effektlərini nümayiş etdirəcək</string>
-    <string name="back_strap_status_close">Bağlı</string>
+    <string name="back_strap_off">Bağlı</string>
+    <string name="back_strap_on">Açıq</string>
+    <string name="back_strap_on_back_light_display">Yalnız ekran üzü aşağı olduqda</string>
+	<string name="back_strap_status_close">Bağlı</string>
     <string name="back_strap_status_open">Açıq</string>
     <string name="back_strap_title">Arxa işıq effektləri</string>
     <string name="back_tap">Geri toxunma</string>
@@ -2676,6 +2680,7 @@ Bu icazə açıq olduqda, bir etiket aşkarlandıqda bu tətbiq seçim olaraq ə
     <string name="choose_unlock_face_msg">Üz məlumatlarını yazmazdan əvvəl bir ekran kilidi təyin edin.</string>
     <string name="choose_unlock_fingerprint_msg">Barmaq izinizi əlavə etməzdən əvvəl ekran kilidi təyin edin.</string>
     <string name="choose_wechat_payment">WeChat</string>
+	<string name="circle_to_search_title">Axtarmaq üçün dairə</string>
     <string name="ciwlan_channel_name">Operator interneti üzərindən səsli zəng</string>
     <string name="ciwlan_dialog_nw_compatible_dds_incompatible_ndds_attempt_dds">Digər abunəliyin tərcih edilən şəbəkə növü LTE, NR və ya Qlobal dəstəkləmədiyi üçün data tərcihi dəyişdikdə Operator interneti üzərindən səsli zəng əlçatmaz ola bilər.</string>
     <string name="ciwlan_dialog_nw_compatible_dds_incompatible_ndds_attempt_ndds">Tərcih edilən şəbəkə növü LTE, NR və ya Qlobal dəstəkləmədiyi üçün data tərcihi dəyişdikdə Operator interneti üzərindən səsli zəng əlçatmaz ola bilər.</string>
@@ -4359,6 +4364,13 @@ Daha ətraflı öyrənmək üçün kredit provayderinizlə əlaqə saxlayın."</
     <string name="flashback_wangzhe_summary">Yenidən canlanma geri sayımını göstər</string>
     <string name="flip_aod_settings_title">Ekranı kilidlə (xarici)</string>
     <string name="flip_application_settings_title">Xarici ekran tətbiqləri</string>
+	<string name="flip_continuity_bottom_text">"Bəzi tətbiqlər hələ xarici ekranda nümayiş olunmaq üçün optimallaşdırılmayıb. Nəticələr dəyişə bilər."</string>
+    <string name="flip_continuity_directly_off_the_screen">Ekranı söndür</string>
+    <string name="flip_continuity_display_lock_screent">Kilid ekranı</string>
+    <string name="flip_continuity_settings_title">Qatlanmış ekran</string>
+    <string name="flip_continuity_status_list_title">Qatlanmış ekran</string>
+    <string name="flip_continuity_use_list_title">Qatladıqdan sonra istifadəyə davam et</string>
+    <string name="flip_continuity_use_subtitle">Bu özəllik açıq olduqda, cihazı qatladıqdan sonra seçilmiş tətbiqləri istifadə etməyə davam edə bilərsiniz</string>
     <string name="flip_dial_settings_title">Vicet</string>
     <string name="flip_screen_settings_title">Xarici ekran</string>
     <string name="flip_wallpaper_settings_title">Divar kağızı</string>
@@ -4561,6 +4573,10 @@ Avto-nüsxələməni işə saldıqda, cihaz və tətbiq datası müntəzəm olar
     <string name="gaze_lock_screen_summary">"Cihaz, ekrana baxdığınız zaman kilidi açıq tutacaq və başqa yerə baxdığınız zaman gizliliyi qorumaq üçün kilidlənəcək. Bununla da avtomatik kilidlənmə üçün təyin edilən vaxt ayarı yararsız olacaq."</string>
     <string name="gaze_lock_screen_title">Varlığı aşkarla</string>
     <string name="gd_setting_title">Yan çubuğu</string>
+	<string name="gemini">Gemini</string>
+    <string name="gemini_description">İdeyalarınızı gücləndirmək üçün Gemini ilə söhbət edin. Yeni yollarla öyrənmə, təşəkkür notları yazma, tədbir planlaşdırma və daha çoxu üçün kömək alın. Köməyi yeni yollarla əldə etmək üçün mətn, səs, foto və kameranızdan faydalanın.<a href="https://support.google.com/gemini/answer/14579026#zippy=%2Cwhere-you-can-download-the-gemini-app-from-the-google-play-store">Mövcudluq barədə daha ətraflı öyrənin.</a></string>
+    <string name="gemini_function">Yeni Süni Zəka Assistentiniz Gemini ilə ideyalarınızı gücləndirin</string>
+    <string name="gemini_setting">Gemini Ayarı</string>
     <string name="general_category_title">Ümumi</string>
     <string name="general_notification_header">İdarə et</string>
     <string name="general_text">Mətn xanası</string>
@@ -6583,6 +6599,7 @@ Bu əməliyyatın geri dönüşü yoxdur."</string>
     <string name="miuix_appcompat_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_select_all_description">Hamısını seç</string>
     <string name="miuix_appcompat_select_item">Elementləri seç</string>
+	<string name="miuix_appcompat_show_dialog_description">Açılan pəncərə</string>
     <string name="miuix_indexer_collect">Kolleksiyalar</string>
     <string name="miuix_indexer_selected">%s seçildi</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Təzələmək üçün aşağı çək</string>
@@ -8176,6 +8193,8 @@ Cihazınızı kompüterə bağlayan və ya cihazınızda zərərli tətbiq qura�
     <string name="process_stats_type_cached">Keşlənmiş</string>
     <string name="process_stats_type_foreground">Önplan</string>
     <string name="processes_subtitle">Proseslər</string>
+	<string name="product_page_name_des_super_ai">Ağıllı və şəxsi assistentiniz</string>
+    <string name="product_page_name_super_ai">Xiaomi Hyper XiaoAi</string>
     <string name="profile_connect_timeout_subtext">Bağlantı problemi. Cihazın söndürüb yenidən açın</string>
     <string name="profile_info_settings_title">Profil məlumatı</string>
     <string name="profile_owner_add_title">Profil Meneceri aktivləşdirilsin?</string>
@@ -8942,9 +8961,11 @@ Tətbiq sancılmasını istifadə etmək üçün: \u0009
     <string name="search_status_bar_settings_style">Bildirişlər və keçidlər düzümü;keçidlər;keçidlər düzümü;keçidləri ayır;birləşdirilmiş;ayır;birləşdir</string>
     <string name="search_status_bar_settings_toggle_collapse_after_clicked">Toxunduqdan sonra yığcamlaşdır;yığcamlaşdır;gizlət</string>
     <string name="search_status_bar_settings_toggle_position">Keçid mövqeləri;Keçidlər;keçid;keçidləri dəyişdir</string>
+	<string name="search_status_serial_number">SN;sn;Sn;sN</string>
     <string name="search_storage_settings">Anbar;Yaddaş</string>
     <string name="search_sync_settings">Sinx;Avtomatik;Yalnız Wi-Fi</string>
     <string name="search_system_app_settings">Sistem tətbiqləri</string>
+	<string name="search_system_personalize_title">divar kağızı slayd şousu;səhər salamlamaları;Divar kağızı Karuseli;tema stili;temalar;tema ayarları;Kilid ekranı divar kağızı;Əsas ekran divar kağızı;şəffaf divar kağızları;Əsas ekran və divar kağızları;Xiaomi divar kağızları;divar kağızı şəffaflığı;divar kağızlarım;onlayn divar kağızları;zəng səsləri;telefon zəng səsi;mətn zəng səsi;zəng səsi;zəng səsi ayarları;zəngli saat zəng səsi;sürüşən divar kağızı;slayd şou divar kağızı;foto slayd şousu divar kağızı;Divar kağızı Karuseli slayd şousu;onlayn temalar;doldurma səsi;doldurma animasiyaları;barmaq izi effektləri;barmaq izi stili;kilid açma animasiyası;tema;fərdiləşdir;fərdiləşdirmə;divar kağızı;ikon;dinamik divar kağızı;Kilid ekranı effektləri;kiçik ikonlar;oxuma rejimi;animasiya;rəsmi temalar;seçilmiş temalar;seçilmiş divar kağızları;gözəlləşdirmə;sevimli divar kağızları;video divar kağızı;özəl zəng səsi;geri zəng;siqnal səsləri;bildiriş səsləri;mətn siqnalı;göy qurşağı batareya;məşhur divar kağızları;düz rəngli divar kağızları;dinamik Kilid ekranı;doldurma effektləri;çox funksiyalı Kilid ekranı;giroskop;dairəvi ikonlar;düz ikonlar;musiqi Kilid ekranı;Əsas ekran effektləri;dinamik ikonları;əllə çəkilmiş ikonlar;sərbəst stil Əsas ekran;Kilid ekranı animasiyası;başlatma animasiyası;şəffaf tema;slayd şou Kilid ekranı</string>
     <string name="search_theme_settings_title">Temalar;Tema;Fərdiləşdirmə;Fərdiləşdir</string>
     <string name="search_title_font_settings">şrift ölçüsü;şrift çəkisi;şrift üslubu</string>
     <string name="search_touch_assistant">Cəld top;Toxunuş köməkçisi</string>
@@ -10527,6 +10548,8 @@ Daha sürətli ^3 istifadə etməyə çalışın və ya bunun əvəzinə portati
     <string name="tethering_help_button_text">Kömək</string>
     <string name="tethering_interface_options">İnternet paylaşımı</string>
     <string name="tethering_settings_not_available">Birinci sahədə internet paylaşımı ayarlarını dəyişdir</string>
+	<string name="text_input_layout_default_content_description">这是默认的content description</string>
+    <string name="text_input_layout_default_error">这是默认的error</string>
 	<string name="text_layout_optimization_switch_label">Mətn düzümünü optimallaşdır</string>
     <string name="text_layout_optimization_switch_toast">"Hazırkı şriftlə mətn düzümü optimallaşdırıla bilmir"</string>
     <string name="texture_adjust_temperature_title">Rəng temperaturu</string>
@@ -10814,6 +10837,7 @@ Fəal olduqda, bu cihaz Thread şəbəkəsinə qoşulmaq üçün uyğun olur və
     <string name="tv_media_transfer_earc_subtitle">eARC ilə bağlantılıdır</string>
     <string name="tv_media_transfer_hdmi">HDMI çıxışı</string>
     <string name="tv_media_transfer_internal_speakers">Daxili dinamiklər</string>
+	<string name="twenty_four_select_time_format">24 saatlıq format</string>
     <string name="twilight_mode_launch_location">Yerləşmə ayarları</string>
     <string name="twilight_mode_location_off_dialog_message">Şəfəq və qürub vaxtlarını müəyyən etmək üçün cihazın yerləşməsi lazımdır.</string>
     <string name="twohours">1 saat</string>

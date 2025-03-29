@@ -180,6 +180,8 @@ Xiaomi, (ehtiva etdiyi şəxsi datalar daxil olmaqla) bildirişlərin və mesajl
     <string name="not_sent_recently">Təzəlikcə yoxdur</string>
     <string name="not_set">Ayarlanmadı</string>
     <string name="notch_and_status_bar_setting">İdarəetmə mərkəzi və status çubuğu</string>
+	<string name="notification_aon_land_support_dev_message">Ekrana bir neçə şəxsin baxdığını anlamaq üçün üzən bildiriş nümayiş olunduqda bu özəllik ön kameraya müraciət edəcək. Yığılmış təsvirlər, yalnız ekrana baxan insan sayının cihaz üzərində təhlil edilməsi üçün istifadə olunacaq. Daha yaxşı dəqiqlik üçün bu özəllik yalnız mənzərə rejimində dəstəklənir. Bildiriş məzmunu portret rejimində ilkin olaraq gizlədiləcək.</string>
+    <string name="notification_aon_land_support_dev_summary">Bu model, bu özəlliyi yalnız mənzərə rejimində dəstəkləyir. Bildiriş məzmunu portret rejimdə gizlədiləcək.</string>
     <string name="notification_aon_summary">Cihazınıza bir neçə nəfər baxdıqda bildiriş məzmunu gizlədilsin</string>
     <string name="notification_aon_title">Üzən bildirişin ağıllı nümayişi</string>
     <string name="notification_aon_title_aon">AON bildirişləri</string>
@@ -204,7 +206,7 @@ Xiaomi, (ehtiva etdiyi şəxsi datalar daxil olmaqla) bildirişlərin və mesajl
     <string name="privacy_text">"Xiaomi-nin bu özəlliyi təqdim etməsi üçün bildiriş məzmununa (bura şəxsi məlumatlar daxil ola bilər) müraciət etməsi və onu emal etməsi lazımdır, ancaq Xiaomi bu məlumatları saxlamayacaq."</string>
     <string name="privacy_text_with_link"><Data>Datalarınızı necə idarə etdiyimizi anlamaq üçün &lt;a href=https://privacy.mi.com/AISummary/en_US/&gt;AI Brifinq Gizlilik Siyasətimizi&lt;/a&gt;</Data><Data> oxuyun. Bu xidmət haqqında daha çox məlumat üçün &lt;a href=https://terms.miui.com/doc/AiListSummary.html?lang=en_US&gt;AI Brifinq İstifadəçi Razılaşmamızı&lt;/a&gt; oxuyun.</Data></string>
     <string name="privacy_title">Şərtlər və qaydalar</string>
-    <string name="rule_keyguard_display">Format</string>
+    <string name="rule_keyguard_display">%s tərcihləri</string>
     <string name="saturday">Şənbə</string>
     <string name="saturday_short">Şәn</string>
     <string name="saturday_shortest">Şәn</string>

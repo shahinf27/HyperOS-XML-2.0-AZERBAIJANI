@@ -421,6 +421,11 @@ basılı tutun, sonra sürükləyin"</string>
     <string name="fullscreen_slide_to_small_freeform_summary_squarehot">Ekranın altından üst kənara sürüşdürün</string>
     <string name="function_not_support">Bu cihazda dəstəklənmir</string>
     <string name="gd_setting_title">Yan çubuğu</string>
+	<string name="genimi_wake_up_guide_know">Anladım</string>
+    <string name="genimi_wake_up_guide_press_power_and_volume_up_message">Söndürmək və ya yenidən başlatmaq üçün Güc və Səs artırma düymələrinə basın</string>
+    <string name="genimi_wake_up_guide_press_power_key_message">Güc düyməsini %s saniyə basılı tutun, sonra Gemini-yə müraciət etmək üçün buraxın</string>
+    <string name="genimi_wake_up_guide_settings">Ayarlar</string>
+    <string name="genimi_wake_up_guide_title">Güc düyməsi ilə aç</string>
     <string name="gesture_disabled">Bağlı</string>
     <string name="gesture_enable">Açıq</string>
     <string name="gesture_fullscreen_to_splitscreen">Bölünmüş ekrana keç</string>
@@ -935,6 +940,9 @@ Düyməni %s saniyə basılı tutsanız, bunun əvəzinə söndürmə menyusunu 
     <string name="power_key_how_start_detail">Güc düyməsini 0.5 saniyə basılı tutun. Danışmaq üçün buraxın.</string>
     <string name="power_key_start_enjoy">\"Google Köməkçisi\"ni istifadə etməyə başla</string>
     <string name="power_key_start_guide">Tam ekran cihazlarda Güc düyməsini istifadə edərək \"Google Köməkçisi\"ni oyandırın</string>
+	<string name="power_off_press_power_and_volume_up_message">Güc və Səs artırma düymələrinə bas</string>
+    <string name="power_off_press_power_key_message">Güc düyməsini %s saniyə basılı tut</string>
+    <string name="power_off_title">Söndürmə və ya yenidən başlat</string>
     <string name="pref_volume_launch_camera_summary">Kameranı başlatmaq üçün Səsi azaltma düyməsinə iki dəfə basın</string>
     <string name="pref_volume_launch_camera_title">Kameranı başlat</string>
     <string name="pref_volume_wake_summary">Səs düymələrinə basmaq cihazı oyandırır</string>
@@ -1341,6 +1349,7 @@ Sonuncuları açmaq üçün cüt toxunun."</string>
     <string name="use_xiaoai_open">Mi AI ilə oyandır</string>
     <string name="v7_preference_off">BAĞLI</string>
     <string name="v7_preference_on">AÇIQ</string>
+	<string name="voice_assist_super_ai">Xiaomi Hyper XiaoAi</string>
     <string name="voice_category">Nitq</string>
     <string name="wake_suppression_summary">Cihazınız təsadüfi toxunuşlara qarşı daha həssas olacaq, eyni zamanda kənarlara yaxın olan əksər jest kontrollarına da reaksiya verəcək</string>
     <string name="wake_suppression_title">Kiçik sahə</string>

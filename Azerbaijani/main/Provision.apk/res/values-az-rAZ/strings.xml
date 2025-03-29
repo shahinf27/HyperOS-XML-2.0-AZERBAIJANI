@@ -168,7 +168,8 @@ Risk önləmə, statistika və analitik emal məqsədləri üçün şəbəkəyə
     <string name="friday_short">Cüm</string>
     <string name="friday_shortest">Cüm</string>
     <string name="game_introduction">Oyunlar qoşması daxil olmağınıza, sifariş yaratmağınıza, ödənişləri tamamlamağınıza, kuponları istifadə etməyinizə və tanıtım tədbirlərində iştirak etməyinizə imkan verir.</string>
-    <string name="get_imei_information">IMEI müraciəti</string>
+    <string name="get_audio_and_video_information_settings">Cihazda saxlanılan foto, video və səslərə müraciət</string>
+	<string name="get_imei_information">IMEI müraciəti</string>
     <string name="get_imei_information_settings">Cihazın unikal identifikatoruna müraciət (IMEI)</string>
     <string name="google_service_introduction">Google Play, normal işləyə bilməsi və sadalananları edə bilməsi üçün internetə bağlanmalı və yerləşmənizə müraciət etməlidir: SMS və MMS göndərmə, səs yazma, zəng etmə, təqvim tədbirlərinə, zəng tarixçəsinə, sensorlara, anbara, kameraya, cihaz məlumatlarına və hesablara müraciət etmə.</string>
     <string name="home_settings_miui_home">Klassik</string>
@@ -333,6 +334,7 @@ Risk önləmə, statistika və analitik emal məqsədləri üçün şəbəkəyə
     <string name="miuix_appcompat_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_select_all_description">Hamısını seç</string>
     <string name="miuix_appcompat_select_item">Elementləri seç</string>
+	<string name="miuix_appcompat_show_dialog_description">Açılan pəncərə</string>
     <string name="miuix_indexer_collect">Kolleksiyalar</string>
     <string name="miuix_indexer_selected">%s seçildi</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Təzələmək üçün aşağı çək</string>
@@ -475,6 +477,7 @@ Bu özəlliyi Ayarlar &gt; Barmaq izləri, üz data və ekran kilidi &gt; Gizlil
     <string name="permission_download_introduction">Endirilən elementləri keşləmək və cihazınızda saxlamaq üçün</string>
     <string name="permission_enable_disable_bluetooth_summary">Bağlantı qurmaq və data ötürmək məqsədilə yaxınlıqdakı cihazları tapmaq üçün</string>
     <string name="permission_fast_pairing">Yaxınlıqdakı cihazları tapa bilmək üçün, Mi Link, internetə bağlanmalı və aşağıdakı icazələrə sahib olmalıdır:</string>
+	<string name="permission_get_audio_and_video_summary_settings">Profil fotosunu və zəng səsi önizləmələrini ayarlamaq üçün (Ayarlar daxildir)</string>
     <string name="permission_get_imei_information_summary">Cihazın aktivləşmə vaxtını müəyyən etmək üçün</string>
     <string name="permission_get_imei_information_summary_settings">Cihaz məlumatlarını və xüsusiyyətlərini göstərmək üçün</string>
     <string name="permission_imei_service">Cihazınızla əlaqələndirilmiş xidmətləri təqdim etmək üzrə IMEI-yə müraciət etmək üçün</string>
@@ -767,7 +770,7 @@ Bu özəlliyi Ayarlar &gt; Barmaq izləri, üz data və ekran kilidi &gt; Gizlil
     <string name="terms_of_use_label_translation">Tərcümə xidməti</string>
     <string name="terms_of_use_label_unionplay_security">UnionPay TSM Güvənli Element (Xiaomi versiyası)</string>
     <string name="terms_of_use_label_updater">Sistem Güncəlləmə Xidməti (onlayn güncəlləmələri yoxlayır və yeni versiyaları bildirir)</string>
-    <string name="terms_of_use_label_use_location_and_network_global">Sistemi istifadə etməzdən əvvəl, cihazınıza əvvəlcədən quraşdırılmış Xiaomi tətbiqlərini (məs. Qalereya, Mi Musiqi, Mi Brauzer, Mi Video, Temalar və s.) əhatə edən İstifadəçi Razılaşmamızı və Gizlilik Siyasətimizi oxumalı və razılaşmalısınız. Şəxsi məlumatlarınızı müvafiq qanunlara, qaydalara və gizlilik siyasətlərinə uyğun olaraq qoruyacağıq. Cihazınız aktivləşdirildikdə, aşağıdakı xidmətlər şəbəkəyə bağlanacaq və yerləşmənizə müraciət edəcək:</string>
+    <string name="terms_of_use_label_use_location_and_network_global">Sistemi istifadə etməzdən əvvəl, cihazınıza əvvəlcədən quraşdırılmış Xiaomi tətbiqlərini (məs. Qalereya, Mi Musiqi, Mi Brauzer, Mi Video, Temalar və s.) əhatə edən İstifadəçi Razılaşmamızı və Gizlilik Siyasətimizi oxumalı və razılaşmalısınız. Şəxsi məlumatlarınızı müvafiq qanunlara, qaydalara və gizlilik siyasətlərinə uyğun olaraq qoruyacağıq. Bu cihazdakı datalar şifrələnib və fabrik ayarlarına sıfırlama icra edilərək həmişəlik silinə bilər.Cihazınız aktivləşdirildikdə, aşağıdakı xidmətlər şəbəkəyə bağlanacaq və yerləşmənizə müraciət edəcək:</string>
     <string name="terms_of_use_label_use_network_china">Sistemi istifadə etməzdən əvvəl, İstifadəçi Razılaşmamızı və Gizlilik Siyasətimizi oxumalı və razılaşmalısınız. Şəxsi məlumatlarınızı müvafiq qanunlara, qaydalara və gizlilik siyasətlərinə uyğun olaraq qoruyacağıq. Cihazınız aktivləşdirildikdə, aşağıdakı xidmətlər şəbəkəyə bağlanacaq:</string>
     <string name="terms_of_use_label_use_network_china_append">Cihazınız aktivləşdirildikdə, aşağıdakı xidmətlər şəbəkəyə bağlanacaq:</string>
     <string name="terms_of_use_label_wallpaper">Divar kağızı</string>
@@ -785,6 +788,8 @@ Bu özəlliyi istifadə etməzdən əvvəl Mint Keyboard Gizlilik Siyasəti ilə
     <string name="terms_of_use_lable_xmsf">Xiaomi xidmət çərçivəsi</string>
     <string name="terms_privacy_policy_input_method_facemoji">Facemoji Gizlilik Siyasəti</string>
     <string name="terms_privacy_policy_input_method_kika">Kika Gizlilik Siyasəti</string>
+	<string name="text_input_layout_default_content_description">这是默认的content description</string>
+    <string name="text_input_layout_default_error">这是默认的error</string>
     <string name="the_anniversary_of_lifting_martial_law">Hərbi Vəziyyətin Qaldırılma İldönümü</string>
     <string name="the_anti_aggression_day">Təcavüzlə Mübarizə Günü</string>
     <string name="the_arbor_day">Ağacəkmə Günü</string>

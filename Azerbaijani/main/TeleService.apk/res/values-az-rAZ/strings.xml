@@ -1551,6 +1551,9 @@ Lütfən operatorunuzla əlaqə saxlayın"</string>
     <string name="obtain_location_information">Yerləşmə</string>
     <string name="obtain_location_information_summary">Hazırkı şəbəkə mühitinin optimallaşdırılması üçün</string>
     <string name="oem_radio_info_label">OEM-ə xas məlumat/Ayarlar</string>
+	<string name="offline_call_has_call">Digər şəxs məşğuldur. Bir və ya iki dəqiqəyə yenidən sınayın.</string>
+    <string name="offline_call_not_match_contact">"Zəng edilə bilmədi. Digər şəxsin kontaktındakı siz deyilsiniz."</string>
+    <string name="offline_connection_service_label">Daxili OFFLINE zəng</string>
     <string name="ok">Oldu</string>
     <string name="oldPin2Label">Köhnə PIN2</string>
     <string name="oldPinLabel">Köhnə PIN</string>
