@@ -33,6 +33,18 @@
         <item quantity="other">%1$s mesaj silinsin?</item>
         <item quantity="one">%1$s mesaj silinsin?</item>
     </plurals>
+	<plurals name="beidou_receive_remain_time">
+        <item quantity="other">Başqa mesajı %d san sonra ala bilərsiniz</item>
+        <item quantity="one">Başqa mesajı %d san sonra ala bilərsiniz</item>
+    </plurals>
+    <plurals name="beidou_remain_times">
+        <item quantity="other">" (%d mesaj qaldı)"</item>
+        <item quantity="one">" (%d mesaj qaldı)"</item>
+    </plurals>
+    <plurals name="beidou_send_remain_time">
+        <item quantity="other">Başqa mesajı %d san sonra göndərə bilərsiniz</item>
+        <item quantity="one">Başqa mesajı %d san sonra göndərə bilərsiniz</item>
+    </plurals>
     <plurals name="cloud_sms_count">
         <item quantity="other">%d mesaj</item>
 		<item quantity="zero">%d mesaj</item>
@@ -114,6 +126,10 @@
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d element seçildi</item>
         <item quantity="one">%d element seçildi</item>
+    </plurals>
+	<plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d yeni bildiriş</item>
+        <item quantity="one">%d yeni bildiriş</item>
     </plurals>
     <plurals name="notification_multiple">
         <item quantity="other">"%s mesaj | "</item>
