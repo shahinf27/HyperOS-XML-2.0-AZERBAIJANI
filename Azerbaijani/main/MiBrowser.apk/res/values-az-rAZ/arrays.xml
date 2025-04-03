@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="feedback_content">
+        <item>Maraqlı deyil</item>
+        <item>Təkrarlanan</item>
+        <item>Uyğunsuz məzmun</item>
+        <item>Aldadıcı və ya fırıldaqçılıq</item>
+        <item>Qanunsuz məzmun</item>
+        <item>Digər</item>
+    </string-array>
+    <string-array name="language_name_list">
+        <item>Azərbaycanca</item>
+    </string-array>
+    <string-array name="menu_theme_setting">
+        <item>Ağ</item>
+        <item>Sarı</item>
+        <item>Boz</item>
+        <item>Qəhvəyi</item>
+        <item>Yaşıl</item>
+        <item>Mavi</item>
+    </string-array>
+    <array name="mw_config_keySystemUuidMapping"></array>
+    <string-array name="new_user_guide_info_array">
+        <item>Tək baxışda bütün vebdən məzmunlar</item>
+        <item>İndiyə qədərki ən rahat gəzinmə təcrübəniz</item>
+        <item>Cihazınızdakı faylları idarə edin və şəxsiləşdirin</item>
+    </string-array>
+    <string-array name="new_user_guide_title_array">
+        <item>Qlobal məzmun axını</item>
+        <item>Tamamilə yeni Süni Zəka özəllikləri</item>
+        <item>Şəxsi fayllar</item>
+    </string-array>
+    <string-array name="nf_ad_feedback_reason">
+        <item>Maraqlı deyil</item>
+        <item>Təkrarlanan</item>
+        <item>Aşağı keyfiyyət</item>
+        <item>Uyğunsuz foto</item>
+        <item>Saxta məlumat</item>
+    </string-array>
+    <string-array name="nf_feedback_reason">
+        <item>Açıq məzmun</item>
+        <item>Yanlış məlumat</item>
+        <item>Köhnə xəbərlər</item>
+        <item>Ekstremist baxış</item>
+        <item>Subliminal reklam</item>
+        <item>"Bəyənmədim"</item>
+    </string-array>
+    <string-array name="pref_fling_on_border_gesture_entries">
+        <item>Geriyə/irəliyə get</item>
+        <item>Vərəqləri dəyişdir</item>
+        <item>Yoxdur</item>
+    </string-array>
+    <string-array name="pref_homepage_choices">
+        <item>İlkin başlanğıc səhifəsi</item>
+        <item>Özəl</item>
+    </string-array>
+    <string-array name="pref_nav_mode_summary">
+        <item>Telefon</item>
+        <item>Planşet</item>
+    </string-array>
+    <string-array name="pref_navscreen_layoutstate_choices">
+        <item>Şaquli baxış</item>
+        <item>Üfüqi baxış</item>
+    </string-array>
+    <string-array name="pref_security_do_not_track_keys">
+        <item>Açıq</item>
+        <item>Yalnız Gizli rejimdə</item>
+        <item>Bağlı</item>
+    </string-array>
+    <string-array name="pref_text_zoom_choices">
+        <item>Çox kiçik</item>
+        <item>Kiçik</item>
+        <item>Normal</item>
+        <item>Böyük</item>
+        <item>Çox böyük</item>
+    </string-array>
+    <string-array name="pref_ua_choices">
+        <item>Masaüstü</item>
+    </string-array>
+    <string-array name="pref_web_permissions">
+        <item>Məhdudlaşdır</item>
+        <item>Soruş</item>
+        <item>İcazə ver</item>
+    </string-array>
+    <string-array name="pref_web_permissions_sub_one">
+        <item>Məhdudlaşdır</item>
+        <item>Soruş</item>
+    </string-array>
+    <string-array name="pref_web_permissions_sub_two">
+        <item>Məhdudlaşdır</item>
+        <item>İcazə ver</item>
+    </string-array>
+    <string-array name="protection_name">
+        <item>Avtomatik</item>
+        <item>Yoxdur</item>
+        <item>Yeni istifadəçi</item>
+    </string-array>
+    <string-array name="shortcut_dialog_delete">
+        <item>Sil</item>
+        <item>Xeyr, təşəkkürlər</item>
+    </string-array>
+    <string-array name="shortcut_dialog_keep">
+        <item>Oldu</item>
+        <item>İzlə</item>
+    </string-array>
+    <string-array name="shortcut_dialog_title">
+        <item>Brauzerdən mesaj</item>
+        <item>Olimpiya Oyunlarını Mi ilə izləyin</item>
+    </string-array>
+    <string-array name="speed_result_tips">
+        <item>"Hazırkı şəbəkə bağlantınız çox yavaşdır. Deyəsən, şəbəkə əhatə dairəsi zəif olan ərazidəsiniz."</item>
+        <item>Hazırkı şəbəkə bağlantısı yavaşdır.</item>
+        <item>Şəbəkə bağlantısı ilə bağlı heç bir problem tapılmadı.</item>
+        <item>"Hazırkı şəbəkə bağlantısı sürətlidir. Filmə baxmaq üçün yetərlidir!"</item>
+        <item>"Hazırkı şəbəkə bağlantısı çox sürətlidir! Oyununuzun zirvəsindəsiniz."</item>
+    </string-array>
+    <string-array name="user_guide_info_array">
+        <item>Sosial mediadan video və foto endirin</item>
+        <item>WhatsApp statuslarındakı şəkil və videoları saxlayın</item>
+        <item>Cihazınızdakı faylları idarə edin və şəxsiləşdirin</item>
+    </string-array>
+    <string-array name="user_guide_title_array">
+        <item>Videolar endir</item>
+        <item>WhatsApp Status Saxlayıcı</item>
+        <item>Şəxsi fayllar</item>
+    </string-array>
+</resources>
