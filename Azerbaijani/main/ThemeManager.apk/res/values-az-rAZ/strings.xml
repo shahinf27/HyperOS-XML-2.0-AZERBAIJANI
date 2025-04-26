@@ -33,7 +33,6 @@
 	<string name="accessibility_sliding_button_state_description_on">İşə salındı</string>
 	<string name="accessibility_tab_state_description_unselect">Seçilmədi</string>
 	<string name="accessibility_tab_statedesc_unselect">Seçilmədi</string>
-    <string name="accessibiliy_ad">Reklam ver</string>
     <string name="accessibiliy_description_content_account">Profil</string>
     <string name="accessibiliy_description_content_ad">Reklam</string>
     <string name="accessibiliy_description_content_add_resource">Element əlavə et</string>
@@ -102,8 +101,8 @@
     <string name="ai_generate_title">Dinamik divar kağızı yaradılsın?</string>
     <string name="ai_generate_verify_text">Təsvir məzmunu doğrulanır…</string>
     <string name="ai_generate_waiting">Server məşğuldur. Bir və ya iki dəqiqə gözləyib yenidən sınayın.</string>
-    <string name="ai_generate_wallpaper_done">AI dinamik divar kağızı uğurla yaradıldı</string>
-    <string name="ai_generate_wallpaper_fail">"AI dinamik divar kağızı yaradıla bilmədi"</string>
+    <string name="ai_generate_wallpaper_done">Divar kağızı uğurla yaradıldı</string>
+    <string name="ai_generate_wallpaper_fail">"Divar kağızı yaradıla bilmədi"</string>
     <string name="ai_generate_wallpaper_fail_message">Seçdiyiniz fotolar qaydalarımızı poza bilər. Yeni fotolar seçin.</string>
     <string name="ai_generating">Yaradılır…</string>
     <string name="ai_generating_loading">Yaradılır</string>
@@ -128,7 +127,7 @@
     <string name="ai_service_temporarily_unavailable">"Özəllik əlçatmazdır"</string>
     <string name="ai_service_unavailable">"Özəllik əlçatmazdır"</string>
     <string name="ai_waiting_in_line_please_wait">"Xətdəsiniz. İzləmədə qalın…"</string>
-    <string name="ai_wallpaper">AI dinamik divar kağızları</string>
+    <string name="ai_wallpaper">Süni Zəka ilə Dinamik Divar Kağızları</string>
     <string name="ai_wallpaper_account_exception">"Deyəsən, hesabınızla bağlı bir problem var. Daha sonra yenidən sınayın və ya hesabı dəyişdirin."</string>
     <string name="ai_wallpaper_cancel">İmtina</string>
     <string name="ai_wallpaper_click_to">Baxmaq üçün toxunun</string>
@@ -136,7 +135,7 @@
     <string name="ai_wallpaper_feedback">Əks-əlaqə</string>
     <string name="ai_wallpaper_function_introduction">Mənzərələrin, şəhərlərin, bitkilərin, avtomobillərin və daha çoxusunun təsvirlərini dinamik videolara çevirin</string>
     <string name="ai_wallpaper_i_know">Anladım</string>
-    <string name="ai_wallpaper_inside_invitation">Beta testi AI dinamik divar kağızları</string>
+    <string name="ai_wallpaper_inside_invitation">Süni Zəka ilə Dinamik Divar Kağızları beta testi</string>
     <string name="ai_wallpaper_inside_invitation_agree">Razıyam</string>
     <string name="ai_wallpaper_inside_invitation_description">Bu özəllik, statik təsvirlərdən dinamik divar kağızlarını yaratmaq üçün böyük model bacarıqlarını istifadə edir. Sınamaq üçün \"Razıyam\"a toxunun!</string>
     <string name="ai_wallpaper_inside_invitation_disagree">"Razı deyiləm"</string>
@@ -1090,7 +1089,7 @@ M"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Bir saniyə…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Elementlər yüklənilə bilmədi"</string>
 	<string name="miuix_show_password">Parolu göstər</string>
-	<string name="miuix_stretchablewidget_collapsed">Bağlandı</string>
+	<string name="miuix_stretchablewidget_collapsed">Yığcamlaşdırıldı</string>
     <string name="miuix_stretchablewidget_expanded">Genişləndirildi</string>
     <string name="mix_global_option">Ümumi</string>
     <string name="mix_global_option_des">Bildiriş paneli, Telefon, Mesajlaşma və digər sistem elementləri. İlkin seçimləri istifadə etmək üçün bu qutunun işarəsini götürün.</string>
@@ -2054,7 +2053,6 @@ Daha çox seçim üçün Temalar &gt; Hesabım &gt; \"Tema laboratoriyası\"na g
 	<string name="view_not_selected_talkback">Seçilmədi</string>
     <string name="view_selected_talkback">Seçildi</string>
     <string name="vip_level_dialog_positive">Aydındır</string>
-    <string name="vip_level_dialog_title">İpucu</string>
     <string name="vlog_saving_no_edit">Video hazırlanır…</string>
     <string name="vlog_talkback_view_pause">Fasilə ver</string>
     <string name="vlog_talkback_view_play">Oxut</string>
@@ -2117,7 +2115,6 @@ Daha çox seçim üçün Temalar &gt; Hesabım &gt; \"Tema laboratoriyası\"na g
     <string name="wallpaper_set_as_lockscreen">Kilid ekranına təyin et</string>
     <string name="wallpaper_set_as_lockscreen_large">Daxili Kilid ekranına təyin et</string>
     <string name="wallpaper_set_as_lockscreen_small">Xarici Kilid ekranına təyin et</string>
-    <string name="wallpaper_set_as_loop_extra_msg">Hər kəs istifadə edir</string>
     <string name="wallpaper_setting_all">Bütün divar kağızları</string>
     <string name="wallpaper_setting_find_more_text">Daha çox onlayn divar kağızları</string>
     <string name="wallpaper_setting_home_wallpaper_banner_button_text">Əsas ekran</string>
@@ -2171,5 +2168,14 @@ Daha çox seçim üçün Temalar &gt; Hesabım &gt; \"Tema laboratoriyası\"na g
     <string name="xiaomi_market_sdk_update_dialog_cancel">İndi yox</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Güncəllə</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Bir güncəlləmə var</string>
+    <string name="xiaomi_update_sdk_connect_download_manager_fail">Endirmə Meneceri bağlantısı uğursuz oldu, lütfən Tətbiq İdarəetmə bölməsində Endirmə Menecerinin statusunu yoxlayın.</string>
+    <string name="xiaomi_update_sdk_dialog_message">"%1$s versiyasını təqdim edirik
+Ölçüsü: %2$s"</string>
+    <string name="xiaomi_update_sdk_dialog_message_diff">"%1$s versiyasını təqdim edirik
+Delta güncəlləmə ölçüsü: %2$s"</string>
+    <string name="xiaomi_update_sdk_dialog_title">Bir güncəlləmə mövcuddur</string>
+    <string name="xiaomi_update_sdk_external_storage_unavailable">Anbar əlçatmazdır, lütfən SD kartı yoxlayın.</string>
+    <string name="xiaomi_update_sdk_update_dialog_cancel">İndi yox</string>
+    <string name="xiaomi_update_sdk_update_dialog_ok">Güncəllə</string>
     <string name="yesterday">Dünən</string>
 </resources>

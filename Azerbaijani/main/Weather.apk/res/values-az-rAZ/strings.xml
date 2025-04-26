@@ -311,6 +311,7 @@ sına"</string>
 Əllə şəhər əlavə etmək və ya yenidən yerləşdirmək üçün ekrana toxunun"</string>
     <string name="location_provider_btn_text">\"Hava\"nın yerləşmənizə müraciətinə icazə verin</string>
     <string name="location_tag">Yerləşmə</string>
+	<string name="logo_accu_content">AccuWeather veb saytını aç</string>
     <string name="manager_city_option_add_city_back_search">Axtarışa qayıt</string>
     <string name="manager_city_option_add_city_content">Bu şəhər başlanğıc səhifəsinə uğurla əlavə edildi</string>
     <string name="manager_city_option_add_city_title">Uğurla əlavə edildi</string>

@@ -27,8 +27,9 @@
         <item>Birman dili</item>
         <item>Koreya dili</item>
         <item>Yapon dili</item>
-        <item>Çin dili (Mandarin dili)</item>
-        <item>Çin dili (Kanton dili)</item>
+        <item>Sadələşdirilmiş Çin dili</item>
+        <item>Ənənəvi Çin dili (Tayvan bölgəsi)</item>
+        <item>Ənənəvi Çin dili (Honq Konq SAR)</item>
         <item>Filippin dili</item>
     </string-array>
     <string-array name="global_recognize_language_list">

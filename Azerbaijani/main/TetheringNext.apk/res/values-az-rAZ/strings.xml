@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="disable_tether_notification_message">Detallar üçün admininizlə əlaqə saxlayın</string>
+    <string name="disable_tether_notification_title">İnternet paylaşımı sıradan çıxarılıb</string>
+    <string name="notification_channel_tethering_status">Hotspot və internet paylaşımı statusu</string>
+    <string name="tethered_notification_message">Qurmaq üçün toxunun.</string>
+    <string name="tethered_notification_title">İnternet paylaşımı və ya hotspot aktivdir</string>
+</resources>

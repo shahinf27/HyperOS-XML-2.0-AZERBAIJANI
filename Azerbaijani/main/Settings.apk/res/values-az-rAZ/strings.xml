@@ -1262,12 +1262,15 @@ Sonuncu dəfə %2$s tarixində işə salındı"</string>
     <string name="back_navigation_animation_summary">Proqnozlaşdırılan geri animasiyaları üçün sistem animasiyalarını fəallaşdır</string>
     <string name="back_sensitivity_dialog_message">Daha yüksək həssaslıq, ekranın kənarlarındakı tətbiq jestləri ilə çaxnaşa bilər.</string>
     <string name="back_sensitivity_dialog_title">Geri getmə həssaslığı</string>
+	<string name="back_strap_app_notification_title">Tətbiq bildirişləri</string>
+    <string name="back_strap_call_reminder_title">Gələn zənglər</string>
 	<string name="back_strap_image_new_text">Vizual bildirişlər və fərdiləşdirilmiş işıq effektləri almaq üçün bu özəlliyi işə salın</string>
     <string name="back_strap_image_simplified_text">Cihaz ekranı sönülü ikən üzü aşağı olduqda, arxa işıq, bildiriş xatırladıcılarını nümayiş etdirəcək</string>
     <string name="back_strap_image_text">Cihaz ekranı sönülü ikən üzü aşağı olduqda, arxa işıq, fərqli səhnələr üçün bildiriş xatırladıcılarını və işıqlandırma effektlərini nümayiş etdirəcək</string>
     <string name="back_strap_off">Bağlı</string>
     <string name="back_strap_on">Açıq</string>
     <string name="back_strap_on_back_light_display">Yalnız ekran üzü aşağı olduqda</string>
+	<string name="back_strap_other_seetings">Əlavə ayarlar</string>
 	<string name="back_strap_status_close">Bağlı</string>
     <string name="back_strap_status_open">Açıq</string>
     <string name="back_strap_title">Arxa işıq effektləri</string>
@@ -1633,6 +1636,7 @@ Barmaqlarınız nəm olduqda və ya üzünüz tanınmadıqda, Saat ilə kilid a�
     <string name="block_list_remove_dialog_title">Diqqət</string>
     <string name="block_list_summary">"Bu hotspot-a bağlanmasına icazə verilməyən cihazlara bax"</string>
     <string name="block_list_title">Əngəlli siyahısı</string>
+	<string name="block_no_connected_devices">Bağlantılı cihaz yoxdur</string>
     <string name="block_title">Bildirişləri göstər</string>
     <string name="blocked_by_restricted_settings_content">Güvənliyiniz üçün bu ayar hazırda əlçatmazdır.</string>
     <string name="blocked_by_restricted_settings_title">Məhdud ayar</string>
@@ -4363,7 +4367,10 @@ Daha ətraflı öyrənmək üçün kredit provayderinizlə əlaqə saxlayın."</
     <string name="flashback_title">Tətbiq məlumat kartları</string>
     <string name="flashback_wangzhe_summary">Yenidən canlanma geri sayımını göstər</string>
     <string name="flip_aod_settings_title">Ekranı kilidlə (xarici)</string>
+	<string name="flip_aod_settings_title_new">Ekranı kilidlə (daxili)</string>
     <string name="flip_application_settings_title">Xarici ekran tətbiqləri</string>
+	<string name="flip_application_settings_title_new">Xarici ekran tətbiqləri</string>
+    <string name="flip_close_lid_settings_title">Qatlanmış ekran</string>
 	<string name="flip_continuity_bottom_text">"Bəzi tətbiqlər hələ xarici ekranda nümayiş olunmaq üçün optimallaşdırılmayıb. Nəticələr dəyişə bilər."</string>
     <string name="flip_continuity_directly_off_the_screen">Ekranı söndür</string>
     <string name="flip_continuity_display_lock_screent">Kilid ekranı</string>
@@ -4372,8 +4379,11 @@ Daha ətraflı öyrənmək üçün kredit provayderinizlə əlaqə saxlayın."</
     <string name="flip_continuity_use_list_title">Qatladıqdan sonra istifadəyə davam et</string>
     <string name="flip_continuity_use_subtitle">Bu özəllik açıq olduqda, cihazı qatladıqdan sonra seçilmiş tətbiqləri istifadə etməyə davam edə bilərsiniz</string>
     <string name="flip_dial_settings_title">Vicet</string>
+	<string name="flip_dial_settings_title_new">Vicet</string>
+    <string name="flip_quick_switch_settings_title">İdarəetmə mərkəzi</string>
     <string name="flip_screen_settings_title">Xarici ekran</string>
     <string name="flip_wallpaper_settings_title">Divar kağızı</string>
+	<string name="flip_wallpaper_settings_title_new">Divar kağızı</string>
     <string name="floating_window_switch_label">Üzən pəncərələri işə sal</string>
     <string name="floating_window_switch_label_disable">Üzən pəncərələri söndür</string>
     <string name="fluency_mode">Sistem animasiyaları</string>
@@ -5190,7 +5200,7 @@ Xiaomi Cloud-u açın, elementləri oradan bərpa edin."</string>
     <string name="keyboard_settings_title">Android klaviatura</string>
     <string name="keyboard_settings_with_physical_keyboard_summary">Ekranda klaviatura, fiziki klaviatura, alətlər</string>
     <string name="keyboard_shortcuts_helper">Klaviatura qısayolları</string>
-    <string name="keyboard_shortcuts_helper_summary">Qısayolların siyahısını göstər</string>
+    <string name="keyboard_shortcuts_helper_summary">Qısayol siyahısını göstərmək üçün basılı tutun</string>
     <string name="keyboard_skin_follow_system_enable">Sistem ilə birgə Qaranlıq rejimə keç</string>
     <string name="keyguard_advance_setting_title">Qabaqcıl ayarlar</string>
     <string name="keyguard_multi_window_tip">"Bu səhifə Bölünmüş ekranda göstərilə bilmir. Bunun əvəzinə tam ekran versiyasına qayıda bilərsiniz."</string>
@@ -5381,6 +5391,8 @@ Xiaomi Cloud-u açın, elementləri oradan bərpa edin."</string>
     <string name="knock_slide_shape">Yumruqla bir dairə çək</string>
     <string name="knock_slide_v">Yumruqla V çək</string>
     <string name="label_mi_stats">Mi analitika</string>
+	<string name="lamp_effect_brightness">Parlaqlıq</string>
+    <string name="lamp_effect_color">Rəng</string>
     <string name="lamp_effect_settings">Effektlər</string>
     <string name="language_and_input_for_work_category_title">İş profili klaviaturaları və alətlər</string>
     <string name="language_empty_list_user_restricted">Cihaz dilini dəyişdirmək üçün icazəniz yoxdur.</string>
@@ -6432,6 +6444,7 @@ Bu əməliyyatın geri dönüşü yoxdur."</string>
     <string name="miheadset_voice_control_summary">Bu özəllik açıq olduqda, səsli əmrləri istifadə edərək Mi AI-yə cihazınızda hərəkət etməsini və ya səs oxutmanı idarə etməsini deyə bilərsiniz</string>
     <string name="miheadset_windnoise">Külək</string>
     <string name="mild_reminder">Bildiriş</string>
+	<string name="minors_control_title">Uşaq Təhlükəsizliyi Rejimi</string>
     <string name="mipush_fake_channel_group_name">Mi Push</string>
     <string name="mishow_disable_password_setting">"Demo rejimdə parol ayarlana bilmir"</string>
     <string name="miui_accessibility_asr_summary">Səsi mətnə çevir və mətni saxla</string>
@@ -6518,8 +6531,8 @@ Bu əməliyyatın geri dönüşü yoxdur."</string>
     <string name="miui_sos_emergency_failed_sms">"%1$s (%2$s) - mesaj göndərilə bilmədi"</string>
     <string name="miui_sos_emergency_failed_sms_noname">"%1s - mesaj göndərilə bilmədi."</string>
     <string name="miui_sos_emergency_title">Fövqəladə hal zəngi</string>
-    <string name="miui_sos_enable_switch_summary">Fövqəladə hal kontaktlarınıza olduğunuz yeri bildirən SOS mətn mesajı göndərmək üçün Güc düyməsinə sürətlə 5 dəfə basın</string>
-    <string name="miui_sos_enable_switch_title">Fövqəladə hal zəngi</string>
+    <string name="miui_sos_enable_switch_summary_new"><Data>Fövqəladə halla üzləşdikdə, ardıcıl &lt;font color=#3482FF>&lt;xliff:g id=number refersto=5>%d&lt;/xliff:g> dəfə&lt;/font> Güc düyməsinə bassanız, cihazınız fövqəladə hal kontaktlarınıza olduğunuz yeri ehtiva edən bir mesaj göndərəcək</Data></string>
+	<string name="miui_sos_enable_switch_title">Fövqəladə hal zəngi</string>
     <string name="miui_sos_exit_dialog_cancel">İmtina</string>
     <string name="miui_sos_exit_dialog_message">Fövqəladə hal SOS-u aktivləşdirdiniz. Yerləşmə məlumatlarınız fövqəladə hallarda əlaqə saxlanılacaq şəxslərə göndərilir. Yenə də söndürülsün?</string>
     <string name="miui_sos_exit_dialog_ok">Oldu</string>
@@ -6602,6 +6615,7 @@ Bu əməliyyatın geri dönüşü yoxdur."</string>
 	<string name="miuix_appcompat_show_dialog_description">Açılan pəncərə</string>
     <string name="miuix_indexer_collect">Kolleksiyalar</string>
     <string name="miuix_indexer_selected">%s seçildi</string>
+	<string name="miuix_popup_window_default_title">Açılan pəncərə</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Təzələmək üçün aşağı çək</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Uğurla təzələndi</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Təzələnir…</string>
@@ -6912,6 +6926,7 @@ Bu əməliyyatın geri dönüşü yoxdur."</string>
     <string name="natural_haptic">Təbii toxunuş</string>
     <string name="natural_haptic_summary">Yeni toxunuş əks-əlaqə naxışları, ekranda gördüyünüz və toxunduğunuz hər şeyə əlavə bir ölçü gətirir.</string>
     <string name="natural_scroll">Təbii sürüşdürmə</string>
+	<string name="natural_scroll_summary">Məzmun, barmağınızla birgə sürüşür</string>
     <string name="nature_color">İlkin</string>
     <string name="nav_tutorial_button_description">Jest naviqasiyası təlimini başlat düyməsi. Aktivləşdirmək üçün cüt toxunun.</string>
     <string name="navigation_guide_app_quick_switch_hide_line_summary">Ekranın aşağısından yuxarı sürüşdürün, daha sonra sola və ya sağa sürüşdürün</string>
@@ -7647,7 +7662,8 @@ Bu xidməti istifadə etməzdən əvvəl bunu oxuyun və razılaşın: %s."</str
     <string name="photography_handle_launch_and_take_photo">Foto çək</string>
     <string name="photography_handle_launch_camera">Kameranı aç</string>
     <string name="photography_handle_long_press_camera_key_enter_camera">Bir əməliyyat icra etmək üçün sürgü düyməsini basılı tutun</string>
-    <string name="photography_handle_quick_launch_camera_title">Cəld başlatma</string>
+    <string name="photography_handle_low_battery_notify_title">Kamera tutacağının firmware güncəlləməsi</string>
+	<string name="photography_handle_quick_launch_camera_title">Cəld başlatma</string>
 	<string name="photography_handle_sn">Seriya nömrəsi</string>
     <string name="photography_handle_title">Kamera tutacağı</string>
 	<string name="photography_handle_update_and_maintain">Güncəlləmələr</string>
@@ -7689,7 +7705,7 @@ Bu xidməti istifadə etməzdən əvvəl bunu oxuyun və razılaşın: %s."</str
     <string name="pointer_fill_style_yellow_button">Göstərici doldurma üslubunu sarıya dəyişdir</string>
     <string name="pointer_location">Kursor yeri</string>
     <string name="pointer_location_summary">Toxunma koordinatlarını göstər</string>
-    <string name="pointer_settings_category">Siçan/trekpad</string>
+    <string name="pointer_settings_category">Maus</string>
     <string name="pointer_speed">Kursor sürəti</string>
     <string name="popup_window">Üzən bildirişləri məhdudlaşdır</string>
     <string name="post_dsds_reboot_notification_text">SIM ayarlarını güncəlləmək üçün toxunun</string>
@@ -9818,6 +9834,10 @@ Sonuncuları açmaq üçün cüt toxunun."</string>
     <string name="sos_area_code_settings_hint">Ərazi kodunu daxil edin</string>
     <string name="sos_area_code_settings_summary">"Fövqəladə hal kontaktınızın telefon nömrəsindəki ərazi kodunu manual ayarlayın"</string>
     <string name="sos_area_code_settings_title">Ərazi kodunu ayarla</string>
+	<string name="sos_delete_emergency_contacts_dialog_message">Bu fövqəladə hal kontaktı indi silinsin?</string>
+    <string name="sos_delete_emergency_contacts_dialog_title">Fövqəladə hal kontaktını sil</string>
+    <string name="sos_delete_last_emergency_contacts_dialog_message">Fövqəladə hal zənginin işləməsi üçün ən azı bir fövqəladə hal kontaktı tələb olunur. Əgər son fövqəladə hal kontaktını silsəniz, bu özəllik söndürüləcək.</string>
+    <string name="sos_emergency_contacts_empty_text">Burada hələ heç nə yoxdur</string>
     <string name="sos_navigation_guide_message">Naviqasiya üçün Səs azaltma düyməsinə basın, sonra seçiminizi təsdiqləmək üçün Səs artırma düyməsini basılı tutun</string>
     <string name="sos_navigation_guide_title">Fövqəladə hal SOS rejimində səs düymələri</string>
     <string name="sos_phone_call_privacy_dialog_message">"Fövqəladə hal kontaktlarınıza zəng etmək və SOS qeydini oxutmaq üçün, bu tətbiqin aşağıdakı icazələrə ehtiyacı var:
@@ -11097,7 +11117,7 @@ Bu özəlliyin söndürülməsi, cihazınızın sistem güncəlləmələri və g
     <string name="usb_control_device">Bu cihaz</string>
     <string name="usb_control_host">Bağlantılı cihaz</string>
     <string name="usb_control_title">USB-ni idarə edən</string>
-    <string name="usb_default_info">Başqa bir cihaza bağlandıqda və telefonunuzun kilidi açıldıqda, bu ayarlar tətbiq olunacaq. Yalnız güvənli cihazlara bağlanın.</string>
+    <string name="usb_default_info">Bu ayarlar, başqa bir cihaza bağlandıqda və bu cihazın kilidi açıldıqda tətbiq olunacaq. Yalnız güvənli cihazlara bağlanın.</string>
     <string name="usb_default_label">İlkin USB konfiqurasiyası</string>
     <string name="usb_eject">USB anbar avadanlığını ayır</string>
     <string name="usb_eject_summary">Güvənli çıxartmaq üçün USB avadanlığı ayırın</string>
@@ -11139,6 +11159,7 @@ və ya 3.5 mm girişli qulaqlıq istifadə edin."</string>
     <string name="usb_summary_power_only">Bağlantılı cihaz doldurulur</string>
     <string name="usb_summary_tether">USB internet paylaşımı</string>
     <string name="usb_summary_tether_power">USB internet paylaşımı və enerji təchizatı</string>
+	<string name="usb_switch_reverse_charge_failed">Əlçatan deyil</string>
     <string name="usb_switching">Dəyişdirilir…</string>
     <string name="usb_switching_failed">"Dəyişdirilə bilmədi"</string>
     <string name="usb_tethering_active_subtext">İnternet paylaşıldı</string>
