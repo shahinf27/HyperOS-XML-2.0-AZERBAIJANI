@@ -17,12 +17,15 @@
     <string name="abc_shareactionprovider_share_with">Paylaş</string>
     <string name="abc_shareactionprovider_share_with_application">%s ilə paylaş</string>
     <string name="abc_toolbar_collapse_description">Yığcamlaşdır</string>
+	<string name="accessibility_close_mirror">Əsas ekran+ bağlandı</string>
     <string name="accessibility_fingerprint_dialog_help_area">Kömək mesajı sahəsi</string>
     <string name="accessibility_keyboard_delete_button">Sil</string>
     <string name="accessibility_keyboard_letter_board_shift2number_button">Rəqəmlər</string>
     <string name="accessibility_keyboard_letter_board_shift2symbol_button">Simvollar</string>
     <string name="accessibility_keyboard_symbol_board_shift2letter_button">Hərflər</string>
     <string name="accessibility_keyboard_symbol_board_symbol_lock_button">Simvol kilidi</string>
+	<string name="accessibility_open_mirror">Əsas ekran+ genişləndir</string>
+    <string name="accessibility_side_close_mirror">Əsas ekran+ yan çubuğa yığcamlaşdır</string>
     <string name="actionbar_button_up_description">Geri</string>
     <string name="afternoon">Günortadan sonra</string>
     <string name="am">GƏ</string>
@@ -61,6 +64,7 @@
     <string name="confirm_device_credential_password">Parol istifadə et</string>
     <string name="connect_fail_busy_mishare">Deyəsən, digər cihaz faylları indi köçürür. Köçürmə bitənə qədər gözləyin və yenidən sınayın.</string>
     <string name="connecting_pc">Kompüterə bağlanılır…</string>
+	<string name="content_des_mirror_has_connect">Əsas ekran+ nümayiş olunur</string>
     <string name="copy">Kopyala</string>
     <string name="copy_fail">"Kopyalana bilmədi"</string>
     <string name="custom_define_permission_desc_android.permission_group.MICROPHONE">Yayım zamanı səs ötürmək üçün</string>

@@ -85,6 +85,7 @@
     <string name="language_german">Alman dili</string>
     <string name="language_greek">Yunan dili</string>
     <string name="language_hindi">Hind dili</string>
+	<string name="language_hongkong_global">Ənənəvi Çin dili (Honq Konq SAR)</string>
     <string name="language_indonesian">İndoneziya dili</string>
     <string name="language_italian">İtalyan dili</string>
     <string name="language_japanese">Yapon dili</string>
@@ -97,10 +98,12 @@
     <string name="language_russian">Rus dili</string>
     <string name="language_slovak">Slovak dili</string>
     <string name="language_spanish">İspan dili</string>
+	<string name="language_taiwan_global">Ənənəvi Çin dili (Tayvan bölgəsi)</string>
     <string name="language_thai">Tay dili</string>
     <string name="language_turkish">Türk dili</string>
     <string name="language_uzbek">Özbək dili</string>
     <string name="language_vietnamese">Vyetnam dili</string>
+	<string name="language_zhongwen_global">Sadələşdirilmiş Çin dili</string>
 	<string name="media_volume_too_low_message">Tərcüməni eşidə bilmək üçün media səsini açın</string>
     <string name="midnight">Gecə</string>
     <string name="miuix_access_state_desc">Seçildi</string>
@@ -120,6 +123,7 @@
     <string name="miuix_appcompat_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_select_all_description">Hamısını seç</string>
     <string name="miuix_appcompat_select_item">Elementləri seç</string>
+	<string name="miuix_appcompat_show_dialog_description">Açılan pəncərə</string>
     <string name="miuix_indexer_collect">Kolleksiyalar</string>
     <string name="miuix_indexer_selected">%s seçildi</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Təzələmək üçün aşağı çək</string>
@@ -232,6 +236,8 @@
     <string name="sunday">Bazar</string>
     <string name="sunday_short">Baz</string>
     <string name="sunday_shortest">Baz</string>
+	<string name="text_input_layout_default_content_description">这是默认的content description</string>
+    <string name="text_input_layout_default_error">这是默认的error</string>
     <string name="the_anniversary_of_lifting_martial_law">Hərbi Vəziyyətin Qaldırılma İldönümü</string>
     <string name="the_anti_aggression_day">Təcavüzlə Mübarizə Günü</string>
     <string name="the_arbor_day">Ağacəkmə Günü</string>

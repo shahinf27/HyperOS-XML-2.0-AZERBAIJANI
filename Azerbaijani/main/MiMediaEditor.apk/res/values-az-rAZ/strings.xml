@@ -105,8 +105,11 @@
     <string name="adjust_tab_noise">Noise</string>
     <string name="adjust_tab_tone">Ton</string>
     <string name="adjust_tab_white_balance">Ağ balansı</string>
+	<string name="adjust_talkback_blue_curve">Mavi əyri</string>
     <string name="adjust_talkback_curve_anchor_delete">Lövbər nöqtəsini sil</string>
     <string name="adjust_talkback_curve_reset">Sıfırla</string>
+	<string name="adjust_talkback_green_curve">Yaşıl əyri</string>
+    <string name="adjust_talkback_red_curve">Qırmızı əyri</string>
     <string name="adjust_tiunt">Rəng tonu</string>
     <string name="adjust_vignette">Vinyet</string>
     <string name="adjust_whites">İşıq aralığı</string>
@@ -132,6 +135,7 @@
     <string name="ai_action_toast_function_photo_auto_beautify_processing">Gözəlləşdirmə…</string>
     <string name="ai_action_toast_function_photo_beautify_skin_processing">Dəri tonu ayarlanır…</string>
     <string name="ai_action_toast_function_photo_body_beauty_processing">Gövdəyə düzəliş edilir…</string>
+	<string name="ai_action_toast_function_photo_eliminate_processing">Əks olunma silinir…</string>
     <string name="ai_action_toast_function_photo_enhance_processing">Təkmilləşdirilir…</string>
     <string name="ai_action_toast_function_photo_filter_processing">Filtr tətbiq olunur…</string>
     <string name="ai_action_toast_function_photo_restoration_processing">Təsvir bərpa edilir…</string>
@@ -148,6 +152,18 @@
     <string name="ai_action_toast_picture_size_out_of_limit">"Bu ölçüdəki təsvirlər dəstəklənmir. Fərqlisini sınayın."</string>
     <string name="ai_action_toast_poor_network">"Şəbəkəyə bağlana bilmədi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın."</string>
     <string name="ai_action_toast_request_time_out">Sorğunun vaxtı bitdi. Bir və ya iki dəqiqə gözləyib yenidən sınayın.</string>
+	<string name="ai_emote_loading_title">İfadə yaradılır…</string>
+    <string name="ai_emote_notice_desc">"Fotolardakı insanların ifadələrini dəyişdirmək üçün süni zəkanı istifadə edin.
+Ən yaxşı nəticə üçün bu özəlliyi aydın və önə baxan fotolarda istifadə edin."</string>
+    <string name="ai_emote_process_max_limited">"%d insanın ifadəsini dəyişdir"</string>
+    <string name="ai_emote_talkback_emote_0">Orijinal ifadə</string>
+    <string name="ai_emote_talkback_emote_1">Kiçik gülümsəmə</string>
+    <string name="ai_emote_talkback_emote_2">Neytral ifadə</string>
+    <string name="ai_emote_talkback_emote_3">Dişlərini göstərərək gülümsəmə</string>
+    <string name="ai_emote_talkback_emote_4">Gülmə</string>
+    <string name="ai_emote_talkback_emote_5">Məyus ifadə</string>
+    <string name="ai_emote_talkback_emote_livephoto">Tövsiyə edilən ifadə %d</string>
+    <string name="ai_emote_talkback_face">Seçilmiş şəxs %d</string>
     <string name="aicrmanager_download_cancel">Endirməni ləğv et</string>
     <string name="aicrmanager_download_done">Endirmə tamamlandı</string>
     <string name="aicrmanager_download_done_content_title">AI Editor qoşması</string>
@@ -445,6 +461,11 @@
     <string name="collage_title_layout">Düzüm</string>
     <string name="collage_title_poster">Afişa</string>
     <string name="collage_title_stitching">Film rulonu</string>
+	<string name="collage_video_export_image">Foto</string>
+    <string name="collage_video_export_livephoto">Dinamik çəkiliş</string>
+    <string name="collage_video_export_video">Video</string>
+    <string name="collage_video_title">Düzəliş et</string>
+    <string name="collage_video_video_time_limit">%d saniyəyə qədər videolar dəstəklənir</string>
     <string name="color_baby_blue">Açıq mavi</string>
     <string name="color_black">Qara</string>
     <string name="color_blue">Mavi</string>
@@ -496,6 +517,9 @@
     <string name="common_signin_button_text_long">Google ilə daxil olun</string>
     <string name="confirm_cancel_task_files">Bura fayl göndərilməsi ləğv edilsin: %1$s?</string>
     <string name="confirm_cancel_task_images">Bura şəkil göndərilməsi ləğv edilsin: %1$s?</string>
+	<string name="convert_livephoto_title">Dinamik çəkilişə çevir</string>
+    <string name="convert_livephoto_video_not_support">"Bu video dinamik çəkilişə çevrilə bilmir"</string>
+    <string name="convert_livephoto_video_time_limit">Yalnız %d saniyəlik videolar dinamik çəkilişə çevrilə bilər</string>
     <string name="copy">Kopyala</string>
     <string name="crop_label">Qayçılanmış fotolar</string>
     <string name="cta_agreement_declare"><Data>Bu tətbiqi istifadə etməzdən əvvəl, bir istifadəçi kimi hüquqlarınızı və məlumatlarınızı istifadə etmə yollarımızı tam anlamaq üçün bunları oxuyun və razılaşın: &lt;a href=\"%1$s\"&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=\"%2$s\"&gt;Gizlilik Siyasəti&lt;/a&gt;.</Data></string>
@@ -562,6 +586,9 @@
     <string name="file_cannot_print">"Bu element çap edilə bilmir."</string>
     <string name="file_cannot_screen_throw">"Bu element yayımlana bilmir."</string>
     <string name="file_sending">Fayllar köçürülür…</string>
+	<string name="filter_ambience_black_mist">Qara duman</string>
+    <string name="filter_ambience_white_mist">Ağ duman</string>
+	<string name="filter_category_ambience">Atmosfer</string>
     <string name="filter_category_black_white">Q&amp;A</string>
     <string name="filter_category_classic">Klassik</string>
     <string name="filter_category_diy">Özəl</string>
@@ -773,6 +800,7 @@
     <string name="frame_color_selector_talkback_hide">Rəng seçicini gizlət</string>
     <string name="frame_color_selector_talkback_show">Rəng seçicini göstər</string>
     <string name="frame_not_support_image_ratio">"Bu tərəf nisbəti dəstəklənmir"</string>
+	<string name="frame_talkback_size">Kadr ölçüsü</string>
     <string name="free_view_desc">3D baxış</string>
     <string name="friday">Cümə</string>
     <string name="friday_short">Cüm</string>
@@ -1031,7 +1059,9 @@
     <string name="motion_photo_audio_off">Səs bağlıdır</string>
     <string name="motion_photo_audio_on">Səs açıqdır</string>
     <string name="motion_photo_cancel">İmtina</string>
-    <string name="motion_photo_re_pick_title">Canlı foto</string>
+    <string name="motion_photo_decode_failed">"Bu dinamik çəkiliş üçün örtük dəyişdirilə bilmir"</string>
+    <string name="motion_photo_export_gif_limit">"%d saniyədən uzun olan videolardan GIF yaradıla bilmir"</string>
+    <string name="motion_photo_re_pick_title">Dinamik çəkilişlər</string>
     <string name="motion_photo_save_fail">"Saxlanıla bilmədi"</string>
     <string name="motion_photo_save_gif">GIF olaraq saxla</string>
     <string name="motion_photo_save_gif_ing">GIF saxlanılır…</string>
@@ -1048,6 +1078,7 @@
     <string name="motion_photo_video_reverse_effect">Tərs</string>
     <string name="motion_photo_video_reverse_ing">Video tərsinə çevrilir…</string>
     <string name="motion_photo_video_reverse_on">Tərsinə çevrildi</string>
+	<string name="motion_photo_video_transcode_ing">Video transkodlaşdırılır…</string>
     <string name="motion_photo_watermark_off">Filiqran bağlıdır</string>
     <string name="motion_photo_watermark_on">Filiqran açıqdır</string>
     <string name="movie_add_disable">%d ədədə qədər foto seçə bilərsiniz</string>
@@ -1075,7 +1106,9 @@
     <string name="movie_download_failed_for_notwork">"Endirilə bilmədi. Şəbəkəyə bağlanıb yenidən sınayın."</string>
     <string name="movie_edit">Düzəliş et</string>
     <string name="movie_edit_photo">Foto</string>
+	<string name="movie_exit_full_screen_play">Tam ekrandan çıx</string>
     <string name="movie_full_screen">Tam ekran</string>
+	<string name="movie_full_screen_play">Tam ekranda bax</string>
     <string name="movie_item_name">Klip</string>
     <string name="movie_preview_btn">Önizləmə</string>
     <string name="movie_preview_share_title">Paylaş</string>
@@ -1195,7 +1228,8 @@
     <string name="photo_editor_ai_beautify_process_error">"Gözəlləşdirilə bilmədi. Yenidən sınayın."</string>
     <string name="photo_editor_ai_beautify_user_guide_desc">"Təsvir özəlliklərini ağıllı şəkildə müəyyən edin, tonları və rəngləri optimallaşdırın
 Tək toxunuşda fotoqraf bacarıqlarınızı genişləndirin"</string>
-    <string name="photo_editor_aicr_generation_failed">"Yaradıla bilmədi. Yenidən sınayın."</string>
+    <string name="photo_editor_ai_emote">İfadəni dəyişdir</string>
+	<string name="photo_editor_aicr_generation_failed">"Yaradıla bilmədi. Yenidən sınayın."</string>
     <string name="photo_editor_aicr_high_temperature">Cihaz çox isinib. Soyumağını gözləyib yenidən sınayın.</string>
     <string name="photo_editor_aicr_inpaint_invalid_image">"Bu foto üçün silgi özəllikləri istifadə edilə bilmir. Başqa birini sınayın."</string>
     <string name="photo_editor_aicr_low_battery">"Yaradıla bilmədi. Batareya səviyyəsi çox aşağıdır."</string>
@@ -1472,6 +1506,7 @@ Orijinal tərəf nisbətini saxlayın, öz istədiyinizi seçin və ya süni zə
     <string name="saturday_short">Şən</string>
     <string name="saturday_shortest">Şən</string>
     <string name="save_error_try_a_different_template_msg">"Saxlanıla bilmədi. Şəkil çox böyükdür."</string>
+	<string name="scale_support_toast">Çimdikləyərək videoları yaxınlaşdıra və uzaqlaşdıra bilərsiniz</string>
     <string name="scanning_device_tips">Yaxınlıqdakı cihazlar axtarılır… Digər cihazların aşkar edilə bilən rejimdə olduğuna əmin olun.</string>
     <string name="screen_doodle_talkback_size">Qaralama xətti genişliyi</string>
     <string name="screen_editor_btn_delete">Sil</string>
@@ -1612,6 +1647,7 @@ Orijinal tərəf nisbətini saxlayın, öz istədiyinizi seçin və ya süni zə
     <string name="sunday">Bazar</string>
     <string name="sunday_short">Baz</string>
     <string name="sunday_shortest">Baz</string>
+	<string name="talkback_clip_seek_bar">Video klipin zaman xətti</string>
     <string name="talkback_signature_delete">Bu imzanı sil</string>
     <string name="talkback_signature_select_color_1">Qara</string>
     <string name="talkback_signature_select_color_2">Qırmızı</string>
@@ -2260,6 +2296,7 @@ Orijinal tərəf nisbətini saxlayın, öz istədiyinizi seçin və ya süni zə
     <string name="vlog_talkback_frame_view">Mətn əlavə etmək üçün bir klip seçin</string>
     <string name="vlog_talkback_max_voice_view">Ən yüksək həcm</string>
     <string name="vlog_talkback_min_voice_view">Ən aşağı həcm</string>
+	<string name="vlog_talkback_process_bar">Video zaman çubuğu</string>
     <string name="vlog_talkback_ratio_16_9">On altıya doqquz</string>
     <string name="vlog_talkback_ratio_1_1">Kvadrat</string>
     <string name="vlog_talkback_ratio_255_1">İki nöqtə əlli beşə bir</string>
@@ -2289,6 +2326,7 @@ Orijinal tərəf nisbətini saxlayın, öz istədiyinizi seçin və ya süni zə
     <string name="vlog_talkback_text_travel_day">Macəralar</string>
     <string name="vlog_talkback_text_travel_vlog">Səyahət gündəliyi</string>
     <string name="vlog_talkback_text_vlog">Xoşbəxt bir gün</string>
+	<string name="vlog_talkback_video_clip">Video klip</string>
     <string name="vlog_talkback_view_pause">Fasilə ver</string>
     <string name="vlog_talkback_view_play">Oxut</string>
     <string name="vlog_template_apply">Şablon istifadə et</string>

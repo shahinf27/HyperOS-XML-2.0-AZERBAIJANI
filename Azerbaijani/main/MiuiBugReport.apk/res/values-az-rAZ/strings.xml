@@ -58,6 +58,18 @@
     <string name="app_search">Tətbiqləri axtar</string>
     <string name="auth_fail_warning">Seansın müddəti bitdi. Yenidən daxil olun.</string>
     <string name="back">Geri</string>
+	<string name="bluetooth_abnormal_device_disconnection">Bluetooth cihazının anormal bağlantı kəsmə aşkarlama nəticəsi</string>
+    <string name="bluetooth_abnormal_speaker">Bluetooth dinamik test nəticələri</string>
+    <string name="bluetooth_abnormal_volume">Anormal həcm aşkarlandı</string>
+    <string name="bluetooth_automatically_turns_on">Bluetooth avtomatik açmanı aşkarlama nəticəsi</string>
+    <string name="bluetooth_cannot_be_turned_on_or_off">Bluetooth açma və bağlamanı aşkarlama nəticəsi</string>
+    <string name="bluetooth_device_freezes">Bluetooth cihaz gecikməsini aşkarlama nəticəsi</string>
+    <string name="bluetooth_device_not_found">Cihaz tapılmadı aşkarlama nəticəsi</string>
+    <string name="bt_diag_dialog_msg">Bluetooth diaqnozunu aparın, anormallığı təhlil edin və Bluetooth problemlərini həll etməyə kömək edin.</string>
+    <string name="bt_diag_dialog_no">Xeyr</string>
+    <string name="bt_diag_dialog_title">Bluetooth diaqnostikasını icra etmək istəyirsiniz?</string>
+    <string name="bt_diag_dialog_yes">Bəli</string>
+    <string name="bt_diag_title">Bluetooth diaqnostikası</string>
     <string name="btn_send">Göndər</string>
     <string name="bugreport_dialog_informed_consent_content">"Kilid ekranı parolunuzla bağlı xəta aşkarladıq. Problemi tapmağımıza və həll etməyimizə kömək etməsi üçün cihaz jurnallarını göndərə bilərsiniz. Jurnal məlumatları anonim olaraq yüklənəcək, yalnız problemin aradan qaldırılması üçün istifadə olunacaq və problemin aradan qaldırılması tamamlandıqdan sonra silinəcək."</string>
     <string name="bugreport_dialog_informed_consent_title">Məlumatlandırma razılığı</string>
@@ -232,6 +244,7 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="feedback_answer_detail_submit_dialog_content">"Qarşılaşdığınız problemi təsvir edə bilərsiniz və onu həll etməyə çalışacağıq. Əks-əlaqə göndərilsin?"</string>
     <string name="feedback_answer_detail_submit_dialog_title">Əks-əlaqə göndərilsin?</string>
     <string name="feedback_bug_status_change_notification_desc">%1$s problemi \"%2$s\"</string>
+	<string name="feedback_button">Düymə</string>
     <string name="feedback_choose_app_tag">Problem seçin</string>
     <string name="feedback_choose_device">Cihaz seçin</string>
     <string name="feedback_choose_device_hint">"Heç bir cihaz seçməmisiniz"</string>
@@ -283,6 +296,7 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="feedback_jira_key">JIRA açarı: %s</string>
     <string name="feedback_jira_key_place_holder">Jira yaradılır…</string>
     <string name="feedback_package_log_failed">"Jurnallar sıxışdırıla bilmədi"</string>
+	<string name="feedback_radio_button">Variant düyməsi</string>
     <string name="feedback_remind_login_btn">Daxil ol</string>
     <string name="feedback_report_remind_login_desc">Mühəndislərimizin sizinlə əlaqə saxlaya bilmələri üçün Xiaomi Hesabınızla daxil olun.</string>
     <string name="feedback_report_remind_login_desc2">"Hesabatınızın irəliləyişinə \"Əks-əlaqəm\" bölməsində baxa bilərsiniz."</string>
@@ -344,6 +358,7 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="feedback_title_reproductivity">Baş vermə tezliyini seçin</string>
     <string name="feedback_tracking">Problemləri izlə</string>
     <string name="feesback_list">Hesabatlar</string>
+	<string name="first_fragment_label">İlk Fraqment</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
     <string name="fmt_date_numeric_month_day">d-M</string>
@@ -361,6 +376,8 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="google_login_btn_content_description">Google ilə daxil olun</string>
     <string name="goon_feedback_main">Davam et</string>
     <string name="header_help">Kömək</string>
+	<string name="hello_first_fragment">Salam ilk fraqment</string>
+    <string name="hello_second_fragment">Salam ikinci fraqment. Arq: %1$s</string>
     <string name="hint_feedback_main">Problemi açıqlayın</string>
     <string name="i_get_it">Anladım</string>
     <string name="i_know">Anladım</string>
@@ -651,6 +668,7 @@ E-poçt: service.jp@xiaomi.com"</string>
     <string name="network_unavailable_dialog_button_ok">Oldu</string>
     <string name="network_unavailable_dialog_content">Hesabatınız, internet bağlantısı olduqda göndəriləcək.</string>
     <string name="network_unavailable_dialog_title">"Şəbəkəyə bağlana bilmir"</string>
+	<string name="next">Növbəti</string>
     <string name="night">Axşam</string>
     <string name="no_account">Daxil olunmadı</string>
     <string name="non_system_app_select">Endirilmiş tətbiqlər</string>
@@ -781,6 +799,7 @@ E-poçt: service.jp@xiaomi.com"</string>
     <string name="pm">GS</string>
     <string name="post_miui_bbs_failed">"\"MIUI Forum\"da paylaşıla bilmədi"</string>
     <string name="preference_copied">\"%1$s\" lövhəyə kopyalandı.</string>
+	<string name="previous">Əvvəlki</string>
     <string name="privacy_category_title">Gizlilik</string>
     <string name="privacy_policy_title">Gizlilik siyasəti</string>
     <string name="privacy_policy_update_hint">"%1$s Gizlilik Siyasəti güncəlləndi:
@@ -825,6 +844,7 @@ Davam etməzdən əvvəl %3$s üçün yeni versiyanı oxuyun və razılaşın."<
     <string name="saturday_short">Şən</string>
     <string name="saturday_shortest">Şən</string>
     <string name="search_menu_title">Axtar</string>
+	<string name="second_fragment_label">İkinci Fraqment</string>
     <string name="section_description">Açıqlama</string>
     <string name="section_screenshot">Ekran şəkli</string>
     <string name="send">Göndər</string>

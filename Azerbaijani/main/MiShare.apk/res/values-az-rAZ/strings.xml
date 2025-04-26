@@ -17,6 +17,10 @@
     <string name="abc_shareactionprovider_share_with">Paylaş</string>
     <string name="abc_shareactionprovider_share_with_application">%s ilə paylaş</string>
     <string name="abc_toolbar_collapse_description">Yığcamlaşdır</string>
+	<string name="accessibility_sliding_button_state_description_off">Söndürüldü</string>
+    <string name="accessibility_sliding_button_state_description_on">İşə salındı</string>
+    <string name="accessibility_tab_state_description_unselect">Seçilmədi</string>
+    <string name="accessibility_tab_statedesc_unselect">Seçilmədi</string>
     <string name="actionbar_button_up_description">Geri</string>
     <string name="afternoon">Günortadan sonra</string>
     <string name="agree_desc">Yuxarıda sadalanan məcburi icazələri verin.</string>
@@ -139,6 +143,12 @@
     <string name="global_help">Cihaz tapıla bilmir</string>
     <string name="global_my">"Cihazım
 %1$s"</string>
+	<string name="go_to_settings">Ayarlar</string>
+    <string name="guide_operation">Keçid etmək üçün iki barmaqla sola və ya sağa sürüşdürün</string>
+    <string formatted="false" name="guide_page">第%d页，共%d页</string>
+    <string name="guide_page_view1">Hər iki cihazda Xiaomi Share-i işə salın. Digər şəxs İdarəetmə mərkəzindəki açara toxuna bilər. Səhifə %1$d/%2$d. Keçid etmək üçün iki barmaqla sola və ya sağa sürüşdürün.</string>
+    <string name="guide_page_view1_lyra">Xiaomi Share-i İdarəetmə mərkəzində işə sala bilərsiniz. Səhifə: %1$d/%2$d. Keçid etmək üçün iki barmaqla sola və ya sağa sürüşdürün.</string>
+    <string name="guide_page_view2">"Elementləri göndərmək istədiyiniz cihazı seçin və onun ikonuna toxunun. Səhifə: %1$d/%2$d. Keçid etmək üçün iki barmaqla sola və ya sağa sürüşdürün."</string>
     <string name="guide_summary_1">Digər şəxs Bildiriş panelindəki açara toxuna bilər</string>
     <string name="guide_summary_1_lyra">\"İdarəetmə mərkəzi\"ndə \"Xiaomi Share\"i işə sala bilərsiniz</string>
     <string name="guide_summary_2">"Elementlər göndərmək istədiyiniz cihazı seçin və ikonuna toxunun"</string>
@@ -179,7 +189,13 @@ Apple cihazları: iPhone, iPad, Mac
 Digər istehsalçılardan Android cihazları: vivo, realme, OPPO, Black Shark, Meizu, OnePlus, ZTE, Hisense, ASUS, ROG, Samsung, Lenovo, Motorola, NIO"</string>
     <string name="mishare_transefer_channel_desc">Xiaomi Share tərəfindən göndərilən və alınan elementlər barədə bildirişlər</string>
     <string name="miuix_access_state_desc">Seçildi</string>
+	<string name="miuix_accessibility_title">Başlıq</string>
     <string name="miuix_alphabet_indexer_name">İndeks çubuğu</string>
+	<string name="miuix_appcompat_accessibility_collapse_state">Yığcamlaşdırıldı</string>
+    <string name="miuix_appcompat_accessibility_expand_state">Genişləndirildi</string>
+    <string name="miuix_appcompat_accessibility_finish_edit_action_mode">Düzəliş rejimindən çıx</string>
+    <string name="miuix_appcompat_accessibility_new_message">Yeni bildiriş</string>
+    <string name="miuix_appcompat_accessibility_start_edit_action_mode">Düzəliş rejiminə daxil ol</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Heç birini seçmə</string>
     <string name="miuix_appcompat_action_mode_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_action_mode_title_empty">Elementləri seç</string>
@@ -195,8 +211,9 @@ Digər istehsalçılardan Android cihazları: vivo, realme, OPPO, Black Shark, M
     <string name="miuix_appcompat_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_select_all_description">Hamısını seç</string>
     <string name="miuix_appcompat_select_item">Elementləri seç</string>
+	<string name="miuix_appcompat_show_dialog_description">Açılan pəncərə</string>
     <string name="miuix_indexer_collect">Kolleksiyalar</string>
-    <string name="miuix_indexer_selected">%s seçildi</string>
+    <string name="miuix_progressbar_loading">Bir saniyə…</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Təzələmək üçün aşağı çək</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Uğurla təzələndi</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Təzələnir…</string>
@@ -205,6 +222,9 @@ Digər istehsalçılardan Android cihazları: vivo, realme, OPPO, Black Shark, M
     <string name="miuix_sbl_tracking_progress_labe_up_none">"İndilik bu qədər"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Bir saniyə…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Elementlər yüklənə bilmədi"</string>
+	<string name="miuix_show_password">Parolu göstər</string>
+    <string name="miuix_stretchablewidget_collapsed">Yığcamlaşdırıldı</string>
+    <string name="miuix_stretchablewidget_expanded">Genişləndirildi</string>
     <string name="monday">Bazar ertəsi</string>
     <string name="monday_short">B.e.</string>
     <string name="monday_shortest">B.e.</string>
@@ -275,6 +295,7 @@ Digər istehsalçılardan Android cihazları: vivo, realme, OPPO, Black Shark, M
 \"Xiaomi Share\"i istifadə etməzdən əvvəl aşağıdakı icazələri verməli və lazımi şəxsi məlumatların yığılmasına icazə verməlisiniz:"</string>
     <string name="purpose_v12">\"Xiaomi Share\"ə xoş gəlmisiniz! Bu tətbiqi cihazlar arasında faylları köçürmək üçün istifadə edə bilərsiniz.</string>
     <string name="queue_full">Yenilərini əlavə etməzdən əvvəl davam edən köçürmələri bitirin.</string>
+	<string name="ratio">%1$d%%</string>
     <string name="receive_complete">Uğurla alındı</string>
     <string name="receive_error">"Alına bilmədi"</string>
     <string name="receive_file">Qəbul et</string>
@@ -288,8 +309,6 @@ Digər istehsalçılardan Android cihazları: vivo, realme, OPPO, Black Shark, M
     <string name="scanning_device_tips"><Data>Yaxınlıqdakı cihazlar axtarılır. Digər şəxsin İdarəetmə mərkəzində Xiaomi Share-i işə salması lazımdır. &lt;a>Ətraflı öyrən&lt;/a></Data></string>
     <string name="scanning_only_xiaomi_device">Bu element yalnız Xiaomi və ya Black Shark cihazlarına köçürülə bilər</string>
     <string name="search_menu_title">Axtar</string>
-    <string name="seize_content">Elementləri köçürə bilmək üçün ekranın paylaşılmasını dayandırın. Paylaşma indi dayandırılsın?</string>
-    <string name="seize_title">Ekranın paylaşılmasını dayandır</string>
     <string name="send">Göndər</string>
     <string name="send_file">FAYL GÖNDƏR</string>
     <string name="send_files_by">Faylları paylaş</string>
@@ -362,6 +381,7 @@ Digər istehsalçılardan Android cihazları: vivo, realme, OPPO, Black Shark, M
     <string name="switch_mode_all">Hər kəsdən (%d dəq)</string>
     <string name="switch_mode_close">Bağlı</string>
     <string name="switch_mode_sameaccount">Bu hesabdan</string>
+	<string name="text_input_layout_default_error">Bu, ilkin xətadır</string>
     <string name="the_anniversary_of_lifting_martial_law">Hərbi Vəziyyətin Qaldırılma İldönümü</string>
     <string name="the_anti_aggression_day">Təcavüzlə Mübarizə Günü</string>
     <string name="the_arbor_day">Ağacəkmə Günü</string>
@@ -401,8 +421,6 @@ Digər istehsalçılardan Android cihazları: vivo, realme, OPPO, Black Shark, M
     <string name="thursday">Cümə axşamı</string>
     <string name="thursday_short">C.a.</string>
     <string name="thursday_shortest">C.a.</string>
-    <string name="tile_state_active">Açıq</string>
-    <string name="tile_state_inactive">Bağlı</string>
     <string name="tile_state_unavailable">Əlçatmazdır</string>
     <string name="time_picker_dialog_title">Vaxtı ayarla</string>
     <string name="tips_p2p_support_use5g">Ən yaxşı nəticə üçün 5 GHz Wi-Fi şəbəkəsini istifadə edin.</string>

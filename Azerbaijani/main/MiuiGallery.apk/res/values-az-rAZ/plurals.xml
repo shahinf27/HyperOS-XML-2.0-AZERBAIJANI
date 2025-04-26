@@ -1,27 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="a_hour_ago">
-        <item quantity="one">1 saat əvvəl</item>
         <item quantity="other">1 saat əvvəl</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="one">%d saat əvvəl</item>
         <item quantity="other">%d saat əvvəl</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
-        <item quantity="one">Yarım saat əvvəl</item>
         <item quantity="other">Yarım saat əvvəl</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="one">%d saat ərzində</item>
         <item quantity="other">%d saat ərzində</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
-        <item quantity="one">Yarım saat ərzində</item>
         <item quantity="other">Yarım saat ərzində</item>
     </plurals>
     <plurals name="abbrev_in_less_than_one_minute">
-        <item quantity="one">Dərhal</item>
         <item quantity="other">Dərhal</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
@@ -29,7 +23,6 @@
         <item quantity="one">%d dəq ərzində</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="one">İndicə</item>
         <item quantity="other">İndicə</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
@@ -265,9 +258,13 @@
         <item quantity="one">"%1$d fayl endirilə bilmədi, şəbəkə bağlantısını yoxlayıb yenidən sınayın"</item>
     </plurals>
     <plurals name="downloading_title_link">
-        <item quantity="other">Cloud-dan elementlər endirilir (%2$d/%1$d)</item>
-        <item quantity="one">Cloud-dan elementlər endirilir (%2$d/%1$d)</item>
+        <item quantity="other">Cloud-dan elementlər yüklənir (%2$d/%1$d)</item>
+        <item quantity="one">Cloud-dan elementlər yüklənir (%2$d/%1$d)</item>
     </plurals>
+	<plurals name="drop_contain_several_same_name_file">
+        <item quantity="other">"Saxlanıla bilmir. Bu adda artıq %d fayl mövcuddur."</item>
+        <item quantity="one">"Saxlanıla bilmir. Bu adda artıq %d fayl mövcuddur."</item>
+	</plurals>
     <plurals name="face_count">
         <item quantity="other">Cəmi %d foto</item>
         <item quantity="one">Cəmi %d foto</item>
@@ -301,19 +298,15 @@
         <item quantity="one">%d element nüsxələnir…</item>
     </plurals>
     <plurals name="half_hour_ago">
-        <item quantity="one">Yarım saat əvvəl</item>
         <item quantity="other">Yarım saat əvvəl</item>
     </plurals>
     <plurals name="in_a_hour">
-        <item quantity="one">1 saat ərzində</item>
         <item quantity="other">1 saat ərzində</item>
     </plurals>
     <plurals name="in_half_hour">
-        <item quantity="one">Yarım saat ərzində</item>
         <item quantity="other">Yarım saat ərzində</item>
     </plurals>
     <plurals name="in_less_than_one_minute">
-        <item quantity="one">Dərhal</item>
         <item quantity="other">Dərhal</item>
     </plurals>
     <plurals name="in_num_minutes">
@@ -321,7 +314,6 @@
         <item quantity="one">1 dəqiqə ərzində</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
-        <item quantity="one">İndicə</item>
         <item quantity="other">İndicə</item>
     </plurals>
     <plurals name="miplay_time_minute_unit">
@@ -372,6 +364,10 @@
         <item quantity="other">%1$d video sinxronlaşdırmağı gözləyir</item>
         <item quantity="one">%1$d video sinxronlaşdırmağı gözləyir</item>
     </plurals>
+	<plurals name="other_group_name">
+        <item quantity="other">%1$s və digər %2$d nəfər</item>
+        <item quantity="one">%1$s və digər %2$d nəfər</item>
+    </plurals>
     <plurals name="photo_count">
         <item quantity="other">%d foto</item>
         <item quantity="one">%d foto</item>
@@ -379,6 +375,10 @@
     <plurals name="photo_count_format">
         <item quantity="other">Cəmi %1$d element</item>
         <item quantity="one">Cəmi %1$d element</item>
+    </plurals>
+	<plurals name="photo_picker_title_format">
+        <item quantity="other">%d foto seç</item>
+        <item quantity="one">%d foto seç</item>
     </plurals>
     <plurals name="photo_remain_days">
         <item quantity="other">%d gün</item>
@@ -428,6 +428,10 @@
         <item quantity="other">"%1$d fayl (%2$d MB) hələ endirilməyib. Mobil internet istifadə edilərək endirilsin?"</item>
         <item quantity="one">"%1$d fayl (%2$d MB) hələ endirilməyib. Mobil internet istifadə edilərək endirilsin?"</item>
     </plurals>
+	<plurals name="picker_overview_page_title">
+        <item quantity="other">%1$d element seçildi</item>
+        <item quantity="one">%1$d element seçildi</item>
+    </plurals>
     <plurals name="picker_retry_image_confirm_message">
         <item quantity="other">"%d fayl endirilə bilmədi. Yenidən sınayırsınız?"</item>
         <item quantity="one">"%d fayl endirilə bilmədi. Yenidən sınayırsınız?"</item>
@@ -440,6 +444,18 @@
         <item quantity="other">"Cihazda olmayan bir %d foto ötürüldü."</item>
         <item quantity="one">"Cihazda olmayan bir %d foto ötürüldü."</item>
     </plurals>
+	<plurals name="picker_title_format_allow_image_and_video">
+        <item quantity="other">%1$d–%2$d element seç</item>
+        <item quantity="one">%1$d–%2$d element seç</item>
+    </plurals>
+    <plurals name="picker_title_selection_format_multiple_os2">
+        <item quantity="other">%1$d ~ %2$d foto seç</item>
+        <item quantity="one">%1$d ~ %2$d foto seç</item>
+    </plurals>
+    <plurals name="picker_title_specify_format_allow_image_and_video">
+        <item quantity="other">%d element seç</item>
+        <item quantity="one">%d element seç</item>
+    </plurals>
     <plurals name="picker_title_video_editor_component">
         <item quantity="other">%d seqment seç</item>
         <item quantity="one">%d seqment seç</item>
@@ -447,6 +463,10 @@
     <plurals name="picker_title_video_editor_component_format">
         <item quantity="other">%1$d seqment seç (%2$d)</item>
         <item quantity="one">%1$d seqment seç (%2$d)</item>
+    </plurals>
+	<plurals name="picker_title_video_editor_component_format_os2">
+        <item quantity="other">%1$d seqment seç</item>
+        <item quantity="one">%1$d seqment seç</item>
     </plurals>
     <plurals name="privacy_watermark_word_count_not_full">
         <item quantity="other">Ən çox %d xarakter daha daxil edin</item>
@@ -481,6 +501,10 @@
         <item quantity="one">%1$d foto \"%2$s\" albomundan silindi.</item>
     </plurals>
     <plurals name="search_title_ai">
+        <item quantity="other">%d element tapıldı</item>
+        <item quantity="one">%d element tapıldı</item>
+    </plurals>
+	<plurals name="search_title_new_ai">
         <item quantity="other">%d element tapıldı</item>
         <item quantity="one">%d element tapıldı</item>
     </plurals>
@@ -759,6 +783,10 @@
     <plurals name="trash_vip_info_text_unlogin">
         <item quantity="other">Elementlər burada %1$d gün saxlanıla bilər. Bu müddəti uzatmaq üçün planınızı yüksəldin.</item>
         <item quantity="one">Elementlər burada %1$d gün saxlanıla bilər. Bu müddəti uzatmaq üçün planınızı yüksəldin.</item>
+    </plurals>
+	<plurals name="universal_pick_bottom_bar_selected_content_format">
+        <item quantity="other">%d seçilmiş elementi göstər</item>
+        <item quantity="one">%d seçilmiş elementi göstər</item>
     </plurals>
     <plurals name="video_count_format">
         <item quantity="other">%1$d fayl</item>
