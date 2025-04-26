@@ -29,6 +29,14 @@
         <item quantity="other">%d dəq əvvəl</item>
         <item quantity="one">%d dəq əvvəl</item>
     </plurals>
+	<plurals name="action_description_all_paused">
+        <item quantity="other">%d endirməyə fasilə verildi</item>
+        <item quantity="one">%d endirməyə fasilə verildi</item>
+    </plurals>
+    <plurals name="action_description_all_start">
+        <item quantity="other">%d endirməni başlat</item>
+        <item quantity="one">%d endirməni başlat</item>
+    </plurals>
     <plurals name="dialog_confirm_delete_downloads_message">
         <item quantity="other">%d endirmə silinsin?</item>
         <item quantity="one">%d endirmə silinsin?</item>
@@ -75,6 +83,10 @@
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d element seçildi</item>
         <item quantity="one">%d element seçildi</item>
+    </plurals>
+	<plurals name="miuix_indexer_selected">
+        <item quantity="other">%1$d element seçildi</item>
+        <item quantity="one">%1$d element seçildi</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d dəqiqə əvvəl</item>

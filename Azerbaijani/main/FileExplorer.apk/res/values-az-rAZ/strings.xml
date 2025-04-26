@@ -499,6 +499,7 @@ Faylları cihazınızdan Mi Drive-a daşımağa çalışın."</string>
     <string name="miuix_navigator_content_switch_description">Yan çubuğu göstər</string>
     <string name="miuix_navigator_multiple_choice">Seç</string>
     <string name="miuix_navigator_navigator_switch_description">Yan çubuğu gizlət</string>
+	<string name="miuix_navigator_toolbar_screen_bottom">Ekranın alt hissəsindəki alət çubuğu</string>
 	<string name="miuix_popup_window_default_title">Açılan pəncərə</string>
     <string name="miuix_progressbar_loading">Bir saniyə…</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Təzələmək üçün aşağı çək</string>
@@ -510,7 +511,7 @@ Faylları cihazınızdan Mi Drive-a daşımağa çalışın."</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Bir saniyə…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Elementlər yüklənə bilmədi"</string>
 	<string name="miuix_show_password">Parolu göstər</string>
-    <string name="miuix_stretchablewidget_collapsed">Bağlandı</string>
+    <string name="miuix_stretchablewidget_collapsed">Yığcamlaşdırıldı</string>
     <string name="miuix_stretchablewidget_expanded">Genişləndirildi</string>
     <string name="monday">Bazar ertəsi</string>
     <string name="monday_short">B.e.</string>
@@ -591,7 +592,7 @@ Faylları cihazınızdan Mi Drive-a daşımağa çalışın."</string>
     <string name="name_empty">Ad daxil edin</string>
     <string name="navigator_label_all_files">Bütün fayllar</string>
     <string name="navigator_label_external_devices">Xarici cihazlar</string>
-    <string name="need_open_content">Bu özəlliyi istifadə etmək üçün Fayl Menecerinin foto və fayllarınıza müraciətinə icazə verin.</string>
+    <string name="need_open_content">Fayl Menecerinin elementlərə baxa və düzəliş edə bilməsi üçün foto və fayllarınıza müraciət etməsi lazımdır. Bu icazəni Ayarlarda verə bilərsiniz.</string>
     <string name="need_open_permission">İcazə tələb olunur</string>
     <string name="need_read_storage_permission">"Fayl Meneceri, normal işləmək üçün cihazın anbarına müraciət icazəsi tələb edir."</string>
     <string name="network_not_available">"Şəbəkəyə bağlana bilmir"</string>

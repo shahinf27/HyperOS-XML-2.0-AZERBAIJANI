@@ -19,6 +19,10 @@
     <string name="abc_toolbar_collapse_description">Yığcamlaşdır</string>
     <string name="accessibility_calllog_detail">Zəng tarixçəsi detalları</string>
     <string name="accessibility_contact_detail">Kontakt detalları</string>
+	<string name="accessibility_sliding_button_state_description_off">Söndürüldü</string>
+    <string name="accessibility_sliding_button_state_description_on">İşə salındı</string>
+    <string name="accessibility_tab_state_description_unselect">Seçilmədi</string>
+    <string name="accessibility_tab_statedesc_unselect">Seçilmədi</string>
     <string name="account_container_title">Buradan daxilə köçürüldü</string>
     <string name="account_default">Yerli</string>
     <string name="account_dual_sdn">SDN %s</string>
@@ -70,6 +74,7 @@
     <string name="bh_b">B</string>
     <string name="bh_back">Geri</string>
     <string name="bh_bill_balance">Balans</string>
+	<string name="bh_bill_balance_inquiry">Balansı yoxla - SIM %1$d</string>
     <string name="bh_bill_charge">Balansı artır</string>
     <string name="bh_bills_info_label">Detallar</string>
     <string name="bh_bugreport">Biznes əks-əlaqəsi</string>
@@ -136,12 +141,14 @@
     <string name="bh_login_to_cancellation">Xidmətləri ləğv edə bilmək üçün əvvəlcə daxil olun.</string>
     <string name="bh_login_to_withdrawal">Razılığı geri götürə bilmək üçün əvvəlcə daxil olun.</string>
     <string name="bh_misim_recharge">Artır</string>
-    <string name="bh_mm">Mi Mobil</string>
+    <string name="bh_mm">Mi Mobile</string>
+	<string name="bh_more_function">Əlavə özəlliklər</string>
     <string name="bh_more_recommend">Daha çox tövsiyə</string>
     <string name="bh_more_traffic_pkg">Daha çox internet paketi</string>
     <string name="bh_more_value">Digər məbləğ</string>
     <string name="bh_ms">Mi SIM</string>
     <string name="bh_net_error">Şəbəkə xətası baş verdi</string>
+	<string name="bh_no_card">SIM kart yoxdur</string>
     <string name="bh_no_permission_read_call_log_desc">Bu icazə, zəng müddətini görüntüləməyə icazə verir</string>
     <string name="bh_no_permission_read_contact_desc">Bu icazə, kontaktlardakı telefon nömrələrinə müraciətə icazə verir</string>
     <string name="bh_no_sim">"SIM kart taxılmayıb"</string>
@@ -644,6 +651,8 @@ Səbəb: \"%s\""</string>
     <string name="hybrid_webpage_not_available">Veb səhifə mövcud deyil</string>
     <string name="ic_menu_back">Geri</string>
     <string name="ic_menu_done">Hazırdır</string>
+	<string name="menu_getStar">Seçildi，Ulduz，Düymə</string>
+    <string name="menu_loseStar">Seçilmədi，Ulduz，Düymə</string>
     <string name="identify_numbers_text">Spam zəngləri müəyyən etmək üçün \"Zəng edən kimliyi\"ni işə salın</string>
     <string name="import_all_sim_entries_miui">Bütün kontaktları daxilə köçür</string>
     <string name="import_all_vcard_string">Bütün vCard fayllarını daxilə köçür</string>
@@ -741,6 +750,7 @@ Səbəb: \"%s\""</string>
     <string name="menu_share_vcard_file">Fayl</string>
     <string name="menu_sync_remove">Sinxronlaşdırılmış qrupu sil</string>
     <string name="midnight">Gecə</string>
+	<string name="minutes">dəqiqə</string>
     <string name="miprofile_account_type">Kontakt kartları</string>
     <string name="miprofile_edit_title">Profilə düzəliş et</string>
     <string name="miprofile_name">Profilim</string>
@@ -750,7 +760,13 @@ Səbəb: \"%s\""</string>
     <string name="missing_name">(Ad yoxdur)</string>
     <string name="missing_required_permission">Lazımi bir icazəni sıradan çıxartdınız.</string>
     <string name="miuix_access_state_desc">Seçildi</string>
+	<string name="miuix_accessibility_title">Başlıq</string>
     <string name="miuix_alphabet_indexer_name">İndeks çubuğu</string>
+	<string name="miuix_appcompat_accessibility_collapse_state">Yığcamlaşdırıldı</string>
+    <string name="miuix_appcompat_accessibility_expand_state">Genişləndirildi</string>
+    <string name="miuix_appcompat_accessibility_finish_edit_action_mode">Düzəliş rejimindən çıx</string>
+    <string name="miuix_appcompat_accessibility_new_message">Yeni bildiriş</string>
+    <string name="miuix_appcompat_accessibility_start_edit_action_mode">Düzəliş rejiminə daxil ol</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Heç birini seçmə</string>
     <string name="miuix_appcompat_action_mode_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_action_mode_title_empty">Elementləri seç</string>
@@ -771,13 +787,17 @@ Səbəb: \"%s\""</string>
     <string name="miuix_appcompat_select_item">Elementləri seç</string>
 	<string name="miuix_appcompat_show_dialog_description">Açılan Pəncərə</string>
     <string name="miuix_indexer_collect">Kolleksiyalar</string>
-    <string name="miuix_indexer_selected">%s seçildi</string>
+    <string name="miuix_item_view_accessibility_unselected">Seçilmədi</string>
     <string name="miuix_item_view_role_description">Vərəq</string>
     <string name="miuix_navigator_category_group_collapse">Yığcamlaşdır</string>
+	<string name="miuix_navigator_category_group_collapsed">Bağlıdır</string>
     <string name="miuix_navigator_category_group_expand">Genişləndir</string>
+	<string name="miuix_navigator_category_group_expanded">Genişləndirildi</string>
     <string name="miuix_navigator_content_switch_description">Yan çubuğu göstər</string>
     <string name="miuix_navigator_multiple_choice">Seç</string>
     <string name="miuix_navigator_navigator_switch_description">Yan çubuğu gizlət</string>
+	<string name="miuix_navigator_toolbar_screen_bottom">Ekranın alt hissəsindəki alət çubuğu</string>
+    <string name="miuix_progressbar_loading">Bir saniyə…</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Təzələmək üçün aşağı çək</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Uğurla təzələndi</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Təzələnir…</string>
@@ -786,6 +806,9 @@ Səbəb: \"%s\""</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">"İndilik bu qədər"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Bir saniyə…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Eementlər yüklənə bilmədi"</string>
+	<string name="miuix_show_password">Parolu göstər</string>
+    <string name="miuix_stretchablewidget_collapsed">Yığcamlaşdırıldı</string>
+    <string name="miuix_stretchablewidget_expanded">Genişləndirildi</string>
     <string name="mobile_equipment_identification">Mobil Avadanlıq İdentifikasiyası</string>
     <string name="monday">Bazar ertəsi</string>
     <string name="monday_short">B.e.</string>
@@ -893,7 +916,9 @@ Səbəb: \"%s\""</string>
     <string name="option_view_contact">Bax</string>
     <string name="option_view_group">Bax</string>
     <string name="organizationLabelsGroup">Mövqe</string>
-    <string name="organization_company_and_title">%1$s, %2$s</string>
+    <string name="organization_company_and_title">%1$s-%2$s</string>
+	<string name="pause">fasilə ver</string>
+    <string name="paused">fasilə verildi</string>
     <string name="pay_fail">"Ödəniş tamamlana bilmədi"</string>
     <string name="pay_success">Ödəniş uğurla tamamlandı</string>
     <string name="payphone">Taksafon</string>
@@ -937,6 +962,8 @@ Səbəb: \"%s\""</string>
     <string name="picker_postal_title">Poçt kodu seçin</string>
     <string name="picker_recent_list_empty">Son kontakt yoxdur</string>
     <string name="pkgLabel">Kontaktlar və nömrəyığan</string>
+	<string name="play">oxut</string>
+    <string name="played">oxuduldu</string>
     <string name="pm">GS</string>
     <string name="postalLabelsGroup">Ünvan</string>
     <string name="postal_address">Ünvan</string>
@@ -1102,6 +1129,7 @@ Səbəb: \"%s\""</string>
     <string name="search_results_searching">Axtarılır…</string>
     <string name="search_settings_description">Kontaktlarınızın adları</string>
     <string name="searching_vcard_message">Cihazdakı vCard datası axtarılır…</string>
+	<string name="seconds">saniyə</string>
     <string name="select_all">Hamısını seç</string>
     <string name="select_groups">Qrupları seç</string>
     <string name="select_vcard_title">vCard faylı seçin</string>
@@ -1217,6 +1245,10 @@ Səbəb: \"%s\""</string>
     <string name="splitConfirmation_title">Kontakt ayrılsın?</string>
     <string name="starredList">Ulduzlu</string>
     <string name="starred_contacts">Sevimlilər</string>
+	<string name="state_Star">Ulduzlu</string>
+    <string name="state_StarCanceled">Ulduzu götürülmüş</string>
+    <string name="state_not_selected">Seçilməmiş</string>
+    <string name="state_selected">Seçilmiş</string>
     <string name="status_available">Müsait</string>
     <string name="status_away">Uzaqda</string>
     <string name="status_busy">Məşğul</string>
@@ -1236,8 +1268,7 @@ Səbəb: \"%s\""</string>
     <string formatted="false" name="t9_search_guide_zhuyin_title2">\"Jeff Max\" axtarmaq üçün %d\" və \"%d\" daxil edin</string>
     <string name="take_new_photo">Yeni foto çək</string>
     <string name="take_photo">Foto çək</string>
-	<string name="text_input_layout_default_content_description">这是默认的content description</string>
-    <string name="text_input_layout_default_error">这是默认的error</string>
+	<string name="text_input_layout_default_error">Bu, ilkin xətadır</string>
     <string name="text_msim_balance">Bu gün istifadə edilən</string>
     <string name="text_vsim_remain_time">Qalan dəqiqə</string>
     <string name="the_anniversary_of_lifting_martial_law">Hərbi Vəziyyətin Qaldırılma İl dönümü</string>
@@ -1304,6 +1335,7 @@ Səbəb: \"%s\""</string>
     <string name="toast_text_copied">Mətn kopyalandı</string>
     <string name="today">Bu gün</string>
     <string name="tomorrow">Sabah</string>
+	<string name="total">cəmi</string>
     <string name="tuesday">Çərşənbə axşamı</string>
     <string name="tuesday_short">Ç.a.</string>
     <string name="tuesday_shortest">Ç.a.</string>

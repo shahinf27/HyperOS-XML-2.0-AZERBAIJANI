@@ -17,6 +17,19 @@
     <string name="abc_shareactionprovider_share_with">Paylaş</string>
     <string name="abc_shareactionprovider_share_with_application">%s ilə paylaş</string>
     <string name="abc_toolbar_collapse_description">Yığcamlaşdır</string>
+    <string name="accessibility_button">Düymə</string>
+    <string name="accessibility_close">Söndür</string>
+    <string name="accessibility_on">İşə sal</string>
+    <string name="accessibility_push">Aktivləşdirmək üçün iki dəfə toxun</string>
+    <string name="accessibility_sliding_button_state_description_off">bağlı</string>
+    <string name="accessibility_sliding_button_state_description_on">açıq</string>
+    <string name="accessibility_small_window">Üzən pəncərə</string>
+    <string name="accessibility_small_window_close">Yığcamlaşdırıldı</string>
+    <string name="accessibility_status">İşə salındı</string>
+    <string name="accessibility_status_off">Bağlı</string>
+    <string name="accessibility_switch">Keçid</string>
+    <string name="accessibility_tab_state_description_unselect">Seçilmədi</string>
+    <string name="accessibility_tab_statedesc_unselect">Seçilmədi</string>
     <string name="account_other">Digər</string>
     <string name="actionbar_button_up_description">Geri</string>
     <string name="afternoon">Günortadan sonra</string>
@@ -88,13 +101,19 @@
     <string name="camera_associate_failed">"Kameraya bağlana bilmədi"</string>
     <string name="camera_associate_success">Kameraya bağlandı</string>
     <string name="camera_composed_button">Birləşdir</string>
+    <string name="camera_composed_button_description">Birləşdir. Hər iki cihazın kamerası ilə eyni anda çəkiliş etmək üçün toxunun.</string>
     <string name="camera_composed_no_device">"Deyəsən, cihaz yaxınlıqda deyil"</string>
     <string name="camera_composed_title">"Bu cihazın kamerası ilə birləşdir"</string>
     <string name="camera_composed_using_title">Birləşdirilmiş kameralar</string>
     <string name="camera_connect_fail">"Bağlantı qurula bilmədi. Yenidən sınayın."</string>
     <string name="camera_connecting">"%s bu cihazın kamerasını istifadə etmək istəyir"</string>
+    <string name="camera_connecting_description">Bağlantı qurulur…</string>
     <string name="camera_disassociate">Kamera ilə bağlantısı kəsildi</string>
+    <string name="camera_discompose_button_description">"Birləşdirilmiş çəkilişi dayandırmaq və bu cihazın kamerasına geri qayıtmaq üçün toxunun."</string>
+    <string name="camera_glasses_content_description">Eynək bu cihaza bağlandı. Aktivləşdirmək üçün iki dəfə basın. Ötürmək üçün iki barmağınızla basın və sürükləyin.</string>
+    <string name="camera_glasses_content_description_update">Bu cihaza bağlanan eynəklər. Aktivləşdirmək üçün cüt basın.</string>
     <string name="camera_list_subtitle">Kameraları dəyişdir</string>
+    <string name="camera_new_title">Cihazlar arası kamera</string>
     <string name="camera_notify_string">Kamera bildirişi</string>
     <string name="camera_permission_dialog_message">"Bu tətbiqin, bu cihazın kamerasını istifadə etməsinə icazə verin. Bu icazəni Ayarlarda verə bilərsiniz."</string>
     <string name="camera_permission_dialog_negative">İmtina</string>
@@ -149,12 +168,26 @@
     <string name="character_counter_overflowed_content_description">Simvol limiti aşıldı | %1$d/%2$d</string>
     <string name="circulate_audio_group_title">Oynadılır…</string>
     <string name="circulate_back_button_content_description">Geri</string>
+    <string name="circulate_camera_glasses_back_to_box_desc_err_310">"%1$d. Dinamiklərin bağlantısını kəsmək TV pultundakı Güc düyməsinə basın.
+%2$d. Ekran yandıqdan sonra yenidən eynəyə bağlanmağa çalışın."</string>
+    <string name="circulate_camera_glasses_back_to_box_title_err_310">Əvvəlcə TV dinamiklərinin bağlantısını kəsin</string>
+    <string name="circulate_camera_glasses_card_use_camera">"Eynəyin kamerasını istifadə et"</string>
+    <string name="circulate_camera_glasses_card_using_camera">"Eynəyin kamerası istifadə edilir"</string>
+    <string name="circulate_camera_glasses_duplicate_dialog_title">Bağlantılı cihazı əvəz et</string>
+    <string name="circulate_camera_glasses_duplicate_dialog_title_pad">Bağlantılı cihazı əvəz et</string>
+    <string name="circulate_camera_glasses_duplicate_dialog_title_pc">Bağlantılı cihazı əvəz et</string>
+    <string name="circulate_camera_glasses_duplicate_dialog_title_phone">Bağlantılı cihazı əvəz et</string>
+    <string name="circulate_camera_glasses_duplicate_dialog_title_tv">Bağlantılı cihazı əvəz et</string>
+    <string name="circulate_camera_glasses_duplicate_dialog_title_wifi_speaker">Bağlantılı cihazı əvəz et</string>
+    <string name="circulate_camera_glasses_duplicate_dialog_title_wifi_speaker_with_screen">Bağlantılı cihazı əvəz et</string>
+    <string name="circulate_camera_glasses_error_device_not_support">"Eynəyin məzmunu bu cihaza ötürülə bilmir"</string>
     <string name="circulate_car_card_use_camera">"EV kameranı istifadə et"</string>
     <string name="circulate_car_card_using_camera">"EV kamera istifadə edilir"</string>
     <string name="circulate_card_disconnect">Bağlantını kəs</string>
     <string name="circulate_card_loading_title_audio_stereo">Stereo sistem</string>
     <string name="circulate_card_loading_title_band">Bant</string>
     <string name="circulate_card_loading_title_bluetooth">Bluetooth cihazı</string>
+    <string name="circulate_card_loading_title_camera_glasses">Xiaomi Ağıllı Eynək</string>
     <string name="circulate_card_loading_title_headset">Qulaqlıqlar</string>
     <string name="circulate_card_loading_title_screen_sound">Xiaomi Ağıllı Dinamik</string>
     <string name="circulate_card_loading_title_sound">Xiaomi Dinamiki</string>
@@ -184,7 +217,7 @@ başqa cihaza sürüklə"</string>
     <string name="circulate_card_sticker_add">Stiker əlavə et</string>
     <string name="circulate_card_sticker_blank_contentDescription">Çıxmaq üçün boş sahəyə iki dəfə toxun</string>
     <string name="circulate_card_sticker_complete">Hazırdır</string>
-    <string name="circulate_card_sticker_control_contentDescription">İdarəetmə paneli</string>
+    <string name="circulate_card_sticker_control_contentDescription">İdarəetmə paneli. Buradan çıxa bilərsiniz.</string>
     <string name="circulate_card_sticker_dressing_equipment">Cihazı özəlləşdir</string>
     <string name="circulate_card_sticker_expend_contentDescription">Özəlləşdirilmiş cihazları göstər</string>
     <string name="circulate_card_sticker_no">Stiker yoxdur</string>
@@ -262,13 +295,22 @@ başqa cihaza sürüklə"</string>
     <string name="circulate_cta_premission_wlan_title">Wi-Fi-ı aç/bağla</string>
     <string name="circulate_cta_title_global">Gizlilik bəyanatı</string>
     <string name="circulate_cta_user_agreement">Lütfən &lt;txt href=\"%1$s\"&gt;\"İstifadəçi Razılaşmamızı\"&lt;/txt&gt; və &lt;txt href=\"%2$s\"&gt;\"Gizlilik Siyasətimizi\"&lt;/txt&gt; oxuyub qəbul edin</string>
+    <string name="circulate_device_type_name_camera_glasses">Eynək</string>
+    <string name="circulate_device_type_name_headset">Qulaqlıq</string>
     <string name="circulate_device_type_name_mijia">Ağıllı ev cihazları</string>
     <string name="circulate_device_type_name_pad">Planşet</string>
     <string name="circulate_device_type_name_pc">Kompüter</string>
     <string name="circulate_device_type_name_phone">Telefon</string>
-    <string name="circulate_device_type_name_tv">TV</string>
     <string name="circulate_device_type_name_wifi_speaker">Dinamik</string>
     <string name="circulate_device_type_name_wifi_speaker_with_screen">Toxunaqlı ekran dinamiki</string>
+    <string name="circulate_glasses_duplicate_dialog_message">Eynək artıq bağlantılıdır. Yeni bir eynək cütünə bağlansanız, ilk cütün bağlantısı kəsiləcək. İndi bağlantı qurulsun?</string>
+    <string name="circulate_glasses_duplicate_dialog_message_pad">Planşetiniz artıq eynəyə bağlanıb. Yeni bir eynək cütünə bağlansanız, ilk cütün bağlantısı kəsiləcək. İndi bağlantı qurulsun?</string>
+    <string name="circulate_glasses_duplicate_dialog_message_phone">Telefonunuz artıq eynəyə bağlanıb. Yeni bir eynək cütünə bağlansanız, ilk cütün bağlantısı kəsiləcək. İndi bağlantı qurulsun?</string>
+    <string name="circulate_glasses_duplicate_dialog_message_tv">TV-niz artıq eynəyə bağlanıb. Yeni bir eynək cütünə bağlansanız, ilk cütün bağlantısı kəsiləcək. İndi bağlantı qurulsun?</string>
+    <string name="circulate_glasses_duplicate_headset_dialog_message">Qulaqlıqlar artıq bağlantılıdır. Bu eynəyə bağlansanız, qulaqlıqların bağlantısı kəsiləcək. İndi bağlantı qurulsun?</string>
+    <string name="circulate_glasses_duplicate_headset_dialog_message_pad">Planşetiniz artıq qulaqlıqlara bağlanıb. Bu eynəyə bağlansanız, qulaqlıqların bağlantısı kəsiləcək. İndi bağlantı qurulsun?</string>
+    <string name="circulate_glasses_duplicate_headset_dialog_message_phone">Telefonunuz artıq qulaqlıqlara bağlanıb. Bu eynəyə bağlansanız, qulaqlıqların bağlantısı kəsiləcək. İndi bağlantı qurulsun?</string>
+    <string name="circulate_glasses_duplicate_headset_dialog_message_tv">TV-niz artıq qulaqlıqlara bağlanıb. Bu eynəyə bağlansanız, qulaqlıqların bağlantısı kəsiləcək. İndi bağlantı qurulsun?</string>
     <string name="circulate_headset_back_to_box_desc">"1. Hər iki qulaqlığı doldurma qutusuna qoyun.
 2. Qutudakı düyməni basılı tutun.
 3. Hədəf cihazla cütləşdirməni bitirin."</string>
@@ -298,13 +340,19 @@ başqa cihaza sürüklə"</string>
     <string name="circulate_headset_control_battery_case">Qutu</string>
     <string name="circulate_headset_control_battery_left">Sol</string>
     <string name="circulate_headset_control_battery_right">Sağ</string>
+    <string name="circulate_headset_control_charging">Dolur</string>
     <string name="circulate_headset_control_more_settings">Əlavə ayarlar</string>
     <string name="circulate_headset_duplicate_cancel">İmtina</string>
     <string name="circulate_headset_duplicate_dialog_message">Deyəsən, başqa qulaqlıq dəsti %1$s cihazınıza bağlanıb. Onları hazırkı dəstlə əvəz etmək istəyirsiniz?</string>
     <string name="circulate_headset_duplicate_dialog_title">%1$s cihazına bağlanmış qulaqlıqları əvəz et</string>
+    <string name="circulate_headset_duplicate_glasses_dialog_message">Eynəklər artıq bağlantılıdır. Bu eynəyə bağlansanız, eynəyin bağlantısı kəsiləcək. İndi bağlantı qurulsun?</string>
+    <string name="circulate_headset_duplicate_glasses_dialog_message_pad">Planşetiniz artıq eynəyə bağlanıb. Bu qulaqlıqlara bağlansanız, eynəyin bağlantısı kəsiləcək. İndi bağlantı qurulsun?</string>
+    <string name="circulate_headset_duplicate_glasses_dialog_message_phone">Telefonunuz artıq eynəyə bağlanıb. Bu qulaqlıqlara bağlansanız, eynəyin bağlantısı kəsiləcək. İndi bağlantı qurulsun?</string>
+    <string name="circulate_headset_duplicate_glasses_dialog_message_tv">TV-niz artıq eynəyə bağlanıb. Bu qulaqlıqlara bağlansanız, eynəyin bağlantısı kəsiləcək. İndi bağlantı qurulsun?</string>
     <string name="circulate_headset_duplicate_ok">Əvəz et</string>
     <string name="circulate_headset_error_account_not_match">"Hər iki cihazda eyni Xiaomi Hesabını istifadə etdiyinizə əmin olun"</string>
     <string name="circulate_headset_error_acquired_by_other_host">İndi başqa cihaz istifadə edilir. Daha sonra yenidən sınayın.</string>
+    <string name="circulate_headset_error_camera_glasses_not_support">"Eynək, cihazlar arası ötürməni dəstəkləmir"</string>
     <string name="circulate_headset_error_default">Bağlantının vaxtı bitdi</string>
     <string name="circulate_headset_error_device_not_support">"Qulaqlıqlar bu cihaza bağlana bilmir"</string>
     <string name="circulate_headset_error_ear_phone_not_support">"Bu qulaqlıqlar səs oxutmanın ötürülməsini dəstəkləmir"</string>
@@ -382,6 +430,7 @@ və Xiaomi Hesabınıza daxil olun"</string>
     <string name="circulate_video_retry_later">TV-ni idarə etməyə çalışıram…</string>
     <string name="clear_text_end_icon_content_description">Mətni təmizlə</string>
     <string name="clearable_edittext_clear_description">Təmizlə</string>
+    <string name="click_to_use_device_camera_description">"%1$s kamerasını istifadə etmək üçün toxunun."</string>
     <string name="clipboard_cancel_sync">İmtina</string>
     <string name="clipboard_loading">%1$s dan yapışdırılır</string>
     <string name="close">Bağla</string>
@@ -394,6 +443,9 @@ və Xiaomi Hesabınıza daxil olun"</string>
     <string name="close_invisible_mode_dialog_message">"\"Mi Smart Play\", indi istifadə edilə bilmir. Bu özəlliyi istifadə edə bilmək üçün Ayarlarda Gizli rejimi söndürün."</string>
     <string name="close_invisible_mode_dialog_ok">Ayarlar</string>
     <string name="close_invisible_mode_dialog_title">"Gizlisiniz"</string>
+    <string name="compose_camera_with_device_cancel_description">Kameralar %1$s ilə birləşdirilir. Ləğv etmək üçün sağdakı düyməyə toxunun.</string>
+    <string name="compose_camera_with_device_description">Kameralar %1$s ilə birləşdirilir</string>
+    <string name="compose_view_back_button_description">Cihazlar arası kamera kartına geri qayıdın.</string>
     <string name="config_wifi_label_china">Xiaomi Konfrans Tapcast Wi-Fi</string>
     <string name="config_wifi_label_global">Xiaomi Konfrans Tapcast Wi-Fi</string>
     <string name="connect_device_fail">"Cihaza bağlana bilmədi"</string>
@@ -401,6 +453,7 @@ və Xiaomi Hesabınıza daxil olun"</string>
     <string name="connect_settings_application_ecological">Tətbiqləri birləşdir</string>
     <string name="connect_settings_base">Ara bağlantı</string>
     <string name="connect_settings_category_connection_car">Avtomobil özəllikləri</string>
+    <string name="connect_settings_category_other_settings">Digər ayarlar lazımdır?</string>
     <string name="connect_settings_category_personal_device">Fərdi cihazlar</string>
     <string name="connect_settings_communication_sharing">Naqilsiz internet paylaşımı</string>
     <string name="connect_settings_connect_permission">Ara bağlantı və icazələr</string>
@@ -429,7 +482,9 @@ və Xiaomi Hesabınıza daxil olun"</string>
     <string name="connect_settings_summary_share_launcher_pad">Xiaomi Hesabınıza daxil olmuş yaxınlıqdakı telefonların Əsas ekranlarına baxın və onlarla qarşılıqlı əlaqə qurun</string>
     <string name="connect_settings_summary_share_launcher_phone">"Yaxınlıqdakı planşetlərin və kompüterlərin bu cihazın Əsas ekranına baxmasına və onunla qarşılıqlı əlaqədə olmasına icazə verin"</string>
     <string name="connect_settings_summary_share_notification_pad">Xiaomi Hesabınıza daxil olmuş yaxınlıqdakı telefonlardan bildirişlər alın</string>
+    <string name="connect_settings_summary_share_notification_pad_v2">Xiaomi Hesabınıza daxil olmuş yaxınlıqdakı telefonların bildirişlərini bu cihazda göstər</string>
     <string name="connect_settings_summary_share_notification_phone">Bu cihaz kilidli olduqda bildirişləri yaxınlıqdakı istifadədə olan planşetlərdə və ya kompüterlərdə göstər</string>
+    <string name="connect_settings_summary_share_notification_phone_v2">Telefonunuzdakı vacib bildirişləri TV-nizdə, planşetinizdə və kompüterinizdə göstərin</string>
     <string name="connect_settings_user_agreement">İstifadəçi Razılaşması</string>
     <string name="connect_settings_withdraw_consent">Razılığı geri götür</string>
     <string name="connection_failed">"Kameraya bağlana bilmədi"</string>
@@ -449,6 +504,7 @@ və Xiaomi Hesabınıza daxil olun"</string>
     <string name="debug_mode_idm_version">IDM versiyası</string>
     <string name="debug_mode_list_desc">İlkin olaraq yalnız cihazın adı göstərilir</string>
     <string name="debug_mode_list_title">Cihaz siyahısı ətraflı məlumatları göstərir</string>
+    <string name="debug_mode_log_desc">Həssas məlumatlar (IP və MAC) ilkin olaraq əngəllənib</string>
     <string name="debug_mode_merge_support">Tətbiq birləşdirmə dəstəyi</string>
     <string name="debug_mode_milink_version">MiLink versiyası</string>
     <string name="debug_mode_miplay_limit_title">MiPlay məhdudiyyətləri yüngülləşdirir</string>
@@ -545,6 +601,7 @@ Bağlantı qurma probleminiz varsa, kömək üçün baxın."</string>
     <string name="err_toast_msg_not_support">"Bu əməliyyat dəstəklənmir"</string>
     <string name="err_toast_msg_not_support_audio_protocol">"Səs oxutma bu cihaza ötürülə bilmir"</string>
     <string name="err_toast_msg_retry_later">"Bu əməliyyat icra edilə bilmir. Bir və ya iki dəqiqə gözləyib yenidən sınayın."</string>
+    <string name="err_toast_msg_state_not_support">"Sürükləmə dəstəklənmir"</string>
     <string name="err_toast_msg_try_switch_network">Həm mobil cihazınızı, həm də kompüterinizi eyni Wi-Fi şəbəkəsinə bağlayın</string>
     <string name="error_a11y_label">Xəta: yararsızdır</string>
     <string name="error_icon_content_description">Xəta</string>
@@ -603,6 +660,7 @@ Bağlantı qurma probleminiz varsa, kömək üçün baxın."</string>
     <string name="head_toast_fail">"Bağlantı qurula bilmədi"</string>
     <string name="head_toast_success">Uğurla bağlantılıdır</string>
     <string name="headset_content_description">Qulaqlıqlar bu cihaza bağlandı. Aktivləşdirmək üçün iki dəfə basın. Oxutmanı ötürmək üçün iki barmağınızla basın və sürükləyin.</string>
+    <string name="headset_content_description_global">Bu cihaza bağlanan qulaqlıqlar. Aktivləşdirmək üçün cüt basın.</string>
     <string name="help_page_question_1st_01_international">"%1$d Yayım etdiyiniz cihaz bir Xiaomi TV-dirsə, Miracast-ı işə salın.
 %2$d. Yayım etdiyiniz cihaz Xiaomi TV deyilsə, TV-nin Miracast-ı dəstəklədiyinə əmin olun və onu işə salın. Bu özəllik bəzi TV modellərində fərqli adda görünə bilər. Məsələn, Naqilsiz ekran, Ekran əks etdirmə və ya Çoxlu ekranlar və s."</string>
     <string name="help_page_setp_1st_02_international">%1$d. Bəzi TV markalarında Miracast avtomatik işə salınmış ola bilər.</string>
@@ -699,6 +757,11 @@ Miracast-ı işə salsanız, [MENU] düyməsinə basın və Tətbiqlərim &gt; Y
     <string name="icon_content_description">Dialoq ikonu</string>
     <string name="image_transfer_failed">"Təsvir köçürülə bilmədi"</string>
     <string name="install">Quraşdır</string>
+    <string name="introduction_to_accessibility_message">"Ara bağlantı, dataları cihazlar arasında idarə etməyinizə və ötürməyinizə imkan verir.
+
+\"Ara bağlantı\"nı istifadə edərkən, mikrofonun digər tətbiqlər tərəfindən istifadə edilməsini önləmək üçün əlçatımlılıq özəliklərini işə salın.
+
+Qeyd: Əlçatımlılıq özəlliklərini işə saldığınız zaman rutin bir sistem xəbərdarlığı alacaqsınız. Lütfən əmin olun ki, bu özəllikləri istifadə etdiyiniz zaman Ara bağlantı, heç bir hüququnuzu pozmayacaq."</string>
     <string name="invisible_mode_dialog_content">"Gizli rejimdə yayımlaya bilməzsiniz. Əvvəlcə Gizli rejimi söndürün."</string>
     <string name="invisible_mode_dialog_content_audio_relay">"Gizli rejimdə ikən oxutmanı ötürə bilməzsiniz. Əvvəlcə Gizli rejimi söndürün."</string>
     <string name="invisible_mode_dialog_pos">Söndür</string>
@@ -710,6 +773,7 @@ Miracast-ı işə salsanız, [MENU] düyməsinə basın və Tətbiqlərim &gt; Y
     <string name="km_synergy_error">"Bağlantının vaxtı bitdi. Hər iki cihazda Bluetooth və Wi-Fi-ın açıq olduğuna və onların bağlantı aralığında olduğuna əmin olun."</string>
     <string name="km_synergy_error_china">"Bağlantının vaxtı bitdi. Hər iki cihazda Bluetooth və Wi-Fi-ın açıq olduğuna və onların bağlantı aralığında olduğuna əmin olun."</string>
     <string name="launch_rational">Kameranı açmaq üçün kamera icazəsi tələb olunur</string>
+    <string name="library_name">Kamera pultu</string>
     <string name="local_camera_device">Bu cihaz</string>
     <string name="local_device_camera">Bu cihaz</string>
     <string name="local_hotspot_opening">"Bu cihazda hotspot-u söndürüb yenidən sınayın"</string>
@@ -744,6 +808,7 @@ Miracast-ı işə salsanız, [MENU] düyməsinə basın və Tətbiqlərim &gt; Y
     <string name="mipaly_server_exit_touping">Lütfən, əvvəlcə hazırkı ekran yazısından çıxın</string>
     <string name="miplay_accessibility_cast">Cihaz seçin</string>
     <string name="miplay_accessibility_cover">Üzlük</string>
+    <string name="miplay_accessibility_more_settings">Əlavə ayarlar</string>
     <string name="miplay_accessibility_next">Növbəti mahnı</string>
     <string name="miplay_accessibility_pause">Fasilə ver</string>
     <string name="miplay_accessibility_play">Oxut</string>
@@ -771,7 +836,11 @@ Miracast-ı işə salsanız, [MENU] düyməsinə basın və Tətbiqlərim &gt; Y
     <string name="mirror_remote_pad_content">\"Əsas ekran+\"i Ayarlar &gt; \"Ara bağlantı\"da işə sala bilərsiniz.</string>
     <string name="mirror_remote_pad_title">Planşetdə \"Əsas ekran+\"i işə sal</string>
     <string name="miuix_access_state_desc">Seçildi</string>
+    <string name="miuix_accessibility_title">Başlıq</string>
     <string name="miuix_alphabet_indexer_name">İndeks çubuğu</string>
+    <string name="miuix_appcompat_accessibility_finish_edit_action_mode">Düzəliş rejimindən çıx</string>
+    <string name="miuix_appcompat_accessibility_new_message">Yeni mesaj</string>
+    <string name="miuix_appcompat_accessibility_start_edit_action_mode">Düzəliş rejiminə daxil ol</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Heç birini seçmə</string>
     <string name="miuix_appcompat_action_mode_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_action_mode_title_empty">Elementləri seç</string>
@@ -787,8 +856,10 @@ Miracast-ı işə salsanız, [MENU] düyməsinə basın və Tətbiqlərim &gt; Y
     <string name="miuix_appcompat_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_select_all_description">Hamısını seç</string>
     <string name="miuix_appcompat_select_item">Elementləri seç</string>
+    <string name="miuix_appcompat_show_dialog_description">Açılan pəncərə</string>
     <string name="miuix_indexer_collect">Kolleksiyalar</string>
     <string name="miuix_indexer_selected">%s seçildi</string>
+    <string name="miuix_progressbar_loading">Yüklənir</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Təzələmək üçün aşağı çək</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Uğurla təzələndi</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Təzələnir…</string>
@@ -797,6 +868,7 @@ Miracast-ı işə salsanız, [MENU] düyməsinə basın və Tətbiqlərim &gt; Y
     <string name="miuix_sbl_tracking_progress_labe_up_none">"İndilik bu qədər"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Bir saniyə…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Eementlər yüklənə bilmədi"</string>
+    <string name="miuix_show_password">Parolu göstər</string>
     <string name="monday">Bazar ertəsi</string>
     <string name="monday_short">B.e.</string>
     <string name="monday_shortest">B.e.</string>
@@ -1129,6 +1201,8 @@ Miracast-ı işə salsanız, [MENU] düyməsinə basın və Tətbiqlərim &gt; Y
     <string name="path_setting_cast_help">Daha çox bağlantı seçimləri/Yayım/Kömək</string>
     <string name="permission_allowed">İcazə verildi</string>
     <string name="permission_uballowed">İcazə verilmədi</string>
+    <string name="picker_view_description">Cihazlar arası kamera. Yaxınlıqdakı cihazların kamerasını seçmək üçün kartın daxilinə toxuna bilərsiniz.</string>
+    <string name="picker_view_outside_description">Bu kartı bağlamaq üçün toxunun.</string>
     <string name="please_select_device">Bir cihaz seçin</string>
     <string name="pm">GS</string>
     <string name="pre_privacy_setting_title">Gizlilik</string>
@@ -1332,24 +1406,56 @@ Oyunları yayımlamazdan əvvəl \"Game Turbo\"nu işə saldığınıza əmin ol
     <string name="solar_term_winter_solstice">Qış gündönümü</string>
     <string name="start_associate">Əlaqələndirməyə başla</string>
     <string name="start_association">Əlaqələndirmə başladılır</string>
+    <string name="start_forbidden_by_not_worn">"Bağlantı qurula bilmədi. Eynəyinizi taxıb yenidən sınayın."</string>
+    <string name="state_app_continuity">Tətbiq lenti istifadə edilir</string>
+    <string name="state_audio_cast">Xiaomi Mi Audio Cast istifadə edilir</string>
+    <string name="state_call_synergy">Cihazlar arası zəng istifadə edilir</string>
+    <string name="state_camera_synergy">Cihazlar arası kamera istifadə edilir</string>
+    <string name="state_cellular_synergy">Rabitə paylaşımı istifadə edilir</string>
+    <string name="state_hid_synergy">Klaviatura və maus paylaşımı istifadə edilir</string>
+    <string name="state_mirror">Ekran yayımı istifadə edilir</string>
+    <string name="state_music_playing">Musiqi oxudulur</string>
+    <string name="state_open">Statusu açıqdır</string>
+    <string name="state_screen_synergy">Sehrli Masaüstü istifadə edilir</string>
+    <string name="state_take_photo">Cihazlar arası fotoqrafiya istifadə edilir</string>
+    <string name="state_video_cast">Xiaomi Mi Video Cast istifadə edilir</string>
+    <string name="status_bar_car_camera_icon_name">Nəqliyyat</string>
+    <string name="status_bar_default_icon_name">Cihaz</string>
+    <string name="status_bar_device_iot_camera_icon_name">Xiaomi Home kamerası</string>
     <string name="status_bar_fail">"Bağlantı qurula bilmədi"</string>
+    <string name="status_bar_glasses_camera_icon_name">Eynəklər</string>
     <string name="status_bar_in_casting">Yayımlanır…</string>
     <string name="status_bar_in_casting_long">Daha çox yayım özəlliklərinə baxmaq üçün toxunun</string>
     <string name="status_bar_loading">Bağlantı qurulur…</string>
+    <string name="status_bar_pad_camera_icon_name">Planşet</string>
+    <string name="status_bar_pc_camera_icon_name">Kompüter</string>
+    <string name="status_bar_phone_camera_icon_name">Telefon</string>
     <string name="status_bar_success">Uğurla bağlantılıdır</string>
     <string name="stop_associate">Əlaqələndirməni dayandır</string>
     <string name="stop_associate_success">Əlaqələndirmə ləğv edildi</string>
     <string name="sunday">Bazar</string>
     <string name="sunday_short">Baz</string>
     <string name="sunday_shortest">Baz</string>
+    <string name="switching_to_local_camera_description">"Bu cihazın kamerasına geri qayıdılır…"</string>
     <string name="synergy_being_used_text">İstifadәdә</string>
     <string name="synergy_casting">"Screen Combo işləyərkən yayımlana bilmir"</string>
     <string name="synergy_text">Ara bağlantı</string>
     <string name="talk_back_device_battery_quantity">Batareya %s</string>
+    <string name="talk_back_device_battery_quantity_charging">Dolur，Batareya，%s</string>
+    <string name="talkback_beauty_off">Gözəlləşdirmə bağlıdır. Parametrləri ayarlamaq üçün toxunun.</string>
+    <string name="talkback_beauty_on">Gözəlləşdirmə açıqdır</string>
+    <string name="talkback_beauty_value">Gözəlləşdirmə %1$d olaraq ayarlanıb. Geri qayıtmaq üçün başqa bir sahəyə toxunun.</string>
+    <string name="talkback_stream_has_resume">Çəkiliş davam etdirilir</string>
+    <string name="talkback_stream_has_stop">Çəkilişə fasilə verildi</string>
+    <string name="talkback_stream_pause">Fasilə düyməsi</string>
+    <string name="talkback_stream_resume">Davam etdirmə düyməsi</string>
+    <string name="talkback_stream_stop">Dayandırma düyməsi. Çəkilişi dayandırmaq üçün toxunun.</string>
+    <string name="talkback_stream_switch">Ön və arxa kameralar arasında keçid et</string>
     <string name="temperature_warning_dialog_message">Bu cihaz aşırı isinib. Kamera lentini paylaşmazdan əvvəl soyumağını gözləyin.</string>
     <string name="temperature_warning_dialog_positive_button">Anladım</string>
     <string name="temperature_warning_dialog_title">"Cihazlar arası kamera istifadə edilə bilmir"</string>
     <string name="test_file">Fayl köçürmə testi</string>
+    <string name="text_input_layout_default_error">Bu, ilkin xətadır</string>
     <string name="the_anniversary_of_lifting_martial_law">Hərbi Vəziyyətin Qaldırılma İldönümü</string>
     <string name="the_anti_aggression_day">Təcavüzlə Mübarizə Günü</string>
     <string name="the_arbor_day">Ağacəkmə Günü</string>
@@ -1426,6 +1532,12 @@ Oyunları yayımlamazdan əvvəl \"Game Turbo\"nu işə saldığınıza əmin ol
     <string name="unlock_screen_to_authorize_camera">"%s bu cihazın kamerasını istifadə etmək istəyir"</string>
     <string name="unlock_screen_to_authorize_camera_car">"%s bu cihazın kamerasını müraciət edir"</string>
     <string name="update">Güncəllə</string>
+    <string name="upgrade_accessibility_cancel_download">Endirmə ləğv edildi</string>
+    <string name="upgrade_accessibility_finish_all_upgrade">Uğurla güncəlləndi. Hazırkı versiya, ən son versiyadır.</string>
+    <string name="upgrade_accessibility_finish_upgrade">Uğurla güncəlləndi</string>
+    <string name="upgrade_accessibility_fold_devicelist">"%1$s güncəlləmə siyahısı yığcamlaşdırıldı."</string>
+    <string name="upgrade_accessibility_unfold_devicelist">"%1$s güncəlləmə siyahısı genişləndirildi."</string>
+    <string name="upgrade_accessibility_upgrading">Güncəllənir…</string>
     <string name="upgrade_cancel">İmtina</string>
     <string name="upgrade_cancel_all">Güncəlləməni ləğv et</string>
     <string name="upgrade_check_upgrade">Güncəllə</string>
@@ -1443,6 +1555,8 @@ Oyunları yayımlamazdan əvvəl \"Game Turbo\"nu işə saldığınıza əmin ol
     <string name="upgrade_login_dialog_message">Bağlantılı cihazlara baxa bilmək üçün Xiaomi Hesabınıza daxil olun.</string>
     <string name="upgrade_login_dialog_sure">Daxil ol</string>
     <string name="upgrade_login_dialog_title">Xiaomi Hesabına daxil olun</string>
+    <string name="upgrade_new_devices_version">Bu cihaz üçün bir güncəlləmə mövcuddur.</string>
+    <string name="upgrade_new_version">Bir güncəlləmə mövcuddur</string>
     <string name="upgrade_no_devices">Güncəlləmə mövcud deyil</string>
     <string name="upgrade_now">Güncəllə</string>
     <string name="upgrade_phone_device_tip">*Güncəlləmələr Xiaomi Phone tərəfindən təmin edilir</string>
@@ -1452,6 +1566,7 @@ Oyunları yayımlamazdan əvvəl \"Game Turbo\"nu işə saldığınıza əmin ol
     <string name="upgrade_start_all">Güncəllə</string>
     <string name="upgrade_title">Bağlantılı cihazları güncəllə</string>
     <string name="upgrade_toast_cannot_cancel_while_installing">Quraşdırma davam edir, dayandırıla bilməz</string>
+    <string name="upgrade_toast_login_error">Ayarlarda vaxtın avtomatik ayarlanmasını işə salıb yenidən sınayın.</string>
     <string name="upgrade_toast_no_wifi">"Bağlantı qurula bilmədi"</string>
     <string name="upgrade_tv_device_tip">*Güncəlləmələr Xiaomi TV tərəfindən təmin edilir</string>
     <string name="upgrade_ver_can_upgrade">Güncəlləmə mövcuddur</string>
@@ -1461,6 +1576,7 @@ Oyunları yayımlamazdan əvvəl \"Game Turbo\"nu işə saldığınıza əmin ol
     <string name="upgrade_ver_latest">Hazırkı versiya güncəldir</string>
     <string name="upgrade_ver_latest1">Hazırkı versiya (%1$d) güncəldir</string>
     <string name="upgrade_ver_latest1s">Hazırkı versiya (%1$s) güncəldir</string>
+    <string name="using_camera_of_device_description">"%1$s kamerası istifadə edilir."</string>
     <string name="v7_preference_off">BAĞLI</string>
     <string name="v7_preference_on">AÇIQ</string>
     <string name="watch_more_setting">Daha çox seçim</string>

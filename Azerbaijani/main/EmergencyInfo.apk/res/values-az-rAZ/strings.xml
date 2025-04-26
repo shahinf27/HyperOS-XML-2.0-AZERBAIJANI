@@ -674,7 +674,6 @@ Kilid ekranınızdan bu məlumatları oxuyan istənilən şəxs, ekrandakı adla
     <string name="sud_more_button_label">Daha çox</string>
     <string name="sud_next_button_label">Növbəti</string>
     <string name="sud_skip_button_label">Ötür</string>
-    <string name="summary_empty"></string>
     <string name="system_update_settings_list_item_title">Sistem güncəlləmələri</string>
     <string name="tab_title_contacts">Kontaktlar</string>
     <string name="tab_title_info">Məlumat</string>

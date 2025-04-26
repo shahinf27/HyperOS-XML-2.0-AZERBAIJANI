@@ -64,6 +64,10 @@
         <item quantity="other">%d element seçildi</item>
         <item quantity="one">%d element seçildi</item>
     </plurals>
+	<plurals name="miuix_indexer_selected">
+        <item quantity="other">%1$d element seçildi</item>
+        <item quantity="one">%1$d element seçildi</item>
+    </plurals>
     <plurals name="mortgage_summary_years">
         <item quantity="other">%1$d il (%2$d ay)</item>
         <item quantity="one">%1$d il (%2$d ay)</item>

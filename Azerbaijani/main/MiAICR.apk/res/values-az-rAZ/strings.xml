@@ -411,7 +411,9 @@
     <string name="dist_compute_pad_test_title">AI mesaj icmalı - Beta test</string>
     <string name="dist_compute_privacy_management">Gizlilik</string>
     <string name="dist_compute_setting_switch_content_local">"Yaxınlıqdakı cihazlar, bu cihazın hesablama gücünü istifadə edərək AI brifinq və AI yazma özəlliklərini istifadə edə bilər"</string>
-    <string name="dist_compute_title">Hesablama dəstəyi</string>
+    <string name="dist_compute_summary_dist">Yaxınlıqdakı cihazların dəstəyi ilə AI özəlliklərini gücləndirin</string>
+    <string name="dist_compute_summary_local">Yaxınlıqdakı cihazlarla AI özəlliklərini gücləndirməyə kömək edin</string>
+	<string name="dist_compute_title">Hesablama dəstəyi</string>
     <string name="download_cancel">İmtina</string>
     <string name="download_complete">Endirildi</string>
     <string name="download_done">Hazırdır</string>
