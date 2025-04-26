@@ -6,9 +6,6 @@
     <plurals name="abbrev_a_hour_ago">
         <item quantity="other">%d saat əvvəl</item>
     </plurals>
-    <plurals name="abbrev_half_hour_ago">
-        <item quantity="other">Yarım saat əvvəl</item>
-    </plurals>
     <plurals name="abbrev_in_a_hour">
         <item quantity="other">%d saat ərzində</item>
     </plurals>
@@ -160,6 +157,14 @@
         <item quantity="other">%d dəqiqə əvvəl</item>
         <item quantity="one">1 dəqiqə əvvəl</item>
     </plurals>
+	<plurals name="player_guide_double_tap_left_forward_times">
+        <item quantity="other">Ekranın sağ tərəfinə cüt toxunaraq %d saniyə irəli çək</item>
+        <item quantity="one">Ekranın sağ tərəfinə cüt toxunaraq %d saniyə irəli çək</item>
+    </plurals>
+    <plurals name="player_guide_double_tap_left_rewind_times">
+        <item quantity="other">Ekranın sağ tərəfinə cüt toxunaraq %d saniyə geri çək</item>
+        <item quantity="one">Ekranın sağ tərəfinə cüt toxunaraq %d saniyə geri çək</item>
+    </plurals>
     <plurals name="plus_edit_delete_comfire_text">
         <item quantity="other">%s element indi silinsin?</item>
         <item quantity="one">%s element indi silinsin?</item>
@@ -211,6 +216,10 @@
     <plurals name="subtitle_offset_delay_times">
         <item quantity="other">Altyazılar %.1f saniyə gecikir</item>
         <item quantity="one">Altyazılar %.1f saniyə gecikir</item>
+    </plurals>
+	<plurals name="talkback_password">
+        <item quantity="other">Parol, cəmi rəqəm: %1$1d, %2$2d rəqəm daxil edilib</item>
+        <item quantity="one">Parol, cəmi rəqəm: %1$1d, %2$2d rəqəm daxil edilib</item>
     </plurals>
     <plurals name="toast_bookmark_max_size">
         <item quantity="other">%d əlfəcinə qədər əlavə et</item>

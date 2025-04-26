@@ -30,8 +30,8 @@
     <string name="abc_shareactionprovider_share_with">Paylaş</string>
     <string name="abc_shareactionprovider_share_with_application">%s ilə paylaş</string>
     <string name="abc_toolbar_collapse_description">Yığcamlaşdır</string>
-	<string name="accessibility_sliding_button_state_description_off">Bağlı</string>
-	<string name="accessibility_sliding_button_state_description_on">Açıq</string>
+	<string name="accessibility_sliding_button_state_description_off">Söndürüldü</string>
+	<string name="accessibility_sliding_button_state_description_on">İşə salındı</string>
 	<string name="accessibility_tab_state_description_unselect">Seçilmədi</string>
 	<string name="accessibility_tab_statedesc_unselect">Seçilmədi</string>
     <string name="account_and_cloud">Hesab</string>
@@ -126,8 +126,8 @@
     <string name="app_permission_use_group_storage_desc">Cihazda saxlanılan mahnıları tapmaq və oxutmaq üçün</string>
     <string name="app_resident_push_switch">Daimi bildirişlərə icazə ver</string>
     <string name="app_third_privacy">Üçüncü tərəf gizlilik siyasətləri</string>
-	<string name="app_video_float_switch">悬浮窗模式</string>
-    <string name="app_video_float_switch_summry">当视频在后台播放时，桌面显示悬浮窗</string>
+	<string name="app_video_float_switch">Üzən pəncərə rejimi</string>
+    <string name="app_video_float_switch_summry">"Arxaplanda oxudarkən videonu Əsas ekranda üzən pəncərə kimi nümayiş etdir"</string>
     <string name="apply_for_the_following_permissions">Bu tətbiq aşağıdakı icazələri tələb edir:</string>
     <string name="apply_permissions_greater_than_pie">Ayarlar &gt; Tətbiqlər &gt; İcazələr &gt; İcazələr &gt; Fayllar və media &gt; \"Musiqi\"də bu icazəni verə bilərsiniz.</string>
     <string name="apply_permissions_greater_than_tiramisu">Ayarlar &gt; Tətbiqlər &gt; İcazələr &gt; Musiqi və video/Fotolar və videolar &gt; \"Musiqi\"də bu icazəni verə bilərsiniz.</string>
@@ -1105,9 +1105,11 @@ Dataları təmizlədikdən sonra tətbiqdən çıxış ediləcək. Bu datalar h�
     <string name="miuix_access_state_desc">Seçildi</string>
 	<string name="miuix_accessibility_title">Başlıq</string>
     <string name="miuix_alphabet_indexer_name">İndeks çubuğu</string>
+	<string name="miuix_appcompat_accessibility_collapse_state">Yığcamlaşdırıldı</string>
+    <string name="miuix_appcompat_accessibility_expand_state">Genişləndirildi</string>
 	<string name="miuix_appcompat_accessibility_finish_edit_action_mode">Düzəliş rejimindən çıx</string>
-    <string name="miuix_appcompat_accessibility_new_message">Yeni mesaj</string>
-    <string name="miuix_appcompat_accessibility_start_edit_action_mode">Düzəliş rejiminə keç</string>
+    <string name="miuix_appcompat_accessibility_new_message">Yeni bildiriş</string>
+    <string name="miuix_appcompat_accessibility_start_edit_action_mode">Düzəliş rejiminə daxil ol</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Seçimi ləğv et</string>
     <string name="miuix_appcompat_action_mode_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_action_mode_title_empty">Elementləri seç</string>
@@ -1126,7 +1128,7 @@ Dataları təmizlədikdən sonra tətbiqdən çıxış ediləcək. Bu datalar h�
 	<string name="miuix_appcompat_show_dialog_description">Açılan pəncərə</string>
     <string name="miuix_indexer_collect">Kolleksiyalar</string>
     <string name="miuix_indexer_selected">%s seçildi</string>
-	<string name="miuix_progressbar_loading">Yüklənir</string>
+	<string name="miuix_progressbar_loading">Bir saniyə…</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Təzələmək üçün aşağı çəkin</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Uğurla təzələndi</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Təzələnir…</string>
@@ -1136,6 +1138,8 @@ Dataları təmizlədikdən sonra tətbiqdən çıxış ediləcək. Bu datalar h�
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Bir saniyə…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Elementlər yüklənə bilmədi"</string>
 	<string name="miuix_show_password">Parolu göstər</string>
+	<string name="miuix_stretchablewidget_collapsed">Yığcamlaşdırıldı</string>
+    <string name="miuix_stretchablewidget_expanded">Genişləndirildi</string>
     <string name="mobile_recommended_title">Mobil internet istifadəsi</string>
     <string name="modify_lyric">Mahnı sözlərinə düzəliş et</string>
     <string name="modify_pic">Üzü dəyişdir</string>
@@ -2240,6 +2244,6 @@ Endirməni, Wi-Fi şəbəkəsinə bağlananda başlatmaq üçün %s toxunun."</s
     <string name="youtube_tab_popular">Məşhur</string>
     <string name="youtube_tab_shorts">Shorts</string>
     <string name="youtube_tab_trend">Trendlər</string>
-	<string name="ytb_privacy_statement">继续浏览此页面代表您同意 &lt;a href=%1$s>YouTube 服务条款&lt;/a> 和 &lt;a href=%2$s>Google 隐私权政策&lt;/a></string>
+	<string name="ytb_privacy_statement">"Bu səhifəyə baxmaqla siz &lt;a href=\"%1$s\">YouTube Xidmət Şərtləri&lt;/a> və &lt;a href=\"%2$s\">Google Gizlilik Siyasəti&lt;/a>" ilə razılaşırsınız."</string>
     <string name="ytb_turn_on_sound">Səsi açmaq üçün toxunun</string>
 </resources>

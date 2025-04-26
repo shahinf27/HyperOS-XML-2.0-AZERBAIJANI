@@ -190,7 +190,7 @@
     <string name="accessibility_qs_edit_tile_add_action">sona qutu əlavə et</string>
     <string name="accessibility_qs_edit_tile_add_to_position">%1$d mövqeyinə əlavə et</string>
     <string name="accessibility_qs_edit_tile_added">%1$s, %2$d mövqeyinə əlavə edildi</string>
-    <string name="accessibility_qs_edit_tile_label">Mövqe %1$d, %2$s. Düzəliş etmək üçün cüt toxunun.</string>
+    <string name="accessibility_qs_edit_tile_label">Mövqe %1$d, %2$s</string>
     <string name="accessibility_qs_edit_tile_move">%1$s - %2$d mövqeyinə daşı</string>
     <string name="accessibility_qs_edit_tile_move_to_position">%1$d mövqeyinə daşı</string>
     <string name="accessibility_qs_edit_tile_removed">%1$s silindi</string>
@@ -669,6 +669,7 @@ Yenidən qoşmaq üçün toxunun"</string>
     <string name="connected_via_network_scorer">%1$s ilə avto-bağlantı qurulub</string>
     <string name="connected_via_network_scorer_default">Şəbəkə qiymətləndirmə provayderi vasitəsilə avto-bağlantılıdır</string>
     <string name="connected_with_car">Nəqliyyat ilə bağlantılıdır</string>
+	<string name="connected_with_mijia_camera">Xiaomi Home kamerası istifadə edilir</string>
     <string name="connected_with_pad">Planşet ilə bağlantılıdır</string>
     <string name="connected_with_pc">Kompüter ilə bağlantılıdır</string>
     <string name="connected_with_phone">Telefon ilə bağlantılıdır</string>
@@ -1526,6 +1527,7 @@ Bu tətbiqin bütün cihaz jurnallarına müraciət etməsinə icazə verməsən
     <string name="microphone_blocked_dream_overlay_content_description">Mikrofon əngəlləndi</string>
     <string name="midnight">Gecə</string>
     <string name="minimize_button_text">Kiçilt</string>
+	<string name="miplay_accessibility_cast">Cihazı seç</string>
     <string name="mirror_display">Ekranı əks etdir</string>
     <string name="missed_call">Buraxılmış zəng</string>
     <string name="miui_clock_city_name_local">Yerli</string>
@@ -1538,6 +1540,7 @@ Bu tətbiqin bütün cihaz jurnallarına müraciət etməsinə icazə verməsən
 dd-MM-yyyy"</string>
     <string name="miui_keyboard_shortcut_click">Bas</string>
     <string name="miui_keyboard_shortcut_double_click">İki dəfə bas</string>
+	<string name="miui_keyboard_shortcut_show_all_apps">Bütün tətbiqləri göstər</string>
     <string name="miui_keyboard_shortcut_system_dock">Tətbiq yuvasını göstər</string>
     <string name="miui_keyboard_shortcut_system_quickly_recent">Sonuncu tətbiqlər arasında keçid</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">Bluetooth cihazı ilə kilid açıldı</string>
@@ -1547,6 +1550,8 @@ dd-MM-yyyy"</string>
     <string name="miui_lock_aqi_level_description_mild">Mülayim</string>
     <string name="miui_lock_aqi_level_description_moderate">Qeyri-sağlam</string>
     <string name="miui_lock_aqi_level_description_serious">Şiddətli</string>
+	<string name="miui_lock_eastern_art_date_curisive_12">dd MMM h:mm</string>
+    <string name="miui_lock_eastern_art_date_curisive_24">dd MMM H:mm</string>
     <string name="miui_lock_eastern_art_date_time_12">d-M h:mm aa</string>
     <string name="miui_lock_eastern_art_date_time_24">d-M H:mm</string>
     <string name="miui_lock_empty"></string>
@@ -1602,7 +1607,8 @@ M"</string>
     <string name="miui_pad_c_date">d.M</string>
     <string name="miui_restart_button_description">Ən yaxşı nümayiş üçün yenidən başlat</string>
     <string name="miui_rhombus_clock_date">dd MMMM</string>
-    <string name="miui_screen_rotation_freeze_message">Mənzərə rejimində kilidlənmiş ekran istiqaməti</string>
+    <string name="miui_screen_rotation_freeze_message">Mənzərə rejimində ekran istiqaməti kilidləndi</string>
+	<string name="miui_screen_rotation_freeze_portrait_message">Portret rejimində ekran istiqaməti kilidləndi</string>
     <string name="miui_smart_frame_clock_date">d-M</string>
     <string name="miui_smart_frame_clock_date_dot">d.M</string>
     <string name="miui_snooze_always_float">"Gizlətmə"</string>
@@ -1642,7 +1648,6 @@ M"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">"İndilik bu qədər"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Bir saniyə…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Elementlər yüklənə bilmədi"</string>
-    <string name="mobile_data">Mobil internet</string>
     <string name="mobile_data_always_on">Mobil interneti həmişə açıq saxla</string>
     <string name="mobile_data_always_on_summary">Wi‑Fi aktiv olsa belə mobil interneti həmişə aktiv saxla (sürətli şəbəkə keçidi üçün)</string>
     <string name="mobile_data_connection_active">Bağlantılıdır</string>
@@ -2186,11 +2191,11 @@ Suallarınız varsa, %2$s ilə əlaqə saxlayın."</string>
     <string name="quick_settings_screen_record_label">Ekran yazma</string>
     <string name="quick_settings_screen_record_start">Başlat</string>
     <string name="quick_settings_screen_record_stop">Dayandır</string>
+	<string name="quick_settings_screen_rotation_inner_landscape_locked">Daxili ekran istiqaməti mənzərə rejimində kilidləndi</string>
     <string name="quick_settings_screen_rotation_inner_locked">Daxili ekranı döndərmə bağlıdır</string>
+	<string name="quick_settings_screen_rotation_inner_portrait_locked">Daxili ekran istiqaməti portret rejimində kilidləndi</string>
     <string name="quick_settings_screen_rotation_inner_unlocked">Daxili ekranı döndərmə açıqdır</string>
-    <string name="quick_settings_screen_rotation_outer_landscape_locked">Xarici ekran üfüqi rejimdə kilidləndi</string>
     <string name="quick_settings_screen_rotation_outer_locked">Xarici ekran istiqaməti kilidləndi</string>
-    <string name="quick_settings_screen_rotation_outer_portrait_locked">Xarici ekran şaquli rejimdə kilidləndi</string>
     <string name="quick_settings_screen_rotation_outer_unlocked">Xarici ekran döndərmə açıqdır</string>
     <string name="quick_settings_screenlock_label">Kilid ekranı</string>
     <string name="quick_settings_screensaver_label">Ekran qoruyucu</string>
@@ -2488,6 +2493,7 @@ Suallarınız varsa, %2$s ilə əlaqə saxlayın."</string>
     <string name="status_bar_clock_date_format_12">E, d MMM</string>
     <string name="status_bar_clock_date_time_format">H:mm E, d MMM</string>
     <string name="status_bar_clock_date_time_format_12">h:mm a, E, d MMM</string>
+	<string name="status_bar_next_alarm">Zəngli saat %1$s olduqda sönəcək</string>
     <string name="status_bar_settings_auto_rotation">Ekranı avto-döndərmə</string>
     <string name="status_bar_work">İş profili</string>
     <string name="status_unavailable">Əlçatmazdır</string>
@@ -2762,6 +2768,7 @@ Yeni istifadəçi əlavə edəndə, həmin istifadəçi öz sahəsini quraşdır
     <string name="user_switch_to_user">Keç: %s</string>
     <string name="using_camera">Bu tətbiq kameraya müraciət edir</string>
     <string name="using_camera_and_microphone">Bu tətbiq kameraya və mikrofona müraciət edir</string>
+	<string name="using_glasses">İstifadə edilən eynəklər</string>
     <string name="using_house_play">Bütün evdə oxutma istifadə edilir</string>
     <string name="using_microphone">Bu tətbiq mikrofona müraciət edir</string>
     <string name="using_sound_box">Dinamik istifadə edilir</string>

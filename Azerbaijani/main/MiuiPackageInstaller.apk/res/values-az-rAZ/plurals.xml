@@ -29,9 +29,21 @@
         <item quantity="other">%d dəqiqə ərzində</item>
         <item quantity="one">1 dəqiqə ərzində</item>
     </plurals>
+	<plurals name="input_text_count_limit_talkback_one">
+        <item quantity="other">%1$d xarakter daxil edildi.</item>
+        <item quantity="one">%1$d xarakter daxil edildi.</item>
+    </plurals>
+    <plurals name="input_text_count_limit_talkback_two">
+        <item quantity="other">Cəmi %1$d xarakter daxil edin.</item>
+        <item quantity="one">Cəmi %1$d xarakter daxil edin.</item>
+    </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d element seçildi</item>
         <item quantity="one">%d element seçildi</item>
+    </plurals>
+	<plurals name="miuix_indexer_selected">
+        <item quantity="other">%1$d element seçildi</item>
+        <item quantity="one">%1$d element seçildi</item>
     </plurals>
     <plurals name="password_wrong_retry_msg">
         <item quantity="other">Həddən artıq uğursuz cəhd. %1$S saniyəyə yenidən sınayın.</item>

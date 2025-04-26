@@ -14,6 +14,10 @@
     <string name="abc_toolbar_collapse_description">Yığcamlaşdır</string>
     <string name="about_pure_mode">Mi Protect haqqında</string>
     <string name="about_safe_mode">Mi Protect haqqında daha ətraflı</string>
+	<string name="accessibility_sliding_button_state_description_off">Söndürüldü</string>
+    <string name="accessibility_sliding_button_state_description_on">İşə salındı</string>
+    <string name="accessibility_tab_state_description_unselect">Seçilmədi</string>
+    <string name="accessibility_tab_statedesc_unselect">Seçilmədi</string>
     <string name="actionbar_button_up_description">Geri</string>
     <string name="ad_permissions">&lt;u&gt;İcazələr&lt;u/&gt;</string>
     <string name="ad_privacy">&lt;u&gt;Gizlilik&lt;u/&gt;</string>
@@ -51,6 +55,7 @@
     <string name="app_info_size">Ölçü: %1$s</string>
     <string name="app_info_version">Versiya: %1$s</string>
     <string name="app_info_version_replace">Versiya: %1$s -&gt; %2$s</string>
+	<string name="app_info_version_replace_talkback">%1$s versiyasından %2$s versiyasına güncəllə</string>
     <string name="app_installed_notification_channel_description">Tətbiq quraşdırıldı bildirişi</string>
     <string name="app_installing_not_allow">"%1$s quraşdırılmasını əngəllədiniz. "</string>
     <string name="app_installing_not_allow_1">"%1$s - bir tətbiq quraşdırması əngəlləndi. "</string>
@@ -298,6 +303,7 @@ Aşağıdakı ssenarilərdə güvənlik risklərinin qarşısını effektiv şə
     <string name="icon_content_description">Dialoq ikonu</string>
     <string name="ignore_virus_install_text">Bütün mümkün riskləri anlayıram. %1$s</string>
     <string name="ignore_virus_install_text_clickable">Yenə də quraşdır</string>
+	<string name="input_pattern_hint_text">Kilid açma naxışınızı çəkin</string>
     <string name="install">Quraşdır</string>
     <string name="install_abi_error">"Bu tətbiq 32 bitlik arxitektura ilə uyumlu deyil"</string>
     <string name="install_abi_error_des">Bunun əvəzinə bu tətbiqin 32 bitlik versiyasını quraşdırın</string>
@@ -362,9 +368,11 @@ Addım 2: Cihazınızı sıfırlamazdan əvvəl daxil olduğunuz Google Hesabın
     <string name="lock_screen_authrioze_subtitle_password">Ekran kilidi ilə səlahiyyət verin</string>
     <string name="lock_screen_password_authrioze">Quraşdırmaq üçün ekran kilidini doğrulayın</string>
     <string name="lock_screen_risk">Ekran kilidi</string>
-    <string name="lockscreen_access_pattern_cell_added">Hüceyrə əlavə edildi</string>
+    <string name="lockscreen_access_pattern_area">Kilid açma naxışı sahəsi</string>
+    <string name="lockscreen_access_pattern_cell_added_verbose">%1$s nöqtəsi əlavə edildi</string>
     <string name="lockscreen_access_pattern_cleared">Naxış təmizləndi</string>
-    <string name="lockscreen_access_pattern_start">Naxış başladıldı</string>
+    <string name="lockscreen_access_pattern_detected">Naxış çəkmə tamamlandı</string>
+    <string name="lockscreen_access_pattern_start">Naxış çəkməni başlat</string>
     <string name="manage_applications">Tətbiqləri idarə et</string>
     <string name="manage_device_administrators">Cihaz inzibatçılarını idarə et</string>
     <string name="manage_users">İstifadəçiləri idarə et</string>
@@ -427,7 +435,13 @@ Addım 2: Cihazınızı sıfırlamazdan əvvəl daxil olduğunuz Google Hesabın
     <string name="miui_uninstall_success">Uğurla silindi</string>
     <string name="miui_uninstalling">Silinir…</string>
     <string name="miuix_access_state_desc">Seçildi</string>
+	<string name="miuix_accessibility_title">Başlıq</string>
     <string name="miuix_alphabet_indexer_name">İndeks çubuğu</string>
+	<string name="miuix_appcompat_accessibility_collapse_state">Yığcamlaşdırıldı</string>
+    <string name="miuix_appcompat_accessibility_expand_state">Genişləndirildi</string>
+    <string name="miuix_appcompat_accessibility_finish_edit_action_mode">Düzəliş rejimindən çıx</string>
+    <string name="miuix_appcompat_accessibility_new_message">Yeni bildiriş</string>
+    <string name="miuix_appcompat_accessibility_start_edit_action_mode">Düzəliş rejiminə daxil ol</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Heç birini seçmə</string>
     <string name="miuix_appcompat_action_mode_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_action_mode_title_empty">Elementləri seç</string>
@@ -443,8 +457,9 @@ Addım 2: Cihazınızı sıfırlamazdan əvvəl daxil olduğunuz Google Hesabın
     <string name="miuix_appcompat_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_select_all_description">Hamısını seç</string>
     <string name="miuix_appcompat_select_item">Elementləri seç</string>
+	<string name="miuix_appcompat_show_dialog_description">Açılan pəncərə</string>
     <string name="miuix_indexer_collect">Kolleksiyalar</string>
-    <string name="miuix_indexer_selected">%s seçildi</string>
+    <string name="miuix_progressbar_loading">Bir saniyə…</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Təzələmək üçün aşağı çək</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Uğurla təzələndi</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Təzələnir…</string>
@@ -452,7 +467,10 @@ Addım 2: Cihazınızı sıfırlamazdan əvvəl daxil olduğunuz Google Hesabın
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"İndilik bu qədər"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">"İndilik bu qədər"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Bir saniyə…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Elementlər yüklənilə bilmədi"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Elementlər yüklənə bilmədi"</string>
+	<string name="miuix_show_password">Parolu göstər</string>
+    <string name="miuix_stretchablewidget_collapsed">Yığcamlaşdırıldı</string>
+    <string name="miuix_stretchablewidget_expanded">Genişləndirildi</string>
     <string name="monday">Bazar ertəsi</string>
     <string name="monday_short">B.e.</string>
     <string name="monday_shortest">B.e.</string>
@@ -513,6 +531,7 @@ Addım 2: Cihazınızı sıfırlamazdan əvvəl daxil olduğunuz Google Hesabın
     <string name="mtrl_picker_toggle_to_day_selection">Təqvim görünüşünə dəyişdirmək üçün toxunun</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Mətn giriş rejiminə keç</string>
     <string name="mtrl_picker_toggle_to_year_selection">İl görünüşünə dəyişdirmək üçün toxunun</string>
+	<string name="negative_number_talkback">Mənfi %1$d</string>
     <string name="net_work_error_msg">"Güvənlik yoxlanışını başlatmaq üçün şəbəkəyə bağlana bilmədi"</string>
     <string name="net_work_error_retry">Yenidən sına</string>
     <string name="new_unregistered_dialog_comment">"Gəlişdirici kimi tələb olunan məlumatları səlahiyyətli orqanlara göndərmisinizsə, %1$s."</string>
@@ -846,6 +865,7 @@ Addım 2: Cihazınızı sıfırlamazdan əvvəl daxil olduğunuz Google Hesabın
     <string name="safe_mode_in_service">Mi Protect açıqdır</string>
     <string name="safe_mode_introduce_close_tip">Diqqət</string>
     <string name="safe_mode_introduce_close_tip_des">Gizliliyiniz və güvənliyiniz üçün Mi Protect-i açıq saxlamağı tövsiyə edirik.</string>
+	<string name="safe_mode_tip_arrow_talkback">Mi Protect ayarlarını açmaq üçün toxunun</string>
     <string name="safe_mode_tip_title_off_msg">Mi Protect bağlıdır</string>
     <string name="safe_space_tip_dialog_description">"%1$s, Xiaomi tərəfindən güvənlik problemlərinə görə test edilməyib. Sizi mümkün risklərdən qorumaq üçün aşağıdakı tədbirlər görülmüşdür:"</string>
     <string name="safe_space_tip_dialog_title">Aktiv qoruma tədbirləri</string>
@@ -1007,6 +1027,7 @@ gəldiyini bilin"</string>
     <string name="sure_ok">Anladım</string>
     <string name="tango_dialog_content">%1$d-bit tətbiqləri quraşdıra bilmək üçün Tətbiq uyumluluq rejimini işə salın.</string>
     <string name="tango_dialog_title">Tətbiq uyumluluq rejimi</string>
+	<string name="text_input_layout_default_error">Bu, ilkin xətadır</string>
     <string name="thirty_days_no_asking">"30 gün ərzində təkrar soruşma"</string>
     <string name="this_installation">Quraşdır</string>
     <string name="thursday">Cümə axşamı</string>

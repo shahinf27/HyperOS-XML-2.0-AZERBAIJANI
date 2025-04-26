@@ -206,6 +206,10 @@ Qeyd: Fayl bu cihazdan da silinəcək."</item>
         <item quantity="other">%d element seçildi</item>
         <item quantity="one">%d element seçildi</item>
     </plurals>
+	<plurals name="miuix_indexer_selected">
+        <item quantity="other">%1$d element seçildi</item>
+        <item quantity="one">%1$d element seçildi</item>
+    </plurals>
     <plurals name="mtrl_badge_content_description">
         <item quantity="other">%d yeni bildiriş</item>
         <item quantity="one">%d yeni bildiriş</item>

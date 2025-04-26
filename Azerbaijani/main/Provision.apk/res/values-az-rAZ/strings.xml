@@ -169,6 +169,7 @@ Risk önləmə, statistika və analitik emal məqsədləri üçün şəbəkəyə
     <string name="friday_shortest">Cüm</string>
     <string name="game_introduction">Oyunlar qoşması daxil olmağınıza, sifariş yaratmağınıza, ödənişləri tamamlamağınıza, kuponları istifadə etməyinizə və tanıtım tədbirlərində iştirak etməyinizə imkan verir.</string>
     <string name="get_audio_and_video_information_settings">Cihazda saxlanılan foto, video və səslərə müraciət</string>
+	<string name="get_contact_information_settings">Kontaktlara müraciət</string>
 	<string name="get_imei_information">IMEI müraciəti</string>
     <string name="get_imei_information_settings">Cihazın unikal identifikatoruna müraciət (IMEI)</string>
     <string name="google_service_introduction">Google Play, normal işləyə bilməsi və sadalananları edə bilməsi üçün internetə bağlanmalı və yerləşmənizə müraciət etməlidir: SMS və MMS göndərmə, səs yazma, zəng etmə, təqvim tədbirlərinə, zəng tarixçəsinə, sensorlara, anbara, kameraya, cihaz məlumatlarına və hesablara müraciət etmə.</string>
@@ -431,7 +432,9 @@ Risk önləmə, statistika və analitik emal məqsədləri üçün şəbəkəyə
 Avto-güncəlləmələri GetApps &gt; Ayarlar &gt; \"Avto-güncəlləmələr\"də söndürə bilərsiniz."</string>
     <string name="other_settings_location">Yerləşmə</string>
     <string name="other_settings_location_summary">Yerləşmə əsaslı xidmətləri təmin etmək üçün tətbiqlərin və veb saytların yerləşmənizə müraciət etməsinə icazə verin</string>
-    <string name="other_settings_quality_service">Sistem Daemon icazələri</string>
+    <string name="other_settings_minor_mode">Uşaq rejimi</string>
+    <string name="other_settings_minor_mode_summary"><Data>"Azyaşlıların daha sağlam cihaz istifadəsi vərdişlərini inkişaf etdirməsinə kömək edin. Uşaq rejimi açıq olduqda, Ayarlara və Əsas ekrana bir özəllik qısayolu əlavə ediləcək. Bu özəlliyi işə salmaqla razılaşırsınız: &lt;a href=%1$s>Uşaq rejimi Gizlilik Siyasəti&lt;/a >."</Data></string>
+	<string name="other_settings_quality_service">Sistem Daemon icazələri</string>
     <string name="other_settings_quality_service_summary">Sistem Daemon, sistem sabitliyini və performansını yaxşılaşdırmaq üçün istifadə olunur. Normal işləyə bilməsi üçün, bu xidmətin cihazın anbarına müraciət etməsi və elementləri saxlaması məqsədilə icazələrə ehtiyacı var.</string>
     <string name="other_settings_upload_debug_log_detail">"Diaqnostika, cihaz və tətbiq istifadə məlumatlarını Xiaomi-yə avtomatik göndərərək cihaz təcrübənizi təkmilləşdirməyə kömək edin. Bu, batareya ömrünü, sistemi və tətbiq stabilliyini və daha çoxunu yaxşılaşdırmağa kömək edəcək.
 Göndərəcəyiniz məlumatlar cihazınızla və onu necə istifadə etdiyinizlə bağlı ümumi məlumatlar ehtiva edəcək (məs. batareya səviyyəsi, sistem və tətbiq fəaliyyəti və xətalar). Datalar, Xiaomi cihazlarını təkmilləşdirmək üçün istifadə olunacaq.
@@ -543,6 +546,7 @@ Bu özəlliyi Ayarlar &gt; Barmaq izləri, üz data və ekran kilidi &gt; Gizlil
     <string name="permission_recorder_file_introduction">Səs yazılarına müraciət etmək və onları saxlamaq üçün</string>
     <string name="permission_recording">Zəngləri və səsləri yazma:</string>
     <string name="permission_recording_introduction">Video yazarkən səsləri yazmaq üçün</string>
+	<string name="permission_reminder_mode_summary_settings">Gələn zənglərin xatırlatma növlərini seçmək üçün</string>
     <string name="permission_screen_shoot_introduction">Ekran yazılarına müraciət etmək və onları saxlamaq üçün</string>
     <string name="permission_send_message">SMS göndər</string>
     <string name="permission_sms_verification_code_login">Cəld daxil olmaq məqsədilə SMS doğrulamasını təmin etmək üçün</string>
