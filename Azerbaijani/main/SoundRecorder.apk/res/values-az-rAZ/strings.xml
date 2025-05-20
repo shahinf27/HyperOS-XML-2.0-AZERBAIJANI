@@ -38,8 +38,7 @@
     <string name="afternoon">Günortadan sonra</string>
     <string name="agree_description">Bütün özəlliklərini istifadə edə bilmək üçün bu tətbiqin internetə bağlanmasına icazə verin.</string>
     <string name="ai_recognition_other_speaker">(Başqası danışır)</string>
-    <string name="ai_recognize">AI səs tanıma</string>
-    <string name="ai_summary">AI icmalı</string>
+    <string name="ai_summary">AI İcmalı</string>
     <string name="ai_watermark">Bu məzmun süni zəka tərəfindən yaradılıb və yalnız istinad məqsədlidir.</string>
     <string name="airecorder_mic_in_use_while_in_call_tip">"Mikrofon istifadə edilərkən səs yazıla bilmir"</string>
     <string name="airecorder_month_day_hour_minute_format">dd-MM h:mm aaa</string>
@@ -812,7 +811,7 @@
     <string name="settings_ai_record_view_speeches_description">Danışanın etiketinə toxunaraq dediklərinin hamısına eyni anda bax</string>
     <string name="settings_ai_recorder">Səsyazan AI özəllikləri</string>
     <string name="settings_ai_recorder_summary">Səsi mətnə çevirin, danışanları avtomatik fərqləndirin, danışıqları tərcümə edin və icmalını yaradın</string>
-    <string name="settings_ai_recorder_title">AI danışıq tanıma</string>
+    <string name="settings_ai_recorder_title">AI Danışıq Tanıma</string>
     <string name="settings_saf_permission">Fayl idarəetmə icazələri</string>
     <string name="share">Paylaş</string>
     <string name="share_dialog_title">Paylaş</string>
@@ -860,7 +859,7 @@
     <string name="status_bar_recording_pause">\"Səsyazan\"a fasilə verildi</string>
     <string name="stop_status_focus_notification">Yazı bitdi</string>
     <string name="storage_permission_dialog_title">Anbar icazələri tələb olunur</string>
-    <string name="summary">AI icmalı</string>
+    <string name="summary">AI İcmalı</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_content_more">Həddən artıq söz var, icmal başladılmadı</string>
     <string name="summary_content_need_deal">Tapşırıqlar</string>

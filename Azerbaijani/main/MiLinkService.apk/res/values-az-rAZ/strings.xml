@@ -131,7 +131,7 @@
     <string name="car_air_con_switch_open">Avtomobil kondisionerini işə sal</string>
     <string name="car_camera_associate_connecting">EV kameraya bağlanır</string>
     <string name="car_camera_associate_disconnecting">EV kamerası ilə bağlantı kəsilir</string>
-    <string name="car_camera_unavailable_dialog_message">"Zəif enerji rejimi və ya Gizlilik rejimi açıqdır. Nəqliyyatın ön kamera yayımı hal hazırda mobil cihazınızda görünə bilmir."</string>
+    <string name="car_camera_unavailable_dialog_message">"Nəqliyyat, Zəif enerji və ya Gizlilik rejimindədir. Ön görünüş kamerası indi istifadə edilə bilmir."</string>
     <string name="car_camera_unavailable_dialog_positive_button">Anladım</string>
     <string name="car_camera_unavailable_dialog_title">"Kamera istifadə edilə bilmir"</string>
     <string name="car_card_air_control_backseat_air">Arxa oturacaqlar</string>
@@ -469,7 +469,7 @@ və Xiaomi Hesabınıza daxil olun"</string>
     <string name="connect_settings_privacy_policy">Gizlilik Siyasəti</string>
     <string name="connect_settings_relay_app">Tətbiqlər</string>
     <string name="connect_settings_share_clipboard">Lövhə</string>
-    <string name="connect_settings_share_file"></string>
+    <string name="connect_settings_share_file">Fayl müraciəti</string>
     <string name="connect_settings_share_launcher">Əsas ekran+</string>
     <string name="connect_settings_share_notification">Bildirişlər</string>
     <string name="connect_settings_summary"><Data>Xiaomi Hesabınıza daxil olmuş yaxınlıqdakı cihazları avtomatik kəşf edin və bir çox cihazda müxtəlif tapşırıqları icra etmək üçün onları bir-birinə bağlayın. &lt;a href=%1$s&gt;Daha ətraflı&lt;/a&gt;</Data></string>
@@ -478,7 +478,7 @@ və Xiaomi Hesabınıza daxil olun"</string>
     <string name="connect_settings_summary_global"><Data>Xiaomi Hesabınıza daxil olmuş yaxınlıqdakı cihazları kəşf edin və onları Mi Smart Hub-a əlavə edin</Data></string>
     <string name="connect_settings_summary_relay_app">Tapşırıqlara başqa cihazdakı eyni tətbiqdə davam edin</string>
     <string name="connect_settings_summary_share_clipboard">Mətn və şəkilləri bu cihazda kopyaladıqdan sonra %d dəqiqə ərzində digər cihazlarda yapışdırın</string>
-    <string name="connect_settings_summary_share_file"></string>
+    <string name="connect_settings_summary_share_file">Yaxınlıqdakı kompüterlərdən lokal fayllara müraciət</string>
     <string name="connect_settings_summary_share_launcher_pad">Xiaomi Hesabınıza daxil olmuş yaxınlıqdakı telefonların Əsas ekranlarına baxın və onlarla qarşılıqlı əlaqə qurun</string>
     <string name="connect_settings_summary_share_launcher_phone">"Yaxınlıqdakı planşetlərin və kompüterlərin bu cihazın Əsas ekranına baxmasına və onunla qarşılıqlı əlaqədə olmasına icazə verin"</string>
     <string name="connect_settings_summary_share_notification_pad">Xiaomi Hesabınıza daxil olmuş yaxınlıqdakı telefonlardan bildirişlər alın</string>
@@ -581,9 +581,9 @@ Bağlantı qurma probleminiz varsa, kömək üçün baxın."</string>
     <string name="dialog_show_help">Kömək</string>
     <string name="dialog_title">Birgə giriş</string>
     <string name="disconnect">Yayımı dayandır</string>
-    <string name="disconnect_access"></string>
-    <string name="dist_file_notification_subtitle"></string>
-    <string name="dist_file_notification_title"></string>
+    <string name="disconnect_access">Bağlantını kəs</string>
+    <string name="dist_file_notification_subtitle">"\"%s\" bu cihazın fayllarına müraciət etmək istəyir"</string>
+    <string name="dist_file_notification_title">Cihazlar arası fayl müraciəti</string>
     <string name="dp_casting_start_hint">Kabel vasitəsilə bağlantı quruldu. Yayım bitdi.</string>
     <string name="dual_wifi_warning_china">İkili Wi-Fi-ı söndürüb yenidən sınayın</string>
     <string name="dual_wifi_warning_global">İkili Wi-Fi-ı söndürüb yenidən sınayın</string>
@@ -766,7 +766,7 @@ Qeyd: Əlçatımlılıq özəlliklərini işə saldığınız zaman rutin bir si
     <string name="invisible_mode_dialog_content_audio_relay">"Gizli rejimdə ikən oxutmanı ötürə bilməzsiniz. Əvvəlcə Gizli rejimi söndürün."</string>
     <string name="invisible_mode_dialog_pos">Söndür</string>
     <string name="invisible_mode_dialog_title">"Gizlisiniz"</string>
-    <string name="is_accessed_by"></string>
+    <string name="is_accessed_by">\"%1$s\" bu cihaza müraciət edir</string>
     <string name="is_creating_camera_cooperation">Bağlantı qurmaq üçün cihazın kilidini açın</string>
     <string name="item_view_role_description">Vərəq</string>
     <string name="keyguard_security_setting_privacy_policy">Gizlilik Siyasəti</string>
@@ -976,7 +976,7 @@ Qeyd: Əlçatımlılıq özəlliklərini işə saldığınız zaman rutin bir si
     <string name="mtrl_picker_toggle_to_year_selection">İl görünüşünə dəyişdirmək üçün toxunun</string>
     <string name="mtrl_timepicker_cancel">İmtina</string>
     <string name="mtrl_timepicker_confirm">Oldu</string>
-    <string name="nearby_device_file_access"></string>
+    <string name="nearby_device_file_access">"Yaxınlıqdakı cihazlar bu cihazın fayllarına müraciət etdikdə bildiriş al"</string>
     <string name="nfc_connect_failed_toast">"Yayımlana bilmədi. Yenidən sınayın."</string>
     <string name="night">Axşam</string>
     <string name="no_remote_device">Uzaqdakı cihaz tapıla bilmir</string>

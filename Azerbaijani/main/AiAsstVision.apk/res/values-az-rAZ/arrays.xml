@@ -3,8 +3,4 @@
     <string-array name="runtime_permission_desc">
         <item>Danışıq tərcüməsi kimi funksiyalar üçün danışıq tanıma</item>
     </string-array>
-    <string-array name="tone_setting_entries">
-        <item>Melissa</item>
-        <item>Matt</item>
-    </string-array>
 </resources>

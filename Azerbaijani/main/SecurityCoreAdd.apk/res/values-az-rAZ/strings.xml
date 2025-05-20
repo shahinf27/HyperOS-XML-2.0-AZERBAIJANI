@@ -705,7 +705,8 @@ Onları ayrı-ayrı endirə bilərsiniz."</string>
     <string name="launch_wechat_health_code_auto_close">WeChat sağlamlıq kodu qısayolu artıq mövcud deyil. Fərqli bir qısayola keçə bilərsiniz.</string>
     <string name="launch_wechat_payment_code">WeChat ödəniş kodu</string>
     <string name="launch_wechat_scanner">WeChat skaneri</string>
-    <string name="list_empty_text">Boş</string>
+    <string name="launch_xiaoai_screen_identification">Xiaomi Hyper XiaoAi ekran tanıma</string>
+	<string name="list_empty_text">Boş</string>
     <string name="list_empty_text_xspace">Daha çox ikili tətbiqlər yaradın və yenidən sınayın.</string>
     <string name="loading">Bir saniyə…</string>
     <string name="loading_apps">Tətbiqlər yüklənir…</string>

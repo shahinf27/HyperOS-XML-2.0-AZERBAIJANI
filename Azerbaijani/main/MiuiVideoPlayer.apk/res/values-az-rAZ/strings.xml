@@ -22,44 +22,15 @@
     <string name="abc_shareactionprovider_share_with">Paylaş</string>
     <string name="abc_shareactionprovider_share_with_application">%s ilə paylaş</string>
     <string name="abc_toolbar_collapse_description">Yığcamlaşdır</string>
-    <string name="access_denied_info">Həddən çox cəhd edildi. Bir və ya iki dəqiqə gözləyib yenidən sınayın.</string>
     <string name="accessibility_sliding_button_state_description_off">Söndürüldü</string>
     <string name="accessibility_sliding_button_state_description_on">İşə salındı</string>
     <string name="accessibility_tab_state_description_unselect">Seçilmədi</string>
     <string name="accessibility_tab_statedesc_unselect">Seçilmədi</string>
-    <string name="account_crop_user_avatar">Fotonu kəs</string>
-    <string name="account_empty_user_name">Mi Hesabınızın istifadəçi adını daxil edin</string>
-    <string name="account_error_all_space_user_name">"İstifadəçi adı yalnız boşluq simvolunu ehtiva edə bilməz"</string>
-    <string name="account_error_invalid_user_name">"Adda bunlara icazə verilmir: &lt;, &gt;, və ya /"</string>
-    <string name="account_error_longer_user_name">"Ad 20 xarakterdən uzun ola bilməz"</string>
-    <string name="account_error_shorter_user_name">Ad 2 xarakterdən uzun olmalıdır</string>
-    <string name="account_error_user_birthday">Daxil etdiyiniz doğum günü yararsızdır</string>
-    <string name="account_error_user_name">Bu ləqəb yararsızdır. Fərqlisini yoxlayın.</string>
-    <string name="account_invalid_user_avatar">Bu foto yararsızdır. Fərqlisini yoxlayın.</string>
-    <string name="account_limit_update_birthday">"Doğum günü indi güncəllənə bilmir"</string>
-    <string name="account_no_set">Yoxdur</string>
-    <string name="account_none_bind_info">Yoxdur</string>
-    <string name="account_none_user_name">Yoxdur</string>
-    <string name="account_secure_info_pref_title">Hesab məlumatları</string>
-    <string name="account_security_info_pref_title">Güvənlik məlumatları</string>
-    <string name="account_user_avatar">Profil fotosu</string>
-    <string name="account_user_avatar_from_album">Qalereya</string>
-    <string name="account_user_avatar_from_camera">Kamera</string>
-    <string name="account_user_base_info">Təməl məlumatlar</string>
-    <string name="account_user_details">Şəxsi məlumatlar</string>
-    <string name="account_user_email">Geri qaytarma e-poçtu</string>
-    <string name="account_user_gender">Cins</string>
-    <string name="account_user_id">Mi Hesabı Kimliyi</string>
-    <string name="account_user_name">Ləqəb</string>
-    <string name="account_user_name_dialog_title">İstifadəçi adı daxil edin</string>
-    <string name="account_user_phone">Geri qaytarma telefonu</string>
     <string name="action_setting_ab_playing">Dövr…</string>
     <string name="action_setting_ab_reset">Sıfırla</string>
     <string name="action_setting_ab_set_end">Son nöqtəni ayarla</string>
     <string name="action_setting_ab_set_start">Başlanğıc nöqtəni ayarla</string>
     <string name="actionbar_button_up_description">Geri</string>
-    <string name="activate_email_notice">24 saat ərzində hesabınızın aktivləşdiriləcəyinə əmin olun</string>
-    <string name="activity_not_found_notice">"Tətbiq tapıla bilmir"</string>
     <string name="ad_bar_notification_setting_sub_title">Bildiriş panelində tədbirləri göstər</string>
     <string name="ad_bar_notification_setting_title">Tədbirlər</string>
     <string name="ad_click_to_play">Oxutmaq üçün toxunun</string>
@@ -69,7 +40,6 @@
     <string name="add_local_shortcut_des">Yerli video fayllarına bir toxunuşla müraciət etmək üçün \"Videolarım\"ı Əsas ekrana əlavə edin.</string>
     <string name="add_search_channel_name">Ad</string>
     <string name="add_search_channel_tip">Hədəf veb saytında \"%s\" axtarın, sonra URL-ni kopyalayıb yapışdırın.</string>
-    <string name="add_to_trust_device">Bu, güvənli cihazdır</string>
     <string name="add_video_to_playlist">Pleylistə əlavə et</string>
     <string name="add_website">Bir veb sayt əlavə et</string>
     <string name="afternoon">Günortadan sonra</string>
@@ -88,10 +58,8 @@
     <string name="am">GƏ</string>
     <string name="app_description_content">"Mi Video, yerli video pleyeri ehtiva edən bir sistem tətbiqidir. Əsas ekran qısayolunu sildikdən sonra hələ də video faylları oxuda biləcəksiniz."</string>
     <string name="app_description_title">\"Mi Video\" Əsas ekrandan silinsin?</string>
-    <string name="auth_fail_warning">Seansın müddəti bitdi. Yenidən daxil olun.</string>
     <string name="auto_play_next_off">Avto-oxutma bağlıdır</string>
     <string name="auto_play_next_on">Avto-oxutma açıqdır</string>
-    <string name="back">Geri</string>
     <string name="back_recommend_exchange">Bax</string>
     <string name="back_recommend_exit">Çıx</string>
     <string name="back_recommend_title">Daha çox məşhur videolara bax</string>
@@ -164,8 +132,6 @@
     <string name="cast_tracks_chooser_dialog_ok">Oldu</string>
     <string name="cast_tracks_chooser_dialog_subtitles">Altyazılar</string>
     <string name="cast_unmute">Səsi aç</string>
-    <string name="change_activate_email">E-poçt ünvanını dəyişdir</string>
-    <string name="change_password">Parolu dəyişdir</string>
     <string name="character_counter_content_description">%1$d/%2$d xarakter daxil edilib</string>
     <string name="character_counter_overflowed_content_description">%1$d/%2$d xarakter limiti aşıldı</string>
     <string name="choose">Seç</string>
@@ -185,7 +151,6 @@
     <string name="cloud_online_switch">Fərdiləşdirilmiş tövsiyələr</string>
     <string name="cloud_online_switch_open_time">Fərdiləşdirilmiş məzmun tövsiyələrini göstər</string>
     <string name="cmp_tier_privacy_policy">Üçüncü tərəf gizlilik siyasətləri</string>
-    <string name="collect_diagnosis_log">Jurnalları yığ</string>
     <string name="columbus_ad_flag_text">REKLAM</string>
     <string name="columbus_player_close_desc">Mükafatınızı itirəcəksiniz</string>
     <string name="columbus_player_close_resume">VİDEONU DAVAM ETDİR</string>
@@ -247,16 +212,12 @@
     <string name="common_retry_late_hint">Bir və ya iki dəqiqə gözləyib yenidən sınayın</string>
     <string name="common_signin_button_text">Daxil ol</string>
     <string name="common_signin_button_text_long">Google ilə daxil olun</string>
-    <string name="confirm_activate_email">Doğrulandı</string>
     <string name="confirm_delete_text">İndi silinsin?</string>
     <string name="content_can_not_null">"Açıqlama olmadan əks-əlaqə göndərilə bilmir."</string>
     <string name="controller_bar_edit">Düzəliş et</string>
     <string name="copy">Kopyala</string>
     <string name="copy_toast_msg">Keçid lövhəyə kopyalandı</string>
     <string name="data_empty">Burada element yoxdur</string>
-    <string name="date_picker_label_day"></string>
-    <string name="date_picker_label_month"></string>
-    <string name="date_picker_label_year"></string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
     <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="day">gün</string>
@@ -264,16 +225,11 @@
 Mi Video güncəllənmək üçün hazırdır.
 Yeni gözəl özəlliklərimizə nəzər salmaq üçün tətbiqi indi güncəlləyin!
 Mi Video Komandası"</string>
-    <string name="define_roundedimageview"></string>
     <string name="delete_permanently">Sil</string>
     <string name="description">Açıqlama</string>
     <string name="desktop_widget_local_media">Media faylları</string>
     <string name="desktop_widget_new">Yeni</string>
     <string name="detail_select_source">Oxutma mənbəsini seçin</string>
-    <string name="diagnosis_log_send_failed">"Jurnallar göndərilə bilmədi. Yenidən sınayın."</string>
-    <string name="diagnosis_log_sent_format">"Jurnallar uğurla göndərildi.
-Kimlik: %s
-Bu kodu nəzarətçiyə göndərin."</string>
     <string name="dialog_app_comment_default_content">Mi Video haqqında nə düşünürsünüz?</string>
     <string name="dialog_app_comment_select_feedback">Bizə əks-əlaqə verərək fikrinizi bildirmək istəyirsiniz?</string>
     <string name="dialog_app_comment_select_praise">Gözəl! Mi Videonu Play Store-da qiymətləndirirsiniz?</string>
@@ -335,7 +291,6 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="disagree">"Razı deyiləm"</string>
     <string name="diversion_online_button">Daha çox videoya bax</string>
     <string name="do_not_show_again">"Təkrar göstərmə"</string>
-    <string name="doing_query_account">Hesab məlumatı yoxlanılır…</string>
     <string name="download">Endirilənlər</string>
     <string name="download_checking_tip">Endirməyə hazırlanır…</string>
     <string name="download_complete">Endirildi</string>
@@ -355,16 +310,12 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="draw_ad_button_click_text">Açmaq üçün silkələ və ya toxun</string>
     <string name="draw_ad_button_slide_text">Detallar üçün sürüşdür</string>
     <string name="early_morning">Səhər</string>
-    <string name="empty"></string>
     <string name="empty_channels">Kanalları idarə et</string>
     <string name="eras_ad">B.E.</string>
     <string name="eras_bc">B.E.Ə.</string>
     <string name="error_a11y_label">Xəta: yararsızdır</string>
-    <string name="error_dup_binded_email">Bu e-poçt ünvanı artıq başqa bir Mi Hesabı ilə əlaqələndirilib.</string>
     <string name="error_icon_content_description">Xəta</string>
-    <string name="error_invalid_bind_address">Daxil etdiyiniz e-poçt ünvanı yararsızdır.</string>
     <string name="evening">Günortadan sonra</string>
-    <string name="exceed_binded_phone_times_notice">Bu telefon nömrəsi artıq başqa bir Mi Hesabı ilə əlaqələndirilib.</string>
     <string name="executing">İcra edilir…</string>
     <string name="exit">Çıx</string>
     <string name="exo_controls_cc_disabled_description">Altyazıları fəallaşdır</string>
@@ -415,8 +366,6 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="exo_track_unknown_name">Bilinmir (%1$s)</string>
     <string name="expand_button_title">Qabaqcıl</string>
     <string name="exposed_dropdown_menu_content_description">Açılan menyunu göstər</string>
-    <string name="facebook_application_id"></string>
-    <string name="facebook_login_btn_content_description">Facebook ilə daxil olun</string>
     <string name="failed_to_fetch_data">"Məlumat yüklənə bilmədi."</string>
     <string name="failure">"Endirilə bilmədi"</string>
     <string name="fallback_menu_item_copy_link">Keçidi kopyala</string>
@@ -455,7 +404,6 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="fmt_date_numeric_year_month_day">d-M-yyyy</string>
     <string name="fmt_date_short_month_day">d MMM</string>
     <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
-    <string name="for_diagnosis_usage_only">Jurnallar yalnız diaqnostika üçün istifadə edilir.</string>
     <string name="for_you">SİZİN ÜÇÜN</string>
     <string name="free_for_more_videos">Daha çoxuna ödənişsiz bax</string>
     <string name="friday">Cümə</string>
@@ -595,13 +543,9 @@ Bu əməliyyat qalereya şəkillərinizə təsir etməyəcək."</string>
     <string name="galleryplus_vp_videoview_error_button">Anladım</string>
     <string name="galleryplus_vp_videoview_error_text_unknown">Oxutma xətası baş verdi</string>
     <string name="galleryplus_vp_videoview_error_title">"Bu video oxudula bilmir"</string>
-    <string name="get_phone_verifycode_exceed_limit">Bu nömrəyə həddən artıq doğrulama kodu göndərilib. 24 saat gözləyib yenidən sınayın.</string>
-    <string name="google_application_id"></string>
-    <string name="google_login_btn_content_description">Google ilə daxil olun</string>
     <string name="gps_prompt_context">Mobil şəbəkə ilə endirilsin?</string>
     <string name="gps_prompt_title">Məsləhətlər</string>
     <string name="have_learned">Anladım</string>
-    <string name="header_help">Kömək</string>
     <string name="hidden_channels">"Aşağıdakı kanallar Əsas ekranda göstərilməyəcək."</string>
     <string name="hide">Gizlət</string>
     <string name="hide_video_toast">Bu element gizlidir. Gizli elementləri Yerli &gt; Qovluqlar &gt; \"Gizli elementlər\"də tapa və idarə edə bilərsiniz.</string>
@@ -611,7 +555,6 @@ Bu əməliyyat qalereya şəkillərinizə təsir etməyəcək."</string>
     <string name="history">Tarixçə</string>
     <string name="history_local_video">Yerli</string>
     <string name="history_online_video">Onlayn</string>
-    <string name="i_know">Oldu</string>
     <string name="icon_content_description">Dialoq ikonu</string>
     <string name="incentive_details">Detallar</string>
     <string name="incentive_dialog_cancel_not_interested">Xeyr, təşəkkür</string>
@@ -656,7 +599,6 @@ Bu əməliyyat qalereya şəkillərinizə təsir etməyəcək."</string>
     <string name="inline_auto_play_tip">"Mobil internet istifadə edilir… "</string>
     <string name="inline_auto_play_to_set">Ayarlar</string>
     <string name="inline_mute_click_tip">Səsi açmaq üçün toxunun</string>
-    <string name="input_email_address_notice">"Hesabınızı doğrulamaq üçün bu e-poçtu istifadə edəcəyik"</string>
     <string name="item_card_all_replies">Bütün cavablar</string>
     <string name="item_card_continue_play">Avto-oxut</string>
     <string name="item_card_more_trailers">Daha çox treyler</string>
@@ -674,8 +616,8 @@ Bu əməliyyat qalereya şəkillərinizə təsir etməyəcək."</string>
 seçin"</string>
     <string name="language_setting_tips">Daha əlaqəli məzmun tövsiyələrini almaq üçün dil tərcihlərinizi seçin. Dil tərcihlərinizi Profil &gt; \"Dil\"də dəyişdirə bilərsiniz.</string>
     <string name="later">Daha sonra</string>
-    <string name="library_android_database_sqlcipher_libraryName">Android üçün SQLCipher</string>
     <string name="library_roundedimageview_libraryDescription">Romain Guy-ın orijinal nümunəsi əsasında yuvarlaqlaşdırılmış küncləri (və ovalları və ya dairələri) dəstəkləyən sürətli bir ImageView (və Çəkilə bilən).</string>
+    <string name="like">Bəyənmələr</string>
     <string name="listen_video_title">Videonu dinlə</string>
     <string name="live_now">İndi canlıdır</string>
     <string name="live_title">Canlı TV</string>
@@ -775,13 +717,7 @@ seçin"</string>
     <string name="local_zoom_adjust_button">Ekran rejimini dəyişdir</string>
     <string name="lock_screen">Kilid ekranı</string>
     <string name="login">Daxil ol</string>
-    <string name="login_by_local_phone_long_text">İndi daxil olun</string>
-    <string name="login_by_local_phone_short_text">Daxil ol</string>
-    <string name="login_other">Başqa bir Mi Hesabı</string>
-    <string name="login_register_by_local_phone_long_text">Hesab yarat</string>
-    <string name="login_with_sns">Digər daxil olma yolları</string>
     <string name="logout">Çıxış et</string>
-    <string name="logout_account">Çıxış et</string>
     <string name="long_video_no_more_content">"İndilik bu qədər"</string>
     <string name="long_video_watch_on">Bax</string>
     <string name="long_video_you_may_also_like">Bunları da bəyənə bilərsiniz</string>
@@ -897,7 +833,6 @@ Bu icazəni yalnız axtardığınız videoları tapmaq üçün istifadə edəcə
     <string name="mgtv_cd_video_net_err_tips">Şəbəkə xətası, lütfən daha sonra yenidən sınayın</string>
     <string name="mi_video_pip_mode">Şəkil-içində-şəkil</string>
     <string name="midnight">Gecə</string>
-    <string name="mishop_login_other">Başqa hesab</string>
     <string name="miuix_access_state_desc">Seçildi</string>
     <string name="miuix_accessibility_title">Başlıq</string>
     <string name="miuix_alphabet_indexer_name">İndeks çubuğu</string>
@@ -1068,6 +1003,7 @@ Bu icazəni yalnız axtardığınız videoları tapmaq üçün istifadə edəcə
     <string name="mtrl_picker_toggle_to_day_selection">Təqvim görünüşünə keçmək üçün toxunun</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Mətn giriş rejiminə keç</string>
     <string name="mtrl_picker_toggle_to_year_selection">İl görünüşünə keçmək üçün toxunun</string>
+    <string name="mtrl_timepicker_cancel">İmtina</string>
     <string name="mtrl_timepicker_confirm">Oldu</string>
     <string name="music_new_user_dialog_got_it">Anladım</string>
     <string name="music_new_user_dialog_tip">\"Mi Video\"ya xoş gəlmisiniz! Bu tətbiq yerli video pleyer və onlayn musiqi və video axın xidmətlərini təqdim edir.</string>
@@ -1082,17 +1018,14 @@ Bu icazəni yalnız axtardığınız videoları tapmaq üçün istifadə edəcə
     <string name="net_time_out">Şəbəkə üzrə vaxt bitdi</string>
     <string name="network_connect_info">"Şəbəkəyə bağlana bilmədi."</string>
     <string name="network_error_and_retry_tip">"Şəbəkəyə bağlana bilmədi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın."</string>
-    <string name="network_error_info">Şəbəkə xətası baş verdi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın.</string>
     <string name="network_error_tip">"Şəbəkəyə bağlana bilmədi. Şəbəkə ayarlarınızı yoxlayın."</string>
     <string name="network_failed">"Şəbəkəyə bağlana bilmədi"</string>
-    <string name="network_timeout_info">"Şəbəkəyə bağlana bilmədi. Yenidən sınayın."</string>
     <string name="new_playlist">Yeni pleylist</string>
     <string name="new_video">Yeni</string>
     <string name="newyearfestival_go_to_draw_prizes">Şanslı çəkilişə get</string>
     <string name="newyearfestival_watch_the_video_to_draw_prizes">Şanslı çəkilişə daxil olmaq üçün videolara baxın</string>
     <string name="next_button">Növbəti</string>
     <string name="night">Axşam</string>
-    <string name="no_account">Daxil olunmadı</string>
     <string name="no_history">Burada element yoxdur</string>
     <string name="no_longer_prompt">"Təkrar göstərmə"</string>
     <string name="no_more_content">"İndilik bu qədər"</string>
@@ -1143,7 +1076,6 @@ Bu icazəni yalnız axtardığınız videoları tapmaq üçün istifadə edəcə
     <string name="online_play_title">URL daxil edin</string>
     <string name="online_playback">Videoları arxaplanda oxut</string>
     <string name="online_playback_detail">Xatirələr vərəqində İmmersiv oxutmanı istifadə edərkən, Əsas ekrana qayıtdığınız zaman videolar arxaplanda oxudulmağa davam edəcək</string>
-    <string name="open_settings">Ayarlara get</string>
     <string name="order_recently_subscribe">Son abunəliklər</string>
     <string name="order_recently_updated">Təzəlikcə güncəllənən</string>
     <string name="out_of_memory_background_playback_is_suspended">Yetərsiz yaddaşa görə arxaplanda oxutmaya fasilə verildi</string>
@@ -1178,12 +1110,43 @@ Bu icazəni yalnız axtardığınız videoları tapmaq üçün istifadə edəcə
     <string name="ovp_start_error_msg">"Bu video oxudula bilmir"</string>
     <string name="ovp_video_plugin_installation_two">Bir saniyə…</string>
     <string name="page_title_language">Dil tərcihləri</string>
+    <string name="pasport_register_dialog_message">İndi %s telefon nömrəniz vasitəsilə Xiaomi Hesabı yaradılsın?</string>
     <string name="passport_access_denied">Müraciət rədd edildi</string>
+    <string name="passport_account_crop_user_avatar">Fotonu qayçıla</string>
+    <string name="passport_account_empty_user_name">Adınızı daxil edin</string>
+    <string name="passport_account_error_all_space_user_name">"Ad yalnız boşluq xarakterindən ibarət ola bilməz"</string>
+    <string name="passport_account_error_invalid_user_name">"Adda bunlara icazə verilmir: &lt;, &gt;, və ya /"</string>
+    <string name="passport_account_error_longer_user_name">"Ad %d xarakterdən uzun ola bilməz"</string>
+    <string name="passport_account_error_shorter_user_name">Ad %d xarakterdən uzun olmalıdır</string>
+    <string name="passport_account_error_user_name">Bu ləqəb yararsızdır. Fərqlisini yoxlayın.</string>
+    <string name="passport_account_invalid_user_avatar">Bu foto yararsızdır. Fərqlisini yoxlayın.</string>
     <string name="passport_account_name">"Hesab: %1$s "</string>
+    <string name="passport_account_no_set">Yoxdur</string>
+    <string name="passport_account_none_bind_info">Yoxdur</string>
+    <string name="passport_account_none_user_name">Yoxdur</string>
+    <string name="passport_account_secure_info_pref_title">Hesab məlumatları</string>
+    <string name="passport_account_security_info_pref_title">Güvənlik məlumatları</string>
+    <string name="passport_account_user_avatar">Profil fotosu</string>
+    <string name="passport_account_user_avatar_from_album">Qalereyadan seç</string>
+    <string name="passport_account_user_avatar_from_camera">Kamera</string>
+    <string name="passport_account_user_base_info">Təməl məlumatlar</string>
+    <string name="passport_account_user_details">Şəxsi məlumatlar</string>
+    <string name="passport_account_user_email">Geri qaytarma e-poçtu</string>
+    <string name="passport_account_user_gender">Cins</string>
+    <string name="passport_account_user_id">Xiaomi Hesabı kimliyi</string>
+    <string name="passport_account_user_name">Ləqəb</string>
+    <string name="passport_account_user_name_dialog_title">Adı daxil edin</string>
+    <string name="passport_account_user_phone">Geri qaytarma telefonu</string>
+    <string name="passport_activity_not_found_notice">"Tətbiq tapıla bilmir"</string>
+    <string name="passport_agree">Razıyam</string>
     <string name="passport_area_code_title">Ərazi kodu</string>
-    <string name="passport_auth_title"></string>
+    <string name="passport_attention">Diqqət</string>
+    <string name="passport_auth_fail_warning">Seansın müddəti bitdi. Yenidən daxil olun.</string>
+    <string name="passport_back">Geri</string>
     <string name="passport_bad_authentication">Yararsız istifadəçi adı və ya parol</string>
     <string name="passport_can_not_recevie_verify_code">"Kodu almadınız?"</string>
+    <string name="passport_change_password">Parolu dəyişdir</string>
+    <string name="passport_check_security">Güvənlik problemləri yoxlanılır…</string>
     <string name="passport_checking_account">Parol yoxlanılır…</string>
     <string name="passport_clear_input">Daxil edilmiş məzmunu təmizlə</string>
     <string name="passport_copy_link">URL-ni kopyala</string>
@@ -1197,16 +1160,14 @@ Bu icazəni yalnız axtardığınız videoları tapmaq üçün istifadə edəcə
     <string name="passport_dialog_nick_name_prefix">Ləqəb: %s</string>
     <string name="passport_dialog_phone_number_prefix">Telefon nömrəsi: %s</string>
     <string name="passport_dialog_register_other">"Xeyr, yenisini yaradacam"</string>
-    <string name="passport_email">E-poçt ünvanı</string>
-    <string name="passport_empty_password">"Parol boş ola bilməz"</string>
+    <string name="passport_doing_query_account">Hesab məlumatları yoxlanılır…</string>
     <string name="passport_error_auth_fail">Seansın müddəti bitdi. Yenidən daxil olun.</string>
     <string name="passport_error_device_id">"Cihaz kimliyi alına bilmir"</string>
-    <string name="passport_error_dynamic_token_error">Doğrulama kodu yanlışdır</string>
-    <string name="passport_error_email">Daxil etdiyiniz e-poçt ünvanı yararsızdır</string>
-    <string name="passport_error_empty_email">E-poçt ünvanınızı daxil edin</string>
+    <string name="passport_error_dup_binded_email">Bu e-poçt ünvanı artıq başqa bir Xiaomi Hesabı ilə əlaqələndirilib.</string>
     <string name="passport_error_empty_password">Parolunuzu daxil edin</string>
     <string name="passport_error_empty_pwd">"Parol boş ola bilməz"</string>
     <string name="passport_error_empty_user_id">İstifadəçi adınızı daxil edin</string>
+    <string name="passport_error_invalid_bind_address">Daxil etdiyiniz e-poçt ünvanı yararsızdır.</string>
     <string name="passport_error_length_limit">Daxil etdiyiniz mətn çox uzundur</string>
     <string name="passport_error_network">"Şəbəkəyə bağlana bilmir"</string>
     <string name="passport_error_no_password_user">"Hələ ki, heç bir parol təyin etməmisiniz. SMS ilə daxil olun."</string>
@@ -1220,54 +1181,104 @@ Bu icazəni yalnız axtardığınız videoları tapmaq üçün istifadə edəcə
     <string name="passport_error_unknow_host_network_error">"Şəbəkəyə bağlana bilmədi"</string>
     <string name="passport_error_unknow_network_error">Şəbəkə xətası baş verdi</string>
     <string name="passport_error_unknown">Bilinməyən xəta</string>
-    <string name="passport_error_user_agreement">Əvvəlcə İstifadəçi Razılaşmamızı qəbul edin</string>
     <string name="passport_error_user_name">Daxil etdiyiniz istifadəçi adı yararsızdır</string>
     <string name="passport_error_user_password">"Parollar uyuşmur"</string>
+    <string name="passport_exceed_binded_phone_times_notice">Bu telefon nömrəsi artıq başqa bir Xiaomi Hesabı ilə əlaqələndirilib.</string>
+    <string name="passport_facebook_login_btn_content_description">Facebook ilə daxil olun</string>
+    <string name="passport_frequency_try_later">Həddən artıq cəhd edildi. Bir və ya iki dəqiqə gözləyib yenidən sınayın.</string>
     <string name="passport_get_login_type_next">Növbəti</string>
-    <string name="passport_header_back">Geri</string>
+    <string name="passport_get_phone_verifycode_exceed_limit">Bu nömrəyə həddən artıq doğrulama kodu göndərilib. 24 saat gözləyib yenidən sınayın.</string>
+    <string name="passport_google_login_btn_content_description">Google ilə daxil olun</string>
+    <string name="passport_help">Kömək</string>
+    <string name="passport_i_know">Anladım</string>
     <string name="passport_identification_expired">Doğrulama kodunun müddəti bitdi. Başdan başlat.</string>
     <string name="passport_input_captcha_hint">Kodu daxil edin</string>
+    <string name="passport_input_email_address_notice">"Hesabınızı doğrulamaq üçün bu e-poçtu istifadə edəcəyik"</string>
     <string name="passport_input_password_hint">Parolu daxil edin</string>
     <string name="passport_input_phone_number_hint">Telefon nömrəsini daxil edin</string>
     <string name="passport_input_verify_code">Doğrulama kodunu daxil edin</string>
     <string name="passport_input_voice_captcha_hint">Səsli doğrulama kodunu daxil edin</string>
     <string name="passport_input_voice_hint">Səsli kodu daxil edin</string>
-    <string name="passport_mi_account_first_title">"Telefon nömrənizi ilk dəfə istifadə edirsinizsə, avtomatik olaraq hesab yaradacağıq."</string>
+    <string name="passport_login_by_local_phone_long_text">İndi daxil ol</string>
+    <string name="passport_login_by_local_phone_short_text">Daxil ol</string>
+    <string name="passport_login_other">Başqa bir Xiaomi Hesabı</string>
+    <string name="passport_login_register_by_local_phone_long_text">Hesab yarat</string>
+    <string name="passport_login_with_sns">Digər daxil olma yolları</string>
+    <string name="passport_logout_account">Çıxış et</string>
     <string name="passport_mi_account_title">Xiaomi Hesabı ilə daxil olun</string>
-    <string name="passport_network_error">Şəbəkə xətası baş verdi.</string>
+    <string name="passport_network_error">Bir şəbəkə xətası baş verdi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın.</string>
     <string name="passport_network_error_hint">URL-ni yoxlayıb yenidən sınayın və ya URL-ni kopyalayıb brauzerinizdə açın.</string>
+    <string name="passport_network_timeout">"Şəbəkəyə bağlana bilmədi. Yenidən sınayın."</string>
     <string name="passport_next">Növbəti</string>
+    <string name="passport_open_settings">Ayarlar</string>
     <string name="passport_page_load_failed">"Səhifə açıla bilmir"</string>
+    <string name="passport_password_hide_show">Parolu gizlət</string>
     <string name="passport_password_login_btn">Daxil ol</string>
     <string name="passport_password_not_show">"Parol göstərilməsin"</string>
-    <string name="passport_password_req_notice">Parol, 8-16 simvol uzunluğunda olmalıdır və ən azı bunlardan ikisini ehtiva etməlidir: rəqəmlər, hərflər və xüsusi simvollar (məs. 123abc@# və ya 123abc və ya abc@#).</string>
     <string name="passport_password_show">Parolu göstər</string>
+    <string name="passport_phone_auto_login_register_with_local_number">Hesab yarat</string>
+    <string name="passport_photo_picker_not_found">İstifadə ediləcək foto yoxdur.</string>
+    <string name="passport_qq_login_btn_content_description">QQ ilə daxil olun</string>
     <string name="passport_querying_phone_info">Hesab məlumatı tələb olunur…</string>
     <string name="passport_quick_login_title">Parolunuzu daxil edin</string>
     <string name="passport_reging">Hesab yaradılır…</string>
+    <string name="passport_register_by_local_phone_long_text">Hesab yarat</string>
+    <string name="passport_register_by_local_phone_short_text">Hesab yarat</string>
+    <string name="passport_register_dialog_positive">Yarat</string>
+    <string name="passport_register_dialog_title">Xiaomi Hesab Yarat</string>
     <string name="passport_register_restricted">Bu nömrə ilə həddən artıq hesab əlaqələndirilib. Fərqli bir nömrə ilə sınayın.</string>
     <string name="passport_relogin_notice">Yenidən daxil olmağınız lazımdır</string>
+    <string name="passport_request_agree">İcazə ver</string>
+    <string name="passport_request_camera_permission_message">"Şəxsi məlumatlarınızı müvafiq qanun və qaydalara uyğun olaraq qoruyacağıq. Bu tətbiqin normal işləməsi üçün aşağıdakı icazələr lazımdır:&lt;br&gt;&lt;br&gt;&lt;b&gt;Kamera istifadəsi (profil fotonuzu ayarlamaq üçün)&lt;/b&gt;&lt;br&gt;&lt;br&gt;Belə icazələrin verilməsinə razılıq verməsəniz, bu tətbiqin bəzi özəlliklərini istifadə edə bilməyəcəksiniz; ancaq, onun təməl funksionallığı hələ də sizin üçün əlçatan olacaq. Ayarlarda həmişə icazələri məhdudlaşdıra və ya səlahiyyəti ləğv edə bilərsiniz."</string>
+    <string name="passport_request_cancel">İmtina</string>
+    <string name="passport_request_error_invalid_token">"Doğrulana bilmədi"</string>
+    <string name="passport_request_error_network">Bir şəbəkə xətası baş verdi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın.</string>
+    <string name="passport_request_error_unknown">Sistem xətası baş verdi. Geri qayıdın və yenidən sınayın.</string>
+    <string name="passport_request_gallery_permission_message">Bu tətbiqin profil fotonuzu təyin edə bilməsi üçün seçilmiş Qalereya elementlərinə müraciət etməsi lazımdır. İndi icazə verilsin?</string>
+    <string name="passport_request_permission_title">İcazələr tələb olunur</string>
+    <string name="passport_resend_email_reach_limit_message">"Həddən artıq doğrulama e-poçtu tələb etdiniz. Doğrulama e-poçtunun gələn qutunuzun Spam qovluğunda olmadığına əmin olun."</string>
+    <string name="passport_resend_email_reach_limit_title">Həddindən artıq cəhd</string>
     <string name="passport_resend_ticket">Kodu yenidən göndər</string>
     <string name="passport_retry">Yenidən sına</string>
+    <string name="passport_same_new_and_old_pwd">"Hazırkı parolla eyni ola bilməz"</string>
     <string name="passport_send_sms_to">Kod göndərildi: %1$s</string>
     <string name="passport_send_too_many_code">Bu nömrəyə həddən artıq doğrulama kodu göndərilib. 24 saat gözləyib yenidən sınayın.</string>
     <string name="passport_sending_vcode">Kod göndərilir…</string>
-    <string name="passport_set_password">Parol təyin et</string>
+    <string name="passport_service_error">Server xətası</string>
     <string name="passport_set_password_no_phone_msg">Hesabınızı qorumaq üçün telefon nömrənizi əlavə edin.</string>
+    <string name="passport_skip_query_account">Ötür</string>
+    <string name="passport_sns_access_token_expired_warning">Seans müddəti bitdi. Bu hesaba yenidən bağlanmaq üçün təkrar daxil olun.</string>
+    <string name="passport_sns_bind_limit">Həddindən artıq cəhd. Digər daxil olma yollarını yoxlayın.</string>
+    <string name="passport_system_error">Sistem məşğuldur. Bir və ya iki dəqiqə gözləyib yenidən sınayın.</string>
     <string name="passport_talkback_image_captcha">Şəkil doğrulama kodu</string>
     <string name="passport_talkback_switch_image_captcha">Şəkil doğrulama koduna keç</string>
     <string name="passport_talkback_switch_voice_captcha">Səsli doğrulama koduna keç</string>
     <string name="passport_talkback_voice_captcha">Səsli doğrulama kodunu oxut</string>
+    <string name="passport_third_sns_service_unavailable">"Xidmət əlçatan deyil. Tətbiqin quraşdırıldığına və əngəllənmədiyinə əmin olun."</string>
     <string name="passport_ticket_send_by_second">%d sonra göndər</string>
     <string name="passport_to_forget_password">Parolu unutmusunuz?</string>
     <string name="passport_to_password_login">Parol istifadə edərək daxil ol</string>
     <string name="passport_to_verify_code_login">SMS ilə daxil olun</string>
-    <string name="passport_unknow_host_network_error">Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın</string>
+    <string name="passport_unknown_error">Bilinməyən xəta</string>
+    <string name="passport_unknown_host_network_error">Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın</string>
+    <string name="passport_user_agreement_hint_3rd_app"><Data>\"Bunları oxudum və razılaşıram: &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt; və Xiaomi Hesabı üzrə &lt;a href=%3$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%4$s&gt;Gizlilik Siyasəti&lt;/a&gt;.\"</Data></string>
+    <string name="passport_user_agreement_hint_3rd_app_mobile"><Data>\"Bunları oxudum və razılaşıram: &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt; və Xiaomi Hesabı üzrə &lt;a href=%3$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%4$s&gt;Gizlilik Siyasəti&lt;/a&gt;, həmçinin &lt;a href=%5$s&gt;Çin Mobil doğrulama xidmətlərinin şərtləri və qaydaları&lt;/a&gt;.\"</Data></string>
+    <string name="passport_user_agreement_hint_3rd_app_with_telecom"><Data>\"Bunları oxudum və razılaşıram: &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt; və Xiaomi Hesabı üzrə &lt;a href=%3$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%4$s&gt;Gizlilik Siyasəti&lt;/a&gt;, həmçinin &lt;a href=%5$s&gt;eSurfing hesab doğrulama xidmətlərinin şərtləri və qaydaları&lt;/a&gt;.\"</Data></string>
+    <string name="passport_user_agreement_hint_3rd_app_with_unicom"><Data>\"Bunları oxudum və razılaşıram: &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt; və Xiaomi Hesabı üzrə &lt;a href=%3$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%4$s&gt;Gizlilik Siyasəti&lt;/a&gt;, həmçinin &lt;a href=%5$s&gt;China Unicorn doğrulama xidmətlərinin şərtləri və qaydaları&lt;/a&gt;.\"</Data></string>
+    <string name="passport_user_agreement_hint_default"><Data>\"Bunları oxudum və razılaşıram: Xiaomi Hesabı üzrə &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt;.\"</Data></string>
+    <string name="passport_user_agreement_hint_first_login">"Telefon nömrənizi ilk dəfə istifadə edirsinizsə, avtomatik olaraq hesab yaradacağıq."</string>
+    <string name="passport_user_agreement_hint_with_mobile"><Data>\"Bunları oxudum və razılaşıram: Xiaomi Hesabı üzrə &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt;, həmçinin &lt;a href=%3$s&gt;Çin Mobil doğrulama xidmətlərinin şərtləri və qaydaları&lt;/a&gt;.\"</Data></string>
+    <string name="passport_user_agreement_hint_with_telecom"><Data>\"Bunları oxudum və razılaşıram: Xiaomi Hesabı üzrə &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt;, həmçinin &lt;a href=%3$s&gt;eSurfing hesab doğrulama xidmətlərinin şərtləri və qaydaları&lt;/a&gt;.\"</Data></string>
+    <string name="passport_user_agreement_hint_with_unicom"><Data>\"Bunları oxudum və razılaşıram: Xiaomi Hesabı üzrə &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt;, həmçinin &lt;a href=%3$s&gt;Unicom doğrulama xidmətlərinin şərtləri və qaydaları&lt;/a&gt;.\"</Data></string>
+    <string name="passport_user_avatar_update_title">Profil fotosunu dəyişdir</string>
+    <string name="passport_user_avatar_uploading">Bir saniyə…</string>
     <string name="passport_user_id_hint">E-poçt/telefon nömrəsi/Xiaomi Hesabı Kimliyi</string>
-    <string name="passport_user_id_intro">%1$s üçün parol daxil edin</string>
+    <string name="passport_user_name_phone_number">Telefon nömrəsi</string>
     <string name="passport_user_password_hint">Parol</string>
     <string name="passport_vcode_what_app_send_prompt">WhatsApp doğrulama kodunuz geri qaytarma telefonunuza göndəriləcək (&lt;font color=#1F93FF&gt;%s&lt;/font&gt;).</string>
     <string name="passport_wechat_not_install">Əvvəlcə WeChat-ı quraşdır</string>
+    <string name="passport_weibo_login_btn_content_description">Weibo ilə daxil olun</string>
+    <string name="passport_weixin_login_btn_content_description">WeChat ilə daxil olun</string>
     <string name="passport_wrong_captcha">Daxil etdiyiniz kod yanlışdır</string>
     <string name="passport_wrong_phone_number_format">Daxil etdiyiniz telefon nömrəsi formatı yararsızdır</string>
     <string name="passport_wrong_vcode">Daxil etdiyiniz kod yanlışdır</string>
@@ -1278,8 +1289,6 @@ Bu icazəni yalnız axtardığınız videoları tapmaq üçün istifadə edəcə
     <string name="permission_storage_desc">Elementlərə müraciət etmək, faylları saxlamaq, yerli videoları göstərmək və oxutmaq üçün</string>
     <string name="permission_title">İcazələr tələb olunur</string>
     <string name="pgc_push_title">Abunəliklər</string>
-    <string name="phone_auto_login_register_with_local_number">Hesab yarat</string>
-    <string name="photoPickerNotFoundText">İstifadə ediləcək foto yoxdur.</string>
     <string name="pip_not_supported_toast">Şəkil içində şəkil rejimini istifadə edə bilmək üçün ən son sistem versiyasına güncəlləyin.</string>
     <string name="play_at_normal_speed">1X sürəti ilə oxudulur</string>
     <string name="play_at_speed">%.1fX sürəti ilə oxudulur</string>
@@ -1309,7 +1318,6 @@ Bu icazəni yalnız axtardığınız videoları tapmaq üçün istifadə edəcə
     <string name="playlist_remove">Sil</string>
     <string name="playlist_title">Pleylist</string>
     <string name="playlist_view_more">Daha çox pleylist</string>
-    <string name="please_agree_protocal">Protokolla razılaşın</string>
     <string name="plus_add_shortcut">Əsas ekran qısayolu yarat</string>
     <string name="plus_change_poster">Albom üzünü dəyişdir</string>
     <string name="plus_continue_watching">Baxmağa davam edin</string>
@@ -1461,6 +1469,9 @@ Bu icazəni yalnız axtardığınız videoları tapmaq üçün istifadə edəcə
     <string name="popkii_srl_header_pulling">Təzələmək üçün aşağı çək</string>
     <string name="popkii_srl_header_refreshing">Təzələnir…</string>
     <string name="popkii_srl_header_release">Təzələmək üçün burax</string>
+    <string name="popkii_text_ad">Reklam</string>
+    <string name="popkii_text_ad_num">Bu gün baxıldı (%1$d/%2$d)</string>
+    <string name="popkii_text_ad_unlock_success">Reklam kilidi uğurla açıldı</string>
     <string name="popkii_text_balance">Balans: %1$d Coin</string>
     <string name="popkii_text_best_option">Ən yaxşı seçim</string>
     <string name="popkii_text_billing_detail">Coin detalları</string>
@@ -1472,6 +1483,7 @@ Bu icazəni yalnız axtardığınız videoları tapmaq üçün istifadə edəcə
     <string name="popkii_text_clear">Açıq</string>
     <string name="popkii_text_close_focus">Fokus rejimi bağlıdır</string>
     <string name="popkii_text_collapse">Yığcamlaşdır</string>
+    <string name="popkii_text_comingsoon">Tezliklə gəlir:%1$s</string>
     <string name="popkii_text_congratulations">Təbriklər</string>
     <string name="popkii_text_eggs_from_heaven">Xüsusi endirimlər</string>
     <string name="popkii_text_eggs_from_heaven_content">Xüsusi endirimlərlə tam melodramdan həzz alın</string>
@@ -1479,6 +1491,7 @@ Bu icazəni yalnız axtardığınız videoları tapmaq üçün istifadə edəcə
     <string name="popkii_text_episode_num">%d. epizod</string>
     <string name="popkii_text_episode_status">%1$s · %2$d epizod</string>
     <string name="popkii_text_expand">Daha çoxuna bax</string>
+    <string name="popkii_text_expired">müddəti bitdi</string>
     <string name="popkii_text_favorite">Sevimli</string>
     <string name="popkii_text_favorited">Sevimlilərə əlavə edildi</string>
     <string name="popkii_text_focus_model">Fokuslanmış rejim</string>
@@ -1527,6 +1540,8 @@ Daha sonra yenidən sınayın"</string>
     <string name="popkii_text_subtitle">Altyazı</string>
     <string name="popkii_text_subtitle_language">Altyazı dili</string>
     <string name="popkii_text_switch_clarity">%1$s keçilir, lütfən gözləyin...</string>
+    <string name="popkii_text_tag_free">Ödənişsiz</string>
+    <string name="popkii_text_tag_new">Yeni</string>
     <string name="popkii_text_ticket_remain">(%1$s qaldı)</string>
     <string name="popkii_text_ticket_unlock">1 kilid açma kartı, ödənişsiz kilid açma</string>
     <string name="popkii_text_total_episodes">Cəmi %1$d epizod</string>
@@ -1539,6 +1554,7 @@ Daha sonra yenidən sınayın"</string>
     <string name="popkii_text_video_speed">%1$s sürəti ilə oxutma</string>
     <string name="popkii_text_view_all">Hamısına bax</string>
     <string name="popkii_text_vip_left">%1$s gün qaldı</string>
+    <string name="popkii_text_vip_period">Etibarlılıq müddəti: %1$s</string>
     <string name="popkii_text_vip_unlock">%1$s imtiyaz, hamısının kilidi açıldı</string>
     <string name="popkii_text_vip_will_expire">%1$s imtiyazları %2$s ərzində bitir, lütfən vaxtında alın</string>
     <string name="popkii_text_vip_will_expire_today">%1$s imtiyazlarının vaxt bu gün bitir</string>
@@ -1573,9 +1589,6 @@ Daha sonra yenidən sınayın"</string>
     <string name="privacy_revoke_setting">Bağlayaraq, \"Mi Video\"nun Gizlilik Siyasətinə verdiyiniz razılığı geri götürürsünüz.</string>
     <string name="privacy_revoke_subtitle">\"Mi Video\"nun Gizlilik Siyasətinə verdiyiniz razılığı geri götürmə</string>
     <string name="privacy_revoke_title">Razılığın geri götürülməsi</string>
-    <string name="progressbar_title">Güvənlik problemləri yoxlanılır…</string>
-    <string name="protocal_dialog_confirm">Razıyam</string>
-    <string name="protocal_dialog_title">Diqqət</string>
     <string name="protocol_error">Protokol xətası</string>
     <string name="pull_for_load_more_video">Daha çox videoya üçün yuxarı sürüşdür</string>
     <string name="pull_to_refresh_from_bottom_pull_label">Təzələmək üçün yuxarı çək…</string>
@@ -1586,8 +1599,6 @@ Daha sonra yenidən sınayın"</string>
     <string name="pull_to_refresh_release_label">Təzələmək üçün burax…</string>
     <string name="push_message_switch">Ani bildirişlər</string>
     <string name="pw_channels">Kanallar</string>
-    <string name="qq_application_id"></string>
-    <string name="qq_login_btn_content_description">QQ ilə daxil olun</string>
     <string name="question_click_bottom_tab">Bir veb saytı açmaq üçün bir qısayola da toxuna bilərsiniz.</string>
     <string name="question_edit_url_here">Axtarış edin və ya URL-ni bura daxil edin.</string>
     <string name="question_how_to_download_video">Videolar necə endirilir?</string>
@@ -1600,8 +1611,7 @@ Daha sonra yenidən sınayın"</string>
     <string name="recommend_slide_to_more">Daha çoxu üçün sürüşdür</string>
     <string name="recommend_switch_alert">Bu bölməni silmək üçün, Mi Video-da ayarlara gedin</string>
     <string name="recommend_to_you">Sizə tövsiyə edilir</string>
-    <string name="register_by_local_phone_long_text">Hesab yarat</string>
-    <string name="register_by_local_phone_short_text">Hesab yarat</string>
+    <string name="recommend_websites">Tövsiyə edilən veb saytlar</string>
     <string name="related_search">Əlaqəli elementlər</string>
     <string name="reload_sub_title">Yenidən sınamaq üçün toxunun.</string>
     <string name="reload_title">"Şəbəkəyə bağlana bilmədi."</string>
@@ -1622,17 +1632,6 @@ Daha sonra yenidən sınayın"</string>
     <string name="report_content_sexy">Seksual məzmun</string>
     <string name="report_content_violence">Nifrət danışığı</string>
     <string name="report_success">Uğurla bildirildi</string>
-    <string name="request_agree">İcazə ver</string>
-    <string name="request_camera_permission_message">"Bu xidmətin sizdən icazə istəməsinə ehtiyacı var, şəxsi məlumatlarınızı qorumaq üçün müvafiq qanunlara ciddi şəkildə əməl edəcəyik: &lt;br&gt;&lt;br&gt;&lt;b&gt; Kameraya Müraciət: Avatarı qurmaq üçün real vaxt rejimində yazı xidmətlərini sınaqdan keçirin &lt;/b&gt;&lt;br&gt;&lt;br&gt; Yuxarıdakı icazələrin çağırılması ilə razılaşmasanız, bu özəllik düzgün işləməyəcək, ancaq bu tətbiqin təməl özəlliklərini istifadə etməyinizə təsir etməyəcək. Razılığınızı geri götürmək üçün sistem ayarlarında yuxarıdakı icazə çağırışını söndürməyi seçə bilərsiniz."</string>
-    <string name="request_cancel">İmtina</string>
-    <string name="request_error_invalid_token">"Doğrulana bilmədi"</string>
-    <string name="request_error_network">Bir şəbəkə xətası baş verdi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın.</string>
-    <string name="request_error_unknown">Sistem xətası baş verdi. Geri qayıdın və yenidən sınayın.</string>
-    <string name="request_gallery_permission_message">Qalereyaya müraciətə icazə verin:&lt;br /&gt;Profil fotosunu ayarlamaq üçün</string>
-    <string name="resend_active_email">Təkrar göndər</string>
-    <string name="resend_email_reach_limit_message">"Həddən artıq doğrulama e-poçtu tələb etdiniz. Doğrulama e-poçtunun gələn qutunuzun Spam qovluğunda olmadığına əmin olun."</string>
-    <string name="resend_email_reach_limit_title">Həddindən artıq cəhd</string>
-    <string name="resend_email_success">Uğurla göndərildi</string>
     <string name="restore_channel_list">İndi ilkin halına qaytarılsın?</string>
     <string name="retry">Yenidən sına</string>
     <string name="s1">Təsviri saxla</string>
@@ -1651,7 +1650,6 @@ Daha sonra yenidən sınayın"</string>
     <string name="safemode_notification_content">Mi Video bir xəta ilə üzləşdi. Problemi həll etmək üçün toxunun.</string>
     <string name="safemode_notification_title">Güvənli rejim</string>
     <string name="safemode_privacy_checkbox_text">Gəlişdiricilərin problemləri tapmasına və həll etməsinə kömək etmək üçün tətbiq xətası məlumatlarını göndərməklə razılaşıram.</string>
-    <string name="same_new_and_old_pwd">"Hazırkı parolla eyni ola bilməz"</string>
     <string name="saturday">Şənbə</string>
     <string name="saturday_short">Şәn</string>
     <string name="saturday_shortest">Şәn</string>
@@ -1672,10 +1670,7 @@ Daha sonra yenidən sınayın"</string>
     <string name="selectall">Hamısını seç</string>
     <string name="selectnull">Heç birini seçmə</string>
     <string name="send">Göndər</string>
-    <string name="send_diagnosis_log">Jurnalları göndər</string>
-    <string name="send_email_activate_message">Doğrulama kodu uğurla göndərildi</string>
     <string name="server_error">Server xətası</string>
-    <string name="service_error">Server xətası</string>
     <string name="setting_privacy_title">Şərtlər və qaydalar</string>
     <string name="settings_inline_auto_play">Həmişə avto-oxut</string>
     <string name="settings_inline_auto_play_close">Avto-oxutma bağlıdır</string>
@@ -1702,7 +1697,6 @@ Daha sonra yenidən sınayın"</string>
     <string name="sign_in_google_account_hint">"Bəyənəcəyiniz daha çox videoya baxmaq üçün Google hesabınıza daxil olun"</string>
     <string name="sign_in_mi_account">Xiaomi Hesabı ilə daxil olun</string>
     <string name="skip_ad">Ötür</string>
-    <string name="skip_query_account">Ötür</string>
     <string name="slid_fail_message">"Saxlanıla bilmədi"</string>
     <string name="slide_or_click_to_open_ad">Daha ətraflı öyrənmək üçün sürüşdür və ya toxun</string>
     <string name="slide_save_message">Video yaradılır…</string>
@@ -1719,9 +1713,6 @@ Daha sonra yenidən sınayın"</string>
     <string name="small_video_tab_expose_hint">Daha çox qısa video üçün toxunun</string>
     <string name="small_video_zoom_in_hint">İmmersiv oxutmaya daxil olmaq üçün iki barmaqla ayırıb buraxın</string>
     <string name="small_video_zoom_out_hint">İmmersiv oxutmaya daxil olmaq üçün iki barmaqla çimdikləyin buraxın</string>
-    <string name="sns_access_token_expired_warning">Seans müddəti bitdi. Bu hesaba yenidən bağlanmaq üçün təkrar daxil olun.</string>
-    <string name="sns_bind_limit">Həddindən artıq cəhd. Digər daxil olma yollarını yoxlayın.</string>
-    <string name="sns_sign_in">Digər daxil olma yolları</string>
     <string name="solar_term_autumn_begins">Payız başlayır</string>
     <string name="solar_term_autumn_equinox">Payız gündönümü</string>
     <string name="solar_term_clear_and_bright">Təmiz və parlaq</string>
@@ -1788,7 +1779,6 @@ Daha sonra yenidən sınayın"</string>
     <string name="sync_favorites_limit_new">"Sevimlilərinizdə %d ədəddən çox video var. Sinxronlaşdırmaya davam etmək üçün bəzi əvvəlki videoları silməliyik."</string>
     <string name="sync_favorites_message">Bu cihazdakı sevimlilər hesabınızla sinxronlaşdırılsın? Artıq mövcud olmayan elementlər silinəcək.</string>
     <string name="sync_favorites_title">Sevimliləri sinxronlaşdır</string>
-    <string name="system_error_info">Sistem məşğuldur. Bir və ya iki dəqiqə gözləyib yenidən sınayın.</string>
     <string name="t_check_hide_file">Gizlədiləcək elementləri seçin</string>
     <string name="t_check_unhide_file">Göstəriləcək elementləri seçin</string>
     <string name="t_exit_app">Çıxmaq üçün yenidən toxunun.</string>
@@ -1831,7 +1821,6 @@ Daha sonra yenidən sınayın"</string>
     <string name="talkback_web_refresh">Təzələ</string>
     <string name="talkback_web_tonext">Növbəti səhifə</string>
     <string name="target_sdk_version_30_upgrade_tips">Android məhdudiyyətlərinə görə bəzi videolar burada görünməyə bilər. Digər videoları tapmaq üçün \"Fayllar\"a toxunun.</string>
-    <string name="temporary_not_available">"Bu özəllik hələ mövcud deyil"</string>
     <string name="test_text_description">Təsdiqə Meyl (Confirmation Bias) - Beyniniz, ona dediklərinizi təsdiqləmək üçün davamlı olaraq sübut axtarır. Ağlınızda hər zaman \"hər şey çox pisdir və heç nə qaydasında getmir\" deyə düşünsəniz, beyniniz xüsusilə bunu təsdiqləyən və sübut edən hər şeyi həyatınızdan seçməyə başlayacaq. Buna görə də insanlar \"mənə daha da yaxşı olduğunu göstər, bundan da yaxşı ola biləcəyini bilirəm\" kimi sözlər deməyə başlayanda, həqiqətən bu baş verir. Çünki beyniniz onun həqiqi olması üçün sübut axtarmağa başlayır. Beyniniz yaxşı olan şeyləri bir-bir seçməyə başlayacaq və həyatın daha da yaxşı ola biləcək gücə malik olduğunu göstərəcək. Ona görə də, gerçəklikləri zehninizdə şüurlu şəkildə yaradın.</string>
     <string name="test_text_title">Pilləkənlərin tamamını görməyə ehtiyac yoxdur, sadəcə ilk addımı atın.</string>
     <string name="text_default_ad_description">Reklam</string>
@@ -2024,26 +2013,9 @@ Daha sonra yenidən sınayın"</string>
     <string name="ui_common_title_back">Geri</string>
     <string name="unknow">Bilinmir</string>
     <string name="unknown_error">Bilinməyən xəta</string>
-    <string name="unknown_error_info">Bilinməyən xəta</string>
     <string name="update">Güncəllə</string>
-    <string name="update_email_address_dialog_message">Geri qaytarma e-poçtunu güncəlləməzdən əvvəl kimliyinizi doğrulamağınız lazımdır.</string>
-    <string name="update_email_address_dialog_title">Geri qaytarma e-poçtunu güncəllə</string>
     <string name="update_find_new_version">Bir güncəlləmə mövcuddur</string>
     <string name="uploads_disabled">Fayl yükləmə funksiyası sıradan çıxarılıb.</string>
-    <string name="user_agreement_hint_3rd_app"><Data>\"Bunları oxudum qəbul edirəm: &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt; və Mi Hesabı üzrə &lt;a href=%3$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%4$s&gt;Gizlilik Siyasəti&lt;/a&gt;.\"</Data></string>
-    <string name="user_agreement_hint_3rd_app_mobile"><Data>\"Bunları oxudum qəbul edirəm: &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt; və Mi Hesabı üzrə &lt;a href=%3$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%4$s&gt;Gizlilik Siyasəti&lt;/a&gt;, həmçinin &lt;a href=%5$s&gt;Çin Mobil doğrulama xidmətlərinin şərtləri və qaydaları&lt;/a&gt;.\"</Data></string>
-    <string name="user_agreement_hint_3rd_app_with_telecom"><Data>\"Bunları oxudum qəbul edirəm: &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt; və Mi Hesabı üzrə &lt;a href=%3$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%4$s&gt;Gizlilik Siyasəti&lt;/a&gt;, həmçinin &lt;a href=%5$s&gt;eSurfing hesab doğrulama xidmətlərinin şərtləri və qaydaları&lt;/a&gt;.\"</Data></string>
-    <string name="user_agreement_hint_3rd_app_with_unicom"><Data>\"Bunları oxudum qəbul edirəm: &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt; və Mi Hesabı üzrə &lt;a href=%3$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%4$s&gt;Gizlilik Siyasəti&lt;/a&gt;, həmçinin &lt;a href=%5$s&gt;China Unicorn doğrulama xidmətlərinin şərtləri və qaydaları&lt;/a&gt;.\"</Data></string>
-    <string name="user_agreement_hint_default"><Data>\"Bunları oxudum qəbul edirəm: Mi Hesabı üzrə &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt;.\"</Data></string>
-    <string name="user_agreement_hint_default_1"><Data>\"Bunları oxudum qəbul edirəm: &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt;.\"</Data></string>
-    <string name="user_agreement_hint_default_extra"><Data>\"Bunları oxudum qəbul edirəm: &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti.&lt;/a&gt; İlk giriş, avtomatik olaraq bir Xiaomi hesabı yaradacaq\"</Data></string>
-    <string name="user_agreement_hint_first_login">"Telefon nömrənizi ilk dəfə istifadə edirsinizsə, avtomatik olaraq hesab yaradacağıq."</string>
-    <string name="user_agreement_hint_with_mobile"><Data>\"Bunları oxudum qəbul edirəm: Mi Hesabı üzrə &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt;, həmçinin &lt;a href=%3$s&gt;Çin Mobil doğrulama xidmətlərinin şərtləri və qaydaları&lt;/a&gt;.\"</Data></string>
-    <string name="user_agreement_hint_with_telecom"><Data>\"Bunları oxudum qəbul edirəm: Mi Hesabı üzrə &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt;, həmçinin &lt;a href=%3$s&gt;eSurfing hesab doğrulama xidmətlərinin şərtləri və qaydaları&lt;/a&gt;.\"</Data></string>
-    <string name="user_agreement_hint_with_unicom"><Data>\"Bunları oxudum qəbul edirəm: Mi Hesabı üzrə &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt;, həmçinin &lt;a href=%3$s&gt;Unicom doğrulama xidmətlərinin şərtləri və qaydaları&lt;/a&gt;.\"</Data></string>
-    <string name="user_avatar_update_title">Profil fotosunu dəyişdir</string>
-    <string name="user_avatar_uploading">Bir saniyə…</string>
-    <string name="user_name_phone_number">Telefon nömrəsi</string>
     <string name="v7_preference_off">BAĞLI</string>
     <string name="v7_preference_on">AÇIQ</string>
     <string name="v_cancel">İmtina</string>
@@ -2115,14 +2087,9 @@ Daha sonra yenidən sınayın"</string>
     <string name="vp_upcoming_title">Növbəti</string>
     <string name="wallet">Pulqabı</string>
     <string name="website_button_add_bookmarks">Əlfəcin əlavə et</string>
-    <string name="wechat_application_id"></string>
     <string name="wednesday">Çərşənbə</string>
     <string name="wednesday_short">Çər</string>
     <string name="wednesday_shortest">Çər</string>
-    <string name="weibo_application_id"></string>
-    <string name="weibo_login_btn_content_description">Weibo ilə daxil olun</string>
-    <string name="weibo_redirect_uri"></string>
-    <string name="weixin_login_btn_content_description">WeChat ilə daxil olun</string>
     <string name="welcome_tip_content1">Güclü yerli video pleyer</string>
     <string name="welcome_tip_content2">Onlayn baxmaq və ya endirmək üçün milyonlarla video</string>
     <string name="welcome_tip_explore_more">Kəşf et</string>

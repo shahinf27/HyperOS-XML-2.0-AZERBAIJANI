@@ -36,6 +36,7 @@
 	<string name="accessibility_tab_statedesc_unselect">Seçilmədi</string>
     <string name="account_and_cloud">Hesab</string>
     <string name="account_logout">Çıxış et</string>
+	<string name="account_visitor">Ziyarətçi</string>
     <string name="action_item_add">Əlavə et</string>
     <string name="action_item_add_song">Pleylistə əlavə et</string>
     <string name="action_item_add_to_current_playlist">Növbəyə al</string>
@@ -146,10 +147,13 @@
     <string name="artist_home_search_hint">Sənətçi axtar</string>
     <string name="artist_is_empty">Sənətçi adı boş ola bilməz.</string>
     <string name="artist_name">Sənətçi</string>
-    <string name="asm_account_exception">Bir hesab xətası baş verdi</string>
+    <string name="asm_account_exception">Sistem hesab xətası. Çıxış edib təkrar giriş edin.</string>
     <string name="asm_ad_free">Reklamsız</string>
     <string name="asm_album_not_available">albom əlçatmazdır</string>
 	<string name="asm_album_not_available_toast">"Albomlara müraciət edilə bilmədi"</string>
+	<string name="asm_artist_message">Sənətçi məlumatı</string>
+    <string name="asm_auth_failed_try_again_toast">"Kimlik doğrulama başladıla bilmədi. Bir və ya iki dəqiqə gözləyib yenidən sınayın."</string>
+    <string name="asm_auth_incomplete_toast">Davam etmək üçün kimlik doğrulamanı tamamlayın</string>
     <string name="asm_batch_download_failed">"Endirilə bilmədi"</string>
     <string name="asm_buy_member_success">VIP üzvlük uğurla satın alındı</string>
     <string name="asm_check_video_playing">"Video oxudulur. Element pleylistə əlavə edilə bilmir."</string>
@@ -202,6 +206,7 @@ Bütün datanı birdəfəlik təmizləməyi seçdikdən sonra tətbiqdən çıx�
     <string name="asm_during_the_payment">Ödəniş statusu yoxlanılır…</string>
     <string name="asm_euro_try_one_month">Bir ay ödənişsiz sına</string>
     <string name="asm_fail_play_song">"Mahnı endirilə bilmədi"</string>
+	<string name="asm_featured">Önə çıxan</string>
     <string name="asm_full_tracks">Tam treklər</string>
     <string name="asm_google_connect_failed">"Ödəniş tamamlana bilmədi. Play Store-da qeydiyyatdan keçdiyinizə əmin olun."</string>
     <string name="asm_google_no_goods">"Məhsul məlumatı əldə edilə bilmədi"</string>
@@ -224,6 +229,7 @@ Bütün datanı birdəfəlik təmizləməyi seçdikdən sonra tətbiqdən çıx�
     <string name="asm_hq">Yüksək keyfiyyət</string>
     <string name="asm_item_not_available">element əlçatmazdır</string>
 	<string name="asm_item_not_available_toast">"Data alına bilmədi"</string>
+	<string name="asm_joox_song_expired_toast">"Müəllif hüququ məsələlərinə görə endirilə bilmir"</string>
     <string name="asm_loadstate_error_retry">İnternetə bağlanın və yenidən sınamaq üçün toxunun</string>
     <string name="asm_loadstate_not_more">"İndilik bu qədər"</string>
     <string name="asm_main_section_best_sellers">Ən çox satılanlar</string>
@@ -239,6 +245,7 @@ Bütün datanı birdəfəlik təmizləməyi seçdikdən sonra tətbiqdən çıx�
 </font></string>
     <string name="asm_network_error">Şəbəkə bağlantınızı yoxlayın</string>
     <string name="asm_new_song_title">Yeni mahnılar</string>
+	<string name="asm_no_auth_interface_toast">"Kimlik doğrulama interfeysi yüklənə bilmədi. Hesabınızın statusunu yoxlayıb yenidən sınayın."</string>
     <string name="asm_no_copyright_or_expire">müəllif hüququ və ya son istifadə tarixi yoxdur</string>
     <string name="asm_no_need_download_songs">Mahnı endirmə növbəsindədir</string>
     <string name="asm_no_network">"Şəbəkəyə bağlana bilmədi"</string>
@@ -289,8 +296,23 @@ Bütün datanı birdəfəlik təmizləməyi seçdikdən sonra tətbiqdən çıx�
 Satın alma: CD keyfiyyətinə qədər (16-bit/44.1 kHz, satın aldığınız keyfiyyətdən asılı olaraq) yayım edə bilərsiniz.
 Mobil internet üzərindən musiqi yayımı etsəniz, şəbəkəniz xidmət haqqı tuta bilər."</string>
     <string name="asm_quality_title">Seçdiyiniz səs keyfiyyəti, oxudacağınız növbəti mahnıya tətbiq olunacaq</string>
+	<string name="asm_region_change_button_continue">Davam et</string>
+    <string name="asm_region_change_button_switch">Dəyişdir</string>
+    <string name="asm_region_change_detected">Bölgə dəyişdirildi</string>
+    <string name="asm_region_change_message">Deyəsən, şəbəkə mühitiniz və ya sistem bölgə ayarınız dəyişib. Yeni bölgəniz üçün onlayn məzmun nümayiş etdiriləcək.</string>
+    <string name="asm_region_change_tips_switch">Bölgəni dəyişdirmək üçün Ayarlar > Əlavə ayarlar > "Bölgə"yə gedin.</string>
+    <string name="asm_region_change_tips_vip">Əvvəlki bölgəyə (%s) aid abunəlik artıq əlçatan olmayacaq.</string>
+    <string name="asm_region_de">Almaniya</string>
+    <string name="asm_region_es">İspaniya</string>
+    <string name="asm_region_fr">Fransa</string>
+    <string name="asm_region_gb">Birləşmiş Krallıq</string>
+    <string name="asm_region_it">İtaliya</string>
+    <string name="asm_region_pl">Polşa</string>
     <string name="asm_search_result_contain_music">Daxildir: \"%1$s\"</string>
-    <string name="asm_song_err_connect">"Serverə bağlana bilmədi"</string>
+    <string name="asm_service_connecting_toast">Xidmət yüklənir. Daha sonra yenidən sınayın.</string>
+    <string name="asm_service_exception_toast">Xidmət xətası. Daha sonra yenidən sınayın.</string>
+    <string name="asm_service_maintenance_toast">Xidmət hazırda təmirdədir. Daha sonra yenidən sınayın.</string>
+	<string name="asm_song_err_connect">"Serverə bağlana bilmədi"</string>
     <string name="asm_song_err_not_exist">"Tələb olunan səs mənbəyi mövcud deyil"</string>
     <string name="asm_song_err_not_exist_clear">"Mahnı mövcud deyil. Növbədən silindi."</string>
     <string name="asm_song_err_play">"Oxudula bilmədi. Yenidən sınayın."</string>
@@ -312,9 +334,11 @@ Mobil internet üzərindən musiqi yayımı etsəniz, şəbəkəniz xidmət haqq
     <string name="asm_unknow_album">Bilinməyən albom</string>
     <string name="asm_unknow_artist">Bilinməyən sənətçi</string>
     <string name="asm_unlock_tracks_ad_free">Üzvlük ilə reklam və kəsinti olmadan yüksək keyfiyyətli musiqi və endirmələrdən həzz alın.</string>
-    <string name="asm_vip_center">Premium</string>
+    <string name="asm_updated_at_time">Güncəlləndi: dd-MM-yyyy</string>
+	<string name="asm_vip_center">Premium</string>
     <string name="asm_vip_share_rights">Bu möhtəşəm üstünlüklər üçün abunə olun</string>
-    <string name="asm_ws_agree_privacy">Razıyam</string>
+    <string name="asm_vip_subscribed">Abunə olundu</string>
+	<string name="asm_ws_agree_privacy">Razıyam</string>
     <string name="asm_ws_all_listen">Mahnını tam dinləmək istəyirsiniz?</string>
     <string name="asm_ws_give_up_rights">Bu möhtəşəm özəlliklər üçün abunə olun</string>
     <string name="asm_ws_hires_free_listen">Hi-Res sound-un və milyonlarla mahnının kilidini açmaq üçün abunə olun. İlk ayınız ödənişsiz olacaq!</string>
@@ -919,7 +943,6 @@ Dataları təmizlədikdən sonra tətbiqdən çıxış ediləcək. Bu datalar h�
     <string name="joox_account_login_conflict_message">"Deyəsən, başqa bir cihazda daxil olmusunuz. Burada daxil olunsun?"</string>
     <string name="joox_account_login_exception">Yenidən daxil olun</string>
     <string name="joox_account_multi_device_login">Çoxlu cihaz</string>
-    <string name="joox_anonymous_name">Ziyarətçi</string>
     <string name="joox_area_check_failed">"Deyəsən, xidmətlərimizin əlçatmaz olduğu ərazidəsiniz. Başqa bir şəbəkəyə bağlanın və tətbiqi yenidən başladın."</string>
     <string name="joox_auth_button_acquire_vip_instantly">VIP üzvlük al</string>
     <string name="joox_auth_button_login_to_acquire_vip">VIP üzvlük almaq üçün daxil olun</string>
@@ -1893,6 +1916,7 @@ Xoşbəxt ol"</string>
     <string name="switch_success">Uğurla keçildi</string>
     <string name="tab_album">Albomlar</string>
     <string name="tab_album_list">Albomlar</string>
+	<string name="tab_all">Hamısı</string>
     <string name="tab_artist">Sənətçilər</string>
     <string name="tab_artist_list">Sənətçilər</string>
     <string name="tab_chart">Siyahılar</string>
@@ -1907,13 +1931,16 @@ Xoşbəxt ol"</string>
 	<string name="talkback_ad">Reklam</string>
     <string name="talkback_back">Geri qayıt</string>
     <string name="talkback_batch_process">Çoxlu elementlər</string>
+	<string name="talkback_call_ab">Oxutma kontrollarını göstər</string>
     <string name="talkback_clear">Təmizlə</string>
+	<string name="talkback_currentsong">Hazırkı mahnı</string>
     <string name="talkback_cut">Zəng səsi redaktoru</string>
     <string name="talkback_device">Başqa cihazlarda oxut</string>
     <string name="talkback_download">Endir</string>
 	<string name="talkback_drag_left">Sol sərhəd, nizamlamaq üçün iki barmağınızla sürükləyin.</string>
     <string name="talkback_drag_right">Sağ sərhəd, nizamlamaq üçün iki barmağınızla sürükləyin.</string>
     <string name="talkback_favorite">Bu mahnını bəyən</string>
+	<string name="talkback_firstsong">Birinci mahnı</string>
 	<string name="talkback_float_ball">Quick ball</string>
     <string name="talkback_full_screen">Tam ekran</string>
     <string name="talkback_karaoke">\"Karaoke\"ni aç</string>
@@ -1928,7 +1955,9 @@ Xoşbəxt ol"</string>
     <string name="talkback_next">Növbəti mahnı</string>
     <string name="talkback_nowplaying_bar">Oxutma çubuğu</string>
     <string name="talkback_nowplaying_circle">Oxutma dairəsi</string>
+	<string name="talkback_pause_new">Fasilə ver</string>
     <string name="talkback_play">Oxut / Fasilə ver</string>
+	<string name="talkback_play_new">Oxut</string>
     <string name="talkback_pre">Əvvəlki mahnı</string>
 	<string name="talkback_refresh">Təzələ</string>
     <string name="talkback_replay">Yenidən oxut</string>

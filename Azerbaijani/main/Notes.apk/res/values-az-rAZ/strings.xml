@@ -313,7 +313,7 @@
     <string name="doodle_color_pick_unknown_talkback">Bilinməyən rəng</string>
     <string name="doodle_color_pick_yellow_green_talkback">Sarı yaşıl</string>
     <string name="doodle_color_pick_yellow_talkback">Sarı</string>
-    <string name="doodle_color_picker_bar">Rəng seçici diyircəyi: Rəngləri seçmək üçün Cüt kliklə, Uzun bas və Sürüşdür</string>
+    <string name="doodle_color_picker_bar">Rəng seçici çubuğu: Rəngləri seçmək üçün cüt toxunun, basılı tutun və sürüşdürün</string>
     <string name="doodle_feature">Qaralamalar</string>
     <string name="doodle_guide_brush_config_hint">Ştrixin enini və şəffaflığını ayarlamaq üçün yenidən toxunun</string>
     <string name="doodle_guide_dialog_confirm">Oldu</string>
@@ -422,7 +422,8 @@
     <string name="last_excerpt_unfinish_hint">Son çıxarış tamamlanmayıb</string>
     <string name="library_android_database_sqlcipher_libraryDescription">SQLCipher əsaslı Android SQLite API-si</string>
     <string name="library_android_database_sqlcipher_libraryName">Android üçün SQLCipher</string>
-    <string name="load_note_dialog">Bir saniyə…</string>
+    <string name="llm_register_preference_title">Model servis qeydiyyat nömrəsi</string>
+	<string name="load_note_dialog">Bir saniyə…</string>
     <string name="loading_text">Bir saniyə…</string>
     <string name="login_sync">Daxil ol və sinxr.</string>
     <string name="main_body">Tam mətn</string>
@@ -523,6 +524,7 @@
     <string name="miuix_navigator_content_switch_description">Yan çubuğu göstər</string>
     <string name="miuix_navigator_multiple_choice">Seç</string>
     <string name="miuix_navigator_navigator_switch_description">Yan çubuğu gizlət</string>
+	<string name="miuix_navigator_toolbar_screen_bottom">Ekranın alt hissəsindəki alət çubuğu</string>
     <string name="miuix_progressbar_loading">Bir saniyə…</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Təzələmək üçün aşağı çək</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Uğurla təzələndi</string>
@@ -533,7 +535,7 @@
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Bir saniyə…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Elementlər yüklənə bilmədi"</string>
     <string name="miuix_show_password">Parolu göstər</string>
-    <string name="miuix_stretchablewidget_collapsed">Bağlı</string>
+    <string name="miuix_stretchablewidget_collapsed">Yığcamlaşdırıldı</string>
     <string name="miuix_stretchablewidget_expanded">Genişləndirildi</string>
     <string name="monday">Bazar ertəsi</string>
     <string name="monday_short">B.e.</string>
@@ -753,6 +755,7 @@
     <string name="pref_title_quick_note_talkback">\"Notlar\"ı daha tez açmaq üçün cüt toxunub basılı saxlayın, sonra sağa sürükləyin.</string>
     <string name="pref_title_todo_float_mode">Tapşırıq alət qutusu istifadə et</string>
     <string name="preference_copied">\"%1$s\" lövhəyə kopyalandı.</string>
+	<string name="privacy_preference_title">ICP qeydiyyat nömrəsi</string>
     <string name="private_entry_available">Şəxsi qovluğu açmaq üçün buraxın</string>
     <string name="private_entry_default">Şəxsi qovluğu açmaq üçün aşağı sürüşdürün</string>
     <string name="progressbar_title">Güvənlik problemləri yoxlanılır…</string>
@@ -998,9 +1001,11 @@ Səs yazmaq üçün \"Notlar\"a icazə verin."</string>
     <string name="todo_event_description_tomorrow">Sabah</string>
     <string name="todo_event_description_yesterday">Dünən</string>
     <string name="todo_float_permission_open_reminder">Bu özəlliyi istifadə edə bilmək üçün \"Notlar\"ın digər tətbiqlərdə üzən pəncərələri nümayiş etdirməsinə icazə verin.</string>
-    <string name="todo_item_group_expired">Müddəti bitdi</string>
+    <string name="todo_item_group_am">GƏ</string>
+	<string name="todo_item_group_expired">Müddəti bitdi</string>
     <string name="todo_item_group_finished">Tamamlandı</string>
     <string name="todo_item_group_further">Sonra</string>
+	<string name="todo_item_group_pm">GS</string>
     <string name="todo_item_group_today">Bu gün</string>
     <string name="todo_item_group_tomorrow">Sabah</string>
     <string name="todo_item_group_unschedule">Planlaşdırılmadı</string>

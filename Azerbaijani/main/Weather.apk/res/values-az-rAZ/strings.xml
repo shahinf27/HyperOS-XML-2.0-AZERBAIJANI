@@ -680,11 +680,15 @@ sına"</string>
     <string name="v7_preference_off">BAĞLI</string>
     <string name="v7_preference_on">AÇIQ</string>
     <string name="video_dialog_subtitle">"Mobil internet istifadə edirsiniz. Video yenə də oxudulsun?"</string>
-    <string name="view_forecast_item_yesterday">Dünən</string>
+    <string name="view_drag_end_talkback">%1$s, %2$s sətrinə daşındı</string>
+    <string name="view_drag_move_talkback">%s sətrinə daşı</string>
+	<string name="view_forecast_item_yesterday">Dünən</string>
     <string name="view_indexes_item_day_after_tommorrow">2 gün ərzində</string>
     <string name="view_indexes_item_today">Bu gün</string>
     <string name="view_indexes_item_tommorrow">Sabah</string>
-    <string name="warning_weather_day_and_night_settings_summary">Hava məlumatlarını ehtiva edən gündəlik icmalları 7:00-19:00 arası alın</string>
+    <string name="view_not_select_talkback">Seçilmədi: %s</string>
+    <string name="view_select_talkback">Seçildi: %s</string>
+	<string name="warning_weather_day_and_night_settings_summary">Hava məlumatlarını ehtiva edən gündəlik icmalları 7:00-19:00 arası alın</string>
     <string name="warning_weather_day_and_night_settings_title">Gündəlik icmallar</string>
     <string name="weather_alert_channel_name">Xəbərdarlıqlar</string>
     <string name="weather_aqi_full_air_quality_forcast">Tam hava keyfiyyəti proqnozu</string>

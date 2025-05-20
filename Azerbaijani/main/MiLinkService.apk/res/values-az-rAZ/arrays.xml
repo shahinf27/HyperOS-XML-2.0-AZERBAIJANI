@@ -67,7 +67,12 @@
         <item>Ara bağlantı/Lövhə</item>
         <item>Lövhə</item>
     </string-array>
-    <string-array name="settings_search_share_notify">
+    <string-array name="settings_search_share_file">
+        <item>Cihazlar arası fayl müraciəti</item>
+        <item>Ara bağlantı/Fayl müraciəti</item>
+        <item>Cihazlar arası fayl müraciəti、Çarpaz fayl müraciəti、Cihazlar arası fayl、fayl müraciəti、paylaşdırılmış fayl、Paylaşdırılmış sürücü hərfi</item>
+    </string-array>
+	<string-array name="settings_search_share_notify">
         <item>Cihazlar arası bildirişlər</item>
         <item>Ara bağlantı/Bildirişlər</item>
         <item>Cihazlar arası bildirişlər</item>

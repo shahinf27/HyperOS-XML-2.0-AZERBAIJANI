@@ -5,6 +5,15 @@
         <item>Tarazlı</item>
         <item>Sürətli</item>
     </string-array>
+	<string-array name="color_filter_type_name">
+        <item></item>
+        <item>Qırmızı</item>
+        <item>Sarı</item>
+        <item>Yaşıl</item>
+        <item>Mavi</item>
+        <item>Çəhrayı</item>
+        <item>Qara</item>
+    </string-array>
     <string-array name="editing_mode_entries_new">
         <item>Divar kağızı</item>
         <item>Effektlər</item>

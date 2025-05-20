@@ -17,11 +17,19 @@
     <string name="abc_shareactionprovider_share_with">Paylaş</string>
     <string name="abc_shareactionprovider_share_with_application">%s ilə paylaş</string>
     <string name="abc_toolbar_collapse_description">Yığcamlaşdır</string>
+    <string name="accessibility_sliding_button_state_description_off">Söndürüldü</string>
+    <string name="accessibility_sliding_button_state_description_on">İşə salındı</string>
+    <string name="accessibility_tab_state_description_unselect">Seçilmədi</string>
+    <string name="accessibility_tab_statedesc_unselect">Seçilmədi</string>
     <string name="actionbar_button_up_description">Geri</string>
     <string name="afternoon">Günortadan sonra</string>
     <string name="am">GƏ</string>
     <string name="app_name">Peycer Nöqtə Göstəricisinə baxın</string>
+    <string name="bottomsheet_action_collapse">Alt vərəqi yığcamlaşdır</string>
+    <string name="bottomsheet_action_expand">Alt vərəqi genişləndir</string>
     <string name="bottomsheet_action_expand_halfway">Yarıya qədər genişləndir</string>
+    <string name="bottomsheet_drag_handle_clicked">Tutacağa cüt toxunaraq sürüklə</string>
+    <string name="bottomsheet_drag_handle_content_description">Sürükləmə tutacağı</string>
     <string name="brvah_load_complete">Daha çoxunu yükləmək üçün toxunun</string>
     <string name="brvah_load_end">Daha çox məlumat yoxdur</string>
     <string name="brvah_load_failed">Yüklənmədi, yenidən sınamaq üçün toxunun</string>
@@ -33,13 +41,9 @@
     <string name="clearable_edittext_clear_description">Təmizlə</string>
     <string name="close">Bağla</string>
     <string name="copy">Kopyala</string>
-    <string name="date_picker_label_day"></string>
-    <string name="date_picker_label_month"></string>
-    <string name="date_picker_label_year"></string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
     <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="early_morning">Səhər</string>
-    <string name="empty"></string>
     <string name="eras_ad">B.E.</string>
     <string name="eras_bc">B.E.Ə.</string>
     <string name="error_icon_content_description">Xəta</string>
@@ -75,7 +79,13 @@
     <string name="material_timepicker_text_input_mode_description">Vaxtı daxil etmək üçün mətn giriş rejiminə keçin.</string>
     <string name="midnight">Gecə</string>
     <string name="miuix_access_state_desc">Seçildi</string>
+    <string name="miuix_accessibility_title">Başlıq</string>
     <string name="miuix_alphabet_indexer_name">İndeks çubuğu</string>
+    <string name="miuix_appcompat_accessibility_collapse_state">Yığcamlaşdırıldı</string>
+    <string name="miuix_appcompat_accessibility_expand_state">Genişləndirildi</string>
+    <string name="miuix_appcompat_accessibility_finish_edit_action_mode">Düzəliş rejimindən çıx</string>
+    <string name="miuix_appcompat_accessibility_new_message">Yeni bildiriş</string>
+    <string name="miuix_appcompat_accessibility_start_edit_action_mode">Düzəliş rejiminə daxil ol</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Heç birini seçmə</string>
     <string name="miuix_appcompat_action_mode_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_action_mode_title_empty">Elementləri seç</string>
@@ -91,8 +101,21 @@
     <string name="miuix_appcompat_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_select_all_description">Hamısını seç</string>
     <string name="miuix_appcompat_select_item">Elementləri seç</string>
+    <string name="miuix_appcompat_show_dialog_description">Açılan pəncərə</string>
+    <string name="miuix_bottom_sheet_accessibility_scroll_down_to_close">Bağlamaq üçün aşağı sürüşdür</string>
+    <string name="miuix_bottom_sheet_accessibility_scroll_down_to_half_screen">Yarım ekrana keçmək üçün aşağı sürüşdür</string>
+    <string name="miuix_bottom_sheet_accessibility_scroll_down_to_minimized">Kiçiltmək üçün aşağı sürüşdür</string>
+    <string name="miuix_bottom_sheet_accessibility_scroll_up_to_half_screen">Yarım ekrana keçmək üçün yuxarı sürüşdür</string>
+    <string name="miuix_bottom_sheet_accessibility_scroll_up_to_maximized">Böyütmək üçün yuxarı sürüşdür</string>
+    <string name="miuix_bottom_sheet_accessibility_state_half_screen">Yarım ekran</string>
+    <string name="miuix_bottom_sheet_accessibility_state_maximized">Böyüdüldü</string>
+    <string name="miuix_bottom_sheet_accessibility_state_minimized">Kiçildildi</string>
+    <string name="miuix_bottom_sheet_accessibility_switch_to_half_screen">Yarı ekrana keçildi</string>
+    <string name="miuix_bottom_sheet_accessibility_switch_to_maximized">Böyüdüldü</string>
+    <string name="miuix_bottom_sheet_accessibility_switch_to_minimized">Kiçildildi</string>
     <string name="miuix_indexer_collect">Kolleksiyalar</string>
-    <string name="miuix_indexer_selected">%s seçildi</string>
+    <string name="miuix_popup_window_default_title">Açılan pəncərə</string>
+    <string name="miuix_progressbar_loading">Bir saniyə…</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Təzələmək üçün aşağı çək</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Uğurla təzələndi</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Təzələnir…</string>
@@ -108,6 +131,9 @@
     <string name="miuix_search_history_default_title">Axtarış tarixçəsi</string>
     <string name="miuix_search_recommendation_default_title">Bunlarla maraqlana bilərsiniz</string>
     <string name="miuix_search_recommendation_item_del_des">Sil</string>
+    <string name="miuix_show_password">Parolu göstər</string>
+    <string name="miuix_stretchablewidget_collapsed">Yığcamlaşdırıldı</string>
+    <string name="miuix_stretchablewidget_expanded">Genişləndirildi</string>
     <string name="monday">Bazar ertəsi</string>
     <string name="monday_short">B.e.</string>
     <string name="monday_shortest">B.e.</string>
@@ -181,6 +207,7 @@
     <string name="night">Axşam</string>
     <string name="noon">Günorta</string>
     <string name="not_set">Ayarlanmadı</string>
+    <string name="pa_accessibility_action_click">%1$s, aktivləşdirmək üçün iki dəfə toxun</string>
     <string name="pa_accessibility_home_search">"Axtar, 
 başlamaq üçün cüt toxunun"</string>
     <string name="pa_accessibility_home_widget_drag">Element sürükləmə</string>
@@ -288,7 +315,7 @@ Detallara baxmaq üçün iki dəfə toxunun."</string>
     <string name="pa_comm_net_not_connected">网络未连接</string>
     <string name="pa_comm_open">开启</string>
     <string name="pa_comm_open_miai">\"%s\" - işə sal</string>
-    <string name="pa_comm_please_install_alipay">安装支付宝以使用“%s”</string>
+    <string name="pa_comm_please_install_alipay">\"%s\" istifadə edə bilmək üçün Alipay quraşdırın.</string>
     <string name="pa_comm_please_install_baidu">安装百度地图以查看“%s”</string>
     <string name="pa_comm_please_install_ding">安装钉钉以使用“%s”</string>
     <string name="pa_comm_please_install_ele">安装饿了么以使用“%s”</string>
@@ -299,7 +326,7 @@ Detallara baxmaq üçün iki dəfə toxunun."</string>
     <string name="pa_comm_please_install_meituan_takeout">安装美团外卖以使用“%s”</string>
     <string name="pa_comm_please_install_smarthome">安装米家以使用“%s”</string>
     <string name="pa_comm_please_install_starbucks">安装星巴克以使用“%s”</string>
-    <string name="pa_comm_please_install_wallet">Install Mi Wallet to be able to use %s.</string>
+    <string name="pa_comm_please_install_wallet">%s istifadə edə bilmək üçün Mi Wallet quraşdırın.</string>
     <string name="pa_comm_please_install_weather">安装天气APP，查看“%s”</string>
     <string name="pa_comm_please_install_wework">安装企业微信以使用“%s”</string>
     <string name="pa_comm_please_install_wx">安装微信以使用“%s”</string>
@@ -332,7 +359,7 @@ Detallara baxmaq üçün iki dəfə toxunun."</string>
     <string name="pa_cta_dialog_desc_location">Gediş-gəliş təkliflərini təqdim etmək üçün</string>
     <string name="pa_cta_dialog_desc_phone_state">IMEI əsasında cihazınızın kimliyini müəyyənləşdirmək üçün</string>
     <string name="pa_cta_dialog_desc_storage">Elementləri keşləmək üçün</string>
-	<string formatted="false" name="pa_date_format_month_day">%s月 %s日</string>
+    <string formatted="false" name="pa_date_format_month_day">%s月 %s日</string>
     <string name="pa_day_date">dd:MM</string>
     <string name="pa_device_info_inch">Düym</string>
     <string name="pa_disclaimer_content">Bu özəllik %1$s tərəfindən təqdim edilir. %1$s, göstərdiyi xidmətlərlə bağlı bütün məsuliyyəti daşıyır. Hər hansısa sualınız varsa, %1$s ilə əlaqə saxlaya bilərsiniz.</string>
@@ -390,11 +417,13 @@ Həmçinin kuryer xidmətlərinin rəsmi veb saytlarında sürətli çatdırılm
     <string name="pa_express_phone_binding_title">Telefon nömrəsi əlavə et</string>
     <string name="pa_express_provider_banner">%s tərəfindən təmin edilir</string>
     <string name="pa_express_provider_jitu">极兔快递</string>
+    <string name="pa_express_query_des">查件</string>
     <string name="pa_express_query_fail_content_input_again">"Sürətli çatdırılmanız haqqında məlumat tapıla bilmədi. İzləmə nnömrənizi yoxlayıb yenidən sınayın."</string>
     <string name="pa_express_query_fail_content_manual_select">"Sürətli çatdırılmanız haqqında məlumat tapıla bilmədi. Bunun əvəzinə əllə çatdırılma şirkətini seçməyə çalışın."</string>
     <string name="pa_express_query_fail_title">"Məlumat alına bilmədi"</string>
     <string name="pa_express_query_history">Sifariş tarixçəsi</string>
     <string name="pa_express_send">Göndər</string>
+    <string name="pa_express_send_des">寄件</string>
     <string name="pa_express_setting">Sürətli çatdırılma ayarları</string>
     <string name="pa_express_setting_authorized_number_limit">Ən çox 4 telefon nömrəsi əlavə edə bilərsiniz</string>
     <string name="pa_express_setting_dialog_delete_failed">"Telefon nömrəsi silinə bilmədi"</string>
@@ -504,6 +533,7 @@ Həmçinin kuryer xidmətlərinin rəsmi veb saytlarında sürətli çatdırılm
     <string name="pa_feature_recomm_life_item_iot_title">Ağıllı ev</string>
     <string name="pa_feature_recomm_life_item_movie_reminder_desc">Filmlər başlamazdan əvvəl xatırlatma alın</string>
     <string name="pa_feature_recomm_life_item_movie_reminder_title">Film xatırlatmaları</string>
+    <string name="pa_feature_recomm_life_item_power_bank_desc">Batareya zəif olduqda yaxınlıqdakı power banklar barədə məlumat al</string>
     <string name="pa_feature_recomm_life_item_quick_scan_desc">QR kodlarını dərhal skan et</string>
     <string name="pa_feature_recomm_life_item_quick_scan_title">Cəld skan</string>
     <string name="pa_feature_recomm_life_item_takeout_desc">Qidaları vərdişlərinizə görə sifariş etmək üçün xatırlatma alın</string>
@@ -642,11 +672,11 @@ Həmçinin kuryer xidmətlərinin rəsmi veb saytlarında sürətli çatdırılm
     <string name="pa_page_medicine_action_uses_infos_subtitle">Dərman məlumatlarına düzəliş et və qeyd et</string>
     <string name="pa_page_medicine_action_uses_infos_title">Düzəliş et</string>
     <string name="pa_page_medicine_title">Dərman xatırlatmaları</string>
-	<string name="pa_page_menstruation_action_uses_infos_subtitle">Mi Fitness-də düzəliş et</string>
+    <string name="pa_page_menstruation_action_uses_infos_subtitle">Mi Fitness-də düzəliş et</string>
     <string name="pa_page_menstruation_action_uses_infos_title">Dövr məlumatlarına düzəliş et</string>
     <string name="pa_page_menstruation_title">Dövrlər</string>
     <string name="pa_page_metro_code_app_select_default_config">Mi AI-ın sizin üçün ən yaxşı tətbiqi seçməsinə icazə verin</string>
-	<string name="pa_page_metro_code_app_select_more">Bu cihazda daha çox tətbiq</string>
+    <string name="pa_page_metro_code_app_select_more">Bu cihazda daha çox tətbiq</string>
     <string name="pa_page_metro_code_app_select_other">Digər tətbiqlər</string>
     <string name="pa_page_metro_code_app_select_text">Tətbiq seçin</string>
     <string name="pa_page_metro_code_app_select_title">Tətbiq seçin</string>
@@ -1021,6 +1051,7 @@ Başlamaq üçün vicetləri əlavə edin."</string>
     <string name="pa_travel_accessibility_heavy_snow">Güclü qar</string>
     <string name="pa_travel_accessibility_light_rain">Yüngül yağış</string>
     <string name="pa_travel_accessibility_light_snow">Zəif qar</string>
+    <string name="pa_travel_accessibility_manual_item_edit_button">Düzəliş et</string>
     <string name="pa_travel_accessibility_moderate_rain">Mülayim yağış</string>
     <string name="pa_travel_accessibility_moderate_snow">Mülayim qar</string>
     <string name="pa_travel_accessibility_open_detail_page">Marşrut detalları səhifəsinə keçmək üçün cüt toxun</string>
@@ -1029,6 +1060,7 @@ Başlamaq üçün vicetləri əlavə edin."</string>
     <string name="pa_travel_accessibility_sandstorm">Qum fırtınası</string>
     <string name="pa_travel_accessibility_select_station">Təyinat nöqtəsini seçmək üçün cüt toxun</string>
     <string name="pa_travel_accessibility_sleet">Sulu qar</string>
+    <string name="pa_travel_accessibility_temperature_to">到</string>
     <string name="pa_travel_accessibility_thunderstorm">Fırtına</string>
     <string name="pa_travel_accessibility_train">Qatar</string>
     <string name="pa_travel_accessibility_unknown">Müəyyən edilməlidir</string>
@@ -1039,12 +1071,8 @@ Başlamaq üçün vicetləri əlavə edin."</string>
     <string name="pa_travel_bind_account_positive">Cütləşdir</string>
     <string name="pa_travel_bind_account_tip">Qatar və uçuşlarınızla bağlı güncəlləmələri vaxtında almaq üçün üçüncü tərəf xidmət hesablarını cütləşdirin</string>
     <string name="pa_travel_card_label">Növbəti səfər</string>
-	<string name="pa_travel_content_description_assistant_agree_permission">双击同意授予%1$s定位权限</string>
-    <string name="pa_travel_content_description_assistant_all_travel">Növbəti otuz günün marşrutuna baxmaq üçün cüt toxunun</string>
-    <string name="pa_travel_content_description_assistant_cp_bind">Səlahiyyətli üçüncü tərəf xidmət hesabını qoşmaq üçün cüt toxunun</string>
+    <string name="pa_travel_content_description_assistant_agree_permission">双击同意授予%1$s定位权限</string>
     <string name="pa_travel_content_description_assistant_refuse_permission">双击撤回同意%1$s定位权限，撤回后火车行程刷新可能不及时</string>
-    <string name="pa_travel_content_description_assistant_reminder_close">Cüt toxunun</string>
-    <string name="pa_travel_content_description_assistant_reminder_open">Səfər xatırladıcısını açmaq üçün cüt toxunun</string>
     <string name="pa_travel_content_description_cp_bind_crgt_bind">未绑定国铁吉迅，双击绑定国铁吉迅</string>
     <string name="pa_travel_content_description_cp_bind_crgt_unbind">已绑定国铁吉迅，双击解绑国铁吉迅</string>
     <string name="pa_travel_content_description_cp_bind_querying">Qoşma statusu hələ əldə olunmayıb, daha sonra yenidən sınayın</string>
@@ -1060,13 +1088,14 @@ Başlamaq üçün vicetləri əlavə edin."</string>
     <string formatted="false" name="pa_travel_content_description_list_card_crossed_flight_info">%s %s，航班%s，%s从%s起飞，%s天后%s到达%s，%s</string>
     <string formatted="false" name="pa_travel_content_description_list_card_crossed_train_info">%s %s，列车%s，%s从%s出发，%s天后%s到达%s，%s</string>
     <string name="pa_travel_content_description_list_card_flag_action_bound">双击跳转行程详情页，长按选中可删除该行程</string>
+    <string name="pa_travel_content_description_list_card_flag_action_manual">长按选中可删除该行程</string>
     <string name="pa_travel_content_description_list_card_flag_action_unbind">双击跳转%s账户授权页，长按选中可删除该行程</string>
     <string name="pa_travel_content_description_list_card_flag_flight">Uçuş</string>
     <string name="pa_travel_content_description_list_card_flag_train">Qatar</string>
     <string formatted="false" name="pa_travel_content_description_list_card_flight_info">%s %s，航班%s，%s从%s起飞，%s到达%s，%s</string>
     <string name="pa_travel_content_description_list_card_select_arrival_station">Təyinat nöqtəsini seçmək üçün cüt toxun</string>
     <string name="pa_travel_content_description_list_card_station_selected">%s seçmək üçün cüt toxunun</string>
-    <string formatted="false" name="pa_travel_content_description_list_card_train_info">%s %s，列车%s，%s从%s出发，%s到达%s，双击跳转行程详情页，%s</string>
+    <string formatted="false" name="pa_travel_content_description_list_card_train_info">%s %s，列车%s，%s从%s出发，%s到达%s，%s</string>
     <string formatted="false" name="pa_travel_content_description_list_card_train_info_no_arrival_station">%s %s，列车%s，%s从%s出发，%s</string>
     <string formatted="false" name="pa_travel_content_description_list_card_unchecked">Səyahət planı seçilmədi %s%s</string>
     <string name="pa_travel_content_description_list_delete_dialog_button_cancel">Silməni ləğv etmək üçün cüt toxunun.</string>
@@ -1094,7 +1123,7 @@ Başlamaq üçün vicetləri əlavə edin."</string>
     <string name="pa_travel_flight_status_check_in_not_open">Giriş açıq deyil</string>
     <string name="pa_travel_flight_status_go_for_check_in">Giriş</string>
     <string name="pa_travel_flight_status_itinerary_statistics">Səfər statistikaları</string>
-	<string name="pa_travel_flight_status_position_map">舱位图</string>
+    <string name="pa_travel_flight_status_position_map">舱位图</string>
     <string name="pa_travel_flight_tip_cancel">Uçuş ləğv edilib. Yeni bir səfər planı qurun.</string>
     <string name="pa_travel_flight_tip_delay">Uçuş gecikir. Hava limanına planlanan vaxtda gedə bilərsiniz.</string>
     <string name="pa_travel_flight_unauthorized_tip">Uçuş vəziyyəti güncəlləmələrini vaxtında almaq üçün bir xidmət hesabını cütləşdir</string>
@@ -1109,13 +1138,59 @@ Başlamaq üçün vicetləri əlavə edin."</string>
     <string name="pa_travel_gtauth_privacy_policy">\"Gizlilik Siyasəti\"</string>
     <string name="pa_travel_gtauth_privacy_prefix">Oxuyub razılaşdım</string>
     <string name="pa_travel_gtauth_privacy_protocol">\"İstifadəçi Xidmətləri Razılaşması\"</string>
+    <string name="pa_travel_item_source_manual">Əllə əlavə edildi</string>
     <string name="pa_travel_item_source_prefix">Mənbə:</string>
     <string name="pa_travel_list_empty_title">Son %d gündə səfər yoxdur</string>
     <string name="pa_travel_list_error_title">"Şəbəkəyə bağlana bilmədi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın."</string>
+    <string name="pa_travel_manual_accessibility_flight_schedule">%1$s - %2$s</string>
+    <string name="pa_travel_manual_accessibility_flight_sheet_title">Mənbə və hədəf</string>
+    <string name="pa_travel_manual_airport_sheet_title">Mənbə və hədəf</string>
+    <string name="pa_travel_manual_dialog_verify">Doğrulanır…</string>
+    <string name="pa_travel_manual_group_name_optional">İxtiyari</string>
+    <string name="pa_travel_manual_group_name_required">Tələb edilən</string>
+    <string name="pa_travel_manual_record_hint_arrival_airport">Məs. Melbourne hava limanı</string>
+    <string name="pa_travel_manual_record_hint_arrival_station">Məs. Wellington</string>
+    <string name="pa_travel_manual_record_hint_dept_airport">Məs. Sidney hava limanı</string>
+    <string name="pa_travel_manual_record_hint_dept_station">Məs. Auckland</string>
+    <string name="pa_travel_manual_record_hint_flight_no">Məs. CA8686</string>
+    <string name="pa_travel_manual_record_hint_flight_seat">Məs. 11K</string>
+    <string name="pa_travel_manual_record_hint_train_no">Məs. C8585</string>
+    <string name="pa_travel_manual_record_hint_train_seat">Məs. Avtomobil 9 oturacaq 01A</string>
+    <string name="pa_travel_manual_record_label_arrival_airport">Gəliş hava limanı</string>
+    <string name="pa_travel_manual_record_label_arrival_date">Gəliş tarixi</string>
+    <string name="pa_travel_manual_record_label_arrival_station">Gəliş stansiyası</string>
+    <string name="pa_travel_manual_record_label_arrival_time">Gəliş vaxtı</string>
+    <string name="pa_travel_manual_record_label_dept_airport">Gediş hava limanı</string>
+    <string name="pa_travel_manual_record_label_dept_date">Gediş tarixi</string>
+    <string name="pa_travel_manual_record_label_dept_station">Gediş stansiyası</string>
+    <string name="pa_travel_manual_record_label_dept_time">Gediş vaxtı</string>
+    <string name="pa_travel_manual_record_label_flight_no">Uçuş</string>
+    <string name="pa_travel_manual_record_label_seat">Oturacaq</string>
+    <string name="pa_travel_manual_record_label_train_no">Qatar</string>
+    <string name="pa_travel_manual_toast_acquire_travel_info_failed">"Data alına bilmədi. Məlumatları yenidən daxil edin."</string>
+    <string name="pa_travel_manual_toast_check_dept_date">Müddəti %1$d gündən çox olan gələcək səfərlər üçün məlumatlar, gedişdən %2$d əvvəl avtomatik olaraq nümayiş olunacaq</string>
+    <string name="pa_travel_manual_toast_check_required_arr_airport">Əvvəlcə gəliş hava limanını doldurun</string>
+    <string name="pa_travel_manual_toast_check_required_arr_date">Əvvəlcə gəliş tarixini doldurun</string>
+    <string name="pa_travel_manual_toast_check_required_arr_stationt">Əvvəlcə gəliş stansiyasını doldurun</string>
+    <string name="pa_travel_manual_toast_check_required_arr_time">Əvvəlcə gəliş vaxtını doldurun</string>
+    <string name="pa_travel_manual_toast_check_required_dept_airport">Əvvəlcə gediş hava limanını doldurun</string>
+    <string name="pa_travel_manual_toast_check_required_dept_date">Əvvəlcə gediş tarixini doldurun</string>
+    <string name="pa_travel_manual_toast_check_required_dept_stationt">Əvvəlcə gediş stansiyasını doldurun</string>
+    <string name="pa_travel_manual_toast_check_required_dept_time">Əvvəlcə gediş vaxtını doldurun</string>
+    <string name="pa_travel_manual_toast_check_required_flight_no">Əvvəlcə uçuş nömrəsini doldurun</string>
+    <string name="pa_travel_manual_toast_check_required_train_no">Əvvəlcə qatar nömrəsini doldurun</string>
+    <string name="pa_travel_manual_toast_check_time">"Gəliş vaxtı, gediş vaxtından tez ola bilməz"</string>
+    <string name="pa_travel_manual_toast_save_failed_expired">Bu səfərin vaxtı artıq keçib. Məlumatı yoxlayıb yenidən sınayın.</string>
+    <string name="pa_travel_manual_toast_select_dept_station_first">Əvvəlcə gediş stansiyasını seçin</string>
+    <string name="pa_travel_manual_toast_trip_stopped">Bu marşrut artıq mövcud deyil. Başqasını seçin.</string>
+    <string name="pa_travel_manual_verify_fault">"Məlumat alına bilmədi. Yenidən sınayın."</string>
+    <string name="pa_travel_manual_verify_flight_canceled">Bu uçuş ləğv edilib. Məlumatları yoxlayıb yenidən sınayın.</string>
+    <string name="pa_travel_manual_verify_flight_not_found">"Bu uçuş tapıla bilmir. Əllə daxil etməyə çalışın."</string>
+    <string name="pa_travel_manual_verify_train_canceled">Bu qatar ləğv edilib. Məlumatları yoxlayıb yenidən sınayın.</string>
+    <string name="pa_travel_manual_verify_train_not_found">"Bu qatar tapıla bilmir. Əllə daxil etməyə çalışın."</string>
     <string name="pa_travel_maritime_rescue">Dəniz xilasetmə</string>
     <string name="pa_travel_near_accessibility_all_trip">查看全部行程</string>
     <string formatted="false" name="pa_travel_near_travel_info_bottom">%s %s出发</string>
-    <string formatted="false" name="pa_travel_near_travel_info_top">%s | %s</string>
     <string name="pa_travel_near_travel_tip">Növbəti %d saat</string>
     <string name="pa_travel_notification_action_boarding_pass">Minmə bileti</string>
     <string name="pa_travel_notification_action_go_check_in">Giriş</string>
@@ -1138,14 +1213,14 @@ Başlamaq üçün vicetləri əlavə edin."</string>
     <string name="pa_travel_notification_status_boarded">Minmə</string>
     <string name="pa_travel_notification_status_checked_in">Giriş edildi</string>
     <string name="pa_travel_notification_status_end_board">Minmə başa çatır</string>
-	<string name="pa_travel_notification_status_near_departure">临近起飞</string>
+    <string name="pa_travel_notification_status_near_departure">临近起飞</string>
     <string name="pa_travel_notification_status_not_check_in">Giriş edilməyib</string>
     <string name="pa_travel_notification_status_push_board">Son çağırış</string>
     <string name="pa_travel_notification_status_security_checked">Başa çatmış təhlükəsizlik</string>
     <string name="pa_travel_notification_status_start_board">Minmə</string>
     <string name="pa_travel_notification_status_train_arrived">Çatıb</string>
     <string name="pa_travel_notification_status_train_checking_in">Minmə</string>
-	<string name="pa_travel_notification_status_train_near_departure">临近发车</string>
+    <string name="pa_travel_notification_status_train_near_departure">临近发车</string>
     <string name="pa_travel_notification_status_train_stop_check_in">Minmə başa çatdı</string>
     <string name="pa_travel_notification_status_train_wait_check_in">Gözləyir</string>
     <string name="pa_travel_notification_ticket_gate_name">Keçid</string>
@@ -1160,8 +1235,15 @@ Başlamaq üçün vicetləri əlavə edin."</string>
     <string name="pa_travel_preference_title_reminder">Səfər xatırlatma</string>
     <string name="pa_travel_select_arrival_station">Hədəf seç</string>
     <string name="pa_travel_select_help_phone_dialing">Fövqəladə hal xidmətinə zəng edin</string>
+    <string name="pa_travel_select_trip_way_flight">Uçuş</string>
+    <string name="pa_travel_select_trip_way_title">Daşınma</string>
+    <string name="pa_travel_select_trip_way_train">Qatar</string>
     <string name="pa_travel_time_unit_hour">Saat</string>
     <string name="pa_travel_time_unit_minute">Dəqiqə</string>
+    <string name="pa_travel_title_manual_add_flight_trip">Uçuş əlavə et</string>
+    <string name="pa_travel_title_manual_add_train_trip">Qatar səfəri əlavə et</string>
+    <string name="pa_travel_title_manual_modify_flight_trip">Uçuşa düzəliş et</string>
+    <string name="pa_travel_title_manual_modify_train_trip">Qatar səfərinə düzəliş et</string>
     <string name="pa_travel_title_travel">出行;出行助手;行程;行程助手</string>
     <string name="pa_travel_title_travel_agree_permission">Yerləşmə icazələrini ver</string>
     <string name="pa_travel_title_travel_agree_permission_message">"Siz qatar stansiyası yerlərə daxil olduğunuz zaman və marşrutunuzun yenilənməsinə kömək etməsi üçün Tətbiq seyfinin %1$s vasitəsilə yerləşmənizə müraciət etməsinə icazə verin."</string>
@@ -1354,7 +1436,7 @@ Başlamaq üçün vicetləri əlavə edin."</string>
     <string name="pa_widget_particular_schedule_card_title">日程-上下班提醒</string>
     <string name="pa_widget_pay_ali_description">Alipay ödəniş kodu</string>
     <string name="pa_widget_pay_wx_description">WeChat ödəniş kodu</string>
-	<string name="pa_widget_privacy_update_authorize">去授权</string>
+    <string name="pa_widget_privacy_update_authorize">去授权</string>
     <string name="pa_widget_privacy_update_title">隐私更新</string>
     <string name="pa_widget_qr_code_description">QR kodu</string>
     <string name="pa_widget_restrict_driving_card_title">限行提醒</string>
@@ -1442,6 +1524,7 @@ Başlamaq üçün vicetləri əlavə edin."</string>
     <string name="sunday">Bazar</string>
     <string name="sunday_short">Baz</string>
     <string name="sunday_shortest">Baz</string>
+    <string name="text_input_layout_default_error">Bu, ilkin xətadır</string>
     <string name="the_anniversary_of_lifting_martial_law">Hərbi Vəziyyətin Qaldırılma İldönümü</string>
     <string name="the_anti_aggression_day">Təcavüzlə Mübarizə Günü</string>
     <string name="the_arbor_day">Ağacəkmə Günü</string>

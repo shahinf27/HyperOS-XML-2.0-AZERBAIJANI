@@ -126,6 +126,7 @@
     <string name="friday">Cümə</string>
     <string name="friday_short">Cüm</string>
     <string name="friday_shortest">Cüm</string>
+	<string name="full_window">Maksimallaşdır</string>
     <string name="fund_loan">Fond krediti</string>
     <string name="further_education">Əlavə təhsil</string>
     <string name="get_loaction_permission_title">Yerləşməyə müraciət</string>

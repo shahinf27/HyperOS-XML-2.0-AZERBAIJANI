@@ -389,7 +389,6 @@
     <string name="app_manager_airtel_dlg_msg">Sualınız varsa, Airtel ilə əlaqə saxlayın</string>
     <string name="app_manager_airtel_dlg_title">Airtel tərəfindən əngəlləndi</string>
     <string name="app_manager_allow">Bəli</string>
-    <string name="app_manager_anomaly_analysis">Üçüncü tərəf tətbiq problemlərini təhlil edin</string>
     <string name="app_manager_app_ifno_version">Tətbiq versiyası</string>
     <string name="app_manager_app_info_label">Tətbiq məlumatı</string>
     <string name="app_manager_app_info_name">Tətbiq adı</string>
@@ -445,6 +444,7 @@
     <string name="app_manager_force_stop_dlg_title">Məcburi dayandırılsın?</string>
     <string name="app_manager_full_screen_summary">Seçilmiş tətbiqlərin tam ekran rejimində işləməsinə icazə ver</string>
     <string name="app_manager_full_screen_title">Tam ekran rejimi</string>
+	<string name="app_manager_global_recommend_title">Sizin üçün</string>
     <string name="app_manager_globel_other_perm_title">Digər icazələr</string>
     <string name="app_manager_globel_perm_summary">Yerləşmə, telefon, mesajlar və kontaktlarla əlaqəli icazələri idarə et.</string>
     <string name="app_manager_globel_perm_title">Tətbiq icazələri</string>
@@ -1130,6 +1130,7 @@ Yenə də, bəzi əməliyyatlarınız hələ tamamlanmayıb. Razılığı geri g
     <string name="button_text_trust">Bu şəbəkəyə güvən</string>
     <string name="button_text_update_now">Güncəllə</string>
     <string name="button_to_setting">Ayarlar</string>
+	<string name="button_toll_correction">Balansı kalibrlə</string>
     <string name="call_address">Ərazi əngəllləmə siyahısı</string>
 	<string name="call_all_number_block">Bütün zəngləri əngəllə</string>
     <string name="call_and_contact">Zənglər və Kontaktlar</string>
@@ -1229,7 +1230,8 @@ Yenə də, bəzi əməliyyatlarınız hələ tamamlanmayıb. Razılığı geri g
     <string name="charging_text_battery_full_time">"Son doldurma "</string>
     <string name="charging_text_battery_nearly_full">Demək olar ki, tam dolub</string>
     <string name="charging_text_battery_perfect">Tam dolub</string>
-    <string name="chip_text">Çip mətni</string>
+    <string name="check_bill_balance">Balansı yoxla</string>
+	<string name="chip_text">Çip mətni</string>
     <string name="choose">Seç</string>
     <string name="choose_gs_show_way">Əsas səhifə istiqamətini seçin</string>
     <string name="clean_immediately">Təmizlə</string>
@@ -2117,7 +2119,8 @@ könüllüsü"</string>
     <string name="fixed_cellular_data_quota_monthly">Aylıq internet limiti</string>
     <string name="fixed_package_tips">Limitə çatdıqdan sonra əlavə ödənişlər tutulacaq</string>
     <string name="fixed_traffic_quota">İnternet limiti (məcburi)</string>
-    <string name="float_window_tips">Xiaomi telefonları sürətlidir!</string>
+    <string name="fixed_traffic_quota_offline">İnternet limiti (tələb olunur)</string>
+	<string name="float_window_tips">Xiaomi telefonları sürətlidir!</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
     <string name="fmt_date_numeric_month_day">d-M</string>
@@ -2235,7 +2238,9 @@ könüllüsü"</string>
     <string name="game_toolbox_ai_upgrade_dialog_btn">Güncəllə</string>
     <string name="game_toolbox_ai_upgrade_dialog_desc">Süni zəka oyun xidmətləri üçün bir güncəlləmə mövcuddur. Əlaqəli özəllikləri istifadə etməzdən əvvəl güncəlləyin.</string>
     <string name="game_toolbox_ai_upgrade_dialog_title">Güncəlləmələri yoxla</string>
-    <string name="game_toolbox_cellular_network">Mobil şəbəkə sürətini artırma</string>
+    <string name="game_toolbox_auto_brightness_talkback">Avto-parlaqlıq</string>
+    <string name="game_toolbox_btn_back_talkback">Geri</string>
+	<string name="game_toolbox_cellular_network">Mobil şəbəkə sürətini artırma</string>
     <string name="game_toolbox_display_avrs_desc">Görüntü keyfiyyətini bir az azaltmaq və enerji sərfiyyatını əhəmiyyətli dərəcədə azaltmaq üçün işə salın</string>
     <string name="game_toolbox_display_enhance_view_frc_notice">"Qeyd:
 Ağıllı kadr sürəti açıq olduqda, oyundaxili və üçüncü tərəf kadr sürəti aşkarlama alətləri, kadr sürətini düzgün aşkarlamaya bilər. Həqiqi kadr sürəti üçün performans idarəetmə lövhəsinə baxın."</string>
@@ -2255,7 +2260,19 @@ Ağıllı kadr sürəti açıq olduqda, oyundaxili və üçüncü tərəf kadr s
     <string name="game_toolbox_performance_config_frc_notice_new">Kadr sürəti prioriteti, kadr sürətini Ağıllı kadr sürəti ilə artırır. &lt;font color=%s&gt;Həqiqi kadr sürəti, performans idarəetmə lövhəsində nümayiş olunur.&lt;/font&gt;</string>
     <string name="game_toolbox_performance_config_resolution_notice">Görüntü prioriteti açıq olduqda, həqiqi kadr sürəti, performans idarəetmə lövhəsində nümayiş olunur</string>
     <string name="game_toolbox_performance_config_resolution_notice_new">Görüntü prioriteti, görüntü keyfiyyətini Super dəqiqlik ilə artırır və kadr sürətini Ağıllı kadr sürəti ilə idarə edir. &lt;font color=%s&gt;Həqiqi kadr sürəti, performans idarəetmə lövhəsində nümayiş olunur.&lt;/font&gt;</string>
-    <string name="game_toolbox_super_follow_up_msg">Tam avadanlıq-proqram təminatı xətti vasitəsilə toxunuş reaksiyasını və izləməni təkmilləşdir</string>
+    <string name="game_toolbox_screen_brightness_talkback">Ekran parlaqlığı</string>
+    <string name="game_toolbox_settings_talkback">Ayarlar</string>
+    <string name="game_toolbox_slow_charge_desc">Doldurma sürətini yavaşlatmaqla doldurarkən oyun təcrübəsini artırmaq üçün bu özəlliyi işə salın. Bu, cihazın aşırı isinməsini önləyə bilər. İndi işə salınsın?</string>
+    <string name="game_toolbox_slow_charge_dialog_btn">Anladım</string>
+    <string name="game_toolbox_slow_charge_negative_btn">İmtina</string>
+    <string name="game_toolbox_slow_charge_notification_msg">Bu özəllik, doldurma sürətini yavaşladaraq doldurma zamanı oyun təcrübəsini artırır. Bu, cihazın aşırı isinməsini önləyə bilər.</string>
+    <string name="game_toolbox_slow_charge_notification_title">Yavaş doldurma davam edir</string>
+    <string name="game_toolbox_slow_charge_positive_btn">İşə sal</string>
+    <string name="game_toolbox_slow_charge_title">Yavaş dolur</string>
+    <string name="game_toolbox_slow_charge_toast">Yavaş doldurma açıqdır</string>
+    <string name="game_toolbox_smotion_vibrate_desc">Add haptic feedback in accordance with game moves. Only some games are supported.</string>
+    <string name="game_toolbox_smotion_vibrate_title">Toxunuş əks-əlaqəsi</string>
+	<string name="game_toolbox_super_follow_up_msg">Tam avadanlıq-proqram təminatı xətti vasitəsilə toxunuş reaksiyasını və izləməni təkmilləşdir</string>
     <string name="game_toolbox_super_shake_msg">Toxunma və sürüşdürmə titrəməsini azalt, kontrol stabilliyini artır</string>
     <string name="game_toolbox_title">Oyun alətləri</string>
     <string name="game_toolbox_title_game_center">Oyunlar</string>
@@ -2430,9 +2447,15 @@ Ağıllı kadr sürəti açıq olduqda, oyundaxili və üçüncü tərəf kadr s
     <string name="gb_beauty_nature_light">Təbii</string>
     <string name="gb_beauty_warm_light">İsti</string>
     <string name="gb_collimator_color">Rəng</string>
-    <string name="gb_collimator_size">Ölçü</string>
+    <string name="gb_collimator_color_blue_talkback">Mavi</string>
+    <string name="gb_collimator_color_purple_talkback">Çəhrayı</string>
+    <string name="gb_collimator_color_red_talkback">Qırmızı</string>
+    <string name="gb_collimator_color_white_talkback">Ağ</string>
+    <string name="gb_collimator_color_yellow_talkback">Sarı</string>
+	<string name="gb_collimator_size">Ölçü</string>
     <string name="gb_collimator_style">Növ</string>
-    <string name="gb_collimator_toast">Görmə qabiliyyəti, nişan almağı daha rahat edir</string>
+    <string name="gb_collimator_style_talkback">Üslub %1$d</string>
+	<string name="gb_collimator_toast">Bir nişangah, nişan almağı daha rahat edir</string>
     <string name="gb_cooler_device_toast">"Xiaomi Gaming Cooler tərəfindən
 təkmilləşdirilmiş vizual təcrübə"</string>
     <string name="gb_create_icon_summary">Əsas ekran qısayolu yarat</string>
@@ -3117,7 +3140,8 @@ Mobil internet bağlantısını yenidən istifadə etsəniz, operatorunuz sizdə
     <string name="main_activity_content_summary_update">Sistem güncəlləməsi</string>
     <string name="main_alert_message_no_imsi">SIM kart aşkarlanmadı</string>
     <string name="main_alert_message_open_traffic_ctrl">İnternet istifadəsini məhdudlaşdırmağı tövsiyə edirik</string>
-    <string name="main_bill_remained">Telefon balansı</string>
+    string name="main_balance_check">Balansı yoxla</string>
+	<string name="main_bill_remained">Telefon balansı</string>
     <string name="main_button_mi_sim_close">Mi SIM-i aktivləşdir</string>
     <string name="main_button_mi_sim_open">Detallara bax</string>
     <string name="main_button_usage_adjust">Mobil internet istifadəsini sinxronlaşdır</string>
@@ -3131,7 +3155,8 @@ Mobil internet bağlantısını yenidən istifadə etsəniz, operatorunuz sizdə
     <string name="main_daily_card_guide_dialog_title">İnternet planı növünü ayarla</string>
     <string name="main_daily_card_guide_dialog_title_new">İnternet planı növünü ayarla</string>
     <string name="main_daily_package">Gündəlik internet planı</string>
-    <string name="main_indicator_title">Aktivləşdirmə</string>
+    <string name="main_declaration_dialog_msg">"Bu özəllikdə göstərilən balans dəyəri, operatorunuzla danışıqlar apararkən sübut olaraq istifadə edilə bilməz. Operatorunuz tərəfindən təqdim edilən mobil internet və danışıq istifadə statistikaları üstünlük təşkil edir."</string>
+	<string name="main_indicator_title">Aktivləşdirmə</string>
     <string name="main_leisure_remained">Qalan qeyri-pik internet</string>
     <string name="main_month_total_used">Bu ay istfdə edilən</string>
     <string name="main_month_used">İnternet planı</string>
@@ -3697,7 +3722,8 @@ Ruterinizi bağlamaq üçün başqa bir Ethernet kabeli istifadə etməyə çal�
     <string name="notify_weekly_traffic_body">İnternet iistifadəsini avtomatik limitləmək üçün, aylıq internet planınızı quraşdırın.</string>
     <string name="notify_weekly_traffic_title">Bu həftə %s istifadə edildi</string>
     <string name="notify_weekly_traffic_title_for_slotnum">%1$s bu həftə %2$s istifadə etdi</string>
-    <string name="number_address">Yerləşmə</string>
+    <string name="now_inquiry">Detallar</string>
+	<string name="number_address">Yerləşmə</string>
     <string name="number_of_lucky_money">Qırmızı zərflərin ümumi sayı sizə xatırladıldı</string>
     <string name="numeric_need_to_confirm">Təsdiqləmək üçün yenidən daxil edin</string>
     <string name="numeric_password_confirmed_header_confirm">Uğurla ayarlandı. Təsdiqləmək üçün toxunun.</string>
@@ -3919,7 +3945,11 @@ Ruterinizi bağlamaq üçün başqa bir Ethernet kabeli istifadə etməyə çal�
     <string name="pc_continuity_open_save_mode_notifi_title">%s batareya aşağıdır</string>
     <string name="pc_current_power_mode">Hazırkı rejim</string>
     <string name="pc_cycle_count_protect_title">Dövr</string>
-    <string name="pc_emergency_call">Fövqəladə hal</string>
+    <string name="pc_dialog_dual_type_c_port_reminder_btn">Anladım</string>
+    <string name="pc_dialog_dual_type_c_port_reminder_checkbox">"Təkrar göstərmə"</string>
+    <string name="pc_dialog_dual_type_c_port_reminder_message">"Cihazın qısa tərəfindəki Type-C portu data transferini dəstəkləmir. Kompüterə digər portla bağlanın."</string>
+    <string name="pc_dialog_dual_type_c_port_reminder_title">Doldurma xatırladıcısı</string>
+	<string name="pc_emergency_call">Fövqəladə hal</string>
     <string name="pc_endurance_calculation">Hesablanır…</string>
     <string name="pc_entered_extreme_mode">Yuxu rejimi açıqdır</string>
     <string name="pc_entered_extreme_mode_summary">"Cihazınız batareyası tükəndiyi üçün Yuxu rejiminə keçib. Tətbiqlər arxaplanda işləyəcək, bildirişlər göndərilməyəcək."</string>
@@ -4346,7 +4376,11 @@ söndürülür"</string>
     <string name="phone_manage_app_manager_summary">Cihazınızdakı tətbiqləri idarə edin</string>
     <string name="phone_manage_clean_summary">Anbar sahəsini boşalt</string>
     <string name="phone_manage_clean_title">Təmizləyici</string>
-    <string name="phone_manage_electric_summary">Batareya qənaəti üçün cihazınızı optimallaşdırın</string>
+    <string name="phone_manage_content_description_add">Əlavə et</string>
+    <string name="phone_manage_content_description_remove">Çıxart</string>
+    <string name="phone_manage_edit_cancel">İmtina</string>
+    <string name="phone_manage_edit_confirm">Dəyişiklikləri saxla</string>
+	<string name="phone_manage_electric_summary">Batareya qənaəti üçün cihazınızı optimallaşdırın</string>
     <string name="phone_manage_electric_title">Batareya</string>
     <string name="phone_manage_privacy_title">Gizlilik qoruması</string>
     <string name="phone_manage_recent_use">Son istifadə edilən</string>
@@ -4528,7 +4562,7 @@ söndürülür"</string>
     <string name="power_consume_other">Digər</string>
     <string name="power_consume_rank_hardware">Avadanlıq</string>
     <string name="power_consume_rank_software">Tətbiqlər</string>
-    <string name="power_consume_rank_title">Enerji istifadəsi</string>
+    <string name="power_consume_rank_title">Batareya istifadə detalları</string>
     <string name="power_consume_software_total_format">Tətbiqlər: %s</string>
     <string name="power_customize_giveup_change">Dəyişikliklər ləğv edilsin?</string>
     <string name="power_dailog_night_charge_protection_done">Anladım</string>
@@ -5194,7 +5228,8 @@ Razılıq indi geri götürülsün?"</string>
     <string name="renew_now">Yenilə</string>
     <string name="repair">Təmir et</string>
     <string name="repair_loading_text">Bir saniyə…</string>
-    <string name="repeat_type">Təkrarla</string>
+    <string name="repeat_prompts">"Yavaşlayın! Ardıcıl çoxlu sorğu göndərməyin."</string>
+	<string name="repeat_type">Təkrarla</string>
     <string name="repeated_marked_number_summary">"%d dəqiqə ərzində eyni bildirilmiş nömrədən gələn ikinci zəngi əngəlləməyin"</string>
     <string name="repeated_marked_number_title">"Bildirilmiş nömrələrdən gələn təkrar zəngləri əngəlləməyin"</string>
     <string name="replace_dns">DNS-i avtomatik əvəz et</string>
@@ -5245,7 +5280,10 @@ Razılıq indi geri götürülsün?"</string>
     <string name="risk_app_install_manager">Mümkün riskləri olan tətbiqlər</string>
 	<string name="risk_app_menu_title">İcazələrin əngəlini götürmə</string>
     <string name="risk_app_permission_settings_desc">Bilinməyən mənbələrdən gələn tətbiqlərin həssas icazələrə müraciətinə icazə vermək, cihazınız və datalarınızın güvənliyi üçün risk yarada bilər. Bu riskləri önləmək üçün bəzi tətbiqlərin bəzi icazələrə müraciət etməsi ilkin olaraq əngəllənəcək. Əllə &lt;u>icazələrin əngəlini götürə&lt;/u> bilərsiniz, daha sonra hər bir icazəni ayrılıqda istədiyiniz kimi verə bilərsiniz.</string>
-    <string name="risk_count_suffix"></string>
+    <string name="risk_app_restrict_network_btn">Anladım</string>
+    <string name="risk_app_restrict_network_message">"Bu tətbiqin internetə bağlantısı qeyri-adi davranışa görə səlahiyyətli orqanların tələbi ilə məhdudlaşdırılıb."</string>
+    <string name="risk_app_restrict_network_title">"İnternetə bağlana bilmir"</string>
+	<string name="risk_count_suffix"></string>
     <string name="risk_detail_app">Risk təşkil edir</string>
     <string name="risk_detail_title">Mümkün risklər</string>
     <string name="risk_info_title">Açıqlama</string>
@@ -6185,7 +6223,8 @@ Format zamanı ^2 daxilindəki mövcud məzmun silinəcək. Məzmunu itirməmək
     <string name="tc_parse_error">"SMS təhlil edilə bilmədi"</string>
     <string name="tc_receive_timeout">Kalibrləmə vaxtı bitdi</string>
     <string name="tc_send_sms_error">"SMS göndərilə bilmədi"</string>
-    <string name="tc_sms_report_direction">SMS sorğu kodu</string>
+    <string name="tc_sms_bill_report_receive_content">SMS kalibrləmə (əmin olun ki, SMS-də balans məlumatları görünür)</string>
+	<string name="tc_sms_report_direction">SMS sorğu kodu</string>
     <string name="tc_sms_report_do_report">Göndər</string>
     <string name="tc_sms_report_get_default">"Operatorunuzdan internet istifadə məlumatını əldə etmək məqsədilə istifadə olunan mesajlar üçün ödəniş etməyəcəksiniz."</string>
     <string name="tc_sms_report_get_sms">SMS al</string>
@@ -6326,7 +6365,8 @@ Format zamanı ^2 daxilindəki mövcud məzmun silinəcək. Məzmunu itirməmək
     <string name="title_app_update">Güncəlləmələr mövcuddur</string>
     <string name="title_auto_update">Avto-güncəlləmə</string>
     <string name="title_background_connection">"%s arxaplanda istifadə edilə bilmir?"</string>
-    <string name="title_block_calls_from_cantacts">Kontaktlarınızdan gələn zənglər buraxılsın?</string>
+    <string name="title_bill_balance_inquiry">Balans (SIM %1$s)</string>
+	<string name="title_block_calls_from_cantacts">Kontaktlarınızdan gələn zənglər buraxılsın?</string>
     <string name="title_block_calls_from_strangers">Vacib zəngləri buraxırsınız?</string>
     <string name="title_chain_start">Zəncirvari başlatmanı məhdudlaşdır</string>
     <string name="title_cleaner_cloudscan">Buludda tullantı skanı</string>
@@ -6366,7 +6406,8 @@ Format zamanı ^2 daxilindəki mövcud məzmun silinəcək. Məzmunu itirməmək
     <string name="title_eye_shield">"Ekran rəngi doğru görünmür?"</string>
     <string name="title_find_device">Cihazı tap</string>
     <string name="title_first_aid_kit">Problemləri həll et</string>
-    <string name="title_flow_notification">Mobil internet bildirişi</string>
+    <string name="title_flow_base_reminder">İnternet istifadə xatırladıcıları</string>
+	<string name="title_flow_notification">Mobil internet bildirişi</string>
     <string name="title_flow_purchase">Mobil internet al</string>
     <string name="title_flow_rank">Mobil internet istifadəsi</string>
     <string name="title_flow_verify">Mühasibatı müqayisə et</string>
@@ -6526,7 +6567,8 @@ Qalan internetə əvvəlki aydan keçmiş internet də daxildir."</string>
     <string name="traffic_remind">İnternet istifadə xəbərdarlığı</string>
     <string name="traffic_remind_switch">İnternet istifadə xəbərdarlığı</string>
     <string name="traffic_reminder_settings">İnternet istifadə xəbərdarlığını ayarla</string>
-    <string name="traffic_setting_fragment_area">Yerli</string>
+    <string name="traffic_reminder_settings_card" />
+	<string name="traffic_setting_fragment_area">Yerli</string>
     <string name="traffic_setting_fragment_brand">Marka</string>
     <string name="traffic_setting_fragment_button1_text">İmtina</string>
     <string name="traffic_setting_fragment_button2_text">Saxla</string>
@@ -6606,13 +6648,18 @@ Qalan internetə əvvəlki aydan keçmiş internet də daxildir."</string>
     <string name="usage_sorted_empty_text">Boş</string>
     <string name="usage_sorted_loading_text">Bir saniyə…</string>
     <string name="usage_type_audio">Səs</string>
-    <string name="usage_type_cpu">Cəmi CPU</string>
+    <string name="usage_type_background_desk_power_consumption_time">Arxaplanda istifadə</string>
+	<string name="usage_type_cpu">Cəmi CPU</string>
     <string name="usage_type_cpu_foreground">Önplanda CPU</string>
     <string name="usage_type_data_recv">Alınmış mobil internet</string>
     <string name="usage_type_data_send">Göndərilmiş mobil internet</string>
-    <string name="usage_type_no_coverage">Siqnal olmadan keçən vaxt</string>
+    <string name="usage_type_front_desk_power_consumption_time">Önplanda istifadə</string>
+	<string name="usage_type_no_coverage">Siqnal olmadan keçən vaxt</string>
     <string name="usage_type_on_time">Açma vaxtı</string>
-    <string name="usage_type_wake_lock">Oyaq saxla</string>
+    <string name="usage_type_power_consumption_ratio">Batareya istifadəsi</string>
+    <string name="usage_type_power_consumption_ratio_hint_binary">Son %1$s %2$s ərzində bütün tətbiqlərin istifadə etdiyi enerjiyə nisbətən, %3$s tərəfindən istifadə olunan enerji faizlə göstərilir.</string>
+    <string name="usage_type_power_consumption_ratio_hint_single">Son %1$s ərzində bütün tətbiqlərin istifadə etdiyi enerjiyə nisbətən, %2$s tərəfindən istifadə olunan enerji faizlə göstərilir.</string>
+	<string name="usage_type_wake_lock">Oyaq saxla</string>
     <string name="usage_type_wifi_running">Wi-Fi işləyir</string>
     <string name="usb_adb_input_apply_step_1">"Bu, sızıntılara və şəxsi məlumatların itkisinə səbəb ola bilər. Gəlişdirici deyilsinizsə, bunu etməyinizi tövsiyə etmirik."</string>
     <string name="usb_adb_input_apply_step_2">Gəlişdiricilər, USB vasitəsilə jestləri təqlid etmək, ayarları dəyişdirmək və icazələri vermək üçün xüsusi yazılım istifadə edə bilərlər.</string>
@@ -6743,7 +6790,8 @@ Bu özəllik Batareya qənaəti və ya Ultra batareya qənaəti açıq olduqda i
     <string name="videobox_settings_timing">Fasilə xəbərdarlığı</string>
     <string name="videobox_settings_timing_desc">Fasilə verməyinizi xatırladan bir saatlıq xəbərdarlığı al</string>
     <string name="videobox_settings_title">Video alət qutusu</string>
-    <string name="view_traffic_detail">Detallara bax</string>
+    <string name="view_package_info">Plan detallarına bax</string>
+	<string name="view_traffic_detail">Detallara bax</string>
     <string name="view_traffic_details">İnternet istifadə statistikalarına baxın</string>
     <string name="virus_app_delete_installed">Sil</string>
     <string name="virus_app_delete_uninstalled">Sil</string>
@@ -6839,9 +6887,9 @@ Bu özəllik Batareya qənaəti və ya Ultra batareya qənaəti açıq olduqda i
     <string name="warningcenter_disaster_info_from">Erkən Xəbərdarlıq Mərkəzi | Milli Erkən Xəbərdarlıq Məlumat Yayım Mərkəzindən səlahiyyətli buraxılış</string>
     <string name="warningcenter_disaster_info_title">Xəbərdarlıqlar haqqında</string>
     <string name="warningcenter_disaster_leiyudafeng">Tufan və güclü külək</string>
-    <string name="warningcenter_disaster_level_1">I səviyyə (Son dərəcə şiddətli)</string>
-    <string name="warningcenter_disaster_level_2">II səviyyə (Şiddətli)</string>
-    <string name="warningcenter_disaster_level_3">III səviyə (Orta)</string>
+    <string name="warningcenter_disaster_level_1">Ⅰ səviyyə (Son dərəcə şiddətli)</string>
+    <string name="warningcenter_disaster_level_2">Ⅱ səviyyə (Şiddətli)</string>
+    <string name="warningcenter_disaster_level_3">Ⅲ səviyə (Orta)</string>
     <string name="warningcenter_disaster_level_4">Ⅳ səviyyə (Kiçik)</string>
     <string name="warningcenter_disaster_level_all">Bütün səviyyələr</string>
     <string name="warningcenter_disaster_level_info">Xəbərdarlıq səviyyələri</string>
