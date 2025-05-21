@@ -3140,7 +3140,7 @@ Mobil internet bağlantısını yenidən istifadə etsəniz, operatorunuz sizdə
     <string name="main_activity_content_summary_update">Sistem güncəlləməsi</string>
     <string name="main_alert_message_no_imsi">SIM kart aşkarlanmadı</string>
     <string name="main_alert_message_open_traffic_ctrl">İnternet istifadəsini məhdudlaşdırmağı tövsiyə edirik</string>
-    string name="main_balance_check">Balansı yoxla</string>
+    <string name="main_balance_check">Balansı yoxla</string>
 	<string name="main_bill_remained">Telefon balansı</string>
     <string name="main_button_mi_sim_close">Mi SIM-i aktivləşdir</string>
     <string name="main_button_mi_sim_open">Detallara bax</string>

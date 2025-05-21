@@ -245,7 +245,6 @@ Xiaomi olmayan qulaqlıq istifadəçiləri: qulaqlıqlarınızı Bluetooth ayarl
     <string name="miuix_appcompat_accessibility_finish_edit_action_mode">Düzəliş rejimindən çıx</string>
     <string name="miuix_appcompat_accessibility_new_message">Yeni bildiriş</string>
     <string name="miuix_appcompat_accessibility_start_edit_action_mode">Düzəliş rejiminə daxil ol</string>
-	<string name="miuix_appcompat_action_mode_deselect_all">Seçimi ləğv et</string>
 	<string name="miuix_appcompat_action_mode_deselect_all">Heç birini seçmə</string>
     <string name="miuix_appcompat_action_mode_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_action_mode_title_empty">Elementləri seç</string>

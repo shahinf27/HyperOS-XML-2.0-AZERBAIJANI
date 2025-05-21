@@ -104,7 +104,7 @@
     <string name="announce_for_move">%1$d sırasına %2$d sütununa get</string>
     <string name="announce_for_move_hotseat">%1$d yuva mövqeyinə get</string>
     <string name="announce_for_open_default_preview">İlkin Əsas ekran ayarları açıldı</string>
-    <string name="announce_for_open_folder">Aç: \"%1$s\"<</string>
+    <string name="announce_for_open_folder">Aç: \"%1$s\"</string>
     <string name="announce_for_search_bar">Axtarış çubuğu</string>
     <string name="announce_for_show_uninstall_dialog">Silinmə dialoqu göründü. Ləğv et və ya təsdiqlə.</string>
     <string name="announce_for_unchecked">%1$s, işarəsi götürüldü</string>

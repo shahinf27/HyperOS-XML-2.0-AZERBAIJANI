@@ -372,7 +372,6 @@ dd-MM"</string>
     <string name="miuix_indexer_collect">Kolleksiyalar</string>
     <string name="miuix_popup_window_default_title">Açılan pəncərə</string>
     <string name="miuix_progressbar_loading">Bir saniyə…</string>
-	<string name="miuix_popup_window_default_title">Açılan pəncərə</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Təzələmək üçün aşağı çək</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Uğurla təzələndi</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Təzələnir…</string>
