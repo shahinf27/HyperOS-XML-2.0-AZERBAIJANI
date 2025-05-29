@@ -372,7 +372,9 @@ cihazınızı yuxarı əyin"</string>
     <string name="satellite_satellite_accessory">"Peyk üçün sqnal gücləndirici istifadə edirəm"</string>
     <string name="satellite_satellite_service_redirection">Aktivləşdir</string>
     <string name="satellite_satellite_service_tip">"Deyəsən, peyklə birbaşa bağlantı xidmətini aktivləşdirməmisiniz. Aktivləşdirdikdən sonra peykləri axtarmağa çalışın."</string>
-    <string name="satellite_service_provider">Xidmət, China Telecom tərəfindən təmin edilir</string>
+    <string name="satellite_satellite_service_tip_not_ct">"Peyklə birbaşa bağlantı xidmətini aktivləşdirməmisiniz. Xidməti aktivləşdirmək üçün operatorunuzla əlaqə saxlayın və yenidən sınayın."</string>
+    <string name="satellite_satellite_service_title">Tiantong Satellite xidmətlərini aktivləşdir</string>
+	<string name="satellite_service_provider">Xidmət, China Telecom tərəfindən təmin edilir</string>
     <string name="satellite_service_provider_tiantong">Tiantong tərəfindən təqdim edilir</string>
     <string name="satellite_service_reject_cause_imei">"Cihazın IMEI-si qeydiyyatdan keçməyib"</string>
     <string name="satellite_service_reject_cause_not_enable_International_roaming">Beynəlxalq rouminqi işə sal</string>

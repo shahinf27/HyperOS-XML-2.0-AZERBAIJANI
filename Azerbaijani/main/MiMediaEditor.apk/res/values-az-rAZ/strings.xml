@@ -1422,6 +1422,7 @@ Orijinal tərəf nisbətini saxlayın, öz istədiyinizi seçin və ya süni zə
     <string name="photo_editor_talkback_beautity_unapplied">Avto-gözəlləşdirmə bağlıdır</string>
     <string name="photo_editor_talkback_cancel">İmtina</string>
     <string name="photo_editor_talkback_confirm">Təsdiqlə</string>
+	<string name="photo_editor_talkback_corp_preview">Önizləmə</string>
     <string name="photo_editor_talkback_crop_16_9">On altının doqquza</string>
     <string name="photo_editor_talkback_crop_18_9">On səkkizin doqquza</string>
     <string name="photo_editor_talkback_crop_1_1">Birin birə</string>
@@ -1436,6 +1437,7 @@ Orijinal tərəf nisbətini saxlayın, öz istədiyinizi seçin və ya süni zə
     <string name="photo_editor_talkback_crop_mirror">Güzgü</string>
     <string name="photo_editor_talkback_crop_original">Orijinal</string>
     <string name="photo_editor_talkback_crop_portrait_screen">Tam ekran tərəf nisbəti. Şaquli istiqamət.</string>
+	<string name="photo_editor_talkback_crop_preview_mirror">Əks etdirilmiş önizləmə</string>
     <string name="photo_editor_talkback_crop_reset">Sıfırla</string>
     <string name="photo_editor_talkback_crop_right_rotate">%d dərəcə döndər</string>
     <string name="photo_editor_talkback_crop_rotate">Döndər</string>
@@ -2273,6 +2275,8 @@ Orijinal tərəf nisbətini saxlayın, öz istədiyinizi seçin və ya süni zə
     <string name="vlog_saving_no_edit">Elementlər saxlanılarkən bu səhifədə qalın…</string>
     <string name="vlog_support_max_duration">Bir layihə ən çox %1$d saat uzunluğunda ola bilər</string>
     <string name="vlog_support_max_number">Bir layihəyə ən çox %1$d video əlavə edə bilərsiniz</string>
+	<string name="vlog_talkback_add_audio">Səs əlavə et</string>
+    <string name="vlog_talkback_add_caption">Mətn əlavə et</string>
     <string name="vlog_talkback_audio_local">Daxili musiqi</string>
     <string name="vlog_talkback_audio_null">Film musiqisi yoxdur</string>
     <string name="vlog_talkback_audio_seekbar">Həcmi ayarla</string>
@@ -2290,6 +2294,7 @@ Orijinal tərəf nisbətini saxlayın, öz istədiyinizi seçin və ya süni zə
     <string name="vlog_talkback_crop_rotate">Döndər</string>
     <string name="vlog_talkback_crop_scale_default_value">Döndərmə tətbiq edilməzdən əvvəl ilkin dəyər %d dərəcədir</string>
     <string name="vlog_talkback_crop_view">Şəkli qayçıla</string>
+	<string name="vlog_talkback_edit_text">Altyazı</string>
     <string name="vlog_talkback_filter_master_close">Video effektlərini söndür</string>
     <string name="vlog_talkback_filter_master_open">Video effektlərini işə sal</string>
     <string name="vlog_talkback_filter_seekbar">Render effekti</string>

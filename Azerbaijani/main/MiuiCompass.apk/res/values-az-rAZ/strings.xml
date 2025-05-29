@@ -127,6 +127,8 @@ kalibrlə;Təzyiq;Yüksəklik;Enlik;Uzunluq;Uzunluq yoxlanışı;Enlik yoxlanı�
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Elementlər yüklənə bilmədi"</string>
     <string name="mobiledata_alert_dialog_message">Yüksəkliyi kalibrləmək üçün internetə bağlanılsın?</string>
     <string name="mobiledata_alert_dialog_title">İnternet istifadə xəbərdarlığı</string>
+	<string name="mode_normal_switched">Normal görünüşə keçildi</string>
+    <string name="mode_realwolrd_switched">Canlı önizləməyə keçildi</string>
     <string name="monday">Bazar ertəsi</string>
     <string name="monday_short">B.e.</string>
     <string name="monday_shortest">B.e.</string>

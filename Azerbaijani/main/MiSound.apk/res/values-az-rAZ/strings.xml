@@ -59,6 +59,10 @@
     <string name="date_picker_label_year"></string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
     <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
+    <string formatted="false" name="dolby_dax_geq_bar_chart_talkback">Tarazlayıcı, diyircək %d, %s.</string>
+    <string name="dolby_dax_geq_select_click_tip_talkback">Aktivləşdirmək üçün cüt toxunun</string>
+    <string name="dolby_dax_geq_select_not_selected_talkback">Seçilmədi</string>
+    <string name="dolby_dax_geq_select_selected_talkback">Seçildi</string>
     <string name="dolby_dax_geq_select_title">Ön ayarlar</string>
     <string name="dolby_dax_geq_title">Qrafik tarazlayıcı</string>
     <string name="dolby_dax_profile_dynamic">Dinamik</string>
@@ -598,7 +602,7 @@
     <string name="voice_print_new">Yeni səs izini yaz</string>
     <string formatted="false" name="voice_print_note_description">Səs izini optimallaşdırma, səs-küyü azaltmaq üçün istifadəçilərin unikal vokal xüsusiyyətlərini istifadə edən süni zəka tərəfindən dəstəklənən texnologiyadır. Bu texnologiya intonasiya, ton və nitq sürəti kimi fərdi akustik atributlara əsaslanır. Bu texnologiyanı istifadə etməzdən əvvəl, səsinizin təxminən %d-%d saniyəsini yazmağınız lazımdır. Sistem səsinizi öyrənəcək, zəng zamanı arxaplandakı səs-küyü və digər danışıq səslərini filtrləyərək yalnız sizin səsinizi qoruyacaq.</string>
     <string name="voice_print_note_device">Yazmazdan əvvəl xarici cihazların bağlantısını kəs</string>
-    <string name="voice_print_note_environment">"Sakit bir məkanda təkbaşına yazın. Cihazı özünüzdən təxminən yarım qol boyu uzaqda saxlayın. Sonra, aşağıdakı düyməni basılı tutun və normal danışıq səsinizlə aşağıdakı mətni sabit sürətlə oxuyun."</string>
+    <string name="voice_print_note_environment">Səssiz bir mühitdə ekrana yaxınlaşın, \"Yaz\" düyməsini basılı tutun, sonra aşağıdakı mətni sabit bir sürətlə və normal bir səslə oxuyun.</string>
     <string name="voice_print_note_generate_error">"Səs izi yaradıla bilmədi. Yenidən yazın."</string>
     <string name="voice_print_note_generating">Səs izi tanınır…</string>
     <string name="voice_print_note_in_call">"Zəng zamanı səs izi yazıla bilmir"</string>

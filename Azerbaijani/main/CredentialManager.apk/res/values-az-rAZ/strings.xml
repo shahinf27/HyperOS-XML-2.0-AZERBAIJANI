@@ -208,6 +208,7 @@
     <string name="miuix_appcompat_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_select_all_description">Hamısını seç</string>
     <string name="miuix_appcompat_select_item">Elementləri seç</string>
+	<string name="miuix_appcompat_show_dialog_description">Açılan pəncərə</string>
     <string name="miuix_indexer_collect">Kolleksiyalar</string>
     <string name="miuix_indexer_selected">%s seçildi</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Təzələmək üçün aşağı çək</string>
@@ -374,6 +375,8 @@
     <string name="solar_term_winter_solstice">Qış gündönümü</string>
     <string name="state_off">Bağlı</string>
     <string name="state_on">Açıq</string>
+	<string name="string_another_device_login">Başqa cihaz istifadə edin</string>
+    <string name="string_another_device_sign_in">Başqa cihaz istifadə edin</string>
     <string name="string_cancel">İmtina</string>
     <string name="string_continue">Davam et</string>
     <string name="string_learn_more">Ətraflı öyrən</string>
@@ -384,6 +387,8 @@
     <string name="switch_role">Keç</string>
     <string name="tab">Vərəq</string>
     <string name="template_percent">%1$d faiz.</string>
+	<string name="text_input_layout_default_content_description">这是默认的content description</string>
+    <string name="text_input_layout_default_error">这是默认的error</string>
     <string name="the_anniversary_of_lifting_martial_law">Hərbi Vəziyyətin Qaldırılma İldönümü</string>
     <string name="the_anti_aggression_day">Təcavüzlə Mübarizə Günü</string>
     <string name="the_arbor_day">Ağacəkmə Günü</string>

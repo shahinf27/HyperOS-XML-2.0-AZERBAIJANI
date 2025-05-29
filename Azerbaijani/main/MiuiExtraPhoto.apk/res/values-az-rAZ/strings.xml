@@ -31,6 +31,13 @@
     <string name="auto_crop_stop_saving">Ləğv etmək üçün təkrar toxunun</string>
     <string name="auto_crop_water_mark_description">"Xiaomi ProCut ilə işlənmiş təsvirlərdə filiqranlar göstərilməyəcək. Yenə də bu özəllik istifadə edilsin?"</string>
     <string name="auto_crop_water_mark_title">"Filiqranlar göstərilməyəcək"</string>
+	<string name="call_notification_answer_action">Cavabla</string>
+    <string name="call_notification_answer_video_action">Görüntülü</string>
+    <string name="call_notification_decline_action">Rədd et</string>
+    <string name="call_notification_hang_up_action">Dəstəyi as</string>
+    <string name="call_notification_incoming_text">Gələn zəng</string>
+    <string name="call_notification_ongoing_text">Davam edən zəng</string>
+    <string name="call_notification_screening_text">Gələn bir zəngin filtrlənməsi</string>
     <string name="cancel">İmtina</string>
     <string name="clearable_edittext_clear_description">Təmizlə</string>
     <string name="close">Bağlı</string>
@@ -193,6 +200,7 @@
     <string name="operation_redo">Təkrar et</string>
     <string name="operation_undo">Geri al</string>
     <string name="pm">GS</string>
+	<string name="refocus_close">Bağlı</string>
     <string name="refocus_discard_confirm_message">Dəyişikliklər saxlanılsın?</string>
     <string name="refocus_discard_negative_btn">Ləğv et</string>
     <string name="refocus_discard_positive_btn">Saxla</string>
