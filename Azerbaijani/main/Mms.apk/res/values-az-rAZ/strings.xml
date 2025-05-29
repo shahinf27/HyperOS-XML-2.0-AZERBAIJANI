@@ -93,7 +93,7 @@ Yenidən sınayın."</string>
     <string name="attach_subject">Mövzu</string>
     <string name="attach_take_photo">Şəkil çək</string>
     <string name="attach_video_call">Görüntülü zəng</string>
-    <string name="attachment_panel_show_part">Səhifə %1$d</string>
+    <string name="attachment_panel_show_part_new">Səhifə %1$d/%2$d</string>
     <string name="audio_download_failed">"Səs endirilə bilmədi"</string>
     <string name="audio_message_expired">Bu səsli mesajın müddəti bitib.</string>
     <string name="audio_message_mx_offline">"Səs endirilə bilmədi. Mi Mesaj xətdən kənardadır və ya əlçatmazdır."</string>
@@ -169,6 +169,7 @@ Yenidən sınayın."</string>
     <string name="chatbot_main_title">Söhbət botları</string>
     <string name="chip_text">Şifrələmə mətni</string>
     <string name="class_0_message_activity">Sinif 0 mesajı</string>
+	<string name="clear_recipient">Təmizlə</string>
     <string name="clear_text_end_icon_content_description">Mətni təmizlə</string>
     <string name="clearable_edittext_clear_description">Təmizlə</string>
     <string name="click_to_update">Güncəlləmələri yoxlamaq üçün toxunun</string>
@@ -1164,6 +1165,7 @@ Tövsiyə olunan söhbət botlarına baxın!"</string>
     <string name="search_setting_description">Mesajlarınızda axtarın</string>
     <string name="search_show_more_results">Daha çox göstər</string>
     <string name="search_sms">Mesaj axtar</string>
+	<string name="search_sms_in_action_mode">Axtarış, mətn mesajlarının axtarışı, düzəliş qutusu, sıradan çıxarılıb</string>
     <string name="second_mms_introduction">Şəxsi mesajlara baxa bilmək üçün İkinci sahəyə keçin</string>
     <string name="second_mms_introduction_translation_for_pad">Şəxsi mesajlara baxa bilmək üçün İkinci sahəyə keçin</string>
     <string name="second_mms_switch">Dəyişdir</string>

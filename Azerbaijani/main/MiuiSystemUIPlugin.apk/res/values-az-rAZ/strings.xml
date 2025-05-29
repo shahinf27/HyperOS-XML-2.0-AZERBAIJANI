@@ -470,7 +470,7 @@ Xiaomi olmayan qulaqlıq istifadəçiləri: qulaqlıqlarınızı Bluetooth ayarl
     <string name="quick_settings_sync_label">Sinxr</string>
     <string name="quick_settings_toast_drag_to_enable_custom_tile">Bir element əlavə etmək üçün elementi basılı tutun, daha sonra onu panelin üst hissəsinə sürükləyin.</string>
     <string name="quick_settings_vibrate_label">Titrəmə</string>
-    <string name="quick_settings_voice_trans_label">Səsi tərcümə et</string>
+    <string name="quick_settings_voice_trans_label">AI Tərcüməçi</string>
     <string name="quick_settings_voice_trans_label_new">Tərcümə</string>
     <string name="quick_settings_vowifi_label">Wi-Fi Zəngi</string>
     <string name="quick_settings_vowifi_sim1_label">Wi-Fi Zəngi SIM 1</string>

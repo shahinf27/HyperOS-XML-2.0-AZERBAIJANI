@@ -99,6 +99,7 @@
     <string name="announce_for_edit_mode">Düzəliş rejiminə daxil olundu</string>
     <string name="announce_for_edit_mode_disable">Düzəliş rejimindən çıxıldı</string>
     <string name="announce_for_indicator">Səhifə %1$d/%2$d səhifə</string>
+	<string name="announce_for_launcher_menu_close">Yığcamlaşdırıldı</string>
     <string name="announce_for_layout_preview_mode">Önizləməni aç</string>
     <string name="announce_for_layout_preview_mode_disable">Önizləməni bağla</string>
     <string name="announce_for_move">%1$d sırasına %2$d sütununa get</string>

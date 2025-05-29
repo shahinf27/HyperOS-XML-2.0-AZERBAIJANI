@@ -42,6 +42,7 @@
     <string name="added_to_clipboard">Uğurla kopyalandı</string>
     <string name="adopt">İstifadə et</string>
     <string name="afternoon">Günortadan sonra</string>
+	<string name="ai_DeepSeek_button_text">DeepThink</string>
     <string name="ai_already_copy_toast_text">Uğurla kopyalandı</string>
     <string name="ai_already_insert_toast_text">Orijinalı daxil edildi</string>
     <string name="ai_button_cancel">İmtina</string>
@@ -56,6 +57,7 @@
     <string name="ai_failed">"Yaradıla bilmədi. Yenidən sınayın."</string>
     <string name="ai_feature_disabled">İcma standartlarımızı bir neçə dəfə pozmusunuz. Bu özəllik artıq əlçatan deyil.</string>
     <string name="ai_generate_stop_button">Dayandır</string>
+	<string name="ai_generate_waiting_title">AI emal edir…</string>
     <string name="ai_generating_check">Mətn düzəldilir…</string>
     <string name="ai_generating_stop_check">Dayandır</string>
     <string name="ai_generating_title">Yaradılır…</string>
@@ -79,6 +81,7 @@
     <string name="ai_search_database_building_progress">Daha dəqiq nəticələr təqdim etmək üçün notlar təhlil edilir…</string>
     <string name="ai_search_hint_text">İstəklərinizi daxil edin</string>
     <string name="ai_sensitive_content_warn">"Süni zəka özəllikləri həssas və ya uyğunsuz məzmun üçün istifadə edilə bilməz"</string>
+	<string name="ai_sensitive_word_error_title">Başqa cavab mövcud deyil.</string>
     <string name="ai_summary">AI icmalı</string>
     <string name="ai_text_widget_cancel">İmtina</string>
     <string name="ai_text_widget_check">Düzəltmə</string>
@@ -105,9 +108,18 @@
     <string name="ai_writing_invite_beta_testing_content">Bu özəllik, yazınızı düzəltmək, genişləndirmək, icmalını yaratmaq və cilalamaq üçün böyük model bacarıqlarını istifadə edir. Həmçinin, istəklər daxil edə və süni zəkanın sizin üçün yazmasına icazə verə bilərsiniz. Sınamaq üçün \"Razıyam\"a toxunun!</string>
     <string name="ai_writing_invite_beta_testing_title">AI yazma beta testi</string>
     <string name="ai_writing_local_message">\"Süni zəka ilə Yazma\" üçün cihazdakı modelləri istifadə edin</string>
+	<string name="aicr_deepthink_done">Məntiqi düşünmə tamamlandı</string>
+    <string name="aicr_deepthink_stop">Məntiqi düşünmə dayandırıldı</string>
+    <string name="aicr_deepthink_thinking">Məntiqi düşünür</string>
+    <string name="aicr_down_content">AI Yazma istifadə edə bilmək üçün cihazınıza böyük modeli endirin. İndi endirilsin?</string>
+    <string name="aicr_down_title">Cihaza böyük modeli endir</string>
     <string name="aicr_download_confirm">Endir</string>
     <string name="aicr_download_content">\"Süni zəka ilə Yazma\"nı istifadə edə bilmək üçün lazımi böyük modelləri endirin. İndi endirilsin?</string>
     <string name="aicr_download_title">Böyük modeli endir</string>
+	<string name="aicr_generate_waiting_title">AI ilə emal olunur…</string>
+    <string name="aicr_update_button">Güncəllə</string>
+    <string name="aicr_update_content">AI Yazma istifadə edə bilmək üçün cihazınızdakı böyük modeli güncəlləyin. İndi güncəllənsin?</string>
+    <string name="aicr_update_title">Cihazdakı böyük modeli güncəllə</string>
     <string name="alarm_bar_title">Xatırladıcı</string>
     <string name="alert_action_edit_anyway">Düzəlişə davam et</string>
     <string name="alert_message_delete">%1$s silinsin?</string>
@@ -159,6 +171,7 @@
     <string name="bottomsheet_drag_handle_clicked">Tutacağa cüt toxunaraq sürüklə</string>
     <string name="bottomsheet_drag_handle_content_description">Sürükləmə tutacağı</string>
     <string name="btn_next">Növbəti</string>
+	<string name="button_talkback">Düymə</string>
     <string name="call_folder_name">Zəng notları</string>
     <string name="call_notification_answer_action">Cavabla</string>
     <string name="call_notification_answer_video_action">Görüntülü</string>
@@ -171,6 +184,7 @@
     <string name="canvas_is_too_large_to_share">Bu element paylaşmaq üçün çox böyükdür</string>
     <string name="character_counter_content_description">%1$d/%2$d xarakter daxil edilib</string>
     <string name="character_counter_overflowed_content_description">%1$d/%2$d xarakter limiti aşıldı</string>
+	<string name="checkbox_talkback">İşarələmə qutusu</string>
     <string name="chemical_formula_trim">Balans bərabərliyi</string>
     <string name="clear_text_end_icon_content_description">Mətni təmizlə</string>
     <string name="clearable_edittext_clear_description">Təmizlə</string>
@@ -285,6 +299,7 @@
     <string name="dlg_update_title">Bir güncəlləmə mövcuddur</string>
     <string name="dlg_update_update_now">Güncəllə</string>
     <string name="done">Hazırdır</string>
+	<string name="done_talkback">Hazırdır</string>
     <string name="doodle_action_enter_immersion_mode">İmmersiv rejimə keç</string>
     <string name="doodle_action_exit_immersion_mode">İmmersiv rejimi söndür</string>
     <string name="doodle_action_hide_tool_panel">Alətləri gizlət</string>
@@ -321,6 +336,11 @@
     <string name="doodle_guide_dialog_title">Eskiz</string>
     <string formatted="false" name="doodle_guide_quick_shape_hint">Ştrixləri avtomatik nizamlamaq üçün eskizi %d–%d saniyə basılı tutun</string>
     <string name="doodle_palette">Rəng palitrası</string>
+	<string name="doodle_pencil_stroke_1">Ekstra incə</string>
+    <string name="doodle_pencil_stroke_2">İncə</string>
+    <string name="doodle_pencil_stroke_3">Orta</string>
+    <string name="doodle_pencil_stroke_4">Qalın</string>
+    <string name="doodle_pencil_stroke_5">Ekstra qalın</string>
     <string name="doodle_saving">Saxlanılır…</string>
     <string name="doodle_tool_background">Kətanı dəyişdir</string>
     <string name="doodle_tool_eraser">Silgi</string>
@@ -422,7 +442,7 @@
     <string name="last_excerpt_unfinish_hint">Son çıxarış tamamlanmayıb</string>
     <string name="library_android_database_sqlcipher_libraryDescription">SQLCipher əsaslı Android SQLite API-si</string>
     <string name="library_android_database_sqlcipher_libraryName">Android üçün SQLCipher</string>
-    <string name="llm_register_preference_title">Model servis qeydiyyat nömrəsi</string>
+    <string name="llm_register_preference_title">Yaradıcı AI Xidməti Qeydiyyat Nömrəsi</string>
 	<string name="load_note_dialog">Bir saniyə…</string>
     <string name="loading_text">Bir saniyə…</string>
     <string name="login_sync">Daxil ol və sinxr.</string>
@@ -633,7 +653,9 @@
     <string name="new_audio_create_talkback_des">Bir mətn notu yaratmaq üçün toxunun. Bir səsli not yaratmaq üçün basılı tutun. Səsyazmanı dayandırmaq üçün düyməni buraxın və yeni not yaradın, ləğv etmək üçün yuxarı sürüşdürün.</string>
     <string name="new_data_empty_note">Burada hələ heç bir element yoxdur</string>
     <string name="new_lite_audio_create_talkback_des">Bir not yaratmaq üçün toxunun</string>
+	<string name="new_notes_create_talkback_des">点击创建笔记</string>
     <string name="new_sync_desc_state_disable">Notlar, tapşırıqlar və daha çoxu üçün buludla sinxr.nı işə sal</string>
+	<string name="new_todo_create_talkback_des">点击创建待办</string>
     <string name="night">Axşam</string>
     <string name="no_network">"Şəbəkəyə bağlana bilmir"</string>
     <string name="noon">Günorta</string>
@@ -655,7 +677,9 @@
     <string name="note_mindnote_entrance_icon_text_newversion">Zehin xəritəsi yarat</string>
     <string name="note_mindnote_not_support_in_phone_model">"Bu cihaz zehin xəritələrinə düzəliş edilə bilməz"</string>
     <string name="note_not_text_stub">Mətn yoxdur</string>
+	<string name="note_select_all_talkback">Hamısı seçildi</string>
     <string name="note_sort_way">Sırala</string>
+	<string name="note_unselect_all_talkback">Bütün seçimlər götürüldü</string>
     <string name="note_write_hint">Yazmağa başla</string>
     <string name="notealert_enter">Notu aç</string>
     <string name="notealert_ok">Bağla</string>
@@ -891,7 +915,6 @@
     <string name="sync_folder_todo">%1$s və %2$s</string>
     <string name="sync_note_todo">%1$s və %2$s</string>
     <string name="system_error_info">Sistem məşğuldur. Bir və ya iki dəqiqə gözləyib yenidən sınayın.</string>
-    <string name="text_input_layout_default_error">Bu, ilkin xətadır</string>
     <string name="the_anniversary_of_lifting_martial_law">Hərbi Vəziyyətin Qaldırılma İldönümü</string>
     <string name="the_anti_aggression_day">Təcavüzlə Mübarizə Günü</string>
     <string name="the_arbor_day">Ağacəkmə Günü</string>

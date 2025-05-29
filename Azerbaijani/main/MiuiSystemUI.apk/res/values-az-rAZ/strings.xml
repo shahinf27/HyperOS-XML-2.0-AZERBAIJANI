@@ -147,8 +147,6 @@
     <string name="accessibility_keyboard_symbol_board_shift2letter_button">Hərflər</string>
     <string name="accessibility_keyboard_symbol_board_symbol_lock_button">Simvol kilidi</string>
     <string name="accessibility_keyguard_face_unlock_view">Üzlə kilid açma</string>
-    <string name="accessibility_left_control_center_button">Qısayol</string>
-    <string name="accessibility_left_lock_screen_magazine_button">Divar kağızı Karuseli</string>
     <string name="accessibility_location_active">Yerləşmə tələbləri aktivdir</string>
     <string name="accessibility_lock_icon">Cihaz kilidlənib</string>
     <string name="accessibility_long_click_tile">Ayarları aç</string>
@@ -181,7 +179,6 @@
     <string name="accessibility_phone_three_bars">Telefon siqnalı üç xətdir.</string>
     <string name="accessibility_phone_two_bars">Telefon siqnalı iki xətdir.</string>
     <string name="accessibility_qr_code_scanner_button">QR Kod Skaneri</string>
-    <string name="accessibility_qs_edit_add_tile_label">%1$s. Əlavə etmək üçün iki dəfə toxunun.</string>
     <string name="accessibility_qs_edit_move_tile">Daşı: %1$s</string>
     <string name="accessibility_qs_edit_position">Mövqe %1$d</string>
     <string name="accessibility_qs_edit_remove_tile">Sil: %1$s</string>
@@ -1069,6 +1066,7 @@ Güc düyməsinə basaraq söndürün."</string>
     <string name="guest_reset_guest_confirm_button">Sıfırla</string>
     <string name="guest_reset_guest_dialog_title">Qonaq sıfırlansın?</string>
     <string name="guest_resetting">Qonaq seansı sıfırlanır…</string>
+	<string name="gxzw_icon_access_tips">Barmaq izi ikonu</string>
     <string name="gxzw_quick_close">Bağla</string>
     <string name="gxzw_quick_open_add_event">Tədbir əlavə et</string>
     <string name="gxzw_quick_open_add_event_sub">Təqvim</string>
@@ -1524,6 +1522,7 @@ Bu tətbiqin bütün cihaz jurnallarına müraciət etməsinə icazə verməsən
     <string name="media_transfer_wired_device_name">Naqilli səs cihazı</string>
     <string name="media_transfer_wired_usb_device_name">Naqilli qulaqlıq</string>
     <string name="media_ttt_default_device_type">planşet</string>
+	<string name="mi_smart_hub_entry_title">Xiaomi Smart Hub</string>
     <string name="microphone_blocked_dream_overlay_content_description">Mikrofon əngəlləndi</string>
     <string name="midnight">Gecə</string>
     <string name="minimize_button_text">Kiçilt</string>
@@ -1593,11 +1592,17 @@ d-M"</string>
     <string name="miui_magazine_c_clock_style2_date_content_description">EEEE, dd MMM</string>
     <string name="miui_magazine_clock_date">d-M</string>
     <string name="miui_magazine_clock_date_content_description">dd-MM</string>
+	<string name="miui_notification_menu_custom_fold">\"Daha çox bildiriş\" daxilində qruplaşdır</string>
+    <string name="miui_notification_menu_custom_unfold">"Qruplaşdırılmasın"</string>
     <string name="miui_notification_menu_more_setting">Daha çox</string>
+	<string name="miui_notification_menu_msg_custom_fold">\"%1$s\" tətbiqindən gələn özəl bildirişlər \"Daha çox bildiriş\" daxilində qruplaşdırılsın?</string>
+    <string name="miui_notification_menu_msg_custom_unfold">\"%1$s\" tətbiqindən gələn özəl bildirişlər Bildiriş panelində göstərilsin?</string>
     <string name="miui_notification_menu_msg_not_allow">%1$s göndərən bütün bildirişlər məhdudlaşdırılsın?</string>
     <string name="miui_notification_menu_msg_unfocus">"%1$s üçün Bildiriş spotlight-ını söndürmək üzrəsiniz. Bu bildirişlər normal şəkildə göstəriləcək. İndi ssöndürülsün?"</string>
     <string name="miui_notification_menu_setting_success">Hazırdır</string>
     <string name="miui_notification_menu_snooze">Ertələ</string>
+	<string name="miui_notification_menu_title_custom_fold">Özəl bildirişləri qruplaşdır</string>
+    <string name="miui_notification_menu_title_custom_unfold">Özəl bildirişlərin qruplaşdırılmasını dayandır</string>
     <string name="miui_notification_menu_title_no_drawable">Daxili ekranda davam et</string>
     <string name="miui_notification_menu_title_not_allow">Məhdudlaşdır</string>
     <string name="miui_notification_menu_unfocus">Bildiriş spotlight-ı söndür</string>
@@ -1906,10 +1911,6 @@ Suallarınız varsa, %2$s ilə əlaqə saxlayın."</string>
     <string name="ongoing_privacy_dialog_phonecall">Telefon zəngi</string>
     <string name="ongoing_privacy_dialog_recent_op">Təzəlikcə %1$s istifadə etdi</string>
     <string name="ongoing_privacy_dialog_using_op">%1$s tərəfindən istifadə edilir</string>
-    <string name="open_camera_hint_text">Kameranı açmaq üçün ikonu sürükləyin</string>
-    <string name="open_lock_screen_magazine_hint_text">Daha çox seçim üçün sağa sürüşdürün</string>
-    <string name="open_remote_center_hint_text">Qısayollara baxmaq üçün sağa sürüşdürün</string>
-    <string name="open_uwb_hint_text">\"Xiaomi Magic Control\"u açmaq üçün sağa sürüşdürün</string>
     <string name="orb_search_action">Axtarış Əməliyyatı</string>
     <string name="osu_completing_sign_up">Qeydiyyat tamamlanır…</string>
     <string name="osu_connect_failed">Bağlantı qurula bilmədi</string>
@@ -2095,8 +2096,6 @@ Suallarınız varsa, %2$s ilə əlaqə saxlayın."</string>
     <string name="quick_settings_cellular_detail_dialog_positive_button_turnoff">Söndür</string>
     <string name="quick_settings_cellular_detail_title">Mobil internet</string>
     <string name="quick_settings_cellular_detail_unable_change">"Zəng zamanı ayarlana bilmir"</string>
-    <string name="quick_settings_cellular_state_change_message_connected">Mobil internet şəbəkəsinə bağlandı</string>
-    <string name="quick_settings_cellular_state_change_message_disconnected">Mobil internet şəbəkəsinin bağlantısı kəsildi</string>
     <string name="quick_settings_cellular_state_change_message_off">Mobil internet bağlıdır</string>
     <string name="quick_settings_cellular_state_change_message_on">Mobil internet açıqdır</string>
     <string name="quick_settings_color_correction_label">Rəng korreksiyası</string>

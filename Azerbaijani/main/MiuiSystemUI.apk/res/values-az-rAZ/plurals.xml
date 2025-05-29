@@ -41,6 +41,10 @@
         <item quantity="other">%d il əvvəl</item>
         <item quantity="one">%d il əvvəl</item>
     </plurals>
+	<plurals name="accessibility_descriptions_signal_strength">
+        <item quantity="other">Siqnal gücü: %1$d/%2$d çubuq</item>
+        <item quantity="one">Siqnal gücü: %1$d/%2$d çubuq</item>
+    </plurals>
     <plurals name="atmospheric_pressure_desc">
         <item quantity="other">Atmosfer təzyiqi: %s hektopaskal</item>
         <item quantity="one">Atmosfer təzyiqi: %s hektopaskal</item>
