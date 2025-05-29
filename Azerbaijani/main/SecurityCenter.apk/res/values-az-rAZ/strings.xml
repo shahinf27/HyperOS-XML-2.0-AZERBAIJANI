@@ -229,6 +229,9 @@
     <string name="am">GƏ</string>
     <string name="anti_disturb_msg_detail">Gələn zənglər istisna olmaqla bütün bildirişləri söndür</string>
     <string name="anti_disturb_msg_title">Narahat etməyin</string>
+    <string name="antispam_add_black_number_message">Daxil etdiyiniz nömrə qısadır. Bu rəqəmlə başlayan bütün nömrələr əngəllənsin?</string>
+    <string name="antispam_add_black_number_negative">Xeyr</string>
+    <string name="antispam_add_black_number_positive">Bəli</string>
     <string name="antispam_guangdian_card_hint">"SIM-iniz, fərqli bir uzaq mesaja keçməyi dəstəkləmir. Detallar üçün operatorunuzla əlaqə saxlayın."</string>
     <string name="antispam_guangdian_card_title">"Keçid dəstəklənmir"</string>
     <string name="antispam_mms_text">Əngəllənən mesajlara baxa bilmək üçün \"Mesajlaşma\"nı ilkin SMS mesajlaşma tətbiqi olaraq ayarlayın</string>
@@ -238,6 +241,12 @@
     <string name="antispam_notificaiton_type_show_except_blacklist">Əngəlli siyahısında olmayan nömrələr</string>
     <string name="antispam_notificaiton_type_show_none">Heç vaxt</string>
     <string name="antispam_notification_setting_title">Bildirişlər</string>
+    <string name="antispam_st_all_net">İstənilən internet bağlantısı</string>
+    <string name="antispam_st_smart_close">Bağlı</string>
+    <string name="antispam_st_smart_update">Nömrə tanıma databazası</string>
+    <string name="antispam_st_smart_update_title">Nömrə tanıma databazasını güncəllə</string>
+    <string name="antispam_st_wlan_net">Yalnız Wi-Fi-da</string>
+    <string name="antispam_st_wlan_net_china">Yalnız Wi-Fi-da</string>
     <string name="antispam_xpace_text">Əngəlli siyahısını ayarlamaq üçün Birinci sahəyə keçin</string>
     <string name="antivirus_antidefraud_risk_desc">Bu tətbiq maliyyə fırıldaqçılığı üçün istifadə edilə bilər. Mümkün risklərdən qaçınmaq üçün tətbiqi silin.</string>
     <string name="antivirus_antidefraud_risk_type">Maliyyə fırıldaqçılığı</string>
@@ -3877,6 +3886,8 @@ Ruterinizi bağlamaq üçün başqa bir Ethernet kabeli istifadə etməyə çal�
     <string name="pc_batery_information">Batareya məlumatı</string>
     <string name="pc_batery_protection">Batareya qoruması</string>
     <string name="pc_battery_charge_protect">Doldurma qoruması</string>
+    <string name="pc_battery_charging_error_message">Bir doldurma xətası baş verdi. Bərpa üçün satış sonrası xidmət mərkəzini ziyarət edin.</string>
+    <string name="pc_battery_charging_error_title">Doldurma xətası</string>
     <string name="pc_battery_chart_loading">Bir saniyə…</string>
     <string name="pc_battery_detail_curve_reference_now">İndi</string>
     <string name="pc_battery_detail_device_item_title">Batareya istifadə statistikaları</string>
@@ -4534,8 +4545,6 @@ söndürülür"</string>
     <string name="power_center_super_wireless_charge_dialog_summary">"Bu rejim, naqilsiz doldurma cihazının soyuducusunun fan sürətini artırır. Cihazınızı daha sürətli doldurmaq üçün bu rejimi açıq saxlayın, ya da səs-küyün həddindən çox olduğunu düşünürsünüzsə onu söndürün."</string>
     <string name="power_center_super_wireless_charge_dialog_summary2">Daha çox seçim üçün Güvənlik &gt; Batareya &gt; Ayarlara gedin.</string>
     <string name="power_center_super_wireless_charge_dialog_title">Cəld naqilsiz doldurma</string>
-    <string name="power_center_super_wireless_charge_enter_noti_summary">Naqilsiz doldurma cihazınızın fan sürəti artır, daha sürətli doldurur</string>
-    <string name="power_center_super_wireless_charge_enter_noti_title">Ultra sürətli naqilsiz doldurma rejimi işə salına bilər</string>
     <string name="power_center_super_wireless_charge_noti_summary">Ayarları açmaq üçün toxunun</string>
     <string name="power_center_super_wireless_charge_noti_switch">Cəld naqilsiz doldurma haqqında bildir</string>
     <string name="power_center_super_wireless_charge_noti_title">Cəld naqilsiz doldurma açıqdır</string>

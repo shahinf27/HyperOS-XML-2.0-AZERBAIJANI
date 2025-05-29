@@ -20,6 +20,10 @@
     <string name="access_calendar">Təqvimə müraciət</string>
     <string name="access_non_personal_data">Cihazınızda şəxsi olmayan məlumatlara müraciət və istifadə ilə bağlı razılığı geri götürsəniz, \"Divar kağızı Karuseli\" xidmətləri deaktiv ediləcək və yığılmış bütün məlumatlar, müvafiq qanun və nizamlamalara uyğun olaraq müəyyən bir müddət ərzində silinəcək.</string>
     <string name="accessibility_enabled">Əlçatımlılıq fəaldır.</string>
+    <string name="accessibility_sliding_button_state_description_off">Söndürüldü</string>
+    <string name="accessibility_sliding_button_state_description_on">İşə salındı</string>
+    <string name="accessibility_tab_state_description_unselect">Seçilmədi</string>
+    <string name="accessibility_tab_statedesc_unselect">Seçilmədi</string>
     <string name="actionbar_button_up_description">Geri</string>
     <string name="activate_esim_tips">"Aktivləşdirilə bilmədi. Yenidən sınayın."</string>
     <string name="activating_esim_tips">Aktivləşdirilir…</string>
@@ -319,7 +323,13 @@ Risk önləmə, statistika və analitik emal məqsədləri üçün şəbəkəyə
     <string name="miui_settings">Ayarlar</string>
     <string name="miui_terms_no_network">"İnternet bağlantınız yoxdur. İstifadəçi Razılaşmasına baxın: %s."</string>
     <string name="miuix_access_state_desc">Seçildi</string>
+    <string name="miuix_accessibility_title">Başlıq</string>
     <string name="miuix_alphabet_indexer_name">İndeks çubuğu</string>
+    <string name="miuix_appcompat_accessibility_collapse_state">Yığcamlaşdırıldı</string>
+    <string name="miuix_appcompat_accessibility_expand_state">Genişləndirildi</string>
+    <string name="miuix_appcompat_accessibility_finish_edit_action_mode">Düzəliş rejimindən çıx</string>
+    <string name="miuix_appcompat_accessibility_new_message">Yeni bildiriş</string>
+    <string name="miuix_appcompat_accessibility_start_edit_action_mode">Düzəliş rejiminə daxil ol</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Heç birini seçmə</string>
     <string name="miuix_appcompat_action_mode_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_action_mode_title_empty">Elementləri seç</string>
@@ -337,7 +347,7 @@ Risk önləmə, statistika və analitik emal məqsədləri üçün şəbəkəyə
     <string name="miuix_appcompat_select_item">Elementləri seç</string>
 	<string name="miuix_appcompat_show_dialog_description">Açılan pəncərə</string>
     <string name="miuix_indexer_collect">Kolleksiyalar</string>
-    <string name="miuix_indexer_selected">%s seçildi</string>
+    <string name="miuix_progressbar_loading">Bir saniyə…</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Təzələmək üçün aşağı çək</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Uğurla təzələndi</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Təzələnir…</string>
@@ -345,7 +355,10 @@ Risk önləmə, statistika və analitik emal məqsədləri üçün şəbəkəyə
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"İndilik bu qədər"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">"İndilik bu qədər"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Bir saniyə…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Elementlər yüklənilə bilmədi"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Elementlər yüklənə bilmədi"</string>
+    <string name="miuix_show_password">Parolu göstər</string>
+    <string name="miuix_stretchablewidget_collapsed">Yığcamlaşdırıldı</string>
+    <string name="miuix_stretchablewidget_expanded">Genişləndirildi</string>
     <string name="mobile_network">Mobil internet istifadəsi</string>
     <string name="monday">Bazar ertəsi</string>
     <string name="monday_short">B.e.</string>
@@ -792,8 +805,7 @@ Bu özəlliyi istifadə etməzdən əvvəl Mint Keyboard Gizlilik Siyasəti ilə
     <string name="terms_of_use_lable_xmsf">Xiaomi xidmət çərçivəsi</string>
     <string name="terms_privacy_policy_input_method_facemoji">Facemoji Gizlilik Siyasəti</string>
     <string name="terms_privacy_policy_input_method_kika">Kika Gizlilik Siyasəti</string>
-	<string name="text_input_layout_default_content_description">这是默认的content description</string>
-    <string name="text_input_layout_default_error">这是默认的error</string>
+    <string name="text_input_layout_default_error">Bu, ilkin xətadır</string>
     <string name="the_anniversary_of_lifting_martial_law">Hərbi Vəziyyətin Qaldırılma İldönümü</string>
     <string name="the_anti_aggression_day">Təcavüzlə Mübarizə Günü</string>
     <string name="the_arbor_day">Ağacəkmə Günü</string>

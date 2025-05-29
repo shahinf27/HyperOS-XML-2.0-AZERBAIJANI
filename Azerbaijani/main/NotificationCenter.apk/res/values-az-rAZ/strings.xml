@@ -17,6 +17,10 @@
     <string name="abc_shareactionprovider_share_with">Paylaş</string>
     <string name="abc_shareactionprovider_share_with_application">%s ilə paylaş</string>
     <string name="abc_toolbar_collapse_description">Yığcamlaşdır</string>
+	<string name="accessibility_sliding_button_state_description_off">Söndürüldü</string>
+    <string name="accessibility_sliding_button_state_description_on">İşə salındı</string>
+    <string name="accessibility_tab_state_description_unselect">Seçilmədi</string>
+    <string name="accessibility_tab_statedesc_unselect">Seçilmədi</string>
     <string name="actionbar_button_up_description">Geri</string>
     <string name="afternoon">Günortadan sonra</string>
     <string name="ai_dialog_negative_button_text">"İcazə vermə"</string>
@@ -33,6 +37,9 @@
 Xiaomi, (ehtiva etdiyi şəxsi datalar daxil olmaqla) bildirişlərin və mesajların məzmununu emal edəcək, ancaq bu dataları saxlamayacaq."</string>
     <string name="ai_notification_summary">AI bildiriş icmalı, bildirişlərdən mühüm məlumatların ağıllı icmalını təqdim edir. Bu özəllik, enerji sərfiyyatını bir qədər artıracaq.</string>
     <string name="ai_notification_title">AI bildiriş icmalı</string>
+	<string name="ai_public_link"><Data>Qeydiyyat nömrəsi: &lt;a href=https://www.cac.gov.cn/2024-04/02/c_1713729983803145.htm>Beijing-XiaoMiDuanCeWenBen-202412100047&lt;/a></Data></string>
+    <string name="ai_public_name">Model adı: Xiaomi cihaz üzərindəki mətn</string>
+    <string name="ai_public_title">İctimai bildiriş</string>
     <string name="am">GƏ</string>
     <string name="aon_message">Bir neçə insanın ekrana baxıb-baxmadığını müəyyən etmək üçün bu özəllik, üzən bildiriş nümayiş olunduqda ön kameraya müraciət edəcək. Yığılan təsvirlər, yalnız ekrana baxan insan sayının cihaz üzərində təhlil edilməsi üçün istifadə olunacaq. Bir neçə insan aşkarlandıqda, bildiriş məzmunu ilkin olaraq gizlədiləcək.</string>
     <string name="aon_on_cancel">İmtina</string>
@@ -108,7 +115,11 @@ Xiaomi, (ehtiva etdiyi şəxsi datalar daxil olmaqla) bildirişlərin və mesajl
     <string name="miui_snooze_default_time">%d dəqiqəlik</string>
     <string name="miui_snooze_until_unlock_screen">Kilidlənənə qədər</string>
     <string name="miuix_access_state_desc">Seçildi</string>
+	<string name="miuix_accessibility_title">Başlıq</string>
     <string name="miuix_alphabet_indexer_name">İndeks çubuğu</string>
+	<string name="miuix_appcompat_accessibility_finish_edit_action_mode">Düzəliş rejimindən çıx</string>
+    <string name="miuix_appcompat_accessibility_new_message">Yeni bildiriş</string>
+    <string name="miuix_appcompat_accessibility_start_edit_action_mode">Düzəliş rejiminə daxil ol</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Heç birini seçmə</string>
     <string name="miuix_appcompat_action_mode_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_action_mode_title_empty">Elementləri seç</string>
@@ -124,8 +135,10 @@ Xiaomi, (ehtiva etdiyi şəxsi datalar daxil olmaqla) bildirişlərin və mesajl
     <string name="miuix_appcompat_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_select_all_description">Hamısını seç</string>
     <string name="miuix_appcompat_select_item">Elementləri seç</string>
+	<string name="miuix_appcompat_show_dialog_description">Açılan pəncərə</string>
     <string name="miuix_indexer_collect">Kolleksiyalar</string>
     <string name="miuix_indexer_selected">%s seçildi</string>
+	<string name="miuix_progressbar_loading">Yüklənir</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Təzələmək üçün aşağı çək</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Uğurla təzələndi</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Təzələnir…</string>
@@ -134,6 +147,7 @@ Xiaomi, (ehtiva etdiyi şəxsi datalar daxil olmaqla) bildirişlərin və mesajl
     <string name="miuix_sbl_tracking_progress_labe_up_none">"İndilik bu qədər"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Bir saniyə…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Elementlər yüklənə bilmədi"</string>
+	<string name="miuix_show_password">Parolu göstər</string>
     <string name="monday">Bazar ertəsi</string>
     <string name="monday_short">B.e.</string>
     <string name="monday_shortest">B.e.</string>
@@ -256,6 +270,7 @@ Xiaomi, (ehtiva etdiyi şəxsi datalar daxil olmaqla) bildirişlərin və mesajl
     <string name="sunday">Bazar</string>
     <string name="sunday_short">Baz</string>
     <string name="sunday_shortest">Baz</string>
+	<string name="text_input_layout_default_error">Bu, ilkin xətadır</string>
     <string name="the_anniversary_of_lifting_martial_law">Hərbi Vəziyyətin Qaldırılma İldönümü</string>
     <string name="the_anti_aggression_day">Təcavüzlə Mübarizə Günü</string>
     <string name="the_arbor_day">Ağacəkmə Günü</string>
