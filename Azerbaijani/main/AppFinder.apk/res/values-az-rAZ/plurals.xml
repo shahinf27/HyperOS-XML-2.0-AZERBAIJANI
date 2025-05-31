@@ -19,58 +19,58 @@
         <item quantity="other">Dərhal</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">%d dəq ərzində</item>
         <item quantity="one">%d dəq ərzində</item>
+        <item quantity="other">%d dəq ərzində</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">İndicə</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d dəq əvvəl</item>
         <item quantity="one">%d dəq əvvəl</item>
+        <item quantity="other">%d dəq əvvəl</item>
     </plurals>
     <plurals name="ai_answers_result_reference_title">
-        <item quantity="other">%d veb səhifə</item>
         <item quantity="one">%d veb səhifə</item>
+        <item quantity="other">%d veb səhifə</item>
     </plurals>
     <plurals name="ai_answers_result_reference_web">
-        <item quantity="other">%d veb səhifə yoxlanıldı</item>
         <item quantity="one">%d veb səhifə yoxlanıldı</item>
+        <item quantity="other">%d veb səhifə yoxlanıldı</item>
     </plurals>
     <plurals name="ai_answers_toast_file_max_size">
-        <item quantity="other">"Fayl %d MB-dan çox ola bilməz"</item>
         <item quantity="one">"Fayl %d MB-dan çox ola bilməz"</item>
+        <item quantity="other">"Fayl %d MB-dan çox ola bilməz"</item>
     </plurals>
     <plurals name="ai_answers_toast_img_max_size">
-        <item quantity="other">"Təsvir %d MB-dan çox ola bilməz"</item>
         <item quantity="one">"Təsvir %d MB-dan çox ola bilməz"</item>
+        <item quantity="other">"Təsvir %d MB-dan çox ola bilməz"</item>
     </plurals>
     <plurals name="ai_answers_toast_max_add_img">
-        <item quantity="other">%d elementə qədər əlavə et</item>
         <item quantity="one">%d elementə qədər əlavə et</item>
+        <item quantity="other">%d elementə qədər əlavə et</item>
     </plurals>
     <plurals name="ai_search_toast_input_too_long">
-        <item quantity="other">%d xarakterə qədər daxil et</item>
         <item quantity="one">%d xarakterə qədər daxil et</item>
+        <item quantity="other">%d xarakterə qədər daxil et</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Yarım saat əvvəl</item>
     </plurals>
     <plurals name="hot_news_create_time_days_ago">
-        <item quantity="other">%1$d gün əvvəl</item>
         <item quantity="one">%1$d gün əvvəl</item>
+        <item quantity="other">%1$d gün əvvəl</item>
     </plurals>
     <plurals name="hot_news_create_time_hours_ago">
-        <item quantity="other">%1$d saat əvvəl</item>
         <item quantity="one">%1$d saat əvvəl</item>
+        <item quantity="other">%1$d saat əvvəl</item>
     </plurals>
     <plurals name="hot_news_create_time_mins_ago">
-        <item quantity="other">%1$d dəq əvvəl</item>
         <item quantity="one">%1$d dəq əvvəl</item>
+        <item quantity="other">%1$d dəq əvvəl</item>
     </plurals>
     <plurals name="hour">
-        <item quantity="other">"%d sa "</item>
         <item quantity="one">"%d sa "</item>
+        <item quantity="other">"%d sa "</item>
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">1 saat ərzində</item>
@@ -82,34 +82,34 @@
         <item quantity="other">Dərhal</item>
     </plurals>
     <plurals name="in_num_minutes">
-        <item quantity="other">%d dəqiqə ərzində</item>
         <item quantity="one">1 dəqiqə ərzində</item>
+        <item quantity="other">%d dəqiqə ərzində</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">İndicə</item>
     </plurals>
     <plurals name="minute">
-        <item quantity="other">"%d dəq "</item>
         <item quantity="one">"%d dəq "</item>
+        <item quantity="other">"%d dəq "</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
-        <item quantity="other">%d element seçildi</item>
         <item quantity="one">%d element seçildi</item>
+        <item quantity="other">%d element seçildi</item>
     </plurals>
     <plurals name="mtrl_badge_content_description">
-        <item quantity="other">%d yeni bildiriş</item>
         <item quantity="one">%d yeni bildiriş</item>
+        <item quantity="other">%d yeni bildiriş</item>
     </plurals>
     <plurals name="num_minutes_ago">
-        <item quantity="other">%d dəqiqə əvvəl</item>
         <item quantity="one">1 dəqiqə əvvəl</item>
+        <item quantity="other">%d dəqiqə əvvəl</item>
     </plurals>
     <plurals name="quick_link_guide_participated">
-        <item quantity="other">%d nəfər cavablandırdı</item>
         <item quantity="one">%d nəfər cavablandırdı</item>
+        <item quantity="other">%d nəfər cavablandırdı</item>
     </plurals>
     <plurals name="second">
-        <item quantity="other">%d san</item>
         <item quantity="one">%d san</item>
+        <item quantity="other">%d san</item>
     </plurals>
 </resources>

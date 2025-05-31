@@ -19,23 +19,23 @@
         <item quantity="other">Dərhal</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">%d dəq ərzində</item>
         <item quantity="one">%d dəq ərzində</item>
+        <item quantity="other">%d dəq ərzində</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">İndicə</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d dəq əvvəl</item>
         <item quantity="one">%d dəq əvvəl</item>
+        <item quantity="other">%d dəq əvvəl</item>
     </plurals>
     <plurals name="delete_msg">
-        <item quantity="other">%d element indi silinsin?</item>
         <item quantity="one">%d element indi silinsin?</item>
+        <item quantity="other">%d element indi silinsin?</item>
     </plurals>
     <plurals name="entries">
-        <item quantity="other">%d element</item>
         <item quantity="one">%d element</item>
+        <item quantity="other">%d element</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Yarım saat əvvəl</item>
@@ -50,66 +50,66 @@
         <item quantity="other">Dərhal</item>
     </plurals>
     <plurals name="in_num_minutes">
-        <item quantity="other">%d dəqiqə ərzində</item>
         <item quantity="one">1 dəqiqə ərzində</item>
+        <item quantity="other">%d dəqiqə ərzində</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">İndicə</item>
     </plurals>
     <plurals name="loan_repayment_detail_unit">
-        <item quantity="other">Detallı geri ödəmə (%d il), CNY</item>
         <item quantity="one">Detallı geri ödəmə (%d il), CNY</item>
+        <item quantity="other">Detallı geri ödəmə (%d il), CNY</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
-        <item quantity="other">%d element seçildi</item>
         <item quantity="one">%d element seçildi</item>
+        <item quantity="other">%d element seçildi</item>
     </plurals>
 	<plurals name="miuix_indexer_selected">
-        <item quantity="other">%1$d element seçildi</item>
         <item quantity="one">%1$d element seçildi</item>
+        <item quantity="other">%1$d element seçildi</item>
     </plurals>
     <plurals name="mortgage_summary_years">
-        <item quantity="other">%1$d il (%2$d ay)</item>
         <item quantity="one">%1$d il (%2$d ay)</item>
+        <item quantity="other">%1$d il (%2$d ay)</item>
     </plurals>
     <plurals name="num_minutes_ago">
-        <item quantity="other">%d dəqiqə əvvəl</item>
         <item quantity="one">1 dəqiqə əvvəl</item>
+        <item quantity="other">%d dəqiqə əvvəl</item>
     </plurals>
     <plurals name="select_items">
-        <item quantity="other">%d element seçildi</item>
         <item quantity="one">%d element seçildi</item>
+        <item quantity="other">%d element seçildi</item>
     </plurals>
     <plurals name="tenure_months">
-        <item quantity="other">%d ay</item>
         <item quantity="one">%d ay</item>
+        <item quantity="other">%d ay</item>
     </plurals>
     <plurals name="tenure_years">
-        <item quantity="other">%d il</item>
         <item quantity="one">%d il</item>
+        <item quantity="other">%d il</item>
     </plurals>
     <plurals name="unit_data_display_data_b">
-        <item quantity="other">Bayt</item>
         <item quantity="one">Bayt</item>
+        <item quantity="other">Bayt</item>
     </plurals>
     <plurals name="unit_data_display_data_gb">
-        <item quantity="other">Giqabayt</item>
         <item quantity="one">Giqabayt</item>
+        <item quantity="other">Giqabayt</item>
     </plurals>
     <plurals name="unit_data_display_data_kb">
-        <item quantity="other">Kilobayt</item>
         <item quantity="one">Kilobayt</item>
+        <item quantity="other">Kilobayt</item>
     </plurals>
     <plurals name="unit_data_display_data_mb">
-        <item quantity="other">Meqabayt</item>
         <item quantity="one">Meqabayt</item>
+        <item quantity="other">Meqabayt</item>
     </plurals>
     <plurals name="unit_data_display_data_pb">
-        <item quantity="other">Petabayt</item>
         <item quantity="one">Petabayt</item>
+        <item quantity="other">Petabayt</item>
     </plurals>
     <plurals name="unit_data_display_data_tb">
-        <item quantity="other">Terabayt</item>
         <item quantity="one">Terabayt</item>
+        <item quantity="other">Terabayt</item>
     </plurals>
 </resources>
