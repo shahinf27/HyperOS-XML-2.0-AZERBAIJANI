@@ -603,6 +603,7 @@ cihazınızı qatlayın"</string>
     <string name="user_switching_dialog_switch_into_kid_space">Uşaq sahəsinə dəyişdirilir…</string>
     <string name="user_switching_dialog_switch_out_kid_space">Uşaq sahəsindən çıxılır…</string>
     <string name="user_switching_dialog_text">Dəyişdirilir…</string>
+	<string name="user_switching_message">正在切换为%1$s…</string>
     <string name="vigor">Qüvvət</string>
     <string name="wallpaper_Fragrant_title">Çiçək</string>
     <string name="wallpaper_floral_arrangement_title">Çiçək düzümü</string>

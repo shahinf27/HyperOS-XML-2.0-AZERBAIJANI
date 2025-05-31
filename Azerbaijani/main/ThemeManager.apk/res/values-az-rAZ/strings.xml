@@ -270,6 +270,9 @@
     <string name="card_no_network">"Şəbəkəyə bağlana bilmədi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın."</string>
     <string name="card_retry">Yenidən sına</string>
     <string name="carousel_no_set_wallpaper_effects">"Divar kağızı Karuseli açıq olduqda effektlər təyin edilə bilmir"</string>
+    <string name="carousel_wallpaper">Divar kağızlarını qarışdır</string>
+    <string name="carousel_wallpaper_dlg_apply_home_btn">Yalnız əsas ekran</string>
+    <string name="carousel_wallpaper_dlg_apply_lock_btn">Bu divar kağızı dəsti Kilid ekranına da tətbiq edilsin?</string>
     <string name="change_host_hint">Hostu dəyişdir</string>
     <string name="change_wallpaper">Divar kağızı</string>
     <string name="character_counter_content_description">%1$d/%2$d simvol daxil edilib</string>
@@ -1943,6 +1946,7 @@ Bu icazəni Ayarlar &gt; \"Gizlilik\"də verə bilərsiniz."</string>
     <string name="thursday">Cümə axşamı</string>
     <string name="thursday_short">C.a.</string>
     <string name="thursday_shortest">C.a.</string>
+    <string name="time_data_talkback">%1$s年%2$s月%3$s日</string>
     <string name="time_picker_dialog_title">Vaxtı ayarla</string>
     <string name="tips_theme_gate_transfer_fail">"Bu səhifə açıla bilmədi. Bir və ya iki dəqiqə gözləyib yenidən sınayın."</string>
     <string name="title_component">Tema komponentləri</string>

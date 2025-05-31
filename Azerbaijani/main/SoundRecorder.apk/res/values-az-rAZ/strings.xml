@@ -903,7 +903,6 @@
     <string name="text_for_build_database_progress_state_running">Daha dəqiq nəticələr təqdim etmək üçün səsyazmalar təhlil edilir…</string>
     <string name="text_for_build_database_progress_state_stooping">"Daha dəqiq nəticələr təqdim etmək üçün səsyazmalar cihazınızda təhlil ediləcək.
 Hazırda fasilə verilib. Cihazınızı istifadə etmədikdə təhlillər davam etdiriləcək."</string>
-    <string name="text_input_layout_default_error">Bu, ilkin xətadır</string>
 	<string name="text_play_speed_0_5">0.5X oxutma sürəti</string>
     <string name="text_play_speed_1_0">Normal oxutma sürəti</string>
     <string name="text_play_speed_1_5">1.5X oxutma sürəti</string>

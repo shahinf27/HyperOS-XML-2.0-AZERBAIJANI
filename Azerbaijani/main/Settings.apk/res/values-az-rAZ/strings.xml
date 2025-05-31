@@ -354,6 +354,8 @@ Klaviaturada və ya naviqasiya çubuğunda yaxınlaşdıra bilməzsiniz."</strin
     <string name="accessibility_shortcut_type_software_gesture">2 barmaqla aşağıdan yuxarı sürüşdürün</string>
     <string name="accessibility_shortcut_type_triple_tap">Ekrana üç dəfə toxun</string>
     <string name="accessibility_shortcuts_settings_title">Əlçatımlılıq qısayolları</string>
+    <string name="accessibility_sliding_button_state_description_off">Söndürüldü</string>
+    <string name="accessibility_sliding_button_state_description_on">İşə salındı</string>
     <string name="accessibility_summary_shortcut_disabled">Bağlı</string>
     <string name="accessibility_summary_shortcut_enabled">Qısayol açıqdır</string>
     <string name="accessibility_summary_source">%s tərəfindən təmin edilir</string>
@@ -365,6 +367,8 @@ Klaviaturada və ya naviqasiya çubuğunda yaxınlaşdıra bilməzsiniz."</strin
     <string name="accessibility_sync_error">Sinxr xətası.</string>
     <string name="accessibility_sync_in_progress">İndi sinxronlaşdırılır</string>
     <string name="accessibility_system_controls_title">Sistem kontrolları</string>
+    <string name="accessibility_tab_state_description_unselect">Seçilmədi</string>
+    <string name="accessibility_tab_statedesc_unselect">Seçilmədi</string>
     <string name="accessibility_tap_assistance_title">Zamanlama kontrolları</string>
     <string name="accessibility_text_reading_confirm_dialog_message">Ekranınızın ölçüsü və mətn tərcihləriniz telefonun orijinal ayarlarına sıfırlacaq</string>
     <string name="accessibility_text_reading_confirm_dialog_reset_button">Sıfırla</string>
@@ -2315,6 +2319,8 @@ Bu özəlliyi Ayarlar &gt; Bluetooth &gt; \"Cütləşdirilmiş cihazlar\"da sön
     <string name="bt_audiorepair_pre_title">Səs kəkələməsini düzəlit</string>
     <string name="bt_audiorepair_summary">Bağlantılı Bluetooth cihazlarında səs kəkələməsini düzəldin</string>
     <string name="bt_audiorepair_working">Səs kəkələməsi düzəldilir…</string>
+    <string name="bt_button_state_close">Söndürüldü</string>
+    <string name="bt_button_state_open">İşə salındı</string>
     <string name="bt_connect_help_car">Avtomobil sistemləri</string>
     <string name="bt_connect_help_car_first">%d. Avtomobil sisteminizdəki Bluetooth ayarlarını açın və Bluetooth-u kəşf oluna bilən rejimə ayarlayın.</string>
     <string name="bt_connect_help_car_second">"%d. Telefonunuzda və ya planşetinizdə Bluetooth-u işə salın, avtomobilinizin sistemini tapın və cütləşdirin."</string>
@@ -2717,6 +2723,7 @@ Bu icazə açıq olduqda, bir etiket aşkarlandıqda bu tətbiq seçim olaraq ə
     <string name="clear_uri_btn_text">Müraciəti təmizlə</string>
     <string name="clear_user_data_text">Anbarı təmizlə</string>
     <string name="clearable_edittext_clear_description">Təmizlə</string>
+    <string name="click_play_music">Zəng səsini oxutmaq üçün toxunun</string>
     <string name="clock_component_name"></string>
     <string name="cloned_app_created_summary">Klonlandı</string>
     <string name="cloned_app_created_toast_summary">%1$s klonu yaradıldı</string>
@@ -3584,6 +3591,7 @@ Lütfən bu kodu texniki mütəxəssisə göndərin."</string>
     <string name="disabled_by_policy_title_biometric_parental_consent">Valideyn lazımdır</string>
     <string name="disabled_by_policy_title_camera">Kamera istifadə edilə bilmir</string>
     <string name="disabled_by_policy_title_financed_device">Kredit provayderiniz tərəfindən əngəlləndi</string>
+    <string name="disabled_by_policy_title_financed_device_for_airtel">Airtel tərəfindən əngəlləndi</string>
     <string name="disabled_by_policy_title_outgoing_calls">Zəng edilə bilmir</string>
     <string name="disabled_by_policy_title_screen_capture">Ekran şəkli çəkilə bilmir</string>
     <string name="disabled_by_policy_title_sms">SMS mesajı göndərilə bilmir</string>
@@ -4213,8 +4221,10 @@ Cihazınızı yenidən başladıb bir daha sınayın."</string>
     <string name="financed_device_info">Maliyyələşdirilən cihaz məlumatları</string>
     <string name="financed_privacy_IMEI">IMEI nömrənizə müraciət</string>
     <string name="financed_privacy_allowlisted_apps">Kredit provayderi tərəfindən icazə verilən tətbiqlərə müraciət</string>
+    <string name="financed_privacy_allowlisted_apps_for_airtel">Airtel tərəfindən icazə verilən tətbiqlərə müraciət</string>
     <string name="financed_privacy_config_date_time">Tarixi, saatı və saat qurşağını dəyişdir</string>
     <string name="financed_privacy_credit_provider_capabilities_category">Kredit provayderiniz edə bilər:</string>
+    <string name="financed_privacy_credit_provider_capabilities_category_for_airtel">Airtel edə bilər:</string>
     <string name="financed_privacy_developer_options">Gəlişdirici seçimlərini istifadə et</string>
     <string name="financed_privacy_emergency_calls">Fövqəladə hal zəngləri et</string>
     <string name="financed_privacy_factory_reset">Nəsə səhv olarsa, cihazınızı fabrik ayarlarına sıfırlayın</string>
@@ -4225,16 +4235,23 @@ Cihazınızı yenidən başladıb bir daha sınayın."</string>
 Əgər ödənişi buraxsanız, kredit provayderiniz cihazınızı kilidləyə və cihaz ayarlarını dəyişdirə bilər.
 
 Daha ətraflı öyrənmək üçün kredit provayderinizlə əlaqə saxlayın."</string>
+    string name="financed_privacy_intro_for_airtel">"Airtel cihazda ayarları dəyişdirə və yazılım quraşdıra bilər.
+
+Bir ödənişi buraxsanız, cihazınız kilidlənəcək.
+
+Daha ətraflı məlumat üçün Airtel ilə əlaqə saxlayın."</string>
     <string name="financed_privacy_locked_mode_category">Cihazınız kilidlənsə, yalnız bunları istifadə edə bilərsiniz:</string>
     <string name="financed_privacy_multi_users">Cihazınıza çoxlu istifadəçi əlavə etmə</string>
     <string name="financed_privacy_notifications">Bildirişlərə və mətn mesajlarına bax</string>
     <string name="financed_privacy_restrictions_category">Cihazınız maliyyələşdirilibsə, bunları edə bilməzsiniz:</string>
+    <string name="financed_privacy_restrictions_category_for_airtel">Cihazınıza subsidiyalıdırsa, bunları edə bilməzsiniz:</string>
     <string name="financed_privacy_restrictions_removed">Bütün məhdudiyyətlər cihazdan çıxarılır</string>
     <string name="financed_privacy_safe_mode">Cihazınızı güvənli rejimdə yenidən başlatma</string>
     <string name="financed_privacy_settings">Maliyyələşdirilən cihaz məlumatları</string>
     <string name="financed_privacy_system_info">Tarix, vaxt, şəbəkə statusu və batareya kimi sistem məlumatlarına bax</string>
     <string name="financed_privacy_turn_on_off_device">Cihazınızı açma və ya söndürmə</string>
     <string name="financed_privacy_uninstall_creditor_app">Kreditor tətbiqini silə bilərsiniz</string>
+    <string name="financed_privacy_uninstall_creditor_app_for_airtel">Airtel tətbiqini silə bilməzsiniz</string>
     <string name="find_broadcast_join_broadcast_error">Yayıma qoşula bilmir</string>
     <string name="find_broadcast_password_dialog_connection_error">Bağlantı qurula bilmir. Yenidən sınayın.</string>
     <string name="find_broadcast_password_dialog_password_error">Yanlış parol</string>
@@ -4739,13 +4756,17 @@ Ekran kilidini təsdiqləyə biləcəyiniz sahə sağa hərəkət edəcək."</st
     <string name="gxzw_add_fingerprint_put_finger_title">Basın və titrəyişdən sonra qaldırın</string>
     <string name="gxzw_add_fingerprint_title">Barmaq izinizi əlavə edin</string>
     <string name="gxzw_anim_aurora">Şəfəq</string>
+    <string name="gxzw_anim_category_mini">Minimalist</string>
     <string name="gxzw_anim_dialog_cancel_enroll">İmtina</string>
     <string name="gxzw_anim_dialog_enroll">Oldu</string>
     <string name="gxzw_anim_dialog_message">Barmaq izi animasiyasını görə bilmək üçün barmaq izinizi əlavə edin. İndi əlavə edilsin?</string>
     <string name="gxzw_anim_dialog_title">Barmaq izi əlavə et</string>
+    <string name="gxzw_anim_download_fail">"Endirilə bilmədi"</string>
+    <string name="gxzw_anim_download_network_error">Bir şəbəkə xətası baş verdi</string>
     <string name="gxzw_anim_pulse">Yanıb sönmə</string>
     <string name="gxzw_anim_rhythm">Ritm</string>
     <string name="gxzw_anim_star">Ulduz işığı</string>
+    <string name="gxzw_anim_switch">Barmaq izi animasiyası</string>
     <string name="gxzw_anim_title">Barmaq izini tanıma</string>
     <string name="gxzw_aod_show_summary">Barmaq izi ikonunun görünməsi üçün cihazı qaldırın və ya ekrana toxunun. Bu özəllik sistemin enerji sərfiyyatını artırır, ancaq cihazın kilidini daha sürətli açmağınıza imkan verir.</string>
     <string name="gxzw_aod_show_tittle">Ekran sönülü olduqda barmaq izi ikonunu göstər</string>
@@ -4965,6 +4986,7 @@ Xiaomi Cloud-u açın, elementləri oradan bərpa edin."</string>
     <string name="hwui_force_dark_summary">Məcburi qaranlıq rejimi özəlliyini daim açıq saxla</string>
     <string name="hwui_force_dark_title">Məcburi qaranlıq rejim</string>
     <string name="icon_content_description">Dialoq ikonu</string>
+    <string name="icon_display_customization_action">Keçid ekranını özəlləşdir</string>
     <string name="ignore_optimizations_off">Optimallaşdır</string>
     <string name="ignore_optimizations_off_desc">Daha yaxşı batareya ömrü üçün tövsiyə olunur</string>
     <string name="ignore_optimizations_on">Optimallaşdırılmasın</string>
@@ -5703,6 +5725,8 @@ PIN, telefon itsə və ya oğurlansa onu qoruyur."</string>
     <string name="lock_screen_pin_skip_message">PIN, telefon itsə və ya oğurlansa onu qoruyur</string>
     <string name="lock_screen_pin_skip_title">PIN qurma ötürülsün?</string>
     <string name="lock_screen_settings_title">Kilid ekranı</string>
+    <string name="lock_screen_shortcuts_subtitle">Yalnız \"Klassik\" və ya \"Limitsiz\" temalarını istifadə edərkən çalışır</string>
+    <string name="lock_screen_shortcuts_title">Qısayolları özəlləşdir</string>
     <string name="lock_screen_signature_summary">Bu mesaj Kilid ekranında nümayiş olunacaq</string>
     <string name="lock_screen_signature_title">Kilid ekranında sahib məlumatları</string>
     <string name="lock_screen_skip_setup_title">%s qurma ötürülsün?</string>
@@ -6280,6 +6304,7 @@ Bu əməliyyatın geri dönüşü yoxdur."</string>
     <string name="miheadset_LEAudio_title">LE Audio işə salınsın?</string>
     <string name="miheadset_LE_on_toast">Bu özəlliyi işə salmazdan əvvəl hər iki qulaqlığın da dolu olduğuna əmin olub onları qutudan çıxarın</string>
     <string name="miheadset_LeftEar">Sol</string>
+    <string name="miheadset_MFB_and_minus">MFB və \"-\" düyməsini %d saniyə basılı tutun</string>
     <string name="miheadset_RightEar">Sağ</string>
     <string name="miheadset_active">Enerjili</string>
     <string name="miheadset_adaptive">Adaptiv</string>
@@ -6322,6 +6347,7 @@ Bu əməliyyatın geri dönüşü yoxdur."</string>
     <string name="miheadset_disconnect">Bağlantını kəs</string>
     <string name="miheadset_disconnect_ble">Bluetooth ilə bağlantını kəs</string>
     <string name="miheadset_disconnect_device">Bu cihazla bağlantı kəsilsin?</string>
+    <string name="miheadset_double_MFB">MFB-yə cüt toxunun</string>
     <string name="miheadset_double_click_key_mode">2 dəfə toxun</string>
     <string name="miheadset_double_click_left">Sol qulaqlığa iki dəfə toxunun</string>
     <string name="miheadset_double_click_right">Sağ qulaqlığa iki dəfə toxun</string>
@@ -6394,6 +6420,8 @@ Bu əməliyyatın geri dönüşü yoxdur."</string>
     <string name="miheadset_key_config_volume_up_down">Səsi ayarla</string>
     <string name="miheadset_last_version">Firmware güncəldir</string>
     <string name="miheadset_local_ota">Güncəllə</string>
+    <string name="miheadset_long_press_MFB">MFB-ni %d saniyə basılı tutun</string>
+    <string name="miheadset_long_press_minus">\"-\" düyməsini %d saniyə basılı tutun</string>
     <string name="miheadset_longpress_left_temple">Sol tərəfi basılı tut</string>
     <string name="miheadset_longpress_right_temple_when_calling">Zəng zamanı sağ tərəfi basılı tut</string>
     <string name="miheadset_longpress_right_temple_when_idle">Zəngdə olmadıqda sağ tərəfi basılı tut</string>
@@ -6414,8 +6442,10 @@ Bu əməliyyatın geri dönüşü yoxdur."</string>
     <string name="miheadset_openAnc">Səs-küy əngəlləmə</string>
     <string name="miheadset_phone_connected_hangup">Zəngi cavablandır və ya bitir</string>
     <string name="miheadset_phone_play_pause">Oxut və ya fasilə ver</string>
+    <string name="miheadset_play_mode">Oxutma rejimi</string>
     <string name="miheadset_play_pause">Oxut/Fasilə ver</string>
     <string name="miheadset_plus">Səsi artır</string>
+    <string name="miheadset_plus_and_minus">\"+\" və \"-\" düymələrini %d saniyə basılı tutun</string>
     <string name="miheadset_preferences">Tərcihlər</string>
     <string name="miheadset_rename">Adı dəyişdir</string>
     <string name="miheadset_rename_device">Adı dəyişdir</string>
@@ -6433,11 +6463,14 @@ Bu əməliyyatın geri dönüşü yoxdur."</string>
     <string name="miheadset_spatial_audio_on">Açıq</string>
     <string name="miheadset_spatial_audio_summary">Dəstəklənən səs və video üçün immersiv və məkan hissini yaşayın</string>
     <string name="miheadset_support">Kömək</string>
+    <string name="miheadset_switch_play_order">Oxutma sırasını dəyişdir</string>
     <string name="miheadset_transparent">Şəffaflıq</string>
     <string name="miheadset_transparentMode">Şəffaflıq</string>
+    <string name="miheadset_triple_MFB">MFB-yə 3 dəfə toxunun</string>
     <string name="miheadset_triple_click_key_mode">Üç dəfə toxun</string>
     <string name="miheadset_triple_press_left">Sol qulaqlığa üç dəfə basın</string>
     <string name="miheadset_triple_press_right">Sağ qulaqlığa üç dəfə basın</string>
+    <string name="miheadset_turn_on_off_swim">Üzməyi başlat/bitir</string>
     <string name="miheadset_unpair_device_text">%1$s, bu Xiaomi Hesabı ilə əlaqələndirilmiş bütün cihazlardan ayrılacaq.</string>
     <string name="miheadset_virtual_surround">Virtual immersiv səs</string>
     <string name="miheadset_virtual_surround_summary">"Qulaqlıqlarda səs və video oxutma üçün səs dərinliyini zənginləşdirin. Bu özəllik, %s kanal səsi oxudulduqda işləmir."</string>
@@ -6596,7 +6629,13 @@ Bu əməliyyatın geri dönüşü yoxdur."</string>
     <string name="miui_visual_perception_summary">Cihazınızın varlığınızı aşkarlamasını, daha uyğun kilidləmə və kilid açma variantları seçməsini təmin edin</string>
     <string name="miui_visual_perception_title">Aktiv vizual qavrayış</string>
     <string name="miuix_access_state_desc">Seçildi</string>
+    <string name="miuix_accessibility_title">Başlıq</string>
     <string name="miuix_alphabet_indexer_name">İndeks çubuğu</string>
+    <string name="miuix_appcompat_accessibility_collapse_state">Yığcamlaşdırıldı</string>
+    <string name="miuix_appcompat_accessibility_expand_state">Genişləndirildi</string>
+    <string name="miuix_appcompat_accessibility_finish_edit_action_mode">Düzəliş rejimindən çıx</string>
+    <string name="miuix_appcompat_accessibility_new_message">Yeni bildiriş</string>
+    <string name="miuix_appcompat_accessibility_start_edit_action_mode">Düzəliş rejiminə daxil ol</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Heç birini seçmə</string>
     <string name="miuix_appcompat_action_mode_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_action_mode_title_empty">Elementləri seç</string>
@@ -6612,10 +6651,21 @@ Bu əməliyyatın geri dönüşü yoxdur."</string>
     <string name="miuix_appcompat_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_select_all_description">Hamısını seç</string>
     <string name="miuix_appcompat_select_item">Elementləri seç</string>
-	<string name="miuix_appcompat_show_dialog_description">Açılan pəncərə</string>
+    <string name="miuix_appcompat_show_dialog_description">Açılan pəncərə</string>
+    <string name="miuix_bottom_sheet_accessibility_scroll_down_to_close">Bağlamaq üçün aşağı sürüşdür</string>
+    <string name="miuix_bottom_sheet_accessibility_scroll_down_to_half_screen">Yarım ekrana keçmək üçün aşağı sürüşdür</string>
+    <string name="miuix_bottom_sheet_accessibility_scroll_down_to_minimized">Kiçiltmək üçün aşağı sürüşdür</string>
+    <string name="miuix_bottom_sheet_accessibility_scroll_up_to_half_screen">Yarım ekrana keçmək üçün yuxarı sürüşdür</string>
+    <string name="miuix_bottom_sheet_accessibility_scroll_up_to_maximized">Böyütmək üçün yuxarı sürüşdür</string>
+    <string name="miuix_bottom_sheet_accessibility_state_half_screen">Yarım ekran</string>
+    <string name="miuix_bottom_sheet_accessibility_state_maximized">Böyüdüldü</string>
+    <string name="miuix_bottom_sheet_accessibility_state_minimized">Kiçildildi</string>
+    <string name="miuix_bottom_sheet_accessibility_switch_to_half_screen">Yarım ekrana keç</string>
+    <string name="miuix_bottom_sheet_accessibility_switch_to_maximized">Böyüt</string>
+    <string name="miuix_bottom_sheet_accessibility_switch_to_minimized">Kiçilt</string>
     <string name="miuix_indexer_collect">Kolleksiyalar</string>
-    <string name="miuix_indexer_selected">%s seçildi</string>
 	<string name="miuix_popup_window_default_title">Açılan pəncərə</string>
+    <string name="miuix_progressbar_loading">Bir saniyə…</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Təzələmək üçün aşağı çək</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Uğurla təzələndi</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Təzələnir…</string>
@@ -6624,6 +6674,9 @@ Bu əməliyyatın geri dönüşü yoxdur."</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">"İndilik bu qədər"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Bir saniyə…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Elementlər yüklənə bilmədi"</string>
+    <string name="miuix_show_password">Parolu göstər</string>
+    <string name="miuix_stretchablewidget_collapsed">Yığcamlaşdırıldı</string>
+    <string name="miuix_stretchablewidget_expanded">Genişləndirildi</string>
     <string name="mms_breathing_light_color_title">Mesaj işığı rəngi</string>
     <string name="mms_breathing_light_freq_title">Mesajlarda yanıb sönmə tezliyi</string>
     <string name="mms_message_summary">Mobil internet bağlı olduqda göndər və al</string>
@@ -6963,6 +7016,7 @@ Bu əməliyyatın geri dönüşü yoxdur."</string>
     <string name="near_loclscreen_title">Qayıtdıqda ekranı oyandır</string>
     <string name="nearby_wifi">Mövcud şəbəkələr</string>
     <string name="nearby_wifi_refresh">Təzələ</string>
+    <string name="nearby_wifi_refresh_running">Təzələnir</string>
     <string name="nearby_wifi_title">Əlçatan cihazlar</string>
     <string name="need_reboot_now">Güncəlləməni quraşdırmaq üçün yenidən başladın.</string>
     <string name="net_slicing_switch_summary">Sazlama üçün eyni infrastrukturdakı şəbəkələrin multipleksləşdirilməsini istifadə edin (operatorunuz təmin etdikdə əlçatandır)</string>
@@ -8493,7 +8547,8 @@ Sahənizdəki bütün tətbiqlər və dataları da həmişəlik telefonunuzun \"
     <string name="ring_volume_option_title">Zəng səsi</string>
     <string name="ringer_content_description_silent_mode">Zəng səsi səssizdədir</string>
     <string name="ringer_content_description_vibrate_mode">Zəng səsi titrəmədədir</string>
-    <string name="ringer_mode_setting_summary">Gələn zəngləri və bildirişləri susdur</string>
+    <string name="ringer_mode_setting_summary_default">Gələnz zəngləri və bildirişləri susdur</string>
+    <string name="ringer_mode_setting_summary_tablet">Bildirişləri susdur</string>
     <string name="ringer_mode_setting_title">Səssiz rejim</string>
     <string name="ringtone_slot_setting_title">Tək SIM ayarları</string>
     <string name="ringtone_title">Zəng səsi</string>
@@ -8601,7 +8656,7 @@ Hesab dəyişikliklərinin Ayarlarda görünməsi bir az çəkə bilər. Detalla
     <string name="screen_enhance_engine_ai_note_3">"%d. Orijinal rənglərin nümayiş olunmasını seçsəniz və ya qabaqcıl nizamlamalar tətbiq etsəniz bu özəllik işləməyəcək."</string>
     <string name="screen_enhance_engine_ai_open">Təsvirləri təkmilləşdir</string>
     <string name="screen_enhance_engine_ai_pic_summary">"Obyektləri (məs.: bitkilər, heyvanlar, binalar) müəyyənləşdir və ekran effektlərini dinamik olaraq nizamla. "</string>
-    <string name="screen_enhance_engine_ai_title">AI təsvir təkmilləşdirmə</string>
+    <string name="screen_enhance_engine_ai_title">AI Təsvir Təkmilləşdirmə</string>
     <string name="screen_enhance_engine_dualDPU_note">Xüsusi bir çip istifadə etmək, video dəqiqliyini artırır, kadr sürətini təkmilləşdirir və HDR-ı optimallaşdırır. Bu, daha canlı və problemsiz təcrübə təqdim edir.</string>
     <string name="screen_enhance_engine_dualDPU_summary">Xüsusi bir çip ilə video keyfiyyətini təkmilləşdir</string>
     <string name="screen_enhance_engine_dualDPU_title">İki nüvəli vizuallar</string>
@@ -9413,11 +9468,27 @@ Hər dəfə barmağınızı yüngülcə hərəkət etdirin. Bu, barmaq izinizin 
     <string name="set_shoulder_key_shortcut_negative_button">Xeyr</string>
     <string name="set_shoulder_key_shortcut_positive_button">Bəli</string>
     <string name="set_shoulder_key_shortcut_title">Çiyin düymələrini konfiqurasiya et</string>
+    <string name="setting_alarm_clock_title">Zəngli saat</string>
+    <string name="setting_hotspot_title">Hotspot</string>
+    <string name="setting_location_title">Yerləşmə xidmətləri</string>
+    <string name="setting_network_speed_title">Bağlantı sürəti</string>
+    <string name="setting_pad_title">Planşet</string>
+    <string name="setting_pc_title">Kompüter</string>
+    <string name="setting_phone_title">Telefon</string>
     <string name="setting_privacy_password">Gizlilik qoruma parolunu təyin et</string>
+    <string name="setting_privacy_title">Gizlilik bildirişi</string>
+    <string name="setting_roaming_title">Rouminq</string>
+    <string name="setting_sound_box_title">Dinamik</string>
+    <string name="setting_tv_title">TV</string>
+    <string name="setting_volume_title">Səssiz</string>
+    <string name="setting_vpn_title">VPN</string>
+    <string name="setting_wireless_headset_title">Qulaqlıq</string>
+    <string name="setting_zen_title">NE</string>
     <string name="settings_ad_loading">Yüklənir…</string>
     <string name="settings_ad_loading_unavailable">"Məlumat yüklənə bilmədi."</string>
     <string name="settings_backup">Nüsxələmə ayarları</string>
     <string name="settings_backup_summary">Ayarlarımı nüsxələ</string>
+    <string name="settings_bluetooth_title">Bluetooth</string>
     <string name="settings_button">Ayarlar</string>
     <string name="settings_charging_at_fast_speed">Sürətli doldurma</string>
     <string name="settings_charging_at_normal_speed">Dolur</string>
@@ -9993,14 +10064,19 @@ Cihazınızda quraşdırılmış güvənli bir kimlik məlumatı bunu mümkün e
     <string name="status_bar_app_enable_message">Nişanlar</string>
     <string name="status_bar_carrier_settings_no_sim_card">SIM kart yoxdur</string>
     <string name="status_bar_icons_title">Status çubuğu ikonları</string>
+    <string name="status_bar_setting_camera_title">Kamera</string>
+    <string name="status_bar_setting_car_title">Nəqliyyat</string>
+    <string name="status_bar_setting_glasses_title">Eynək</string>
     <string name="status_bar_settings">Bildirişlər və status çubuğu</string>
     <string name="status_bar_settings_all_app_display_loading">Bir saniyə…</string>
+    <string name="status_bar_settings_connected_devices">Bağlantılı cihazlar</string>
     <string name="status_bar_settings_manage_notification">Tətbiq bildirişləri</string>
     <string name="status_bar_settings_notification_bar">Bildiriş paneli</string>
     <string name="status_bar_settings_notification_use_app_icon">Bildirişlər üçün tətbiq ikonlarını istifadə et</string>
     <string name="status_bar_settings_qs_layout">Cəld ayarlar düzümü</string>
     <string name="status_bar_settings_show_lte_for_4g">4G üçün LTE ikonunu göstər</string>
     <string name="status_bar_settings_status_bar">Status çubuğu</string>
+    <string name="status_bar_settings_system_state">Sistem</string>
     <string name="status_bar_title">İdarəetmə mərkəzi və status çubuğu</string>
     <string name="status_bt_address">Bluetooth ünvanı</string>
     <string name="status_data_network_type">Mobil internet şəbəkə növü</string>
@@ -10568,8 +10644,7 @@ Daha sürətli ^3 istifadə etməyə çalışın və ya bunun əvəzinə portati
     <string name="tethering_help_button_text">Kömək</string>
     <string name="tethering_interface_options">İnternet paylaşımı</string>
     <string name="tethering_settings_not_available">Birinci sahədə internet paylaşımı ayarlarını dəyişdir</string>
-	<string name="text_input_layout_default_content_description">这是默认的content description</string>
-    <string name="text_input_layout_default_error">这是默认的error</string>
+	<string name="text_input_layout_default_error">Bu, ilkin xətadır</string>
 	<string name="text_layout_optimization_switch_label">Mətn düzümünü optimallaşdır</string>
     <string name="text_layout_optimization_switch_toast">"Hazırkı şriftlə mətn düzümü optimallaşdırıla bilmir"</string>
     <string name="texture_adjust_temperature_title">Rəng temperaturu</string>
@@ -12614,7 +12689,8 @@ digər istifadəçilərin şəbəkələrini də istifadə edə bilərsiniz."</st
     <string name="zen_mode_starred_contacts_title">Ulduzlanmış kontaktlar</string>
     <string name="zen_mode_start_time">Başlama vaxtı</string>
     <string name="zen_mode_summary">Daxil olan zəngləri, bildirişləri, medianı susdurun və titrəməni söndürün</string>
-    <string name="zen_mode_summary2">"Gələn zənglər və bildirişlər üçün xatırladıcı olmayacaq"</string>
+    <string name="zen_mode_summary2_default">"Gələn zənglər və bildirişlər üçün xatırladıcı olmayacaq"</string>
+    <string name="zen_mode_summary2_tablet">"Bildirişlər üçün xatırladıcı olmayacaq"</string>
     <string name="zen_mode_summary_alarms_only_by_hour">{count, plural, one {}=1 {{time} olana qədər zəngli saatları yalnız bir saatlıq dəyişdir} other {{time} olana qədər zəngli saatları yalnız # saatlıq dəyişdir} }</string>
     <string name="zen_mode_summary_alarms_only_by_minute">{count, plural, one {}=1 {{time} olana qədər zəngli saatları yalnız bir dəqiqəlik dəyişdir} other {({time} olana qədər zəngli saatları yalnız # dəqiqəlik dəyişdir)} }</string>
     <string name="zen_mode_summary_alarms_only_by_time">Yalnız %1$s vaxtınadək zəngli saatlara keç</string>

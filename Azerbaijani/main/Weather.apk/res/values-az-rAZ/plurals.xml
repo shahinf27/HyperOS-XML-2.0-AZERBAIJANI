@@ -52,6 +52,10 @@
         <item quantity="other">%1$s dayanacağın ortalaması</item>
         <item quantity="one">%1$s dayanacağın ortalaması</item>
     </plurals>
+    <plurals name="button_confirm_to_second">Add commentMore actions
+        <item quantity="other">%1$s saniyə</item>
+        <item quantity="one">%1$s saniyə</item>
+    </plurals>
     <plurals name="daily_forcast_drawer_on_home">
         <item quantity="other">%1$s günlük hava proqnozu</item>
         <item quantity="one">%1$s günlük hava proqnozu</item>
