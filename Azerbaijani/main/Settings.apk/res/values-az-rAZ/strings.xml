@@ -4235,12 +4235,12 @@ Cihazınızı yenidən başladıb bir daha sınayın."</string>
 Əgər ödənişi buraxsanız, kredit provayderiniz cihazınızı kilidləyə və cihaz ayarlarını dəyişdirə bilər.
 
 Daha ətraflı öyrənmək üçün kredit provayderinizlə əlaqə saxlayın."</string>
-    string name="financed_privacy_intro_for_airtel">"Airtel cihazda ayarları dəyişdirə və yazılım quraşdıra bilər.
+    <string name="financed_privacy_intro_for_airtel">"Airtel cihazda ayarları dəyişdirə və yazılım quraşdıra bilər.
 
 Bir ödənişi buraxsanız, cihazınız kilidlənəcək.
 
 Daha ətraflı məlumat üçün Airtel ilə əlaqə saxlayın."</string>
-    <string name="financed_privacy_locked_mode_category">Cihazınız kilidlənsə, yalnız bunları istifadə edə bilərsiniz:</string>
+    <string name="financed_privacy_locked_mode_category">"Cihazınız kilidlənsə, yalnız bunları istifadə edə bilərsiniz:"</string>
     <string name="financed_privacy_multi_users">Cihazınıza çoxlu istifadəçi əlavə etmə</string>
     <string name="financed_privacy_notifications">Bildirişlərə və mətn mesajlarına bax</string>
     <string name="financed_privacy_restrictions_category">Cihazınız maliyyələşdirilibsə, bunları edə bilməzsiniz:</string>

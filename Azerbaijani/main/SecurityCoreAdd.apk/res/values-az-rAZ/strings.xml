@@ -171,7 +171,7 @@ onları İkinci sahədə göstərin"</string>
     <string name="createUserFail">"Yaradıla bilmədi"</string>
     <string name="create_app_icon_failed">"İkon yaradıla bilmədi"</string>
     <string name="create_app_icon_success">İkon uğurla yaradıldı</string>
-    <string name="create_fail">"Təmir rejimini açıla bilmədi. Yenidən sınayın."/string>
+    <string name="create_fail">"Təmir rejimini açıla bilmədi. Yenidən sınayın."</string>
     <string name="create_fail_because_max_user">Maksimum sistem profili sayına çatıldı. İkinci sahəni, İkili tətbiqləri və ya Uşaq sahəsini silib yenidən sınayın.</string>
     <string name="create_second_space">Uğurla yaradıldı</string>
     <string name="create_space_loading">İkinci sahə yaradılır…</string>
