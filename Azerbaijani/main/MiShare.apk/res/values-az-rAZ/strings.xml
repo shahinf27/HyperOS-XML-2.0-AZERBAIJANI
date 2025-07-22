@@ -78,16 +78,13 @@
     <string name="err_send_short_remote_refuse">Rədd edildi</string>
     <string name="err_send_short_remote_timeout">Cavab yoxdur</string>
 	<string name="err_send_short_send_cancel">Ləğv edilmiş köçürmə</string>
+    <string name="error_ap_in_use">"Hotspot açıq olduqda digər cihazlara fayl göndərilə bilmir"</string>
     <string name="error_ap_or_screen_already_hosting">"Yayım zamanı və ya portativ hotspot istifadə edərkən digər cihazlara element göndərilə bilmir."</string>
     <string name="error_ble_connect_failure">"Alıcı cihaz, Bluetooth-a bağlana bilmədi. Ekranının açıq olduğuna əmin olun."</string>
     <string name="error_ble_connect_timeout">"Bluetooth-a bağlana bilmədi. Hər iki cihazda Bluetooth-a yenidən bağlanıb bir daha sınayın."</string>
     <string name="error_device_lost">"Görünüşə görə digər cihaz cavab vermir. Bir və ya iki dəqiqə gözləyib yenidən sınayın."</string>
-    <string name="error_has_occurred">Xəta baş verdi</string>
-    <string name="error_local_ap_in_use">Bu cihazda hotspot-u söndürüb yenidən sınayın</string>
-    <string name="error_local_easytether">Bu cihazda naqilsiz internet paylaşımını söndürüb yenidən sınayın</string>
-    <string name="error_local_mirror">Bu cihazda Screen Combo-nu söndürüb yenidən sınayın</string>
-    <string name="error_local_p2p_in_use">Bu cihazda cihazlar arası özəlliklərini söndürüb yenidən sınayın</string>
-    <string name="error_local_screening">Bu cihazda yayımı dayandırıb yenidən sınayın</string>
+    <string name="error_has_occurred">Bir xəta baş verdi</string>
+    <string name="error_mirror_working">"Ekran paylaşılarkən elementlər paylaşıla bilmir"</string>
     <string name="error_msg_network_error">"Şəbəkəyə bağlana bilmədi. Hər iki cihazın Wi-Fi və Bluetooth bağlantılarını yoxlayın."</string>
     <string name="error_msg_network_error_china">"Şəbəkəyə bağlana bilmədi. Hər iki cihazın Wi-Fi və Bluetooth bağlantılarını yoxlayın."</string>
     <string name="error_msg_wlan_error">"Bağlantı qurula bilmədi. Wi-Fi-a yenidən bağlanıb bir daha sınayın."</string>
@@ -105,14 +102,9 @@
     <string name="error_receive_user_cancel">Köçürmə ləğv edildi</string>
     <string name="error_receive_user_interrupted">Digər şəxs köçürməni ləğv etdi</string>
     <string name="error_refuse_receive">Köçürmə ləğv edildi</string>
-    <string name="error_remote_ap_in_use">Digər cihazda hotspot-u söndürüb yenidən sınayın</string>
+    <string name="error_remote_ap_working">Digər şəxsdən portativ hotspot-u söndürməsini xahiş edin</string>
     <string name="error_remote_busy">Deyəsən, digər cihaz məşğuldur. Bir və ya iki dəqiqə gözləyib yenidən sınayın.</string>
-    <string name="error_remote_easytether">Digər cihazda naqilsiz internet paylaşımını söndürüb yenidən sınayın</string>
-    <string name="error_remote_mirror">Digər cihazda Screen Combo-nu söndürüb yenidən sınayın</string>
-    <string name="error_remote_p2p_in_use">Digər cihazda cihazlar arası özəlliklərini söndürüb yenidən sınayın</string>
-    <string name="error_remote_screening">Digər cihazda yayımı dayandırıb yenidən sınayın</string>
-    <string name="error_remote_wlan_off">Digər cihazda Wi-Fi-ı işə salın</string>
-    <string name="error_remote_wlan_off_china">Digər cihazda Wi-Fi-ı işə salın</string>
+    <string name="error_remote_mirror_working">"Digər cihazı ekranı paylaşarkən elementləri qəbul edə bilməz"</string>
     <string name="error_self_busy">Cihaz məşğuldur. Bir və ya iki dəqiqə gözləyib yenidən sınayın.</string>
     <string name="error_send_file_cannot_read">"Fayl göndərilə bilmədi. Yenidən sınayın."</string>
     <string name="error_send_file_no_enough_space">"Göndərilə bilmir. Digər cihazda yetərli anbar sahəsi yoxdur."</string>
@@ -152,8 +144,6 @@
     <string name="global_my">"Cihazım
 %1$s"</string>
 	<string name="go_to_settings">Ayarlar</string>
-    <string name="guide_operation">Keçid etmək üçün iki barmaqla sola və ya sağa sürüşdürün</string>
-    <string formatted="false" name="guide_page">第%d页，共%d页</string>
     <string name="guide_page_view1">Hər iki cihazda Xiaomi Share-i işə salın. Digər şəxs İdarəetmə mərkəzindəki açara toxuna bilər. Səhifə %1$d/%2$d. Keçid etmək üçün iki barmaqla sola və ya sağa sürüşdürün.</string>
     <string name="guide_page_view1_lyra">Xiaomi Share-i İdarəetmə mərkəzində işə sala bilərsiniz. Səhifə: %1$d/%2$d. Keçid etmək üçün iki barmaqla sola və ya sağa sürüşdürün.</string>
     <string name="guide_page_view2">"Elementləri göndərmək istədiyiniz cihazı seçin və onun ikonuna toxunun. Səhifə: %1$d/%2$d. Keçid etmək üçün iki barmaqla sola və ya sağa sürüşdürün."</string>
@@ -289,6 +279,18 @@ Digər istehsalçılardan Android cihazları: vivo, realme, OPPO, Black Shark, M
     <string name="noon">Günorta</string>
     <string name="not_set">Ayarlanmadı</string>
     <string name="notification_channel_name">Köçürmə bildirişləri</string>
+    <string name="oh_cancel">OH İmtina</string>
+    <string name="oh_connect">OH Bağlantı</string>
+    <string name="oh_handoff">OH HANDOFF</string>
+    <string name="oh_on_connect">OH OnConnect</string>
+    <string name="oh_send">OH Göndərmə</string>
+    <string name="onehop_connecting_tips">Bağlantı qurulur…</string>
+    <string name="onehop_file_security_tips">Fərdi məlumatlar silinir…</string>
+    <string name="onehop_option_send_confirm">Göndər</string>
+    <string name="onehop_recv_tips">Digər şəxsin elementləri paylaşması gözlənilir…</string>
+    <string name="onehop_remote_cancel">Digər şəxs köçürməni ləğv etdi</string>
+    <string name="onehop_remote_refuse">Digər şəxs köçürməni rədd etdi</string>
+    <string name="onehop_wait_for_connect_ap">Digər şəxsin hotspot-a bağlanılması gözlənilir…</string>
     <string name="operate_too_fast">Tələsməyin! Davam edən əməliyyatların tamamlanmasını gözləyin.</string>
     <string name="pc_device_model_name">Kompüter</string>
     <string name="pc_redmi_device_model_name">Redmi notbuk</string>
@@ -317,7 +319,8 @@ Digər istehsalçılardan Android cihazları: vivo, realme, OPPO, Black Shark, M
     <string name="scanning_device_tips"><Data>Yaxınlıqdakı cihazlar axtarılır. Digər şəxsin İdarəetmə mərkəzində Xiaomi Share-i işə salması lazımdır. &lt;a>Ətraflı öyrən&lt;/a></Data></string>
     <string name="scanning_only_xiaomi_device">Bu element yalnız Xiaomi və ya Black Shark cihazlarına köçürülə bilər</string>
     <string name="search_menu_title">Axtar</string>
-    <string name="send">Göndər</string>
+    <string name="select_file">fayl əlavə et</string>
+    <string name="send">göndər</string>
     <string name="send_file">FAYL GÖNDƏR</string>
     <string name="send_files_by">Faylları paylaş</string>
     <string name="send_files_to">Elementləri göndər</string>
@@ -336,13 +339,42 @@ Digər istehsalçılardan Android cihazları: vivo, realme, OPPO, Black Shark, M
     <string name="send_one_zip_dialog_desc_received">%2$d ZIP faylı \"%3$s\" | %1$s cihazından alındı</string>
     <string name="send_one_zip_dialog_desc_receiving">%2$d ZIP faylı \"%3$s\" | %1$s cihazından alınır</string>
     <string name="send_successfully">Uğurla göndərildi</string>
+    <string name="send_text">mətni göndər:</string>
     <string name="sender_error">"Göndərilə bilmədi. Bir və ya iki dəqiqə gözləyib yenidən sınayın."</string>
 	<string name="share_canceled">Köçürmə ləğv edildi</string>
     <string name="share_complete">Köçürmə uğurla tamamlandı</string>
+    <string name="share_device_near_share">Yaxınlıqda olduqda paylaş</string>
+    <string name="share_device_near_share_condition">Paylaşım şərtləri</string>
+    <string name="share_device_near_share_condition_describe">"%1$d. Hər iki cihazda NFC, Bluetooth və Wi-Fi-ın açıq olduğuna əmin olun.
+%2$d. Xiaomi Share-i %3$s versiyasına güncəlləyin.
+%4$d. Əgər iPhone istifadə edirsinizsə, Xiaomi Ara bağlantı tətbiqini quraşdırın."</string>
+    <string name="share_device_near_share_condition_describe_china">"%1$d. Hər iki cihazda NFC, Bluetooth və Wi-Fi-ın açıq olduğuna əmin olun.
+%2$d. Xiaomi Share-i %3$s versiyasına güncəlləyin.
+%4$d. Əgər iPhone istifadə edirsinizsə, Xiaomi Ara bağlantı tətbiqini quraşdırın."</string>
+    <string formatted="false" name="share_device_near_share_content_describe">"Aşağıdakı məzmun növlərini göndərə bilərsiniz:
+%d. Foto paylaşımı: Qalereyada fotonun yanındakı \"Paylaş\"a toxunun.
+%d. Fayl paylaşımı: Fayl Menecerində bir fayl seçin."</string>
+    <string name="share_device_near_share_content_title">Məzmun paylaşımı</string>
+    <string name="share_device_near_share_image_describe">Paylaşımı başlatmaq üçün hər iki cihazın NFC sahələrinin bir-birinə yaxın tutun</string>
+    <string name="share_device_near_share_subtitle">Paylaşmaq üçün hər iki cihazı yaxın tutun</string>
     <string name="share_failed">Köçürmə tamamlana bilmədi</string>
     <string name="share_notification_receive_confirm_content">Buradan: %1$s</string>
+    <string name="share_open_nfc_content">Bu özəlliyi istifadə edə bilmək üçün NFC-ni işə salın. İndi işə salınsın?</string>
+    <string name="share_open_nfc_title">NFC-ni işə sal</string>
     <string name="share_refuse">Köçürməyə rədd cavabı verildi</string>
     <string name="share_send_notification_describe">Alıcı: %1$s</string>
+    <string name="share_show_nfc_position"><Data>&lt;a href=%1$s>NFC sahəsinə bax&lt;/a></Data></string>
+    <string name="size_of_B">%d B</string>
+    <string name="size_of_GB">%d GB</string>
+    <string name="size_of_KB">%d KB</string>
+    <string name="size_of_MB">%d MB</string>
+    <string name="size_of_one_float_GB">%.1f GB</string>
+    <string name="size_of_one_float_KB">%.1f KB</string>
+    <string name="size_of_one_float_MB">%.1f MB</string>
+    <string name="size_of_two_float_GB">%.2f GB</string>
+    <string name="size_of_two_float_KB">%.2f KB</string>
+    <string name="size_of_two_float_MB">%.2f MB</string>
+    <string name="size_of_two_float_TB">%.2f TB</string>
     <string name="solar_term_autumn_begins">Payız başlayır</string>
     <string name="solar_term_autumn_equinox">Payız gündönümü</string>
     <string name="solar_term_clear_and_bright">Təmiz və parlaq</string>
@@ -429,6 +461,8 @@ Digər istehsalçılardan Android cihazları: vivo, realme, OPPO, Black Shark, M
     <string name="thursday">Cümə axşamı</string>
     <string name="thursday_short">C.a.</string>
     <string name="thursday_shortest">C.a.</string>
+	<string name="tile_state_active">Açıq</string>
+    <string name="tile_state_inactive">Bağlı</string>
     <string name="tile_state_unavailable">Əlçatmazdır</string>
     <string name="time_picker_dialog_title">Vaxtı ayarla</string>
     <string name="tips_p2p_support_use5g">Ən yaxşı nəticə üçün 5 GHz Wi-Fi şəbəkəsini istifadə edin.</string>

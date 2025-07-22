@@ -30,7 +30,7 @@
     <string name="afternoon">Günortadan sonra</string>
     <string name="am">GƏ</string>
     <string name="app_has_uninstall">Bu tətbiq silindi</string>
-    <string name="app_no_storage_permission">Əvvəlcə %1$s üçün Ayarlar &gt; Tətbiqlər &gt; %2$s &gt; \"İcazələr\"də anbara müraciət icazəsi verin</string>
+    <string name="app_no_storage_permission">Əvvəlcə %1$s üçün Ayarlar &gt; Tətbiqlər &gt; %2$s &gt; \"İcazələr\"də anbara erişim icazəsi verin</string>
     <string name="app_not_support_subscreen">"Bu pəncərə böyüdülə bilmir"</string>
     <string name="app_opened_in_new_window">Bu tətbiqi yeni bir pəncərədə açdı</string>
     <string name="call_error_notify_button">Keç</string>
@@ -52,9 +52,9 @@
     <string name="circulate_cta_premission_microphone">Yayım və ekranı əks etdirmə zamanı səsi digər cihazlara ötürmək üçün</string>
     <string name="circulate_cta_premission_sound_subtitle">Səs oxudulmasını bağlanmış cihazlara ötürmək üçün</string>
     <string name="circulate_cta_premission_sound_title">Səs yaz</string>
-    <string name="circulate_cta_premission_storage_pad_title">Elementlərə müraciət etmə və onları anbarda saxlama</string>
+    <string name="circulate_cta_premission_storage_pad_title">Elementlərə erişim və onları anbarda saxlama</string>
     <string name="circulate_cta_premission_storage_subtitle">Köçürülmüş faylları göndərmək və almaq üçün</string>
-    <string name="circulate_cta_premission_storage_title">Elementlərə müraciət etmə və onları anbarda saxlama</string>
+    <string name="circulate_cta_premission_storage_title">Elementlərə erişim və onları anbarda saxlama</string>
     <string name="circulate_cta_premission_wlan_subtitle_china">Wi-Fi ilə elementləri köçürmək və cihazlar arasında bağlantı qurmaq üçün</string>
     <string name="circulate_cta_premission_wlan_title_china">Wi-Fi-ı aç / bağla</string>
     <string name="circulate_cta_user_agreement">Davam etməzdən əvvəl &lt;txt href=\"%1$s\"&gt;İstifadəçi Razılaşmamızı&lt;/txt&gt; və &lt;txt href=\"%2$s\"&gt;Gizlilik Siyasətimizi&lt;/txt&gt; oxuyun və razılaşın.</string>
@@ -186,6 +186,18 @@ Kompüterinizdə başqa bir seans başlada bilərsiniz."</string>
     <string name="low_battery_notification_content">%1$s üzərində %2$s-dən az batareya qalıb</string>
     <string name="low_battery_notification_content_default">Telefon batareyası %1$s dən aşağıdır</string>
     <string name="low_battery_notification_title">Zəif batareya</string>
+    <string name="mac_btn_disconnect">Bağlantını kəs</string>
+    <string name="mac_key_alt">Option düyməsini təyin etmək üçün basılı tutun. Bu düyməni kilidləmək üçün cüt toxunun.</string>
+    <string name="mac_key_cmd">Command düyməsini təyin etmək üçün basılı tutun. Bu düyməni kilidləmək üçün cüt toxunun.</string>
+    <string name="mac_key_ctrl">Control düyməsini təyin etmək üçün basılı tutun. Bu düyməni kilidləmək üçün cüt toxunun.</string>
+    <string name="mac_key_shift">Shift düyməsini təyin etmək üçün basılı tutun. Bu düyməni kilidləmək üçün cüt toxunun.</string>
+    <string name="mac_show_dock">Yuvanı göstər</string>
+    <string name="mac_show_menu_bar">Menyu çubuğunu göstər</string>
+    <string name="mac_sink_loading_timeout_tips">"Kompüterinizin və planşetinizin bağlantı aralığında olduğuna və Wi-Fi-ın açıq olduğuna əmin olun.
+Davam etmək üçün kompüterinizdə yenidən bir cihaz seçin."</string>
+    <string name="mac_soft_keyboard">Ekranda klaviatura</string>
+    <string name="mac_title_disconnect">İndi bağlantı kəsilsin?</string>
+    <string name="mac_undo">Geri al</string>
     <string name="message_log">Mesaj jurnalları</string>
     <string name="midnight">Gecə</string>
     <string name="mirror_call_closed">Bu zəng, başqa bir cihazda cavablandırıldı</string>
@@ -374,9 +386,10 @@ Kompüterinizdə başqa bir seans başlada bilərsiniz."</string>
     <string name="pc_cooperate_guide_screenshot">Ekran şəkli</string>
     <string name="pc_cooperate_guide_task">Tapşırıqları göstər</string>
     <string name="pc_cooperate_guide_undo">Geri al (Ctrl-z)</string>
+    <string name="pc_extension_or_mirror_title">Ekran əks etdirmə və uzantı</string>
     <string name="pc_low_version_toast">Kompüterinizdəki yazılımı güncəlləyin</string>
     <string name="pcmode_not_support_multi_window">"PC rejimi bir neçə ekranın göstərilməsini dəstəkləmir."</string>
-    <string name="permission_access_nearby_device">Yaxınlıqdakı cihazlara müraciət</string>
+    <string name="permission_access_nearby_device">Yaxınlıqdakı cihazlara erişim</string>
     <string name="phone_connect_with_car_toast">Telefon nəqliyyata bağlandı</string>
     <string name="phone_pad_app_introduction_summary">Planşetinizdəki eyni tətbiqdə tapşırıqlara davam edin</string>
     <string name="phone_pad_app_introduction_title">Tətbiqlər</string>

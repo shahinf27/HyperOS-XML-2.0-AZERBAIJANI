@@ -8,16 +8,6 @@
     <string name="abc_activitychooserview_choose_application">Bir tətbiq seçin</string>
     <string name="abc_capital_off">BAĞLI</string>
     <string name="abc_capital_on">AÇIQ</string>
-    <string name="abc_menu_alt_shortcut_label">Alt+</string>
-    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-    <string name="abc_menu_delete_shortcut_label">delete</string>
-    <string name="abc_menu_enter_shortcut_label">enter</string>
-    <string name="abc_menu_function_shortcut_label">Function+</string>
-    <string name="abc_menu_meta_shortcut_label">Meta+</string>
-    <string name="abc_menu_shift_shortcut_label">Shift+</string>
-    <string name="abc_menu_space_shortcut_label">space</string>
-    <string name="abc_menu_sym_shortcut_label">Sym+</string>
-    <string name="abc_prepend_shortcut_label">Menu+</string>
     <string name="abc_search_hint">Axtar…</string>
     <string name="abc_searchview_description_clear">Sorğunu təmizlə</string>
     <string name="abc_searchview_description_query">Axtarış sorğusu</string>
@@ -461,7 +451,7 @@
     <string name="grey_headed_flying_fox">Boz başlı uçan tülkü</string>
     <string name="guard_item_app_summary">Tətbiqləri uzaqdan sil</string>
     <string name="guard_item_app_title">Tətbiqləri idarə et</string>
-    <string name="guard_item_browser_summary">Tətbiqlərə və məzmuna müraciəti idarə edin</string>
+    <string name="guard_item_browser_summary">Tətbiqlərə və məzmuna erişimi idarə edin</string>
     <string name="guard_item_browser_title">Məhdudiyyətlər</string>
     <string name="guard_item_call_summary">Zəng etmək üçün müəyyən kontaktlara icazə verin</string>
     <string name="guard_item_call_title">Rabitə</string>
@@ -859,7 +849,7 @@
     <string name="pcl_app_list">Tətbiqlər</string>
     <string name="pcl_app_lock_mixed_char">"abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890 -@#%^$&amp;*_!.,?;'/~"</string>
     <string name="pcl_app_name">Valideyn nəzarəti</string>
-    <string name="pcl_bind_account_dialog_content">"Parolunuzu unutsanız, kilidli tətbiqlərə müraciət edə bilməyəcəksiniz. Ancaq, e-poçtunuzu indi əlavə etsəniz, parolunuzu e-poçt vasitəsilə sıfırlaya biləcəksiniz."</string>
+    <string name="pcl_bind_account_dialog_content">"Parolunuzu unutsanız, kilidli tətbiqlərə erişə bilməyəcəksiniz. Ancaq, e-poçtunuzu indi əlavə etsəniz, parolunuzu e-poçt vasitəsilə sıfırlaya biləcəksiniz."</string>
     <string name="pcl_bind_email">E-poçt əlavə et</string>
     <string name="pcl_bind_email_button_back">Geri</string>
     <string name="pcl_bind_email_button_ok">Oldu</string>
@@ -944,7 +934,7 @@
     <string name="pcl_set_pwd_title">Valideyn nəzarəti üçün parol təyin et</string>
     <string name="pcl_settings">Ayarlar</string>
     <string name="pcl_settings_fun_pwd_set">Parol ayarları</string>
-    <string name="pcl_switch_control_summary">İdarə edilən tətbiqlərə müraciət etmək üçün parolu doğrulayın</string>
+    <string name="pcl_switch_control_summary">İdarə edilən tətbiqlərə erişmək üçün parolu doğrulayın</string>
     <string name="pcl_system_application">Sistem tətbiqləri</string>
     <string name="pcl_third_application">Quraşdırılan tətbiqlər</string>
     <string name="pcl_too_many_failed_confirmation_attempts_header">Həddən artıq uğursuz cəhd</string>
@@ -1241,7 +1231,7 @@ vaxt qalmadı"</string>
     <string name="usage_device_limit_start_forbidden_period">İstifadə, %1$s ilə %2$s arası məhdudlaşdırılacaq (%3$s qaldı)</string>
     <string name="usage_device_limit_time_over">"Bugünkü (%1$s) limitinizə çatdınız"</string>
     <string name="usage_exit">Çıxış</string>
-    <string name="usage_focus_focus_premission_main_summary">Fokus rejimi istifadə statistikanızı qeyd etmək üçün bu tətbiq hesab məlumatlarınıza müraciət etməlidir.</string>
+    <string name="usage_focus_focus_premission_main_summary">Fokus rejimi istifadə statistikanızı qeyd etmək üçün bu tətbiq hesab məlumatlarınıza erişməlidir.</string>
     <string name="usage_focus_focus_premission_second_summary">"Belə icazələrin verilməsi ilə razılaşmasanız, bu tətbiqin bəzi özəlliklərini istifadə edə bilməyəcəksiniz; ancaq, təməl funksionallıq sizin üçün əlçatan olacaq. İstənilən vaxt Ayarlarda icazələri məhdudlaşdıra və ya səlahiyyəti ləğv edə bilərsiniz."</string>
     <string name="usage_focus_new_summary">Daha diqqətli və fokuslanmış olun</string>
     <string name="usage_focus_save_success">Qalareyada uğurla saxlanıldı</string>
@@ -1256,9 +1246,9 @@ vaxt qalmadı"</string>
     <string name="usage_focus_title_level4">Sevinci daimi inkişafda tapın</string>
     <string name="usage_focus_title_level5">Diqqəti cəmləməyə davam edin</string>
     <string name="usage_home_permission_account_summary">Mi Hesabına daxil olmaq və Ekran vaxtı statistikalarını sinxronlaşdırmaq üçün</string>
-    <string name="usage_home_permission_account_title">Hesab məlumatına müraciət</string>
+    <string name="usage_home_permission_account_title">Hesab məlumatına erişim</string>
     <string name="usage_home_permission_phone_summary">VAID istifadə edərək cihazınızı müəyyənləşdirmək üçün</string>
-    <string name="usage_home_permission_phone_title">Cihaz məlumatlarına müraciət</string>
+    <string name="usage_home_permission_phone_title">Cihaz məlumatlarına erişim</string>
     <string name="usage_home_premission_main_summary">"\"Ekran vaxtı\"na xoş gəlmisiniz! Bu tətbiqi ekran vaxtı limitlərini təyin etmək, statistikalara baxmaq və Fokus rejiminə keçmək üçün istifadə edə bilərsiniz. Bu tətbiqin normal işləməsi üçün ekran vaxtı məlumatlarını (məs. telefon kilidinin açılma sayı və ekran yandırma sayı, həmçinin tətbiqlərin istifadə edilmə vaxtı) yığması lazımdır."</string>
     <string name="usage_home_premission_main_summary_new">"\"Ekran vaxtı\"na xoş gəlmisiniz!
 Normal işləyə bilməsi üçün bu tətbiqin ekran vaxtı məlumatlarını yığması lazımdır: Ekran vaxtı statistikalarını yaratmaq üçün telefon kilidinin açılma sayı, tətbiq adları və tətbiq istifadə müddətləri tələb olunur; Fokus rejimi statistikalarını yaratmaq üçün Fokus rejimi ayarları tələb olunur.

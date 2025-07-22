@@ -46,6 +46,14 @@
         <item quantity="other">Növbəti video %d saniyəyə oxudulur</item>
         <item quantity="one">Növbəti video %d saniyəyə oxudulur</item>
     </plurals>
+    <plurals name="columbus_exo_controls_fastforward_by_amount_description">
+        <item quantity="one">%d saniyə irəli çək</item>
+        <item quantity="other">%d saniyə irəli çək</item>
+    </plurals>
+    <plurals name="columbus_exo_controls_rewind_by_amount_description">
+        <item quantity="one">%d saniyə geri çək</item>
+        <item quantity="other">%d saniyə geri çək</item>
+    </plurals>
     <plurals name="count_likes">
         <item quantity="other">%s bəyənmə</item>
         <item quantity="one">%s bəyənmə</item>

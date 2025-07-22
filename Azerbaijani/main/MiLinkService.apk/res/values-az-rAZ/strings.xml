@@ -80,7 +80,7 @@
     <string name="appcirculate_toast_success_2">Şəxsi rejimdə yayımlanır…</string>
     <string name="appcirculate_toast_success_3">Yayımlanır…</string>
     <string name="ask_for_using_camera">İcazəni vermək üçün cihazın kilidini açın</string>
-    <string name="ask_for_using_camera_car">"EV-nin əsas ekranı, bu cihazın kamera lentinə müraciət edir. Seçimləri idarə etmək üçün kilidi açın."</string>
+    <string name="ask_for_using_camera_car">"EV-nin əsas ekranı, bu cihazın kamera lentinə erişir. Seçimləri idarə etmək üçün kilidi açın."</string>
     <string name="audio_record_des">Səsi mobil cihazınızdan xarici monitorlara ötürmək üçün</string>
     <string name="back_camera">Arxa</string>
     <string name="ball_hint_connect_fail">"Bu əməliyyat icra edilə bilmir. Bir və ya iki dəqiqə gözləyib yenidən sınayın."</string>
@@ -281,15 +281,15 @@ başqa cihaza sürüklə"</string>
     <string name="circulate_cta_desc_phone_global">Xiaomi Ara bağlantı Xidmətləri, cihazların bir-biri ilə naqilsiz əlaqəyə qurmasına imkan verir.</string>
     <string name="circulate_cta_exit">"Razı deyiləm"</string>
     <string name="circulate_cta_premission_bluetooth_subtitle">Cihazları bir-birinə bağlamaq və aralarında data köçürmək üçün</string>
-    <string name="circulate_cta_premission_get_installed_apps_subtitle">Mobil cihazda quraşdırılmış tətbiqlərin siyahısına müraciət etmək və kompüterlərdə ekranı əks etdirmək üçün</string>
+    <string name="circulate_cta_premission_get_installed_apps_subtitle">Mobil cihazda quraşdırılmış tətbiqlərin siyahısına erişmək və kompüterlərdə ekranı əks etdirmək üçün</string>
     <string name="circulate_cta_premission_mac_address_subtitle">Yaxınlıqdakı cihazları kəşf etmək üçün</string>
     <string name="circulate_cta_premission_obtain_information_subtitle">Səs və ekran videosunu yazarkən və ya ekranı yayımlayarkən, bu özəlliyi təqdim edən xidmət, səs, parollar, ödəniş məlumatı, fotolar və mesajlar kimi həssas məlumatlar daxil olmaqla ekranınızda görüntülənən və ya cihazınızda oxudulan istənilən həssas məlumatı ələ keçirə bilər</string>
     <string name="circulate_cta_premission_read_call_log_subtitle">Ekranın əks etdirilməsi zamanı zəngləri cihazlar arasında ötürmək üçün</string>
     <string name="circulate_cta_premission_sound_subtitle">Yayım zamanı və ekranın əks etdirərkən yerli səsin yazılması üçün</string>
     <string name="circulate_cta_premission_sound_title">Səsyazma</string>
-    <string name="circulate_cta_premission_storage_pad_title">Elementlərə müraciət etmə və onları anbarda saxlama</string>
+    <string name="circulate_cta_premission_storage_pad_title">Elementlərə erişim və onları anbarda saxlama</string>
     <string name="circulate_cta_premission_storage_subtitle">Bu cihazdan məzmun yayımlamaq və ötürmək üçün</string>
-    <string name="circulate_cta_premission_storage_title">Elementlərə müraciət etmə və onları anbarda saxlama</string>
+    <string name="circulate_cta_premission_storage_title">Elementlərə erişim və onları anbarda saxlama</string>
     <string name="circulate_cta_premission_transferring_data_subtitle">Bağlantılı cihazlar arasında data köçürmək üçün</string>
     <string name="circulate_cta_premission_wlan_subtitle_china">Wi-Fi ilə elementləri köçürmək və cihazlar arasında bağlantı qurmaq üçün</string>
     <string name="circulate_cta_premission_wlan_title">Wi-Fi-ı aç/bağla</string>
@@ -303,6 +303,10 @@ başqa cihaza sürüklə"</string>
     <string name="circulate_device_type_name_phone">Telefon</string>
     <string name="circulate_device_type_name_wifi_speaker">Dinamik</string>
     <string name="circulate_device_type_name_wifi_speaker_with_screen">Toxunaqlı ekran dinamiki</string>
+    <string name="circulate_edit_group_title">"Eyni LAN-a %1$d dən çox cihaz bağlandıqda dinamiklər və ya TV-lər qruplaşdırıla və nümayiş edilə bilər
+"</string>
+    <string name="circulate_edit_sound_group_title">Qrup dinamikləri</string>
+    <string name="circulate_edit_tv_group_title">Qrup TV-ləri</string>
     <string name="circulate_glasses_duplicate_dialog_message">Eynək artıq bağlantılıdır. Yeni bir eynək cütünə bağlansanız, ilk cütün bağlantısı kəsiləcək. İndi bağlantı qurulsun?</string>
     <string name="circulate_glasses_duplicate_dialog_message_pad">Planşetiniz artıq eynəyə bağlanıb. Yeni bir eynək cütünə bağlansanız, ilk cütün bağlantısı kəsiləcək. İndi bağlantı qurulsun?</string>
     <string name="circulate_glasses_duplicate_dialog_message_phone">Telefonunuz artıq eynəyə bağlanıb. Yeni bir eynək cütünə bağlansanız, ilk cütün bağlantısı kəsiləcək. İndi bağlantı qurulsun?</string>
@@ -356,6 +360,7 @@ başqa cihaza sürüklə"</string>
     <string name="circulate_headset_error_default">Bağlantının vaxtı bitdi</string>
     <string name="circulate_headset_error_device_not_support">"Qulaqlıqlar bu cihaza bağlana bilmir"</string>
     <string name="circulate_headset_error_ear_phone_not_support">"Bu qulaqlıqlar səs oxutmanın ötürülməsini dəstəkləmir"</string>
+    <string name="circulate_headset_error_group_device_not_support">Əvvəlcə \"Cihaz qruplarına düzəliş et\"də \"Qrup TV-ləri\"ni söndürün</string>
     <string name="circulate_headset_error_headset_not_support">"Qulaqlarınız bu kompüterə bağlana bilmir"</string>
     <string name="circulate_headset_error_headset_not_worn">Hər iki qulaqlığı taxıb yenidən sınayın</string>
     <string name="circulate_headset_error_headset_not_worn_both">Hər iki qulaqlığı taxıb yenidən sınayın</string>
@@ -410,6 +415,7 @@ və Xiaomi Hesabınıza daxil olun"</string>
     <string name="circulate_ringfind_error_hint_stop">"Səs oxudulması dayandırıla bilmədi. Yenidən sınayın."</string>
     <string name="circulate_ringfind_title">Səs oxut</string>
     <string name="circulate_ringfind_title_stop">Səs oxutmanı dayandır</string>
+    <string name="circulate_sound_group_title">Dinamik qrupu</string>
     <string name="circulate_speaker_control_header_title">Dinamik yayım kontrolu</string>
     <string name="circulate_speaker_control_view">Buradan: %1$s</string>
     <string name="circulate_sport_device_find_band">Bu bantı tap</string>
@@ -422,6 +428,7 @@ və Xiaomi Hesabınıza daxil olun"</string>
     <string name="circulate_to_mijia">Ağıllı ev cihazları</string>
     <string name="circulate_tv_app_opening">TV-də açılır…</string>
     <string name="circulate_tv_capturing">Ekran şəkli çəkilir…</string>
+    <string name="circulate_tv_group_title">TV qrupu</string>
     <string name="circulate_tv_is_authing_tip">Cihazlar indi doğrulanır. Bir və ya iki dəqiqə gözləyib yenidən sınayın.</string>
     <string name="circulate_tv_power_alter_text">TV-nizi söndürmək və ya ekranı söndürmək üzrə ayarlamısınız. TV söndürüldükdən sonra pultlar və TV-lər buradan itəcək.</string>
     <string name="circulate_tv_power_alter_title">Diqqət</string>
@@ -469,7 +476,7 @@ və Xiaomi Hesabınıza daxil olun"</string>
     <string name="connect_settings_privacy_policy">Gizlilik Siyasəti</string>
     <string name="connect_settings_relay_app">Tətbiqlər</string>
     <string name="connect_settings_share_clipboard">Lövhə</string>
-    <string name="connect_settings_share_file">Fayl müraciəti</string>
+    <string name="connect_settings_share_file">Fayl erişimi</string>
     <string name="connect_settings_share_launcher">Əsas ekran+</string>
     <string name="connect_settings_share_notification">Bildirişlər</string>
     <string name="connect_settings_summary"><Data>Xiaomi Hesabınıza daxil olmuş yaxınlıqdakı cihazları avtomatik kəşf edin və bir çox cihazda müxtəlif tapşırıqları icra etmək üçün onları bir-birinə bağlayın. &lt;a href=%1$s&gt;Daha ətraflı&lt;/a&gt;</Data></string>
@@ -478,7 +485,7 @@ və Xiaomi Hesabınıza daxil olun"</string>
     <string name="connect_settings_summary_global"><Data>Xiaomi Hesabınıza daxil olmuş yaxınlıqdakı cihazları kəşf edin və onları Mi Smart Hub-a əlavə edin</Data></string>
     <string name="connect_settings_summary_relay_app">Tapşırıqlara başqa cihazdakı eyni tətbiqdə davam edin</string>
     <string name="connect_settings_summary_share_clipboard">Mətn və şəkilləri bu cihazda kopyaladıqdan sonra %d dəqiqə ərzində digər cihazlarda yapışdırın</string>
-    <string name="connect_settings_summary_share_file">Yaxınlıqdakı kompüterlərdən lokal fayllara müraciət</string>
+    <string name="connect_settings_summary_share_file">Yaxınlıqdakı kompüterlərdən lokal fayllara erişim</string>
     <string name="connect_settings_summary_share_launcher_pad">Xiaomi Hesabınıza daxil olmuş yaxınlıqdakı telefonların Əsas ekranlarına baxın və onlarla qarşılıqlı əlaqə qurun</string>
     <string name="connect_settings_summary_share_launcher_phone">"Yaxınlıqdakı planşetlərin və kompüterlərin bu cihazın Əsas ekranına baxmasına və onunla qarşılıqlı əlaqədə olmasına icazə verin"</string>
     <string name="connect_settings_summary_share_notification_pad">Xiaomi Hesabınıza daxil olmuş yaxınlıqdakı telefonlardan bildirişlər alın</string>
@@ -527,7 +534,7 @@ və Xiaomi Hesabınıza daxil olun"</string>
     <string name="device_permission_authorize_dialog_title">%s üzərində kamera icazələrini ver</string>
     <string name="device_permission_authorize_dialog_title_car_pad">Planşetinizdə icazələri verin</string>
     <string name="device_permission_dialog_message">%s üzərində Ayarlar &gt; Ara bağlantı &gt; \"Ara bağlantı və icazələr\"i açın və əvvəlcə kamera icazəsini verin.</string>
-    <string name="device_permission_dialog_message_car">Kamera müraciətinə icazə vermək üçün Ayarlar &gt; Sistem &gt; Tətbiqləri idarə et &gt; Xüsusi icazələr &gt; \"%s üzərində ara bağlantı\"ya gedin.</string>
+    <string name="device_permission_dialog_message_car">Kamera erişiminə icazə vermək üçün Ayarlar &gt; Sistem &gt; Tətbiqləri idarə et &gt; Xüsusi icazələr &gt; \"%s üzərində ara bağlantı\"ya gedin.</string>
     <string name="device_permission_dialog_message_car_pad">Bu özəlliyi istifadə edə bilmək üçün Ayarlar &gt; Ara bağlantı &gt; Ara bağlantı və icazələr &gt; \"Kamera və icazələri ver\"i açın.</string>
     <string name="device_permission_dialog_positive_button">Anladım</string>
     <string name="device_permission_dialog_title">%s üzərindəki icazələri ver</string>
@@ -545,12 +552,12 @@ və Xiaomi Hesabınıza daxil olun"</string>
     <string name="dialog_connect_verify_perssion_fail">"TV-də yayımlamağa icazə verilə bilmədi. Bir və ya iki dəqiqə gözləyib yenidən sınayın."</string>
     <string name="dialog_connected">Bağlantılıdır</string>
     <string name="dialog_connecting">Bağlantı qurulur…</string>
-    <string name="dialog_location_permission_message">Bu tətbiqin, yaxınlıqdakı xarici monitorları tapa bilməsi üçün yerləşmənizə müraciət etməsi lazımdır. Mümkün xətalardan qaçmaq üçün bu icazəni verərkən \"Həmişə icazə ver\"i seçin.</string>
+    <string name="dialog_location_permission_message">Bu tətbiqin, yaxınlıqdakı xarici monitorları tapa bilməsi üçün yerləşmənizə erişməsi lazımdır. Mümkün xətalardan qaçmaq üçün bu icazəni verərkən \"Həmişə icazə ver\"i seçin.</string>
     <string name="dialog_location_permission_title">İcazələr tələb olunur</string>
-    <string name="dialog_miplay_permission_message">Bu özəlliyi normal şəkildə istifadə edə bilmək üçün \"Yayım\"ın səs yazmağına, daxili anbardakı fayllara müraciətinə və yerləşmənizə müraciət etməsinə icazə verin. Davam etmək üçün \"Ayarlar\"a toxunub \"Tətbiq icazələri\"ni seçin.</string>
+    <string name="dialog_miplay_permission_message">Bu özəlliyi normal şəkildə istifadə edə bilmək üçün \"Yayım\"ın səs yazmağına, daxili anbardakı fayllara erişiminə və yerləşmənizə erişməsinə icazə verin. Davam etmək üçün \"Ayarlar\"a toxunub \"Tətbiq icazələri\"ni seçin.</string>
     <string name="dialog_miplay_permission_positive">Ayarlar</string>
     <string name="dialog_miplay_permission_title">İcazələr tələb olunur</string>
-    <string name="dialog_nearbydevice_permission_message">Yayım özəlliklərini istifadə edə bilmək üçün bu cihazın yaxınlıqdakı cihazlara müraciət etməsinə icazə verin.</string>
+    <string name="dialog_nearbydevice_permission_message">Yayım özəlliklərini istifadə edə bilmək üçün bu cihazın yaxınlıqdakı cihazlara erişməsinə icazə verin.</string>
     <string name="dialog_nearbydevice_permission_message_connectivity">"İstifadə etdiyiniz Xiaomi Ara bağlantı özəlliyinin yaxınlıqdakı cihazlara bağlanması üçün icazəyə ehtiyacı var. İcazə olmadan, bu özəllik normal işləyə bilməz. Bu icazəni Ayarlarda verə bilərsiniz."</string>
     <string name="dialog_nearbydevice_permission_title">İcazələr tələb olunur</string>
     <string name="dialog_nearbydevice_permission_title_connectivity">Tələb olunan icazələr</string>
@@ -582,12 +589,13 @@ Bağlantı qurma probleminiz varsa, kömək üçün baxın."</string>
     <string name="dialog_title">Birgə giriş</string>
     <string name="disconnect">Yayımı dayandır</string>
     <string name="disconnect_access">Bağlantını kəs</string>
-    <string name="dist_file_notification_subtitle">"\"%s\" bu cihazın fayllarına müraciət etmək istəyir"</string>
-    <string name="dist_file_notification_title">Cihazlar arası fayl müraciəti</string>
+    <string name="dist_file_notification_subtitle">"\"%s\" bu cihazın fayllarına erişmək istəyir"</string>
+    <string name="dist_file_notification_title">Cihazlar arası fayl erişimi</string>
     <string name="dp_casting_start_hint">Kabel vasitəsilə bağlantı quruldu. Yayım bitdi.</string>
     <string name="dual_wifi_warning_china">İkili Wi-Fi-ı söndürüb yenidən sınayın</string>
     <string name="dual_wifi_warning_global">İkili Wi-Fi-ı söndürüb yenidən sınayın</string>
     <string name="early_morning">Səhər</string>
+    <string name="edit_device_group">Cihaz qruplarına düzəliş et</string>
     <string name="empty"></string>
     <string name="enable_screen_projection_summary">Ekran məzmunlarını xarici bir monitorda yayımla</string>
     <string name="enable_screen_projection_summary_new">Mobil cihazın ekranını yaxınlıqdakı TV-lərə və digər xarici monitorlara yayımlayın</string>
@@ -766,7 +774,7 @@ Qeyd: Əlçatımlılıq özəlliklərini işə saldığınız zaman rutin bir si
     <string name="invisible_mode_dialog_content_audio_relay">"Gizli rejimdə ikən oxutmanı ötürə bilməzsiniz. Əvvəlcə Gizli rejimi söndürün."</string>
     <string name="invisible_mode_dialog_pos">Söndür</string>
     <string name="invisible_mode_dialog_title">"Gizlisiniz"</string>
-    <string name="is_accessed_by">\"%1$s\" bu cihaza müraciət edir</string>
+    <string name="is_accessed_by">\"%1$s\" bu cihaza erişir</string>
     <string name="is_creating_camera_cooperation">Bağlantı qurmaq üçün cihazın kilidini açın</string>
     <string name="item_view_role_description">Vərəq</string>
     <string name="keyguard_security_setting_privacy_policy">Gizlilik Siyasəti</string>
@@ -819,6 +827,7 @@ Qeyd: Əlçatımlılıq özəlliklərini işə saldığınız zaman rutin bir si
     <string name="miplay_detail_header_no_song">Oxutma yoxdur</string>
     <string name="miplay_detail_title_text">Hər yerdə oxut</string>
     <string name="miplay_device_full_name">"%1$s - %2$s"</string>
+    <string name="miplay_group_device_title_talkback" />
     <string name="miplay_headset_lc3_hint">Səs çıxışını bu cihaza keçirmək üçün LC3 rejimini söndür.</string>
     <string name="miplay_mini_card_no_song_but_attached_hint">%1$s üzərində səs oxutmaq üzrədir</string>
     <string name="miplay_mini_card_no_song_pad_title">Planşet səsi</string>
@@ -976,7 +985,7 @@ Qeyd: Əlçatımlılıq özəlliklərini işə saldığınız zaman rutin bir si
     <string name="mtrl_picker_toggle_to_year_selection">İl görünüşünə dəyişdirmək üçün toxunun</string>
     <string name="mtrl_timepicker_cancel">İmtina</string>
     <string name="mtrl_timepicker_confirm">Oldu</string>
-    <string name="nearby_device_file_access">"Yaxınlıqdakı cihazlar bu cihazın fayllarına müraciət etdikdə bildiriş al"</string>
+    <string name="nearby_device_file_access">"Yaxınlıqdakı cihazlar bu cihazın fayllarına erişdiyi zaman bildiriş al"</string>
     <string name="nfc_connect_failed_toast">"Yayımlana bilmədi. Yenidən sınayın."</string>
     <string name="night">Axşam</string>
     <string name="no_remote_device">Uzaqdakı cihaz tapıla bilmir</string>
@@ -1022,7 +1031,7 @@ Qeyd: Əlçatımlılıq özəlliklərini işə saldığınız zaman rutin bir si
     <string name="paipai_connect_tv2_text">Köçürülmüş data</string>
     <string name="paipai_error_dialog_msg">Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın.</string>
     <string name="paipai_error_dialog_negative">Anladım</string>
-    <string name="passport_access_denied">Müraciət rədd edildi</string>
+    <string name="passport_access_denied">Erişim rədd edildi</string>
     <string name="passport_account_crop_user_avatar">Fotonu kəs</string>
     <string name="passport_account_empty_user_name">Adınızı daxil edin</string>
     <string name="passport_account_error_all_space_user_name">"Ad yalnız boşluq simvolundan ibarət ola bilməz"</string>
@@ -1144,7 +1153,7 @@ Qeyd: Əlçatımlılıq özəlliklərini işə saldığınız zaman rutin bir si
     <string name="passport_request_error_invalid_token">"Doğrulana bilmədi"</string>
     <string name="passport_request_error_network">Bir şəbəkə xətası baş verdi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın.</string>
     <string name="passport_request_error_unknown">Sistem xətası baş verdi. Geri qayıdın və yenidən sınayın.</string>
-    <string name="passport_request_gallery_permission_message">Qalereyaya müraciətə icazə verin:&lt;br /&gt;Profil fotosunu ayarlamaq üçün</string>
+    <string name="passport_request_gallery_permission_message">Qalereyaya erişimə icazə verin:&lt;br /&gt;Profil fotosunu ayarlamaq üçün</string>
     <string name="passport_resend_email_reach_limit_message">"Həddən artıq doğrulama e-poçtu tələb etdiniz. Doğrulama e-poçtunun gələn qutunuzun Spam qovluğunda olmadığına əmin olun."</string>
     <string name="passport_resend_email_reach_limit_title">Həddindən artıq cəhd</string>
     <string name="passport_resend_ticket">Kodu yenidən göndər</string>
@@ -1218,16 +1227,16 @@ Qeyd: Əlçatımlılıq özəlliklərini işə saldığınız zaman rutin bir si
     <string name="privacy_negative">Çıxış</string>
     <string name="privacy_permission_ble">Bluetooth-u aç/bağla</string>
     <string name="privacy_permission_ble_desc">Yaxınlıqdakı mövcud cihazları tapmaq üçün</string>
-    <string name="privacy_permission_location">Yerləşməyə müraciət edilir</string>
+    <string name="privacy_permission_location">Yerləşməyə erişir</string>
     <string name="privacy_permission_location_desc">Yaxınlıqdakı mövcud cihazları tapmaq üçün</string>
     <string name="privacy_permission_necessary">Məcburi icazələr</string>
     <string name="privacy_permission_necessary_desc">Bu icazələr bu tətbiqin təməl özəlliklərini və xidmətlərini əlçatan etmək üçün tələb edilir.</string>
     <string name="privacy_permission_nfc_desc">NFC ilə cihazları cütləşdirmək üçün</string>
     <string name="privacy_permission_optional">İxtiyari icazələr</string>
     <string name="privacy_permission_optional_desc">"Onları istifadə edərkən əlavə özəlliklər üçün istifadə olunur"</string>
-    <string name="privacy_permission_read_write_mobile_phone_storage">Elementlərə müraciət etmə və onları anbarda saxlama</string>
-    <string name="privacy_permission_read_write_mobile_phone_storage_desc">Fayllara və fotoları müraciət etmək və onları bu cihazda saxlamaq üçün</string>
-    <string name="privacy_permission_screencast">Ekrandakı məlumatlara müraciət edir</string>
+    <string name="privacy_permission_read_write_mobile_phone_storage">Elementlərə erişim və onları anbarda saxlama</string>
+    <string name="privacy_permission_read_write_mobile_phone_storage_desc">Fayllara və fotoları erişmək və onları bu cihazda saxlamaq üçün</string>
+    <string name="privacy_permission_screencast">Ekrandakı məlumatlara erişir</string>
     <string name="privacy_permission_screencast_desc">Səs və ekran videosunu yazarkən və ya ekranı yayımlayarkən, bu özəlliyi təqdim edən xidmət, səs, parollar, ödəniş məlumatı, fotolar və mesajlar kimi həssas məlumatlar daxil olmaqla ekranınızda görüntülənən və ya cihazınızda oynadılan istənilən həssas məlumatı ələ keçirə bilər</string>
     <string name="privacy_permission_sound_recording">Səs yaz</string>
     <string name="privacy_permission_sound_recording_desc">Səsli zənglər etmək və ya səs yazmaq üçün</string>
@@ -1270,10 +1279,10 @@ Qeyd: Əlçatımlılıq özəlliklərini işə saldığınız zaman rutin bir si
 Normal işləyə bilməsi üçün, bu tətbiqin internetə bağlanması və şəxsi məlumatlarınızı yığması üçün aşağıdakı icazələri tələb etməsi lazımdır.\"</Data></string>
     <string name="privacy_text_2"><Data>\"Bu cür icazələrin verilməsinə və ya şəxsi məlumatlarınızın paylaşılmasına və yüklənməsinə razılıq vermirsinizsə, bu tətbiqi istifadə edə bilməyəcəksiniz. Belə hallarda, Ayarlarda bu tətbiqi silməyi, hesabdan çıxış etməyi və ya icazələri məhdudlaşdırmağı seçə bilərsiniz.
 Bu özəlliyi istifadə etməzdən əvvəl &lt;a href=%1$s&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasətimizi&lt;/a&gt; oxuyun və razılaşın.\"</Data></string>
-    <string name="privacy_text_pemission">"　　•Bu elementləri xarici monitorlarda əks etdirmək üçün cihazınızdakı şəkillərə müraciət edin və onları saxlayın
+    <string name="privacy_text_pemission">"　　•Bu elementləri xarici monitorlarda əks etdirmək üçün cihazınızdakı şəkillərə erişin və onları saxlayın
 　　•Səsi xarici cihazlarda yayımlamaq üçün zəngləri və səsi yazın
-　　•Cihazınızı müəyyənləşdirmək üçün telefon nömrəsinə, IMEI və IMSI-ə müraciət edin
-　　•Yaxınlıqdakı cihazları tapmaq üçün yerləşmənizə müraciət edin"</string>
+　　•Cihazınızı müəyyənləşdirmək üçün telefon nömrəsinə, IMEI və IMSI-ə erişin
+　　•Yaxınlıqdakı cihazları tapmaq üçün yerləşmənizə erişin"</string>
     <string name="privacy_title">Diqqət</string>
     <string name="privacy_update_dialog_negative_btn">İmtina</string>
     <string name="privacy_update_dialog_positive_btn">Razıyam</string>
@@ -1374,6 +1383,8 @@ Oyunları yayımlamazdan əvvəl \"Game Turbo\"nu işə saldığınıza əmin ol
     <string name="sever_switch_camera">Ön və arxa kameralar arasında keçid et</string>
     <string name="sever_switch_camera_front">Ön kamera</string>
     <string name="sever_switch_camera_rear">Arxa kamera</string>
+    <string name="share_compute_powing_title_pad">Hesablama gücü telefonla paylaşılır…</string>
+    <string name="share_compute_powing_title_phone">Hesablama gücü planşetlə paylaşılır…</string>
     <string name="share_desktop_with_car">Əsas ekranı avtomobildə paylaş</string>
     <string name="share_desktop_with_car_ing">Ekran avtomobillə paylaşılır…</string>
     <string name="show_result_on_tv">Nəticələrə TV-də bax</string>
@@ -1408,17 +1419,17 @@ Oyunları yayımlamazdan əvvəl \"Game Turbo\"nu işə saldığınıza əmin ol
     <string name="start_association">Əlaqələndirmə başladılır</string>
     <string name="start_forbidden_by_not_worn">"Bağlantı qurula bilmədi. Eynəyinizi taxıb yenidən sınayın."</string>
     <string name="state_app_continuity">Tətbiq lenti istifadə edilir</string>
-    <string name="state_audio_cast">Xiaomi Mi Audio Cast istifadə edilir</string>
-    <string name="state_call_synergy">Cihazlar arası zəng istifadə edilir</string>
+    <string name="state_audio_cast">Xiaomi Smart Play vasitəsilə səs yayımlanır</string>
+    <string name="state_call_synergy">Zəng sinxronlaşdırma istifadə edilir</string>
     <string name="state_camera_synergy">Cihazlar arası kamera istifadə edilir</string>
-    <string name="state_cellular_synergy">Rabitə paylaşımı istifadə edilir</string>
-    <string name="state_hid_synergy">Klaviatura və maus paylaşımı istifadə edilir</string>
-    <string name="state_mirror">Ekran yayımı istifadə edilir</string>
+    <string name="state_cellular_synergy">Naqilsiz internet paylaşımı istifadə edilir</string>
+    <string name="state_computing_power">Hesablama dəstəyi istifadə edilir</string>
+    <string name="state_hid_synergy">Cihazlar arası kontrollar istifadə edilir</string>
+    <string name="state_mirror">Yayım davam edir</string>
     <string name="state_music_playing">Musiqi oxudulur</string>
-    <string name="state_open">Statusu açıqdır</string>
-    <string name="state_screen_synergy">Sehrli Masaüstü istifadə edilir</string>
-    <string name="state_take_photo">Cihazlar arası fotoqrafiya istifadə edilir</string>
-    <string name="state_video_cast">Xiaomi Mi Video Cast istifadə edilir</string>
+    <string name="state_screen_synergy">Əsas ekran+ istifadə edilir</string>
+    <string name="state_take_photo">Cihazlar arası kamera istifadə edilir</string>
+    <string name="state_video_cast">Xiaomi Smart Play vasitəsilə video yayımlanır</string>
     <string name="status_bar_car_camera_icon_name">Nəqliyyat</string>
     <string name="status_bar_default_icon_name">Cihaz</string>
     <string name="status_bar_device_iot_camera_icon_name">Xiaomi Home kamerası</string>
@@ -1530,7 +1541,7 @@ Oyunları yayımlamazdan əvvəl \"Game Turbo\"nu işə saldığınıza əmin ol
     <string name="tv_remote_auth_cancel">İmtina</string>
     <string name="tv_remote_auth_title">"TV-nin doğrulama kodunu daxil edin"</string>
     <string name="unlock_screen_to_authorize_camera">"%s bu cihazın kamerasını istifadə etmək istəyir"</string>
-    <string name="unlock_screen_to_authorize_camera_car">"%s bu cihazın kamerasını müraciət edir"</string>
+    <string name="unlock_screen_to_authorize_camera_car">"%s bu cihazın kamerasını erişir"</string>
     <string name="update">Güncəllə</string>
     <string name="upgrade_accessibility_cancel_download">Endirmə ləğv edildi</string>
     <string name="upgrade_accessibility_finish_all_upgrade">Uğurla güncəlləndi. Hazırkı versiya, ən son versiyadır.</string>

@@ -72,6 +72,70 @@
         <item quantity="other">%d dəqiqə əvvəl</item>
         <item quantity="one">1 dəqiqə əvvəl</item>
     </plurals>
+    <plurals name="onehop_receive_describe_file">
+        <item quantity="one">%1$d fayl al</item>
+        <item quantity="other">%1$d fayl al</item>
+    </plurals>
+    <plurals name="onehop_receive_describe_image">
+        <item quantity="one">%1$d foto al</item>
+        <item quantity="other">%1$d foto al</item>
+    </plurals>
+    <plurals name="onehop_receive_describe_live_image">
+        <item quantity="one">%1$d dinamik çəkiliş al</item>
+        <item quantity="other">%1$d dinamik çəkiliş al</item>
+    </plurals>
+    <plurals name="onehop_receive_describe_video">
+        <item quantity="one">%1$d video al</item>
+        <item quantity="other">%1$d video al</item>
+    </plurals>
+    <plurals name="onehop_receiving_describe_file">
+        <item quantity="one">%1$d fayl alınır</item>
+        <item quantity="other">%1$d fayl alınır</item>
+    </plurals>
+    <plurals name="onehop_receiving_describe_image">
+        <item quantity="one">%1$d foto alınır</item>
+        <item quantity="other">%1$d foto alınır</item>
+    </plurals>
+    <plurals name="onehop_receiving_describe_live_image">
+        <item quantity="one">%1$d dinamik çəkiliş alınır…</item>
+        <item quantity="other">%1$d dinamik çəkiliş alınır…</item>
+    </plurals>
+    <plurals name="onehop_receiving_describe_video">
+        <item quantity="one">%1$d video alınır</item>
+        <item quantity="other">%1$d video alınır</item>
+    </plurals>
+    <plurals name="onehop_send_describe_file">
+        <item quantity="one">Cəmi %1$d fayl</item>
+        <item quantity="other">Cəmi %1$d fayl</item>
+    </plurals>
+    <plurals name="onehop_send_describe_image">
+        <item quantity="one">Cəmi %1$d foto</item>
+        <item quantity="other">Cəmi %1$d foto</item>
+    </plurals>
+    <plurals name="onehop_send_describe_live_image">
+        <item quantity="one">Cəmi %1$d dinamik çəkiliş</item>
+        <item quantity="other">Cəmi %1$d dinamik çəkiliş</item>
+    </plurals>
+    <plurals name="onehop_send_describe_video">
+        <item quantity="one">Cəmi %1$d video</item>
+        <item quantity="other">Cəmi %1$d video</item>
+    </plurals>
+    <plurals name="onehop_sending_describe_file">
+        <item quantity="one">%1$d fayl göndərilir…</item>
+        <item quantity="other">%1$d fayl göndərilir…</item>
+    </plurals>
+    <plurals name="onehop_sending_describe_image">
+        <item quantity="one">%1$d foto göndərilir…</item>
+        <item quantity="other">%1$d foto göndərilir…</item>
+    </plurals>
+    <plurals name="onehop_sending_describe_live_image">
+        <item quantity="one">%1$d dinamik çəkiliş göndərilir…</item>
+        <item quantity="other">%1$d dinamik çəkiliş göndərilir…</item>
+    </plurals>
+    <plurals name="onehop_sending_describe_video">
+        <item quantity="one">%1$d video göndərilir…</item>
+        <item quantity="other">%1$d video göndərilir…</item>
+    </plurals>
     <plurals name="send_apk_dialog_desc">
         <item quantity="other">%1$s şəxsindən %2$d quraşdırma paketi (%3$s)</item>
         <item quantity="one">%1$s şəxsindən %2$d quraşdırma paketi (%3$s)</item>
