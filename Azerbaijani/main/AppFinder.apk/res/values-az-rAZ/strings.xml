@@ -2,20 +2,14 @@
 <resources>
     <string name="abc_action_bar_home_description">Əsas ekrana get</string>
     <string name="abc_action_bar_up_description">Yuxarı get</string>
-    <string name="abc_action_menu_overflow_description">Daha çox seçim</string>
     <string name="abc_action_mode_done">Hazırdır</string>
-    <string name="abc_activity_chooser_view_see_all">Hamısına bax</string>
-    <string name="abc_activitychooserview_choose_application">Bir tətbiq seçin</string>
     <string name="abc_capital_off">BAĞLI</string>
     <string name="abc_capital_on">AÇIQ</string>
     <string name="abc_search_hint">Axtar…</string>
     <string name="abc_searchview_description_clear">Sorğunu təmizlə</string>
-    <string name="abc_searchview_description_query">Axtarış sorğusu</string>
     <string name="abc_searchview_description_search">Axtar</string>
     <string name="abc_searchview_description_submit">Sorğu göndər</string>
     <string name="abc_searchview_description_voice">Səsli axtarış</string>
-    <string name="abc_shareactionprovider_share_with">Paylaş</string>
-    <string name="abc_shareactionprovider_share_with_application">%s ilə paylaş</string>
     <string name="abc_toolbar_collapse_description">Yığcamlaşdır</string>
     <string name="actionbar_button_up_description">Geri</string>
     <string name="afternoon">Günortadan sonra</string>
@@ -153,7 +147,6 @@
     <string name="branch_ui_version">Branch UI Versiyası</string>
     <string name="btn_agree">Razıyam</string>
     <string name="btn_cancel">İmtina</string>
-    <string name="btn_disagree">"Razı deyiləm"</string>
     <string name="btn_revoke">Geri götür</string>
     <string name="card_title_best_match">Başlıca nəticələr</string>
     <string name="card_title_note">Notlar</string>
@@ -171,7 +164,7 @@
     <string name="close_drawer">Naviqasiya menyusunu bağla</string>
     <string name="close_reconfirm_dialog_btn_cancel">İmtina</string>
     <string name="close_reconfirm_dialog_btn_ok">Söndür</string>
-    <string name="close_reconfirm_dialog_content">"Davam etsəniz, artıq Əsas ekrandan aşağı sürüşdürməklə \"Tətbiq tapıcı\"ya müraciət edə bilməyəcəksiniz. Bunun əvəzinə Əsas ekrandan aşağı sürüşdürməklə Bildiriş paneli və İdarəetmə mərkəzi açılacaq.
+    <string name="close_reconfirm_dialog_content">"Davam etsəniz, artıq Əsas ekrandan aşağı sürüşdürməklə \"Tətbiq tapıcı\"ya erişə edə bilməyəcəksiniz. Bunun əvəzinə Əsas ekrandan aşağı sürüşdürməklə Bildiriş paneli və İdarəetmə mərkəzi açılacaq.
 Ayarlar &gt; Əsas ekran &gt; Əsas ekranda aşağı sürüşdür bölməsində Əsas ekrandan aşağı sürüşdürdüyünüz zaman hansı özəlliyin nümayiş olunacağını manual olaraq dəyişdirə bilərsiniz."</string>
     <string name="close_reconfirm_dialog_title">\"Tətbiq tapıcı\"nı söndür</string>
     <string name="close_sheet">Səhifəni bağla</string>
@@ -194,12 +187,10 @@ Ayarlar &gt; Əsas ekran &gt; Əsas ekranda aşağı sürüşdür bölməsində 
     <string name="columbus_skip_ad_time">Ötür (%d)</string>
     <string name="common_google_play_services_unknown_issue">%1$s, Google Play xidmətləri ilə problem yaşayır. Lütfən yenidən sınayın.</string>
     <string name="copy">Kopyala</string>
-    <string name="copy_toast_msg">Keçid lövhəyə kopyalandı</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
     <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="default_error_message">Yararsız giriş</string>
     <string name="default_popup_window_title">Açılan pəncərə</string>
-    <string name="dialog">Dialoq</string>
     <string name="dialog_content_revoke_privacy_policy">"Davam etsəniz, \"Tətbiq tapıcı\"nın Gizlilik Siyasətinə verdiyiniz razılığı geri götürəcəksiniz. Şəxsi məlumatların yığılmasını dayandıracağıq. Artıq yığılmış və saxlanılmış şəxsi məlumatlar, əksi tələb olunmadığı müddətcə, müvafiq qanun və nizamlamalara uyğun olaraq müəyyən bir müddət ərzində silinəcəkdir. Tətbiq tapıcı, öz xidmətlərini lazımi şəxsi məlumatların yığılması əsasında təmin etdiyi üçün, razılığın geri götürülməsi bu xidmətləri qəbul etməkdən imtina olaraq nəzərə alınacaq."</string>
     <string name="dialog_title_revoke_privacy_policy">Razılığı geri götür</string>
     <string name="dropdown_menu">Açılan menyu</string>
@@ -228,8 +219,6 @@ Ayarlar &gt; Əsas ekran &gt; Əsas ekranda aşağı sürüşdür bölməsində 
     <string name="friday_shortest">Cüm</string>
     <string name="home_card_ai_search_content">Xiaomi HyperAI tərəfindən dəstəklənən daha ağıllı axtarış</string>
     <string name="home_card_ai_search_title">Tamamilə yeni AI axtarışı sınayın</string>
-    <string name="home_hot_app_title">Məşhur</string>
-    <string name="home_local_app_rec_title">Tövsiyə edilən</string>
     <string name="home_search_history_title">Axtarış tarixçəsi</string>
     <string name="hot_news_card_title">Mühüm başlıqlar</string>
     <string name="hot_news_create_time_right_now">İndicə</string>
@@ -248,21 +237,8 @@ Ayarlar &gt; Əsas ekran &gt; Əsas ekranda aşağı sürüşdür bölməsində 
     <string name="long_date_format">dd-MM-yyyy</string>
     <string name="long_date_format_without_year">dd-MM</string>
     <string name="material_clock_toggle_content_description">Günorta və ya axşam seçin</string>
-    <string name="material_hour_24h_suffix">%1$s saat</string>
-    <string name="material_hour_selection">Saat seçin</string>
-    <string name="material_hour_suffix">"Saat %1$s"</string>
-    <string name="material_minute_selection">Dəqiqə seçin</string>
-    <string name="material_minute_suffix">%1$s dəqiqə</string>
-    <string name="material_slider_range_end">Aralıq sonu</string>
-    <string name="material_slider_range_start">Aralıq başlanğıcı</string>
-    <string name="material_slider_value">Dəyər</string>
     <string name="material_timepicker_am">GƏ</string>
-    <string name="material_timepicker_clock_mode_description">Vaxtı daxil etmək üçün saat rejiminə keçin.</string>
-    <string name="material_timepicker_hour">Saat</string>
-    <string name="material_timepicker_minute">Dəqiqə</string>
     <string name="material_timepicker_pm">GS</string>
-    <string name="material_timepicker_select_time">Vaxt seçin</string>
-    <string name="material_timepicker_text_input_mode_description">Vaxtı daxil etmək üçün mətn giriş rejiminə keçin.</string>
     <string name="memory_clear_nothing_result">Keşdə təmizlənəcək heç nə yoxdur</string>
     <string name="memory_clear_result">%1$s təmizləndi</string>
     <string name="memory_management">Anbarı idarə et</string>
@@ -376,24 +352,18 @@ Ayarlar &gt; Əsas ekran &gt; Əsas ekranda aşağı sürüşdür bölməsində 
     <string name="mtrl_timepicker_cancel">İmtina</string>
     <string name="mtrl_timepicker_confirm">Oldu</string>
     <string name="navigation_menu">Naviqasiya menyusu</string>
-    <string name="new_feature_dialog">Yeni özəllik</string>
-    <string name="new_feature_dialog_btn">Anladım</string>
-    <string name="new_feature_dialog_content">AI cavablarını sınayın! Axtarış nəticələri səhifəsində süni zəka tərəfindən yaradılmış təfsilatlı cavabları almaq üçün \"AI\"ya toxunun.</string>
     <string name="night">Axşam</string>
-    <string name="no_scalable_applications">Bütün tətbiqlər güncəldir</string>
     <string name="noon">Günorta</string>
-    <string name="not_selected">Seçilmədi</string>
     <string name="not_set">Ayarlanmadı</string>
     <string name="occupy">%s istifadə edilir</string>
     <string name="off">Bağlı</string>
-    <string name="on">Açıq</string>
     <string name="password_toggle_content_description">Parolu göstər</string>
-    <string name="permission_open_camera">Əvvəlcə Ayarlarda bu tətbiqin kameraya müraciət etməsinə icazə verin</string>
-    <string name="permission_open_location">Əvvəlcə Ayarlarda bu tətbiqin yerləşmənizə müraciət etməsinə icazə verin</string>
-    <string name="permission_open_mic">Əvvəlcə Ayarlarda bu tətbiqin mikrofona müraciət etməsinə icazə verin</string>
-    <string name="permission_open_storage">Əvvəlcə Ayarlarda bu tətbiqin daxili anbara müraciət etməsinə icazə verin</string>
-    <string name="permission_request_contacts">Ayarlarda bu tətbiqin kontaktlara müraciət etməsinə icazə verin.</string>
-    <string name="permission_request_sms">Ayarlarda bu tətbiqin mesajlara müraciət etməsinə icazə verin.</string>
+    <string name="permission_open_camera">Əvvəlcə Ayarlarda bu tətbiqin kameraya erişməsinə icazə verin</string>
+    <string name="permission_open_location">Əvvəlcə Ayarlarda bu tətbiqin yerləşmənizə erişməsinə icazə verin</string>
+    <string name="permission_open_mic">Əvvəlcə Ayarlarda bu tətbiqin mikrofona erişməsinə icazə verin</string>
+    <string name="permission_open_storage">Əvvəlcə Ayarlarda bu tətbiqin daxili anbara erişməsinə icazə verin</string>
+    <string name="permission_request_contacts">Ayarlarda bu tətbiqin kontaktlara erişməsinə icazə verin.</string>
+    <string name="permission_request_sms">Ayarlarda bu tətbiqin mesajlara erişməsinə icazə verin.</string>
     <string name="pm">GS</string>
     <string name="power_saving_settings">Batareya qənaəti</string>
     <string name="preference_copied">\"%1$s\" lövhəyə kopyalandı.</string>
@@ -429,11 +399,11 @@ Ayarlar &gt; Əsas ekran &gt; Əsas ekranda aşağı sürüşdür bölməsində 
     <string name="search_menu_title">Axtar</string>
     <string name="search_more">Bunu axtar: \"&lt;b&gt;%1$s&lt;/b&gt;\"</string>
     <string name="search_result_installed_app">Quraşdırılmış tətbiqlər</string>
-    <string name="search_result_permission_contacts">Kontaktlara müraciət</string>
+    <string name="search_result_permission_contacts">Kontaktlara erişim</string>
     <string name="search_result_permission_contacts_message">Kontaktları tapmaq, cəld nömrə yığmaq və SMS göndərmək üçün</string>
-    <string name="search_result_permission_file">Media fayllarına müraciət</string>
+    <string name="search_result_permission_file">Media fayllarına erişim</string>
     <string name="search_result_permission_file_message">Foto və videoları tapmaq üçün</string>
-    <string name="search_result_permission_sms">Mesajlara müraciət</string>
+    <string name="search_result_permission_sms">Mesajlara erişim</string>
     <string name="search_result_permission_sms_message">Mesajları tapmaq üçün</string>
     <string name="search_result_shortcuts">Qısayollar</string>
     <string name="search_result_store_app">Daha çox tətbiq</string>
@@ -442,7 +412,6 @@ Ayarlar &gt; Əsas ekran &gt; Əsas ekranda aşağı sürüşdür bölməsində 
     <string name="searchview_navigation_content_description">Geri</string>
     <string name="selected">Seçildi</string>
     <string name="send">Göndər</string>
-    <string name="sesame_lite_version">Sesame Lite Versiyası</string>
     <string name="setting_about">Tətbiq tapıcı barədə</string>
     <string name="setting_close_search">\"Tətbiq tapıcı\"nı söndür</string>
     <string name="setting_contact_information">Kontaktlarınızın məlumatları</string>
@@ -539,7 +508,7 @@ Ayarlar &gt; Əsas ekran &gt; Əsas ekranda aşağı sürüşdür bölməsində 
     <string name="ssml_navigation_settingsSecurity">Güvənlik</string>
     <string name="ssml_navigation_settingsSound">Səs</string>
     <string name="ssml_navigation_settingsTetheringAndHotspot">Hotspot və internet paylaşımı</string>
-    <string name="ssml_navigation_settingsUsageAccess">İstifadə müraciəti</string>
+    <string name="ssml_navigation_settingsUsageAccess">İstifadəyə erişim</string>
     <string name="ssml_navigation_settingsVpn">VPN</string>
     <string name="ssml_navigation_settingsWiFi">Wi-Fi</string>
     <string name="ssml_searchMore_googleMaps">Google Xəritələr</string>
@@ -547,7 +516,6 @@ Ayarlar &gt; Əsas ekran &gt; Əsas ekranda aşağı sürüşdür bölməsində 
     <string name="sunday">Bazar</string>
     <string name="sunday_short">Baz</string>
     <string name="sunday_shortest">Baz</string>
-    <string name="tab">Vərəq</string>
     <string name="template_percent">%1$d faiz.</string>
     <string name="the_anniversary_of_lifting_martial_law">Hərbi Vəziyyətin Qaldırılma İldönümü</string>
     <string name="the_anti_aggression_day">Təcavüzlə Mübarizə Günü</string>
@@ -609,10 +577,10 @@ Ayarlar &gt; Əsas ekran &gt; Əsas ekranda aşağı sürüşdür bölməsində 
     <string name="user_guide_welcome_close_tip">&lt;font color=#0a84ff&gt;&lt;u&gt;\"Tətbiq tapıcı\"nı söndür&lt;/u&gt;&lt;/font&gt; düyməsinə toxunmaqla bu özəlliyin istifadəsini dayandıra bilərsiniz.</string>
     <string name="user_guide_welcome_other_permissions">Digər icazələr</string>
     <string name="user_guide_welcome_other_permissions_message_1"><ul>
-  <li>Kontaktlara müraciət: kontaktları axtarmaq üçün</li>
+  <li>Kontaktlara erişim: kontaktları axtarmaq üçün</li>
 </ul></string>
     <string name="user_guide_welcome_other_permissions_message_2"><ul>
-  <li>Mesajlara müraciət: mesajları axtarmaq üçün</li>
+  <li>Mesajlara erişim: mesajları axtarmaq üçün</li>
 </ul></string>
     <string name="user_guide_welcome_privacy_collect_word">Açar sözlərinizi yığın və bir qeydini saxlayın</string>
     <string name="user_guide_welcome_privacy_collect_word_1">Əlaqədar, doğru axtarış nəticələrini təqdim etmək üçün axtarış terminlərinin yığılmasına icazə verin</string>

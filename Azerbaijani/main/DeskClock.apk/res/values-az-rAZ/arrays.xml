@@ -647,6 +647,11 @@
         <item>Cəmi %2$s %3$s</item>
         <item>Cəmi %1$s %2$s %3$s</item>
     </string-array>
+    <string-array name="timezone_search_bottom_sheet_mode_config">
+        <item>Avto</item>
+        <item>Altda</item>
+        <item>Üzən</item>
+    </string-array>
     <string-array name="volume_button_setting_entries">
         <item>Heç nə etmə</item>
         <item>Ertələ</item>

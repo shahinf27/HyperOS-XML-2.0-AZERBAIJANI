@@ -24,9 +24,6 @@
     <string name="accessibility_tab_state_description_unselect">Seçilmədi</string>
     <string name="accessibility_tab_statedesc_unselect">Seçilmədi</string>
     <string name="actionbar_button_up_description">Geri</string>
-    <string name="activate_voice_access_action_one">唤醒语音控制</string>
-    <string name="activate_voice_access_action_three">开始语音控制</string>
-    <string name="activate_voice_access_action_two">开启语音控制</string>
     <string name="add">Əlavə et</string>
     <string name="add_control_center_hint_text_1">Addım %d: İdarəetmə mərkəzini açmaq üçün ekranda aşağı çəkin.</string>
     <string name="add_control_center_hint_text_2_cn">Addım %1$d: \"Tərcümə\"yə toxunun.</string>
@@ -164,7 +161,7 @@
     <string name="detail_what_is_ai_translate">"Videolara baxma, onlayn iclaslar və telefon zəngləri kimi hallarda, daxili və xarici səsi, mətn formatında təqdim edilir və real vaxtda tərcümə edilə bilər. Bir zəng və ya iclas zamanı yüksək səslə danışa bilmirsinizsə, mətndən səsə özəlliklərini istifadə edərək qarşı tərəfə cavab verə bilərsiniz. Danışıq qeydlərini asanlıqla yaratmaq üçün altyazı məzmunu \"Notlar\"da saxlanıla bilər."</string>
     <string name="device_do_not_support_function">"Bu cihaz modeli, bu özəlliyi dəstəkləmir"</string>
     <string name="dialog_message_delete_message">Seçilmiş elementlər indi silinsin?</string>
-    <string name="dialog_no_test_qualified_tip_message">"Hazırda Beta tester kimlik məlumatlarınız yoxdur. Xiaomi Community tətbiqində Beta tester olmaq üçüün müraciət edə bilərsiniz."</string>
+    <string name="dialog_no_test_qualified_tip_message">"Hazırda Beta tester kimlik məlumatlarınız yoxdur. Xiaomi Community tətbiqində Beta tester olmaq üçün müraciət edə bilərsiniz."</string>
     <string name="dialog_no_test_qualified_tip_title">Kimlik məlumatları lazımdır</string>
     <string name="dialog_save_summary_text">Ağıllı icmal və altyazı məzmununu indi bir not kimi saxlayın</string>
     <string name="dialog_save_summary_title">Məzmunu saxla</string>
@@ -185,7 +182,6 @@
     <string name="edit_speaker">Danışan məlumatlarına düzəliş et</string>
     <string name="en_to_cn">İngilis dilindən Çin dilinə</string>
     <string name="en_to_cn_v2">Çin dilinə tərcümə et</string>
-    <string name="enable_ai_subtitle">AI altyazılarını fəallaşdır</string>
     <string name="english">İngilis dili</string>
     <string name="eras_ad">B.E.</string>
     <string name="eras_bc">B.E.Ə.</string>
@@ -240,7 +236,7 @@ Altyazı məzmununu not kimi saxla"</string>
     <string name="generate_summary_error">Xəta baş verdi. Yenidən sınayın.</string>
     <string name="generate_summary_hint">İcmal yaradılır…</string>
     <string name="generate_summary_tip">Yuxarıdakı məzmun AI tərəfindən yaradılıb və bəzi səhvlər ehtiva edə bilər.</string>
-    <string name="guide_page_subtitle">İdarəetmə mərkəzindən \"Tərcümə\"yə müraciət</string>
+    <string name="guide_page_subtitle">İdarəetmə mərkəzindən \"Tərcümə\"yə erişmə</string>
     <string name="guide_text3">"Mi Ditto-nu necə istifadə edəcəyimi öyrəndim!"</string>
     <string name="have_been_added">Əlavə edildi</string>
     <string name="have_been_created">Yaradıldı</string>
@@ -265,8 +261,8 @@ Altyazı məzmununu not kimi saxla"</string>
     <string name="join_improvement_plan_dialog_content_cn">Ehtiyaclarınızı daha yaxşı anlamağımıza, \"Tərcümə\"nin doğruluğunu və istifadə təcrübəsini optimallaşdırmağımıza kömək etmək üçün \"İstifadəçi Tərcümə Proqramı\"mıza qoşulun. Gizliliyinizi ciddi şəkildə qoruyacağıq. İndi qoşulursunuz?</string>
     <string name="join_improvement_plan_dialog_content_global">Ehtiyaclarınızı daha yaxşı anlamağımıza, \"Mi AI Tərcümə\"nin doğruluğunu və istifadə təcrübəsini optimallaşdırmağımıza kömək etmək üçün \"İstifadəçi Tərcümə Proqramı\"mıza qoşulun. Gizliliyinizi ciddi şəkildə qoruyacağıq. İndi qoşulursunuz?</string>
     <string name="know">Anladım</string>
-    <string name="know_ai_translate_content_cn">AI altyazıları, danışıq səslərini real vaxtda ikidilli altyazılara çevirə və tərcümə edə bilər. Bu özəllik, onlayn iclaslar və dərslər, canlı videolar və eşitmə əlçatımlılığının lazım olduğu vəziyyətlər üçün faydalıdır. Səs və onun mətnə çevrilmiş halı, yalnız cihazınızda emal olunacaq. Bu, sadəcə məlumatlarınızı gizli saxlamır, həm də bu özəlliyin oflayn istifadə oluna biləcəyini bildirir.</string>
-    <string name="know_ai_translate_content_global">AI Altyazıları, danışıq səslərini real vaxtda ikidilli altyazılara çevirə və tərcümə edə bilər. Bu özəllik, onlayn iclaslar və dərslər, canlı videolar və eşitmə əlçatımlılığının lazım olduğu vəziyyətlər üçün faydalıdır. Səs və onun mətnə çevrilmiş halı, yalnız cihazınızda emal olunacaq. Bu, sadəcə məlumatlarınızı gizli saxlamır, həm də bu özəlliyin oflayn istifadə oluna biləcəyini bildirir.</string>
+    <string name="know_ai_translate_content_cn">Ağıllı altyazılar, danışıq səslərini real vaxtda ikidilli altyazılara çevirə və tərcümə edə bilər. Bu özəllik, onlayn iclaslar və dərslər, canlı videolar və eşitmə əlçatımlılığının lazım olduğu vəziyyətlər üçün faydalıdır. Səs və onun mətnə çevrilmiş halı, yalnız cihazınızda emal olunacaq. Bu, məlumatlarınızı gizli saxlayır və bu o deməkdir ki, bu özəllik oflayn istifadə oluna bilər.</string>
+    <string name="know_ai_translate_content_global">AI Altyazıları, danışıq səslərini real vaxtda ikidilli altyazılara çevirə və tərcümə edə bilər. Bu özəllik, onlayn iclaslar və dərslər, canlı videolar və eşitmə əlçatımlılığının lazım olduğu vəziyyətlər üçün faydalıdır. Səs və onun mətnə çevrilmiş halı, yalnız cihazınızda emal olunacaq. Bu, məlumatlarınızı gizli saxlayır və bu o deməkdir ki, bu özəllik oflayn istifadə oluna bilər.</string>
     <string name="know_ai_translate_title_cn">AI altyazıları nədir?</string>
     <string name="know_ai_translate_title_global">AI Altyazıları nədir?</string>
     <string name="ko_to_cn">Koreya dilindən Çin dilinə</string>
@@ -327,15 +323,15 @@ Altyazı məzmununu not kimi saxla"</string>
     <string name="loading_text">Bir saniyə…</string>
     <string name="matching_language_error_hint_cn">"Hələ ki, bu dilə tərcümə edilə bilmir"</string>
     <string name="matching_language_error_hint_global">"Hələ ki, bu dilə tərcümə edilə bilmir"</string>
-    <string name="meeting_sound">Sistem və mikrofon</string>
-    <string name="meeting_sound_content_able">Onlayn görüşlər zamanı tətbiq və mikrofonunuzdan səs yığmaq üçün MI AI-yı istifadə edin</string>
-    <string name="meeting_sound_content_enable">"Onlayn görüşlər zamanı tətbiq və mikrofonunuzdan səs yığmaq üçün MI AI-yı istifadə edin.
+    <string name="meeting_sound">Sistem və mikrofon səsi</string>
+    <string name="meeting_sound_content_able">Onlayn iclaslar və səsli zənglər üçün idealdır</string>
+    <string name="meeting_sound_content_enable">"Onlayn iclaslar zamanı tətbiq və mikrofonunuzdan səs yığmaq üçün MI AI-yı istifadə edin.
 Bu özəlliyi istifadə edə bilmək üçün ən son versiyaya güncəlləyin."</string>
     <string name="menu_clear">Təmizlə</string>
     <string name="menu_export">Xaricə köçür</string>
     <string name="menu_multi_select">Bir neçə element seçin</string>
     <string name="mic_sound">Mikrofon</string>
-    <string name="mic_sound_content">Şəxsi görüşlər zamanı eşitmə əlçatımlılığı və tərcümə üçün mikrofon səsini istifadə edin</string>
+    <string name="mic_sound_content">Dərslər və digər oflayn ssenarilər üçün idealdır</string>
     <string name="microphone_in_use_unavailable">"Mikrofon və ya dinamik istifadə olunur. İndi istifadə edilə bilmir."</string>
     <string name="midnight">Gecə</string>
     <string name="miuix_access_state_desc">Seçildi</string>
@@ -459,14 +455,14 @@ Bu özəlliyi istifadə edə bilmək üçün ən son versiyaya güncəlləyin."<
     <string name="passport_oauth_actionbar_title">Xiaomi Hesabı</string>
     <string name="passport_oauth_sucess_tip">Uğurla səlahiyyət verildi</string>
     <string name="password_toggle_content_description">Parolu göstər</string>
-    <string name="permission_account">Cihaz hesablarına müraciət</string>
-    <string name="permission_account_desc">Cihazda saxlanılan hesablara müraciət etmək üçün</string>
-    <string name="permission_phone">Zənglə əlaqəli məlumatlara müraciət</string>
-    <string name="permission_phone_desc">Telefon nömrəsinə və zəng statusuna müraciət etmək üçün</string>
+    <string name="permission_account">Cihaz hesablarına erişim</string>
+    <string name="permission_account_desc">Cihazda saxlanılan hesablara erişmək üçün</string>
+    <string name="permission_phone">Zənglə əlaqəli məlumatlara erişim</string>
+    <string name="permission_phone_desc">Telefon nömrəsinə və zəng statusuna erişmək üçün</string>
     <string name="permission_record">Səs yaz</string>
     <string name="permission_record_desc">Səsli mətni tanımaq üçün</string>
-    <string name="permission_store">Anbar müraciəti</string>
-    <string name="permission_store_desc">Cihazda saxlanılan foto, video, səs və fayllara müraciət etmək üçün</string>
+    <string name="permission_store">Anbara erişim</string>
+    <string name="permission_store_desc">Cihazda saxlanılan foto, video, səs və fayllara erişmək üçün</string>
     <string name="permission_warning">"Bu altyazıları not kimi saxlamazdan əvvəl, daxil olmuş digər şəxslərin və ya tərəflərin razılığını aldığınıza əmin olun.
 Qeyd: Bu versiyada videolardan və ya səs mənbəyindən yaradılmış altyazılar not kimi saxlanıla bilməz."</string>
     <string name="pf_ai_subtitle_end_hint_summary">*%1$s gizliliyinizə ciddi yanaşır. %2$s, cihazınızdakı bütün tərcümələri icra etmək üçün oflayn danışıq tanıma və maşın tərcüməsini istifadə edir. Hər iki dil üzrə heç bir məzmun serverlərimizə yüklənmir və ya hər hansısa bir şəkildə ifşa olunmur.</string>
@@ -555,7 +551,7 @@ Razılığı geri götürsəniz, Mi AI Tərcümə xidmətlərini istifadə edə 
     <string name="save_subtitle_content_to_miui_note">Saxlanılmış altyazılar \"Notlar\"a köçürüləcək.</string>
     <string name="save_subtitle_to_miui_notes">Saxlanılmış altyazılar \"Notlar\"a köçürüləcək.</string>
     <string name="save_to_local_failure_message">Daxili anbarda saxlanıla bilmir</string>
-    <string name="save_to_local_icon_name">Daxili anbar saxla</string>
+    <string name="save_to_local_icon_name">Daxili anbarda saxla</string>
     <string name="save_to_local_success_message">Uğurla daxili anbarda saxlanıldı</string>
     <string name="save_to_note">\"Notlar\"da saxla</string>
     <string name="save_to_notes">Not kimi saxla</string>
@@ -582,7 +578,7 @@ Razılığı geri götürsəniz, Mi AI Tərcümə xidmətlərini istifadə edə 
     <string name="screen_translate_wrong_language">"Deyəsən, mənbə dili seçdiyiniz dil deyil. Yenidən seçin."</string>
     <string name="search_menu_title">Axtar</string>
     <string name="send">Göndər</string>
-    <string name="settings_already_open_debug_item_toast">已打开调试设置</string>
+    <string name="settings_already_open_debug_item_toast">Sazlama ayarları fəaldır</string>
     <string name="settings_content_description">Ayarları aç</string>
     <string name="settings_search_ai_subtitle_summary_cn">Mi AI/Tərcümə/Altyazılar barədə</string>
     <string name="settings_search_ai_subtitle_summary_global">Mi AI/Mi AI Tərcümə/Altyazılar barədə</string>
@@ -591,11 +587,10 @@ Razılığı geri götürsəniz, Mi AI Tərcümə xidmətlərini istifadə edə 
     <string name="settings_search_ai_translate_summary_cn">Mi AI/Tərcümə</string>
     <string name="settings_search_ai_translate_summary_global">Mi AI/Mi AI Tərcümə</string>
     <string name="settings_title">Əlavə ayarlar</string>
-    <string name="share_image_title_text_src">Orijinal</string>
-    <string name="share_image_title_text_tra">Tərcümə</string>
+    <string name="share_image_title_text_src">Orijinal mətn</string>
+    <string name="share_image_title_text_tra">Tərcümə edilmiş mətn</string>
     <string name="shortcuts">Qısayollar</string>
     <string name="simultaneous_interpretation_name_cn">AI Tərcüməçisi</string>
-    <string name="sns_title_edit">Şəkilləri paylaş</string>
     <string name="solar_term_autumn_begins">Payız başlayır</string>
     <string name="solar_term_autumn_equinox">Payız gündönümü</string>
     <string name="solar_term_clear_and_bright">Təmiz və parlaq</string>
@@ -643,7 +638,7 @@ Razılığı geri götürsəniz, Mi AI Tərcümə xidmətlərini istifadə edə 
     <string name="synonym">Sinonimlər</string>
     <string name="sys_app_prot_cracked_confirm">Anladım</string>
     <string name="sys_sound">Sistem səsi</string>
-    <string name="sys_sound_content">Səsli zənglər, video oxutma və onlayn görüşlər zamanı tərcümə üçün sistem səsini istifadə edin</string>
+    <string name="sys_sound_content">Videoya baxarkən altyazıları tərcümə etmək üçün idealdır</string>
     <string name="text_input_layout_default_error">Bu, ilkin xətadır</string>
     <string name="text_size">Mətn ölçüsü</string>
     <string name="the_anniversary_of_lifting_martial_law">Hərbi Vəziyyətin Qaldırılma İldönümü</string>
@@ -764,6 +759,7 @@ Razılığı geri götürsəniz, Mi AI Tərcümə xidmətlərini istifadə edə 
     <string name="waiting_sound_hint_from_meeting">İclas səsi dinlənilir…</string>
     <string name="waiting_sound_hint_from_mic">Mikrofon səsi dinlənilir…</string>
     <string name="waiting_sound_hint_from_sys">Sistem səsi dinlənilir…</string>
+	<string name="web_interpretation">İnternetdən</string>
     <string name="wednesday">Çərşənbə</string>
     <string name="wednesday_short">Çər</string>
     <string name="wednesday_shortest">Çər</string>

@@ -164,6 +164,10 @@
         <item quantity="other">%d element seçildi</item>
         <item quantity="one">%d element seçildi</item>
     </plurals>
+    <plurals name="miuix_indexer_selected">
+        <item quantity="one">%1$d element seçildi</item>
+        <item quantity="other">%1$d element seçildi</item>
+    </plurals>
 	<plurals name="not_authenticated_devices">
         <item quantity="other">Cəmi %s güvənilməyən cihazınız var.</item>
         <item quantity="one">Cəmi %s güvənilməyən cihazınız var.</item>

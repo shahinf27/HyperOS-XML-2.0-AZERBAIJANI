@@ -180,8 +180,8 @@
     <string name="cd_check_box_checked">işarələndi</string>
     <string name="cd_check_box_middle">qismən işarələndi</string>
     <string name="cd_check_box_unchecked">işarələnmədi</string>
-    <string name="cd_list_item_collapse">yığcam</string>
-    <string name="cd_list_item_expanded">genişlənmiş</string>
+    <string name="cd_list_item_collapse">Yığcamlaşdırıldı</string>
+    <string name="cd_list_item_expanded">Genişləndirildi</string>
     <string name="cd_percent">faiz</string>
     <string name="cd_scanning">skan edilir</string>
     <string name="cd_settings">ayarlar</string>
@@ -265,7 +265,9 @@
     <string name="dc_storage_info_new">%1$s mövcuddur</string>
     <string name="deep_clean_completed_tips">Uğurla təmizləndi</string>
     <string name="deep_clean_data_path_clean_title">Keşi təmizlə</string>
+    <string name="deep_clean_down">Azalan sıra</string>
     <string name="deep_clean_uninstall_completed_tips">Uğurla silindi</string>
+    <string name="deep_clean_up">Artan sıra</string>
     <string name="deepclean_1_k_clean">Yaddaşı təmizlə</string>
     <string name="deepclean_apk_content">APK-ləri və ya lazımsız tətbiqləri silin</string>
     <string name="deepclean_apk_group_hint_checked">Hamısını seç</string>
@@ -436,7 +438,7 @@
     <string name="global_wa_shortcut_dialog_cancel">İmtina</string>
     <string name="global_wa_shortcut_dialog_checkbox_hint">"Təkrar göstərmə"</string>
     <string name="global_wa_shortcut_dialog_confirm">Yarat</string>
-    <string name="global_wa_shortcut_dialog_content">Bu özəlliyə asanlıqla müraciət etmək üçün WhatsApp Təmizləyici üçün bir Əsas ekran qısayolu yaradın.</string>
+    <string name="global_wa_shortcut_dialog_content">Bu özəlliyə asanlıqla erişmək üçün WhatsApp Təmizləyici üçün bir Əsas ekran qısayolu yaradın.</string>
     <string name="global_wa_shortcut_dialog_title">Əsas ekran qısayolu</string>
     <string name="global_wa_shortcut_toast">Əsas ekran qısayolu uğurla yaradıldı</string>
     <string name="global_wa_wrapper">Divar kağızları</string>
@@ -659,7 +661,7 @@
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Bir saniyə…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Elementlər yüklənə bilmədi"</string>
 	<string name="miuix_show_password">Parolu göstər</string>
-    <string name="miuix_stretchablewidget_collapsed">Bağlandı</string>
+    <string name="miuix_stretchablewidget_collapsed">Yığcamlaşdırıldı</string>
     <string name="miuix_stretchablewidget_expanded">Genişləndirildi</string>
     <string name="monday">Bazar ertəsi</string>
     <string name="monday_short">B.e.</string>
@@ -830,7 +832,7 @@ Təkrar onlayn olduğunuz zaman daha çoxunu paylaşacağıq."</string>
     <string name="output_videos">Videoları xaricə köçür</string>
     <string name="permission_dialog_storage_btn1">Ayarlar</string>
     <string name="permission_dialog_storage_btn2">İmtina</string>
-    <string name="permission_dialog_storage_content">Təmizləyicinin normal işləməsi üçün daxili anbara müraciət icazəsinə ehtiyacı var. Anbar icazələrini idarə etmək üçün \"Ayarlar\"a toxunun.</string>
+    <string name="permission_dialog_storage_content">Təmizləyicinin normal işləməsi üçün daxili anbara erişim icazəsinə ehtiyacı var. Anbar icazələrini idarə etmək üçün \"Ayarlar\"a toxunun.</string>
     <string name="permission_dialog_storage_title">İcazələr tələb olunur</string>
     <string name="phone_search">Google Axtarışı</string>
     <string name="pm">GS</string>
@@ -970,7 +972,6 @@ Təkrar onlayn olduğunuz zaman daha çoxunu paylaşacağıq."</string>
     <string name="sunday_short">Baz</string>
     <string name="sunday_shortest">Baz</string>
     <string name="sys_cache_on_sdcard_item_name">Keş</string>
-	<string name="text_input_layout_default_error">Bu, ilkin xətadır</string>
     <string name="the_anniversary_of_lifting_martial_law">Hərbi Vəziyyətin Qaldırılma İldönümü</string>
     <string name="the_anti_aggression_day">Təcavüzlə Mübarizə Günü</string>
     <string name="the_arbor_day">Ağacəkmə Günü</string>
@@ -1094,7 +1095,7 @@ Təkrar onlayn olduğunuz zaman daha çoxunu paylaşacağıq."</string>
     <string name="tt_dislike_header_tv_back">Geri</string>
     <string name="tt_dislike_header_tv_title">Seç</string>
     <string name="tt_display_error">Ekran xətası</string>
-    <string name="tt_error_access_method_pass">Qeyri-qanuni müraciət üsulu</string>
+    <string name="tt_error_access_method_pass">Qeyri-qanuni erişim üsulu</string>
     <string name="tt_error_ad_able_false_msg">Uyğunluğa görə tələb reklamlarını qadağan edin, lütfən COPPA/CCPA/GDPR ayarlarını yoxlayın</string>
     <string name="tt_error_ad_sec_false_msg">Güvənlik yoxlanışı uğursuz oldu</string>
     <string name="tt_error_ad_type">Qeyri-qanuni reklam növü</string>

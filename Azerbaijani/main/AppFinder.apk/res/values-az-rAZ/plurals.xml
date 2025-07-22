@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="a_hour_ago">
-        <item quantity="other">1 saat əvvəl</item>
-    </plurals>
     <plurals name="abbrev_a_hour_ago">
         <item quantity="other">%d saat əvvəl</item>
     </plurals>
@@ -53,9 +50,6 @@
         <item quantity="one">%d xarakterə qədər daxil et</item>
         <item quantity="other">%d xarakterə qədər daxil et</item>
     </plurals>
-    <plurals name="half_hour_ago">
-        <item quantity="other">Yarım saat əvvəl</item>
-    </plurals>
     <plurals name="hot_news_create_time_days_ago">
         <item quantity="one">%1$d gün əvvəl</item>
         <item quantity="other">%1$d gün əvvəl</item>
@@ -67,10 +61,6 @@
     <plurals name="hot_news_create_time_mins_ago">
         <item quantity="one">%1$d dəq əvvəl</item>
         <item quantity="other">%1$d dəq əvvəl</item>
-    </plurals>
-    <plurals name="hour">
-        <item quantity="one">"%d sa "</item>
-        <item quantity="other">"%d sa "</item>
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">1 saat ərzində</item>
@@ -85,9 +75,6 @@
         <item quantity="one">1 dəqiqə ərzində</item>
         <item quantity="other">%d dəqiqə ərzində</item>
     </plurals>
-    <plurals name="less_than_one_minute_ago">
-        <item quantity="other">İndicə</item>
-    </plurals>
     <plurals name="minute">
         <item quantity="one">"%d dəq "</item>
         <item quantity="other">"%d dəq "</item>
@@ -99,10 +86,6 @@
     <plurals name="mtrl_badge_content_description">
         <item quantity="one">%d yeni bildiriş</item>
         <item quantity="other">%d yeni bildiriş</item>
-    </plurals>
-    <plurals name="num_minutes_ago">
-        <item quantity="one">1 dəqiqə əvvəl</item>
-        <item quantity="other">%d dəqiqə əvvəl</item>
     </plurals>
     <plurals name="quick_link_guide_participated">
         <item quantity="one">%d nəfər cavablandırdı</item>

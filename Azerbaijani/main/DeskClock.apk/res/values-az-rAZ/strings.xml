@@ -184,7 +184,7 @@
     <string name="invalid_timer_length">"Taymer müddəti yanlışdır"</string>
     <string name="item_view_role_description">Vərəq</string>
     <string name="korea_permission_calendar">Təqvim</string>
-    <string name="korea_permission_calendar_desc">Tədbir məlumatlarına müraciət etmək və xatırladıcılar göndərmək üçün</string>
+    <string name="korea_permission_calendar_desc">Tədbir məlumatlarına erişmək və xatırladıcılar göndərmək üçün</string>
     <string name="korea_permission_storage">Anbar</string>
     <string name="korea_permission_storage_desc">Zəngli saatları saxlamaq üçün</string>
     <string name="label_input_hint">Etiket daxil edin</string>
@@ -447,9 +447,9 @@
     <string name="privacy_policy_title">Gizlilik Siyasəti</string>
     <string name="privacy_settings_title">Gizlilik</string>
     <string name="query_privacy_policy">Gizlilik Siyasətinə bax</string>
-    <string name="read_device_internal_storage">Anbara müraciət</string>
+    <string name="read_device_internal_storage">Anbara erişim</string>
     <string name="read_external_storage_permission_desc">Özəl zəng səsləri ayarlamaq üçün</string>
-    <string name="read_internal_storage">Anbara müraciət</string>
+    <string name="read_internal_storage">Anbara erişim</string>
     <string name="remark_hint">Etiket daxil edin</string>
     <string name="repeat_count">Təkrar</string>
     <string name="reset">Sıfırla</string>
@@ -549,7 +549,7 @@
     <string name="sunday">Bazar</string>
     <string name="sunday_short">Baz</string>
     <string name="sunday_shortest">Baz</string>
-    <string name="system_permission_agree_desc">Bütün özəlliklərə müraciət etmək üçün bu tətbiqin internetə bağlanmasına icazə verin.</string>
+    <string name="system_permission_agree_desc">Bütün özəlliklərə erişmək üçün bu tətbiqin internetə bağlanmasına icazə verin.</string>
     <string name="system_permission_main_purpose">Saata baxma, zəngli saatları və taymerləri qurma, saniyəölçəni istifadə etmə</string>
     <string name="temperature_unit">℃</string>
     <string name="text_input_layout_default_error">Bu, ilkin xətadır</string>
@@ -635,7 +635,7 @@
     <string name="upcoming_alarm">Gələcək zəngli saat: %s</string>
     <string name="upcoming_alarm_hint">Bu zəngli saatı indi söndürə bilərsiniz</string>
     <string name="upcoming_alarm_new">Yaxınlaşan zəngli saat: %s</string>
-    <string name="update_health_app_desc_new">Yuxu izləmə özəlliyi, Xiaomi Health tərəfindən təmin edilir. Əlaqəli özəlliklərə müraciət etmək üçün Xiaomi Health-i son versiyaya güncəlləyin.</string>
+    <string name="update_health_app_desc_new">Yuxu izləmə özəlliyi, Xiaomi Health tərəfindən təmin edilir. Əlaqəli özəlliklərə erişmək üçün Xiaomi Health-i son versiyaya güncəlləyin.</string>
     <string name="update_health_app_new">Xiaomi Health-i güncəllə</string>
     <string name="update_it">Güncəllə</string>
     <string name="update_notification_info">Datalar arxaplanda güncəllənir…</string>

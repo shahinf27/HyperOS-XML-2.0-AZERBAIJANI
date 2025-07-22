@@ -44,7 +44,7 @@
     <string name="add_google_account_dialog_btn">Google Hesabını istifadə et</string>
     <string name="add_new_account">Yeni hesab əlavə et</string>
     <string name="add_xiaomi_account_dialog_btn">Xiaomi hesabı istifadə et</string>
-    <string name="add_xiaomi_account_dialog_msg">Kontaktlarınızı Xiaomi Hesabınıza nüsxələyərək, onlara istənilən yerdən müraciət edin!</string>
+    <string name="add_xiaomi_account_dialog_msg">Kontaktlarınızı Xiaomi Hesabınıza nüsxələyərək, onlara istənilən yerdən erişin!</string>
     <string name="add_xiaomi_account_dialog_title">Hesab seçin</string>
     <string name="afternoon">Günortadan sonra</string>
     <string name="aggregation_suggestion_edit_dialog_message">Eyniadlı kontaktın düzəlişinə keçilsin? İndiyə qədər daxil etdiyiniz məlumatlar kopyalanacaq.</string>
@@ -52,6 +52,7 @@
     <string name="aggregation_suggestion_join_dialog_message">Seçilmiş kontakt hazırkı kontaktla birləşdirilsin?</string>
     <string name="ai_calllog_call_record_menu">AI zəng səsyazmaları</string>
     <string name="all_list_empty">Kontakt yoxdur</string>
+    <string name="all_selected">Hamısı seçildi</string>
     <string name="am">GƏ</string>
     <string name="antispam_mark_my_contribution">İşarə məlumatı paylaşılır</string>
 	<string name="app_name">logProvider</string>
@@ -149,7 +150,7 @@
     <string name="bh_ms">Mi SIM</string>
     <string name="bh_net_error">Şəbəkə xətası baş verdi</string>
     <string name="bh_no_permission_read_call_log_desc">Bu icazə, zəng müddətini görüntüləməyə icazə verir</string>
-    <string name="bh_no_permission_read_contact_desc">Bu icazə, kontaktlardakı telefon nömrələrinə müraciətə icazə verir</string>
+    <string name="bh_no_permission_read_contact_desc">Bu icazə, kontaktlardakı telefon nömrələrinə erişməsinə icazə verir</string>
     <string name="bh_no_sim">"SIM kart taxılmayıb"</string>
     <string name="bh_no_sim_inserted">"SIM kart taxılmayıb"</string>
     <string name="bh_none">Yoxdur</string>
@@ -171,12 +172,12 @@
     <string name="bh_pay_fail_desc">"Şəbəkəyə bağlana bilmədi. Geri qayıdıb ödənişi yenidən tamamlayın."</string>
     <string name="bh_pay_fee">Miqdar</string>
     <string name="bh_pay_success_desc">Balansınız gecikmə ilə hesablana bilər</string>
-    <string name="bh_perm_ask_read_contacts">Əvvəlcə \"Mi Operator Xidmətləri\"nin kontaktlarınıza müraciətinə icazə verin.</string>
+    <string name="bh_perm_ask_read_contacts">Əvvəlcə \"Mi Operator Xidmətləri\"nin kontaktlarınıza erişməsinə icazə verin.</string>
     <string name="bh_perm_desc_read_contacts">Artırarkən kontaktları görüntüləmək üçün</string>
-    <string name="bh_permission_contact">Kontaktlara müraciət</string>
+    <string name="bh_permission_contact">Kontaktlara erişim</string>
     <string name="bh_permission_contact_desc">Kontaktlarınızın balansını artırmaq üçün</string>
     <string name="bh_permission_get_accounts_desc">Sifariş vermək və statusunu yoxlamaq üçün</string>
-    <string name="bh_permission_read_call_log">Zəng tarixçəsinə müraciət</string>
+    <string name="bh_permission_read_call_log">Zəng tarixçəsinə erişim</string>
     <string name="bh_permission_read_call_log_desc">Zəng müddətini görüntüləmək üçün</string>
     <string name="bh_permission_read_call_log_desc_and_reason">Zəng müddətini görüntüləmək üçün zəng jurnalını oxu</string>
     <string name="bh_permission_read_contact_desc_and_reason">Kontaktlarınızın balansını artırmaq üçün kontaktları oxu</string>
@@ -185,7 +186,6 @@
 	<string name="bh_pkg_current_month">Bu ay</string>
     <string name="bh_pkg_data_cant_query">"Operator məhdudiyyətlərinə görə detallara baxıla bilmir"</string>
 	<string name="bh_pkg_setting_talkback">Ayarlar</string>
-    <string name="bh_please_check_operation">Lütfən operator ayarlarının düzgün olub-olmadığını yoxlayın</string>
     <string name="bh_please_complete_sim_before_charge">Artırmaq üçün əvvəlcə bir telefon nömrəsi əlavə edin.</string>
     <string name="bh_please_fill_total_limit">Planınıza daxil olan mobil interneti əlavə edin</string>
     <string name="bh_please_set_pkg">Balansınızı yoxlaya bilmək üçün planınızı ayarlayın.</string>
@@ -441,7 +441,7 @@
     <string name="cta_content_seg1"><Data>\"&lt;strong&gt;Vacib bildiriş.
 Aşağıdakı \"Razıyam\" seçiminə toxunaraq, &lt;font color=#33aaff&gt;&lt;a href =\'https://static.account.xiaomi.com/html/agreement/account/en.html\'&gt;Xiaomi Hesabı Xidmət Razılaşması&lt;/a&gt;&lt;/font&gt;, &lt;font color=#33aaff&gt;&lt;a href =\'https://cnbj1-fds.api.xiaomi.com/mimobile-static/mi-carrier-services-useragreement.html\'&gt;Mi Roaming İstifadəçi Razılaşması&lt;/a&gt;&lt;/font&gt; və &lt;font color=#33aaff&gt;&lt;a href =\'http://www.miui.com/res/doc/privacy/en.html\'&gt;Gizlilik Siyasəti&lt;/a&gt;&lt;/font&gt; ilə razılaşırsınız. Razılaşmazdan əvvəl bu sənədləri diqqətlə oxuyun və əlaqəli bütün şərt və qaydaları tam anlamağa çalışın.&lt;/strong&gt;\"</Data></string>
     <string name="cta_content_seg2">"
-Mi Roaming, normal işləməsi üçün internetə bağlanmalı və yerləşmə məlumatlarınıza müraciət etməlidir. Bundan əlavə, Mi Roaming, şəxsi məlumatlarınızı yığa, istifadə edə və paylaşa bilər. Şəxsi məlumatlarınız yerli qanunlara və nizamlamalara uyğun olaraq qorunacaq."</string>
+Mi Roaming, normal işləməsi üçün internetə bağlanmalı və yerləşmə məlumatlarınıza erişməlidir. Bundan əlavə, Mi Roaming, şəxsi məlumatlarınızı yığa, istifadə edə və paylaşa bilər. Şəxsi məlumatlarınız yerli qanunlara və nizamlamalara uyğun olaraq qorunacaq."</string>
     <string name="cta_dialog_cancel">Çıx</string>
     <string name="cta_dialog_ok">Razıyam</string>
     <string name="cta_dialog_title">Şərtlər və Qaydalar</string>
@@ -718,7 +718,7 @@ Səbəb: \"%s\""</string>
     <string name="lunarBirthdayLabelsGroup">Ay təqvimi doğum günü</string>
     <string name="lunar_calendar">Ay təqvimi</string>
     <string name="make_primary">Bu seçimi xatırla</string>
-    <string name="manage_external_storage_dialog_message">Zəng səsyazmalarını idarə etmək üçün bu tətbiqin bütün fayllara müraciətinə icazə verin.</string>
+    <string name="manage_external_storage_dialog_message">Zəng səsyazmalarını idarə etmək üçün bu tətbiqin bütün fayllara erişməsinə icazə verin.</string>
     <string name="manage_external_storage_dialog_positive">Ayarlar</string>
     <string name="manage_external_storage_dialog_title">İcazələr tələb olunur</string>
     <string name="map_custom">%s ünvanına bax</string>
@@ -872,7 +872,7 @@ Səbəb: \"%s\""</string>
     <string name="name_phonetic_middle">Fonetik ikinci ad</string>
     <string name="name_prefix">Ad prefiksi</string>
     <string name="name_suffix">Ad şəkilçisi</string>
-    <string name="new_saf_permission_dialog_content">"Kontaktlar icazələri güncəlləndi. \"Kontaktlar\"ın zəng səsyazmalarına müraciətinə icazə verin.
+    <string name="new_saf_permission_dialog_content">"Kontaktlar icazələri güncəlləndi. \"Kontaktlar\"ın zəng səsyazmalarına erişməsinə icazə verin.
 
 İcazəni necə vermək olar
 \"%1$s\" toxunaraq \"%2$s\" seçin."</string>
@@ -896,6 +896,7 @@ Səbəb: \"%s\""</string>
     <string name="non_phone_add_to_contacts">Mövcud kontakta əlavə et</string>
     <string name="non_phone_caption">Telefon nömrəsi</string>
     <string name="non_phone_close">Bağla</string>
+    <string name="none_selected">Bütün seçimlər ləğv edildi</string>
     <string name="noon">Günorta</string>
     <string name="not_applied">"Tətbiq edilə bilmədi"</string>
     <string name="not_set">Ayarlanmadı</string>
@@ -938,15 +939,15 @@ Səbəb: \"%s\""</string>
     <string name="permission_notice_desc_read_call_logs">Zəng tarixçəsinə baxmaq üçün</string>
     <string name="permission_notice_desc_read_contacts">Kontaktlara baxmaq üçün</string>
     <string name="permission_notice_desc_read_external_storage">Profil şəkilləri əlavə etmək və vCard-ları daxilə köçürmək üçün</string>
-    <string name="permission_notice_desc_read_phone_state">SIM məlumatlarına müraciət etmək üçün</string>
+    <string name="permission_notice_desc_read_phone_state">SIM məlumatlarına erişmək üçün</string>
     <string name="permission_notice_desc_title">İcazələr tələb olunur</string>
     <string name="permission_notice_desc_write_call_logs">Zəng tarixçəsinə düzəliş etmək üçün</string>
     <string name="permission_notice_desc_write_contacts">Kontaktları idarə etmək üçün</string>
     <string name="permission_notice_desc_write_external_storage">Profil şəkilləri əlavə etmək və vCard-ları daxilə köçürmək üçün</string>
     <string name="permission_record_audio_desc">Kimlik doğrulama zamanı səsinizi istifadə etmək üçün</string>
     <string name="permission_retry_deny">İmtina</string>
-    <string name="permission_retry_dialog_msg">SIM kartınızı bu tətbiqlə istifadə edə bilmək, Əsas ekran qısayolları vasitəsilə zənglər edə bilmək, kontaktlarınızı idarə edə bilmək və zəng tarixçəsini güncəl saxlaya bilmək üçün bu tətbiqin kontaktlarınıza və zəng tarixçənizə müraciət və düzəliş etməsinə, zəng etməsinə və cihaz məlumatlarına müraciət etməsinə icazə verin.</string>
-    <string name="permission_retry_dialog_msg_pad">SIM kartınızı bu tətbiqlə istifadə edə və kontaktlarınızı idarə edə bilmək üçün bu tətbiqin kontaktlarınıza müraciət və düzəliş etməsinə, həmçinin cihaz məlumatlarına müraciət etməsinə icazə verin.</string>
+    <string name="permission_retry_dialog_msg">SIM kartınızı bu tətbiqlə istifadə edə bilmək, Əsas ekran qısayolları vasitəsilə zənglər edə bilmək, kontaktlarınızı idarə edə bilmək və zəng tarixçəsini güncəl saxlaya bilmək üçün bu tətbiqin kontaktlarınıza və zəng tarixçənizə erişməsinə və düzəliş etməsinə, zəng etməsinə və cihaz məlumatlarına erişməsinə icazə verin.</string>
+    <string name="permission_retry_dialog_msg_pad">SIM kartınızı bu tətbiqlə istifadə edə və kontaktlarınızı idarə edə bilmək üçün bu tətbiqin kontaktlarınıza erişməsinə və düzəliş etməsinə, həmçinin cihaz məlumatlarına erişməsinə icazə verin.</string>
     <string name="permission_retry_setting">Ayarlar</string>
     <string name="permission_write_external_storage_desc">Tətbiq datasını saxlamaq üçün</string>
     <string name="phoneLabelsGroup">Telefon</string>
@@ -1038,13 +1039,13 @@ Səbəb: \"%s\""</string>
     <string name="privacy_settings_phone_position">Yerləşmə</string>
     <string name="privacy_settings_phone_position_description">Kontaktları Bluetooth vasitəsilə digər cihazlardan daxilə köçürmək üçün</string>
     <string name="privacy_settings_privacy_policy">Gizlilik Siyasəti</string>
-    <string name="privacy_settings_read_call_log">Zəng tarixçəsinə müraciət</string>
+    <string name="privacy_settings_read_call_log">Zəng tarixçəsinə erişim</string>
     <string name="privacy_settings_read_call_log_description">Zəng tarixçəsinə baxmaq üçün</string>
-    <string name="privacy_settings_read_contacts">Kontaktlara müraciət</string>
+    <string name="privacy_settings_read_contacts">Kontaktlara erişim</string>
     <string name="privacy_settings_read_contacts_description">Kontaktlara baxmaq üçün</string>
-    <string name="privacy_settings_read_phone_state">Cihaz məlumatlarına müraciət</string>
-    <string name="privacy_settings_read_phone_state_description">SIM məlumatlarına müraciət etmək üçün</string>
-    <string name="privacy_settings_read_write_phone">Anbar sahəsinə müraciət</string>
+    <string name="privacy_settings_read_phone_state">Cihaz məlumatlarına erişim</string>
+    <string name="privacy_settings_read_phone_state_description">SIM məlumatlarına erişmək üçün</string>
+    <string name="privacy_settings_read_write_phone">Anbar sahəsinə erişim</string>
     <string name="privacy_settings_read_write_phone_description">Profil şəkilləri əlavə etmək və vCard-ları daxilə köçürmək üçün</string>
     <string name="privacy_settings_take_photo_record_video">Foto və video çəkmə</string>
     <string name="privacy_settings_take_photo_record_video_description">Profil şəkilləri çəkmək üçün</string>
@@ -1098,7 +1099,7 @@ Səbəb: \"%s\""</string>
     <string name="residual_time_description4">%1$d gü</string>
     <string name="restore_app_btn_cancel">İmtina</string>
     <string name="restore_app_btn_restore">Oldu</string>
-    <string name="restore_app_description_content">Kontaktlarınıza daha tez müraciət etmək üçün Əsas ekrana bir qısayol əlavə edin.</string>
+    <string name="restore_app_description_content">Kontaktlarınıza daha tez erişmək üçün Əsas ekrana bir qısayol əlavə edin.</string>
     <string name="restore_app_description_title">\"Kontaktlar\" Əsas ekrana əlavə edilsin?</string>
     <string name="restore_nickname">Bərpa et</string>
     <string name="return_call">Zəngə geri qayıtmaq üçün toxunun</string>
@@ -1106,10 +1107,10 @@ Səbəb: \"%s\""</string>
     <string name="return_call_dialing">Yığılır</string>
     <string name="return_call_incoming">Gələn zəng</string>
     <string name="ringLabelsGroup">Zəng səsi</string>
-    <string name="saf_permission_dialog_content">"Android, ilkin olaraq \"Kontaktlar\" və \"Telefon\"un zəng yazılarına daxil olmasına icazə vermir. Bu tətbiqlərin baxa bilməsi üçün zəng yazılarına müraciət etməsinə icazə verin."</string>
+    <string name="saf_permission_dialog_content">"Android, ilkin olaraq \"Kontaktlar\" və \"Telefon\"un zəng yazılarına daxil olmasına icazə vermir. Bu tətbiqlərin baxa bilməsi üçün zəng yazılarına erişməsinə icazə verin."</string>
     <string name="saf_permission_dialog_grant_permission_immediately">İcazə ver</string>
     <string name="saf_permission_dialog_later">Daha sonra</string>
-    <string name="saf_permission_dialog_title">\"Kontaktlar\" və \"Telefon\"un zəng yazılarına müraciətinə icazə ver</string>
+    <string name="saf_permission_dialog_title">\"Kontaktlar\" və \"Telefon\"un zəng yazılarına erişməsinə icazə ver</string>
     <string name="saturday">Şənbə</string>
     <string name="saturday_short">Şәn</string>
     <string name="saturday_shortest">Şәn</string>
@@ -1325,12 +1326,12 @@ Səbəb: \"%s\""</string>
     <string name="toast_join_with_empty_contact">Başqası ilə birləşdirməzdən əvvəl kontaktın adın yazın</string>
     <string name="toast_not_show_blue_scan_connect_perm_req">Digər cihazlardan kontaktları daxilə köçürə bilmək üçün bu özəlliyin Bluetooth vasitəsilə yaxınlıqdakı cihazlara bağlanmasına icazə verin.</string>
     <string name="toast_not_show_camera_perm_req">Profil şəkillərini çəkmək məqsədilə kameranı istifadə edə bilmək üçün əvvəlcə bu tətbiqin şəkil çəkməsinə və video yazmasına icazə verin.</string>
-    <string name="toast_not_show_location_perm_req">Kontaktları digər cihazlardan Bluetooth vasitəsilə daxilə köçürə bilmək üçün əvvəlcə bu tətbiqin yerləşmənizə müraciətinə icazə verin.</string>
-    <string name="toast_not_show_read_calllogs_perm_req">Zəng tarixçəsinə baxa bilmək üçün əvvəlcə bu tətbiqin zəng tarixçəsinə müraciətinə icazə verin.</string>
-    <string name="toast_not_show_read_contacts_perm_req">Kontaktlara baxa bilmək üçün əvvəlcə bu tətbiqin kontaktlara müraciətinə icazə verin.</string>
-    <string name="toast_not_show_read_phone_state_perm_req">SIM kartınızı bu tətbiqlə istifadə edə bilmək üçün əvvəlcə bu tətbiqin cihaz məlumatlarına müraciətinə icazə verin.</string>
-    <string name="toast_not_show_storage_perm_req">Profil şəkli əlavə edə və vCard-ları daxilə köçürə bilmək üçün əvvəlcə bu tətbiqin anbara müraciətinə icazə verin.</string>
-    <string name="toast_not_show_storage_perm_req_for_pad">Profil şəkli əlavə edə və vCard-ları daxilə köçürə bilmək üçün əvvəlcə bu tətbiqin anbara müraciətinə icazə verin.</string>
+    <string name="toast_not_show_location_perm_req">Kontaktları digər cihazlardan Bluetooth vasitəsilə daxilə köçürə bilmək üçün əvvəlcə bu tətbiqin yerləşmənizə erişməsinə icazə verin.</string>
+    <string name="toast_not_show_read_calllogs_perm_req">Zəng tarixçəsinə baxa bilmək üçün əvvəlcə bu tətbiqin zəng tarixçəsinə erişməsinə icazə verin.</string>
+    <string name="toast_not_show_read_contacts_perm_req">Kontaktlara baxa bilmək üçün əvvəlcə bu tətbiqin kontaktlara erişməsinə icazə verin.</string>
+    <string name="toast_not_show_read_phone_state_perm_req">SIM kartınızı bu tətbiqlə istifadə edə bilmək üçün əvvəlcə bu tətbiqin cihaz məlumatlarına erişməsinə icazə verin.</string>
+    <string name="toast_not_show_storage_perm_req">Profil şəkli əlavə edə və vCard-ları daxilə köçürə bilmək üçün əvvəlcə bu tətbiqin anbara erişməsinə icazə verin.</string>
+    <string name="toast_not_show_storage_perm_req_for_pad">Profil şəkli əlavə edə və vCard-ları daxilə köçürə bilmək üçün əvvəlcə bu tətbiqin anbara erişməsinə icazə verin.</string>
     <string name="toast_not_show_write_calllogs_perm_req">Zəng tarixçəsini güncəl saxlaya bilmək üçün əvvəlcə bu tətbiqin zəng tarixçəsinə düzəliş etməsinə icazə verin.</string>
     <string name="toast_not_show_write_contacts_perm_req">Kontaktlara baxa bilmək üçün əvvəlcə bu tətbiqin kontaktlara düzəliş etməsinə icazə verin.</string>
     <string name="toast_start_intent_failed">"Bu əməliyyatı icra edəcək tətbiq tapıla bilmədi"</string>

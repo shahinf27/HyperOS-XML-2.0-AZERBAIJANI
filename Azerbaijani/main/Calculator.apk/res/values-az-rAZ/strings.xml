@@ -129,7 +129,7 @@
 	<string name="full_window">Maksimallaşdır</string>
     <string name="fund_loan">Fond krediti</string>
     <string name="further_education">Əlavə təhsil</string>
-    <string name="get_loaction_permission_title">Yerləşməyə müraciət</string>
+    <string name="get_loaction_permission_title">Yerləşməyə erişim</string>
     <string name="get_location_fail_prompt">"Yer alına bilmədi"</string>
     <string name="height">Hündürlük (sm)</string>
     <string name="height_value_format">%1$s sm</string>
@@ -336,7 +336,7 @@ Bir illik və beş illik LPR-lər hər ayın 20-də (bank tətilləri ilə əlaq
     <string name="percent"></string>
     <string name="percentDesc">faiz</string>
     <string name="permission_location_desc_miui12">Yerləşmənizə görə vergi və ipoteka dərəcələrini istifadə etmək üçün</string>
-    <string name="permission_location_miui12">Yerləşməyə müraciət</string>
+    <string name="permission_location_miui12">Yerləşməyə erişim</string>
     <string name="permission_option_desc_miui12">"Əlavə özəllikləri istifadə edərkən bu icazələr tələb olunur."</string>
     <string name="permission_option_miui12">İxtiyari icazələr</string>
     <string name="permission_privacy_link"><Data>Bu tətbiqi istifadə etməzdən əvvəl&lt;a href=%1$s&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasətimizi&lt;/a&gt; oxuyun və razılaşın.</Data></string>
@@ -357,10 +357,15 @@ Bir illik və beş illik LPR-lər hər ayın 20-də (bank tətilləri ilə əlaq
     <string name="preference_feedback_title">TVS</string>
     <string name="preference_filing_number">ICP qeydiyyat nömrəsi: Pekin ICP No. 10046444号-114A</string>
     <string name="preference_follow_qq_group">QQ Qrupu:523274279</string>
-    <string name="preference_get_device_address">Yerləşməyə müraciət</string>
+    <string name="preference_get_device_address">Yerləşməyə erişim</string>
     <string name="preference_get_local_tax_info">Kreditlər və vergilər haqqında əlaqəli məlumatları təqdim etmək üçün</string>
     <string name="preference_has_allowed">İcazə verildi</string>
     <string name="preference_not_allowance">İcazə verilmədi</string>
+	 <string name="preference_percentage">Faizlə toplama və çıxma alqoritmi</string>
+    <string name="preference_percentage_numericalvalue">Rəqəmsal dəyərlə hesabla</string>
+    <string name="preference_percentage_numericalvalue_comments">Faizləri onluq formata çevirin, toplama və çıxma hesablamalarını yerinə yetirin.</string>
+    <string name="preference_percentage_proportion">nisbətə görə</string>
+    <string name="preference_percentage_proportion_comments">Faizin əvvəlki hesablama nəticəsi ilə vurulması, sonra onun toplanması və ya çıxılması adətən endirimləri hesablamaq üçün istifadə olunur.</string>
     <string name="preference_permission_info">İcazə detalları</string>
     <string name="preference_privacy_setting">Gizlilik</string>
     <string name="preference_privacy_title">Gizlilik Siyasəti</string>
