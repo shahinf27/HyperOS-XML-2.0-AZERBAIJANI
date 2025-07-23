@@ -41,6 +41,10 @@
         <item quantity="other">%1$d element seçildi</item>
         <item quantity="one">%1$d element seçildi</item>
     </plurals>
+    <plurals name="content_description_document_sum">
+        <item quantity="one">Sənədlər, cəmi səhifə: %s</item>
+        <item quantity="other">Sənədlər, cəmi səhifə: %s</item>
+    </plurals>
     <plurals name="document_duplicate_data_tip">
         <item quantity="other">Uğurla daxilə köçürüldü (%1$d təkrarlanan element filtrləndi)</item>
         <item quantity="one">Uğurla daxilə köçürüldü (%1$d təkrarlanan element filtrləndi)</item>

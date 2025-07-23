@@ -68,8 +68,8 @@
     <string name="bluetooth_pairing_pin_error_message">"PIN və ya şifrə yanlış olduğu üçün %1$s ilə cütləşə bilmədi."</string>
     <string name="bluetooth_pairing_rejected_error_message">Cütləşmə %1$s tərəfindən rədd edildi.</string>
     <string name="bluetooth_pan_nap_profile_summary_connected">Yerli internet bağlantısının cihazla paylaşılması</string>
-    <string name="bluetooth_pan_profile_summary_use_for">İnternet müraciəti üçün istifadə edilir</string>
-    <string name="bluetooth_pan_user_profile_summary_connected">İnternet müraciəti üçün cihaza bağlandı</string>
+    <string name="bluetooth_pan_profile_summary_use_for">İnternetə erişim üçün istifadə edilir</string>
+    <string name="bluetooth_pan_user_profile_summary_connected">İnternet erişmək üçün cihaza bağlandı</string>
     <string name="bluetooth_preference_connected_devices">Cütləşmiş cihazlar</string>
     <string name="bluetooth_preference_found_devices">Əlçatan cihazlar</string>
     <string name="bluetooth_preference_scan_title">Cihazları axtar</string>
@@ -81,13 +81,13 @@
     <string name="bluetooth_profile_hid">Giriş cihazı</string>
     <string name="bluetooth_profile_map">Mətn mesajları</string>
     <string name="bluetooth_profile_opp">Fayl köçürülməsi</string>
-    <string name="bluetooth_profile_pan">İnternet müraciəti</string>
+    <string name="bluetooth_profile_pan">İnternet erişimi</string>
     <string name="bluetooth_profile_pan_nap">İnternet bağlantısı paylaşımı</string>
     <string name="bluetooth_profile_pbap">Əlaqə paylaşımı</string>
     <string name="bluetooth_profile_pbap_summary">Kontaktları paylaşmaq üçün istifadə edilir</string>
-    <string name="bluetooth_profile_sap">SIM müraciəti</string>
+    <string name="bluetooth_profile_sap">SIM erişimi</string>
     <string name="bluetooth_sap_profile_summary_connected">SAP-a bağlandı</string>
-    <string name="bluetooth_sap_profile_summary_use_for">SIM müraciəti üçün istifadə edilir</string>
+    <string name="bluetooth_sap_profile_summary_use_for">SIM erişimi üçün istifadə edilir</string>
     <string name="bluetooth_search_for_devices">Cihazları axtar</string>
     <string name="bluetooth_talkback_computer">Kompüter</string>
     <string name="bluetooth_talkback_headphone">Qulaqlıqlar</string>
@@ -157,7 +157,7 @@
     <string name="easy_tether_auto_connect_close">Bağla</string>
     <string name="easy_tether_auto_connect_open">Aç</string>
     <string name="easy_tether_auto_connect_summary">"Hotspot-u aça bilərsiniz və hesabınızı istifadə edən yaxınlıqdakı cihazların, digər üsulları istifadə edərək şəbəkəyə bağlana bilmədiyi zaman avtomatik bağlantı qurmalarına icazə verə bilərsiniz."</string>
-    <string name="easy_tether_auto_connect_summary_v2">Mobil interneti və ya hotspot-u avtomatik işə salın və yaxınlıqdakı eyni hesaba malik cihazların internet müraciətinə ehtiyacı olduqda bağlanın.</string>
+    <string name="easy_tether_auto_connect_summary_v2">Mobil interneti və ya hotspot-u avtomatik işə salın və yaxınlıqdakı eyni hesaba malik cihazların internet erişiminə ehtiyacı olduqda bağlanın.</string>
     <string name="easy_tether_auto_connect_toast">"%1$s hotspot-una bağlanılıb. Həmin cihazda Ayarlar &gt; Fərdi hotspot bölməsində internet limitlərini təyin edə bilərsiniz."</string>
     <string name="easy_tether_cancel">Xeyr</string>
 	<string name="easy_tether_click_button_description">Bağlantı qurmaq üçün sağdakı düyməyə toxunun</string>
@@ -254,6 +254,7 @@ Daha sürətli bağlantı protokolu."</string>
     <string name="friday_short">Cüm</string>
     <string name="friday_shortest">Cüm</string>
     <string name="get_target_info">Hədəf məlumatını al</string>
+    <string name="glasses_download_title">\"Xiaomi Smart Glasses\" tətbiqini quraşdır</string>
     <string name="goto_package">Aç: %1$s</string>
     <string name="headset_autoswitch_connect_button">Bağlantı qur</string>
     <string name="headset_autoswitch_connect_title">Qulaqlıqlara bağlan</string>
@@ -289,7 +290,7 @@ Daha sürətli bağlantı protokolu."</string>
     <string name="headset_finish_fw">Uğurla güncəlləndi</string>
     <string name="headset_finish_fw_failed">Xəta baş verdi</string>
     <string name="headset_fw_error_failed">"Güncəllənə bilmir. Proqram təminatı məlumatı yanlışdır."</string>
-    <string name="headset_fw_file_position_failed">"Fayla müraciət edilə bilmədi"</string>
+    <string name="headset_fw_file_position_failed">"Fayla erişə bilmədi"</string>
     <string name="headset_fw_file_readfailed">"Güncəlləmə məlumatı alına bilmədi"</string>
     <string name="headset_incall_answer">Cavab</string>
     <string name="headset_incall_reject">İmtina</string>
@@ -380,6 +381,7 @@ Daha sürətli bağlantı protokolu."</string>
     <string name="mihome_ignore_title">Bu cihaz yox sayılsın?</string>
     <string name="mihome_update_tips">Mi Home tətbiqini güncəlləyin, daha sonra telefonunuzu cihaza yaxın saxlayın.</string>
     <string name="mihome_update_title">\"Mi Home\"u güncəllə</string>
+    <string name="mijia_glasses_download_title">Əvvəlcə Mijia Glasses tətbiqini quraşdır</string>
     <string name="miuix_access_state_desc">Seçildi</string>
     <string name="miuix_alphabet_indexer_name">İndeks çubuğu</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Heç birini seçmə</string>
@@ -489,9 +491,9 @@ Daha sürətli bağlantı protokolu."</string>
     <string name="offline_chat_title">Cihazlar arası rabitə</string>
     <string name="offline_connecting">Bağlantı qurulur…</string>
     <string name="ok_button">Oldu</string>
-    <string name="perm_ble_des">BLE ayarlarına müraciət et</string>
-    <string name="perm_ble_lab">BLE ayarlarına müraciət et</string>
-    <string name="permgroupdesc_location">%1$s - yerləşmə məlumatlarına müraciət etməsinə icazə verilsin?</string>
+    <string name="perm_ble_des">BLE ayarlarına erişim</string>
+    <string name="perm_ble_lab">BLE ayarlarına erişim</string>
+    <string name="permgroupdesc_location">%1$s - yerləşmə məlumatlarına erişməsinə icazə verilsin?</string>
     <string name="phone_in_talk">Bir zəng artıq davam edir</string>
     <string name="play_decode_audio">səs oxut</string>
     <string name="plugin_alert_cancel">Daha sonra</string>
@@ -647,7 +649,7 @@ Daha sürətli bağlantı protokolu."</string>
     <string name="uninstall_all_deferred">Ertələnənləri sil</string>
     <string name="user_agreement_cancel">İmtina</string>
     <string name="user_agreement_confirm">Razıyam</string>
-    <string name="user_agreement_content">"Cihazlar arası rabitə, Xiaomi Inc. (bundan sonra \"Xiaomi\", \"biz\", \"bizim\" və ya \"bizə\" olaraq adlandırılacaq) tərəfindən təqdim olunan Bluetooth əsaslı səsli zəng xidmətidir (bundan sonra \"bu Xidmət\" olaraq adlandırılacaq). Məxfiliyinizin və şəxsi məlumatlarınızın qorunmasına ciddi yanaşırıq. Biz qanuni tələblərə və sənaye standartlarına uyğun olaraq şəxsi məlumatlarınız üçün müvafiq təhlükəsizliyin qorunması tədbirlərini təmin edəcəyik.&lt;br&gt; &lt;b&gt;Siz bu özəlliyi işə saldığınız zaman, biz internetə bağlanmadığınız müddətdə seçilmiş kontaktlarla ünsiyyət qurmağınızı təmin etmək üçün kontaktlarınıza, telefon nömrənizə, Xiaomi Hesabınıza daxil olma statusuna, Bluetooth MAC ünvanınıza, zəng statusunuza və SIM kart statusunuza müraciət edəcəyik. &lt;/b&gt; &lt;br&gt; &lt;b&gt;Siz \"Yerləşmə nümayişi\" və \"Zəlzələ halında avtomatik işə sal\" funksiyalarını işə saldığınız zaman, seçdiyiniz kontaktlarınıza nümayiş etdirmək üçün dəqiq yerləşmənizi yığacağıq.&lt;/b&gt; &lt;br&gt; &lt;b&gt;Bu məlumatlar, yalnız cihazınızda emal olunacaq və buluda yüklənməyəcək.&lt;/b&gt; &lt;br&gt; Cihazlar arası rabitəni istifadə etdiyiniz zaman aşağıdakı icazələr tələb olunur: &lt;br&gt; &amp;bull; Bluetooth icazələri: yaxınlıqdakı cihazlara səsli zəng etmək üçün&lt;br&gt; &amp;bull; Kontaktlara müraciət: yaxınlıqdakı kontaktları kəşf etmək və onlara zəng etmək üçün&lt;br&gt; &amp;bull; İnternetə bağlanma icazəsi: şəbəkəyə bağlanmaq və xəritə məzmununa müraciət etmək üçün&lt;br&gt; &amp;bull; Yerləşməyə müraciət: dəqiq yerləşməni seçilmiş kontaktlara nümayiş etdirmək üçün&lt;br&gt; &amp;bull; Telefon icazələri: zəng statusuna müraciət etmək üçün (Davam edən zəng varsa, Cihazlar arası rabitə xidməti istifadə edilə bilməz)&lt;br&gt; Yuxarıdakı icazələrlə razılaşmasanız, bu xidməti istifadə edə bilməyəcəksiniz.&lt;br&gt; Bəzi özəlliklər, üçüncü tərəf xidmət provayderləri tərəfindən təqdim edilir. Buna görə də, biz şəxsi məlumatlarınızın bir hissəsini həmin üçüncü tərəflərə təqdim etməliyik. &lt;a href=https://privacy.mi.com/Bluetoothcall-Share/&gt;Şəxsi məlumatlarınızı filiallarımız, tərəfdaşlarımız və üçüncü tərəflərlə paylaşdığımız halları görmək üçün bura toxunun&lt;/a&gt;.&lt;br&gt; Biz şəxsi məlumatlarınızı yalnız bu məxfilik bəyanatında təsvir olunduğu və ya müvafiq qanunların tələb etdiyi yığılma müddəti ərzində emal edəcəyik.&lt;br&gt; Biz şəxsi məlumatların qorunması üçün xüsusi şöbə yaratmışıq. Bu məxfilik bəyanatı və ya şəxsi məlumatlarınızın yığılması, istifadəsi və ya ifşa olunması ilə bağlı hər hansısa sualınız və ya rəyiniz varsa, bizimlə &lt;a href=https://privacy.mi.com/support  &gt;https://privacy.mi.com/support&lt;/a&gt; üzərindən əlaqə saxlaya bilərsiniz. Adətən, on beş iş günü ərzində cavab verəcəyik.&lt;br&gt;
+    <string name="user_agreement_content">"Cihazlar arası rabitə, Xiaomi Inc. (bundan sonra \"Xiaomi\", \"biz\", \"bizim\" və ya \"bizə\" olaraq adlandırılacaq) tərəfindən təqdim olunan Bluetooth əsaslı səsli zəng xidmətidir (bundan sonra \"bu Xidmət\" olaraq adlandırılacaq). Məxfiliyinizin və şəxsi məlumatlarınızın qorunmasına ciddi yanaşırıq. Biz qanuni tələblərə və sənaye standartlarına uyğun olaraq şəxsi məlumatlarınız üçün müvafiq təhlükəsizliyin qorunması tədbirlərini təmin edəcəyik.&lt;br&gt; &lt;b&gt;Siz bu özəlliyi işə saldığınız zaman, biz internetə bağlanmadığınız müddətdə seçilmiş kontaktlarla ünsiyyət qurmağınızı təmin etmək üçün kontaktlarınıza, telefon nömrənizə, Xiaomi Hesabınıza daxil olma statusuna, Bluetooth MAC ünvanınıza, zəng statusunuza və SIM kart statusunuza erişəcəyik. &lt;/b&gt; &lt;br&gt; &lt;b&gt;Siz \"Yerləşmə nümayişi\" və \"Zəlzələ halında avtomatik işə sal\" funksiyalarını işə saldığınız zaman, seçdiyiniz kontaktlarınıza nümayiş etdirmək üçün dəqiq yerləşmənizi yığacağıq.&lt;/b&gt; &lt;br&gt; &lt;b&gt;Bu məlumatlar, yalnız cihazınızda emal olunacaq və buluda yüklənməyəcək.&lt;/b&gt; &lt;br&gt; Cihazlar arası rabitəni istifadə etdiyiniz zaman aşağıdakı icazələr tələb olunur: &lt;br&gt; &amp;bull; Bluetooth icazələri: yaxınlıqdakı cihazlara səsli zəng etmək üçün&lt;br&gt; &amp;bull; Kontaktlara erişim: yaxınlıqdakı kontaktları kəşf etmək və onlara zəng etmək üçün&lt;br&gt; &amp;bull; İnternetə bağlanma icazəsi: şəbəkəyə bağlanmaq və xəritə məzmununa erişmək üçün&lt;br&gt; &amp;bull; Yerləşməyə erişim: dəqiq yerləşməni seçilmiş kontaktlara nümayiş etdirmək üçün&lt;br&gt; &amp;bull; Telefon icazələri: zəng statusuna erişmək üçün (Davam edən zəng varsa, Cihazlar arası rabitə xidməti istifadə edilə bilməz)&lt;br&gt; Yuxarıdakı icazələrlə razılaşmasanız, bu xidməti istifadə edə bilməyəcəksiniz.&lt;br&gt; Bəzi özəlliklər, üçüncü tərəf xidmət provayderləri tərəfindən təqdim edilir. Buna görə də, biz şəxsi məlumatlarınızın bir hissəsini həmin üçüncü tərəflərə təqdim etməliyik. &lt;a href=https://privacy.mi.com/Bluetoothcall-Share/&gt;Şəxsi məlumatlarınızı filiallarımız, tərəfdaşlarımız və üçüncü tərəflərlə paylaşdığımız halları görmək üçün bura toxunun&lt;/a&gt;.&lt;br&gt; Biz şəxsi məlumatlarınızı yalnız bu məxfilik bəyanatında təsvir olunduğu və ya müvafiq qanunların tələb etdiyi yığılma müddəti ərzində emal edəcəyik.&lt;br&gt; Biz şəxsi məlumatların qorunması üçün xüsusi şöbə yaratmışıq. Bu məxfilik bəyanatı və ya şəxsi məlumatlarınızın yığılması, istifadəsi və ya ifşa olunması ilə bağlı hər hansısa sualınız və ya rəyiniz varsa, bizimlə &lt;a href=https://privacy.mi.com/support  &gt;https://privacy.mi.com/support&lt;/a&gt; üzərindən əlaqə saxlaya bilərsiniz. Adətən, on beş iş günü ərzində cavab verəcəyik.&lt;br&gt;
         Bu məxfilik bəyanatını oxuduğunuzu və bu bəyanatla razılaşdığınızı bildirmək üçün \"Razıyam\"a toxunun."</string>
     <string name="user_agreement_title">Cihazlar arası rabitə gizlilik bəyanatı</string>
     <string name="v7_preference_off">BAĞLI</string>

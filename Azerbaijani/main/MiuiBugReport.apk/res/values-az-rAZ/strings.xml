@@ -18,6 +18,10 @@
     <string name="abc_shareactionprovider_share_with_application">%s ilə paylaş</string>
     <string name="abc_toolbar_collapse_description">Yığcamlaşdır</string>
     <string name="access_denied_info">Həddən çox cəhd edildi. Bir və ya iki dəqiqə gözləyib yenidən sınayın.</string>
+    <string name="accessibility_sliding_button_state_description_off">Söndürüldü</string>
+    <string name="accessibility_sliding_button_state_description_on">İşə salındı</string>
+    <string name="accessibility_tab_state_description_unselect">Seçilmədi</string>
+    <string name="accessibility_tab_statedesc_unselect">Seçilmədi</string>
     <string name="account_crop_user_avatar">Fotonu qayçıla</string>
     <string name="account_empty_user_name">Mi Hesabınızın istifadəçi adını daxil edin</string>
     <string name="account_error_all_space_user_name">"İstifadəçi adı yalnız boşluq simvolunu ehtiva edə bilməz"</string>
@@ -74,7 +78,7 @@
     <string name="bugreport_dialog_informed_consent_content">"Kilid ekranı parolunuzla bağlı xəta aşkarladıq. Problemi tapmağımıza və həll etməyimizə kömək etməsi üçün cihaz jurnallarını göndərə bilərsiniz. Jurnal məlumatları anonim olaraq yüklənəcək, yalnız problemin aradan qaldırılması üçün istifadə olunacaq və problemin aradan qaldırılması tamamlandıqdan sonra silinəcək."</string>
     <string name="bugreport_dialog_informed_consent_title">Məlumatlandırma razılığı</string>
     <string name="bugreport_dialog_not_show_again">"Təkrar göstərmə"</string>
-    <string name="bugreport_dialog_submit_content"><Data>\"Hal-hazırda bu cihazda proqram təminatı jurnalları saxlayırsınız. Jurnallar, şəxsi məlumatlarınızı və yerləşmə datalarınızı ehtiva edə bilər. Bu məlumatların ifşa olunmasını istəmirsinizsə jurnalları heç kəslə paylaşmayın. \"Razıyam\"ı seçmək, &lt;a href=\"%1$s\"&gt;Gizlilik Siyasətimizi&lt;/a&gt; və &lt;a href=\"%2$s\"&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; oxuyub razılaşdığınızı bildirir.\"</Data></string>
+    <string name="bugreport_dialog_submit_content"><Data>\"Hal-hazırda bu cihazda proqram təminatı jurnalları saxlayırsınız. Jurnallar, şəxsi məlumatlarınızı və yerləşmə verilərinizi ehtiva edə bilər. Bu məlumatların ifşa olunmasını istəmirsinizsə jurnalları heç kəslə paylaşmayın. \"Razıyam\"ı seçmək, &lt;a href=\"%1$s\"&gt;Gizlilik Siyasətimizi&lt;/a&gt; və &lt;a href=\"%2$s\"&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; oxuyub razılaşdığınızı bildirir.\"</Data></string>
     <string name="bugreport_dump_complete_notification_summary">Baxmaq üçün toxunun.</string>
     <string name="bugreport_dump_complete_notification_title">Xəta hesabatı yaradıldı</string>
     <string name="bugreport_dump_start_notification_summary">Bu əməliyyat bir neçə dəqiqə çəkə bilər.</string>
@@ -130,10 +134,10 @@
     <string name="catch_full_log_privacy_content_gps">"Jurnalları yaradır və bunları cihazınızda saxlayırsınız. Jurnallar, şəxsi və yerləşmə məlumatlarınızı ehtiva edə bilər. Diqqətli olun və bu jurnalları başqaları ilə paylaşmayın. Aşağıdakı \"Razıyam\"a toxunaraq, razılaşırsınız ki, jurnalları yaradarkən yuxarıdakı məlumatları yığacağıq, daha sonra bildirdiyiniz problemləri tapmaq və həll etmək üçün jurnalları serverlərimizə yükləyəcəyik."</string>
     <string name="catch_full_log_privacy_content_sensor">"Jurnalları yaradır və bunları cihazınızda saxlayırsınız. Jurnallar, cihazınızın sensorları (bildiriş işığı sensoru, barometr, pedometer, maqnitometr və s. daxil olmaqla) tərəfindən yığılmış məlumatları ehtiva edə bilər. Diqqətli olun və bu jurnalları başqaları ilə paylaşmayın. Aşağıdakı \"Razıyam\"a toxunaraq, razılaşırsınız ki, jurnalları yaradarkən yuxarıdakı məlumatları yığacağıq, daha sonra bildirdiyiniz problemləri tapmaq və həll etmək üçün jurnalları serverlərimizə yükləyəcəyik."</string>
     <string name="catch_full_log_privacy_content_sensor_pad">"Jurnalları tərtib edib cihazınızın yaddaşında saxlayırsınız. Jurnallar, cihazınızın sensorları tərəfindən yığılan məlumatları (bildiriş işığı sensoru, barometr, pedometr, maqnitometr və s. daxil olmaqla) ehtiva edə bilər. Diqqətli olun və bu jurnalları başqa şəxslərə göndərməyin. Aşağıdakı \"Razıyam\"a toxunaraq, razılaşırsınız ki, jurnalları yaradarkən yuxarıdakı məlumatları yığacağıq, daha sonra bildirdiyiniz problemləri tapmaq və həll etmək üçün jurnalları serverlərimizə yükləyəcəyik."</string>
-    <string name="catch_full_log_privacy_content_signal">"Jurnalları yaradır və bunları cihazınızda saxlayırsınız. Jurnallar, mesajlarınızı, zəng tarixçənizi, şəbəkə məlumatlarınızı və rabitə datanızı ehtiva edə bilər. Diqqətli olun və bu jurnalları başqaları ilə paylaşmayın. Aşağıdakı \"Razıyam\"a toxunaraq, razılaşırsınız ki, jurnalları yaradarkən yuxarıdakı məlumatları yığacağıq, daha sonra bildirdiyiniz problemləri tapmaq və həll etmək üçün jurnalları serverlərimizə yükləyəcəyik."</string>
+    <string name="catch_full_log_privacy_content_signal">"Jurnalları yaradır və bunları cihazınızda saxlayırsınız. Jurnallar, mesajlarınızı, zəng tarixçənizi, şəbəkə məlumatlarınızı və rabitə verilərinizi ehtiva edə bilər. Diqqətli olun və bu jurnalları başqaları ilə paylaşmayın. Aşağıdakı \"Razıyam\"a toxunaraq, razılaşırsınız ki, jurnalları yaradarkən yuxarıdakı məlumatları yığacağıq, daha sonra bildirdiyiniz problemləri tapmaq və həll etmək üçün jurnalları serverlərimizə yükləyəcəyik."</string>
     <string name="catch_full_log_privacy_content_trace">"Jurnalları yaradır və bunları cihazınızda saxlayırsınız. Jurnallar, tətbiq istifadə statistikalarını (CPU tezliyi, sistem zəngi, yaddaş istifadəsi və s. daxil olmaqla) ehtiva edə bilər. Diqqətli olun və bu jurnalları başqaları ilə paylaşmayın. Aşağıdakı \"Razıyam\"a toxunaraq, razılaşırsınız ki, jurnalları yaradarkən yuxarıdakı məlumatları yığacağıq, daha sonra bildirdiyiniz problemləri tapmaq və həll etmək üçün jurnalları serverlərimizə yükləyəcəyik."</string>
-    <string name="catch_full_log_privacy_content_wifi">"Jurnalları yaradır və bunları cihazınızda saxlayırsınız. Jurnallar, şəxsi məlumatlarınızı, yerləşmə məlumatlarını, həmçinin cihazınızdakı IP və MAC ünvanlarını ehtiva edə bilər. Şifrələnməmiş bir Wi-Fi şəbəkəsinə bağlanmısınızsa, rabitə datanızın bəzi hissələrinə də müraciət edə bilərik. Diqqətli olun və bu jurnalları başqaları ilə paylaşmayın. Aşağıdakı \"Razıyam\"a toxunaraq, razılaşırsınız ki, jurnalları yaradarkən yuxarıdakı məlumatları yığacağıq, daha sonra bildirdiyiniz problemləri tapmaq və həll etmək üçün jurnalları serverlərimizə yükləyəcəyik."</string>
-    <string name="catch_full_log_privacy_content_wifi_china">"Jurnalları yaradır və bunları cihazınızda saxlayırsınız. Jurnallar, şəxsi məlumatlarınızı, yerləşmə məlumatlarını, həmçinin cihazınızdakı IP və MAC ünvanlarını ehtiva edə bilər. Şifrələnməmiş bir Wi-Fi şəbəkəsinə bağlanmısınızsa, rabitə datanızın bəzi hissələrinə də müraciət edə bilərik. Diqqətli olun və bu jurnalları başqaları ilə paylaşmayın. Aşağıdakı \"Razıyam\"a toxunaraq, razılaşırsınız ki, jurnalları yaradarkən yuxarıdakı məlumatları yığacağıq, daha sonra bildirdiyiniz problemləri tapmaq və həll etmək üçün jurnalları serverlərimizə yükləyəcəyik."</string>
+    <string name="catch_full_log_privacy_content_wifi">"Jurnalları yaradır və bunları cihazınızda saxlayırsınız. Jurnallar, şəxsi məlumatlarınızı, yerləşmə məlumatlarını, həmçinin cihazınızdakı IP və MAC ünvanlarını ehtiva edə bilər. Şifrələnməmiş bir Wi-Fi şəbəkəsinə bağlanmısınızsa, rabitə verilərinizin bəzi hissələrinə də erişə bilərik. Diqqətli olun və bu jurnalları başqaları ilə paylaşmayın. Aşağıdakı \"Razıyam\"a toxunaraq, razılaşırsınız ki, jurnalları yaradarkən yuxarıdakı məlumatları yığacağıq, daha sonra bildirdiyiniz problemləri tapmaq və həll etmək üçün jurnalları serverlərimizə yükləyəcəyik."</string>
+    <string name="catch_full_log_privacy_content_wifi_china">"Jurnalları yaradır və bunları cihazınızda saxlayırsınız. Jurnallar, şəxsi məlumatlarınızı, yerləşmə məlumatlarını, həmçinin cihazınızdakı IP və MAC ünvanlarını ehtiva edə bilər. Şifrələnməmiş bir Wi-Fi şəbəkəsinə bağlanmısınızsa, rabitə verilərinizin bəzi hissələrinə də erişə bilərik. Diqqətli olun və bu jurnalları başqaları ilə paylaşmayın. Aşağıdakı \"Razıyam\"a toxunaraq, razılaşırsınız ki, jurnalları yaradarkən yuxarıdakı məlumatları yığacağıq, daha sonra bildirdiyiniz problemləri tapmaq və həll etmək üçün jurnalları serverlərimizə yükləyəcəyik."</string>
     <string name="catch_full_log_start_catch_log">Başlat</string>
     <string name="catch_full_log_start_dump_hprof">Gecikmə jurnalı yarat</string>
     <string name="catch_full_log_submit_directly">Göndər</string>
@@ -150,7 +154,7 @@
     <string name="common_google_play_services_install_button">Quraşdır</string>
     <string name="common_google_play_services_install_text">"%1$s, cihazınızda əskik olan Google Play xidmətləri olmadan işləmir."</string>
     <string name="common_google_play_services_install_title">Google Play xidmətlərini əldə et</string>
-    <string name="common_google_play_services_notification_channel_name">Google Play xidmətlərinin əlçatımlılığı</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play xidmətlərinin mövcudluğu</string>
     <string name="common_google_play_services_notification_ticker">Google Play xidmətləri xətası</string>
     <string name="common_google_play_services_unknown_issue">%1$s, Google Play xidmətləri ilə problem yaşayır. Lütfən yenidən sınayın.</string>
     <string name="common_google_play_services_unsupported_text">"%1$s, cihazınız tərəfindən dəstəklənməyən Google Play xidmətləri olmadan işləmir."</string>
@@ -168,7 +172,7 @@
     <string name="cta_confirm">Oldu</string>
     <string name="cta_dialog_content">Bu tətbiqin normal işləməsi üçün internetə bağlanması lazımdır.</string>
     <string name="cta_dialog_title">İnternet bağlantısı</string>
-    <string name="cta_message"><Data>Normal işləyə bilməsi üçün, \"Əks-əlaqə\"nin internetə bağlanması lazımdır. Bu tətbiq, yerləşmənizə müraciət etmək üçün icazə tələb edə bilər. Davam etməzdən əvvəl &lt;a href=\"%1$s\"&gt;Gizlilik Siyasətimizi&lt;/a&gt; və &lt;a href=\"%2$s\"&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; oxuyun və razılaşın.</Data></string>
+    <string name="cta_message"><Data>Normal işləyə bilməsi üçün, \"Əks-əlaqə\"nin internetə bağlanması lazımdır. Bu tətbiq, yerləşmənizə erişmək üçün icazə tələb edə bilər. Davam etməzdən əvvəl &lt;a href=\"%1$s\"&gt;Gizlilik Siyasətimizi&lt;/a&gt; və &lt;a href=\"%2$s\"&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; oxuyun və razılaşın.</Data></string>
     <string name="cta_not_show_again">"Təkrar göstərmə"</string>
     <string name="customer_service_apply">Müştəri xidmətləri tələbi</string>
     <string name="customer_service_complain">Müştəri xidmətlərinə bildir</string>
@@ -180,9 +184,9 @@
     <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="description">Problemi açıqlayın</string>
     <string name="device_header">"%1$d. Bütün cihazlar eyni Xiaomi Hesabına daxil olmalıdır.
-%2$d. Cihazlar Wi-Fi-a bağlanmalı və ya mobil internet istifadə etməlidir."</string>
+%2$d. Cihazlar Wi-Fi-a bağlanmalı və ya mobil veri istifadə etməlidir."</string>
     <string name="device_header_china">"%1$d. Bütün cihazlar eyni Xiaomi Hesabına daxil olmalıdır.
-%2$d. Cihazlar Wi-Fi-a bağlanmalı və ya mobil internet istifadə etməlidir."</string>
+%2$d. Cihazlar Wi-Fi-a bağlanmalı və ya mobil veri istifadə etməlidir."</string>
     <string name="device_not_found">Bağlantılı cihaz yoxdur</string>
     <string name="device_not_found_tips">Digər cihazların Xiaomi Hesabınıza daxil olduğuna əmin olun</string>
     <string name="device_tips">Bağlantılı cihazları seçmək, problemləri daha sürətli təhlil etməyimizə kömək edəcək. Həm bu cihazdan, həm də seçilmiş cihazlardan jurnalları yükləyə bilərsiniz.</string>
@@ -195,7 +199,7 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="discard_draft_dialog_content">"Bu hesabatda etdiyiniz dəyişikliklərin hamısı itəcək."</string>
     <string name="discard_draft_dialog_title">Qaralama silinsin?</string>
     <string name="doing_query_account">Hesab məlumatı yoxlanılır…</string>
-    <string name="dynamic_dialog_content">"Dinamik jurnallar yaratmağa başlamaq üzrəsiniz. Onlar yazılım əməliyyatlarının (sistem zəngləri kimi) qeydlərini ehtiva edir. Dinamik jurnallar yaradılarkən cihazınız dona və ya isinə bilər, bu normaldır. Jurnallar yaradıldıqdan sonra bu özəllik söndürüləcək. Problem yenidən baş verərsə, əks-əlaqənizi vaxtında verməyi unutmayın. Aşağıdakı \"Razıyam\"a toxunaraq, jurnalları yaradarkən yuxarıdakı dataları yığacağımız və sonra bildirdiyiniz problemlərin diaqnostikası və həllinə kömək etmək üçün jurnalları serverlərimizə yükləməyimizlə razılaşırsınız."</string>
+    <string name="dynamic_dialog_content">"Dinamik jurnallar yaratmağa başlamaq üzrəsiniz. Onlar yazılım əməliyyatlarının (sistem zəngləri kimi) qeydlərini ehtiva edir. Dinamik jurnallar yaradılarkən cihazınız dona və ya isinə bilər, bu normaldır. Jurnallar yaradıldıqdan sonra bu özəllik söndürüləcək. Problem yenidən baş verərsə, əks-əlaqənizi vaxtında verməyi unutmayın. Aşağıdakı \"Razıyam\"a toxunaraq, jurnalları yaradarkən yuxarıdakı veriləri yığacağımız və sonra bildirdiyiniz problemlərin diaqnostikası və həllinə kömək etmək üçün jurnalları serverlərimizə yükləməyimizlə razılaşırsınız."</string>
     <string name="dynamic_dialog_negative_text">"Razı deyiləm"</string>
     <string name="dynamic_dialog_notification_text">Jurnallar yaradıldıqdan sonra bu özəllik söndürüləcək</string>
     <string name="dynamic_dialog_notification_title">Dinamik jurnallar yaradılır…</string>
@@ -258,10 +262,10 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="feedback_continue">Əks-əlaqə göndər</string>
     <string name="feedback_delete_images">Şəkilləri sil</string>
     <string name="feedback_description">Açıqlama</string>
-    <string name="feedback_description_hint">"Burada qarşılaşdığınız problemi açıqlayın.
-%1$d. Hansı tətbiqdə və ya hansı səhifədə problemlə üzləşdiniz?
-%2$d. Etdiyiniz hansı əməliyyatlardan sonra problem üzə çıxdı?
-%3$d. Problemi həll etməyimizə kömək edə biləcək əlavə məlumatlar verin."</string>
+    <string name="feedback_description_hint">"Üzləşdiyiniz problemi açıqlayın.
+%1$d. Hansı tətbiqdə və ya səhifədə problemlə üzləşdiniz?
+%2$d. Hansı problemlə üzləşdiniz və hansı addımda?
+%3$d. Əlavə məlumatlar."</string>
     <string name="feedback_description_hint_suggestion">Bizə necə təkmilləşdirə biləcəyimizi deyin.</string>
     <string name="feedback_description_hint_suggestion_pad">Bizə necə təkmilləşdirə biləcəyimizi deyin.</string>
     <string name="feedback_description_suggest_hint">"Yeni () özəlliyinin əlavə edilməsini istəyirəm, ehtiyacım olan şey budur: ()."</string>
@@ -393,18 +397,18 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="jump_full_log_dialog_title">Jurnal yarat</string>
     <string name="kr_authorization_agree">Qəbul et</string>
     <string name="kr_authorization_contact">Hesab</string>
-    <string name="kr_authorization_contact_desc">Cihazı müəyyənləşdirmək üçün Xiaomi Hesab məlumatlarına müraciət etmək üçün</string>
+    <string name="kr_authorization_contact_desc">Cihazı müəyyənləşdirmək üçün Xiaomi Hesab məlumatlarına erişmək üçün</string>
     <string name="kr_authorization_exit">Çıx</string>
-    <string name="kr_authorization_function">Əks-əlaqə göndərmək, jurnal yaratmaq, tez-tez verilən suallara baxmaq</string>
+    <string name="kr_authorization_function">Əks-əlaqələri görün və göndərin, jurnallar yaradın, TVS-ya baxın və əks-əlaqənin irəliləyişini və nəticələrini yoxlayın</string>
     <string name="kr_authorization_log_protocol">Jurnal Protokolu (ixtiyari)</string>
     <string name="kr_authorization_log_protocol_desc">"Sizə göstərilən xidmətləri təkmilləşdirmək üçün istifadə statistikalarını və sistem jurnallarını serverlərimizə yükləyəcəyik. Bu elementlər, şəxsi məlumatlarınızı, həmçinin cihazınız və şəbəkəniz haqqındakı məlumatları da ehtiva edə bilər. Sistemdəki problemləri tapmaq və təhlil etmək üçün yüklənilmiş elementləri istifadə edəcəyik."</string>
     <string name="kr_authorization_phone">Telefon</string>
-    <string name="kr_authorization_phone_desc">Problemləri tapmaq və həll etmək üçün cihaz modeli, IMEI və cihaz kimliyinə müraciət etmək üçün</string>
-    <string name="kr_authorization_phone_desc_pad">Problemləri tapmaq və həll etmək üçün cihaz modeli, IMEI və cihaz kimliyinə müraciət etmək üçün</string>
+    <string name="kr_authorization_phone_desc">Problemləri tapmaq və həll etmək üçün cihaz modeli, IMEI və cihaz kimliyinə erişmək üçün</string>
+    <string name="kr_authorization_phone_desc_pad">Problemləri tapmaq və həll etmək üçün cihaz modeli, IMEI və cihaz kimliyinə erişmək üçün</string>
     <string name="kr_authorization_privacy_policy">Gizlilik Siyasəti (məcburi)</string>
     <string name="kr_authorization_select_all">Hamısını seç</string>
     <string name="kr_authorization_storage">Anbar</string>
-    <string name="kr_authorization_storage_desc">Anbara müraciət etmək və jurnallar, şəkillər və videolar daxil olmaqla elementləri saxlamaq üçün</string>
+    <string name="kr_authorization_storage_desc">Anbara erişmək və jurnallar, şəkillər və videolar daxil olmaqla elementləri saxlamaq üçün</string>
     <string name="kr_authorization_summary">Hüquqi sənədlər</string>
     <string name="kr_authorization_user_protocol">İstifadəçi Razılaşması (məcburi)</string>
     <string name="library_android_database_sqlcipher_libraryName">Android üçün SQLCipher</string>
@@ -462,11 +466,11 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="miui_feedback_edit_mobile_data_note_dialog_cancel">Wi-Fi-ı gözlə</string>
     <string name="miui_feedback_edit_mobile_data_note_dialog_confirm">Yüklə</string>
     <string name="miui_feedback_edit_mobile_data_note_dialog_content">"Deyəsən, ödənişli bir şəbəkəyə bağlandınız. Jurnalları yükləmək üçün əlavə ödənişlər yarada bilər."</string>
-    <string name="miui_feedback_edit_mobile_data_note_dialog_title">İnternet istifadə xəbərdarlığı</string>
-    <string name="miui_feedback_edit_need_phone_state_permission">Problemləri tapmağa kömək etməsi üçün tətbiqə IMEI nömrənizi oxumaq üzrə cihaz məlumatlarınıza müraciət etmə icazəsi verin. Ayarları açmaq üçün \"Oldu\"ya toxunun.</string>
-    <string name="miui_feedback_edit_need_storage_permission">Əks-əlaqənizə şəkil və video əlavə edə bilmək üçün tətbiqin cihaz anbarına müraciət etməsinə icazə verin. Ayarları açmaq üçün \"Oldu\"ya toxunun.</string>
+    <string name="miui_feedback_edit_mobile_data_note_dialog_title">Veri istifadə xəbərdarlığı</string>
+    <string name="miui_feedback_edit_need_phone_state_permission">Problemləri tapmağa kömək etməsi üçün tətbiqin IMEI nömrənizi oxumaq üzrə cihaz məlumatlarınıza erişməsinə icazəsi verin. Ayarları açmaq üçün \"Oldu\"ya toxunun.</string>
+    <string name="miui_feedback_edit_need_storage_permission">Əks-əlaqənizə şəkil və video əlavə edə bilmək üçün tətbiqin cihaz anbarına erişməsinə icazə verin. Ayarları açmaq üçün \"Oldu\"ya toxunun.</string>
     <string name="miui_feedback_edit_permission_denied_title">Məhdudlaşdırılan icazələr: %1$s</string>
-    <string name="miui_feedback_edit_phone_state_permission_name">Cihaz məlumatlarına müraciət</string>
+    <string name="miui_feedback_edit_phone_state_permission_name">Cihaz məlumatlarına erişim</string>
     <string name="miui_feedback_edit_reproductivity_everytime">Hər zaman</string>
     <string name="miui_feedback_edit_reproductivity_occasionally">Bəzən</string>
     <string name="miui_feedback_edit_reproductivity_often">Tez-tez</string>
@@ -485,11 +489,11 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="miui_feedback_edit_select_upload_log">Jurnal əlavə et</string>
     <string name="miui_feedback_edit_select_upload_log_not_select_desc">"\"Jurnal əlavə et\" seçilmədi"</string>
     <string name="miui_feedback_edit_select_upload_log_select_desc">\"Jurnal əlavə et\" seçildi</string>
-    <string name="miui_feedback_edit_storage_permission_name">Cihaz anbarına müraciət</string>
+    <string name="miui_feedback_edit_storage_permission_name">Cihaz anbarına erişim</string>
     <string name="miui_feedback_edit_submit_dialog_cancel">"Razı deyiləm"</string>
     <string name="miui_feedback_edit_submit_dialog_confirm">Razıyam</string>
     <string name="miui_feedback_edit_submit_dialog_content">"&lt;Data&gt;\"\"Əks-əlaqə\"ni istifadə edə bilmək üçün &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\"&gt;Gizlilik Siyasətimiz&lt;/a&gt; və &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\"&gt;İstifadəçi Razılaşmamızla&lt;/a&gt; razılaşmalısınız. Əlavə etdiyiniz elementlərlə birlikdə bildirdiyiniz problemlər (şəxsi məlumatlar, həmçinin cihazınız və şəbəkəniz haqqında məlumat daxil ola bilər) MIUI serverlərinə yüklənəcək. Bu, bildirdiyiniz problemləri tapmaq və həll etməkdə bizə kömək edəcək.&lt;/Data&gt;"</string>
-    <string name="miui_feedback_edit_submit_dialog_content_global">"&lt;Data&gt;\"Əks-əlaqəniz, qoşmalar (əgər varsa) və jurnallarla (yükləmək istəmədiyiniz elementlər üçün müvafiq xanalardan işarəni götürə bilərsiniz) MIUI serverlərinə göndəriləcək. Jurnallar, şəxsi məlumatlarınızı və yerləşmə datanızı ehtiva edə bilər. \"Razıyam\"ın seçilməsi &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\"&gt;Gizlilik Siyasətimizi&lt;/a&gt; və &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\"&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; oxuyub razılaşdığınızı bildirir.&lt;/Data&gt;"</string>
+    <string name="miui_feedback_edit_submit_dialog_content_global">"&lt;Data&gt;\"Əks-əlaqəniz, qoşmalar (əgər varsa) və jurnallarla (yükləmək istəmədiyiniz elementlər üçün müvafiq xanalardan işarəni götürə bilərsiniz) MIUI serverlərinə göndəriləcək. Jurnallar, şəxsi məlumatlarınızı və yerləşmə verilərinizi ehtiva edə bilər. \"Razıyam\"ın seçilməsi &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\"&gt;Gizlilik Siyasətimizi&lt;/a&gt; və &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\"&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; oxuyub razılaşdığınızı bildirir.&lt;/Data&gt;"</string>
     <string name="miui_feedback_edit_submit_dialog_not_show_again">"Təkrar göstərmə"</string>
     <string name="miui_feedback_edit_submit_dialog_title">Hesabat göndər</string>
     <string name="miui_feedback_edit_submit_directly">Göndər</string>
@@ -527,6 +531,12 @@ E-poçt: service.jp@xiaomi.com"</string>
     <string name="miui_feedback_main_withdraw_consent_hint">"Davam etsəniz, %1$s Gizlilik Siyasətinə verdiyiniz razılığı geri götürəcəksiniz. Artıq yığılmış və saxlanılmış şəxsi məlumatlar, əksi tələb olunmadığı müddətcə, müvafiq qanun və nizamlamalara uyğun olaraq müəyyən bir müddət ərzində silinəcəkdir. %2$s, öz xidmətlərini lazımi şəxsi məlumatların yığılması əsasında təmin etdiyi üçün, razılığın geri götürülməsi %3$s xidmətlərini qəbul etməkdən imtina olaraq qəbul ediləcək. Razılıq indi geri götürülsün?"</string>
     <string name="miui_feedback_note_install_xiaomi_community">Bu özəlliyi istifadə edə bilmək üçün \"Xiaomi İcma\"sını quraşdırın.</string>
     <string name="miuix_access_state_desc">Seçildi</string>
+    <string name="miuix_accessibility_title">Başlıq</string>
+	<string name="miuix_appcompat_accessibility_collapse_state">Yığcamlaşdırıldı</string>
+    <string name="miuix_appcompat_accessibility_expand_state">Genişləndirildi</string>
+    <string name="miuix_appcompat_accessibility_finish_edit_action_mode">Düzəliş rejimindən çıx</string>
+    <string name="miuix_appcompat_accessibility_new_message">Yeni bildiriş</string>
+    <string name="miuix_appcompat_accessibility_start_edit_action_mode">Düzəliş rejiminə daxil ol</string>
     <string name="miuix_alphabet_indexer_name">İndeks çubuğu</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Heç birini seçmə</string>
     <string name="miuix_appcompat_action_mode_select_all">Hamısını seç</string>
@@ -545,7 +555,7 @@ E-poçt: service.jp@xiaomi.com"</string>
     <string name="miuix_appcompat_select_item">Elementləri seç</string>
     <string name="miuix_appcompat_show_dialog_description">Açılan pəncərə</string>
     <string name="miuix_indexer_collect">Kolleksiyalar</string>
-    <string name="miuix_indexer_selected">%s seçildi</string>
+    <string name="miuix_progressbar_loading">Bir saniyə…</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Təzələmək üçün aşağı çək</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Uğurla təzələndi</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Təzələnir…</string>
@@ -554,12 +564,15 @@ E-poçt: service.jp@xiaomi.com"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">"İndilik bu qədər"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Bir saniyə…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Elementlər yüklənə bilmədi"</string>
+    <string name="miuix_show_password">Parolu göstər</string>
+    <string name="miuix_stretchablewidget_collapsed">Yığcamlaşdırıldı</string>
+    <string name="miuix_stretchablewidget_expanded">Genişləndirildi</string>
     <string name="mobile_data_note_dialog_cancel">Wi-Fi-ı gözlə</string>
     <string name="mobile_data_note_dialog_cancel_china">Wi-Fi-ı gözlə</string>
     <string name="mobile_data_note_dialog_confirm">Yüklə</string>
     <string name="mobile_data_note_dialog_content">"Deyəsən, ödənişli bir şəbəkəyə bağlandınız. Jurnalları yükləmək üçün əlavə ödənişlər yarada bilər."</string>
-    <string name="mobile_data_note_dialog_content_with_file_size">"Deyəsən, ödənişli bir şəbəkəyə bağlandınız. Jurnalları yüklənməsi, %s MB mobil internet tələb edir."</string>
-    <string name="mobile_data_note_dialog_title">İnternet istifadə xəbərdarlığı</string>
+    <string name="mobile_data_note_dialog_content_with_file_size">"Deyəsən, ödənişli bir şəbəkəyə bağlandınız. Jurnalları yüklənməsi, %s MB mobil veri tələb edir."</string>
+    <string name="mobile_data_note_dialog_title">Veri istifadə xəbərdarlığı</string>
     <string name="modem_tool_log_dumping_desc">Dayandırmaq üçün ikona toxunun</string>
     <string name="modem_tool_log_dumping_title">Modem jurnalları yaradılır</string>
     <string name="modem_tool_log_finish_desc">Jurnal, %s olaraq saxlanıldı</string>
@@ -654,7 +667,7 @@ E-poçt: service.jp@xiaomi.com"</string>
     <string name="net_diag_repair_title">Şəbəkə təmir edilsin?</string>
     <string name="net_diag_title">Wi-Fi-ı test et</string>
     <string name="net_diag_title_china">Wi-Fi-ı test et</string>
-    <string name="net_diag_toast_cellular_data">Şəbəkəni test etmək üçün əvvəlcə mobil interneti söndürün.</string>
+    <string name="net_diag_toast_cellular_data">Şəbəkəni test etmək üçün əvvəlcə mobil verini söndürün.</string>
     <string name="net_diag_toast_other_networks">Şəbəkəni test etmək üçün əvvəlcə Wi-Fi-a bağlanın və digər şəbəkələrlə bağlantını kəsin.</string>
     <string name="net_diag_toast_other_networks_china">Şəbəkəni test etmək üçün əvvəlcə Wi-Fi-a bağlanın və digər şəbəkələrlə bağlantını kəsin.</string>
     <string name="net_diag_toast_wifi_disconnected">Şəbəkəni test etmək üçün əvvəlcə Wi-Fi-a bağlanın.</string>
@@ -678,7 +691,7 @@ E-poçt: service.jp@xiaomi.com"</string>
     <string name="notify_log_catch_content">Problemi təkrarladıqdan sonra, əks-əlaqə göndərmək üçün bildirişə toxunun və ya jurnalın yaxalanmasını dayandırmaq üçün bildirişi basılı tutun</string>
     <string name="open_feedback_main">Daha çox</string>
     <string name="open_settings">Ayarlar</string>
-    <string name="passport_access_denied">Müraciət rədd edildi</string>
+    <string name="passport_access_denied">Erişim rədd edildi</string>
     <string name="passport_account_name">"Hesab: %1$s "</string>
     <string name="passport_area_code_title">Ərazi kodu</string>
     <string name="passport_auth_title"></string>
@@ -775,9 +788,9 @@ E-poçt: service.jp@xiaomi.com"</string>
     <string name="permission_agree">Razıyam</string>
     <string name="permission_china_version_msg">&lt;Data&gt;\"Xidmətlər və Əks-əlaqə\"ni istifadə etməzdən əvvəl, &lt;a href=%1$s&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasətimizi&lt;/a&gt; oxuyub razılaşmalısınız. Bu tətbiqin normal işləməsi üçün internetə bağlanması lazımdır.&lt;/Data&gt;</string>
     <string name="permission_complete">Hazırdır</string>
-    <string name="permission_contacts_info">Hesab məlumatına müraciət</string>
+    <string name="permission_contacts_info">Hesab məlumatına erişim</string>
     <string name="permission_contacts_introduce">Xiaomi Hesabı istifadə edərək daxil olmaq üçün</string>
-    <string name="permission_device_info">Cihaz məlumatlarına müraciət</string>
+    <string name="permission_device_info">Cihaz məlumatlarına erişim</string>
     <string name="permission_device_introduce">Məhdud zəmanət müddətini təyin etmək üçün</string>
     <string name="permission_exit">Çıx</string>
     <string name="permission_external_storage_introduce">Əks-əlaqənizi saxlamaq və yükləmək üçün</string>
@@ -785,7 +798,7 @@ E-poçt: service.jp@xiaomi.com"</string>
     <string name="permission_imei_disable_desc">Bu tətbiqin internetə bağlanmasına icazə verin.</string>
     <string name="permission_imei_enable_desc">Bu tətbiqin internetə bağlanmağına icazə verin və yuxarıda sadalanan məcburi icazələri verin.</string>
     <string name="permission_location_introduce">Yaxınlıqdakı xidmət nöqtələrini göstərmək üçün</string>
-    <string name="permission_main_purpose">Özəllik demolarını göstərmək, əks-əlaqə vermək və satış sonrası xidmətlərə müraciət etmək.</string>
+    <string name="permission_main_purpose">Özəllik demolarını göstərmək, əks-əlaqə vermək və satış sonrası xidmətlərə erişmək.</string>
     <string name="permission_privacy">Gizlilik Siyasəti (məcburi)</string>
     <string name="permission_region_version_msg">&lt;Data&gt;\"Xidmətlər və Əks-əlaqə\"ni istifadə etməzdən əvvəl, &lt;a href=%1$s&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasətimizi&lt;/a&gt; oxuyub razılaşmalısınız.&lt;/Data&gt;</string>
     <string name="permission_select_all">Hamısını seç</string>
@@ -834,7 +847,7 @@ Davam etməzdən əvvəl %3$s üçün yeni versiyanı oxuyun və razılaşın."<
     <string name="request_error_invalid_token">"Doğrulana bilmədi"</string>
     <string name="request_error_network">Bir şəbəkə xətası baş verdi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın.</string>
     <string name="request_error_unknown">Sistem xətası baş verdi. Geri qayıdın və yenidən sınayın.</string>
-    <string name="request_gallery_permission_message">Qalereyaya müraciətə icazə verin:&lt;br /&gt;Profil fotosunu ayarlamaq üçün</string>
+    <string name="request_gallery_permission_message">Qalereyaya erişimə icazə verin:&lt;br /&gt;Profil fotosunu ayarlamaq üçün</string>
     <string name="resend_active_email">Təkrar göndər</string>
     <string name="resend_email_reach_limit_message">"Həddən artıq doğrulama e-poçtu tələb etdiniz. Doğrulama e-poçtunun gələn qutunuzun Spam qovluğunda olmadığına əmin olun."</string>
     <string name="resend_email_reach_limit_title">Həddən artıq çox cəhd</string>
@@ -911,13 +924,12 @@ Davam etməzdən əvvəl %3$s üçün yeni versiyanı oxuyun və razılaşın."<
     <string name="tab_title_my_reports">Əks-əlaqəm</string>
     <string name="tab_title_preferences">Ayarlar</string>
     <string name="tab_title_report">Əks-əlaqə</string>
+    <string name="talkback_announce_last">Son addım</string>
     <string name="telephony_cdma_dialog_cancel">İmtina</string>
     <string name="telephony_cdma_dialog_msg">"Cihazınız üçün 4G/5G xidmətinin aktiv olub-olmadığını operatorunuzla dəqiqləşdirin. Əgər aktivdirsə və hələ də problemlə üzləşirsinizsə, əks-əlaqə göndərin."</string>
     <string name="telephony_cdma_dialog_ok">Əks-əlaqə</string>
     <string name="telephony_cdma_dialog_title">4G/5G xidmətlərini aktivləşdirmə</string>
     <string name="temporary_not_available">"Bu özəllik hələ mövcud deyil"</string>
-    <string name="text_input_layout_default_content_description">这是默认的content description</string>
-    <string name="text_input_layout_default_error">这是默认的error</string>
     <string name="the_anniversary_of_lifting_martial_law">Hərbi Vəziyyətin Qaldırılma İldönümü</string>
     <string name="the_anti_aggression_day">Təcavüzlə Mübarizə Günü</string>
     <string name="the_arbor_day">Ağacəkmə Günü</string>
@@ -1003,7 +1015,10 @@ Davam etməzdən əvvəl %3$s üçün yeni versiyanı oxuyun və razılaşın."<
     <string name="tuesday">Çərşənbə axşamı</string>
     <string name="tuesday_short">Ç.a.</string>
     <string name="tuesday_shortest">Ç.a.</string>
+    <string name="unLock_catch_log">"Ekran kilidiniz cihazınızın kilidini açmırsa, ya da başqa oxşar problemlə üzləşmisinizsə, problemi tapıb düzəltməyimizə kömək etmək üçün cihaz jurnallarını göndərin. Jurnallar anonim olaraq yüklənəcək, yalnız problemlərin aradan qaldırılması üçün istifadə olunacaq və problemlərin aradan qaldırılması tamamlandıqdan dərhal sonra silinəcək."</string>
+    <string name="unLock_catch_log_hint">"Unudulmuş parolun geri qaytarılması üçün əks-əlaqə göndərilməməlidir."</string>
     <string name="unknown_error_info">Bilinməyən xəta</string>
+    <string formatted="false" name="unlock_catch_log_toast">Əks-əlaqə göndərilir. Cihazı növbəti %3d–%5d dəqiqə ərzində yanınızda saxlayın.</string>
     <string name="update_dialog_cancel">İmtina</string>
     <string name="update_dialog_confirm">Güncəllə</string>
     <string name="update_dialog_content_log">"Yeniliklər:

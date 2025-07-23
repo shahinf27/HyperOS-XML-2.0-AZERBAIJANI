@@ -26,6 +26,7 @@
     <string name="accessibility_menu_item_smallwindow_enable">Bu tətbiq üzən pəncərələri dəstəkləyir</string>
     <string name="accessibility_menu_item_split_disable">"Tətbiq, Ekran bölünməsini dəstəkləmir."</string>
     <string name="accessibility_menu_item_split_enable">Tətbiq, Ekran bölünməsini dəstəkləyir</string>
+    <string name="accessibility_recent_task_clear_info">Bütün Sonuncuları təmizlə</string>
     <string name="accessibility_recent_task_enter">Sonuncular açıldı</string>
     <string name="accessibility_recent_task_exit">Sonuncular bağlandı</string>
     <string name="accessibility_recent_task_locked_state">Kilidləndi</string>
@@ -76,6 +77,7 @@
     <string name="all_apps_setting_scroll_bar">Sürüşdürmə çubuğu</string>
     <string name="all_apps_setting_title">Əsas ekran</string>
     <string name="am">GƏ</string>
+    <string name="announce_folder_close">Bağla “%1$s”</string>
     <string name="animation_rate_title">Animasiya sürəti</string>
     <string name="announce_for_app_move_in_folder">Qovluqda %1$d mövqeyinə daşındı</string>
     <string name="announce_for_checked">%1$s, işarələndi</string>
@@ -633,7 +635,7 @@ Təkmilləşdirilmiş güvənlik."</string>
     <string name="recommend_xout">"Göstərmə"</string>
     <string name="remove_dialog_title_format">\"%s\" Əsas ekrandan silinsin?</string>
     <string name="remove_invalidate_gadget_tips">İstifadə etdiyiniz vicetlərdən biri artıq mövcud deyil. Başqa birini əlavə edə bilərsiniz.</string>
-    <string name="remove_sys_app_content">"Ayarlar &gt; Tətbiqlər &gt; \"Əsas ekran qısayollarını idarə et\" üzərindən Əsas ekran qısayolunu yenə əlavə edə biləcəksiniz. İndi silinsin?"</string>
+    <string name="remove_sys_app_content">"Bu sistem tətbiqinin Əsas ekran qısayolunu silmək üzrəsiniz. Bunu Ayarlar > Tətbiqlər > %1$s üzərindən təkrar əlavə edə biləcəksiniz. İndi silinsin?"</string>
     <string name="remove_sys_app_title">Əsas ekran qısayolu silinsin?</string>
     <string name="reset_cate_tip_content">Davam etsəniz, ilkin tətbiq qrupları bərpa olunacaq. Yenə də davam edilsin?</string>
     <string name="reset_cate_tip_title">İlkin qrupları bərpa et</string>
@@ -678,8 +680,8 @@ Təkmilləşdirilmiş güvənlik."</string>
     <string name="share">Paylaş</string>
     <string name="sharedUserId"></string>
     <string name="shortcut_menu_add_widget">Vicet əlavə et</string>
-    <string name="shortcut_share_dialog_content">"Telefonunuzdan göndərdiyiniz fayllar, həmçinin onların alıcıları sizin tərəfinizdən seçilir və müəyyənləşdirilir. Paylaşılacaq faylları və alıcıları seçərkən diqqətli olun. Telefonunuzu hər hansısa bir virus, zərərli proqram təminatı, Troyan, saatlı bombalar və digər zərərli obyektləri digər insanlara ötürmək üçün istifadə edə bilməzsiniz. Telefonunuzu, alıcının cihazında müntəzəm istifadəyə təsir edə biləcək hər hansısa bir proqram təminatını və ya mobil terminal cihazlarındakı hər hansısa bir sistem datasına və ya şəxsi məlumatlara zərər verə, müdaxilə edə, araya girə və ya aradan qaldıra biləcək hər hansısa elementləri göndərmək üçün istifadə etməyin. Digər istifadəçilərə və ya mobil terminal cihazlarına dəyən hər hansısa bir zərərə görə siz məsuliyyət daşıyacaqsınız. Xiaomi, paylaşım funksionallığının, eləcə də texnologiya və məlumatların güvənli, effektiv, dəqiq və etibarlı olmasını təmin etmək üçün əlindən gələnin ən yaxşısını edəcək. Bununla belə, mövcud texnologiya məhdudiyyətlərinə görə, Xiaomi, paylaşım funksionallığının qüsursuz olduğuna və bütün ehtiyaclarınızı ödəyəcəyinə zəmanət vermir."</string>
-    <string name="shortcut_share_dialog_content_pad">"Cihazınızdan göndərdiyiniz fayllar, həmçinin onların alıcıları sizin tərəfinizdən seçilir və müəyyənləşdirilir. Paylaşılacaq faylları və alıcıları seçərkən diqqətli olun. Cihazınızı hər hansısa bir virus, zərərli proqram təminatı, Troyan, saatlı bombalar və digər zərərli obyektləri digər insanlara ötürmək üçün istifadə edə bilməzsiniz. Cihazınızı, alıcının cihazında müntəzəm istifadəyə təsir edə biləcək hər hansısa bir proqram təminatını və ya mobil terminal cihazlarındakı hər hansısa bir sistem datasına və ya şəxsi məlumatlara zərər verə, müdaxilə edə, araya girə və ya aradan qaldıra biləcək hər hansısa elementləri göndərmək üçün istifadə etməyin. Digər istifadəçilərə və ya mobil terminal cihazlarına dəyən hər hansısa bir zərərə görə siz məsuliyyət daşıyacaqsınız. Xiaomi, paylaşım funksionallığının, eləcə də texnologiya və məlumatların güvənli, effektiv, dəqiq və etibarlı olmasını təmin etmək üçün əlindən gələnin ən yaxşısını edəcək. Bununla belə, mövcud texnologiya məhdudiyyətlərinə görə, Xiaomi, paylaşım funksionallığının qüsursuz olduğuna və bütün ehtiyaclarınızı ödəyəcəyinə zəmanət vermir."</string>
+    <string name="shortcut_share_dialog_content">"Telefonunuzdan göndərdiyiniz fayllar, həmçinin onların alıcıları sizin tərəfinizdən seçilir və müəyyənləşdirilir. Paylaşılacaq faylları və alıcıları seçərkən diqqətli olun. Telefonunuzu hər hansısa bir virus, zərərli proqram təminatı, Troyan, saatlı bombalar və digər zərərli obyektləri digər insanlara ötürmək üçün istifadə edə bilməzsiniz. Telefonunuzu, alıcının cihazında müntəzəm istifadəyə təsir edə biləcək hər hansısa bir proqram təminatını və ya mobil terminal cihazlarındakı hər hansısa bir sistem verilərinə və ya şəxsi məlumatlara zərər verə, müdaxilə edə, araya girə və ya aradan qaldıra biləcək hər hansısa elementləri göndərmək üçün istifadə etməyin. Digər istifadəçilərə və ya mobil terminal cihazlarına dəyən hər hansısa bir zərərə görə siz məsuliyyət daşıyacaqsınız. Xiaomi, paylaşım funksionallığının, eləcə də texnologiya və məlumatların güvənli, effektiv, dəqiq və etibarlı olmasını təmin etmək üçün əlindən gələnin ən yaxşısını edəcək. Bununla belə, mövcud texnologiya məhdudiyyətlərinə görə, Xiaomi, paylaşım funksionallığının qüsursuz olduğuna və bütün ehtiyaclarınızı ödəyəcəyinə zəmanət vermir."</string>
+    <string name="shortcut_share_dialog_content_pad">"Cihazınızdan göndərdiyiniz fayllar, həmçinin onların alıcıları sizin tərəfinizdən seçilir və müəyyənləşdirilir. Paylaşılacaq faylları və alıcıları seçərkən diqqətli olun. Cihazınızı hər hansısa bir virus, zərərli proqram təminatı, Troyan, saatlı bombalar və digər zərərli obyektləri digər insanlara ötürmək üçün istifadə edə bilməzsiniz. Cihazınızı, alıcının cihazında müntəzəm istifadəyə təsir edə biləcək hər hansısa bir proqram təminatını və ya mobil terminal cihazlarındakı hər hansısa bir sistem verilərinə və ya şəxsi məlumatlara zərər verə, müdaxilə edə, araya girə və ya aradan qaldıra biləcək hər hansısa elementləri göndərmək üçün istifadə etməyin. Digər istifadəçilərə və ya mobil terminal cihazlarına dəyən hər hansısa bir zərərə görə siz məsuliyyət daşıyacaqsınız. Xiaomi, paylaşım funksionallığının, eləcə də texnologiya və məlumatların güvənli, effektiv, dəqiq və etibarlı olmasını təmin etmək üçün əlindən gələnin ən yaxşısını edəcək. Bununla belə, mövcud texnologiya məhdudiyyətlərinə görə, Xiaomi, paylaşım funksionallığının qüsursuz olduğuna və bütün ehtiyaclarınızı ödəyəcəyinə zəmanət vermir."</string>
     <string name="shortcut_share_dialog_positive_button">Anladım</string>
     <string name="shortcut_share_dialog_title">Məsuliyyətdən imtina</string>
     <string name="show_all">Hamısını göstər</string>
@@ -801,8 +803,8 @@ Təkmilləşdirilmiş güvənlik."</string>
     <string name="uninstall_dialog_title_format">%s silinsin?</string>
     <string name="uninstall_result_failed">"%s silinə bilmir"</string>
     <string name="uninstall_result_succeeded">Uğurla silindi</string>
-    <string name="uninstall_with_xspace_dialog_message">Müvafiq ikili tətbiqlər, tətbiq dataları ilə birgə silinəcək.</string>
-    <string name="uninstall_xspace_dialog_message">İkili tətbiqi silsəniz, bütün tətbiq məlumatları silinəcək.</string>
+    <string name="uninstall_with_xspace_dialog_message">Müvafiq ikili tətbiqlər, tətbiq veriləri ilə birgə silinəcək.</string>
+    <string name="uninstall_xspace_dialog_message">İkili tətbiqi silsəniz, bütün tətbiq veriləri silinəcək.</string>
     <string name="uninstall_xspace_dialog_title_format">İkili \"%s\" tətbiqi silinsin?</string>
     <string name="unnamed_folder_name">Qovluq</string>
     <string name="unstable_dialog_message">Bu cihaz Android 14 Developer Preview Proqramına yazılıb. Proqram, Android developerlərin və həvəskərların Android 14-ün buraxılışdan əvvəlki versiyalarını sınamağına imkan verir. Bu ön-buraxılış versiyası, cihazınızın normal işləməsinə təsir edə biləcək xətalar və qüsurlar ehtiva edə bilər.</string>
@@ -816,7 +818,7 @@ Təkmilləşdirilmiş güvənlik."</string>
     <string name="wednesday_shortest">Çər</string>
     <string name="widget_quick_function">Cəld funksiyalar</string>
     <string name="widgets_preview_title">Vicet əlavə et</string>
-    <string name="work_mode_off_detailed_text">"İş tətbiqləriniz sizə bildiriş göndərə, batareyanızı istifadə edə və ya yerləşmənizə müraciət edə bilməz"</string>
+    <string name="work_mode_off_detailed_text">"İş tətbiqləriniz sizə bildiriş göndərə, batareyanızı istifadə edə və ya yerləşmənizə erişə bilməz"</string>
     <string name="work_mode_off_text">İş tətbiqlərinə fasilə verildi</string>
     <string name="work_mode_toggle_off">İş tətbiqlərini söndür</string>
     <string name="work_mode_toggle_on">İş tətbiqlərini işə sal</string>
