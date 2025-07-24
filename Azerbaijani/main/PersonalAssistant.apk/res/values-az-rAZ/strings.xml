@@ -278,6 +278,10 @@ Detallara baxmaq üçün iki dəfə toxunun."</string>
     <string name="pa_accessibility_picker_widget_detail_button_add_to_desktop">Bu elementi Əsas ekrana əlavə et.</string>
     <string name="pa_accessibility_picker_widget_detail_button_add_to_minus_desktop">Bu elementi Tətbiq seyfinə əlavə et.</string>
     <string name="pa_accessibility_picker_widget_detail_edit">Düzəliş et</string>
+    <string name="pa_accessibility_picker_widget_detail_select_image_multi_selected">%s, seçilib, bu elementi vicetdən silmək üçün cüt toxunun</string>
+    <string name="pa_accessibility_picker_widget_detail_select_image_multi_selected_only_one">%s, seçilib, ən azı bir element seçin, hazırda yalnız bu element seçilib</string>
+    <string name="pa_accessibility_picker_widget_detail_select_image_multi_unselect">%s, seçilməyib, bu elementi vicetə əlavə etmək üçün cüt toxunun</string>
+    <string name="pa_accessibility_picker_widget_detail_select_image_single">%s, bu elementi vicetdə istifadə etmək üçün cüt toxunun</string>
     <string name="pa_accessibility_picker_widget_detail_widget_add_to_desktop">Vicet seçildi. Bu elementi Əsas ekrana əlavə etmək üçün sürükləyin.</string>
     <string name="pa_accessibility_picker_widget_detail_widget_add_to_minus_desktop">Vicet seçildi. Bu elementi Tətbiq seyfinə əlavə etmək üçün sürükləyin.</string>
     <string formatted="false" name="pa_accessibility_picker_widget_group_all">Vicet mağazası. %s üzrə bütün vicetlərə baxmaq üçün seçin. %s üzrə bütün vicetlərə baxmaq üçün iki dəfə toxunun.</string>
@@ -372,6 +376,9 @@ Detallara baxmaq üçün iki dəfə toxunun."</string>
     <string name="pa_edit_every_month">Hər ay</string>
     <string name="pa_edit_every_week">Hər həftə</string>
     <string name="pa_edit_every_year">Hər il</string>
+    <string name="pa_edit_item_on_off_closed">bağlı</string>
+    <string name="pa_edit_item_on_off_opened">açıq</string>
+    <string name="pa_edit_item_on_off_type_switch">dəyişdir</string>
     <string name="pa_edit_not_repeat">"Təkrarlamayın"</string>
     <string name="pa_edit_repeat">Təkrarla</string>
     <string name="pa_edit_set_time">Vaxtı ayarla</string>
@@ -486,25 +493,25 @@ Həmçinin kuryer xidmətlərinin rəsmi veb saytlarında sürətli çatdırılm
     <string name="pa_feature_dialog_bluetooth_agree">Bu tətbiqin yaxınlıqdakı cihazlara bağlanmasına icazə verin və \"Həmişə icazə ver\"i seçin</string>
     <string name="pa_feature_dialog_bluetooth_message">Ayarlarda Mi AI təkliflərinin Bluetooth vasitəsilə yaxınlıqdakı cihazlara bağlanmasına icazə verin. Ən yaxşı nəticələr üçün \"Həmişə icazə ver\"i seçin.</string>
     <string name="pa_feature_dialog_bluetooth_title">İcazələr tələb olunur</string>
-    <string name="pa_feature_dialog_calendar_agree">Təqvimə müraciətə icazə verin və \"Həmişə icazə ver\"i seçin“</string>
-    <string name="pa_feature_dialog_calendar_message">Ayarlarda Mi AI təkliflərinin təqvimə müraciət etməsinə icazə verin. Ən yaxşı nəticələr üçün \"Həmişə icazə ver\"i seçin.</string>
+    <string name="pa_feature_dialog_calendar_agree">Təqvimə erişimə icazə verin və \"Həmişə icazə ver\"i seçin“</string>
+    <string name="pa_feature_dialog_calendar_message">Ayarlarda Mi AI təkliflərinin təqvimə erişməsinə icazə verin. Ən yaxşı nəticələr üçün \"Həmişə icazə ver\"i seçin.</string>
     <string name="pa_feature_dialog_calendar_title">İcazələr tələb olunur</string>
-    <string name="pa_feature_dialog_location_message">Ayarlarda Mi AI təkliflərinin yerləşmənizə müraciət etməsinə icazə verin. Ən yaxşı nəticələr üçün \"Həmişə icazə ver\"i seçin.</string>
+    <string name="pa_feature_dialog_location_message">Ayarlarda Mi AI təkliflərinin yerləşmənizə erişməsinə icazə verin. Ən yaxşı nəticələr üçün \"Həmişə icazə ver\"i seçin.</string>
     <string name="pa_feature_dialog_location_title">İcazələr tələb olunur</string>
     <string name="pa_feature_dialog_notification_agree">Tətbiqin yaxınlıqdakı cihazlara bağlanmasına icazə verin və \"Həmişə icazə ver\"i seçin</string>
     <string name="pa_feature_dialog_notification_message">Ayarlarda Mi AI təkliflərinin bildiriş göndərməsinə icazə verin.</string>
     <string name="pa_feature_dialog_notification_title">İcazələr tələb olunur</string>
-    <string name="pa_feature_dialog_op_gps_service_message">Əhatəsindəki bütün xidmətləri təqdim edə bilməsi üçün Mi AI təkliflərinin yerləşmənizə müraciətinə icazə verin. Ayarlarda bu icazəni verə bilərsiniz.</string>
+    <string name="pa_feature_dialog_op_gps_service_message">Əhatəsindəki bütün xidmətləri təqdim edə bilməsi üçün Mi AI təkliflərinin yerləşmənizə erişiminə icazə verin. Ayarlarda bu icazəni verə bilərsiniz.</string>
     <string name="pa_feature_dialog_op_gps_service_title">Yerləşmə xidmətlərini aç</string>
     <string name="pa_feature_hint_apk_update_bubble_text">Mi AI təkliflərini ən son versiyaya güncəlləyin</string>
-    <string name="pa_feature_hint_lack_background_location_permission">Bu tətbiqin arxaplanda işləyərkən yerləşməyə müraciətinə icazə verin və \"Həmişə icazə ver\"i seçin</string>
+    <string name="pa_feature_hint_lack_background_location_permission">Bu tətbiqin arxaplanda işləyərkən yerləşməyə erişiminə icazə verin və \"Həmişə icazə ver\"i seçin</string>
     <string name="pa_feature_hint_lack_bluetooth_permission">Bu tətbiqin parkinq xüsusiyyətlərini istifadə etməsi üçün yaxınlıqdakı cihazlara bağlanmasına icazə verin</string>
-    <string name="pa_feature_hint_lack_calendar_permission">Bu tətbiqin \"Təqvim\"ə müraciət etməsinə icazə verin və \"Həmişə icazə ver\"i seçin</string>
-    <string name="pa_feature_hint_lack_location_permission">Bu tətbiqin yerləşmənizə müraciətə icazə verin və \"Həmişə icazə ver\"i seçin</string>
-    <string name="pa_feature_hint_lack_xiaomi_voice_permission">\"Mi AI təklifləri\"nin \"Mi AI səsli köməkçisi\"nə müraciət etməsinə icazə verin</string>
+    <string name="pa_feature_hint_lack_calendar_permission">Bu tətbiqin \"Təqvim\"ə erişməsinə icazə verin və \"Həmişə icazə ver\"i seçin</string>
+    <string name="pa_feature_hint_lack_location_permission">Bu tətbiqin yerləşmənizə erişimə icazə verin və \"Həmişə icazə ver\"i seçin</string>
+    <string name="pa_feature_hint_lack_xiaomi_voice_permission">\"Mi AI təklifləri\"nin \"Mi AI səsli köməkçisi\"nə erişməsinə icazə verin</string>
     <string name="pa_feature_hint_location_provider_close">Təklif dəqiqliyini artırmaq üçün yerləşmə icazələrini verin</string>
     <string name="pa_feature_hint_no_login_mi_account">Daha çox özəllikdən zövq almaq üçün Xiaomi Hesabınıza daxil olun</string>
-    <string name="pa_feature_hint_permission_text">Yerləşməyə müraciətə icazə verin və \"Həmişə icazə ver\"i seçin</string>
+    <string name="pa_feature_hint_permission_text">Yerləşməyə erişimə icazə verin və \"Həmişə icazə ver\"i seçin</string>
     <string name="pa_feature_hint_tip_agree_cta">Mi AI təkliflərini istifadə edə bilmək üçün %s Gizlilik Siyasəti ilə razılaşın</string>
     <string name="pa_feature_hint_travel_not_compete">Aşağıdakı səyahət məlumatlarınızı doldurun</string>
     <string name="pa_feature_hint_user_experience_bubble_text">Mi AI təklifləri İstifadəçi Təcrübəsi Proqramına qoşul</string>
@@ -638,7 +645,7 @@ Həmçinin kuryer xidmətlərinin rəsmi veb saytlarında sürətli çatdırılm
     <string name="pa_olympic_label">Medallar</string>
     <string name="pa_olympic_medal_count">Cəmi medal</string>
     <string name="pa_olympic_medals_description">Olimpiya medal sıralamasını yoxlayın</string>
-    <string name="pa_open_personal_assistant_dialog_desc">"Tətbiq seyfini söndürsəniz, vicetləri istifadə edə və ya Əsas ekranda sağa sürüşdürərək onlara müraciət edə bilməyəcəksiniz. Yenə də söndürülsün?"</string>
+    <string name="pa_open_personal_assistant_dialog_desc">"Tətbiq seyfini söndürsəniz, vicetləri istifadə edə və ya Əsas ekranda sağa sürüşdürərək onlara erişə bilməyəcəksiniz. Yenə də söndürülsün?"</string>
     <string name="pa_open_personal_assistant_dialog_title">Tətbiq seyfi söndürülsün?</string>
     <string name="pa_operation_switch_summary">Son məşhur vicetlərə baxın</string>
     <string name="pa_operation_switch_title">Məşhur promosyonlar</string>
@@ -781,7 +788,11 @@ Həmçinin kuryer xidmətlərinin rəsmi veb saytlarında sürətli çatdırılm
     <string name="pa_picker_order_login_xiaomi_account">Bu özəlliyi istifadə edə bilmək üçün Xiaomi Hesabınıza daxil olun.</string>
     <string name="pa_picker_order_theme_app_cta_pre">Bu özəlliyi istifadə edə bilmək üçün bu tətbiqin internetə bağlanmasına icazə verin.</string>
     <string name="pa_picker_permission_denied">"Vicetləri göstərmək üçün
-Tətbiq seyfi, quraşdırma statusuna müraciət etməlidir."</string>
+Tətbiq seyfi, quraşdırma statusuna erişməlidir."</string>
+    <string name="pa_picker_purchase_fail_too_many_device_dialog_cancel">İmtina</string>
+    <string name="pa_picker_purchase_fail_too_many_device_dialog_confirm">Hesabı dəyişdir</string>
+    <string name="pa_picker_purchase_fail_too_many_device_dialog_desc">Hər bir Xiaomi Hesabı ildə ən çox %d mobil cihazda vicet istifadə edə bilər. Bu hesab limitə çatıb. Başqa bir cihaz əlavə etmək üçün fərqli bir Xiaomi Hesabı istifadə edin.</string>
+    <string name="pa_picker_purchase_fail_too_many_device_dialog_title">"Daha çox cihaz əlavə edilə bilmir"</string>
     <string name="pa_picker_purchase_order">Satın alındı</string>
     <string name="pa_picker_recommend_add_limit_toast">"Daha çox vicet əlavə edilə bilmir"</string>
     <string name="pa_picker_recommend_bottom_button_add">Vicet əlavə et</string>
@@ -821,6 +832,7 @@ Başlamaq üçün vicetləri əlavə edin."</string>
     <string name="pa_picker_toast_screen_cell_locked">"Əsas ekran düzümünüz kilidlidir. Vicet əlavə edilə bilmir."</string>
     <string name="pa_picker_widget_select_uninstall_description">%1$s, quraşdırılmadı</string>
     <string name="pa_picker_widget_select_upgrade_description">%1$s, güncəlləmə mövcuddur</string>
+    <string name="pa_preset_toast">此为展陈机预览信息，非真实信息</string>
     <string name="pa_privacy_text">Gizlilik</string>
     <string name="pa_read_storage_permission_description">Əsas ekran divar kağızınızı tətbiq arxaplanı olaraq nümayiş etdirmək üçün</string>
     <string name="pa_recommend_add_btn">Başla</string>
@@ -828,7 +840,7 @@ Başlamaq üçün vicetləri əlavə edin."</string>
     <string name="pa_recommend_card">Tövsiyələr</string>
     <string name="pa_recommend_card_add_des">Bu viceti Tətbiq seyfinə əlavə et</string>
     <string name="pa_recommend_card_image_content_des">Bu, bir vicetdir. Daha ətraflı öyrənmək üçün vicet mağazamızı açın.</string>
-    <string name="pa_recommend_card_image_text_null_des">Data yoxdur</string>
+    <string name="pa_recommend_card_image_text_null_des">Veri yoxdur</string>
     <string name="pa_recommend_card_summary">Vicet tövsiyələri</string>
     <string name="pa_recommend_card_text_des">%s. Daha ətraflı öyrənmək üçün vicet mağazamızı açın.</string>
     <string name="pa_recommend_card_title">Tövsiyə edilən</string>
@@ -845,6 +857,9 @@ Başlamaq üçün vicetləri əlavə edin."</string>
     <string name="pa_search_hint">Axtar</string>
     <string name="pa_search_summary">Axtarış çubuğunu göstər</string>
     <string name="pa_search_title">Axtar</string>
+    <string name="pa_service_delivery_carousel_desc_talkback">Qrup daxilində başqa bir vicet seçmək üçün yuxarı və ya aşağı sürüşdür</string>
+    <string name="pa_service_delivery_carousel_page_down_talkback">Dəyişdirmək üçün aşağı sürüşdür. Hazırkı vicet: %1$s</string>
+    <string name="pa_service_delivery_carousel_page_up_talkback">Dəyişdirmək üçün yuxarı sürüşdür. Hazırkı vicet: %1$s</string>
     <string name="pa_service_delivery_dislike_dialog_title">Bizə necə təkmilləşdirə biləcəyimizi deyin:</string>
     <string name="pa_service_delivery_title">智能提醒</string>
     <string name="pa_setting">Ayarlar</string>
@@ -868,12 +883,12 @@ Başlamaq üçün vicetləri əlavə edin."</string>
     <string name="pa_setting_privacy_logout_summary">Tətbiq seyfi xidmətlərini ləğv et</string>
     <string name="pa_setting_privacy_perm_desc">İcazə detalları</string>
     <string name="pa_setting_privacy_perm_granted">İcazə verildi</string>
-    <string name="pa_setting_privacy_perm_install_app">Bu cihazda quraşdırılmış tətbiqlərin siyahısına müraciət</string>
+    <string name="pa_setting_privacy_perm_install_app">Bu cihazda quraşdırılmış tətbiqlərin siyahısına erişim</string>
     <string name="pa_setting_privacy_perm_install_app_desc">Tətbiq təkliflərini təqdim etmək üçün</string>
-    <string name="pa_setting_privacy_perm_location">Yerləşməyə müraciət</string>
+    <string name="pa_setting_privacy_perm_location">Yerləşməyə erişim</string>
     <string name="pa_setting_privacy_perm_location_desc">Super yamaclarda regional liderlər sıralamasını hesablamaq üçün</string>
     <string name="pa_setting_privacy_perm_not_granted">İcazə verilmədi</string>
-    <string name="pa_setting_privacy_perm_storage">Anbara müraciət</string>
+    <string name="pa_setting_privacy_perm_storage">Anbara erişim</string>
     <string name="pa_setting_privacy_policy">Gizlilik Siyasəti</string>
     <string name="pa_setting_privacy_policy_update_again_message">"%s yeni versiyası ilə razılaşmayana qədər xidmətlərimizi istifadə etməyə davam edə bilməyəcəksiniz. Güncəllənmiş Gizlilik siyasəti ilə indi razılaşırsınız?"</string>
     <string name="pa_setting_privacy_policy_update_again_title">Diqqət</string>
@@ -895,7 +910,7 @@ Başlamaq üçün vicetləri əlavə edin."</string>
     <string name="pa_setting_privacy_revoke_no_net_message">Razılığınızı geri götürə bilmək üçün cihazınız şəbəkəyə bağlanmalıdır. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın.</string>
     <string name="pa_setting_privacy_revoke_no_net_title">"Şəbəkəyə bağlana bilmədi"</string>
     <string name="pa_setting_privacy_revoke_positive">Anladım</string>
-    <string name="pa_setting_privacy_third_parties">Üçüncü tərəflərlə dataların paylaşılmasına dair bəyanat</string>
+    <string name="pa_setting_privacy_third_parties">Üçüncü tərəflərlə verilərin paylaşılmasına dair bəyanat</string>
     <string name="pa_setting_privacy_view_priv">Gizlilik Siyasətinə bax</string>
     <string name="pa_setting_simplify_title_bar">Tətbiq seyfi</string>
     <string name="pa_setting_switch_description">Dəyişdir</string>
@@ -948,10 +963,10 @@ Başlamaq üçün vicetləri əlavə edin."</string>
     <string name="pa_shortcut_setting_select_other_applications">Digər tətbiqləri seçin</string>
     <string name="pa_shortcut_summary">Tez-tez istifadə edilən özəllikləri və tətbiqləri Tətbiq seyfinin ən üstündə göstər</string>
     <string name="pa_shortcut_text">Qısayollar</string>
-    <string name="pa_shortcut_widget_label">Cəld müraciət</string>
+    <string name="pa_shortcut_widget_label">Cəld erişim</string>
     <string name="pa_shortcut_widget_label_4x2">Qısayollar</string>
-    <string name="pa_ski_foreground_service_noitification_name">Yerləşməyə müraciət</string>
-    <string name="pa_ski_foreground_service_title">Tətbiq seyfi, yerləşmənizə müraciət etməyə çalışır</string>
+    <string name="pa_ski_foreground_service_noitification_name">Yerləşməyə erişim</string>
+    <string name="pa_ski_foreground_service_title">Tətbiq seyfi, yerləşmənizə erişməyə çalışır</string>
     <string name="pa_smart_shortcut_widget_label">Tətbiq təklifləri</string>
     <string name="pa_sports_action_live">Canlı</string>
     <string name="pa_sports_action_preview">Önizləmə</string>
@@ -994,10 +1009,10 @@ Başlamaq üçün vicetləri əlavə edin."</string>
     <string name="pa_stack_text">Güncəllənən elementləri yuxarı daşı</string>
     <string name="pa_stock_add_stock_button">Əlavə et</string>
     <string name="pa_stock_change_cp_code_alert">Bu əməliyyat məlumatların düzgün göstərilməməsinə səbəb olur</string>
-    <string name="pa_stock_change_cp_code_error">"Data mənbəyi dəyişdirilə bilmədi"</string>
-    <string name="pa_stock_change_cp_code_progress_msg">Data sinxronlaşdırılır…</string>
+    <string name="pa_stock_change_cp_code_error">"Veri mənbəyi dəyişdirilə bilmədi"</string>
+    <string name="pa_stock_change_cp_code_progress_msg">Veri sinxronlaşdırılır…</string>
     <string name="pa_stock_color_scheme_label">Rəng sxemi</string>
-    <string name="pa_stock_data_source_label">Data mənbəyini sil</string>
+    <string name="pa_stock_data_source_label">Veri mənbəyini sil</string>
     <string name="pa_stock_delisted">(Siyahı xaricində)</string>
     <string name="pa_stock_desc_add_stock">%1$s əlavə et</string>
     <string name="pa_stock_desc_add_success">Uğurla əlavə edildi</string>
@@ -1013,7 +1028,7 @@ Başlamaq üçün vicetləri əlavə edin."</string>
     <string name="pa_stock_green_grow">Yaşıl - yuxarı, qırmızı- aşağı</string>
     <string name="pa_stock_init_toast">Vicetlər başladılır…</string>
     <string name="pa_stock_label_stock">Səhmlər</string>
-    <string name="pa_stock_load_data_failure">"Məlumat yüklənə bilmədi"</string>
+    <string name="pa_stock_load_data_failure">"Veri yüklənə bilmədi"</string>
     <string name="pa_stock_network_unavailable">"Şəbəkəyə bağlana bilmədi"</string>
     <string name="pa_stock_not_found_related_items">"Nəticələr tapıla bilmədi"</string>
     <string name="pa_stock_red_grow">Qırmızı - yuxarı, yaşıl- aşağı</string>
@@ -1128,8 +1143,8 @@ Başlamaq üçün vicetləri əlavə edin."</string>
     <string name="pa_travel_flight_tip_delay">Uçuş gecikir. Hava limanına planlanan vaxtda gedə bilərsiniz.</string>
     <string name="pa_travel_flight_unauthorized_tip">Uçuş vəziyyəti güncəlləmələrini vaxtında almaq üçün bir xidmət hesabını cütləşdir</string>
     <string name="pa_travel_global_emergency_calls">Qlobal fövqəladə hal çağırışları</string>
-    <string name="pa_travel_google_store_open">GetApps-da mövcud olmayan tətbiqlərə müraciət etmək üçün Google Play Store-u açın.</string>
-    <string name="pa_travel_google_store_update">GetApps-da mövcud olmayan tətbiqlərə müraciət etmək üçün Google Play Store-u güncəlləyin.</string>
+    <string name="pa_travel_google_store_open">GetApps-da mövcud olmayan tətbiqlərə erişmək üçün Google Play Store-u açın.</string>
+    <string name="pa_travel_google_store_update">GetApps-da mövcud olmayan tətbiqlərə erişmək üçün Google Play Store-u güncəlləyin.</string>
     <string name="pa_travel_gtauth_button_text">Səlahiyyət verməni təsdiqlə</string>
     <string name="pa_travel_gtauth_privacy_contact">Və</string>
     <string name="pa_travel_gtauth_privacy_dialog_agree">Razılaş və icazə ver</string>
@@ -1167,7 +1182,7 @@ Başlamaq üçün vicetləri əlavə edin."</string>
     <string name="pa_travel_manual_record_label_flight_no">Uçuş</string>
     <string name="pa_travel_manual_record_label_seat">Oturacaq</string>
     <string name="pa_travel_manual_record_label_train_no">Qatar</string>
-    <string name="pa_travel_manual_toast_acquire_travel_info_failed">"Data alına bilmədi. Məlumatları yenidən daxil edin."</string>
+    <string name="pa_travel_manual_toast_acquire_travel_info_failed">"Veri alına bilmədi. Məlumatları yenidən daxil edin."</string>
     <string name="pa_travel_manual_toast_check_dept_date">Müddəti %1$d gündən çox olan gələcək səfərlər üçün məlumatlar, gedişdən %2$d əvvəl avtomatik olaraq nümayiş olunacaq</string>
     <string name="pa_travel_manual_toast_check_required_arr_airport">Əvvəlcə gəliş hava limanını doldurun</string>
     <string name="pa_travel_manual_toast_check_required_arr_date">Əvvəlcə gəliş tarixini doldurun</string>
@@ -1228,7 +1243,7 @@ Başlamaq üçün vicetləri əlavə edin."</string>
     <string name="pa_travel_police">Polis</string>
     <string name="pa_travel_preference_cp_state_bind">Cütləşdirilib</string>
     <string name="pa_travel_preference_cp_state_not_bind">Cütləşdirilməyib</string>
-    <string name="pa_travel_preference_summary_agree_permission">Səyahət köməkçisinin yerləşmənizə müraciətinə icazə verin və vəziyyət güncəlləmələrini vaxtında alın</string>
+    <string name="pa_travel_preference_summary_agree_permission">Səyahət köməkçisinin yerləşmənizə erişiminə icazə verin və vəziyyət güncəlləmələrini vaxtında alın</string>
     <string name="pa_travel_preference_summary_cpbind">Daha ağıllı və daha dəqiq xidmətlər üçün xidmət hesablarını cütləşdir</string>
     <string name="pa_travel_preference_summary_refuse_permission">Səyahət köməkçisi üzrə verdiyiniz %1$s Gizlilik Siyasəti razılığınızı geri çəkirsiniz. Qatar marşrutları artıq vaxtında yenilənməyəcək.</string>
     <string name="pa_travel_preference_summary_reminder">Qatar və uçuşlar üçün Tətbiq seyfində bildirişlər al</string>
@@ -1246,14 +1261,14 @@ Başlamaq üçün vicetləri əlavə edin."</string>
     <string name="pa_travel_title_manual_modify_train_trip">Qatar səfərinə düzəliş et</string>
     <string name="pa_travel_title_travel">出行;出行助手;行程;行程助手</string>
     <string name="pa_travel_title_travel_agree_permission">Yerləşmə icazələrini ver</string>
-    <string name="pa_travel_title_travel_agree_permission_message">"Siz qatar stansiyası yerlərə daxil olduğunuz zaman və marşrutunuzun yenilənməsinə kömək etməsi üçün Tətbiq seyfinin %1$s vasitəsilə yerləşmənizə müraciət etməsinə icazə verin."</string>
+    <string name="pa_travel_title_travel_agree_permission_message">"Siz qatar stansiyası yerlərə daxil olduğunuz zaman və marşrutunuzun yenilənməsinə kömək etməsi üçün Tətbiq seyfinin %1$s vasitəsilə yerləşmənizə erişməsinə icazə verin."</string>
     <string name="pa_travel_title_travel_agree_permission_title">İcazələr tələb olunur</string>
     <string name="pa_travel_title_travel_assistant">Səyahət köməkçisi</string>
     <string name="pa_travel_title_travel_cpbind">Xidmət hesabları</string>
     <string name="pa_travel_title_travel_gtauth">CRGT cütləşdirmə</string>
     <string name="pa_travel_title_travel_list">Son 30 gün</string>
     <string name="pa_travel_title_travel_refuse_permission">Yerləşmə icazələrini ləğv et</string>
-    <string name="pa_travel_title_travel_refuse_permission_message">"Davam etsəniz, Tətbiq seyfinin %1$s vasitəsilə yerləşmənizə müraciət etməsinə verdiyiniz razılığı geri çəkəcəksiniz. Ayarlarda Mi AI təkliflərinin digər əlaqəli %2$s icazələrinə verdiyiniz razılığı da geri çəkə bilərsiniz."</string>
+    <string name="pa_travel_title_travel_refuse_permission_message">"Davam etsəniz, Tətbiq seyfinin %1$s vasitəsilə yerləşmənizə erişməsinə verdiyiniz razılığı geri götürəcəksiniz. Ayarlarda Mi AI təkliflərinin digər əlaqəli %2$s icazələrinə verdiyiniz razılığı da geri çəkə bilərsiniz."</string>
     <string name="pa_travel_toast_bind_failed">"Cütləşdirilə bilmədi"</string>
     <string name="pa_travel_toast_bind_success">Cütləşmə uğurlu oldu</string>
     <string name="pa_travel_toast_unbind_failed">"Ayırma uğursuz oldu"</string>
@@ -1264,7 +1279,7 @@ Başlamaq üçün vicetləri əlavə edin."</string>
     <string formatted="false" name="pa_travel_train_seat_carriage_number">%s Avtomobil %s</string>
     <string name="pa_travel_train_seat_number">Oturacaq</string>
     <string name="pa_travel_train_tip_cancel">Qatar ləğv edilib. Yeni bir səfər planı qurun.</string>
-    <string name="pa_travel_train_unauthorized_ai_tip">Vaxtında güncəlləmə almaq üçün yerləşməyə müraciətə icazə verin</string>
+    <string name="pa_travel_train_unauthorized_ai_tip">Vaxtında güncəlləmə almaq üçün yerləşməyə erişimə icazə verin</string>
     <string name="pa_travel_train_unauthorized_tip">Qatar vəziyyəti güncəlləmələrini vaxtında almaq üçün bir xidmət hesabını cütləşdir</string>
     <string name="pa_travel_unbind_dialog_message">"Bu xidməti ayırsanız, qatar və uçuş statusları ilə bağlı güncəlləmələri vaxtında almayacaqsınız. Yenə də ayırırsınız?"</string>
     <string name="pa_travel_unbind_dialog_positive">Ayır</string>

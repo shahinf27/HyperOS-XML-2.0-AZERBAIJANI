@@ -92,6 +92,10 @@
     <string name="call_record_list_group_all">Hamısı</string>
     <string name="call_record_list_group_connected">Bağlantılıdır</string>
     <string name="call_record_list_group_unconnected">Bağlantılı deyil</string>
+    <string name="cancel_dialog_message">Seçilmiş elementlərin göndərilməsi indi ləğv edilsin?</string>
+    <string name="cancel_dialog_negative_button">"Ləğv etmə"</string>
+    <string name="cancel_dialog_positive_button">Ləğv et</string>
+    <string name="cancel_send">Göndərməni ləğv et</string>
     <string name="cant_generate_summary_by_account_un_login1">"İcmalları yaratmaq üçün Xiaomi Hesabınıza daxil olun. "</string>
     <string name="cant_generate_summary_by_account_un_login2">Daxil ol</string>
     <string name="cant_generate_summary_by_block_list_error">"Qaydalarımızı bir neçə dəfə pozduğunuz üçün bu özəlliyi istifadə etməyiniz əngəlləndi"</string>
@@ -105,8 +109,8 @@
     <string name="character_counter_overflowed_content_description">%1$d/%2$d xarakter limiti aşıldı</string>
     <string name="character_counter_pattern">%1$d/%2$d</string>
     <string name="chip_text">Çip mətni</string>
-    <string name="clear_data_dialog_content">Keşlənmiş elementlər, tətbiq datası və özəlləşdirilmiş ayarlar silinəcək, ancaq səsyazmalarınız yerində qalacaq.</string>
-    <string name="clear_data_dialog_title">Məlumatlar indi təmizlənsin?</string>
+    <string name="clear_data_dialog_content">Keşlənmiş elementlər, tətbiq veriləri və özəlləşdirilmiş ayarlar silinəcək, ancaq səsyazmalarınız yerində qalacaq.</string>
+    <string name="clear_data_dialog_title">İndi verilər təmizlənsin?</string>
     <string name="clear_records">Sinxronlaşdırılmış səsyazmaları sil</string>
     <string name="clear_text_end_icon_content_description">Mətni təmizlə</string>
     <string name="clearable_edittext_clear_description">Təmizlə</string>
@@ -119,15 +123,15 @@
     <string name="content_preview_ratio">1:1</string>
     <string name="content_text">Məzmun: %s</string>
     <string name="copy">Kopyala</string>
-    <string name="data_connection_body">Bu faylı endirmək üçün mobil internet bağlantınızı istifadə etmək internet istifadənizi artıracaq. Tarif planı limitini aşsanız, operatorunuz əlavə ödəniş ala bilər.</string>
+    <string name="data_connection_body">Bu faylı endirmək üçün mobil veri bağlantınızı istifadə etmək veri istifadənizi artıracaq. Veri planı limitini aşsanız, operatorunuz əlavə ödəniş ala bilər.</string>
     <string name="data_connection_button_text">Oldu</string>
-    <string name="data_connection_title">İnternet istifadə xəbərdarlığı</string>
+    <string name="data_connection_title">Veri istifadə xəbərdarlığı</string>
     <string name="date_picker_label_day"></string>
     <string name="date_picker_label_month"></string>
     <string name="date_picker_label_year"></string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
     <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
-    <string name="day_in_week_hour_minute_format">EE hh.mm aaa</string>
+    <string name="day_in_week_hour_minute_format">EE HH.mm</string>
     <string name="delete">Sil</string>
     <string name="delete_cloud_data_at_same_time">Buluddan da sil</string>
     <string name="delete_dialog_message">Səsyazma silinsin?</string>
@@ -155,7 +159,7 @@
     <string name="error_filename_illegal_char">Fayl adında yararsız simvollar var.</string>
     <string name="error_filename_too_long">Fayl adı çox uzundur.</string>
     <string name="error_icon_content_description">Xəta</string>
-    <string name="error_sdcard_access">"SD karta müraciət edilə bilmir"</string>
+    <string name="error_sdcard_access">"SD karta erişilə bilmir"</string>
     <string name="error_sdcard_unmounted">İndi SD kartı taxın</string>
     <string name="error_tip">Şəbəkə xətası baş verdi</string>
     <string name="evening">Günortadan sonra</string>
@@ -222,12 +226,12 @@
     <string name="friday_short">Cüm</string>
     <string name="friday_shortest">Cüm</string>
     <string name="google_application_id"></string>
-    <string name="guide_update_confirm_dialog_message">"\"Mi AI Translate\"i güncəlləməni seçməsəniz, bəzi özəlliklərə müraciət edə bilməyəcəksiniz."</string>
-    <string name="guide_update_confirm_dialog_message_new">"\"Tərcümə et\"i güncəlləməməyi seçsəniz, bəzi özəlliklərə müraciət edə bilməyəcəksiniz."</string>
+    <string name="guide_update_confirm_dialog_message">"\"Mi AI Translate\"i güncəlləməni seçməsəniz, bəzi özəlliklərə erişə bilməyəcəksiniz."</string>
+    <string name="guide_update_confirm_dialog_message_new">"\"Tərcümə et\"i güncəlləməməyi seçsəniz, bəzi özəlliklərə erişə bilməyəcəksiniz."</string>
     <string name="guide_update_confirm_dialog_negative_button">İndi yox</string>
     <string name="guide_update_confirm_dialog_positive_button">Güncəllə</string>
     <string name="guide_update_confirm_dialog_title">Bu güncəlləmə ötürülsün?</string>
-    <string name="guide_update_dialog_message">Səsi mətnə çevirmə, danışanı ağıllı şəkildə tanıma və daha çoxu kimi özəlliklərə müraciət əldə etmək üçün \"Mi AI Translate\"i güncəlləyin. İndi güncəllənsin?</string>
+    <string name="guide_update_dialog_message">Səsi mətnə çevirmə, danışanı ağıllı şəkildə tanıma və daha çoxu kimi özəlliklərə erişmək üçün \"Mi AI Translate\"i güncəlləyin. İndi güncəllənsin?</string>
     <string name="guide_update_dialog_negative_button">İndi yox</string>
     <string name="guide_update_dialog_positive_button">Güncəllə</string>
     <string name="guide_update_dialog_title">\"Mi AI Translate\"i güncəllə</string>
@@ -247,7 +251,7 @@
     <string name="item_view_role_description">Vərəq</string>
 	<string name="keyguard_shotcuts">Yeni yazı</string>
     <string name="korea_permission_phone">Telefon</string>
-    <string name="korea_permission_phone_resc">Cihaz statusuna müraciət etmək və zəng əsnasında səsyazmaları idarə etmək üçün</string>
+    <string name="korea_permission_phone_resc">Cihaz statusuna erişmək və zəng zamanı səsyazmaları idarə etmək üçün</string>
     <string name="korea_permission_record">Mikrofon</string>
     <string name="korea_permission_record_resc">Səs yazmaq üçün</string>
     <string name="korea_permission_storage">Anbar</string>
@@ -258,7 +262,7 @@
     <string name="low_battery_error_confirm">Oldu</string>
     <string name="low_battery_error_title">Zəif batareya</string>
     <string name="low_bit_rate">MP3, ~%1$d kbps, ~%2$d MB/saat</string>
-    <string name="manage_external_storage">Bütün fayllara müraciət et</string>
+    <string name="manage_external_storage">Bütün fayllara erişin</string>
     <string name="mark_add_toast">Uğurla əlavə edildi</string>
     <string name="marketSdkVersion">3.2.26</string>
     <string name="material_clock_display_divider">:</string>
@@ -427,7 +431,7 @@
     <string name="network_tip_dialog_content">\"Səsyazan\"ın normal işləməsi üçün internetə bağlanması lazımdır. Razılaşırsınız?</string>
     <string name="network_tip_dialog_ok">Razıyam</string>
     <string name="network_tip_dialog_title">İnternet bağlantısı tələb olunur</string>
-    <string name="new_saf_permission_dialog_content">"Səsyazan icazələri güncəlləndi. \"Səsyazan\"ın zəng səsyazmalarına müraciətinə icazə verin.
+    <string name="new_saf_permission_dialog_content">"Səsyazan icazələri güncəlləndi. \"Səsyazan\"ın zəng səsyazmalarına erişməsinə icazə verin.
 
 İcazəni necə vermək olar
 \"%1$s\" toxunaraq \"%2$s\" seçin."</string>
@@ -458,7 +462,7 @@
     <string name="notification_title_all_paused">Endirməyə fasilə verildi</string>
     <string name="offline_recognize_transfer_format">Mətnə çevrilir…</string>
     <string name="online_recognize_progress">Mətnə çevrilir %s…</string>
-    <string name="passport_access_denied">Müraciət rədd edildi</string>
+    <string name="passport_access_denied">Erişimə rədd cavabı verildi</string>
     <string name="passport_account_crop_user_avatar">Fotonu qayçıla</string>
     <string name="passport_account_empty_user_name">Adınızı daxil edin</string>
     <string name="passport_account_error_all_space_user_name">"Ad yalnız boşluq xarakterindən ibarət ola bilməz"</string>
@@ -580,7 +584,7 @@
     <string name="passport_request_error_invalid_token">"Doğrulana bilmədi"</string>
     <string name="passport_request_error_network">Bir şəbəkə xətası baş verdi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın.</string>
     <string name="passport_request_error_unknown">Sistem xətası baş verdi. Geri qayıdın və yenidən sınayın.</string>
-    <string name="passport_request_gallery_permission_message">Qalereyaya müraciətə icazə verin:&lt;br /&gt;Profil fotosunu ayarlamaq üçün</string>
+    <string name="passport_request_gallery_permission_message">Qalereyaya erişimə icazə verin:&lt;br /&gt;Profil fotosunu ayarlamaq üçün</string>
     <string name="passport_resend_email_reach_limit_message">"Həddən artıq doğrulama e-poçtu tələb etdiniz. Doğrulama e-poçtunun gələn qutunuzun Spam qovluğunda olmadığına əmin olun."</string>
     <string name="passport_resend_email_reach_limit_title">Həddindən artıq cəhd</string>
     <string name="passport_resend_ticket">Kodu yenidən göndər</string>
@@ -634,7 +638,7 @@
     <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
     <string name="path_soundrecorder_setting">Sistem tətbiqləri/Səsyazan</string>
     <string name="pause_status_focus_notification">Yazıya fasilə verildi</string>
-    <string name="permission_bluetooth">Bluetooth bağlantı statusuna müraciət</string>
+    <string name="permission_bluetooth">Bluetooth bağlantı statusuna erişim</string>
     <string name="permission_bluetooth_dialog_description">Yazıları oxudarkən cihazlar arasında keçid edə bilmək üçün bu cihazın yaxınlıqdakı cihazlara bağlanmasına icazə verin.</string>
     <string name="permission_bluetooth_title">İcazə tələb olunur</string>
     <string name="permission_desc">İcazə detalları</string>
@@ -643,11 +647,11 @@
     <string name="permission_notification_description">Bu tətbiqin, məzmunu yazarkən, oxudarkən və endirərkən xəbərdarlıq göndərə bilmək üçün bildiriş göndərmə icazəsinə ehtiyacı var.</string>
     <string name="permission_notification_dialog_description">"Bu tətbiqin, tətbiqin hazırkı statusu haqqında xəbərdarlıq göndərə bilməsi üçün bildiriş göndərmə icazəsinə ehtiyacı var."</string>
     <string name="permission_notification_title">İcazələr tələb olunur</string>
-    <string name="permission_read_phone_state">Cihaz məlumatlarına müraciət</string>
-    <string name="permission_read_phone_state_description">Zəng gələrkən səsyazmanı avtomatik dayandırmaq məqsədilə zəng statusuna müraciət etmək üçün</string>
+    <string name="permission_read_phone_state">Cihaz məlumatlarına erişim</string>
+    <string name="permission_read_phone_state_description">Zəng gələrkən səsyazmanı avtomatik dayandırmaq məqsədilə zəng statusuna erişmək üçün</string>
     <string name="permission_record">Səs yaz</string>
     <string name="permission_record_description">Səsyazma xidmətlərinin göstərilməsi üçün</string>
-    <string name="permission_storage">Anbara müraciət</string>
+    <string name="permission_storage">Anbara erişim</string>
     <string name="permission_storage_description">Səsyazmaları idarə etmək və buluddan endirmək üçün</string>
     <string name="permission_storage_description_for_download">Buluddan səsyazmaları endirmək üçün</string>
     <string name="permission_storage_description_for_manage_files">Səsyazmaları idarə etmək üçün</string>
@@ -660,11 +664,12 @@
     <string name="playback_menu_share">Paylaş</string>
     <string name="playback_menu_show_speaker">Danışan adını göstər</string>
     <string name="playback_menu_to_note">\"Notlar\"da saxla</string>
+    <string name="playback_seekbar_content_description">Oxutma irəliləyişi</string>
     <string name="playback_share_records">Səsyazmanı paylaş</string>
     <string name="playback_tabs_audio">Səs</string>
     <string name="playback_tabs_text">Mətn</string>
     <string name="pm">GS</string>
-    <string name="preference_clear_data">Datanı təmizlə</string>
+    <string name="preference_clear_data">Veriləri təmizlə</string>
     <string name="preference_copied">\"%1$s\" lövhəyə kopyalandı.</string>
     <string name="preference_enable_earpiece_summary">Qulaqlıq dinamikini istifadə edərək səs oxut</string>
     <string name="preference_enable_earpiece_title">Qulaqlıq rejimi</string>
@@ -684,6 +689,7 @@
     <string name="privacy_settings">Gizlilik</string>
     <string name="privacy_withdraw">Razılığı geri götür</string>
     <string name="progress">Oxutma irəliləyiş çubuğu</string>
+    <string name="progress_dialog_message">Endirilir…</string>
     <string name="qq_application_id"></string>
     <string name="qq_login_protocol_scheme">com.xiaomi.passport.ui</string>
     <string name="radio_tips">Səsyazan, səsi mətnə çevirməni, səs icmallarını və daha çoxunu təqdim edir. Bu xidmətləri təqdim etmək üçün bu tətbiqin internetə bağlanması lazımdır.</string>
@@ -695,7 +701,7 @@
     <string name="recognition_confirm_dialog_body">"Mətnə çevirmək bir az uzun çəkə bilər. Bu tapşırıq tamamlandıqda bir bildiriş alacaqsınız. İndi mətnə çevrilsin?"</string>
     <string name="recognition_error_code">Xəta kodu: %d</string>
     <string name="recognition_error_download_cancel">Daha sonra</string>
-    <string name="recognition_error_download_data_msg">Bu xidməti əlçatan etmək üçün mətnə çevirmə mühərrikini endirin. Bu endirmə üçün təxminən %d MB-lıq mobil internet lazımdır.</string>
+    <string name="recognition_error_download_data_msg">Bu xidməti əlçatan etmək üçün mətnə çevirmə mühərrikini endirin. Bu endirmə üçün təxminən %d MB-lıq mobil veri lazımdır.</string>
     <string name="recognition_error_download_msg">Bu xidməti əlçatan etmək üçün mətnə çevirmə mühərrikini endirin.</string>
     <string name="recognition_error_download_ok">Endir</string>
     <string name="recognition_error_download_title">Mətnə çevirmə mühərriki yoxdur</string>
@@ -751,7 +757,9 @@
     <string name="record_scenes_summaries_stereo_voice">Daha yaxşı keyfiyyət üçün mikrofonu səs mənbəyinə yaxınlaşdırın</string>
     <string name="record_scenes_summaries_voice">Daha yaxşı keyfiyyət üçün mikrofonu səs mənbəyinə yaxınlaşdırın</string>
     <string name="record_stop_recognize">Mətnə çevirməni dayandır</string>
-    <string name="record_while_in_call_tip">"Zəng əsnasında səs yazıla bilmir"</string>
+    <string name="record_while_in_call_tip">"Zəng zamanı səs yazıla bilmir"</string>
+    <string name="recorder_finished">Yazma bitdi</string>
+    <string name="recorder_started">Yazmağa başladı</string>
     <string name="recording">Səs yazılır</string>
     <string name="recording_quality_high">Yüksək keyfiyyət</string>
     <string name="recording_quality_low">Aşağı keyfiyyət</string>
@@ -977,6 +985,7 @@ Hazırda fasilə verilib. Cihazınızı istifadə etmədikdə təhlillər davam 
     <string name="v7_preference_off">BAĞLI</string>
     <string name="v7_preference_on">AÇIQ</string>
     <string name="view_privacy">Gizlilik Siyasətinə bax</string>
+    <string name="wave">Dalğa forması %s</string>
     <string name="webview_data_error">Xəta baş verdi</string>
     <string name="webview_locating_fail">"Yerləşməniz tapıla bilmədi"</string>
     <string name="webview_network_unavaliable">"Şəbəkəyə bağlana bilmir"</string>
@@ -989,13 +998,13 @@ Hazırda fasilə verilib. Cihazınızı istifadə etmədikdə təhlillər davam 
     <string name="wednesday_shortest">Çər</string>
     <string name="weibo_application_id"></string>
     <string name="weibo_redirect_uri"></string>
-    <string formatted="false" name="wifi_recommended_body">Bu faylı (%s) endirmək üçün mobil internet bağlantınızı istifadə etmək internet istifadənizi artıracaq. Tarif planı limitini aşsanız, operatorunuz əlavə xidmət haqqı ala bilər. Bu faylı endirmək üzrə Wi-Fi bağlantısını gözləmək üçün %s seçiminə toxunun.</string>
+    <string formatted="false" name="wifi_recommended_body">Bu faylı (%s) endirmək üçün mobil veri bağlantınızı istifadə etmək veri istifadənizi artıracaq. Tarif planı limitini aşsanız, operatorunuz əlavə xidmət haqqı ala bilər. Bu faylı endirmək üzrə Wi-Fi bağlantısını gözləmək üçün %s seçiminə toxunun.</string>
     <string name="wifi_recommended_title">İnternet istifadə xəbərdarlığı</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">İndi yox</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Güncəllə</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Bir güncəlləmə mövcuddur</string>
     <string name="year_month_day_format">dd-MM-yyyy</string>
-    <string name="year_month_day_hour_minute_format">dd-MM-yyyy hh.mm aaa</string>
+    <string name="year_month_day_hour_minute_format">dd-MM-yyyy HH.mm</string>
     <string name="year_month_format">MM yyyy</string>
     <string name="yesterday">Dünən</string>
 </resources>

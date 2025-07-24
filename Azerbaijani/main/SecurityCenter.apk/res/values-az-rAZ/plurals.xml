@@ -121,6 +121,10 @@
         <item quantity="other">"%d tətbiq arxaplanda şəbəkəyə bağlana bilmir"</item>
         <item quantity="one">"%d tətbiq arxaplanda şəbəkəyə bağlana bilmir"</item>
     </plurals>
+    <plurals name="biometric_too_many_failed_confirmation_attempts_footer">
+        <item quantity="one">%d saniyə ərzində yenidən sınayın</item>
+        <item quantity="other">%d saniyə ərzində yenidən sınayın</item>
+    </plurals>
     <plurals name="cache_check_content">
         <item quantity="other">%d tətbiq qorunur</item>
         <item quantity="one">%d tətbiq qorunur</item>
@@ -130,16 +134,16 @@
         <item quantity="one">&lt;Data&gt;&lt;font color=#F22424&gt;%d&lt;/font&gt; tətbiqi silə bilərsiniz&lt;/Data&gt;</item>
     </plurals>
     <plurals name="daily_sim_over_limit_dialog_message">
-        <item quantity="other">"Artıq gündəlik internet limitindən %s istifadə etdiniz.
+        <item quantity="other">"Artıq gündəlik veri limitindən %s istifadə etmisiniz.
 
-Əgər mobil interneti yenidən açarsanız, operatorunuz əlavə internet üçün ödəniş ala bilər."</item>
-        <item quantity="one">"Artıq gündəlik internet limitindən %s istifadə etdiniz.
+Əgər mobil verini yenidən açsanız, operatorunuz əlavə veri üçün ödəniş ala bilər."</item>
+        <item quantity="one">"Artıq gündəlik veri limitindən %s istifadə etmisiniz.
 
-Əgər mobil interneti yenidən açarsanız, operatorunuz əlavə internet üçün ödəniş ala bilər."</item>
+Əgər mobil verini yenidən açsanız, operatorunuz əlavə veri üçün ödəniş ala bilər."</item>
     </plurals>
     <plurals name="daily_sim_over_limit_notify_title">
-        <item quantity="other">"Artıq gündəlik internet limitindən %s istifadə etdiniz."</item>
-        <item quantity="one">"Artıq gündəlik internet limitindən %s istifadə etdiniz."</item>
+        <item quantity="other">"Artıq gündəlik veri limitindən %s istifadə etmisiniz."</item>
+        <item quantity="one">"Artıq gündəlik veri limitindən %s istifadə etmisiniz."</item>
     </plurals>
     <plurals name="deep_clean_auto_memory_clean">
         <item quantity="other">%1$d dəqiqə ərzində</item>
@@ -350,12 +354,12 @@
         <item quantity="one">%d tətbiq arxaplanda başladıla bilər</item>
     </plurals>
     <plurals name="hints_get_root_disable_title">
-        <item quantity="other">"%d tətbiqin root müraciəti yoxdur"</item>
-        <item quantity="one">"%d tətbiqin root müraciəti yoxdur"</item>
+        <item quantity="other">"%d tətbiqin root erişimi yoxdur"</item>
+        <item quantity="one">"%d tətbiqin root erişimi yoxdur"</item>
     </plurals>
     <plurals name="hints_get_root_enable_title">
-        <item quantity="other">%d tətbiqin root müraciəti var</item>
-        <item quantity="one">%d tətbiqin root müraciəti var</item>
+        <item quantity="other">%d tətbiqin root erişimi var</item>
+        <item quantity="one">%d tətbiqin root erişimi var</item>
     </plurals>
     <plurals name="hints_handle_item_text_risk_number">
         <item quantity="other">%d risk,</item>
@@ -370,12 +374,12 @@
         <item quantity="one">%d tətbiq</item>
     </plurals>
     <plurals name="hints_roaming_disable_title">
-        <item quantity="other">"%d tətbiq data rouminqi istifadə edə bilmir"</item>
-        <item quantity="one">"%d tətbiq data rouminqi istifadə edə bilmir"</item>
+        <item quantity="other">"%d tətbiq rouminq verisini istifadə edə bilmir"</item>
+        <item quantity="one">"%d tətbiq rouminq verisini istifadə edə bilmir"</item>
     </plurals>
     <plurals name="hints_roaming_enable_title">
-        <item quantity="other">%d tətbiq data rouminqi istifadə edə bilir</item>
-        <item quantity="one">%d tətbiq data rouminqi istifadə edə bilir</item>
+        <item quantity="other">%d tətbiq rouminq verisini istifadə edə bilir</item>
+        <item quantity="one">%d tətbiq rouminq verisini istifadə edə bilir</item>
     </plurals>
     <plurals name="hints_roaming_found_app_count_title">
         <item quantity="other">%d tətbiq tapıldı</item>
@@ -386,12 +390,12 @@
         <item quantity="one">%d risk aşkarlandı</item>
     </plurals>
     <plurals name="hints_traffic_disable_title">
-        <item quantity="other">%d tətbiqin internet istifadəsi izlənilir</item>
-        <item quantity="one">%d tətbiqin internet istifadəsi izlənilir</item>
+        <item quantity="other">%d tətbiqin veri istifadəsi izlənilir</item>
+        <item quantity="one">%d tətbiqin veri istifadəsi izlənilir</item>
     </plurals>
     <plurals name="hints_traffic_enable_title">
-        <item quantity="other">%d tətbiqin internet istifadəsi izlənilmir</item>
-        <item quantity="one">%d tətbiqin internet istifadəsi izlənilmir</item>
+        <item quantity="other">%d tətbiqin veri istifadəsi izlənilmir</item>
+        <item quantity="one">%d tətbiqin veri istifadəsi izlənilmir</item>
     </plurals>
     <plurals name="image_protect_del_tips">
         <item quantity="other">%d şəkil birdəfəlik silinsin?</item>
@@ -465,6 +469,22 @@
         <item quantity="other">%d digər istifadəçi belə işarələdi</item>
         <item quantity="one">%d digər istifadəçi belə işarələdi</item>
     </plurals>
+    <plurals name="medical_info_person_age">
+        <item quantity="one">Yaş: %d</item>
+        <item quantity="other">Yaş: %d</item>
+    </plurals>
+    <plurals name="medical_info_sp_text_height">
+        <item quantity="one">%d sm</item>
+        <item quantity="other">%d sm</item>
+    </plurals>
+    <plurals name="medical_info_sp_text_weight">
+        <item quantity="one">%d kq</item>
+        <item quantity="other">%d kq</item>
+    </plurals>
+    <plurals name="medical_sp_emergency_contact_text">
+        <item quantity="one">%d</item>
+        <item quantity="other">%d</item>
+    </plurals>
     <plurals name="menu_text_antispam_ex">
         <item quantity="other">%d mesaj və ya zəng əngəlləndi</item>
         <item quantity="one">%d mesaj və ya zəng əngəlləndi</item>
@@ -502,8 +522,8 @@
         <item quantity="one">Şəbəkə sürətini artırma seansınız %d günə bitir. Şəbəkə gecikmələri yaşamağa başlaya bilərsiniz. Seans indi yenilənsin?</item>
     </plurals>
     <plurals name="network_restrict_count">
-        <item quantity="other">"Şəbəkə müraciəti &lt;font color='#ff0000'&gt;%d&lt;/font&gt; tətbiq üçün məhdudlaşdırılıb"</item>
-        <item quantity="one">"Şəbəkə müraciəti &lt;font color='#ff0000'&gt;%d&lt;/font&gt; tətbiq üçün məhdudlaşdırılıb"</item>
+        <item quantity="other">"Şəbəkə erişimi &lt;font color='#ff0000'&gt;%d&lt;/font&gt; tətbiq üçün məhdudlaşdırılıb"</item>
+        <item quantity="one">"Şəbəkə erişimi &lt;font color='#ff0000'&gt;%d&lt;/font&gt; tətbiq üçün məhdudlaşdırılıb"</item>
     </plurals>
     <plurals name="not_added_apps_count">
         <item quantity="other">%d tətbiq əlavə edilmədi</item>
@@ -678,96 +698,96 @@
         <item quantity="one">%1$d nəfər endirdi</item>
     </plurals>
     <plurals name="permission_usage_allow_activity_recognization">
-        <item quantity="other">%1$s | Bu tətbiq məşq məlumatlarınıza %2$d dəfə müraciət etdi</item>
-        <item quantity="one">%1$s | Bu tətbiq məşq məlumatlarınıza %2$d dəfə müraciət etdi</item>
+        <item quantity="other">%1$s | Bu tətbiq məşq məlumatlarınıza %2$d dəfə erişdi</item>
+        <item quantity="one">%1$s | Bu tətbiq məşq məlumatlarınıza %2$d dəfə erişdi</item>
     </plurals>
     <plurals name="permission_usage_allow_autostart">
         <item quantity="other">%1$s | Bu tətbiq, %2$d dəfə avtomatik olaraq başladıldı</item>
         <item quantity="one">%1$s | Bu tətbiq, %2$d dəfə avtomatik olaraq başladıldı</item>
     </plurals>
     <plurals name="permission_usage_allow_body_sensor">
-        <item quantity="other">%1$s | Bu tətbiq bədən sensorlarına %2$d dəfə müraciət etdi</item>
-        <item quantity="one">%1$s | Bu tətbiq bədən sensorlarına %2$d dəfə müraciət etdi</item>
+        <item quantity="other">%1$s | Bu tətbiq bədən sensorlarına %2$d dəfə erişdi</item>
+        <item quantity="one">%1$s | Bu tətbiq bədən sensorlarına %2$d dəfə erişdi</item>
     </plurals>
     <plurals name="permission_usage_allow_call_phone">
         <item quantity="other">%1$s | Bu tətbiq %2$d dəfə telefon zəngi etdi</item>
         <item quantity="one">%1$s | Bu tətbiq %2$d dəfə telefon zəngi etdi</item>
     </plurals>
     <plurals name="permission_usage_allow_camera">
-        <item quantity="other">%1$s | Bu tətbiq kameraya %2$d dəfə müraciət etdi</item>
-        <item quantity="one">%1$s | Bu tətbiq kameraya %2$d dəfə müraciət etdi</item>
+        <item quantity="other">%1$s | Bu tətbiq kameraya %2$d dəfə erişdi</item>
+        <item quantity="one">%1$s | Bu tətbiq kameraya %2$d dəfə erişdi</item>
     </plurals>
     <plurals name="permission_usage_allow_clipboard">
-        <item quantity="other">%1$s | Bu tətbiq lövhəyə %2$d dəfə müraciət etdi</item>
-        <item quantity="one">%1$s | Bu tətbiq lövhəyə %2$d dəfə müraciət etdi</item>
+        <item quantity="other">%1$s | Bu tətbiq lövhəyə %2$d dəfə erişdi</item>
+        <item quantity="one">%1$s | Bu tətbiq lövhəyə %2$d dəfə erişdi</item>
     </plurals>
     <plurals name="permission_usage_allow_delete_pic">
         <item quantity="other">%1$s | Bu tətbiq %2$d dəfə Qalereyadan fotoları sildi</item>
         <item quantity="one">%1$s | Bu tətbiq %2$d dəfə Qalereyadan fotoları sildi</item>
     </plurals>
     <plurals name="permission_usage_allow_device_sensor">
-        <item quantity="other">%1$s | Bu tətbiq cihaz hərəkəti və istiqamət sensorlarına %2$d dəfə müraciət etdi</item>
-        <item quantity="one">%1$s | Bu tətbiq cihaz hərəkəti və istiqamət sensorlarına %2$d dəfə müraciət etdi</item>
+        <item quantity="other">%1$s | Bu tətbiq cihaz hərəkəti və istiqamət sensorlarına %2$d dəfə erişdi</item>
+        <item quantity="one">%1$s | Bu tətbiq cihaz hərəkəti və istiqamət sensorlarına %2$d dəfə erişdi</item>
     </plurals>
     <plurals name="permission_usage_allow_files">
-        <item quantity="other">%1$s | Bu tətbiq fayllara və sənədlərə %2$d dəfə müraciət etdi</item>
-        <item quantity="one">%1$s | Bu tətbiq fayllara və sənədlərə %2$d dəfə müraciət etdi</item>
+        <item quantity="other">%1$s | Bu tətbiq fayllara və sənədlərə %2$d dəfə erişdi</item>
+        <item quantity="one">%1$s | Bu tətbiq fayllara və sənədlərə %2$d dəfə erişdi</item>
     </plurals>
     <plurals name="permission_usage_allow_get_installed">
-        <item quantity="other">%1$s | Bu tətbiq bu cihazda quraşdırılmış tətbiqlərin siyahısına %2$d dəfə müraciət etdi</item>
-        <item quantity="one">%1$s | Bu tətbiq bu cihazda quraşdırılmış tətbiqlərin siyahısına %2$d dəfə müraciət etdi</item>
+        <item quantity="other">%1$s | Bu tətbiq bu cihazda quraşdırılmış tətbiqlərin siyahısına %2$d dəfə erişdi</item>
+        <item quantity="one">%1$s | Bu tətbiq bu cihazda quraşdırılmış tətbiqlərin siyahısına %2$d dəfə erişdi</item>
     </plurals>
     <plurals name="permission_usage_allow_get_number">
-        <item quantity="other">%1$s | Telefon məlumatlarına %2$d dəfə müraciət etdi</item>
-        <item quantity="one">%1$s | Telefon məlumatlarına %2$d dəfə müraciət etdi</item>
+        <item quantity="other">%1$s | Telefon məlumatlarına %2$d dəfə erişdi</item>
+        <item quantity="one">%1$s | Telefon məlumatlarına %2$d dəfə erişdi</item>
     </plurals>
     <plurals name="permission_usage_allow_get_sms">
         <item quantity="other">%1$s | Bu tətbiq, %2$d dəfə SMS oxudu</item>
         <item quantity="one">%1$s | Bu tətbiq, %2$d dəfə SMS oxudu</item>
     </plurals>
     <plurals name="permission_usage_allow_location">
-        <item quantity="other">%1$s | Bu tətbiq yerləşmənizə %2$d dəfə müraciət etdi</item>
-        <item quantity="one">%1$s | Bu tətbiq yerləşmənizə %2$d dəfə müraciət etdi</item>
+        <item quantity="other">%1$s | Bu tətbiq yerləşmənizə %2$d dəfə erişdi</item>
+        <item quantity="one">%1$s | Bu tətbiq yerləşmənizə %2$d dəfə erişdi</item>
     </plurals>
     <plurals name="permission_usage_allow_media_aural">
-        <item quantity="other">%1$s | Bu tətbiq musiqi və səslərə %2$d dəfə müraciət etdi</item>
-        <item quantity="one">%1$s | Bu tətbiq musiqi və səslərə %2$d dəfə müraciət etdi</item>
+        <item quantity="other">%1$s | Bu tətbiq musiqi və səslərə %2$d dəfə erişdi</item>
+        <item quantity="one">%1$s | Bu tətbiq musiqi və səslərə %2$d dəfə erişdi</item>
     </plurals>
     <plurals name="permission_usage_allow_media_visual">
-        <item quantity="other">%1$s | Bu tətbiq foto və videolara %2$d dəfə müraciət etdi</item>
-        <item quantity="one">%1$s | Bu tətbiq foto və videolara %2$d dəfə müraciət etdi</item>
+        <item quantity="other">%1$s | Bu tətbiq foto və videolara %2$d dəfə erişdi</item>
+        <item quantity="one">%1$s | Bu tətbiq foto və videolara %2$d dəfə erişdi</item>
     </plurals>
     <plurals name="permission_usage_allow_media_volume">
         <item quantity="other">%1$s | Bu tətbiq %2$d dəfə media səs səviyyəsini ayarladı</item>
         <item quantity="one">%1$s | Bu tətbiq %2$d dəfə media səs səviyyəsini ayarladı</item>
     </plurals>
     <plurals name="permission_usage_allow_mic">
-        <item quantity="other">%1$s | Bu tətbiq mikrofona %2$d dəfə müraciət etdi</item>
-        <item quantity="one">%1$s | Bu tətbiq mikrofona %2$d dəfə müraciət etdi</item>
+        <item quantity="other">%1$s | Bu tətbiq mikrofona %2$d dəfə erişdi</item>
+        <item quantity="one">%1$s | Bu tətbiq mikrofona %2$d dəfə erişdi</item>
     </plurals>
     <plurals name="permission_usage_allow_nearby_device">
-        <item quantity="other">%1$s | Bu tətbiq yaxınlıqdakı cihazların siyahısına %2$d dəfə müraciət etdi</item>
-        <item quantity="one">%1$s | Bu tətbiq yaxınlıqdakı cihazların siyahısına %2$d dəfə müraciət etdi</item>
+        <item quantity="other">%1$s | Bu tətbiq yaxınlıqdakı cihazların siyahısına %2$d dəfə erişdi</item>
+        <item quantity="one">%1$s | Bu tətbiq yaxınlıqdakı cihazların siyahısına %2$d dəfə erişdi</item>
     </plurals>
     <plurals name="permission_usage_allow_perm">
-        <item quantity="other">%1$s | %2$d dəfə müraciət etdi</item>
-        <item quantity="one">%1$s | %2$d dəfə müraciət etdi</item>
+        <item quantity="other">%1$s | %2$d dəfə erişdi</item>
+        <item quantity="one">%1$s | %2$d dəfə erişdi</item>
     </plurals>
     <plurals name="permission_usage_allow_phone_state">
-        <item quantity="other">"%1$s | Bu tətbiq bu cihazın zəng statusuna %2$d dəfə müraciət etdi"</item>
-        <item quantity="one">"%1$s | Bu tətbiq bu cihazın zəng statusuna %2$d dəfə müraciət etdi"</item>
+        <item quantity="other">"%1$s | Bu tətbiq bu cihazın zəng statusuna %2$d dəfə erişdi"</item>
+        <item quantity="one">"%1$s | Bu tətbiq bu cihazın zəng statusuna %2$d dəfə erişdi"</item>
     </plurals>
     <plurals name="permission_usage_allow_r_calendar">
-        <item quantity="other">%1$s | Bu tətbiq təqvimə %2$d dəfə müraciət etdi</item>
-        <item quantity="one">%1$s | Bu tətbiq təqvimə %2$d dəfə müraciət etdi</item>
+        <item quantity="other">%1$s | Bu tətbiq təqvimə %2$d dəfə erişdi</item>
+        <item quantity="one">%1$s | Bu tətbiq təqvimə %2$d dəfə erişdi</item>
     </plurals>
     <plurals name="permission_usage_allow_r_calllog">
-        <item quantity="other">%1$s | Bu tətbiq zəng tarixçənizə %2$d dəfə müraciət etdi</item>
-        <item quantity="one">%1$s | Bu tətbiq zəng tarixçənizə %2$d dəfə müraciət etdi</item>
+        <item quantity="other">%1$s | Bu tətbiq zəng tarixçənizə %2$d dəfə erişdi</item>
+        <item quantity="one">%1$s | Bu tətbiq zəng tarixçənizə %2$d dəfə erişdi</item>
     </plurals>
     <plurals name="permission_usage_allow_r_contacts">
-        <item quantity="other">%1$s | Bu tətbiq kontaktlarınıza %2$d dəfə müraciət etdi</item>
-        <item quantity="one">%1$s | Bu tətbiq kontaktlarınıza %2$d dəfə müraciət etdi</item>
+        <item quantity="other">%1$s | Bu tətbiq kontaktlarınıza %2$d dəfə erişdi</item>
+        <item quantity="one">%1$s | Bu tətbiq kontaktlarınıza %2$d dəfə erişdi</item>
     </plurals>
     <plurals name="permission_usage_allow_receive_sms">
         <item quantity="other">%1$s | Bu tətbiq, %2$d dəfə SMS aldı</item>
@@ -778,8 +798,8 @@
         <item quantity="one">%1$s | Bu tətbiq, %2$d dəfə SMS göndərdi</item>
     </plurals>
     <plurals name="permission_usage_allow_storage">
-        <item quantity="other">%1$s | Foto, video, səs və fayllara %2$d dəfə müraciət etdi</item>
-        <item quantity="one">%1$s | Foto, video, səs və fayllara %2$d dəfə müraciət etdi</item>
+        <item quantity="other">%1$s | Foto, video, səs və fayllara %2$d dəfə erişdi</item>
+        <item quantity="one">%1$s | Foto, video, səs və fayllara %2$d dəfə erişdi</item>
     </plurals>
     <plurals name="permission_usage_allow_w_calendar">
         <item quantity="other">%1$s | Bu tətbiq təqvimə %2$d dəfə düzəliş etdi</item>
@@ -806,96 +826,96 @@
         <item quantity="one">%1$s | Qalereyadakı fotolar %2$d dəfə silindi</item>
     </plurals>
     <plurals name="permission_usage_deny_activity_recognization">
-        <item quantity="other">%1$s | Bu tətbiqin məşq məlumatlarınıza müraciətinə %2$d dəfə rədd cavabı verildi</item>
-        <item quantity="one">%1$s | Bu tətbiqin məşq məlumatlarınıza müraciətinə %2$d dəfə rədd cavabı verildi</item>
+        <item quantity="other">%1$s | Bu tətbiqin məşq məlumatlarınıza erişiminə %2$d dəfə rədd cavabı verildi</item>
+        <item quantity="one">%1$s | Bu tətbiqin məşq məlumatlarınıza erişiminə %2$d dəfə rədd cavabı verildi</item>
     </plurals>
     <plurals name="permission_usage_deny_autostart">
         <item quantity="other">%1$s | Bu tətbiqin avtomatik olaraq başladılmasına %2$d dəfə rədd cavabı verildi</item>
         <item quantity="one">%1$s | Bu tətbiqin avtomatik olaraq başladılmasına %2$d dəfə rədd cavabı verildi</item>
     </plurals>
     <plurals name="permission_usage_deny_body_sensor">
-        <item quantity="other">%1$s | Bu tətbiqin bədən sensorlarına müraciətinə %2$d dəfə rədd cavabı verildi</item>
-        <item quantity="one">%1$s | Bu tətbiqin bədən sensorlarına müraciətinə %2$d dəfə rədd cavabı verildi</item>
+        <item quantity="other">%1$s | Bu tətbiqin bədən sensorlarına erişiminə %2$d dəfə rədd cavabı verildi</item>
+        <item quantity="one">%1$s | Bu tətbiqin bədən sensorlarına erişiminə %2$d dəfə rədd cavabı verildi</item>
     </plurals>
     <plurals name="permission_usage_deny_call_phone">
         <item quantity="other">%1$s | Bu tətbiqin zəng etməsinə %2$d dəfə rədd cavabı verildi</item>
         <item quantity="one">%1$s | Bu tətbiqin zəng etməsinə %2$d dəfə rədd cavabı verildi</item>
     </plurals>
     <plurals name="permission_usage_deny_camera">
-        <item quantity="other">%1$s | Bu tətbiqin kameraya müraciətinə %2$d dəfə rədd cavabı verildi</item>
-        <item quantity="one">%1$s | Bu tətbiqin kameraya müraciətinə %2$d dəfə rədd cavabı verildi</item>
+        <item quantity="other">%1$s | Bu tətbiqin kameraya erişiminə %2$d dəfə rədd cavabı verildi</item>
+        <item quantity="one">%1$s | Bu tətbiqin kameraya erişiminə %2$d dəfə rədd cavabı verildi</item>
     </plurals>
     <plurals name="permission_usage_deny_clipboard">
-        <item quantity="other">%1$s | Bu tətbiqin lövhəyə müraciətinə %2$d dəfə rədd cavabı verildi</item>
-        <item quantity="one">%1$s | Bu tətbiqin lövhəyə müraciətinə %2$d dəfə rədd cavabı verildi</item>
+        <item quantity="other">%1$s | Bu tətbiqin lövhəyə erişiminə %2$d dəfə rədd cavabı verildi</item>
+        <item quantity="one">%1$s | Bu tətbiqin lövhəyə erişiminə %2$d dəfə rədd cavabı verildi</item>
     </plurals>
     <plurals name="permission_usage_deny_delete_pic">
         <item quantity="other">%1$s | Bu tətbiqin Qalereyadan fotoları silməsinə %2$d dəfə rədd cavabı verildi</item>
         <item quantity="one">%1$s | Bu tətbiqin Qalereyadan fotoları silməsinə %2$d dəfə rədd cavabı verildi</item>
     </plurals>
     <plurals name="permission_usage_deny_device_sensor">
-        <item quantity="other">%1$s | Bu tətbiqin cihaz hərəkətinə və istiqamətinə müraciətinə %2$d dəfə rədd cavabı verildi</item>
-        <item quantity="one">%1$s | Bu tətbiqin cihaz hərəkətinə və istiqamətinə müraciətinə %2$d dəfə rədd cavabı verildi</item>
+        <item quantity="other">%1$s | Bu tətbiqin cihaz hərəkətinə və istiqamətinə erişiminə %2$d dəfə rədd cavabı verildi</item>
+        <item quantity="one">%1$s | Bu tətbiqin cihaz hərəkətinə və istiqamətinə erişiminə %2$d dəfə rədd cavabı verildi</item>
     </plurals>
     <plurals name="permission_usage_deny_files">
-        <item quantity="other">%1$s | Bu tətbiqin fayllara və sənədlərə müraciətinə %2$d dəfə rədd cavabı verildi</item>
-        <item quantity="one">%1$s | Bu tətbiqin fayllara və sənədlərə müraciətinə %2$d dəfə rədd cavabı verildi</item>
+        <item quantity="other">%1$s | Bu tətbiqin fayllara və sənədlərə erişiminə %2$d dəfə rədd cavabı verildi</item>
+        <item quantity="one">%1$s | Bu tətbiqin fayllara və sənədlərə erişiminə %2$d dəfə rədd cavabı verildi</item>
     </plurals>
     <plurals name="permission_usage_deny_get_installed">
-        <item quantity="other">%1$s | Bu tətbiqin bu cihazda quraşdırılmış tətbiqlərin siyahısına müraciətinə %2$d dəfə rədd cavabı verildi</item>
-        <item quantity="one">%1$s | Bu tətbiqin bu cihazda quraşdırılmış tətbiqlərin siyahısına müraciətinə %2$d dəfə rədd cavabı verildi</item>
+        <item quantity="other">%1$s | Bu tətbiqin bu cihazda quraşdırılmış tətbiqlərin siyahısına erişiminə %2$d dəfə rədd cavabı verildi</item>
+        <item quantity="one">%1$s | Bu tətbiqin bu cihazda quraşdırılmış tətbiqlərin siyahısına erişiminə %2$d dəfə rədd cavabı verildi</item>
     </plurals>
     <plurals name="permission_usage_deny_get_number">
-        <item quantity="other">%1$s | Telefon məlumatlarına müraciətə %2$d dəfə rədd cavabı verildi</item>
-        <item quantity="one">%1$s | Telefon məlumatlarına müraciətə %2$d dəfə rədd cavabı verildi</item>
+        <item quantity="other">%1$s | Telefon məlumatlarına erişimə %2$d dəfə rədd cavabı verildi</item>
+        <item quantity="one">%1$s | Telefon məlumatlarına erişimə %2$d dəfə rədd cavabı verildi</item>
     </plurals>
     <plurals name="permission_usage_deny_get_sms">
         <item quantity="other">%1$s | Bu tətbiqin SMS oxumasına %2$d dəfə rədd cavabı verildi</item>
         <item quantity="one">%1$s | Bu tətbiqin SMS oxumasına %2$d dəfə rədd cavabı verildi</item>
     </plurals>
     <plurals name="permission_usage_deny_location">
-        <item quantity="other">%1$s | Bu tətbiqin yerləşmənizə müraciətinə %2$d dəfə rədd cavabı verildi</item>
-        <item quantity="one">%1$s | Bu tətbiqin yerləşmənizə müraciətinə %2$d dəfə rədd cavabı verildi</item>
+        <item quantity="other">%1$s | Bu tətbiqin yerləşmənizə erişiminə %2$d dəfə rədd cavabı verildi</item>
+        <item quantity="one">%1$s | Bu tətbiqin yerləşmənizə erişiminə %2$d dəfə rədd cavabı verildi</item>
     </plurals>
     <plurals name="permission_usage_deny_media_aural">
-        <item quantity="other">%1$s | Bu tətbiqin musiqi və səslərə müraciətinə %2$d dəfə rədd cavabı verildi</item>
-        <item quantity="one">%1$s | Bu tətbiqin musiqi və səslərə müraciətinə %2$d dəfə rədd cavabı verildi</item>
+        <item quantity="other">%1$s | Bu tətbiqin musiqi və səslərə erişiminə %2$d dəfə rədd cavabı verildi</item>
+        <item quantity="one">%1$s | Bu tətbiqin musiqi və səslərə erişiminə %2$d dəfə rədd cavabı verildi</item>
     </plurals>
     <plurals name="permission_usage_deny_media_visual">
-        <item quantity="other">%1$s | Bu tətbiqin foto və videolara müraciətinə %2$d dəfə rədd cavabı verildi</item>
-        <item quantity="one">%1$s | Bu tətbiqin foto və videolara müraciətinə %2$d dəfə rədd cavabı verildi</item>
+        <item quantity="other">%1$s | Bu tətbiqin foto və videolara erişiminə %2$d dəfə rədd cavabı verildi</item>
+        <item quantity="one">%1$s | Bu tətbiqin foto və videolara erişiminə %2$d dəfə rədd cavabı verildi</item>
     </plurals>
     <plurals name="permission_usage_deny_media_volume">
         <item quantity="other">%1$s | Bu tətbiqin media səs səviyyəsini ayarlamasına %2$d dəfə rədd cavabı verildi</item>
         <item quantity="one">%1$s | Bu tətbiqin media səs səviyyəsini ayarlamasına %2$d dəfə rədd cavabı verildi</item>
     </plurals>
     <plurals name="permission_usage_deny_mic">
-        <item quantity="other">%1$s | Bu tətbiqin mikrofona müraciətinə %2$d dəfə rədd cavabı verildi</item>
-        <item quantity="one">%1$s | Bu tətbiqin mikrofona müraciətinə %2$d dəfə rədd cavabı verildi</item>
+        <item quantity="other">%1$s | Bu tətbiqin mikrofona erişiminə %2$d dəfə rədd cavabı verildi</item>
+        <item quantity="one">%1$s | Bu tətbiqin mikrofona erişiminə %2$d dəfə rədd cavabı verildi</item>
     </plurals>
     <plurals name="permission_usage_deny_nearby_device">
-        <item quantity="other">%1$s | Bu tətbiqin yaxınlıqdakı cihazların siyahısına müraciətinə %2$d dəfə rədd cavabı verildi</item>
-        <item quantity="one">%1$s | Bu tətbiqin yaxınlıqdakı cihazların siyahısına müraciətinə %2$d dəfə rədd cavabı verildi</item>
+        <item quantity="other">%1$s | Bu tətbiqin yaxınlıqdakı cihazların siyahısına erişiminə %2$d dəfə rədd cavabı verildi</item>
+        <item quantity="one">%1$s | Bu tətbiqin yaxınlıqdakı cihazların siyahısına erişiminə %2$d dəfə rədd cavabı verildi</item>
     </plurals>
     <plurals name="permission_usage_deny_perm">
-        <item quantity="other">%1$s | Müraciətə %2$d dəfə rədd cavabı verildi</item>
-        <item quantity="one">%1$s | Müraciətə %2$d dəfə rədd cavabı verildi</item>
+        <item quantity="other">%1$s | Erişimə %2$d dəfə rədd cavabı verildi</item>
+        <item quantity="one">%1$s | Erişimə %2$d dəfə rədd cavabı verildi</item>
     </plurals>
     <plurals name="permission_usage_deny_phone_state">
-        <item quantity="other">"%1$s | Bu tətbiqin bu cihazın zəng statusuna müraciətinə %2$d dəfə rədd cavabı verildi"</item>
-        <item quantity="one">"%1$s | Bu tətbiqin bu cihazın zəng statusuna müraciətinə %2$d dəfə rədd cavabı verildi"</item>
+        <item quantity="other">"%1$s | Bu tətbiqin bu cihazın zəng statusuna erişiminə %2$d dəfə rədd cavabı verildi"</item>
+        <item quantity="one">"%1$s | Bu tətbiqin bu cihazın zəng statusuna erişiminə %2$d dəfə rədd cavabı verildi"</item>
     </plurals>
     <plurals name="permission_usage_deny_r_calendar">
-        <item quantity="other">%1$s | Bu tətbiqin təqvimə müraciətinə %2$d dəfə rədd cavabı verildi</item>
-        <item quantity="one">%1$s | Bu tətbiqin təqvimə müraciətinə %2$d dəfə rədd cavabı verildi</item>
+        <item quantity="other">%1$s | Bu tətbiqin təqvimə erişiminə %2$d dəfə rədd cavabı verildi</item>
+        <item quantity="one">%1$s | Bu tətbiqin təqvimə erişiminə %2$d dəfə rədd cavabı verildi</item>
     </plurals>
     <plurals name="permission_usage_deny_r_calllog">
-        <item quantity="other">%1$s | Bu tətbiqin zəng tarixçənizə müraciətinə %2$d dəfə rədd cavabı verildi</item>
-        <item quantity="one">%1$s | Bu tətbiqin zəng tarixçənizə müraciətinə %2$d dəfə rədd cavabı verildi</item>
+        <item quantity="other">%1$s | Bu tətbiqin zəng tarixçənizə erişiminə %2$d dəfə rədd cavabı verildi</item>
+        <item quantity="one">%1$s | Bu tətbiqin zəng tarixçənizə erişiminə %2$d dəfə rədd cavabı verildi</item>
     </plurals>
     <plurals name="permission_usage_deny_r_contacts">
-        <item quantity="other">%1$s | Bu tətbiqin kontaktlarınıza müraciətinə %2$d dəfə rədd cavabı verildi</item>
-        <item quantity="one">%1$s | Bu tətbiqin kontaktlarınıza müraciətinə %2$d dəfə rədd cavabı verildi</item>
+        <item quantity="other">%1$s | Bu tətbiqin kontaktlarınıza erişiminə %2$d dəfə rədd cavabı verildi</item>
+        <item quantity="one">%1$s | Bu tətbiqin kontaktlarınıza erişiminə %2$d dəfə rədd cavabı verildi</item>
     </plurals>
     <plurals name="permission_usage_deny_receive_sms">
         <item quantity="other">%1$s | Bu tətbiqin SMS almasına %2$d dəfə rədd cavabı verildi</item>
@@ -906,8 +926,8 @@
         <item quantity="one">%1$s | Bu tətbiqin SMS göndərməsinə %2$d dəfə rədd cavabı verildi</item>
     </plurals>
     <plurals name="permission_usage_deny_storage">
-        <item quantity="other">"%1$s｜Foto, video, səs və fayllara müraciət etməyə %2$d dəfə icazə verilmədi"</item>
-        <item quantity="one">"%1$s｜Foto, video, səs və fayllara müraciət etməyə %2$d dəfə icazə verilmədi"</item>
+        <item quantity="other">"%1$s｜Foto, video, səs və fayllarına erişməsinə %2$d dəfə icazə verilmədi"</item>
+        <item quantity="one">"%1$s｜Foto, video, səs və fayllarına erişməsinə %2$d dəfə icazə verilmədi"</item>
     </plurals>
     <plurals name="permission_usage_deny_w_calendar">
         <item quantity="other">%1$s | Bu tətbiqin təqvimə düzəliş etməsinə %2$d dəfə rədd cavabı verildi</item>
@@ -930,8 +950,8 @@
         <item quantity="one">%1$s | %2$d dəfə rədd cavabı verildi</item>
     </plurals>
     <plurals name="permission_usage_projection_screen">
-        <item quantity="other">%1$s｜%2$d dəfə ekran məzmununa müraciət və ya onu yazma</item>
-        <item quantity="one">%1$s｜%2$d dəfə ekran məzmununa müraciət və ya onu yazma</item>
+        <item quantity="other">%1$s｜%2$d dəfə ekran məzmununa erişim və ya onu yazma</item>
+        <item quantity="one">%1$s｜%2$d dəfə ekran məzmununa erişim və ya onu yazma</item>
     </plurals>
     <plurals name="permission_usage_recent_day">
         <item quantity="other">%1$d gün əvvəl</item>
@@ -942,8 +962,8 @@
         <item quantity="one">"%1$s | Bu tətbiq, bu cihazın kamerasını %2$d dəfə istifadə etdi"</item>
     </plurals>
     <plurals name="permission_usage_terminal_file">
-        <item quantity="other">%1$s | Bu cihazdakı fayllara %2$d dəfə müraciət edildi</item>
-        <item quantity="one">%1$s | Bu cihazdakı fayllara %2$d dəfə müraciət edildi</item>
+        <item quantity="other">%1$s | Bu cihazdakı fayllara %2$d dəfə erişildi</item>
+        <item quantity="one">%1$s | Bu cihazdakı fayllara %2$d dəfə erişildi</item>
     </plurals>
     <plurals name="permission_usage_terminal_screen">
         <item quantity="other">"%1$s | Bu tətbiq, bu cihazın ekranını %2$d dəfə istifadə etdi"</item>
@@ -1106,8 +1126,8 @@
         <item quantity="one">"%d tətbiq nişanı ikonu deyil"</item>
     </plurals>
     <plurals name="privacy_permission_summary">
-        <item quantity="other">%s tətbiq daim müraciət edir</item>
-        <item quantity="one">%s tətbiq daim müraciət edir</item>
+        <item quantity="other">%s tətbiq daim erişir</item>
+        <item quantity="one">%s tətbiq daim erişir</item>
     </plurals>
     <plurals name="privacy_permission_summary_allow">
         <item quantity="other">%s tətbiqə icazə verildi</item>
@@ -1274,8 +1294,8 @@
         <item quantity="one">Ekran %d dəqiqəlik kilidləndikdən sonra</item>
     </plurals>
     <plurals name="summary_flow_verify">
-        <item quantity="other">"Operatorun internet istifadəsi statistikaları %d gündür sinxronlaşdırılmayıb"</item>
-        <item quantity="one">"Operatorun internet istifadəsi statistikaları %d gündür sinxronlaşdırılmayıb"</item>
+        <item quantity="other">"Operatorun veri istifadəsi statistikaları %d gündür sinxronlaşdırılmayıb"</item>
+        <item quantity="one">"Operatorun veri istifadəsi statistikaları %d gündür sinxronlaşdırılmayıb"</item>
     </plurals>
     <plurals name="summary_result_absorbed_time_format">
         <item quantity="other">%d dəq</item>

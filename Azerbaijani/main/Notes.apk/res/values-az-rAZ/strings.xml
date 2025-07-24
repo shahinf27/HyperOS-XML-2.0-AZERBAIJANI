@@ -18,7 +18,7 @@
     <string name="abc_shareactionprovider_share_with_application">%s ilə paylaş</string>
     <string name="abc_toolbar_collapse_description">Yığcamlaşdır</string>
     <string name="access_denied_info">Həddən çox cəhd edildi. Bir və ya iki dəqiqə gözləyib yenidən sınayın.</string>
-    <string name="access_photos_and_videos">Foto və videolara müraciət</string>
+    <string name="access_photos_and_videos">Foto və videolara erişim</string>
     <string name="accessibility_sliding_button_state_description_off">Söndürüldü</string>
     <string name="accessibility_sliding_button_state_description_on">İşə salındı</string>
     <string name="accessibility_tab_state_description_unselect">Seçilmədi</string>
@@ -151,6 +151,8 @@
     <string name="audio_dialog_mode_meeting_recognize_fail">"Səs tanıma tamamlana bilmədi"</string>
     <string name="audio_dialog_mode_meeting_sum">İclas rejimi %1$d-%2$d fərqli insanın səsini tanımağa imkan verir. Beta versiyasında bəzi tanıma xətaları yaşana bilər.</string>
     <string name="audio_dialog_mode_meeting_use">Başla</string>
+    <string name="audio_pause_talkback">Fasilə ver</string>
+    <string name="audio_play_talkback">Oxut</string>
     <string name="audio_record_install_content">Səs yaza bilmək üçün Səsyazan tətbiqini quraşdırın. İndi quraşdırılsın?</string>
     <string name="audio_record_install_title">\"Səsyazan\"ı quraşdır</string>
     <string name="audio_record_upadte_content">Səs yaza bilmək üçün \"Səsyazan\"ı ən son versiyaya güncəlləyin. İndi güncəllənsin?</string>
@@ -159,6 +161,7 @@
     <string name="audio_reocrd_install_btn_positive">Quraşdır</string>
     <string name="audio_reocrd_update_btn_negative">İmtina</string>
     <string name="audio_reocrd_update_btn_positive">Güncəllə</string>
+    <string name="audio_stop_talkback">Dayandır</string>
     <string name="audio_toast_file_invalid">Səs faylı yararsızdır</string>
     <string name="audio_toast_file_undownload">"Səs faylı tam endirilməyib və ya əskikdir"</string>
     <string name="audio_toast_network_is_not_available">"Şəbəkəyə bağlana bilmədi"</string>
@@ -244,7 +247,7 @@
     <string name="cta_agree_desc">Bu tətbiqin internetə bağlanmasına və bütün özəllikləri istifadə edə bilməsi üçün ixtiyari icazələri verməsinə icazə ver.</string>
     <string name="cta_confirm_cancel">"İcazə vermə"</string>
     <string name="cta_confirm_ok">İcazə ver</string>
-    <string name="cta_dialog_message">\"Notlar\"ın normal işləməsi üçün internetə bağlanması, səs yazması və kontaktlarınıza müraciət etməsi üçün icazələrə ehtiyacı var. İcazə verilsin?</string>
+    <string name="cta_dialog_message">\"Notlar\"ın normal işləməsi üçün internetə bağlanması, səs yazması və kontaktlarınıza erişməsi üçün icazələrə ehtiyacı var. İcazə verilsin?</string>
     <string name="cta_dialog_title">İcazələr tələb olunur</string>
     <string name="cta_v2_agree_desc">Bu tətbiqin internetə bağlanmağına icazə verin və yuxarıda sadalanan məcburi icazələri verin.</string>
     <string name="cta_v2_app_purpose_v12">\"Notlar\"a xoş gəlmisiniz! Mətn, təsvir və səs ehtiva edən tapşırıqlar və notlar yaratmaq üçün bu tətbiqi istifadə edə bilərsiniz.</string>
@@ -260,11 +263,12 @@
     <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="date_time_picker_has_not_set_alarm">"Zəngli saat qurulmadı"</string>
     <string name="date_time_picker_has_set_alarm">Zəngli saat uğurla quruldu</string>
-    <string name="db_downgrade_clear_button">Tətbiq datasını təmizlə</string>
-    <string name="db_downgrade_clear_date_reminder">"Fərqli bir sistem versiyasına keçmək, Notlar üçün tətbiq datasının təmizlənməsini tələb edir. Bunu etməzdən əvvəl, notlarınızı buluda nüsxələdiyinizə əmin olun."</string>
+    <string name="db_downgrade_clear_button">Tətbiq verilərini təmizlə</string>
+    <string name="db_downgrade_clear_date_reminder">"Fərqli bir sistem versiyasına keçmək, Notlar üçün tətbiq verilərinin təmizlənməsini tələb edir. Bunu etməzdən əvvəl, notlarınızı buluda nüsxələdiyinizə əmin olun."</string>
     <string name="default_folder_name">Adsız qovluq</string>
     <string name="default_update_documents">Bir güncəlləmə mövcuddur. İndi güncəllənsin?</string>
     <string name="delete_folder_dialog_tile">Qovluğu sil</string>
+    <string name="delete_talkback">Sil, düymə</string>
     <string name="desc_paper_black_talkback">Qara</string>
     <string name="desc_paper_white_talkback">Ağ</string>
     <string name="desc_paper_yellow_talkback">Yumurta qabığı</string>
@@ -474,12 +478,15 @@
     <string name="menu_folders">Qovluqlar</string>
     <string name="menu_group">Qovluq yarat</string>
     <string name="menu_hide">Gizlət</string>
+    <string name="menu_hide_talkback">Şəxsi olaraq təyin et, düymə</string>
     <string name="menu_more_description">Daha çox</string>
     <string name="menu_move_parent_folder">Ana qovluq</string>
     <string name="menu_move_to">Daşı</string>
+    <string name="menu_move_to_talkback">Daşı, düymə</string>
     <string name="menu_new_display_open">Yeni pəncərədə aç</string>
     <string name="menu_new_folder">Yeni qovluq</string>
     <string name="menu_pc_open">Kompüter proqramında aç</string>
+    <string name="menu_pin_talkback">Ən üstə sanc, düymə</string>
     <string name="menu_restore">Bərpa et</string>
     <string name="menu_send_to_desktop">Əsas ekrana yerləşdir</string>
     <string name="menu_stick">Sanc</string>
@@ -653,10 +660,11 @@
     <string name="new_audio_create_talkback_des">Bir mətn notu yaratmaq üçün toxunun. Bir səsli not yaratmaq üçün basılı tutun. Səsyazmanı dayandırmaq üçün düyməni buraxın və yeni not yaradın, ləğv etmək üçün yuxarı sürüşdürün.</string>
     <string name="new_data_empty_note">Burada hələ heç bir element yoxdur</string>
     <string name="new_lite_audio_create_talkback_des">Bir not yaratmaq üçün toxunun</string>
-	<string name="new_notes_create_talkback_des">点击创建笔记</string>
+	<string name="new_notes_create_talkback_des">Bir not yaratmaq üçün toxunun</string>
     <string name="new_sync_desc_state_disable">Notlar, tapşırıqlar və daha çoxu üçün buludla sinxr.nı işə sal</string>
-	<string name="new_todo_create_talkback_des">点击创建待办</string>
+	<string name="new_todo_create_talkback_des">Bir tapşırıq yaratmaq üçün toxunun</string>
     <string name="night">Axşam</string>
+    <string name="no_export_multi_image">Çoxlu təsvirlərin paylaşılması dəstəklənmir</string>
     <string name="no_network">"Şəbəkəyə bağlana bilmir"</string>
     <string name="noon">Günorta</string>
     <string name="not_now">İndi yox</string>
@@ -738,7 +746,7 @@
     <string name="pc_note_trash_folder_remind">Bu not silinib. Düzəliş etmək üçün bərpa edin.</string>
     <string name="pc_todo_fast_create_hint">Bitməmiş bir tapşırıq əlavə etmək üçün mətn daxil edin və \"Enter\"ə basın</string>
     <string name="pc_todo_set_remind_time_hint">Vaxtı ayarla</string>
-    <string name="permdesc_accessNote">Zərərli tətbiqlər şəxsi məlumatlarınıza müraciət etmək üçün bunu istifadə edə bilər.</string>
+    <string name="permdesc_accessNote">Zərərli tətbiqlər şəxsi məlumatlarınıza erişmək üçün bunu istifadə edə bilər.</string>
     <string name="permission_ai_desc_n">&lt;Data&gt;Sizə Notes AI xidmətlərini təqdim etmək məqsədilə, Notes, icmal yaratmaq və mətni optimallaşdırmaq üçün daxil etdiyiniz mətnləri yığacaq. Davam etməzdən əvvəl &lt;a href=\"%1$s\"&gt;Gizlilik Siyasəti və Üçüncü Tərəf Dataların Paylaşılması Bəyanatı&lt;/a&gt; sənədimizi oxuyub qəbul edin.&lt;/Data&gt;</string>
     <string name="permission_ai_title">Notes AI xidmətləri</string>
     <string name="permission_data_shared_desc">Notlar üçün Üçüncü Tərəf Data Paylaşma Bəyanatı</string>
@@ -755,16 +763,16 @@
     <string name="permission_storage_desc_pad_new_v12">Notlara şəkillər əlavə etmək və notları şəkill olaraq saxlamaq üçün</string>
     <string name="permission_xiaoai_desc_n"><Data>Nitqdən mətnə xidmətlərini təmin etmək üçün Notlar tətbiqi, danışılan səs məzmununu və cihazınızın IMEI-sini yığmalıdır. Bu özəlliyi istifadə etməzdən əvvəl &lt;a href=\"%1$s\"&gt;Notes Üçüncü Tərəf Data Paylaşım Bəyanatını&lt;/a&gt; oxuyun və razılaşın. Həmçinin Mi AI &lt;a href=\"%2$s\"&gt;Gizlilik Siyasətini&lt;/a&gt; oxuyaraq əlaqəli özəlliklər haqqında daha çox öyrənə bilərsiniz.</Data></string>
     <string name="permission_xiaoai_title">Nitqdən mətnə</string>
-    <string name="permlab_accessNote">Notlara müraciət</string>
+    <string name="permlab_accessNote">Notlara erişim</string>
     <string name="pm">GS</string>
     <string name="polish_title">Cilalama</string>
     <string name="pref_category_title_quick_func">Cəld özəlliklər</string>
     <string name="pref_excerpt_link_float">Bir URL kopyalandıqda bir çıxarış yaratmaq üçün xatırlatma alın</string>
     <string name="pref_permission_allowed">İcazə verildi</string>
     <string name="pref_permission_manage">İcazə detalları</string>
-    <string name="pref_permission_manage_key_contact">Kontaktlara müraciət</string>
+    <string name="pref_permission_manage_key_contact">Kontaktlara erişim</string>
     <string name="pref_permission_manage_key_recording">Səs yaz</string>
-    <string name="pref_permission_manage_key_storage">Anbara müraciət</string>
+    <string name="pref_permission_manage_key_storage">Anbara erişim</string>
     <string name="pref_permission_not_allowed">İcazə verilmədi</string>
     <string name="pref_quick_note_desc">Notlar və tapşırıqlar yaratmaq, həmçinin kopyalanmış URL-ləri, mətnləri və təsvirləri Notlarda saxlamaq üçün ekranın kənarındakı qısayolu istifadə edin.</string>
     <string name="pref_remind_type_summary_new">Səssiz rejimi yox say və zəngli saat söndürülənə qədər səslənməyə davam etsin</string>
@@ -869,6 +877,7 @@
     <string name="side_sheet_accessibility_pane_title">Yan vərəq</string>
     <string name="single_link_excerpt_saving">Elementlər saxlanılır…</string>
     <string name="single_new_excerpt_title">Çıxarışlar</string>
+    <string name="slider_talkback">Diyircək</string>
     <string name="snippet_audio_stub">Səsli not</string>
     <string name="snippet_image_stub">Təsvir notu</string>
     <string name="snippet_image_template">[Təsvir %1$s]</string>
@@ -1001,10 +1010,10 @@
     <string name="toast_refuse_to_record_when_mic_in_use">"Mikrofon istifadə edilərkən səs yazıla bilmir"</string>
     <string name="toast_refuse_to_use_external_storage">"Anbar icazələri məhdudlaşdırılıb.
 \"Notlar\"ın SD kartınızın məzmununu oxumasına icazə verin."</string>
-    <string name="toast_refuse_to_use_photos_in_excerpt">Notlara şəkil əlavə edə bilmək üçün bu tətbiqin fotolarınıza müraciətinə icazə verin</string>
+    <string name="toast_refuse_to_use_photos_in_excerpt">Notlara şəkil əlavə edə bilmək üçün bu tətbiqin fotolarınıza erişiminə icazə verin</string>
     <string name="toast_refuse_to_use_record_audio">"Mikrofon icazəsi məhdudlaşdırılıb.
 Səs yazmaq üçün \"Notlar\"a icazə verin."</string>
-    <string name="toast_refuse_to_use_storage_in_excerpt">Notlarınıza şəkil əlavə edə bilmək üçün \"Notlar\"ın anbara müraciətinə icazə verin</string>
+    <string name="toast_refuse_to_use_storage_in_excerpt">Notlarınıza şəkil əlavə edə bilmək üçün \"Notlar\"ın anbara erişiminə icazə verin</string>
     <string name="today">Bu gün</string>
     <string name="todo_alert_title_delete">Tamamlanan tapşırıqları sil</string>
     <string name="todo_audio_default_content">"[Səsli tapşırıq] "</string>
@@ -1103,12 +1112,14 @@ Səs yazmaq üçün \"Notlar\"a icazə verin."</string>
     <string name="tuesday">Çərşənbə axşamı</string>
     <string name="tuesday_short">Ç.a.</string>
     <string name="tuesday_shortest">Ç.a.</string>
+    <string name="turn_on_the_recorder_talkback">Səsyazanı aç</string>
     <string name="unclassfied_folder_name">Kateqoriyalandırılmamış</string>
     <string name="undo">Geri al</string>
     <string name="unknown_error_info">Bilinməyən xəta</string>
     <string name="upgrade_remind">"Bu özəlliyi güncəlləyirik. İzləmədə qalın!"</string>
-    <string name="upload_summary">"Cihazdakı modellər, AI yazma özəlliklərini təqdim etmək üçün istifadə olunacaq və datalarınız buluda yüklənməyəcək"</string>
+    <string name="upload_summary">"Cihazdakı modellər, AI yazma özəlliklərini təqdim etmək üçün istifadə olunacaq və veriləriniz buluda yüklənməyəcək"</string>
     <string name="upload_title">Dataları yalnız daxildə emal edir</string>
+    <string name="user_agreement">İstifadəçi Razılaşması</string>
     <string name="v7_preference_off">BAĞLI</string>
     <string name="v7_preference_on">AÇIQ</string>
     <string name="view_all_notes">Hamısına bax</string>

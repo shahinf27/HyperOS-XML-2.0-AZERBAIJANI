@@ -32,6 +32,10 @@
         <item>Böyük</item>
         <item>Ekstra böyük</item>
     </string-array>
+    <string-array name="biometric_face_retry">
+        <item>Üz veriləri ilə yenidən sınayın</item>
+        <item>Barmaq izi və ya parol istifadə edin</item>
+    </string-array>
     <string-array name="cache_sort_type">
         <item>Ölçü</item>
         <item>Ad</item>
@@ -91,6 +95,11 @@
         <item>Açıq icazəniz olmadan cihazınızda tətbiq quraşdırmasına icazə veriləcək.</item>
         <item>"Ekran məzmununuzu uzaqdan izləyə və yaza biləcəksiniz."</item>
         <item>Cihazınız haqqında ətraflı məlumat əldə etmək mümkün olacaq.</item>
+    </string-array>
+    <string-array name="ew_emergency_gender_arrays">
+        <item>Təyin edilməyib</item>
+        <item>Kişi</item>
+        <item>Qadın</item>
     </string-array>
     <string-array name="ew_emergency_organ_donation_arrays">
         <item>Bəli</item>

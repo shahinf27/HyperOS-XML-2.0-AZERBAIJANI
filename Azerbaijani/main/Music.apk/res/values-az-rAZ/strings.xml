@@ -58,7 +58,7 @@
     <string name="action_settings">Ayarlar</string>
     <string name="actionbar_button_up_description">Geri</string>
     <string name="ad_close">Bağla</string>
-    <string name="ad_data_exception">Reklam məlumat xətası</string>
+    <string name="ad_data_exception">Reklam veri xətası</string>
     <string name="ad_flag_text">Reklam</string>
     <string name="ad_recommend">Reklamları göstər</string>
     <string name="ad_setting">Əlavə ayarlar</string>
@@ -74,6 +74,8 @@
     <string name="added_next_play">Növbəyə əlavə edildi</string>
     <string name="afternoon">Günortadan sonra</string>
     <string name="agreement_desc">İstifadəçi Razılaşması (məcburi)</string>
+    <string name="agreement_desc_new">"İstifadəçi Razılaşması
+(Məcburi)"</string>
     <string name="alaka_required">Bu mahnını dinləmək üçün ödəniş etməlisiniz</string>
     <string name="alarm_clock_album_modify_fail">"Dəyişdirilə bilmədi"</string>
     <string name="alarm_clock_audio_name">Səhər havası</string>
@@ -99,7 +101,7 @@
     <string name="already_download">Endirilir…</string>
     <string name="already_download_btn">Endirilir…</string>
     <string name="already_favorited">Artıq sevimlilərdədir</string>
-    <string name="always_use_metered">Həmişə mobil internet istifadə et</string>
+    <string name="always_use_metered">Həmişə mobil veri istifadə et</string>
     <string name="am">GƏ</string>
     <string name="app_closed_toast">Dinamik üzlər bağlıdır</string>
     <string name="app_description_content">"Musiqi, səs pleyeri ehtiva edən və səs fayllarını idarə etməyinizə imkan verən bir sistem tətbiqidir. Əsas ekran qısayolunu sildikdən sonra yenə də səs fayllarını oxutmağa davam edə biləcəksiniz."</string>
@@ -132,8 +134,8 @@
     <string name="apply_for_the_following_permissions">Bu tətbiq aşağıdakı icazələri tələb edir:</string>
     <string name="apply_permissions_greater_than_pie">Ayarlar &gt; Tətbiqlər &gt; İcazələr &gt; İcazələr &gt; Fayllar və media &gt; \"Musiqi\"də bu icazəni verə bilərsiniz.</string>
     <string name="apply_permissions_greater_than_tiramisu">Ayarlar &gt; Tətbiqlər &gt; İcazələr &gt; Musiqi və video/Fotolar və videolar &gt; \"Musiqi\"də bu icazəni verə bilərsiniz.</string>
-    <string name="apply_permissions_less_than_pie">Ayarlar &gt; Tətbiqlər &gt; İcazələr &gt; İcazələr &gt; Daxili anbardakı fayllara müraciət et və onları dəyişdir &gt; \"Musiqi\"də bu icazəni verə bilərsiniz.</string>
-    <string name="apply_permissions_tips_content">Bu tətbiqin cihazınızdakı musiqiləri kəşf etməsi üçün fayllara müraciət etməsinə icazə verin.</string>
+    <string name="apply_permissions_less_than_pie">Ayarlar &gt; Tətbiqlər &gt; İcazələr &gt; İcazələr &gt; Daxili anbardakı fayllara erişim və onları dəyişdirmə &gt; \"Musiqi\"də bu icazəni verə bilərsiniz.</string>
+    <string name="apply_permissions_tips_content">Bu tətbiqin cihazınızdakı musiqiləri kəşf etməsi üçün fayllara erişməsinə icazə verin.</string>
     <string name="artist">Sənətçilər</string>
     <string name="artist_area_all">Hamısı</string>
     <string name="artist_area_china">Çin</string>
@@ -150,7 +152,7 @@
     <string name="asm_account_exception">Sistem hesab xətası. Çıxış edib təkrar giriş edin.</string>
     <string name="asm_ad_free">Reklamsız</string>
     <string name="asm_album_not_available">albom əlçatmazdır</string>
-	<string name="asm_album_not_available_toast">"Albomlara müraciət edilə bilmədi"</string>
+	<string name="asm_album_not_available_toast">"Albomlara erişilə bilmədi"</string>
 	<string name="asm_artist_message">Sənətçi məlumatı</string>
     <string name="asm_auth_failed_try_again_toast">"Kimlik doğrulama başladıla bilmədi. Bir və ya iki dəqiqə gözləyib yenidən sınayın."</string>
     <string name="asm_auth_incomplete_toast">Davam etmək üçün kimlik doğrulamanı tamamlayın</string>
@@ -159,16 +161,16 @@
     <string name="asm_check_video_playing">"Video oxudulur. Element pleylistə əlavə edilə bilmir."</string>
     <string name="asm_congratulations">Təbriklər!</string>
     <string name="asm_delete_all">Təmizlə</string>
-    <string name="asm_delete_all_data">Bütün datanı təmizlə</string>
-    <string name="asm_delete_all_data_failed">"Data təmizlənə bilmədi. Yenidən sınayın."</string>
+    <string name="asm_delete_all_data">Bütün veriləri təmizlə</string>
+    <string name="asm_delete_all_data_failed">"Verilər təmizlənə bilmədi. Yenidən sınayın."</string>
     <string name="asm_delete_all_data_loading">Bir saniyə…</string>
-    <string name="asm_delete_all_data_no_net">Kimliyinizi doğrulamaq və datanı təmizləmək üçün şəbəkə bağlantısı tələb olunur. Şəbəkəyə bağlanıb yenidən sınayın.</string>
-    <string name="asm_delete_all_data_success">Data uğurla təmizləndi</string>
-    <string name="asm_delete_all_data_tips">"Davam etsəniz, mahnılar, pleylistlər və gəzinmə tarixçəsi daxil olmaqla bütün tətbiq datasını təmizləyəcəksiniz.
+    <string name="asm_delete_all_data_no_net">Kimliyinizi doğrulamaq və veriləri təmizləmək üçün şəbəkə bağlantısı tələb olunur. Şəbəkəyə bağlanıb yenidən sınayın.</string>
+    <string name="asm_delete_all_data_success">Verilər uğurla təmizləndi</string>
+    <string name="asm_delete_all_data_tips">"Davam etsəniz, mahnılar, pleylistlər və gəzinmə tarixçəsi daxil olmaqla bütün tətbiq verilərini təmizləyəcəksiniz.
 Bütün üzvlük üstünlükləri və ödənişli mahnılar təmizlənəcək. Mövcud üzvlüyünüz üçün geri ödəniş edilməyəcək, ancaq sizdən təkrar xidmət haqqı tutulmayacaq.
-Bütün datanı birdəfəlik təmizləməyi seçdikdən sonra tətbiqdən çıxış edəcəksiniz. İndi bütün data təmizlənsin?"</string>
-    <string name="asm_delete_data">Datanı təmizlə</string>
-    <string name="asm_delete_data_local_and_online">Oflayn və yayım xidməti datasını təmizlə</string>
+Bütün veriləri birdəfəlik təmizləməyi seçdikdən sonra tətbiqdən çıxış edəcəksiniz. İndi bütün verilər təmizlənsin?"</string>
+    <string name="asm_delete_data">Veriləri təmizlə</string>
+    <string name="asm_delete_data_local_and_online">Oflayn və yayım xidməti verilərini təmizlə</string>
     <string name="asm_dialog_talk_one">"Nə var nə yox?"</string>
     <string name="asm_dialog_talk_three">"Başlamağınız üçün %d aylıq ödənişsiz sınaq buradadır"</string>
     <string name="asm_dialog_talk_two">"Birlikdə yeni musiqiləri kəşf edək!"</string>
@@ -191,17 +193,17 @@ Bütün datanı birdəfəlik təmizləməyi seçdikdən sonra tətbiqdən çıx�
     <string name="asm_download_is_downloaded_hq">HQ olaraq endirildi</string>
     <string name="asm_download_is_downloading">Endirilir…</string>
     <string name="asm_download_list_not_supported">"Bu siyahıdakı bəzi mahnılar endirilə bilmir"</string>
-    <string name="asm_download_mobile_net_dialog_content">"Wi-Fi-a bağlanmamısınız. Mobil internetlə endirirsiniz?"</string>
+    <string name="asm_download_mobile_net_dialog_content">"Wi-Fi-a bağlanmamısınız. Mobil veri ilə endirirsiniz?"</string>
     <string name="asm_download_mobile_net_dialog_title">İnternet istifadəsi xatırlatması</string>
     <string name="asm_download_paused">Fasilə verildi. Davam etdirmək üçün toxunun.</string>
     <string name="asm_download_pending_status_msg">Endirməyə hazırlanır…</string>
     <string name="asm_download_queue_waiting">Gözləyir</string>
-    <string name="asm_download_setting_mobile">Mobil internetlə endirmələrə icazə ver</string>
-    <string name="asm_download_setting_mobile_open_tips">Cihazınız Wi-Fi-a bağlanmadıqda mobil internetlə elementləri endirməsinə icazə ver</string>
+    <string name="asm_download_setting_mobile">Mobil veri ilə endirmələrə icazə ver</string>
+    <string name="asm_download_setting_mobile_open_tips">Cihazınız Wi-Fi-a bağlanmadıqda mobil veri ilə elementləri endirməsinə icazə ver</string>
     <string name="asm_download_storage_not_enough">Cihazda yetərsiz anbar sahəsi</string>
     <string name="asm_download_success">\"%1$s\" endirildi</string>
     <string name="asm_download_title">Endirilənləri idarə et</string>
-    <string name="asm_dp_load_error">"Data yüklənə bilmədi"</string>
+    <string name="asm_dp_load_error">"Veri yüklənə bilmədi"</string>
     <string name="asm_dp_load_unsupport">"Bu element bölgənizdə əlçatmazdır"</string>
     <string name="asm_during_the_payment">Ödəniş statusu yoxlanılır…</string>
     <string name="asm_euro_try_one_month">Bir ay ödənişsiz sına</string>
@@ -228,7 +230,7 @@ Bütün datanı birdəfəlik təmizləməyi seçdikdən sonra tətbiqdən çıx�
     <string name="asm_hate_ads">Reklamsız, ilk ay ödənişsiz</string>
     <string name="asm_hq">Yüksək keyfiyyət</string>
     <string name="asm_item_not_available">element əlçatmazdır</string>
-	<string name="asm_item_not_available_toast">"Data alına bilmədi"</string>
+	<string name="asm_item_not_available_toast">"Veri alına bilmədi"</string>
 	<string name="asm_joox_song_expired_toast">"Müəllif hüququ məsələlərinə görə endirilə bilmir"</string>
     <string name="asm_loadstate_error_retry">İnternetə bağlanın və yenidən sınamaq üçün toxunun</string>
     <string name="asm_loadstate_not_more">"İndilik bu qədər"</string>
@@ -251,7 +253,7 @@ Bütün datanı birdəfəlik təmizləməyi seçdikdən sonra tətbiqdən çıx�
     <string name="asm_no_network">"Şəbəkəyə bağlana bilmədi"</string>
     <string name="asm_no_vip">vip olmayan istifadəçilər</string>
     <string name="asm_not_action_is_local_music">"Bu əməliyyat daxili fayllarda icra edilə bilmir"</string>
-    <string name="asm_notify_use_mobile_download">Mobil internetlə endirilir</string>
+    <string name="asm_notify_use_mobile_download">Mobil veri ilə endirilir</string>
     <string name="asm_online_service_switch">Tətbiq ayarlarında onlayn xidmətləri işə sal</string>
     <string name="asm_page_empty_search">"Nəticələr tapıla bilmədi"</string>
     <string name="asm_page_error_airplane">Bağlantı qura bilmək üçün Təyyarə rejimini söndürün</string>
@@ -291,10 +293,10 @@ Bütün datanı birdəfəlik təmizləməyi seçdikdən sonra tətbiqdən çıx�
     <string name="asm_quality_hi_res_96">24-Bit Hi-Res / 96 kHz-ə qədər</string>
     <string name="asm_quality_hi_res_dialog_message">"Hi-Res faylların həcmi çox olur və cihazınızda çox yer tutur. Bütün cihazlar Hi-Res fayllarla uyumlu deyil. Səs itkisi və ya təhriki o deməkdir ki, cihazınız uyumlu deyil və yenidən CD və ya MP3 keyfiyyətinə qayıtmalı olacaqsınız. Davam edilsin?"</string>
     <string name="asm_quality_hi_res_dialog_title">Hi-Res fayllar barədə</string>
-    <string name="asm_quality_label_mobile">Mobil internet</string>
-    <string name="asm_quality_subscription">"Abunəlik: Qobuz kataloquna yayım müraciəti yoxdur.
+    <string name="asm_quality_label_mobile">mobil veri</string>
+    <string name="asm_quality_subscription">"Abunəlik: Qobuz kataloquna yayım erişimi yoxdur.
 Satın alma: CD keyfiyyətinə qədər (16-bit/44.1 kHz, satın aldığınız keyfiyyətdən asılı olaraq) yayım edə bilərsiniz.
-Mobil internet üzərindən musiqi yayımı etsəniz, şəbəkəniz xidmət haqqı tuta bilər."</string>
+Mobil veri üzərindən musiqi yayımı etsəniz, şəbəkəniz xidmət haqqı tuta bilər."</string>
     <string name="asm_quality_title">Seçdiyiniz səs keyfiyyəti, oxudacağınız növbəti mahnıya tətbiq olunacaq</string>
 	<string name="asm_region_change_button_continue">Davam et</string>
     <string name="asm_region_change_button_switch">Dəyişdir</string>
@@ -308,6 +310,7 @@ Mobil internet üzərindən musiqi yayımı etsəniz, şəbəkəniz xidmət haqq
     <string name="asm_region_gb">Birləşmiş Krallıq</string>
     <string name="asm_region_it">İtaliya</string>
     <string name="asm_region_pl">Polşa</string>
+    <string name="asm_search_hot_title">Məşhur</string>
     <string name="asm_search_result_contain_music">Daxildir: \"%1$s\"</string>
     <string name="asm_service_connecting_toast">Xidmət yüklənir. Daha sonra yenidən sınayın.</string>
     <string name="asm_service_exception_toast">Xidmət xətası. Daha sonra yenidən sınayın.</string>
@@ -324,7 +327,7 @@ Mobil internet üzərindən musiqi yayımı etsəniz, şəbəkəniz xidmət haqq
     <string name="asm_songlist_all_genre_close">Hamısını yığcamlaşdır</string>
     <string name="asm_songlist_all_genre_title">Bütün kateqoriyalar</string>
     <string name="asm_songlist_not_available">mahnı siyahısı əlçatmazdır</string>
-	<string name="asm_songlist_not_available_toast">"Pleylistlərə müraciət edilə bilmədi"</string>
+	<string name="asm_songlist_not_available_toast">"Pleylistlərə erişilə bilmədi"</string>
     <string name="asm_songs_is_downloading">Mahnı endirilir…</string>
     <string name="asm_stop_action_when_no_network">Şəbəkəyə bağlanıb yenidən sınayın</string>
     <string name="asm_subscribe_now">Başlayaq</string>
@@ -395,13 +398,13 @@ Mobil internet üzərindən musiqi yayımı etsəniz, şəbəkəniz xidmət haqq
     <string name="auto_recommend">Avto (tövsiyə edilən)</string>
     <string name="auto_sound_quality">Avto</string>
     <string name="auto_update">Avto-güncəlləmə</string>
-    <string name="auto_update_tip">Mobil internet istifadə edərək sistem tətbiqlərini güncəlləyə bilərsiniz. Bu əlavə ödənişlər yarada bilər.</string>
+    <string name="auto_update_tip">Mobil veri istifadə edərək sistem tətbiqlərini güncəlləyə bilərsiniz. Bu əlavə ödənişlər yarada bilər.</string>
     <string name="autoplay_is_off">Avto-oxutma bağlıdır</string>
     <string name="autoplay_is_on">Avto-oxutma açıqdır</string>
     <string name="available_playlist_name_format">Yeni pleylist %d</string>
     <string name="avatar">Profil fotosu</string>
     <string name="avoid_to_use_traffic_summary">"Musiqi axını üçün mobil şəbəkələri istifadə etmə"</string>
-    <string name="avoid_to_use_traffic_title">Mahnıları oxutmaq üçün mobil internet istifadə etdikdə soruş</string>
+    <string name="avoid_to_use_traffic_title">Mahnıları oxutmaq üçün mobil veri istifadə etdikdə soruş</string>
     <string name="back">Geri</string>
     <string name="back_confirm">Çıxmaq üçün yenidən toxunun</string>
     <string name="banner_op">Mi Musiqi</string>
@@ -422,6 +425,13 @@ Mobil internet üzərindən musiqi yayımı etsəniz, şəbəkəniz xidmət haqq
     <string name="button_sort_by_size">Ölçüyə görə sırala</string>
     <string name="button_wait_for_wifi">Gözləyin</string>
     <string name="buy_vip_skip_ad">Reklamları sil</string>
+    <string name="call_notification_answer_action">Cavabla</string>
+    <string name="call_notification_answer_video_action">Görüntülü</string>
+    <string name="call_notification_decline_action">Rədd et</string>
+    <string name="call_notification_hang_up_action">Dəstəyi as</string>
+    <string name="call_notification_incoming_text">Gələn zəng</string>
+    <string name="call_notification_ongoing_text">Davam edən zəng</string>
+    <string name="call_notification_screening_text">Gələn zəngin göstərilməsi</string>
     <string name="camera_filter">Kamera filtri</string>
     <string name="camera_filter_balance">Filtr balansı</string>
     <string name="camera_filter_blur">Bulanıqlıq</string>
@@ -451,7 +461,46 @@ Mobil internet üzərindən musiqi yayımı etsəniz, şəbəkəniz xidmət haqq
     <string name="click_to_shuffle">Qarışdırmaq üçün toxunun</string>
     <string name="close">Bağla</string>
     <string name="close_music_time">"Qalan vaxt: "</string>
+    <string name="columbus_ad_choices_advertiser_info">Reklamçı məlumatı</string>
+    <string name="columbus_ad_choices_close">Bağla</string>
+    <string name="columbus_ad_choices_copy_token">Tokeni kopyala (%s)</string>
+    <string name="columbus_ad_choices_privacy_policy">Gizlilik Siyasəti</string>
     <string name="columbus_ad_flag_text">Reklam</string>
+    <string name="columbus_ad_layout_swipe_to_detail_link">Detallara baxmaq üçün sola sürüşdür</string>
+    <string name="columbus_exo_controls_cc_disabled_description">Altyazıları aç</string>
+    <string name="columbus_exo_controls_cc_enabled_description">Altyazıları bağla</string>
+    <string name="columbus_exo_controls_fastforward_description">İrəli çək</string>
+    <string name="columbus_exo_controls_fullscreen_enter_description">Tam ekrana keç</string>
+    <string name="columbus_exo_controls_fullscreen_exit_description">Tam ekrandan çıx</string>
+    <string name="columbus_exo_controls_hide">Pleyer kontrollarını gizlət</string>
+    <string name="columbus_exo_controls_next_description">Növbəti</string>
+    <string name="columbus_exo_controls_overflow_hide_description">Əlavə ayarları gizlət</string>
+    <string name="columbus_exo_controls_overflow_show_description">Əlavə ayarları göstər</string>
+    <string name="columbus_exo_controls_pause_description">Fasilə ver</string>
+    <string name="columbus_exo_controls_play_description">Oxut</string>
+    <string name="columbus_exo_controls_playback_speed">Sürət</string>
+    <string name="columbus_exo_controls_previous_description">Əvvəlki</string>
+    <string name="columbus_exo_controls_repeat_all_description">Hazırkı rejim: Hamısını təkrarla. Təkrarlama rejimini dəyişdir.</string>
+    <string name="columbus_exo_controls_repeat_off_description">Hazırkı rejim: Heç birini təkrarlama. Təkrarlama rejimini dəyişdir.</string>
+    <string name="columbus_exo_controls_repeat_one_description">Hazırkı rejim: Birini təkrarla. Təkrarlama rejimini dəyişdir.</string>
+    <string name="columbus_exo_controls_rewind_description">Geri çək</string>
+    <string name="columbus_exo_controls_seek_bar_description">Oxutma irəliləyişi</string>
+    <string name="columbus_exo_controls_settings_description">Ayarlar</string>
+    <string name="columbus_exo_controls_show">Pleyer kontrollarını göstər</string>
+    <string name="columbus_exo_controls_shuffle_off_description">Qarışdırma rejimini fəallaşdır</string>
+    <string name="columbus_exo_controls_shuffle_on_description">Qarışdırma rejimini sıradan çıxart</string>
+    <string name="columbus_exo_controls_stop_description">Dayandır</string>
+    <string name="columbus_exo_controls_time_placeholder">00:00:00</string>
+    <string name="columbus_exo_controls_vr_description">VR rejimi</string>
+    <string name="columbus_exo_track_role_alternate">Alternativ</string>
+    <string name="columbus_exo_track_role_closed_captions">Altyazılar</string>
+    <string name="columbus_exo_track_role_commentary">Rəy</string>
+    <string name="columbus_exo_track_role_supplementary">Əlavə</string>
+    <string name="columbus_exo_track_selection_auto">Avto</string>
+    <string name="columbus_exo_track_selection_none">Yoxdur</string>
+    <string name="columbus_exo_track_selection_title_audio">Səs</string>
+    <string name="columbus_exo_track_unknown">Bilinmir</string>
+    <string name="columbus_exo_track_unknown_name">Bilinmir (%1$s)</string>
     <string name="columbus_player_close_desc">Mükafatınızı itirəcəksiniz</string>
     <string name="columbus_player_close_resume">VİDEONU DAVAM ETDİR</string>
     <string name="columbus_player_close_title">Video bağlanılsın?</string>
@@ -473,7 +522,7 @@ Mobil internet üzərindən musiqi yayımı etsəniz, şəbəkəniz xidmət haqq
     <string name="common_google_play_services_install_button">Quraşdır</string>
     <string name="common_google_play_services_install_text">"%1$s, cihazınızda əskik olan Google Play xidmətləri olmadan işləmir."</string>
     <string name="common_google_play_services_install_title">Google Play xidmətlərini əldə et</string>
-    <string name="common_google_play_services_notification_channel_name">Google Play xidmətlərinin əlçatımlılığı</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play xidmətlərinin mövcudluğu</string>
     <string name="common_google_play_services_notification_ticker">Google Play xidmətləri xətası</string>
     <string name="common_google_play_services_unknown_issue">%1$s, Google Play xidmətləri ilə problem yaşayır. Lütfən yenidən sınayın.</string>
     <string name="common_google_play_services_unsupported_text">"%1$s, cihazınız tərəfindən dəstəklənməyən Google Play xidmətləri olmadan işləmir."</string>
@@ -504,8 +553,8 @@ Mobil internet üzərindən musiqi yayımı etsəniz, şəbəkəniz xidmət haqq
     <string name="daily_recommend_desc">Sizin üçün xüsusi seçilmiş gündəlik tövsiyələr</string>
     <string name="daily_recommendation">Gündəlik qarışıq</string>
     <string name="dark_mode">Qaranlıq rejim</string>
-    <string name="data_usage_warning">İnternet istifadəsi</string>
-    <string name="data_usage_warning_summary">Yüksək keyfiyyətli musiqi axını üçün mobil interneti istifadə etmək, internet istifadə xərclərinizi artıra bilər.</string>
+    <string name="data_usage_warning">Veri istifadəsi</string>
+    <string name="data_usage_warning_summary">Yüksək keyfiyyətli musiqi axını üçün mobil veri istifadə etmək, veri istifadə xərclərinizi artıra bilər.</string>
     <string name="data_use_desc">Hüquqi sənədlər</string>
     <string name="date_format_str">dd-MM-yyyy</string>
     <string name="date_picker_label_day"></string>
@@ -515,8 +564,8 @@ Mobil internet üzərindən musiqi yayımı etsəniz, şəbəkəniz xidmət haqq
     <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="default_localization_key">sistem</string>
     <string name="delete">Sil</string>
-    <string name="delete_all_data_tips">"Əgər davam etsəniz, yaratdığınız elementlər, sevimlilərə əlavə etdiyiniz elementlər, pleylistlər və gəzinmə tarixçəsi daxil olmaqla bütün datanızı təmizləyəcəksiniz.
-Dataları təmizlədikdən sonra tətbiqdən çıxış ediləcək. Bu datalar həmişəlik təmizlənir və bərpa edilə bilməz. Datalar indi təmizlənsin?"</string>
+    <string name="delete_all_data_tips">"Əgər davam etsəniz, yaratdığınız elementlər, sevimlilərə əlavə etdiyiniz elementlər, pleylistlər və gəzinmə tarixçəsi daxil olmaqla bütün verilərinizi təmizləyəcəksiniz.
+Veriləri təmizlədikdən sonra tətbiqdən çıxış ediləcək. Bu verilər həmişəlik təmizlənir və bərpa edilə bilməz. Verilər indi təmizlənsin?"</string>
     <string name="delete_download">Sil</string>
     <string name="delete_file_as_well">Bu mahnını həmişəlik sil</string>
     <string name="delete_file_end">Həmişəlik sil</string>
@@ -640,19 +689,19 @@ Dataları təmizlədikdən sonra tətbiqdən çıxış ediləcək. Bu datalar h�
     <string name="download_success">Tamamlandı</string>
     <string name="download_title_sorted_by_date">Endirilənlər - Tarixə görə sıralanıb</string>
     <string name="download_title_sorted_by_size">Endirilənlər - Ölçüyə görə sıralanıb</string>
-    <string name="download_toast">Mahnı endirmək üçün mobil internet istifadə edilir</string>
-    <string name="download_toast_with_beyond_data">Mahnı endirmək üçün mobil internet istifadə edilir. Limit %s aşıldı</string>
-    <string name="download_toast_with_data">Mahnı endirmək üçün mobil internet istifadə edilir, %s qaldı</string>
-    <string name="download_traffic_dialog_msg">%s mobil internetiniz qaldı. Mahnı endirmək üçün mobil internet istifadə edilsin?</string>
-    <string name="download_traffic_dialog_msg_beyond">"Mobil internet limitinizi artıq %s aşdınız. Mahnıları endirmək üçün mobil internet istifadə edilsin?"</string>
-    <string name="download_traffic_dialog_msg_serious">Yalnız %s mobil internetiniz qaldı. Mahnı endirmək üçün mobil internet istifadə edilsin?</string>
-    <string name="download_traffic_dialog_msg_without_data">"Mahnı endirmək üçün mobil internet istifadə edirsiniz. Yenə də endirilsin?"</string>
+    <string name="download_toast">Mahnı endirmək üçün mobil veri istifadə edilir</string>
+    <string name="download_toast_with_beyond_data">Mahnı endirmək üçün mobil veri istifadə edilir. Limit %s aşıldı</string>
+    <string name="download_toast_with_data">Mahnı endirmək üçün mobil veri istifadə edilir, %s qaldı</string>
+    <string name="download_traffic_dialog_msg">%s mobil veriniz qaldı. Mahnı endirmək üçün mobil veri istifadə edilsin?</string>
+    <string name="download_traffic_dialog_msg_beyond">"Mobil veri limitinizi artıq %s aşdınız. Mahnıları endirmək üçün mobil veri istifadə edilsin?"</string>
+    <string name="download_traffic_dialog_msg_serious">Yalnız %s mobil veriniz qaldı. Mahnı endirmək üçün mobil veri istifadə edilsin?</string>
+    <string name="download_traffic_dialog_msg_without_data">"Mahnı endirmək üçün mobil veri istifadə edirsiniz. Yenə də endirilsin?"</string>
     <string name="download_traffic_dialog_negative_button">Wi-Fi-ı gözləyin</string>
     <string name="download_traffic_dialog_position_button">Endir</string>
     <string name="download_traffic_dialog_position_button_serious">Hələ də endir</string>
     <string name="download_traffic_dialog_title">İnternet istifadə xəbərdarlığı</string>
     <string name="download_traffic_dialog_title_beyond">İnternet istifadəsi aşıldı</string>
-    <string name="download_traffic_dialog_title_serious">Çox az mobil internet qaldı</string>
+    <string name="download_traffic_dialog_title_serious">Çox az mobil veri qaldı</string>
     <string name="download_wait_connect">Bağlantı gözlənilir</string>
     <string name="download_while_playing_no_vip_summary">Onlayn dinlədiyiniz mahnıları avtomatik endirin (ödənişli məzmun istisna)</string>
     <string name="download_while_playing_summary">Onlayn dinlədiyiniz mahnıları avtomatik endir</string>
@@ -750,7 +799,7 @@ Dataları təmizlədikdən sonra tətbiqdən çıxış ediləcək. Bu datalar h�
     <string name="facebook_not_installed">Əvvəlcə Facebook-u quraşdırın.</string>
     <string name="fail_to_fetch_payment_page_url">"Ödəniş məlumatları alına bilmədi"</string>
     <string name="fail_to_play">"Mahnı oxudula bilmir"</string>
-    <string name="failed_not_access_sd_card">Əvvəlcə SD karta müraciətə icazə verin</string>
+    <string name="failed_not_access_sd_card">Əvvəlcə SD karta erişimə icazə verin</string>
     <string name="failed_obtain_permissions">"İcazələr alına bilmədi"</string>
     <string name="failed_to_connect_hint">Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın</string>
     <string name="failed_to_connect_text">"Şəbəkəyə bağlana bilmədi"</string>
@@ -782,7 +831,7 @@ Dataları təmizlədikdən sonra tətbiqdən çıxış ediləcək. Bu datalar h�
     <string name="feed_back_tabd_desc">\"Baxılanlar\" vərəqi daha əvvəl görünüb daha sonra yoxa çıxıbsa, şəbəkəyə bağlanıb tətbiqi yenidən başladın.</string>
     <string name="feed_back_title">TVS və əks-əlaqə</string>
     <string name="feedback_send_email_body_extra_info">Aşağıdakı məlumatı silməyin. Bu bizə problemi tapmağımıza kömək edəcək.</string>
-    <string name="file_and_media_permissions_for_display">Fayllara müraciət: yerli faylları skan etmək, göstərmək və oxutmaq üçün</string>
+    <string name="file_and_media_permissions_for_display">Fayllara erişim: yerli faylları skan etmək, göstərmək və oxutmaq üçün</string>
     <string name="file_not_found">"Fayl mövcud deyil"</string>
     <string name="filter_blur">Bulanıq</string>
     <string name="filter_by_MP4">Qovluqları MP4 faylları ilə göstər</string>
@@ -868,6 +917,7 @@ Dataları təmizlədikdən sonra tətbiqdən çıxış ediləcək. Bu datalar h�
     <string name="high_sound_quality">Yüksək</string>
     <string name="higher_quality_music">Yüksək keyfiyyətli səs</string>
     <string name="higher_quality_music_summary">Daha yüksək bit tezlikli faylları dinlə və endir</string>
+    <string name="hint_search_songs_artists">Mahnıları və sənətçiləri axtar</string>
     <string name="hint_search_songs_playlists_artists">Mahnıları, pleylistləri və sənətçiləri axtar</string>
     <string name="home_tab_home">Ev</string>
     <string name="home_tab_joox">JOOX Musiqi</string>
@@ -890,7 +940,7 @@ Dataları təmizlədikdən sonra tətbiqdən çıxış ediləcək. Bu datalar h�
     <string name="hungama_free_download_out_summary_toast">"Artıq %d mahnı endirmisiniz. Daha çox endirmək üçün abunə olun."</string>
     <string name="hungama_playlist_category">Pleylist kateqoriyası</string>
     <string name="hungama_privacy_desc">hungama Gizlilik Siyasəti (ixtiyari)</string>
-    <string name="hungama_privacy_tips_content">Onlayn məzmuna müraciət əldə etmək üçün <a href="/link/click">hungama Gizlilik Siyasəti</a> ilə razılaşmalısınız.</string>
+    <string name="hungama_privacy_tips_content">Onlayn məzmuna erişmək üçün <a href="/link/click">hungama Gizlilik Siyasəti</a> ilə razılaşmalısınız.</string>
     <string name="hungama_privacy_tips_title">hungama Gizlilik Siyasəti</string>
     <string name="hungama_subscribe_message">Yüksək keyfiyyətdə musiqi endirmək üçün bir Gold üzvlük satın alın.</string>
     <string name="hungama_subscribe_positive_button">Gold üzvlük satın al</string>
@@ -949,7 +999,7 @@ Dataları təmizlədikdən sonra tətbiqdən çıxış ediləcək. Bu datalar h�
     <string name="joox_auth_dialog_message">"Sizə bir neçə mahnı tövsiyə edirik. Məhdudiyyətləri götürmək üçün VIP üzvlük əldə edin."</string>
     <string name="joox_auth_message_connect_network">"Bir müddətdir ki, serverə bağlanmadınız. Endirilən mahnıları oxuda bilmək üçün şəbəkəyə bağlanın."</string>
     <string name="joox_auth_message_content_for_vip_only">Bu element, yalnız VIP üzvlərə əlçatandır</string>
-    <string name="joox_auth_message_content_offline">"Onlayn xidmətlər artıq əlçatan deyil. Bir neçə şeyi yaxşılaşdırıb müraciəti tezliklə açacağıq. İzləmədə qalın!"</string>
+    <string name="joox_auth_message_content_offline">"Onlayn xidmətlər artıq əlçatan deyil. Bir neçə şeyi yaxşılaşdırıb erişimi tezliklə açacağıq. İzləmədə qalın!"</string>
     <string name="joox_auth_message_login_status_expired">Giriş seansının müddəti bitdi. Yenidən daxil olun.</string>
     <string name="joox_auth_message_one_hour_limit_for_one_company">Hər saat eyni səsyazma şirkətindən ən çox altı mahnı oxuda bilərsiniz. Hələlik bəzi tövsiyə olunan mahnıları dinləyin.</string>
     <string name="joox_auth_message_recommend_for_you">Tövsiyə edilən</string>
@@ -992,6 +1042,7 @@ Dataları təmizlədikdən sonra tətbiqdən çıxış ediləcək. Bu datalar h�
     <string name="jump_to_ytb_dialog_title">Mi Musiqi tərk edilir</string>
     <string name="just_hit_next">Sadəcə sonrakına basın</string>
     <string name="keep_queued_download">Saxla</string>
+    <string name="korean_noeu_service_provider_note">Bu tətbiqi musiqiləri onlayn dinləmək, daxili səs fayllarını idarə etmək və oxutmaq üçün istifadə edə bilərsiniz. Bu tətbiqin normal işləməsi üçün daxili səs fayllarına erişməsi və internetə bağlanması lazımdır.</string>
     <string name="ktv_playlist">KTV pleylist</string>
     <string name="label">Etiket</string>
     <string name="language_page_confirm">Təsdiqlə</string>
@@ -1030,7 +1081,7 @@ Dataları təmizlədikdən sonra tətbiqdən çıxış ediləcək. Bu datalar h�
     <string name="lock_screen_slide_up">Kilidi açmaq üçün yuxarı sürüşdür</string>
     <string name="lock_screen_switch">Kilid ekranında musiqi</string>
     <string name="login_instantly">Daxil ol</string>
-    <string name="login_mi_account_and_gain_more_rights">Daha çox özəlliyə müraciət etmək üçün Xiaomi Hesabınızla daxil olun.</string>
+    <string name="login_mi_account_and_gain_more_rights">Daha çox özəlliyə erişmək üçün Xiaomi Hesabınızla daxil olun.</string>
     <string name="login_out_tip">"Hələlik çıxış edilə bilmir. Bunun əvəzinə bütün tətbiq məlumatlarını təmizləyə bilərsiniz."</string>
     <string name="long_press_to_select_lyric">Yerli mahnı sözləri faylını seçmək üçün basılı tutun</string>
     <string name="lots_of_songs_for_free">Milyonlarla mahnını ödənişsiz dinləyin</string>
@@ -1101,19 +1152,19 @@ Dataları təmizlədikdən sonra tətbiqdən çıxış ediləcək. Bu datalar h�
     <string name="menu_title_resume_all">Hamısını başlat</string>
     <string name="message_delete_playlist">%s pleylisti silinsin?</string>
     <string name="metered_alert">İnternet istifadə xəbərdarlığı</string>
-    <string name="metered_alert_msg">"Mahnıları oxutmaq üçün mobil internet istifadə edirsiniz. Yenə də oxudulsun?"</string>
-    <string name="metered_alert_msg_with_data">%s mobil internetiniz qaldı. Mahnıları oxutmaq üçün mobil internet istifadə edilsin?</string>
+    <string name="metered_alert_msg">"Mahnıları oxutmaq üçün mobil veri istifadə edirsiniz. Yenə də oxudulsun?"</string>
+    <string name="metered_alert_msg_with_data">%s mobil veriniz qaldı. Mahnıları oxutmaq üçün mobil veri istifadə edilsin?</string>
     <string name="metered_allow">Oxut</string>
     <string name="metered_beyond_alert">İnternet istifadə limiti aşıldı</string>
     <string name="metered_disallow">İndi yox</string>
-    <string name="metered_play_and_download_summary">"Mobil internet ilə mahnı dinləyərkən və endirərkən internet istifadə xəbərdarlıqlarını göstərməyin."</string>
-    <string name="metered_play_and_download_title">Mahnıları mobil internet ilə dinlə və endir</string>
-    <string name="metered_play_toast">Mahnıları oxutmaq üçün mobil internet istifadə edilir</string>
-    <string name="metered_play_toast_with_beyond_data">Mahnıları oxutmaq üçün mobil internet istifadə edilir. Limit %s tərəfindən aşıldı</string>
-    <string name="metered_play_toast_with_data">Mahnıları oxutmaq üçün mobil internet istifadə edilir, %s qaldı</string>
-    <string name="metered_serious_alert">Çox az mobil internet qaldı</string>
-    <string name="metered_serious_alert_msg_with_beyond_data">"Mobil internet limitinizi artıq %s qədər aşdınız. Mahnıları oxutmaq üçün mobil internet istifadə edilsin?"</string>
-    <string name="metered_serious_alert_msg_with_data">Yalnız %s mobil internetiniz qaldı. Mahnıları oxutmaq üçün mobil internet istifadə edilsin?</string>
+    <string name="metered_play_and_download_summary">"Mobil veri ilə mahnı dinləyərkən və endirərkən veri istifadə xəbərdarlıqlarını göstərməyin."</string>
+    <string name="metered_play_and_download_title">Mahnıları mobil veri ilə dinlə və endir</string>
+    <string name="metered_play_toast">Mahnıları oxutmaq üçün mobil veri istifadə edilir</string>
+    <string name="metered_play_toast_with_beyond_data">Mahnıları oxutmaq üçün mobil veri istifadə edilir. Limit %s tərəfindən aşıldı</string>
+    <string name="metered_play_toast_with_data">Mahnıları oxutmaq üçün mobil veri istifadə edilir, %s qaldı</string>
+    <string name="metered_serious_alert">Çox az mobil veri qaldı</string>
+    <string name="metered_serious_alert_msg_with_beyond_data">"Mobil veri limitinizi artıq %s qədər aşdınız. Mahnıları oxutmaq üçün mobil veri istifadə edilsin?"</string>
+    <string name="metered_serious_alert_msg_with_data">Yalnız %s mobil veriniz qaldı. Mahnıları oxutmaq üçün mobil veri istifadə edilsin?</string>
     <string name="metered_serious_allow">Yenə də oxut</string>
     <string name="middle_sound_quality">Standart</string>
     <string name="midnight">Gecə</string>
@@ -1163,7 +1214,7 @@ Dataları təmizlədikdən sonra tətbiqdən çıxış ediləcək. Bu datalar h�
 	<string name="miuix_show_password">Parolu göstər</string>
 	<string name="miuix_stretchablewidget_collapsed">Yığcamlaşdırıldı</string>
     <string name="miuix_stretchablewidget_expanded">Genişləndirildi</string>
-    <string name="mobile_recommended_title">Mobil internet istifadəsi</string>
+    <string name="mobile_recommended_title">Mobil veri istifadəsi</string>
     <string name="modify_lyric">Mahnı sözlərinə düzəliş et</string>
     <string name="modify_pic">Üzü dəyişdir</string>
     <string name="modify_progress">Mahnı sözləri sürüşdürmə sürətini dəyişdir</string>
@@ -1285,7 +1336,7 @@ Dataları təmizlədikdən sonra tətbiqdən çıxış ediləcək. Bu datalar h�
     <string name="music_settings">Musiqi</string>
     <string name="mute">Səsi kəs</string>
     <string name="mv_metered_play_summary">"İnternet istifadə xəbərdarlığını göstərmə"</string>
-    <string name="mv_metered_play_title">Mobil internet istifadə edərək onlayn oxut</string>
+    <string name="mv_metered_play_title">Mobil veri istifadə edərək onlayn oxut</string>
     <string name="my_account">Xiaomi Hesabı</string>
     <string name="my_music_empty">Pleylist boşdur.</string>
     <string name="my_music_empty_goto_online">Heç bir mahnı tapılmadı</string>
@@ -1298,6 +1349,7 @@ Dataları təmizlədikdən sonra tətbiqdən çıxış ediləcək. Bu datalar h�
     <string name="native_media_view">Media görünüşü</string>
     <string name="nav_app_bar_navigate_up_description">Yuxarı get</string>
     <string name="nav_app_bar_open_drawer_description">Naviqasiya siyirməsini aç</string>
+<string name="nct_privacy_text"><Data>Davam etməzdən əvvəl oxuyun və razılaşın: &lt;font color=#A374F0>&lt;a href=%1$s>Mi Musiqi İstifadəçi Razılaşması&lt;/a>&lt;/font>, &lt;font color=#A374F0>&lt;a href=%2$s>Mi Musiqi Gizlilik Siyasəti&lt;/a>&lt;/font> və &lt;font color=#A374F0>&lt;a href=%3$s>Vansound Gizlilik Siyasəti&lt;/a>&lt;/font>.</Data></string>
     <string name="nct_song_joox">"Müəllif hüququ məsələlərinə görə oxudula bilmir"</string>
     <string name="need_to_close">Daha az göstər</string>
     <string name="need_to_show">Daha çox göstər</string>
@@ -1379,7 +1431,7 @@ Təkrar onlayn olduğunuz zaman daha çoxunu paylaşacağıq."</string>
     <string name="online_apk_install_alert_continue">Davam etdir</string>
     <string name="online_apk_install_alert_failed_text">"Endirilə bilmədi. Yenidən sınayın."</string>
     <string name="online_apk_install_alert_message">Yandex.Musiqi qoşmasını endirməlisiniz. İndi endirilsin?</string>
-    <string name="online_apk_install_alert_mobile_net_text">"Artıq mobil internet istifadə edirsiniz. Mobil internet istifadə edərək elementləri endirmək əlavə ödənişlər yarada bilər."</string>
+    <string name="online_apk_install_alert_mobile_net_text">"Artıq mobil veri istifadə edirsiniz. Mobil veri istifadə edərək elementləri endirmək əlavə ödənişlər yarada bilər."</string>
     <string name="online_apk_install_alert_note">Bu xidmət Yandex.Musiqi tərəfindən təmin edilir</string>
     <string name="online_apk_install_alert_note_new">Onlayn məzmun %s tərəfindən təmin edilir</string>
     <string name="online_apk_install_alert_pause">Fasilə ver</string>
@@ -1390,9 +1442,9 @@ Təkrar onlayn olduğunuz zaman daha çoxunu paylaşacağıq."</string>
     <string name="online_apk_install_error_with_reason">"Quraşdırıla bilmədi (Xəta %d)"</string>
     <string formatted="false" name="online_apk_install_failed_with_reason">"Onlayn məzmun yüklənə bilmıdi. Yenidən sınamaq üçün %s toxunun. Xəta kodu: %d."</string>
     <string name="online_apk_install_in_background">Onlayn məzmun arxaplanda yüklənir…</string>
-    <string name="online_apk_install_network_change_paused">"Mobil internet istifadə edirsiniz. Hələlik elementlərin yüklənməsinə fasilə verildi. Baxmaq üçün %s toxunun."</string>
+    <string name="online_apk_install_network_change_paused">"Mobil veri istifadə edirsiniz. Hələlik elementlərin yüklənməsinə fasilə verildi. Baxmaq üçün %s toxunun."</string>
     <string name="online_apk_install_network_error">"Şəbəkəyə bağlana bilmədi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın."</string>
-    <string name="online_apk_install_tips">"Bu məzmun provayderinin qoşmasını bir dəfə endirməlisiniz. Növbəti dəfə mahnılara birbaşa müraciət edə biləcəksiniz."</string>
+    <string name="online_apk_install_tips">"Bu məzmun provayderinin qoşmasını bir dəfə endirməlisiniz. Növbəti dəfə mahnılara birbaşa erişə biləcəksiniz."</string>
     <string name="online_list_delete_message">Bu pleylistdəki bütün endirilən mahnılar daxili anbardan silinəcək.</string>
     <string name="online_recommend">Pleylist</string>
     <string name="online_service_open_tip">Onlayn musiqi xidmətləri açıqdır</string>
@@ -1409,7 +1461,7 @@ Təkrar onlayn olduğunuz zaman daha çoxunu paylaşacağıq."</string>
     <string name="other_song_in_album">Bu albomdakı digər mahnılar</string>
     <string name="party">Parti</string>
 	<string name="pasport_register_dialog_message">İndi %s telefon nömrəniz vasitəsilə Xiaomi Hesabı yaradılsın?</string>
-    <string name="passport_access_denied">Müraciət rədd edildi</string>
+    <string name="passport_access_denied">Erişim rədd edildi</string>
     <string name="passport_account_crop_user_avatar">Fotonu qayçıla</string>
     <string name="passport_account_empty_user_name">Adınızı daxil edin</string>
     <string name="passport_account_error_all_space_user_name">"Ad yalnız boşluq xarakterindən ibarət ola bilməz"</string>
@@ -1532,7 +1584,7 @@ Təkrar onlayn olduğunuz zaman daha çoxunu paylaşacağıq."</string>
     <string name="passport_request_error_invalid_token">"Doğrulana bilmədi"</string>
     <string name="passport_request_error_network">Bir şəbəkə xətası baş verdi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın.</string>
     <string name="passport_request_error_unknown">Sistem xətası baş verdi. Geri qayıdın və yenidən sınayın.</string>
-    <string name="passport_request_gallery_permission_message">Bu tətbiqin profil fotonuzu ayarlaya bilməsi üçün seçilmiş Qalereya elementlərinə müraciətinə icazə verin. İndi icazə verilsin?</string>
+    <string name="passport_request_gallery_permission_message">Bu tətbiqin profil fotonuzu ayarlaya bilməsi üçün seçilmiş Qalereya elementlərinə erişiminə icazə verin. İndi icazə verilsin?</string>
 	<string name="passport_request_permission_title">İcazələr tələb olunur</string>
     <string name="passport_resend_email_reach_limit_message">"Həddən artıq doğrulama e-poçtu tələb etdiniz. Doğrulama e-poçtunun gələn qutunuzun Spam qovluğunda olmadığına əmin olun."</string>
     <string name="passport_resend_email_reach_limit_title">Həddindən artıq cəhd</string>
@@ -1593,10 +1645,10 @@ Təkrar onlayn olduğunuz zaman daha çoxunu paylaşacağıq."</string>
     <string name="payment_success_message">Təşəkkürlər! Ödənişiniz uğurla emal olundu. Gold xidmətlərindən zövq alın.</string>
     <string name="payment_success_title">Təbriklər!</string>
     <string name="pending_apk">Gözlənilir…</string>
-    <string name="permission_declaration_message">\"Musiqi\"nin normal istifadə edə bilmək üçün Güvənlik &gt; İcazələr &gt; İcazələr &gt; Anbar &gt; \"Musiqi\"də anbara müraciətə icazə verin.</string>
+    <string name="permission_declaration_message">\"Musiqi\"nin normal istifadə edə bilmək üçün Güvənlik &gt; İcazələr &gt; İcazələr &gt; Anbar &gt; \"Musiqi\"də anbara erişiminə icazə verin.</string>
     <string name="permission_declaration_negative_text">Sonra</string>
     <string name="permission_declaration_positive_text">\"Güvənlik\"ə get</string>
-    <string name="permission_declaration_title">Müraciətə icazə ver</string>
+    <string name="permission_declaration_title">Erişimə icazə ver</string>
     <string name="permission_open">İcazə ver</string>
     <string name="permission_required">İcazələr tələb olunur</string>
     <string name="pick_favorite_song">Sevimlilər</string>
@@ -1612,9 +1664,9 @@ Təkrar onlayn olduğunuz zaman daha çoxunu paylaşacağıq."</string>
     <string name="play_next">Növbətini oxut</string>
     <string name="play_setting">Oxutma</string>
     <string name="play_video_with_traffic">DAVAM ET</string>
-    <string name="play_video_with_traffic_toast">"İndi mobil internet istifadə edirsiniz."</string>
+    <string name="play_video_with_traffic_toast">"İndi mobil veri istifadə edirsiniz."</string>
     <string name="playerui_lyric_dialog_cancel">Xeyr</string>
-    <string name="playerui_lyric_dialog_hint">\"Mi Musiqi\"nin optimallaşdırma məqsədləri üçün səs fayllarına müraciət etməsinə icazə verirəm</string>
+    <string name="playerui_lyric_dialog_hint">\"Mi Musiqi\"nin optimallaşdırma məqsədləri üçün səs fayllarına erişməsinə icazə verirəm</string>
     <string name="playerui_lyric_dialog_ok">Bəli</string>
     <string name="playerui_lyric_dialog_title">Bu mahnı sözləri doğrudur?</string>
     <string name="playerui_lyric_edit_hint">Mahnı sözlərinə düzəliş etmək üçün bura toxunun</string>
@@ -1637,9 +1689,9 @@ Təkrar onlayn olduğunuz zaman daha çoxunu paylaşacağıq."</string>
     <string name="playerui_skin_use_to_player">Tətbiq edildi</string>
     <string name="playerui_skin_vinyl">Klassik vinil</string>
     <string name="playerui_song_dialog_cancel">"İcazə verilməsin"</string>
-    <string name="playerui_song_dialog_hint">"Daha doğru mahnı sözləri hazırda mövcud deyil. \"Mi Musiqi\"nin optimallaşdırma məqsədləri üçün bu səs faylına müraciət etməsinə icazə verərək bizə kömək edə bilərsiniz. İndi icazə verilsin?"</string>
+    <string name="playerui_song_dialog_hint">"Daha doğru mahnı sözləri hazırda mövcud deyil. \"Mi Musiqi\"nin optimallaşdırma məqsədləri üçün bu səs faylına erişməsinə icazə verərək bizə kömək edə bilərsiniz. İndi icazə verilsin?"</string>
     <string name="playerui_song_dialog_ok">İcazə ver</string>
-    <string name="playerui_song_dialog_title">Səs faylına müraciətə icazə ver</string>
+    <string name="playerui_song_dialog_title">Səs faylına erişiminə icazə ver</string>
     <string name="playlist_empty">Heç bir pleylist tapılmadı.</string>
     <string name="playlist_recommend_title">Tövsiyə edilən</string>
     <string name="playlist_title">Pleylist adı</string>
@@ -1662,11 +1714,14 @@ Təkrar onlayn olduğunuz zaman daha çoxunu paylaşacağıq."</string>
     <string name="preset_music_playlist">Mi Musiqi pleylisti</string>
     <string name="priority_storage">Xarici SD kart istifadə et</string>
     <string name="priority_storage_summary">Xarici SD kart mövcud olduqda avtomatik endir</string>
+    <string name="privacy_agreement">Şərtlər və qaydalar</string>
     <string name="privacy_authorize_network_error">Razılığınızı geri götürə bilmək üçün cihazınız şəbəkəyə bağlanmalıdır. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın.</string>
     <string name="privacy_authorize_revoke_failed">"Səlahiyyət ləğv edilə bilmədi"</string>
     <string name="privacy_authorize_revoke_success">Səlahiyyət uğurla ləğv edildi</string>
     <string name="privacy_authorize_revoking">Səlahiyyət ləğv edilir…</string>
     <string name="privacy_desc">Gizlilik Siyasəti (məcburi)</string>
+    <string name="privacy_desc_new">"Gizlilik Siyasəti
+(Məcburi)"</string>
     <string name="privacy_policy">Gizlilik Siyasəti</string>
     <string name="privacy_policy_title_asm">Musiqi dünyası barmaqlarınızın ucunda</string>
     <string name="privacy_request_desc"><Data>\"Mi Musiqi, sizə onlayn yayım xidmətlərini təqdim etməsi üçün lazımi şəxsi məlumatları yığmalıdır. Yığdığımız məlumatları necə idarə etdiyimizi &lt;a href=\"%1$s\"&gt;Gizlilik Siyasətimizdə&lt;/a&gt; öyrənə bilərsiniz. İstənilən vaxt Ayarlarda \"Mi Musiqi\"nin Gizlilik Siyasətinə verdiyiniz razılığı geri götürə bilərsiniz.
@@ -1696,12 +1751,14 @@ Yuxarıda qeyd olunan xidmətlərin istifadəsi ilə razılaşmırsınızsa, bu 
     <string name="recently_played_songs">Sonuncu</string>
     <string name="recommend_artist_title">Tövsiyə edilən sənətçi</string>
     <string name="recommend_songs_when_playing_audio_files">Musiqi dinləyərkən mahnı tövsiyələri alın</string>
-    <string name="recommended_file_size_download_in_mobile">Bu faylı endirmək üçün %s mobil internet istifadə edilsin?</string>
-    <string name="recommended_no_file_size_download_in_mobile">Bu faylı endirmək üçün mobil internet bağlantısı istifadə edilsin?</string>
+    <string name="recommended_file_size_download_in_mobile">Bu faylı endirmək üçün %s mobil veri istifadə edilsin?</string>
+    <string name="recommended_no_file_size_download_in_mobile">Bu faylı endirmək üçün mobil veri bağlantısı istifadə edilsin?</string>
     <string name="remove">Sil</string>
     <string name="remove_download">Sil</string>
     <string name="remove_user_privacy_dialog_message">Açarı bağlayaraq, \"Mi Musiqi\"nin Gizlilik Siyasətinə verdiyiniz razılığı geri götürürsünüz. Şəxsi məlumatların yığılmasını dayandıracağıq. Artıq yığılmış və saxlanılmış şəxsi məlumatlar, müvafiq qanunların tələb etdiyi müddətə silinəcək. \"Mi Musiqi\" tətbiqinin sizi təməl xidmətlərlə təmin etməsi üçün lazımi şəxsi məlumatları yığması lazımdır. Gizlilik Siyasətinə verdiyiniz razılığı geri götürməyiniz, yığılmış şəxsi məlumatlara əsaslanan xidmətlərin qəbul edilməsini rədd etmək kimi nəzərə alınacaqdır.</string>
     <string name="remove_user_privacy_dialog_message_canuse">Açarı bağlayaraq, \"Mi Musiqi\"nin Gizlilik Siyasətinə verdiyiniz razılığı geri götürürsünüz. Şəxsi məlumatların yığılmasını dayandıracağıq. Artıq yığılmış və saxlanılmış şəxsi məlumatlar, müvafiq qanunların tələb etdiyi müddətə silinəcək. \"Mi Musiqi\" tətbiqinin sizi onlayn yayım xidmətləri ilə təmin etməsi üçün lazımi şəxsi məlumatları yığması lazımdır. Gizlilik Siyasətinə verdiyiniz razılığı geri götürməyiniz, yığılmış şəxsi məlumatlara əsaslanaraq yuxarıda qeyd olunan onlayn xidmətlərin qəbul edilməsini rədd etmək kimi nəzərə alınacaqdır.</string>
+    <string name="remove_user_privacy_dialog_message_new">"Bunu söndürsəniz, Mi Musiqi Gizlilik Siyasətinə verdiyiniz razılığı geri götürəcəksiniz və şəxsi məlumatlarınızın yığılmasını dayandıracağıq. İndi razılıq geri götürülsün?"</string>
+    <string name="remove_user_privacy_dialog_message_new_all">"Bunu söndürsəniz, Mi Musiqi Gizlilik Siyasəti və əlaqəli üçüncü tərəflərin gizlilik siyasətlərinə verdiyiniz razılığı geri götürəcəksiniz və şəxsi məlumatlarınızın yığılmasını dayandıracağıq. İndi razılıq geri götürülsün?"</string>
     <string name="remove_user_privacy_dialog_title">Razılığı geri götür</string>
     <string name="renew_dialog_title">"Pro ol
 Xoşbəxt ol"</string>
@@ -1709,7 +1766,7 @@ Xoşbəxt ol"</string>
     <string name="repeat_current_notif">Hazırkı mahnı təkrarlanır.</string>
 	<string name="report_issue">problemi bildir</string>
     <string name="request_overlay_permission_desc">Bu özəlliyi istifadə edə bilmək üçün Mi Musiqiyə üzən pəncərələri görüntüləmə icazəsi verin.</string>
-    <string name="request_privacy_permission_title">Bütün xidmətlərimizə müraciət etmək üçün aşağıdakı şərtləri və qaydaları oxuyun və razılaşın.</string>
+    <string name="request_privacy_permission_title">Bütün xidmətlərimizə erişmək üçün aşağıdakı şərtləri və qaydaları oxuyun və razılaşın.</string>
     <string name="request_share_info">Bir saniyə…</string>
     <string name="request_subscription_status">Bir saniyə…</string>
     <string name="restart_immediate">Yenidən başlat</string>
@@ -1732,6 +1789,14 @@ Xoşbəxt ol"</string>
     <string name="s5">Təqvim tədbiri yarat</string>
     <string name="s6">Reklamın bir təqvim tədbiri yaratmasına icazə verilsin?</string>
     <string name="s7">Test reklamı</string>
+    <string name="safemode_clear_data_tip">"Bu tətbiqin veriləri indi təmizlənsin?"</string>
+    <string name="safemode_desc">"Mi Musiqi bir xəta ilə üzləşdi. Edə biləcəyiniz addımlar bunlardır:"</string>
+    <string name="safemode_exit_btn_text">Çıx</string>
+    <string name="safemode_fix_btn_text">Sıfırla</string>
+    <string name="safemode_fix_tip">Bu, tətbiqin bütün verilərini təmizləyəcək</string>
+    <string name="safemode_notification_content">Bu tətbiqdə bir neçə xəta baş verdi. Düzəltmək üçün toxunun.</string>
+    <string name="safemode_notification_title">Təhlükəsiz rejim</string>
+    <string name="safemode_privacy_checkbox_text">Gəlişdiricilərin problemi tapıb həll etməsinə kömək etmək üçün bu problemi müvafiq məlumatlarla bildirin</string>
     <string name="saturday">Şənbə</string>
     <string name="saturday_short">Şən</string>
     <string name="saturday_shortest">Şən</string>
@@ -1902,7 +1967,7 @@ Xoşbəxt ol"</string>
     <string name="storage_cloned_app">İkili tətbiqlər üçün anbar</string>
     <string name="storage_internal">Daxili anbar</string>
     <string name="storage_sd_card">SD kart</string>
-    <string name="storage_space_permissions_for_display">Cihaz anbarına müraciət: yerli faylları skan etmək, göstərmək və oxutmaq üçün</string>
+    <string name="storage_space_permissions_for_display">Cihaz anbarına erişim: yerli faylları skan etmək, göstərmək və oxutmaq üçün</string>
     <string name="storage_usb">USB anbar</string>
     <string name="streamloadingtext">%s ilə bağlantı qurulur</string>
     <string name="summary_command_mode">Əmr rejiminə daxil olmaq üçün işə sal</string>
@@ -2022,7 +2087,7 @@ Xoşbəxt ol"</string>
     <string name="time_picker_dialog_title">Vaxtı ayarla</string>
     <string name="time_to_upgrade">Bir güncəlləmə var</string>
     <string name="tips_click_here_to_continue">Oxutmanı davam etdirmək üçün toxunun</string>
-    <string name="tips_not_wifi">İndi mobil internet istifadə edirsiniz, paketiniz tükənə bilər</string>
+    <string name="tips_not_wifi">İndi mobil veri istifadə edirsiniz, paketiniz tükənə bilər</string>
     <string name="tips_not_wifi_cancel">Dayandır</string>
     <string name="tips_not_wifi_confirm">Davam et</string>
     <string name="title_command_mode">Əmr rejimi</string>
@@ -2116,7 +2181,7 @@ Xoşbəxt ol"</string>
     <string name="tt_video_dial_phone">İndi yığ</string>
     <string name="tt_video_download_apk">İndi endir</string>
     <string name="tt_video_mobile_go_detail">İndi bax</string>
-    <string name="tt_video_without_wifi_tips">Bu məzmunu oxutmaq üçün %.2f MB data istifadə ediləcək</string>
+    <string name="tt_video_without_wifi_tips">Bu məzmunu oxutmaq üçün %.2f MB veri istifadə ediləcək</string>
     <string name="tt_web_title_default">Reklam</string>
     <string name="tuesday">Çərşənbə axşamı</string>
     <string name="tuesday_short">Ç.a.</string>
@@ -2137,8 +2202,8 @@ Xoşbəxt ol"</string>
     <string name="upgrade_music">\"Musiqi\"ni güncəllə</string>
     <string name="upgrade_music_message">Güncəlləmələr hazırdır. Güncəlləmək üçün yenidən başladın.</string>
     <string name="upgrading_in_backstage">Arxaplanda güncəllənir…</string>
-    <string name="upload_favorite_dialog_title">Digər sinxronlaşdırılmış cihazlarda müraciət etmək üçün mahnılarınızı buluda yükləyin. Bu özəlliyi Ayarlarda söndürə bilərsiniz.</string>
-    <string name="upload_favorite_setting_summary">Onlayn mahnıların sevimlilərə əlavə edilməsi, onları buluda yükləyərək digər cihazlarda müraciət etməyinizə imkan verir</string>
+    <string name="upload_favorite_dialog_title">Digər sinxronlaşdırılmış cihazlarda erişmək üçün mahnılarınızı buluda yükləyin. Bu özəlliyi Ayarlarda söndürə bilərsiniz.</string>
+    <string name="upload_favorite_setting_summary">Onlayn mahnıların sevimlilərə əlavə edilməsi, onları buluda yükləyərək digər cihazlarda erişməyinizə imkan verir</string>
     <string name="upload_favorite_setting_title">Mahnıları sinxronlaşdır</string>
     <string name="upload_playlist_to_hungama_negative_text">"Sinxronlaşdırılmasın"</string>
     <string name="upload_playlist_to_hungama_positive_text">Sinxronlaşdır</string>
@@ -2152,11 +2217,13 @@ Xoşbəxt ol"</string>
     <string name="user_privacy_dialog_positive_text">Geri götür</string>
     <string name="user_privacy_setting_group_title">Razılığı geri götür</string>
     <string name="user_privacy_setting_title">Bağlayaraq, \"Mi Musiqi\"nin Gizlilik Siyasətinə verdiyiniz razılığı geri götürürsünüz.</string>
+    <string name="user_privacy_setting_title_all">Bunu söndürsəniz, Mi Musiqi Gizlilik Siyasəti və əlaqəli üçüncü tərəflərin gizlilik siyasətlərinə verdiyiniz razılığı geri götürəcəksiniz</string>
     <string name="user_profile_created_playlist_title">Özəl pleylistlər</string>
     <string name="user_profile_fans_count">İzləyici: %s</string>
     <string name="user_profile_follow_count">İzlənilən: %s</string>
     <string name="v7_preference_off">BAĞLI</string>
     <string name="v7_preference_on">AÇIQ</string>
+    <string name="vansound_service_provider_note">Qeyd: Onlayn məzmun xidmətləri Vansound tərəfindən təqdim edilir.</string>
     <string name="version_info">Versiya</string>
     <string name="video_balance">Video balansı</string>
     <string name="video_blur">Bulanıqlıq</string>
@@ -2182,7 +2249,7 @@ Xoşbəxt ol"</string>
     <string name="video_part_zoom">Bir hissəsini yaxınlaşdır</string>
     <string name="video_pip">Şəkil içində şəkil</string>
     <string name="video_play">Video oxutma</string>
-    <string name="video_play_cellular">"Cihazınız Wi-Fi-a bağlanmayıb. Mobil internet istifadə edilsin?"</string>
+    <string name="video_play_cellular">"Cihazınız Wi-Fi-a bağlanmayıb. Mobil veri istifadə edilsin?"</string>
     <string name="video_preview">Önizləməni oxut</string>
     <string name="video_remove_logo">Filiqranı sil</string>
     <string name="video_replay_btn">Yenidən oxut</string>
@@ -2247,6 +2314,7 @@ Endirməni, Wi-Fi şəbəkəsinə bağlananda başlatmaq üçün %s toxunun."</s
     <string name="wifi_required_title">Bu faylı endirmək üçün Wi-Fi-a bağlanmalısınız</string>
     <string name="wrong_audio_format">Səs olmayan fayl</string>
     <string name="wrong_video_format">Video olmayan fayl</string>
+    <string name="xiaomi_music_privacy_agreement"><Data>Davam etməzdən əvvəl oxuyun və razılaşın: &lt;font color=#A374F0>&lt;a href=%1$s>Mi Musiqi İstifadəçi Razılaşması&lt;/a>&lt;/font> və &lt;font color=#A374F0>&lt;a href=%2$s>Mi Musiqi Gizlilik Siyasəti&lt;/a>&lt;/font>.</Data></string>
     <string name="yesterday">Dünən</string>
     <string name="you_can_switch_mode_in_settings">Ayarlarda rejimlər arasında keçid edə bilərsiniz</string>
     <string name="you_may_like">Bunları da bəyənə bilərsiniz</string>
@@ -2266,7 +2334,7 @@ Endirməni, Wi-Fi şəbəkəsinə bağlananda başlatmaq üçün %s toxunun."</s
     <string name="youtube_download_suc">Uğurla endirildi</string>
     <string name="youtube_play_history">Oxutma tarixçəsi</string>
     <string name="youtube_share_guide_tip">Artıq videoları dostlarınızla paylaşa bilərsiniz</string>
-    <string name="youtube_store_dialog_desc">"Sevimlilərə əlavə etdiyiniz onlayn videoları burada tapa bilərsiniz. Bir video daha əvvəl yüklənibsə, növbəti dəfə ona yenidən baxmaq üçün mobil internet istifadə etməyinizə ehtiyac qalmayacaq."</string>
+    <string name="youtube_store_dialog_desc">"Sevimlilərə əlavə etdiyiniz onlayn videoları burada tapa bilərsiniz. Bir video daha əvvəl yüklənibsə, növbəti dəfə ona yenidən baxmaq üçün mobil veri istifadə etməyinizə ehtiyac qalmayacaq."</string>
     <string name="youtube_store_dialog_ok">Anladım</string>
     <string name="youtube_tab_explore">Kəşf et</string>
     <string name="youtube_tab_playlist">Pleylistlər</string>
