@@ -61,11 +61,11 @@ Yenidən sınayın."</string>
     <string name="ai_sum_internal_test_disagree">"Razı deyiləm"</string>
     <string name="ai_sum_internal_test_title">Süni Zəka Mesaj İcmalı - Beta test</string>
     <string name="ai_summary_description">Süni zəkanın sizə vacib məlumatları göstərməsi üçün uzun mesajların icmalını hazırlamasına icazə verin. Bu özəllik, enerji sərfiyyatını bir az artıracaq.</string>
-    <string name="ai_summary_dialog_content"><Data>\"Süni zəka mesaj icmalı, uzun mesajlardan vacib məlumatların ağıllı icmalını təqdim edir. Xiaomi, bu özəlliyi təqdim etmək üçün mesajın məzmununa müraciət etməlidir. Ancaq Xiaomi bu məlumatları saxlamayacaq.&lt;br /&gt;&lt;br /&gt;Bu ixdməti istifadə etməzdən əvvəl oxuyub razılaşın: &lt;a href=\"%1$s\"&gt;Süni zəka Mesaj İcmalı İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=\"%2$s\"&gt;Süni zəka Mesaj İcmalı Gizlilik Siyasəti&lt;/a&gt;.\"</Data></string>
+    <string name="ai_summary_dialog_content"><Data>\"Süni zəka mesaj icmalı, uzun mesajlardan vacib məlumatların ağıllı icmalını təqdim edir. Xiaomi, bu özəlliyi təqdim etmək üçün mesajın məzmununa erişməlidir. Ancaq Xiaomi bu məlumatları saxlamayacaq.&lt;br /&gt;&lt;br /&gt;Bu ixdməti istifadə etməzdən əvvəl oxuyub razılaşın: &lt;a href=\"%1$s\"&gt;Süni zəka Mesaj İcmalı İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=\"%2$s\"&gt;Süni zəka Mesaj İcmalı Gizlilik Siyasəti&lt;/a&gt;.\"</Data></string>
     <string name="ai_summary_dialog_title">Tələb olunan icazələr</string>
     <string name="ai_summary_model_info">Model adı: Xiaomi cihaz üzərində mətn</string>
-    <string name="ai_summary_privacy_content">"Süni Zəka Mesaj İcmalı özəlliyini istifadə etdiyiniz zaman, icmal məzmunu (içindəki şəxsi datalar daxil olmaqla) Xiaomi tərəfindən emal olunacaq, ancaq Xiaomi bu dataları saxlayamacaq."</string>
-    <string name="ai_summary_privacy_tip"><Data>Datalarınızı necə idarə etdiyimizi anlamaq üçün &lt;a href=\"%1$s\"&gt;Süni zəka Mesaj İcmalı Gizlilik Siyasətimizi&lt;/a&gt; oxuyun. Bu xidmət haqqında daha çox məlumat üçün &lt;a href=\"%2$s\"&gt;Süni zəka Mesaj İcmalı İstifadəçi Razılaşmamızı&lt;/a&gt; oxuyun.</Data></string>
+    <string name="ai_summary_privacy_content">"Süni Zəka Mesaj İcmalı özəlliyini istifadə etdiyiniz zaman, icmal məzmunu (içindəki şəxsi verilər daxil olmaqla) Xiaomi tərəfindən emal olunacaq, ancaq Xiaomi bu veriləri saxlayamacaq."</string>
+    <string name="ai_summary_privacy_tip"><Data>Verilərinizi necə idarə etdiyimizi anlamaq üçün &lt;a href=\"%1$s\"&gt;Süni zəka Mesaj İcmalı Gizlilik Siyasətimizi&lt;/a&gt; oxuyun. Bu xidmət haqqında daha çox məlumat üçün &lt;a href=\"%2$s\"&gt;Süni zəka Mesaj İcmalı İstifadəçi Razılaşmamızı&lt;/a&gt; oxuyun.</Data></string>
     <string name="ai_summary_privacy_title">Gizlilik bəyanatı</string>
     <string name="ai_summary_public_info">Qeydiyyat məlumatı</string>
     <string name="ai_summary_record"><Data>Qeydiyyat nömrəsi: &lt;a href=\"%1$s\"&gt;Beijing-XiaoMiDuanCeWenBen-202412100047&lt;/a&gt;</Data></string>
@@ -120,7 +120,7 @@ Yenidən sınayın."</string>
     <string name="beidou_max_support_contact_number">%d kontakta qədər əlavə et</string>
     <string name="beidou_message">BeiDou peyki üzərindən mesajlaşma</string>
     <string name="beidou_new_message">Göndər</string>
-    <string name="beidou_open_location_service">BeiDou peyki üzərindən mesajlaşma, normal işləməsi üçün yerləşmənizə müraciət etməlidir.</string>
+    <string name="beidou_open_location_service">BeiDou peyki üzərindən mesajlaşma, normal işləməsi üçün yerləşmənizə erişməlidir.</string>
     <string name="beidou_query_remain_time">Balansı yoxla</string>
     <string name="beidou_query_remain_time_failed">"Balans yoxlanıla bilmədi"</string>
     <string name="beidou_receive_message">Al</string>
@@ -180,7 +180,7 @@ Yenidən sınayın."</string>
     <string name="cm_privacy_dialog_allow">Razıyam</string>
     <string name="cm_privacy_dialog_cancel">İmtina</string>
     <string name="cm_privacy_dialog_spannable_tips">Gizlilik Siyasəti</string>
-    <string name="cm_privacy_dialog_tips">"Ağıllı mesajlaşma xidmətləri, operatorunuz tərəfindən təmin edilir. Mesajlaşma, internetə bağlanmalı və bu xidmətləri təmin etmək üçün yerləşmənizə müraciət etməlidir. Bu xidmətləri istifadə etməyə başlamazdan əvvəl operatorunuzun %1s ilə razılaşmalısınız. Razılaşırsınız?"</string>
+    <string name="cm_privacy_dialog_tips">"Ağıllı mesajlaşma xidmətləri, operatorunuz tərəfindən təmin edilir. Mesajlaşma, internetə bağlanmalı və bu xidmətləri təmin etmək üçün yerləşmənizə erişməlidir. Bu xidmətləri istifadə etməyə başlamazdan əvvəl operatorunuzun %1s ilə razılaşmalısınız. Razılaşırsınız?"</string>
     <string name="cm_privacy_dialog_title">Diqqət</string>
     <string name="cmcc_privacy">Çin Mobil Operatoru Gizlilik Siyasəti</string>
     <string name="cn_privacy_dialog_title">Diqqət</string>
@@ -248,11 +248,11 @@ Yenidən sınayın."</string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
     <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
     <string name="debug_about_mms">MMS haqqında</string>
-    <string name="debug_category_db">Data bazası</string>
+    <string name="debug_category_db">Veri bazası</string>
     <string name="debug_category_others">Digərləri</string>
     <string name="debug_close_success">Sazlama əlçatmazdır</string>
     <string name="debug_enable_success">Sazlama əlçatandır</string>
-    <string name="debug_export_db">Data bazanı xaricə köçür</string>
+    <string name="debug_export_db">Veri bazasını xaricə köçür</string>
     <string name="debug_title">Sazlama</string>
     <string name="delete">Sil</string>
     <string name="delete_block_conversation">Bu danışığı sil</string>
@@ -329,7 +329,7 @@ Yenidən sınayın."</string>
     <string name="exporting_progress_private_message">Xaricə köçürülür…</string>
     <string name="exposed_dropdown_menu_content_description">Açılan menyunu göstər</string>
     <string name="fail_to_add_attachment">"Qoşma əlavə edilə bilmədi"</string>
-    <string name="fail_to_add_image">"Kopyalanmış elementlərə müraciət edilə bilmədi"</string>
+    <string name="fail_to_add_image">"Kopyalanmış elementlərə erişilə bilmədi"</string>
     <string name="fail_to_view_attachment">"Qoşma əlçatan deyil"</string>
     <string name="failed_to_add_media">"Bu %1$s mesajlarınıza əlavə edilə bilmir."</string>
     <string name="failed_to_resize_image">Şəkil yenidən ölçüləndirilmədi.</string>
@@ -719,12 +719,12 @@ Mi Mesajı aktivləşdirmək üçün bir SMS mesajı göndərmək tələb olunur
     <string name="packages_select_sim_cards_title">SIM kart seçin</string>
     <string name="page_indicator">Səhifə göstəricisi</string>
 	<string name="password_toggle_content_description">Parolu göstər</string>
-    <string name="perm_purpose_mms_account">Hesab məlumatlarına müraciət üçün</string>
+    <string name="perm_purpose_mms_account">Hesab məlumatlarına erişim üçün</string>
     <string name="perm_purpose_mms_storage">MMS qoşmalarını saxlamaq üçün</string>
     <string name="perm_purpose_rcs_account">"Yeni istifadəçilərə başlanğıc təlimatını göstərmək üçün"</string>
     <string name="perm_purpose_rcs_storage">Şəkilləri, videoları, faylları və digər RCS qoşmalarını saxlamaq üçün</string>
-    <string name="permission_error">Bu tətbiq, cihazınızda saxlanılan fayllara müraciət etmək üçün icazə tələb edir</string>
-    <string name="permission_new_retry_dialog_msg">Mesajlaşma, normal işləyə bilməsi üçün kontaktlara müraciət etməlidir. İcazələri Ayarlar &gt; Tətbiqlər &gt; \"Sistem tətbiq ayarları\"nda dəyişdirə bilərsiniz.</string>
+    <string name="permission_error">Bu tətbiq, cihazınızda saxlanılan fayllara erişmək üçün icazə tələb edir</string>
+    <string name="permission_new_retry_dialog_msg">Mesajlaşma, normal işləyə bilməsi üçün kontaktlara erişməlidir. İcazələri Ayarlar &gt; Tətbiqlər &gt; \"Sistem tətbiq ayarları\"nda dəyişdirə bilərsiniz.</string>
     <string name="permission_retry_deny">İmtina</string>
     <string name="permission_retry_setting">Ayarlar</string>
     <string name="phrase_confirm_delete_message">Bu cavab silinəcək.</string>
@@ -803,19 +803,19 @@ Mi Mesajı aktivləşdirmək üçün bir SMS mesajı göndərmək tələb olunur
     <string name="pref_title_msg_blocked">Əngəlli siyahısı</string>
     <string name="pref_title_notification_body_enabled">Mesajları Kilid ekranında göstər</string>
     <string name="pref_title_perm_audio">Səs yaz</string>
-    <string name="pref_title_perm_calander">Təqvimə müraciət</string>
+    <string name="pref_title_perm_calander">Təqvimə erişim</string>
     <string name="pref_title_perm_call">Zəng et</string>
     <string name="pref_title_perm_camera">Kameranı istifadə et</string>
     <string name="pref_title_perm_location">Yerləşmə</string>
-    <string name="pref_title_perm_read_audio">Səs fayllarına müraciət</string>
-    <string name="pref_title_perm_read_call_log">Zəng tarixçəsinə müraciət</string>
-    <string name="pref_title_perm_read_contacts">Kontaktlara müraciət</string>
-    <string name="pref_title_perm_read_files">Fayllara və sənədlərə müraciət</string>
-    <string name="pref_title_perm_read_images_video">Foto və videolara müraciət</string>
+    <string name="pref_title_perm_read_audio">Səs fayllarına erişim</string>
+    <string name="pref_title_perm_read_call_log">Zəng tarixçəsinə erişim</string>
+    <string name="pref_title_perm_read_contacts">Kontaktlara erişim</string>
+    <string name="pref_title_perm_read_files">Fayllara və sənədlərə erişim</string>
+    <string name="pref_title_perm_read_images_video">Foto və videolara erişim</string>
     <string name="pref_title_perm_read_mms">SMS oxu</string>
     <string name="pref_title_perm_send_mms">SMS göndər</string>
-    <string name="pref_title_perm_storage">Anbara müraciət</string>
-    <string name="pref_title_perm_storage_translation_for_pad">Anbar müraciəti</string>
+    <string name="pref_title_perm_storage">Anbara erişim</string>
+    <string name="pref_title_perm_storage_translation_for_pad">Anbar erişimi</string>
     <string name="pref_title_perm_write_contacts">Kontaktlara düzəliş et</string>
     <string name="pref_title_privacy_authority">Səlahiyyətləndirmə</string>
     <string name="pref_title_privacy_policy_detail">Gizlilik Siyasəti</string>
@@ -900,11 +900,11 @@ Davam etməzdən əvvəl Gizlilik Siyasətinin yeni versiyasını oxuyub qəbul 
     <string name="rcs_bw_menu_share">Kontaktlara göndər</string>
     <string formatted="false" name="rcs_bw_network_error_desc">Xəta mesajı (%d,%s)</string>
     <string name="rcs_bw_network_error_title">Səhifə açıla bilmir</string>
-    <string name="rcs_bw_open_file_failed">Fayllara müraciət uğursuz oldu</string>
-    <string name="rcs_bw_permission_tip_audio">Mikrofonunuza müraciət tələbi</string>
-    <string name="rcs_bw_permission_tip_location">Yerləşmənizə müraciət tələbi</string>
-    <string name="rcs_bw_permission_tip_media_id">Cihazınızın məlumatlarına müraciət tələbi</string>
-    <string name="rcs_bw_permission_tip_midi">MIDI cihazınıza müraciət tələbi</string>
+    <string name="rcs_bw_open_file_failed">Fayllara erişim uğursuz oldu</string>
+    <string name="rcs_bw_permission_tip_audio">Mikrofonunuza erişim tələbi</string>
+    <string name="rcs_bw_permission_tip_location">Yerləşmənizə erişim tələbi</string>
+    <string name="rcs_bw_permission_tip_media_id">Cihazınızın məlumatlarına erişim tələbi</string>
+    <string name="rcs_bw_permission_tip_midi">MIDI cihazınıza erişim tələbi</string>
     <string name="rcs_bw_permission_tip_video">Veb kameranızı istifadə etmə tələbi</string>
     <string name="rcs_bw_preview_image">fotonu yoxla</string>
     <string name="rcs_bw_refuse">Rədd et</string>
@@ -992,7 +992,7 @@ Tövsiyə olunan söhbət botlarına baxın!"</string>
     <string name="rcs_hello_from_pc">Faylları köçürmək üçün kompüterinizdə Fetion-a daxil olun.</string>
     <string name="rcs_list_bottom_loading">Bir saniyə…</string>
     <string name="rcs_list_bottom_search">Axtarılır…</string>
-    <string name="rcs_locaiton_failed">"Yerə müraciət edilə bilmədi"</string>
+    <string name="rcs_locaiton_failed">"Yerləşməyə erişilə bilmədi"</string>
     <string name="rcs_locaiton_hint_text">Tapılır…</string>
     <string name="rcs_main_purpose">Bu özəllik RCS mesajlarını göndərməyə və almağa imkan verir. RCS Mesajlaşma, China Mobile tərəfindən təqdim edilir.</string>
     <string name="rcs_message">5G mesajlar</string>
@@ -1144,8 +1144,8 @@ Tövsiyə olunan söhbət botlarına baxın!"</string>
     <string name="rsc_chatbot_back">Geri</string>
     <string name="rsc_chatbot_detail">Satıcı məlumatı</string>
     <string name="satellite_location_failed">"Yer göndərilə bilmədi. SMS, yer olmadan göndərildi."</string>
-    <string name="satellite_location_privacy"><Data>\"Tiantong Satellite\"nin SMS göndərə bilməsi üçün yerləşmənizə müraciət etməsi lazımdır. Davam etməzdən əvvəl &lt;font color=\"%1$s\"&gt;&lt;a href=\"%2$s\"&gt;Gizlilik Siyasətimizi&lt;/a&gt;&lt;/font&gt; oxuyun və onunla razılaşın.</Data></string>
-    <string name="satellite_location_privacy_title">Yerləşməyə müraciət</string>
+    <string name="satellite_location_privacy"><Data>\"Tiantong Satellite\"nin SMS göndərə bilməsi üçün yerləşmənizə erişməsi lazımdır. Davam etməzdən əvvəl &lt;font color=\"%1$s\"&gt;&lt;a href=\"%2$s\"&gt;Gizlilik Siyasətimizi&lt;/a&gt;&lt;/font&gt; oxuyun və onunla razılaşın.</Data></string>
+    <string name="satellite_location_privacy_title">Yerləşməyə erişim</string>
     <string name="satellite_message_notification_contact_end">(Peyk vasitəsilə göndərilir)</string>
     <string name="satellite_sms_notification">Bu mesaj, Tiantong Satellite xidmətləri tərəfindən göndərildi. Göndərənin köməyinizə ehtiyacı ola bilər.</string>
     <string name="saturday">Şənbə</string>
@@ -1199,7 +1199,7 @@ Tövsiyə olunan söhbət botlarına baxın!"</string>
     <string name="send_rms_editor_hints">5G Mesajlaşma</string>
     <string name="send_rms_editor_hints_omit">Mi Mesaj</string>
     <string name="send_sms">Mesaj göndər</string>
-    <string name="send_sms_with_location">Olduğunuz yeri ehtiva edən mesajlar göndərə bilmək üçün bu tətbiqin yerləşmənizə müraciətinə icazə verin. Bu icazəni Ayarlarda verə bilərsiniz.</string>
+    <string name="send_sms_with_location">Olduğunuz yeri ehtiva edən mesajlar göndərə bilmək üçün bu tətbiqin yerləşmənizə erişməsinə icazə verin. Bu icazəni Ayarlarda verə bilərsiniz.</string>
     <string name="send_success">Uğurla göndərildi</string>
     <string name="send_to">Kimə:</string>
     <string name="sent_label">"Göndərildi: "</string>
@@ -1289,7 +1289,7 @@ Tövsiyə olunan söhbət botlarına baxın!"</string>
     <string name="still_close">Söndür</string>
     <string name="storage_dialog_attachments">MMS qoşmaları:</string>
     <string name="storage_dialog_available_space">Əlçatan sahə:</string>
-    <string name="storage_dialog_database">Data bazası:</string>
+    <string name="storage_dialog_database">Veri bazası:</string>
     <string name="storage_dialog_mms_size">MMS ölçüsü:</string>
     <string name="storage_unavailable">Boş yer yoxdur</string>
     <string name="sub_sim_not_support_mms">"İkinci SIM ilə MMS göndərilə bilmir"</string>
@@ -1320,14 +1320,14 @@ Belə icazələrin verilməsi və ya şəxsi məlumatlarınızın paylaşılmas�
     <string name="system_permission_perm_agree_desc">Bu tətbiqin internetə bağlanmasına və bütün özəllikləri istifadə edə bilməsi üçün ixtiyari icazələri verməsinə icazə ver.</string>
     <string name="system_permission_perm_all_purpose">\"Mesajlaşma\"ya xoş gəldiniz! Bu tətbiqi mətn və multimedia mesajlarını göndərmək və almaq üçün istifadə edə bilərsiniz.</string>
     <string name="system_permission_perm_calendar">Təqvim tədbirlərini yaratmaq üçün</string>
-    <string name="system_permission_perm_call_log">Mesaj yaradarkən son kontaktlarınıza müraciət etmək üçün</string>
+    <string name="system_permission_perm_call_log">Mesaj yaradarkən son kontaktlarınıza erişmək üçün</string>
     <string name="system_permission_perm_call_phone">Zəng etmək üçün</string>
-    <string name="system_permission_perm_get_phone_state">Telefon nömrəsinə və cihazın statusuna müraciət etmək üçün</string>
-    <string name="system_permission_perm_location">Yerləşmənizə müraciət etmək və onu paylaşmaq üçün</string>
-    <string name="system_permission_perm_new_read_sms">Mesaj məzmununa müraciət etmək üçün</string>
-    <string name="system_permission_perm_new_receive_mms">Mesaj məzmununa müraciət etmək üçün</string>
+    <string name="system_permission_perm_get_phone_state">Telefon nömrəsinə və cihazın statusuna erişmək üçün</string>
+    <string name="system_permission_perm_location">Yerləşmənizə erişmək və onu paylaşmaq üçün</string>
+    <string name="system_permission_perm_new_read_sms">Mesaj məzmununa erişmək üçün</string>
+    <string name="system_permission_perm_new_receive_mms">Mesaj məzmununa erişmək üçün</string>
     <string name="system_permission_perm_rcs_call_phone">Zəngləri cavablandırmaq, bitirmək və izləmək üçün</string>
-    <string name="system_permission_perm_read_contact">Mesaj yaradarkən kontaktlara müraciət etmək üçün</string>
+    <string name="system_permission_perm_read_contact">Mesaj yaradarkən kontaktlara erişmək üçün</string>
     <string name="system_permission_perm_read_mms">MMS oxu</string>
     <string name="system_permission_perm_read_sms">\"Mesajlaşma\"nın SMS oxumasına icazə ver</string>
     <string name="system_permission_perm_record_audio">Səs yazmaq üçün</string>
@@ -1339,7 +1339,6 @@ Belə icazələrin verilməsi və ya şəxsi məlumatlarınızın paylaşılmas�
     <string name="system_permission_requested">Soruş</string>
     <string name="system_permission_user_privacy">Davam etməzdən əvvəl, aşağıdakı şərtləri və qaydaları oxuyun və razılaşın.</string>
     <string name="text_in_popup_saved_to_clipboard">Lövhəyə kopyalandı</string>
-    <string name="text_input_layout_default_error">Bu, ilkin xətadır</string>
     <string name="text_message">Mətn mesajı</string>
     <string name="the_anniversary_of_lifting_martial_law">Hərbi Vəziyyətin Qaldırılma İldönümü</string>
     <string name="the_anti_aggression_day">Təcavüzlə Mübarizə Günü</string>
@@ -1403,12 +1402,12 @@ Belə icazələrin verilməsi və ya şəxsi məlumatlarınızın paylaşılmas�
     <string name="to_send_wrapper">%s göndəriləcək</string>
     <string name="to_xiaomi_account_login">Daxil ol</string>
     <string name="toast_failed_to_close_priv_auth">"Səlahiyyətləndirmə ləğv edilə bilmədi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın."</string>
-    <string name="toast_new_not_show_microphone_perm_req">\"Mesajlaşma\"nın bu özəlliyi istifadə etməsi üçün mikrofona müraciətinə icazə verin</string>
-    <string name="toast_not_show_calendar_perm_req">\"Mesajlaşma\"nın bu özəlliyi istifadə etməsi üçün \"Təqvim\"ə müraciətinə icazə verin</string>
-    <string name="toast_not_show_call_log_perm_req">\"Mesajlaşma\"nın bu özəlliyi istifadə etməsi üçün zəng tarixçənizə müraciətinə icazə verin</string>
+    <string name="toast_new_not_show_microphone_perm_req">\"Mesajlaşma\"nın bu özəlliyi istifadə etməsi üçün mikrofona erişməsinə icazə verin</string>
+    <string name="toast_not_show_calendar_perm_req">\"Mesajlaşma\"nın bu özəlliyi istifadə etməsi üçün \"Təqvim\"ə erişməsinə icazə verin</string>
+    <string name="toast_not_show_call_log_perm_req">\"Mesajlaşma\"nın bu özəlliyi istifadə etməsi üçün zəng tarixçənizə erişməsinə icazə verin</string>
     <string name="toast_not_show_call_perm_req">\"Mesajlaşma\"nın bu özəlliyi istifadə etməsi üçün zəng etməsinə icazə ver</string>
     <string name="toast_not_show_camera_perm_req">\"Mesajlaşma\"nın bu özəlliyi istifadə edə bilməsi üçün kameranı istifadə etməsinə icazə ver</string>
-    <string name="toast_not_show_location_perm_req">\"Mesajlaşma\"nın bu özəlliyi istifadə etməsi üçün yerləşmənizə müraciətinə icazə verin</string>
+    <string name="toast_not_show_location_perm_req">\"Mesajlaşma\"nın bu özəlliyi istifadə etməsi üçün yerləşmənizə erişməsinə icazə verin</string>
     <string name="toast_not_show_read_mms_perm_req">Alınmış mesajlara baxa bilmək üçün, \"Mesajlaşma\"ya SMS və MMS-i oxuma icazəsi verməlisiniz. Bu icazəni Ayarlarda verə bilərsiniz.</string>
     <string name="toast_not_show_send_sms_perm_req">Bu özəlliyi istifadə edə bilməsi üçün, əvvəlcə bu tətbiqin mesaj göndərməsinə icazə verin.</string>
     <string name="toast_not_show_storage_perm_req">Bu özəlliyi istifadə etmək üçün icazələr tələb olunur. Bu icazəni Ayarlarda verə bilərsiniz.</string>
@@ -1459,7 +1458,7 @@ Belə icazələrin verilməsi və ya şəxsi məlumatlarınızın paylaşılmas�
     <string name="view">Bax</string>
     <string name="view_message_details">Detallara bax</string>
     <string name="view_more_button">Detallara bax</string>
-    <string name="vital_signs_cta_body">"Həyati əlamətlər dataları (ürək döyüntüsü, SpO₂ və tibbi kart məlumatları daxil olmaqla) Mi Fitness-dən götürülür. Aşağıdakı işarələmə, bu datalara müraciət etməyimiz və onları istifadə etməyimizlə razılaşdığınızı bildirir.
+    <string name="vital_signs_cta_body">"Həyati əlamətlər veriləri (ürək döyüntüsü, SpO₂ və tibbi kart məlumatları daxil olmaqla) Mi Fitness-dən götürülür. Aşağıdakı işarələmə, bu verilərə erişməyimiz və onları istifadə etməyimizlə razılaşdığınızı bildirir.
 Mesaj uzunluğunu idarə etmək üçün hər tibbi kart elementinin yalnız ilk 50 simvolu götürüləcək."</string>
     <string name="vital_signs_cta_title">Həyati əlamətlər</string>
     <string name="vital_signs_data_allergy">Allergiya: %s</string>
@@ -1471,14 +1470,14 @@ Mesaj uzunluğunu idarə etmək üçün hər tibbi kart elementinin yalnız ilk 
     <string name="vital_signs_data_low_spo2">Aşağı SpO₂, ən son: %1$d%%–%2$d%% (%3$s–%4$s)</string>
     <string name="vital_signs_data_low_spo2_multi">Son saatda bir neçə dəfə SpO₂ aşağı idi. Ən son: %1$d–%2$d döyünmə/dəq (%3$s–%4$s)</string>
     <string name="vital_signs_data_medical">Müalicələr: %s</string>
-    <string name="vital_signs_toast_exception">"Həyati əlamətlər datası alına bilmədi"</string>
-    <string name="vital_signs_toast_health_app_low">Həyati əlamətlər datasını ala bilmək üçün Mi Fitness-i güncəlləyin</string>
-    <string name="vital_signs_toast_health_app_no_install">Həyati əlamətlər datasını ala bilmək üçün Mi Fitness-i quraşdırın</string>
-    <string name="vital_signs_toast_no_bpm_spo2">"Ürək döyünmə sürəti və SpO₂ datası alına bilmədi"</string>
-    <string name="vital_signs_toast_no_data">"Həyati əlamətlər datası alına bilmədi"</string>
-    <string name="vital_signs_wait_body">Dataya müraciət edilir. Bu, bir dəqiqə çəkir.</string>
+    <string name="vital_signs_toast_exception">"Həyati əlamətlər veriləri alına bilmədi"</string>
+    <string name="vital_signs_toast_health_app_low">Həyati əlamətlər verilərini ala bilmək üçün Mi Fitness-i güncəlləyin</string>
+    <string name="vital_signs_toast_health_app_no_install">Həyati əlamətlər verilərini ala bilmək üçün Mi Fitness-i quraşdırın</string>
+    <string name="vital_signs_toast_no_bpm_spo2">"Ürək döyünmə sürəti və SpO₂ verisi alına bilmədi"</string>
+    <string name="vital_signs_toast_no_data">"Həyati əlamətlər veriləri alına bilmədi"</string>
+    <string name="vital_signs_wait_body">Verilərə erişilir. Bu, bir dəqiqə çəkir.</string>
     <string name="vital_signs_wait_skip">Ötür</string>
-    <string name="vital_signs_wait_title">Həyati əlamətlər datası</string>
+    <string name="vital_signs_wait_title">Həyati əlamətlər veriləri</string>
     <string name="voice_report_anytime">Həmişə</string>
     <string name="voice_report_off">Bağlı</string>
     <string name="voice_report_wiredon">Naqilli qulaqlıqla</string>
