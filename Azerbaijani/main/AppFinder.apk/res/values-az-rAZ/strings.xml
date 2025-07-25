@@ -433,7 +433,7 @@ Ayarlar &gt; Əsas ekran &gt; Əsas ekranda aşağı sürüşdür bölməsində 
     <string name="setting_revoke_privacy_policy">Razılığın geri götürülməsi</string>
     <string name="setting_revoke_privacy_policy_network_error">Bir şəbəkə xətası baş verdi. Şəbəkəyə bağlanıb yenidən sınayın.</string>
     <string name="setting_search_content">Səhifə axtarışı</string>
-    <string name="setting_search_content_description">Tətbiq datasının axtarıla bilən olmasına icazə ver</string>
+    <string name="setting_search_content_description">Tətbiq verilərinin axtarıla bilən olmasına icazə ver</string>
     <string name="setting_search_content_subtitle">Axtarıla bilən elementlər</string>
     <string name="setting_search_history">Axtarış tarixçəsi</string>
     <string name="setting_search_history_desc">Təzəlikcə axtarılan elementlər</string>
@@ -483,13 +483,13 @@ Ayarlar &gt; Əsas ekran &gt; Əsas ekranda aşağı sürüşdür bölməsində 
     <string name="ssml_contact_action_email">E-poçt: %1$s</string>
     <string name="ssml_contact_action_sms">Mesaj: %1$s</string>
     <string name="ssml_contact_action_whatsapp">WhatsApp: %1$s</string>
-    <string name="ssml_navigation_settingsAccessibility">Əlçatımlılıq</string>
+    <string name="ssml_navigation_settingsAccessibility">Erişiləbilənlik</string>
     <string name="ssml_navigation_settingsAirplaneMode">Təyyarə rejimi</string>
     <string name="ssml_navigation_settingsAllApps">Bütün tətbiqlər</string>
     <string name="ssml_navigation_settingsBattery">Batareya enerjisi</string>
     <string name="ssml_navigation_settingsBatterySaver">Batareya qənaəti</string>
     <string name="ssml_navigation_settingsCast">Yayım</string>
-    <string name="ssml_navigation_settingsDataUsage">İnternet istifadəsi</string>
+    <string name="ssml_navigation_settingsDataUsage">Veri istifadəsi</string>
     <string name="ssml_navigation_settingsDateAndTime">Tarix və vaxt</string>
     <string name="ssml_navigation_settingsDefaultApps">İlkin tətbiqlər</string>
     <string name="ssml_navigation_settingsDeviceInfo">Telefon haqqında</string>

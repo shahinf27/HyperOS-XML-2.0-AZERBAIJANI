@@ -20,8 +20,8 @@
     <string name="about_device_info">Cihaz detallarına bax</string>
     <string name="about_mi_account">Xiaomi Hesabı haqqında</string>
     <string name="accept">İcazə ver</string>
-	<string name="accessibility_sliding_button_state_description_off">bağlı</string>
-	<string name="accessibility_sliding_button_state_description_on">açıq</string>
+    <string name="accessibility_sliding_button_state_description_off">Söndürüldü</string>
+    <string name="accessibility_sliding_button_state_description_on">İşə salındı</string>
 	<string name="accessibility_tab_state_description_unselect">Seçilmədi</string>
 	<string name="accessibility_tab_statedesc_unselect">Seçilmədi</string>
     <string name="account_and_password">Parol</string>
@@ -143,7 +143,7 @@ Artıq %s istifadə edərək Xiaomi Hesabınıza daxil ola bilərsiniz."</string
     <string name="common_google_play_services_install_button">Quraşdır</string>
     <string name="common_google_play_services_install_text">"%1$s, cihazınızda əskik olan Google Play xidmətləri olmadan işləmir."</string>
     <string name="common_google_play_services_install_title">Google Play xidmətlərini əldə et</string>
-    <string name="common_google_play_services_notification_channel_name">Google Play xidmətlərinin əlçatımlılığı</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play xidmətlərinin mövcudluğu</string>
     <string name="common_google_play_services_notification_ticker">Google Play xidmətləri xətası</string>
     <string name="common_google_play_services_unknown_issue">%1$s, Google Play xidmətləri ilə problem yaşayır. Lütfən yenidən sınayın.</string>
     <string name="common_google_play_services_unsupported_text">"%1$s, cihazınız tərəfindən dəstəklənməyən Google Play xidmətləri olmadan işləmir."</string>
@@ -166,7 +166,7 @@ Artıq %s istifadə edərək Xiaomi Hesabınıza daxil ola bilərsiniz."</string
     <string name="copy_link">URL-ni kopyala</string>
     <string name="copy_to_clipboard_successful">Uğurla kopyalandı</string>
     <string name="current_account_can_use_pwd_login">Daxil olmaq üçün parolunuzu daxil edin</string>
-    <string name="data_access_management">Data müraciətini idarə et</string>
+    <string name="data_access_management">Veri erişimini idarə et</string>
     <string name="date_picker_label_day"></string>
     <string name="date_picker_label_month"></string>
     <string name="date_picker_label_year"></string>
@@ -178,7 +178,7 @@ Artıq %s istifadə edərək Xiaomi Hesabınıza daxil ola bilərsiniz."</string
     <string name="delete_bank_card_title">Diqqət</string>
     <string name="delete_device_btn">Sil</string>
     <string name="delete_device_failed">"Cihaz silinə bilmir"</string>
-    <string name="delete_device_notice">"Cihaz silindikdən sonra, avtomatik olaraq Xiaomi Hesabınızdan çıxış ediləcək. Fotolara, mesajlara və ya hesabınızda saxlanılan digər məzmunlara müraciət etmək üçün bu cihazı istifadə edə bilməyəcəksiniz."</string>
+    <string name="delete_device_notice">"Cihaz silindikdən sonra, avtomatik olaraq Xiaomi Hesabınızdan çıxış ediləcək. Fotolara, mesajlara və ya hesabınızda saxlanılan digər məzmunlara erişmək üçün bu cihazı istifadə edə bilməyəcəksiniz."</string>
     <string name="deny">Rədd et</string>
     <string name="device_delete_success_message">"Bu cihazda daxil olmamısınızsa, dərhal parolunuzu dəyişdirin."</string>
     <string name="device_delete_success_title">Çıxış edildi</string>
@@ -224,11 +224,11 @@ Artıq %s istifadə edərək Xiaomi Hesabınıza daxil ola bilərsiniz."</string
     <string name="fido2_verify_fingerprint">Barmaq izini doğrula</string>
     <string name="fido_history_account">Xiaomi Hesabı tarixçəsi</string>
     <string name="find_device">Cihazı tap</string>
-    <string name="find_device_access_denied">"Status alına bilmir, müraciət rədd edildi"</string>
+    <string name="find_device_access_denied">"Status alına bilmir, erişim rədd edildi"</string>
     <string name="find_device_account_error">"Hesab xətasına görə status alına bilmir"</string>
     <string name="find_device_activate_account">Hesabı aktivləşdir</string>
     <string name="find_device_bad_response_error">Bir server xətası baş verdi. Bir və ya iki dəqiqə gözləyib yenidən sınayın.</string>
-    <string name="find_device_clear_data">Məlumatları sil</string>
+    <string name="find_device_clear_data">Veriləri sil</string>
     <string name="find_device_close">Bağlı</string>
     <string name="find_device_error_password_not_confirmed">"\"Cihazı tap\" söndürülə bilmir. Xiaomi Hesab parolunuzu yenidən daxil edin."</string>
     <string name="find_device_error_password_recently_changed">"Parolunuzu son %d gün ərzində dəyişdirmisiniz. Güvənlik səbəblərinə görə \"Cihazı tap\" söndürülə bilmir."</string>
@@ -292,7 +292,7 @@ Artıq %s istifadə edərək Xiaomi Hesabınıza daxil ola bilərsiniz."</string
     <string name="just_a_second">Bir saniyə…</string>
     <string name="keep_phone_ticket_login">Doğrulama kodu ilə daxil ol</string>
     <string name="kr_license_desc">Xiaomi Hesabı və Xiaomi Bulud xidmətlərini istifadə etməzdən əvvəl İstifadəçi Razılaşmamız və Gizlilik Siyasətimizlə razılaşmalısınız.</string>
-    <string name="kr_permission_contacts_desc">Kontakt məlumatlarına müraciət üçün</string>
+    <string name="kr_permission_contacts_desc">Kontakt məlumatlarına erişmək üçün</string>
     <string name="kr_permission_desc">İcazələr tələb olunur</string>
     <string name="kr_permission_phone_desc">Hesabınızı qorumaq üçün</string>
     <string name="kr_permission_sms_desc">Doğrulama kodlarını avtomatik doldurmaq üçün</string>
@@ -315,11 +315,13 @@ Artıq %s istifadə edərək Xiaomi Hesabınıza daxil ola bilərsiniz."</string
     <string name="mipay_identity">Kimlik doğrulama</string>
     <string name="mipay_indentity_done">Doğrulandı</string>
     <string name="miuix_access_state_desc">Seçildi</string>
-	<string name="miuix_accessibility_title">Başlıq</string>
+    <string name="miuix_accessibility_title">Başlıq</string>
     <string name="miuix_alphabet_indexer_name">İndeks çubuğu</string>
+    <string name="miuix_appcompat_accessibility_collapse_state">Yığcamlaşdırıldı</string>
+    <string name="miuix_appcompat_accessibility_expand_state">Genişləndirildi</string>
 	<string name="miuix_appcompat_accessibility_finish_edit_action_mode">Düzəliş rejimindən çıx</string>
-    <string name="miuix_appcompat_accessibility_new_message">Yeni mesaj</string>
-    <string name="miuix_appcompat_accessibility_start_edit_action_mode">Düzəliş rejiminə keç</string>
+    <string name="miuix_appcompat_accessibility_new_message">Yeni bildiriş</string>
+    <string name="miuix_appcompat_accessibility_start_edit_action_mode">Düzəliş rejiminə daxil ol</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Heç birini seçmə</string>
     <string name="miuix_appcompat_action_mode_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_action_mode_title_empty">Elementləri seç</string>
@@ -337,8 +339,7 @@ Artıq %s istifadə edərək Xiaomi Hesabınıza daxil ola bilərsiniz."</string
     <string name="miuix_appcompat_select_item">Elementləri seç</string>
 	<string name="miuix_appcompat_show_dialog_description">Açılan pəncərə</string>
     <string name="miuix_indexer_collect">Kolleksiyalar</string>
-    <string name="miuix_indexer_selected">%s seçildi</string>
-	<string name="miuix_progressbar_loading">Yüklənir</string>
+    <string name="miuix_progressbar_loading">Bir saniyə…</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Təzələmək üçün aşağı çək</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Uğurla təzələndi</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Təzələnir…</string>
@@ -347,7 +348,9 @@ Artıq %s istifadə edərək Xiaomi Hesabınıza daxil ola bilərsiniz."</string
     <string name="miuix_sbl_tracking_progress_labe_up_none">"İndilik bu qədər"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Bir saniyə…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Elementlər yüklənə bilmədi"</string>
-	<string name="miuix_show_password">Parolu göstər</string>
+    <string name="miuix_show_password">Parolu göstər</string>
+    <string name="miuix_stretchablewidget_collapsed">Yığcamlaşdırıldı</string>
+    <string name="miuix_stretchablewidget_expanded">Genişləndirildi</string>
     <string name="monday">Bazar ertəsi</string>
     <string name="monday_short">B.e.</string>
     <string name="monday_shortest">B.e.</string>
@@ -412,9 +415,9 @@ Artıq %s istifadə edərək Xiaomi Hesabınıza daxil ola bilərsiniz."</string
     <string name="not_set">Ayarlanmadı</string>
     <string name="notify_bind_security_phone">Geri qaytarma telefonu əlavə et</string>
     <string name="notify_complete_security_info">Geri qaytarma məlumatı əlavə et</string>
-    <string name="notify_network_restricted_content_bg_network">"Xiaomi Hesabının internetə müraciəti məhdudlaşdırılıb. İcazə vermək üçün toxunun."</string>
+    <string name="notify_network_restricted_content_bg_network">"Xiaomi Hesabının internetə erişimi məhdudlaşdırılıb. İcazə vermək üçün toxunun."</string>
     <string name="notify_network_restricted_content_hidden_state">"Xiaomi Hesabının arxaplan fəaliyyəti məhdudlaşdırılıb. İcazə vermək üçün toxunun."</string>
-    <string name="notify_network_restricted_content_mobile_network">"Xiaomi Hesabının internetə müraciəti məhdudlaşdırılıb. İcazə vermək üçün toxunun."</string>
+    <string name="notify_network_restricted_content_mobile_network">"Xiaomi Hesabının internetə erişimi məhdudlaşdırılıb. İcazə vermək üçün toxunun."</string>
     <string name="notify_network_restricted_title">"Xiaomi Hesabı şəbəkəyə bağlana bilmədi"</string>
     <string name="notify_verify_again_security_phone">Təsdiqlə</string>
     <string name="notify_verify_security_phone">Telefon</string>
@@ -431,7 +434,7 @@ Artıq %s istifadə edərək Xiaomi Hesabınıza daxil ola bilərsiniz."</string
     <string name="optional_permissions">İxtiyari icazələr</string>
     <string name="page_load_failed">"Səhifə açıla bilmir"</string>
     <string name="pasport_register_dialog_message">İndi %s telefon nömrəniz vasitəsilə Xiaomi Hesabı yaradılsın?</string>
-    <string name="passport_access_denied">Müraciət rədd edildi</string>
+    <string name="passport_access_denied">Erişim rədd edildi</string>
     <string name="passport_account_crop_user_avatar">Fotonu kəs</string>
     <string name="passport_account_empty_user_name">Adınızı daxil edin</string>
     <string name="passport_account_error_all_space_user_name">"Ad yalnız boşluq simvolundan ibarət ola bilməz"</string>
@@ -610,7 +613,7 @@ Artıq %s istifadə edərək Xiaomi Hesabınıza daxil ola bilərsiniz."</string
     <string name="passport_photo_picker_not_found">İstifadə ediləcək foto yoxdur.</string>
     <string name="passport_privacy_policy">Gizlilik Siyasəti</string>
     <string name="passport_privacy_policy_required">Gizlilik Siyasəti (məcburi)</string>
-    <string name="passport_provision_input_email_register_prompt">Şəxsi datalarınız, seçdiyiniz bölgənin qanun və qaydalarına uyğun olaraq saxlanacaqdır.</string>
+    <string name="passport_provision_input_email_register_prompt">Şəxsi veriləriniz, seçdiyiniz bölgənin qanun və qaydalarına uyğun olaraq saxlanacaqdır.</string>
     <string name="passport_provision_password_req_notice">Aşağıdakılardan ən azı <xliff id="min_pwd_type" refersto="2">%3$d</xliff> dənəsi ilə <xliff id="min_pwd_len" refersto="8">%1$d</xliff>-<xliff id="max_pwd_len" refersto="16">%2$d</xliff> simvol: hərf, rəqəm, xüsusi simvollar</string>
     <string name="passport_qq_application_id"></string>
     <string name="passport_qq_login_btn_content_description">QQ ilə daxil olun</string>
@@ -649,7 +652,7 @@ Artıq %s istifadə edərək Xiaomi Hesabınıza daxil ola bilərsiniz."</string
     <string name="passport_request_error_invalid_token">"Doğrulana bilmədi"</string>
     <string name="passport_request_error_network">Bir şəbəkə xətası baş verdi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın.</string>
     <string name="passport_request_error_unknown">Sistem xətası baş verdi. Geri qayıdın və yenidən sınayın.</string>
-    <string name="passport_request_gallery_permission_message">Qalereyaya müraciətə icazə verin:&lt;br /&gt;Profil fotosunu ayarlamaq üçün</string>
+    <string name="passport_request_gallery_permission_message">Qalereyaya erişməsinə icazə verin:&lt;br /&gt;Profil fotosunu ayarlamaq üçün</string>
     <string name="passport_request_permission_title">İcazələr tələb olunur</string>
     <string name="passport_resend_active_email">E-poçtu yenidən göndər</string>
     <string name="passport_resend_ticket">Kodu yenidən göndər</string>
@@ -777,10 +780,10 @@ Aşağıdakı kodu Xiaomi tətbiqi ilə skan edin."</string>
     <string name="removing_account">Çıxış edilir…</string>
     <string name="reopen">İşə sal</string>
     <string name="request_open_permission">İcazələr tələb olunur</string>
-    <string name="request_use_camera_message">"Xiaomi Hesabına telefonunuzun kamerasına müraciət etmə icazəsi verilsin?"</string>
-    <string name="request_use_camera_title">Kameraya müraciət</string>
-    <string name="request_use_gallery_message">Xiaomi Hesabına Qalereyaya müraciət etmə icazəsi verilsin?</string>
-    <string name="request_use_gallery_title">Qalereyaya müraciət</string>
+    <string name="request_use_camera_message">"Xiaomi Hesabına telefonunuzun kamerasına erişim icazəsi verilsin?"</string>
+    <string name="request_use_camera_title">Kameraya erişim</string>
+    <string name="request_use_gallery_message">Xiaomi Hesabına Qalereyaya erişim icazəsi verilsin?</string>
+    <string name="request_use_gallery_title">Qalereyaya erişim</string>
     <string name="request_use_writing_clipboard_message">Xiaomi Hesab kimliyinizi kopyalamaq üçün, Xiaomi Hesabının elementləri lövhədə saxlamasına icazə verin.</string>
     <string name="resend_email_reach_limit_message">"Həddən artıq doğrulama e-poçtu tələb etdiniz. Doğrulama e-poçtunun gələn qutunuzun Spam qovluğunda olmadığına əmin olun."</string>
     <string name="restart_action">Başdan başlat</string>
@@ -848,7 +851,7 @@ Aşağıdakı kodu Xiaomi tətbiqi ilə skan edin."</string>
     <string name="solar_term_white_dews">Şeh</string>
     <string name="solar_term_winter_begins">Qış başlayır</string>
     <string name="solar_term_winter_solstice">Qış gündönümü</string>
-    <string name="state_data_error">"Məlumat alına bilmədi"</string>
+    <string name="state_data_error">"Veri alına bilmədi"</string>
     <string name="state_loading">Bir saniyə…</string>
     <string name="sunday">Bazar</string>
     <string name="sunday_short">Baz</string>
@@ -861,7 +864,6 @@ Aşağıdakı kodu Xiaomi tətbiqi ilə skan edin."</string>
     <string name="tab">Vərəq</string>
     <string name="talkback_scan_barcode">QR kodu skan et</string>
     <string name="template_percent">%1$d faiz.</string>
-	<string name="text_input_layout_default_error">Bu, ilkin xətadır</string>
     <string name="the_anniversary_of_lifting_martial_law">Hərbi Vəziyyətin Qaldırılma İldönümü</string>
     <string name="the_anti_aggression_day">Təcavüzlə Mübarizə Günü</string>
     <string name="the_arbor_day">Ağacəkmə Günü</string>
@@ -925,12 +927,12 @@ Aşağıdakı kodu Xiaomi tətbiqi ilə skan edin."</string>
     <string name="update_phone_notice">Güvənlik ayarlarını dəyişdir</string>
     <string name="use_google_account_login">Google ilə daxil olun</string>
     <string name="user_agreement_device_permission_desc">Giriş mühitinin güvənliyini təmin etmək üçün</string>
-    <string name="user_agreement_device_permission_title">Cihaz məlumatlarına müraciət</string>
+    <string name="user_agreement_device_permission_title">Cihaz məlumatlarına erişim</string>
     <string name="user_agreement_must_permission_msg">Məcburi icazələr (bu tətbiqin təməl özəllikləri və xidmətləri üçün istifadə edilir)</string>
-    <string name="user_agreement_permission_summary_msg">Xiaomi Hesabı, sizə Xiaomi tərəfindən təqdim olunan bütün xidmətlərə müraciət imkanı verir. Bu tətbiq internetə bağlanmalıdır və normal işləməsi üçün aşağıdakı icazələri tələb edir:</string>
+    <string name="user_agreement_permission_summary_msg">Xiaomi Hesabı, sizə Xiaomi tərəfindən təqdim olunan bütün xidmətlərə erişim imkanı verir. Bu tətbiq internetə bağlanmalıdır və normal işləməsi üçün aşağıdakı icazələri tələb edir:</string>
     <string name="user_agreement_read_phone_permission_desc">Telefon nömrəsini istifadə edərək daxil olmaq üçün</string>
     <string name="user_agreement_read_phone_permission_title">Telefon nömrələrini oxu</string>
-    <string name="user_agreement_use_account_msg">Xiaomi Hesabı, sizə Xiaomi tərəfindən təqdim olunan bütün xidmətlərə müraciət imkanı verir. </string>
+    <string name="user_agreement_use_account_msg">Xiaomi Hesabı, sizə Xiaomi tərəfindən təqdim olunan bütün xidmətlərə erişim imkanı verir. </string>
     <string name="user_agreement_wlan_permission_desc">Giriş mühitinin güvənlik problemləri baxımından yoxlanılması üçün</string>
     <string name="user_agreement_wlan_permission_title_china">Wi-Fi-ı açıb bağlama</string>
     <string name="user_avatar_update_title">Profil şəklini dəyişdir</string>

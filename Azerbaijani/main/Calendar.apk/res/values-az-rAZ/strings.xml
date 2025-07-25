@@ -114,7 +114,7 @@
     <string name="auth_cancel">cancel</string>
     <string name="auth_continue">continue</string>
     <string name="auth_notification_error_ssl_cert_invalid">SSL sertifikatı yararsızdır. Davam edilsin?</string>
-    <string name="auth_notification_error_ssl_date_invalid">SSL datası yararsızdır. Davam edilsin?</string>
+    <string name="auth_notification_error_ssl_date_invalid">SSL verisi yararsızdır. Davam edilsin?</string>
     <string name="auth_notification_error_ssl_expired">SSL müddəti bitib. Davam edilsin?</string>
     <string name="auth_notification_error_ssl_id_mismatch">SSL kimlik uyuşmazlığı. Davam edilsin?</string>
     <string name="auth_notification_error_ssl_invalid">SSL yararsızdır. Davam edilsin?</string>
@@ -154,7 +154,7 @@
     <string name="bottomsheet_drag_handle_clicked">Tutacağa cüt toxunaraq sürüklə</string>
     <string name="bottomsheet_drag_handle_content_description">Sürükləmə tutacağı</string>
     <string name="calendar_account_settings">Hesab ayarları</string>
-    <string name="calendar_data_sharing_instruction">Datanın üçüncü tərəflərlə paylaşılmasına dair bəyanat</string>
+    <string name="calendar_data_sharing_instruction">Verilərin üçüncü tərəflərlə paylaşılmasına dair bəyanat</string>
     <string name="calendar_desc_withdraw_consent">\"Təqvim\"in Gizlilik Siyasətinə verilən razılığı geri götürmə</string>
     <string name="calendar_import_source">Mənbə</string>
     <string name="calendar_privacy_policy">Gizlilik Siyasəti</string>
@@ -535,8 +535,8 @@
     <string name="limit">Limit</string>
     <string name="limit_after_tomorrow">Birisigün</string>
     <string name="limit_card_limit_desc">Məhdudlaşdırılmış lisenziya nişan nömrəsi</string>
-    <string name="limit_card_no_limit_data_desc">Müvəqqəti olaraq limitsiz data</string>
-    <string name="limit_card_no_limit_rule">Müvəqqəti olaraq limitsiz data qaydası</string>
+    <string name="limit_card_no_limit_data_desc">Müvəqqəti olaraq limitsiz veri</string>
+    <string name="limit_card_no_limit_rule">Müvəqqəti olaraq limitsiz veri qaydası</string>
     <string name="limit_card_not_limit_desc">Bu gün məhdudiyyət yoxdur</string>
     <string name="limit_card_number_label">Nəqliyyatınızın son nömrəsi</string>
     <string name="limit_card_preview_desc">Abunə olduqdan və trafikin məhdudlaşdırılması xatırlatmalarını qurduqdan sonra məlumatları güncəlləyin</string>
@@ -578,9 +578,9 @@
     <string name="lunar_year">İl</string>
     <string name="match_ed">Bitdi</string>
     <string name="match_not_started">Başlamayıb</string>
-    <string name="menstruation_card_default_title">Menstruasiya köməkçisi üçün data yoxdur</string>
+    <string name="menstruation_card_default_title">Menstruasiya köməkçisi üçün veri yoxdur</string>
     <string name="menstruation_card_error_sub_title">Təqvimdən çıxıb yenidən başlatmağa çalışa bilərsiniz</string>
-    <string name="menstruation_card_error_title">Hazırkı data tələbi anormaldır</string>
+    <string name="menstruation_card_error_title">Hazırkı veri tələbi anormaldır</string>
     <string name="menstruation_card_private_mode_sub_title">İndi şəxsi rejimdədir</string>
     <string name="menstruation_card_private_mode_title">Menstruasiya dövrü****</string>
     <string name="menstruation_dialog_tips">Menstruasiya köməkçisi, Xiaomi Health tərəfindən təqdim edilir. \"Davam et\"ə toxunmaqla \"Təqvim\" istifadənizi davam etdirmək üçün Xiaomi Health tətbiqi sizin üçün endiriləcək və ya güncəllənəcək.</string>

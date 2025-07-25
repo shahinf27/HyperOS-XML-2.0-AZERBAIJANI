@@ -154,7 +154,7 @@
     <string name="item_title_area_conversion">Sahə</string>
     <string name="item_title_bmi">BKİ</string>
     <string name="item_title_currency">Pul vahidi</string>
-    <string name="item_title_data_conversion">Data</string>
+    <string name="item_title_data_conversion">Veri</string>
     <string name="item_title_date_calculator">Tarix</string>
     <string name="item_title_discount">Endirim</string>
     <string name="item_title_finance">Maliyyə</string>
@@ -324,7 +324,7 @@ Bir illik və beş illik LPR-lər hər ayın 20-də (bank tətilləri ilə əlaq
     <string name="name_price">Son qiymət</string>
     <string name="name_save">"Saxladığınız "</string>
     <string name="negDesc">Sıfırın aşağısındakı və yuxarısındakı temperaturlar arasında keçid</string>
-    <string name="new_privacy_string"><Data>\"Kalkulyatora xoş gəlmisiniz!&lt;br/&gt;Bu tətbiq aşağıdakı özəllikləri ehtiva edir:&lt;br/&gt;• Təməl kalkulyator&lt;br/&gt;• Elmi kalkulyator&lt;br/&gt;• Universal kalkulyator(e.g. pul vahidi, ölçü vahidləri və s.)&lt;br/&gt;• Kreditlər, investisiyalar, EMI və daha çoxu üçün hesablama şablonları&lt;br/&gt;Yığdığımız datanı necə istifadə etdiyimizlə bağlı &lt;a href=\"%1$s\"&gt;\"Gizlilik Siyasəti\"mizdə&lt;/a&gt; öyrənə bilərsiniz. \"Kalkulyator\"u istifadə etməzdən əvvəl &lt;a href=\"%2$s\"&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=\"%3$s\"&gt;\"Gizlilik Siyasəti\"mizi&lt;/a&gt; oxuyun və razılaşın. \"Kalkulyator\"unGizlilik Siyasəti ilə bağlı verdiyiniz razılığı istənilən vaxt Ayarlarda geri götürə bilərsiniz. \"Gizlilik Siyasəti\"mizlə razılaşmasanız, bu tətbiqin bəzi özəlliklərindən faydalana bilməyəcəksiniz, ancaq təməl funksionallıqlar sizin üçün əlçatan olmağa davam edəcək.\"</Data></string>
+    <string name="new_privacy_string"><Data>\"Kalkulyatora xoş gəlmisiniz!&lt;br/&gt;Bu tətbiq aşağıdakı özəllikləri ehtiva edir:&lt;br/&gt;• Təməl kalkulyator&lt;br/&gt;• Elmi kalkulyator&lt;br/&gt;• Universal kalkulyator(e.g. pul vahidi, ölçü vahidləri və s.)&lt;br/&gt;• Kreditlər, investisiyalar, EMI və daha çoxu üçün hesablama şablonları&lt;br/&gt;Yığdığımız veriləri necə istifadə etdiyimizlə bağlı &lt;a href=\"%1$s\"&gt;\"Gizlilik Siyasəti\"mizdə&lt;/a&gt; öyrənə bilərsiniz. \"Kalkulyator\"u istifadə etməzdən əvvəl &lt;a href=\"%2$s\"&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=\"%3$s\"&gt;\"Gizlilik Siyasəti\"mizi&lt;/a&gt; oxuyun və razılaşın. \"Kalkulyator\"unGizlilik Siyasəti ilə bağlı verdiyiniz razılığı istənilən vaxt Ayarlarda geri götürə bilərsiniz. \"Gizlilik Siyasəti\"mizlə razılaşmasanız, bu tətbiqin bəzi özəlliklərindən faydalana bilməyəcəksiniz, ancaq təməl funksionallıqlar sizin üçün əlçatan olmağa davam edəcək.\"</Data></string>
     <string name="night">Axşam</string>
     <string name="none">Yoxdur</string>
     <string name="noon">Günorta</string>

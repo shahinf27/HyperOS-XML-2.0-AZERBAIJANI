@@ -25,6 +25,10 @@
     <string name="abrupt_weather_settings_summary_type_b">Qeyri-adi Hava Xəbərdarlıq Keçidi</string>
     <string name="abrupt_weather_settings_title">Qeyri-adi Hava Xəbərdarlığı</string>
     <string name="accessibility_ad_close">Tövsiyə olunan məzmunu bağla</string>
+    <string name="accessibility_sliding_button_state_description_off">Söndürüldü</string>
+    <string name="accessibility_sliding_button_state_description_on">İşə salındı</string>
+    <string name="accessibility_tab_state_description_unselect">Seçilmədi</string>
+    <string name="accessibility_tab_statedesc_unselect">Seçilmədi</string>
     <string name="accessibility_webview_share">Paylaş</string>
     <string name="act_find_city_hint">Yerləşməni daxil et</string>
     <string name="act_find_city_hot_attractions_title">Məşhur şəhərlər</string>
@@ -44,12 +48,12 @@
     <string name="actionbar_button_up_description">Geri</string>
     <string name="activity_alert_detail_title"></string>
     <string name="activity_find_city_dialog_cancel">İmtina</string>
-    <string name="activity_find_city_dialog_message">Dəqiq yerləşmə məlumatı əldə etmək üçün \"Hava\" tətbiqinin yerləşmənizə müraciətinə icazə verin.</string>
+    <string name="activity_find_city_dialog_message">Dəqiq yerləşmə məlumatı əldə etmək üçün \"Hava\" tətbiqinin yerləşmənizə erişməsinə icazə verin.</string>
     <string name="activity_find_city_dialog_message_global">Yerləşmə xidmətlərini açın və cihazınızın naqilsiz şəbəkələri istifadə edərək yerləşməni aşkarlamasına icazə verin.</string>
-    <string name="activity_find_city_dialog_message_location_service">Əlaqəli hava məlumatlarını əldə etmək üçün, \"Hava\" tətbiqinin yerləşmənizə müraciətinə icazə verin.</string>
+    <string name="activity_find_city_dialog_message_location_service">Əlaqəli hava məlumatlarını əldə etmək üçün, \"Hava\" tətbiqinin yerləşmənizə erişməsinə icazə verin.</string>
     <string name="activity_find_city_dialog_set">Ayarlar</string>
-    <string name="activity_find_city_dialog_title">Yerləşməyə müraciət</string>
-    <string name="activity_find_city_location_fail_dialog_message">Bu özəlliyi istifadə edə bilmək üçün bu tətbiqin yerinizə müraciətinə icazə verin.</string>
+    <string name="activity_find_city_dialog_title">Yerləşməyə erişim</string>
+    <string name="activity_find_city_location_fail_dialog_message">Bu özəlliyi istifadə edə bilmək üçün bu tətbiqin yerinizə erişməsinə icazə verin.</string>
     <string name="activity_find_city_location_fail_dialog_negative_btn_tag">İmtina</string>
     <string name="activity_find_city_location_fail_dialog_positive_btn_tag">Ayarlar</string>
     <string name="activity_find_city_location_fail_dialog_title">"İcazələr tələb olunur"</string>
@@ -102,7 +106,7 @@
     <string name="aqi_station_min_distance_station">Ən yaxın stansiya</string>
     <string name="aqi_sub_desc">HKİ</string>
     <string name="aqi_top_pollution">Əsas çirkləndiricilər</string>
-    <string name="background_location_dialog_msg">"Bu tətbiqin həmişə dəqiq yerləşmə məlumatlarını istifadə etdiyinə əmin olmaq üçün, arxaplanda işləyərkən yerləşmənizə müraciətinə icazə verin. Bu icazəni Ayarlarda verə bilərsiniz."</string>
+    <string name="background_location_dialog_msg">"Bu tətbiqin həmişə dəqiq yerləşmə məlumatlarını istifadə etdiyinə əmin olmaq üçün, arxaplanda işləyərkən yerləşmənizə erişməsinə icazə verin. Bu icazəni Ayarlarda verə bilərsiniz."</string>
     <string name="background_location_dialog_open_button">Ayarlar</string>
     <string name="background_location_dialog_title">İcazələr tələb olunur</string>
     <string name="button_abandon">Dəyişiklikləri ləğv et</string>
@@ -128,7 +132,7 @@
     <string name="card_item_download_recommend">Tövsiyə</string>
     <string name="card_vote_item_vs">VS</string>
     <string name="change_alert">Şəbəkə bağlantınızı yoxlayıb yenidən sınayın</string>
-    <string name="china_version_first_start_network_msg">"Hava tətbiqini istifadə edə bilmək üçün \"Xiaomi\"yə aid olan bu bəyanatlarla razılaşmalısınız: %1$s və %2$s. Hava tətbiqinin normal işləməsi üçün yerləşmənizə müraciət etməsi və internetə bağlanması lazımdır. Razılaşırsınız?"</string>
+    <string name="china_version_first_start_network_msg">"Hava tətbiqini istifadə edə bilmək üçün \"Xiaomi\"yə aid olan bu bəyanatlarla razılaşmalısınız: %1$s və %2$s. Hava tətbiqinin normal işləməsi üçün yerləşmənizə erişməsi və internetə bağlanması lazımdır. Razılaşırsınız?"</string>
     <string name="city_exceeded_tips">"Daha çox yer əlavə edilə bilmir. Yenisini əlavə etməzdən əvvəl bir neçə yeri silin."</string>
     <string name="city_exceeded_tips_title">"Yer əlavə edilə bilmir"</string>
     <string name="city_exceeded_warning">"Daha çox yer əlavə edilə bilmir. Yenisini əlavə etməzdən əvvəl bir yeri silin."</string>
@@ -193,7 +197,7 @@ Davam etməzdən əvvəl %2$s üçün yeni versiyanı oxuyun və razılaşın."<
     <string name="empty_view_refresh">Yenidən sına</string>
     <string name="eras_ad">B.E.</string>
     <string name="eras_bc">B.E.Ə.</string>
-    <string name="eu_region_version_first_start_network_msg">"Bu məhsulu istifadə edərək razılaşırsınız ki, bu məhsul şəbəkəyə bağlanacaq, axtardığınız şəhərlərin koordinatları daxil olmaqla şəxsi məlumatlarınızı və Gizlilik Siyasətimizdə göstərilən digər data növlərini yığacaq, emal edəcək və istifadə edəcək. Məlumatları necə yığdığımızı və emal etdiyimizi öyrənmək üçün Gizlilik Siyasətimizə baxın. \"Razıyam\"a toxunaraq Xiaomi-nin bu bəyanatlarını qəbul edirsiniz: %1$s və %2$s."</string>
+    <string name="eu_region_version_first_start_network_msg">"Bu məhsulu istifadə edərək razılaşırsınız ki, bu məhsul şəbəkəyə bağlanacaq, axtardığınız şəhərlərin koordinatları daxil olmaqla şəxsi məlumatlarınızı və Gizlilik Siyasətimizdə göstərilən digər veri növlərini yığacaq, emal edəcək və istifadə edəcək. Məlumatları necə yığdığımızı və emal etdiyimizi öyrənmək üçün Gizlilik Siyasətimizə baxın. \"Razıyam\"a toxunaraq Xiaomi-nin bu bəyanatlarını qəbul edirsiniz: %1$s və %2$s."</string>
     <string name="evening">Günortadan sonra</string>
     <string name="exo_controls_fastforward_description">İrəli çək</string>
     <string name="exo_controls_fullscreen_description">Tam ekran rejimi</string>
@@ -251,7 +255,7 @@ Davam etməzdən əvvəl %2$s üçün yeni versiyanı oxuyun və razılaşın."<
     <string name="feedback_temperature_subtitle">Hazırda göstərilən: %1$s°</string>
     <string name="feedback_temperature_title">Temperatur</string>
     <string name="feedback_weather">Hava durumu əks-əlaqəsi</string>
-    <string name="first_start_network_title">İnternet bağlantısı və yerləşmə müraciəti</string>
+    <string name="first_start_network_title">İnternet bağlantısı və yerləşmə erişimi</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month">MMMM yyyy</string>
     <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
@@ -309,7 +313,7 @@ sına"</string>
     <string name="life_index_title">Hava durumu indeksi</string>
     <string name="locate_fail_detail_err">"Cihaz tapıla bilmir
 Əllə şəhər əlavə etmək və ya yenidən yerləşdirmək üçün ekrana toxunun"</string>
-    <string name="location_provider_btn_text">\"Hava\"nın yerləşmənizə müraciətinə icazə verin</string>
+    <string name="location_provider_btn_text">\"Hava\"nın yerləşmənizə erişməsinə icazə verin</string>
     <string name="location_tag">Yerləşmə</string>
 	<string name="logo_accu_content">AccuWeather veb saytını aç</string>
     <string name="manager_city_option_add_city_back_search">Axtarışa qayıt</string>
@@ -336,7 +340,13 @@ sına"</string>
     <string name="minute_rain_title">Yağıntı proqnozu</string>
     <string name="missing_required_permission">Lazımi bir icazəni sıradan çıxartdınız.</string>
     <string name="miuix_access_state_desc">Seçildi</string>
+    <string name="miuix_accessibility_title">Başlıq</string>
     <string name="miuix_alphabet_indexer_name">İndeks çubuğu</string>
+    <string name="miuix_appcompat_accessibility_collapse_state">Yığcamlaşdırıldı</string>
+    <string name="miuix_appcompat_accessibility_expand_state">Genişləndirildi</string>
+    <string name="miuix_appcompat_accessibility_finish_edit_action_mode">Düzəliş rejimindən çıx</string>
+    <string name="miuix_appcompat_accessibility_new_message">Yeni bildiriş</string>
+    <string name="miuix_appcompat_accessibility_start_edit_action_mode">Düzəliş rejiminə daxil ol</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Heç birini seçmə</string>
     <string name="miuix_appcompat_action_mode_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_action_mode_title_empty">Elementləri seç</string>
@@ -354,7 +364,7 @@ sına"</string>
     <string name="miuix_appcompat_select_item">Elementləri seç</string>
 	<string name="miuix_appcompat_show_dialog_description">Açılan pəncərə</string>
     <string name="miuix_indexer_collect">Kolleksiyalar</string>
-    <string name="miuix_indexer_selected">%s seçildi</string>
+    <string name="miuix_progressbar_loading">Bir saniyə…</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Təzələmək üçün aşağı çək</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Uğurla təzələndi</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Təzələnir…</string>
@@ -363,6 +373,9 @@ sına"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">"İndilik bu qədər"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Bir saniyə…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Elementlər yüklənə bilmədi"</string>
+    <string name="miuix_show_password">Parolu göstər</string>
+    <string name="miuix_stretchablewidget_collapsed">Yığcamlaşdırıldı</string>
+    <string name="miuix_stretchablewidget_expanded">Genişləndirildi</string>
     <string name="monday">Bazar ertəsi</string>
     <string name="monday_short">B.e.</string>
     <string name="monday_shortest">B.e.</string>
@@ -445,7 +458,7 @@ sına"</string>
     <string name="permission_privacy">Gizlilik Siyasəti (məcburi)</string>
     <string name="permission_select_all">Hamısını seç</string>
     <string name="permission_storage">Anbar</string>
-    <string name="permission_storage_introduce">Cihazdakı elementlərə müraciət etmək və onları saxlamaq üçün</string>
+    <string name="permission_storage_introduce">Cihazdakı elementlərə erişmək və onları saxlamaq üçün</string>
     <string name="permission_user_protocol">İstifadəçi Razılaşması (məcburi)</string>
     <string name="pm">GS</string>
     <string name="policy_settings">Şərtlər və qaydalar</string>
@@ -466,7 +479,7 @@ sına"</string>
     <string name="privacy_settings">Gizlilik Siyasəti</string>
     <string name="pull_fresh_updated">Uğurla güncəlləndi</string>
     <string name="pull_fresh_updating">Güncəllənir…</string>
-    <string name="q_version_location_provider_btn_text">Yerləşmə müraciətini işə salın və yerləşmə dəqiqliyini təkmilləşdirin</string>
+    <string name="q_version_location_provider_btn_text">Yerləşmə erişimini işə salın və yerləşmə dəqiqliyini təkmilləşdirin</string>
     <string name="radar_cloud_image_title">Radar xəritəsi</string>
     <string name="radar_cloud_update_time">%1$s saatından əvvəl</string>
     <string name="rain_sound_setting_summary_text">Səs effektləri ilə hava dəyişikliklərini müşayiət edir</string>
@@ -485,11 +498,11 @@ sına"</string>
     <string name="realtime_uv_unit">%1$s</string>
     <string name="realtime_wind_default_title">Külək</string>
     <string name="receive_net_mock_success">Saxta şəbəkə alma uğurludur</string>
-    <string name="refresh_empty_data">"Data yüklənə bilmədi. Bir və ya iki dəqiqə gözləyib yenidən sınayın."</string>
+    <string name="refresh_empty_data">"Verilər yüklənə bilmədi. Bir və ya iki dəqiqə gözləyib yenidən sınayın."</string>
     <string name="refresh_fail">"Şəbəkəyə bağlana bilmədi"</string>
     <string name="reminder_from_xiaomi_weather_app">Mi Hava xəbərdarlığı</string>
     <string name="request_cta_connect_net">Bu tətbiqin internetə bağlanmağına icazə verin və yuxarıda sadalanan məcburi icazələri verin.</string>
-    <string name="request_permission_background_location_dialog_content">Bu tətbiqin həmişə dəqiq yer məlumatlarını istifadə etdiyinə əmin olmaq üçün həmişə yerləşmənizə müraciət etməsinə icazə verin.</string>
+    <string name="request_permission_background_location_dialog_content">Bu tətbiqin həmişə dəqiq yer məlumatlarını istifadə etdiyinə əmin olmaq üçün həmişə yerləşmənizə erişməsinə icazə verin.</string>
     <string name="request_permission_location_dialog_content">Hazırkı yerləşmənizlə əlaqəli hava məlumatlarını göstərmək üçün</string>
     <string name="request_permission_main_purpose">Hava məlumatları göstərilir</string>
     <string name="request_permission_storage_dialog_content">Şəkil formatında hava məlumatlarını paylaşmaq üçün</string>
@@ -520,13 +533,13 @@ sına"</string>
     <string name="setting_confirm_to_revoke_permission_title">Razılığı geri götür</string>
     <string name="setting_content_promotion">Məzmun tanıtımı</string>
     <string name="setting_experience_plan_title">İstifadəçi təcrübəsi planı</string>
-    <string name="setting_get_location">Yerləşməyə müraciət</string>
+    <string name="setting_get_location">Yerləşməyə erişim</string>
     <string name="setting_not_allowed">İcazə verilmədi</string>
     <string name="setting_notification_manager">Bildirişlər</string>
     <string name="setting_permission_description">İcazə detalları</string>
     <string name="setting_privacy">Gizlilik</string>
     <string name="setting_privacy_policy_withdrawal_of_Consent">Razılığı geri götür</string>
-    <string name="setting_read_and_write_phone_storage">Anbara müraciət</string>
+    <string name="setting_read_and_write_phone_storage">Anbara erişim</string>
     <string name="setting_read_privacy_policy">Gizlilik Siyasətinə bax</string>
     <string name="setting_share_weather_need">Şəkilləri hava məlumatları ilə paylaşmaq üçün</string>
     <string name="setting_today_news">Bugünün məlumat kartı</string>
@@ -608,8 +621,6 @@ sına"</string>
     <string name="temperature_unit_C">%1$s℃</string>
     <string name="temperature_unit_F">%1$s℉</string>
     <string name="temperature_unit_default">0</string>
-	<string name="text_input_layout_default_content_description">这是默认的content description</string>
-    <string name="text_input_layout_default_error">这是默认的error</string>
     <string name="thanku_for_feedback">Əks-əlaqəniz üçün təşəkkürlər, ayarlar səhifəsində hava məlumatı videosunu təkrar aça bilərsiniz</string>
     <string name="the_anniversary_of_lifting_martial_law">Hərbi Vəziyyətin Qaldırılma İldönümü</string>
     <string name="the_anti_aggression_day">Təcavüzlə Mübarizə Günü</string>
@@ -644,7 +655,7 @@ sına"</string>
     <string name="the_united_nations_day">Birləşmiş Millətlər Günü</string>
     <string name="the_valentines_day">"Sevgililər Günü"</string>
     <string name="the_water_lantern_festival">Su Fənəri Festivalı</string>
-    <string name="third_party_data_sharing_instructions">Datanın üçüncü tərəflərlə paylaşılmasına dair bəyanat</string>
+    <string name="third_party_data_sharing_instructions">Verilərin üçüncü tərəflərlə paylaşılmasına dair bəyanat</string>
     <string name="thursday">Cümə axşamı</string>
     <string name="thursday_short">C.a.</string>
     <string name="thursday_shortest">C.a.</string>
@@ -671,7 +682,7 @@ sına"</string>
     <string name="unit_wind">Külək sürəti vahidləri</string>
     <string name="update_night_setting_summary_text">23:00-07:00 arası hava məlumatlarını güncəllə</string>
     <string name="update_night_setting_title_text">Gecələr avtomatik güncəllə</string>
-    <string name="update_notification_info">Datalar arxaplanda güncəllənir…</string>
+    <string name="update_notification_info">Verilər arxaplanda güncəllənir…</string>
     <string name="update_setting_title_text">Hava məlumatlarını güncəllə</string>
     <string name="updated_a_moment_ago">Bir dəqiqə əvvəl güncəlləndi</string>
     <string name="updating">Güncəllənir…</string>
@@ -679,7 +690,7 @@ sına"</string>
     <string name="user_notice">Diqqət</string>
     <string name="v7_preference_off">BAĞLI</string>
     <string name="v7_preference_on">AÇIQ</string>
-    <string name="video_dialog_subtitle">"Mobil internet istifadə edirsiniz. Video yenə də oxudulsun?"</string>
+    <string name="video_dialog_subtitle">"Mobil veri istifadə edirsiniz. Video yenə də oxudulsun?"</string>
     <string name="view_drag_end_talkback">%1$s, %2$s sətrinə daşındı</string>
     <string name="view_drag_move_talkback">%s sətrinə daşı</string>
 	<string name="view_forecast_item_yesterday">Dünən</string>
