@@ -49,7 +49,7 @@
     <string name="bluetooth_map_settings_app_icon">Tətbiq ikonu</string>
     <string name="bluetooth_map_settings_cancel">İmtina</string>
     <string name="bluetooth_map_settings_count">Qalan yuvalar:</string>
-    <string name="bluetooth_map_settings_intro">Bluetooth vasitəsilə paylaşmaq istədiyiniz hesabları seçin. Bağlantı qurarkən yenə də hesablara müraciəti qəbul etməlisiniz.</string>
+    <string name="bluetooth_map_settings_intro">Bluetooth vasitəsilə paylaşmaq istədiyiniz hesabları seçin. Bağlantı qurarkən yenə də hesablara erişimi qəbul etməlisiniz.</string>
     <string name="bluetooth_map_settings_no_account_slots_left">Hesablar seçilə bilmir. 0 yuva qaldı</string>
     <string name="bluetooth_map_settings_save">Saxla</string>
     <string name="bluetooth_map_settings_title">Bluetooth Mesaj Paylaşma Ayarları</string>
@@ -62,8 +62,8 @@
     <string name="bluetooth_sap_notif_disconnecting">Müştərinin bağlantısının kəsilməsi gözlənilir</string>
     <string name="bluetooth_sap_notif_force_disconnect_button">Bağlantını məcburi kəs</string>
     <string name="bluetooth_sap_notif_message">Müştəri bağlantısı kəsilsin?</string>
-    <string name="bluetooth_sap_notif_ticker">Bluetooth SIM müraciəti</string>
-    <string name="bluetooth_sap_notif_title">Bluetooth SIM müraciəti</string>
+    <string name="bluetooth_sap_notif_ticker">Bluetooth SIM erişimi</string>
+    <string name="bluetooth_sap_notif_title">Bluetooth SIM erişimi</string>
     <string name="bluetooth_share_file_name">bluetooth_content_share</string>
     <string name="bluetooth_stays_on_message">"Cihazınız təyyarə rejimində Bluetooth-u açıq saxlamağı xatırlayır. Açıq qalmasını istəmirsinizsə Bluetooth-u söndürün."</string>
     <string name="bluetooth_stays_on_title">Bluetooth açıq qalır</string>
@@ -247,10 +247,10 @@
     <string name="pbap_session_key_dialog_title">%1$s üçün seans açarını yazın</string>
     <string name="peripheral_link_service">.nearby.discovery.service.DiscoveryService</string>
     <string name="permdesc_bluetoothAcceptlist">Tətbiqin bir Bluetooth cihazını müvəqqəti olaraq qəbul etməsinə icazə verərək, cihazın istifadəçi təsdiqi olmadan bu cihaza fayl göndərməsinə icazə verir.</string>
-    <string name="permdesc_bluetoothShareManager">Tətbiqə BluetoothShara menecerinə müraciət etmə və faylları göndərmək üçün onu istifadə etmə icazəsi verir.</string>
+    <string name="permdesc_bluetoothShareManager">Tətbiqin BluetoothShara menecerinə erişməsinə və faylları göndərmək üçün onu istifadə etməsinə icazəsi verir.</string>
     <string name="permdesc_handoverStatus">Bluetooth-dan təhvil statusu məlumatlarını almağa imkan verir.</string>
-    <string name="permlab_bluetoothAcceptlist">Bluetooth cihaz müraciətini qəbul et.</string>
-    <string name="permlab_bluetoothShareManager">Endirmə menecerinə müraciət.</string>
+    <string name="permlab_bluetoothAcceptlist">Bluetooth cihaz erişimini qəbul et.</string>
+    <string name="permlab_bluetoothShareManager">Endirmə menecerinə erişim.</string>
     <string name="permlab_handoverStatus">BT təhvil transfer yayımlarını al.</string>
     <string name="phonebook_advance_feature_support">Telefon kitabçası qabaqcıl özəlliyi dəstəklənir</string>
     <string name="pm">GS</string>

@@ -27,7 +27,7 @@
     <string name="application_cannot_open_weixin_scanner">"WeChat skaneri açıla bilmədi"</string>
     <string name="application_not_install_content">"Deyəsən, bu əməliyyatı icra edəcək tətbiq cihazınızda quraşdırılmayıb. Tətbiqi quraşdıra və ya bu jest üçün başqa bir əməliyyat təyin edə bilərsiniz."</string>
     <string name="apply_password_action">Oldu</string>
-    <string name="apply_password_confirm_dlg_msg">%s ayarlarına müraciət etmək üçün hazırkı kilid ekranı parolunuzu istifadə edin.</string>
+    <string name="apply_password_confirm_dlg_msg">%s ayarlarına erişmək üçün hazırkı kilid ekranı parolunuzu istifadə edin.</string>
     <string name="apply_password_confirm_dlg_title">%s parolu</string>
     <string name="arcticanimals_preview">Arktika</string>
     <string name="asend">Göndər</string>
@@ -46,7 +46,7 @@
     <string name="autofill">Avto-doldurma</string>
     <string name="autofill_save_message">Xiaomi-yə hesablarınızı və parollarınızı saxlama icazəsi verilsin?</string>
     <string name="autofill_save_ok">İcazə ver</string>
-    <string name="autofill_save_sub_message">Parollarınızı Ayarlar &gt; Barmaq izləri, üz datası və ekran kilidi &gt; %s bölməsində görə və idarə edə bilərsiniz.</string>
+    <string name="autofill_save_sub_message">Parollarınızı Ayarlar &gt; Barmaq izləri, üz veriləri və ekran kilidi &gt; %s bölməsində görə və idarə edə bilərsiniz.</string>
     <string name="autofill_save_title">Parolları avtomatik saxla</string>
     <string name="autofill_service_name">Parolları idarə et</string>
     <string name="back_double_tap">İki dəfə geri düyməsinə toxun</string>
@@ -389,7 +389,7 @@
     <string name="permdesc_useBiometric">Tətbiqə, kimlik doğrulama üçün biometrik avadanlıq istifadə etməyə icazə verir</string>
     <string name="permdesc_useFingerprint">Tətbiqə, kimlik doğrulama üçün barmaq izi avadanlığı istifadə etməyə icazə verir</string>
     <string name="permlab_manageFingerprint">barmaq izi avadanlığını idarə et</string>
-    <string name="permlab_manageLocationPolicy">Yerləşməyə müraciət</string>
+    <string name="permlab_manageLocationPolicy">Yerləşməyə erişim</string>
     <string name="permlab_useBiometric">biometrik avadanlıq istifadə et</string>
     <string name="permlab_useFingerprint">barmaq izi avadanlığı istifadə et</string>
     <string name="popup_camera_calibrate_failed">"Kalibrlənə bilmədi"</string>
@@ -430,7 +430,7 @@
     <string name="remain">Qalan: %s</string>
     <string name="replace">Dəyişdir</string>
     <string name="rescueparty_package_tips">Sistem xidməti {0} pozuntu aşkarlandı</string>
-    <string name="rescuepartyplus_config_reset_context">Bəzi məlumatlar təmizlənmiş ola bilər. Detallara baxmaq üçün toxunun.</string>
+    <string name="rescuepartyplus_config_reset_context">Bəzi verilər təmizlənmiş ola bilər. Detallara baxmaq üçün toxunun.</string>
     <string name="rescuepartyplus_config_reset_title">Sistemin təmiri tamamlandı</string>
     <string name="resolver_app_recommend_flag">Tövsiyə et</string>
     <string name="resolver_cast">Yayım</string>
@@ -469,12 +469,12 @@
     <string name="screenshot_gesture_detect_alert_msg">Üç barmaqla aşağı sürüşdürərək ekran şəkli çəkilsin?</string>
     <string name="screenshot_gesture_detect_alert_title">Üç barmaqla ekran şəkli</string>
     <string name="secretgarden">Gizli bağ</string>
-    <string name="security_permission_denied_text">Müraciət rədd edildi</string>
+    <string name="security_permission_denied_text">Erişim rədd edildi</string>
     <string name="security_permission_failed_text">Xəta baş verdi, daha sonra yenidən sınayın</string>
     <string name="security_permission_network_failed_text">"Şəbəkəyə bağlana bilmədi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın."</string>
     <string name="security_permission_open_wifi_settings">Wi-Fi ayarlarını aç</string>
     <string name="security_permission_validate_warning">MIUI-ni daha yaxşı etməyə kömək etdiyiniz üçün təşəkkür edirik!</string>
-    <string name="security_permission_wifi_and_data_opened_text">Wi-Fi və mobil internet açıldı</string>
+    <string name="security_permission_wifi_and_data_opened_text">Wi-Fi və mobil veri açıldı</string>
     <string name="security_permission_xiaomi_account_missed_text">Xiaomi Hesab Kimliyinizi daxil edin</string>
     <string name="security_share_text">Gizlilik qoruması</string>
     <string name="select">Seç</string>
@@ -502,10 +502,10 @@
     <string name="sla_btn_confirm">İşə sal</string>
     <string name="sla_btn_keep">Yox say</string>
     <string name="sla_btn_stop">Dayandır</string>
-    <string name="sla_remind_text">Sürəti artırmaq üçün mobil internet istifadə edə bilərsiniz. Bu, əlavə operator xərcləri yarada bilər.</string>
+    <string name="sla_remind_text">Sürəti artırmaq üçün mobil veri istifadə edə bilərsiniz. Bu, əlavə operator xərcləri yarada bilər.</string>
     <string name="sla_title">Sürəti artır</string>
-    <string name="sla_traffic_text">"Bu gün artıq %d MB istifadə etmisiniz. Mobil internetə qənaət etmək üçün sürəti artırmağı dayandıra bilərsiniz."</string>
-    <string name="slatoast">Sürəti artırmaq üçün mobil internet istifadə etmək, əlavə operator xərcləri yarada bilər</string>
+    <string name="sla_traffic_text">"Bu gün artıq %d MB istifadə etmisiniz. Mobil veriyə qənaət etmək üçün sürəti artırmağı dayandıra bilərsiniz."</string>
+    <string name="slatoast">Sürəti artırmaq üçün mobil veri istifadə etmək, əlavə operator xərcləri yarada bilər</string>
     <string name="slavewifi">İki bantlı Wi-Fi</string>
     <string name="slavewifi_disconnect">Bağlantını kəs</string>
     <string name="slavewifi_notification_title">İki bantlı Wi-Fi istifadə edilir</string>
@@ -535,7 +535,7 @@
     <string name="status_bar_toggle_auto_brightness">Parlaqlıq</string>
     <string name="status_bar_toggle_battery_saver">Batareyaya qənaət</string>
     <string name="status_bar_toggle_cast">Yayım</string>
-    <string name="status_bar_toggle_data">Mobil internet</string>
+    <string name="status_bar_toggle_data">Mobil veri</string>
     <string name="status_bar_toggle_edit">Sırala</string>
     <string name="status_bar_toggle_flight_mode">Təyyarə</string>
     <string name="status_bar_toggle_lock">Kilidlə</string>
@@ -635,7 +635,7 @@ cihazınızı qatlayın"</string>
     <string name="wallpaper_softlight_title">Yumşaq işıq</string>
     <string name="waterdrop_preview">Damlacıqlar</string>
     <string name="wifi_5ghz_sap_start_failed_by_region">5GHz Wi-Fi-a bağlı olarkən internet paylaşımı istifadə edilə bilməz.</string>
-    <string name="wifi_assistant_wifi_no_internet">Bu Wi-Fi şəbəkəsinin internetə müraciəti yoxdur</string>
+    <string name="wifi_assistant_wifi_no_internet">Bu Wi-Fi şəbəkəsinin internetə erişimi yoxdur</string>
     <string name="wifi_assistant_wifi_no_internet_detail">Detallara baxmaq üçün toxunun</string>
     <string name="wifi_disable_micar_p2p_dialog_message">Yeni bir Wi-Fi şəbəkəsinə bağlandıqda cihazınızın avtomobilinizlə bağlantısı kəsiləcək. Bağlantı indi kəsilsin?</string>
     <string name="wifi_disable_micar_p2p_dialog_message_carwith">Yeni bir Wi-Fi şəbəkəsinə bağlandıqda cihazınızın CarWith ilə bağlantısı kəsiləcək. Bağlantı indi kəsilsin?</string>
