@@ -17,16 +17,16 @@
     <string name="abc_shareactionprovider_share_with">Paylaş</string>
     <string name="abc_shareactionprovider_share_with_application">%s ilə paylaş</string>
     <string name="abc_toolbar_collapse_description">Yığcamlaşdır</string>
-    <string name="accessibility_access_reminder_notification_content">%s, ekranınızı görə və cihazınızda fəaliyyətlər icra edə bilər. Əlçatımlılıq tətbiqlərinin nəzərdə tutulduğu kimi işləməsi üçün bu növ müraciətlərə ehtiyacı var.</string>
-    <string name="accessibility_access_reminder_notification_title">Tam cihaz müraciəti olan tətbiqləri incələ</string>
-    <string name="accessibility_access_warning_card_content">Bu tətbiq, ekranınızı görə və cihazınızda fəaliyyətlər icra edə bilər. Əlçatımlılıq tətbiqlərinin nəzərdə tutulduğu kimi işləməsi üçün bu növ müraciətlərə ehtiyacı var, ancaq tətbiqi yoxlayıb ona güvəndiyinə əmin olun.</string>
-    <string name="accessibility_remove_access_button_label">Müraciəti sil</string>
-    <string name="accessibility_remove_access_success_label">Müraciət silindi</string>
+    <string name="accessibility_access_reminder_notification_content">%s, ekranınızı görə və cihazınızda fəaliyyətlər icra edə bilər. Erişiləbilənlik tətbiqlərinin nəzərdə tutulduğu kimi işləməsi üçün bu növ erişimlərə ehtiyacı var.</string>
+    <string name="accessibility_access_reminder_notification_title">Tam cihaz erişimi olan tətbiqləri incələ</string>
+    <string name="accessibility_access_warning_card_content">Bu tətbiq, ekranınızı görə və cihazınızda fəaliyyətlər icra edə bilər. Erişiləbilənlik tətbiqlərinin nəzərdə tutulduğu kimi işləməsi üçün bu növ erişimlərə ehtiyacı var, ancaq tətbiqi yoxlayıb ona güvəndiyinə əmin olun.</string>
+    <string name="accessibility_remove_access_button_label">Erişimi sil</string>
+    <string name="accessibility_remove_access_success_label">Erişim silindi</string>
     <string name="accessibility_service_dialog_bottom_text_multiple">Bu tətbiqlər ekranınızı, fəaliyyətlərinizi və girişlərinizi görə, fəaliyyətlər icra edə və ekranınıza nəzarət edə bilər.</string>
     <string name="accessibility_service_dialog_bottom_text_single">%s ekranınızı, fəaliyyətlərinizi və girişlərinizi görə, fəaliyyətlər icra edə və ekranınıza nəzarət edə bilər.</string>
-    <string name="accessibility_service_dialog_title_multiple">%s əlçatımlılıq tətbiqi, cihazınıza tam müraciət edə bilir</string>
-    <string name="accessibility_service_dialog_title_single">%s cihazınıza tam müraciət edə bilir</string>
-    <string name="accessibility_show_all_apps_button_label">Tam müraciətə sahib tətbiqlərə bax</string>
+    <string name="accessibility_service_dialog_title_multiple">%s erişiləbilənlik tətbiqi, cihazınıza tam erişə bilir</string>
+    <string name="accessibility_service_dialog_title_single">%s cihazınıza tam erişə bilir</string>
+    <string name="accessibility_show_all_apps_button_label">Tam erişimə sahib tətbiqlərə bax</string>
     <string name="accessibility_work_profile_app_description">%s iş</string>
     <string name="active_app_usage_1_qs">%1$s tərəfindən istifadə edilir (%2$s)</string>
     <string name="active_app_usage_2_qs">%1$s tərəfindən istifadə edilir (%2$s • %3$s)</string>
@@ -48,11 +48,11 @@
     <string name="allowed_foreground_header">Yalnız istifadə edərkən icazə verilir</string>
     <string name="allowed_header">İcazə verildi</string>
     <string name="allowed_storage_full">Bütün faylları idarə etməyə icazə verildi</string>
-    <string name="allowed_storage_scoped">Yalnız mediaya müraciətə icazə verildi</string>
+    <string name="allowed_storage_scoped">Yalnız mediaya erişimə icazə verildi</string>
     <string name="app_disable_dlg_positive">Tətbiqi sıradan çıxart</string>
     <string name="app_disable_dlg_text">Bu tətbiqi sıradan çıxartsanız, Android və digər tətbiqlər nəzərdə tutulduğu kimi işləməyə bilər. Yadda saxlayın ki, bu tətbiq cihazınızda əvvəlcədən quraşdırıldığı üçün onu silə bilməyəcəksiniz. Sıradan çıxartmaqla, bu tətbiqi söndürür və cihazınızda gizlədirsiniz.</string>
-    <string name="app_location_permission_rationale_subtitle">Bu tətbiq, yerləşmə datalarınızı üçüncü tərəflərlə paylaşa biləcəyini bildirdi</string>
-    <string name="app_location_permission_rationale_title">Yerləşmə dataları paylaşıla bilər</string>
+    <string name="app_location_permission_rationale_subtitle">Bu tətbiq, yerləşmə verilərinizi üçüncü tərəflərlə paylaşa biləcəyini bildirdi</string>
+    <string name="app_location_permission_rationale_title">Yerləşmə veriləri paylaşıla bilər</string>
     <string name="app_name">İcazə nəzarətçisi</string>
     <string name="app_name_unknown">Bilinmir</string>
     <string name="app_not_found_dlg_title">Tətbiq tapılmadı</string>
@@ -60,66 +60,66 @@
     <string name="app_permission_button_allow_all_files">Bütün faylların idarə edilməsinə icazə ver</string>
     <string name="app_permission_button_allow_always">Hər zaman icazə ver</string>
     <string name="app_permission_button_allow_foreground">Yalnız tətbiqi istifadə edərkən icazə ver</string>
-    <string name="app_permission_button_allow_limited_access">Məhdud müraciətə icazə ver</string>
-    <string name="app_permission_button_allow_media_only">Yalnız mediaya müraciətə icazə ver</string>
+    <string name="app_permission_button_allow_limited_access">Məhdud erişimə icazə ver</string>
+    <string name="app_permission_button_allow_media_only">Yalnız mediaya erişimə icazə ver</string>
     <string name="app_permission_button_always_allow_all">Həmişə hamısına icazə ver</string>
     <string name="app_permission_button_ask">Həmişə soruş</string>
     <string name="app_permission_button_deny">İcazə verilməsin</string>
     <string name="app_permission_footer_app_permissions_link">Bütün %1$s icazələrinə bax</string>
     <string name="app_permission_footer_permission_apps_link">Bu icazəyə sahib bütün tətbiqlərə bax</string>
-    <string name="app_permission_footer_special_file_access">Bütün faylların idarə edilməsinə icazə versəniz, bu tətbiq bu cihazdakı və ya bağlantılı anbar sahəsindəki bütün fayllara müraciət edə, onları dəyişdirə və silə bilər. Tətbiq sizdən soruşmadan fayllara müraciət edə bilər.</string>
-    <string name="app_permission_header">Bu tətbiq üçün %1$s müraciəti</string>
-    <string name="app_permission_header_with_device_name">Bu tətbiq üçün %2$s üzərində %1$s müraciəti</string>
+    <string name="app_permission_footer_special_file_access">Bütün faylların idarə edilməsinə icazə versəniz, bu tətbiq bu cihazdakı və ya bağlantılı anbar sahəsindəki bütün fayllara erişə, onları dəyişdirə və silə bilər. Tətbiq sizdən soruşmadan fayllara erişə bilər.</string>
+    <string name="app_permission_header">Bu tətbiq üçün %1$s erişimi</string>
+    <string name="app_permission_header_with_device_name">Bu tətbiq üçün %2$s üzərində %1$s erişimi</string>
     <string name="app_permission_location_accuracy">Dəqiq yerləşməni istifadə et</string>
-    <string name="app_permission_location_accuracy_subtitle">Dəqiq yerləşmə bağlı olduqda, tətbiqlər təxmini yerləşmənizə müraciət edə bilər</string>
+    <string name="app_permission_location_accuracy_subtitle">Dəqiq yerləşmə bağlı olduqda, tətbiqlər təxmini yerləşmənizə erişə bilər</string>
     <string name="app_permission_manager">İcazə meneceri</string>
-    <string name="app_permission_most_recent_denied_summary">Hazırda rədd cavabı verildi / Son müraciət: %1$s</string>
-    <string name="app_permission_most_recent_summary">Son müraciət: %1$s</string>
-    <string name="app_permission_never_accessed_denied_summary">Rədd cavabı verildi / Heç vaxt müraciət edilmədi</string>
-    <string name="app_permission_never_accessed_summary">Heç vaxt müraciət edilmədi</string>
-    <string name="app_permission_rationale_message">Data təhlükəsizliyi</string>
+    <string name="app_permission_most_recent_denied_summary">Hazırda rədd cavabı verildi / Son erişim: %1$s</string>
+    <string name="app_permission_most_recent_summary">Son erişim: %1$s</string>
+    <string name="app_permission_never_accessed_denied_summary">Rədd cavabı verildi / Heç vaxt erişilmədi</string>
+    <string name="app_permission_never_accessed_summary">Heç vaxt erişilmədi</string>
+    <string name="app_permission_rationale_message">Veri təhlükəsizliyi</string>
     <string name="app_permission_title">%1$s icazəsi</string>
     <string name="app_permission_usage_filter_label">Buna görə filtrləndi: %1$s</string>
     <string name="app_permission_usage_remove_filter">Filtri sil</string>
-    <string name="app_permission_usage_summary">Müraciət: %1$s dəfə. Cəmi müddət: %2$s. Son istifadə: %3$s əvvəl.</string>
-    <string name="app_permission_usage_summary_no_duration">Müraciət: %1$s dəfə. Son istifadə: %2$s əvvəl.</string>
+    <string name="app_permission_usage_summary">Erişim: %1$s dəfə. Cəmi müddət: %2$s. Son istifadə: %3$s əvvəl.</string>
+    <string name="app_permission_usage_summary_no_duration">Erişim: %1$s dəfə. Son istifadə: %2$s əvvəl.</string>
     <string name="app_permission_usage_title">Tətbiq icazə istifadəsi</string>
     <string name="app_permissions">Tətbiq icazələri</string>
     <string name="app_permissions_breadcrumb">Tətbiqlər</string>
     <string name="app_permissions_group_summary">%1$d/%2$d tətbiqə icazə verildi</string>
     <string name="app_permissions_group_summary2">%1$d/%2$d tətbiqə icazə verildi</string>
     <string name="app_permissions_info_button_label">Tətbiq məlumatlarını aç</string>
-    <string name="app_perms_24h_access">Son müraciət: %1$s</string>
-    <string name="app_perms_24h_access_all_files">Son müraciət: %1$s • Bütün fayllar</string>
-    <string name="app_perms_24h_access_background">Son müraciət: %1$s • Hər zaman icazə verildi</string>
-    <string name="app_perms_24h_access_media_only">Son müraciət: %1$s • Media</string>
-    <string name="app_perms_24h_access_yest">Son müraciət dünən %1$s</string>
-    <string name="app_perms_24h_access_yest_all_files">Son müraciət dünən %1$s • Bütün fayllar</string>
-    <string name="app_perms_24h_access_yest_background">Son müraciət dünən %1$s • Hər zaman icazə verildi</string>
-    <string name="app_perms_24h_access_yest_media_only">Son müraciət dünən %1$s • Media</string>
-    <string name="app_perms_7d_access">Son müraciət: %1$s, %2$s</string>
-    <string name="app_perms_7d_access_all_files">Son müraciət: %1$s, %2$s • Bütün fayllar</string>
-    <string name="app_perms_7d_access_background">Son müraciət: %1$s, %2$s • Hər zaman icazə verildi</string>
-    <string name="app_perms_7d_access_media_only">Son müraciət: %1$s, %2$s • Media</string>
-    <string name="app_perms_content_provider_24h">Son 24 saat ərzində müraciət edildi</string>
-    <string name="app_perms_content_provider_24h_all_files">Son 24 saat ərzində müraciət edildi • Bütün fayllar</string>
-    <string name="app_perms_content_provider_24h_background">Son 24 saat ərzində müraciət edildi • Hər zaman icazə verildi</string>
-    <string name="app_perms_content_provider_24h_media_only">Son 24 saat ərzində müraciət edildi • Media</string>
-    <string name="app_perms_content_provider_7d">Son 7 gün ərzində müraciət edildi</string>
-    <string name="app_perms_content_provider_7d_all_files">Son 7 gün ərzində müraciət edildi • Bütün fayllar</string>
-    <string name="app_perms_content_provider_7d_background">Son 7 gün ərzində müraciət edildi • Hər zaman icazə verildi</string>
-    <string name="app_perms_content_provider_7d_media_only">Son 7 gün ərzində müraciət edildi • Media</string>
+    <string name="app_perms_24h_access">Son erişim: %1$s</string>
+    <string name="app_perms_24h_access_all_files">Son erişim: %1$s • Bütün fayllar</string>
+    <string name="app_perms_24h_access_background">Son erişim: %1$s • Hər zaman icazə verildi</string>
+    <string name="app_perms_24h_access_media_only">Son erişim: %1$s • Media</string>
+    <string name="app_perms_24h_access_yest">Son erişim dünən %1$s</string>
+    <string name="app_perms_24h_access_yest_all_files">Son erişim dünən %1$s • Bütün fayllar</string>
+    <string name="app_perms_24h_access_yest_background">Son erişim dünən %1$s • Hər zaman icazə verildi</string>
+    <string name="app_perms_24h_access_yest_media_only">Son erişim dünən %1$s • Media</string>
+    <string name="app_perms_7d_access">Son erişim: %1$s, %2$s</string>
+    <string name="app_perms_7d_access_all_files">Son erişim: %1$s, %2$s • Bütün fayllar</string>
+    <string name="app_perms_7d_access_background">Son erişim: %1$s, %2$s • Hər zaman icazə verildi</string>
+    <string name="app_perms_7d_access_media_only">Son erişim: %1$s, %2$s • Media</string>
+    <string name="app_perms_content_provider_24h">Son 24 saat ərzində erişildi</string>
+    <string name="app_perms_content_provider_24h_all_files">Son 24 saat ərzində erişildi • Bütün fayllar</string>
+    <string name="app_perms_content_provider_24h_background">Son 24 saat ərzində erişildi • Hər zaman icazə verildi</string>
+    <string name="app_perms_content_provider_24h_media_only">Son 24 saat ərzində erişildi • Media</string>
+    <string name="app_perms_content_provider_7d">Son 7 gün ərzində erişildi</string>
+    <string name="app_perms_content_provider_7d_all_files">Son 7 gün ərzində erişildi • Bütün fayllar</string>
+    <string name="app_perms_content_provider_7d_background">Son 7 gün ərzində erişildi • Hər zaman icazə verildi</string>
+    <string name="app_perms_content_provider_7d_media_only">Son 7 gün ərzində erişildi • Media</string>
     <string name="approximate_image_description">Təxmini yerləşmə</string>
     <string name="ask_header">Həmişə soruş</string>
     <string name="assistant_confirmation_message">Köməkçi sisteminizdə istifadə olunan tətbiqlər haqqında məlumatı oxuya biləcək, bura ekranınızda görünən və tətbiqlər daxilində əlçatan olan məlumat da daxildir.</string>
     <string name="assistant_mic_label">Köməkçinin mikrofon istifadəsini göstər</string>
     <string name="assistant_record_audio_user_sensitive_summary">Səsli köməkçini aktivləşdirmək üçün mikrofon istifadə olunduqda status çubuğunda ikon göstər</string>
     <string name="assistant_record_audio_user_sensitive_title">Köməkçi tətikləmə aşkarlanmasını göstər</string>
-    <string name="auto_granted_location_permission_notification_title">%1$s, yerləşməyə müraciət edir</string>
-    <string name="auto_granted_permission_notification_body">Təşkilatınız, yerləşmənizə %1$s tərəfindən müraciət edilməsinə icazə verir</string>
+    <string name="auto_granted_location_permission_notification_title">%1$s, yerləşməyə erişir</string>
+    <string name="auto_granted_permission_notification_body">Təşkilatınız, yerləşmənizə %1$s tərəfindən erişilməsinə icazə verir</string>
     <string name="auto_granted_permissions">Nəzarət edilən icazələr</string>
     <string name="auto_manage_title">İcazələri avtomatik idarə et</string>
-    <string name="auto_permission_manager_summary">Təqvimə, zəng jurnalına və daha çoxuna yönəlmiş data müraciətini idarə et</string>
+    <string name="auto_permission_manager_summary">Təqvimə, zəng jurnalına və daha çoxuna yönəlmiş veri erişimini idarə et</string>
     <string name="auto_permission_usage_summary">Təzəlikcə hansı tətbiqlərin icazələri istifadə etdiyinə bax</string>
     <string name="auto_revocable_permissions_many">Silinəcək icazələr: %1$s.</string>
     <string name="auto_revocable_permissions_none">Hazırda avtomatik geri alına bilən icazələr verilmir</string>
@@ -142,27 +142,27 @@
     <string name="auto_revoke_permission_reminder_notification_title_one">1 i̇stifadə edilməyən tətbiq</string>
     <string name="auto_revoke_preference_summary">Gizliliyinizi qorumaq üçün icazələr silindi</string>
     <string name="auto_revoke_setting_subtitle">Bəzi tətbiqlər bir neçə aydır ki istifadə edilmir</string>
-    <string name="auto_revoke_summary">Tətbiq bir neçə aydır istifadə edilmirsə, bu tətbiq üçün icazələr, datalarınızı qorumaq məqsədilə silinəcək.</string>
-    <string name="auto_revoke_summary_with_permissions">Tətbiq bir neçə aydır istifadə edilmirsə, aşağıdakı icazələr, datalarınızı qorumaq məqsədilə silinəcək: %1$s</string>
+    <string name="auto_revoke_summary">Tətbiq bir neçə aydır istifadə edilmirsə, bu tətbiq üçün icazələr, verilərinizi qorumaq məqsədilə silinəcək.</string>
+    <string name="auto_revoke_summary_with_permissions">Tətbiq bir neçə aydır istifadə edilmirsə, aşağıdakı icazələr, verilərinizi qorumaq məqsədilə silinəcək: %1$s</string>
     <string name="auto_revoked_app_summary_many">%1$s və digər %2$s icazə silindi</string>
     <string name="auto_revoked_app_summary_one">%s i̇cazə silindi</string>
     <string name="auto_revoked_app_summary_two">%1$s və %2$s icazə silindi</string>
-    <string name="auto_revoked_apps_page_summary">Datalarınızı qorumaq üçün bir neçə aydır istifadə etmədiyiniz tətbiqlərdən icazələr silindi.</string>
-    <string name="automotive_blocked_camera_title">Kameraya müraciət bağlıdır</string>
+    <string name="auto_revoked_apps_page_summary">Verilərinizi qorumaq üçün bir neçə aydır istifadə etmədiyiniz tətbiqlərdən icazələr silindi.</string>
+    <string name="automotive_blocked_camera_title">Kameraya erişim bağlıdır</string>
     <string name="automotive_blocked_infotainment_app_summary">Məlumat-əyləncə tətbiqləri üçün</string>
-    <string name="automotive_blocked_location_title">Yerləşməyə müraciət bağlıdır</string>
-    <string name="automotive_blocked_microphone_title">Mikrofona müraciət bağlıdır</string>
+    <string name="automotive_blocked_location_title">Yerləşməyə erişim bağlıdır</string>
+    <string name="automotive_blocked_microphone_title">Mikrofona erişim bağlıdır</string>
     <string name="automotive_blocked_required_app_summary">Tələb olunan tətbiqlər üçün</string>
     <string name="automotive_required_app_summary">Bu tətbiq, avtomobilinizin istehsalçısı tərəfindən tələb olunur</string>
     <string name="automotive_required_app_title">Bu tətbiq tələb olunur</string>
     <string name="available">Müsait</string>
     <string name="back">Geri</string>
-    <string name="background_location_access_reminder_notification_content">Bu tətbiq yerləşmənizə hər zaman müraciət edə bilər. Dəyişdirmək üçün toxunun.</string>
+    <string name="background_location_access_reminder_notification_content">Bu tətbiq yerləşmənizə hər zaman erişə bilər. Dəyişdirmək üçün toxunun.</string>
     <string name="background_location_access_reminder_notification_title">%s, arxaplanda yerləşmənizi əldə etdi</string>
     <string name="blocked">Əngəlləndi</string>
     <string name="blocked_camera_title">Cihaz kamerası əngəllənib</string>
     <string name="blocked_location_title">Cihaz yerləşməsi bağlıdır</string>
-    <string name="blocked_mic_summary">Fövqəladə hal nömrəsinə zəng etdiyiniz zaman mikrofon dataları paylaşıla bilər.</string>
+    <string name="blocked_mic_summary">Fövqəladə hal nömrəsinə zəng etdiyiniz zaman mikrofon veriləri paylaşıla bilər.</string>
     <string name="blocked_microphone_title">Cihaz mikrofonu əngəllənib</string>
     <string name="blocked_sensor_button_label">Dəyişdir</string>
     <string name="blocked_sensor_summary">Tətbiqlər və xidmətlər üçün</string>
@@ -179,8 +179,8 @@
     <string name="call_notification_incoming_text">Gələn zəng</string>
     <string name="call_notification_ongoing_text">Davam edən zəng</string>
     <string name="call_notification_screening_text">Gələn bir zəngin filtrlənməsi</string>
-    <string name="camera_toggle_label_qs">Kamera müraciəti</string>
-    <string name="camera_toggle_title">Kamera müraciəti</string>
+    <string name="camera_toggle_label_qs">Kameraya erişim</string>
+    <string name="camera_toggle_title">Kameraya erişim</string>
     <string name="camera_usage_qs">Son kamera istifadəsinə bax</string>
     <string name="cancel">İmtina</string>
     <string name="car_default_app_selected">Seçildi</string>
@@ -215,12 +215,12 @@
     <string name="current_permission_template">%1$s/%2$s</string>
     <string name="current_permissions_category">Hazırkı icazələr</string>
     <string name="data_sharing_help_center_link"></string>
-    <string name="data_sharing_updates_footer_message">"Bu tətbiqlərin gəlişdiriciləri, tətbiq mağazasına tətbiqlərin data paylaşım təcrübələri barədə məlumatlar təqdim etdi. Gəlişdiricilər, zamanla bunları güncəlləyə bilər.
+    <string name="data_sharing_updates_footer_message">"Bu tətbiqlərin gəlişdiriciləri, tətbiq mağazasına tətbiqlərin veri paylaşım təcrübələri barədə məlumatlar təqdim etdi. Gəlişdiricilər, zamanla bunları güncəlləyə bilər.
 
-Data paylaşım təcrübələri, tətbiq versiyanıza, istifadənizə, bölgənizə və yaşınıza görə dəyişə bilər."</string>
-    <string name="data_sharing_updates_subtitle">Bu tətbiqlər, yerləşmə datalarınızın paylaşılma üsulunu dəyişdirdilər. Daha əvvəl paylaşılmasa da, artıq reklam və ya marketinq məqsədilə paylaşıla bilər.</string>
-    <string name="data_sharing_updates_summary">Yerləşmə datanızı paylaşma üsulunu dəyişdirən tətbiqləri incələyin</string>
-    <string name="data_sharing_updates_title">Yerləşmə üçün data paylaşım güncəlləmələri</string>
+Veri paylaşım təcrübələri, tətbiq versiyanıza, istifadənizə, bölgənizə və yaşınıza görə dəyişə bilər."</string>
+    <string name="data_sharing_updates_subtitle">Bu tətbiqlər, yerləşmə verilərinizin paylaşılma üsulunu dəyişdirdilər. Daha əvvəl paylaşılmasa da, artıq reklam və ya marketinq məqsədilə paylaşıla bilər.</string>
+    <string name="data_sharing_updates_summary">Yerləşmə verilərinizi paylaşma üsulunu dəyişdirən tətbiqləri incələyin</string>
+    <string name="data_sharing_updates_title">Yerləşmə üçün veri paylaşım güncəlləmələri</string>
     <string name="days">{count, plural, one {}=1 {1 gün} other {# gün} }</string>
     <string name="days_ago">{count, plural, one {}=0 {Bu gün} =1 {1 gün əvvəl} other {# gün əvvəl} }</string>
     <string name="default_app_no_apps">Tətbiq yoxdur</string>
@@ -236,10 +236,10 @@ Data paylaşım təcrübələri, tətbiq versiyanıza, istifadənizə, bölgəni
     <string name="default_permission_description">bilinməyən bir əməliyyatı icra et</string>
     <string name="default_popup_window_title">Açılan pəncərə</string>
     <string name="denied_header">İcazə verilmədi</string>
-    <string name="denied_permission_decision">%1$s tərəfindən %2$s müraciətinə rədd cavabı verdiniz</string>
+    <string name="denied_permission_decision">%1$s tərəfindən %2$s erişməsinə rədd cavabı verdiniz</string>
     <string name="deny_permission_deny_and_dont_ask_again">İcazə verilməsin və təkrar soruşulmasın</string>
-    <string name="deny_read_media_aural_warning">Bu tətbiq, Android-in köhnə versiyası üçün hazırlanıb. Əgər bu tətbiqin musiqi və digər səs fayllarına müraciətinə rədd cavabını versəniz, foto və videolara müraciətinə də rədd cavabı veriləcək.</string>
-    <string name="deny_read_media_visual_warning">Bu tətbiq, Android-in köhnə versiyası üçün hazırlanıb. Əgər bu tətbiqin foto və videolara müraciətinə rədd cavabını versəniz, musiqi və digər səs fayllarına müraciətinə də rədd cavabı veriləcək.</string>
+    <string name="deny_read_media_aural_warning">Bu tətbiq, Android-in köhnə versiyası üçün hazırlanıb. Əgər bu tətbiqin musiqi və digər səs fayllarına erişməsinə rədd cavabını versəniz, foto və videolara erişməsinə də rədd cavabı veriləcək.</string>
+    <string name="deny_read_media_visual_warning">Bu tətbiq, Android-in köhnə versiyası üçün hazırlanıb. Əgər bu tətbiqin foto və videolara erişməsinə rədd cavabını versəniz, musiqi və digər səs fayllarına erişməsinə də rədd cavabı veriləcək.</string>
     <string name="dest_title">hədəf başlığı</string>
     <string name="disabled_by_admin">Admin tərəfindən sıradan çıxarıldı</string>
     <string name="dropdown_menu">Açılan menyu</string>
@@ -251,19 +251,19 @@ Data paylaşım təcrübələri, tətbiq versiyanıza, istifadənizə, bölgəni
     <string name="enabled_by_admin">Admin tərəfindən fəallaşdırıldı</string>
     <string name="encryption_unaware_confirmation_message">Qeyd: Cihazınızı yenidən başladırsınızsa və ekran kilidi təyin etmisinizsə, cihazınızın kilidini açana qədər bu tətbiq başladılmayacaq.</string>
     <string name="enhanced_confirmation_dialog_desc">Güvənliyiniz üçün bu ayar hazırda əlçatmazdır.</string>
-    <string name="enhanced_confirmation_dialog_desc_permission">"Tətbiq, həssas icazəyə müraciət tələb etdi, bu da fərdi və maliyyə məlumatlarınızı riskə ata bilər.&lt;br&gt;&lt;br&gt;Ola bilər ki, bu məhdud icazə olmadan tətbiq düzgün işləməsin. &lt;a href=%1$s&gt;Müraciətə necə icazə verəcəyinizi öyrənin&lt;/a&gt;"</string>
-    <string name="enhanced_confirmation_dialog_desc_role">"Tətbiq, həssas icazələrə müraciət tələb etdi, bu da fərdi və maliyyə məlumatlarınızı riskə ata bilər.&lt;br&gt;&lt;br&gt;Ola bilər ki, bu məhdud icazələr olmadan tətbiq düzgün işləməsin. &lt;a href=%1$s&gt;Müraciətə necə icazə verəcəyinizi öyrənin&lt;/a&gt;"</string>
-    <string name="enhanced_confirmation_dialog_desc_settings_default">"Bu icazəyə müraciət tələb edilməsi, fərdi və maliyyə məlumatlarınızı riskə ata bilər.&lt;br&gt;&lt;br&gt;Ola bilər ki, bu məhdud icazə olmadan tətbiq düzgün işləməsin. &lt;a href=%1$s&gt;Müraciətə necə icazə verəcəyinizi öyrənin&lt;/a&gt;"</string>
+    <string name="enhanced_confirmation_dialog_desc_permission">"Tətbiq, həssas icazəyə erişim tələb etdi, bu da fərdi və maliyyə məlumatlarınızı riskə ata bilər.&lt;br&gt;&lt;br&gt;Ola bilər ki, bu məhdud icazə olmadan tətbiq düzgün işləməsin. &lt;a href=%1$s&gt;Erişimə necə icazə verəcəyinizi öyrənin&lt;/a&gt;"</string>
+    <string name="enhanced_confirmation_dialog_desc_role">"Tətbiq, həssas icazələrə erişim tələb etdi, bu da fərdi və maliyyə məlumatlarınızı riskə ata bilər.&lt;br&gt;&lt;br&gt;Ola bilər ki, bu məhdud icazələr olmadan tətbiq düzgün işləməsin. &lt;a href=%1$s&gt;Erişimə necə icazə verəcəyinizi öyrənin&lt;/a&gt;"</string>
+    <string name="enhanced_confirmation_dialog_desc_settings_default">"Bu icazəyə erişim tələb edilməsi, fərdi və maliyyə məlumatlarınızı riskə ata bilər.&lt;br&gt;&lt;br&gt;Ola bilər ki, bu məhdud icazə olmadan tətbiq düzgün işləməsin. &lt;a href=%1$s&gt;Erişimə necə icazə verəcəyinizi öyrənin&lt;/a&gt;"</string>
     <string name="enhanced_confirmation_dialog_learn_more">Ətraflı öyrən</string>
     <string name="enhanced_confirmation_dialog_ok">Oldu</string>
     <string name="enhanced_confirmation_dialog_title">Məhdud ayar</string>
-    <string name="enhanced_confirmation_dialog_title_permission">Tətbiqin %1$s müraciətinə rədd cavabı verildi</string>
-    <string name="enhanced_confirmation_dialog_title_role">Tətbiqin ilkin olaraq %1$s müraciətinə rədd cavabı verildi</string>
-    <string name="enhanced_confirmation_dialog_title_settings_default">Tətbiqin müraciətinə rədd cavabı verildi</string>
+    <string name="enhanced_confirmation_dialog_title_permission">Tətbiqin %1$s erişməsinə rədd cavabı verildi</string>
+    <string name="enhanced_confirmation_dialog_title_role">Tətbiqin ilkin olaraq %1$s erişməsinə rədd cavabı verildi</string>
+    <string name="enhanced_confirmation_dialog_title_settings_default">Tətbiqin erişməsinə rədd cavabı verildi</string>
     <string name="error_a11y_label">Xəta: yararsızdır</string>
     <string name="error_icon_content_description">Xəta</string>
-    <string name="exempt_info_label">%1$s, Android tərəfindən qorunur. Datalarınız bu cihazda emal olunduğuna görə, bu tətbiqin icazə istifadəsi gizlilik panelinizdə görünmür.</string>
-    <string name="exempt_mic_camera_info_label">%1$s, Android tərəfindən qorunur. Datalarınız bu cihazda emal olunduğuna görə, bu tətbiqin icazə istifadəsi status çubuğunda və ya gizlilik panelinizdə görünmür.</string>
+    <string name="exempt_info_label">%1$s, Android tərəfindən qorunur. Veriləriniz bu cihazda emal olunduğuna görə, bu tətbiqin icazə istifadəsi gizlilik panelinizdə görünmür.</string>
+    <string name="exempt_mic_camera_info_label">%1$s, Android tərəfindən qorunur. Veriləriniz bu cihazda emal olunduğuna görə, bu tətbiqin icazə istifadəsi status çubuğunda və ya gizlilik panelinizdə görünmür.</string>
     <string name="expand_button_title">Qabaqcıl</string>
     <string name="exposed_dropdown_menu_content_description">Açılan menyunu göstər</string>
     <string name="filter_by_permissions">İcazələrə görə filtrlə</string>
@@ -276,8 +276,8 @@ Data paylaşım təcrübələri, tətbiq versiyanıza, istifadənizə, bölgəni
     <string name="grant_dialog_button_allow_always">Hər zaman icazə ver</string>
     <string name="grant_dialog_button_allow_background">Hər zaman icazə ver</string>
     <string name="grant_dialog_button_allow_foreground">Tətbiqi istifadə edərkən</string>
-    <string name="grant_dialog_button_allow_limited_access">Məhdud müraciətə icazə ver</string>
-    <string name="grant_dialog_button_allow_media_only">Media fayllarına müraciətinə icazə ver</string>
+    <string name="grant_dialog_button_allow_limited_access">Məhdud erişimə icazə ver</string>
+    <string name="grant_dialog_button_allow_media_only">Media fayllarına erişməsinə icazə ver</string>
     <string name="grant_dialog_button_allow_more_selected_photos">Daha çox seçin</string>
     <string name="grant_dialog_button_allow_one_time">Yalnız bu dəfə</string>
     <string name="grant_dialog_button_allow_selected_photos">Foto və videoları seç</string>
@@ -292,7 +292,7 @@ Data paylaşım təcrübələri, tətbiq versiyanıza, istifadənizə, bölgəni
     <string name="grant_dialog_button_more_info">Daha çox məlumat</string>
     <string name="grant_dialog_button_no_upgrade">\"Tətbiq istifadə edilərkən\" seçimini saxla</string>
     <string name="grant_dialog_button_no_upgrade_one_time">\"Yalnız bu dəfə” seçimini saxla</string>
-    <string name="granted_permission_decision">%1$s tərəfindən %2$s müraciətinə icazə verdiniz</string>
+    <string name="granted_permission_decision">%1$s tərəfindən %2$s erişməsinə icazə verdiniz</string>
     <string name="help_app_permissions"></string>
     <string name="help_feedback_label">Kömək və əks-əlaqə</string>
     <string name="help_permission_usage"></string>
@@ -303,15 +303,15 @@ Data paylaşım təcrübələri, tətbiq versiyanıza, istifadənizə, bölgəni
     <string name="hours">{count, plural, one {}=1 {# saat} other {# saat} }</string>
     <string name="icon_content_description">Dialoq ikonu</string>
     <string name="in_progress">Davam edir</string>
-    <string name="incident_report_channel_name">Sazlama datalarını paylaş</string>
+    <string name="incident_report_channel_name">Sazlama verilərini paylaş</string>
     <string name="incident_report_dialog_allow_label">İcazə ver</string>
     <string name="incident_report_dialog_deny_label">Rədd et</string>
     <string name="incident_report_dialog_intro">Sistem bir problem aşkarladı.</string>
-    <string name="incident_report_dialog_text">"%1$s, %2$s (%3$s) alınmış xəta hesabatını bu cihazdan yükləməyi tələb edir. Xəta hesabatlarına cihazınızla bağlı və ya tətbiqlər tərəfindən saxlanılan məlumatlar (məs. istifadəçi adları, yerləşmə dataları, cihaz identifikatorları və şəbəkə məlumatları) daxildir."</string>
-    <string name="incident_report_dialog_title">Sazlama dataları paylaşılsın?</string>
-    <string name="incident_report_error_dialog_text">%1$s üçün xəta hesabını emal edərkən bir xəta baş verdi. Buna görə də, təfsilatlı sazlama datalarının paylaşılmasına rədd cavabı verildi. Kəsinti üçün təəssüf edirik.</string>
+    <string name="incident_report_dialog_text">"%1$s, %2$s (%3$s) alınmış xəta hesabatını bu cihazdan yükləməyi tələb edir. Xəta hesabatlarına cihazınızla bağlı və ya tətbiqlər tərəfindən saxlanılan məlumatlar (məs. istifadəçi adları, yerləşmə veriləri, cihaz identifikatorları və şəbəkə məlumatları) daxildir."</string>
+    <string name="incident_report_dialog_title">Sazlama veriləri paylaşılsın?</string>
+    <string name="incident_report_error_dialog_text">%1$s üçün xəta hesabını emal edərkən bir xəta baş verdi. Buna görə də, təfsilatlı sazlama verilərinin paylaşılmasına rədd cavabı verildi. Kəsinti üçün təəssüf edirik.</string>
     <string name="incident_report_notification_text">%1$s, sazlama məlumatlarını yükləmək (upload) istəyir.</string>
-    <string name="incident_report_notification_title">Təfsilatlı sazlama dataları paylaşılsın?</string>
+    <string name="incident_report_notification_title">Təfsilatlı sazlama veriləri paylaşılsın?</string>
     <string name="indeterminate">Qismən işarələndi</string>
     <string name="install_type_instant">Ani tətbiq</string>
     <string name="item_view_role_description">Vərəq</string>
@@ -353,14 +353,14 @@ Data paylaşım təcrübələri, tətbiq versiyanıza, istifadənizə, bölgəni
     <string name="lb_search_bar_hint_speech">Axtarmaq üçün danışın</string>
     <string name="lb_search_bar_hint_with_title">Axtar: %1$s</string>
     <string name="lb_search_bar_hint_with_title_speech">%1$s axtarmaq üçün danışın</string>
-    <string name="learn_about_data_sharing">Data paylaşımı barədə daha ətraflı</string>
+    <string name="learn_about_data_sharing">Veri paylaşımı barədə daha ətraflı</string>
     <string name="learn_more_content_description">%1$s haqqında daha ətraflı</string>
     <string name="loading">Yüklənir…</string>
     <string name="location_settings">Yerləşmə ayarları</string>
-    <string name="location_settings_subtitle">Yerləşməyə müraciət edən tətbiqlərə və xidmətlərə bax</string>
+    <string name="location_settings_subtitle">Yerləşməyə erişən tətbiqlərə və xidmətlərə bax</string>
     <string name="location_warning">%1$s, bu cihaz üçün yerləşmə xidmətlərinin provayderidir. Yerləşmə xidmətləri, yerləşmə ayarlarından dəyişdirilə bilər.</string>
     <string name="manage_permission">İcazələri idarə et</string>
-    <string name="manage_permission_summary">%1$s üçün tətbiq müraciətinə nəzarət edin</string>
+    <string name="manage_permission_summary">%1$s üçün tətbiq erişməsinə nəzarət edin</string>
     <string name="manage_permissions_qs">İcazələri idarə et</string>
     <string name="manage_service_qs">Xidməti idarə et</string>
     <string name="material_clock_toggle_content_description">GƏ və ya GS seçin</string>
@@ -379,33 +379,33 @@ Data paylaşım təcrübələri, tətbiq versiyanıza, istifadənizə, bölgəni
     <string name="material_timepicker_pm">GS</string>
     <string name="material_timepicker_select_time">Vaxt seçin</string>
     <string name="material_timepicker_text_input_mode_description">Vaxtı daxil etmək üçün mətn giriş rejiminə keçin.</string>
-    <string name="media_confirm_dialog_message_a_to_p_aural_allow">Bu tətbiq, Android-in ən son versiyasını dəstəkləmir. Əgər bu tətbiq musiqi və səs fayllarına müraciət edə bilirsə, o zaman foto, video və digər fayllara da müraciət etməsinə icazə veriləcək.</string>
-    <string name="media_confirm_dialog_message_a_to_p_aural_deny">Bu tətbiq, Android-in ən son versiyasını dəstəkləmir. Əgər bu tətbiq musiqi və səs fayllarına müraciət edə bilmirsə, o zaman foto, video və digər fayllara da müraciət etməsinə icazə verilməyəcək.</string>
-    <string name="media_confirm_dialog_message_a_to_p_visual_allow">Bu tətbiq, Android-in ən son versiyasını dəstəkləmir. Əgər bu tətbiq foto və videolara müraciət edə bilirsə, o zaman musiqi, səs və digər fayllara da müraciət etməsinə icazə veriləcək.</string>
-    <string name="media_confirm_dialog_message_a_to_p_visual_deny">Bu tətbiq, Android-in ən son versiyasını dəstəkləmir. Əgər bu tətbiq foto və videolara müraciət edə bilmirsə, o zaman musiqi, səs və digər fayllara da müraciət etməsinə icazə verilməyəcək.</string>
-    <string name="media_confirm_dialog_message_q_to_s_aural_allow">Bu tətbiq, Android-in ən son versiyasını dəstəkləmir. Əgər bu tətbiq musiqi və səs fayllarına müraciət edə bilirsə, o zaman foto və videolara da müraciət etməsinə icazə veriləcək.</string>
-    <string name="media_confirm_dialog_message_q_to_s_aural_deny">Bu tətbiq, Android-in ən son versiyasını dəstəkləmir. Əgər bu tətbiq musiqi və səs fayllarına müraciət edə bilmirsə, o zaman foto və videolara da müraciət etməsinə icazə verilməyəcək.</string>
-    <string name="media_confirm_dialog_message_q_to_s_visual_allow">Bu tətbiq, Android-in ən son versiyasını dəstəkləmir. Əgər bu tətbiq foto və videolara müraciət edə bilirsə, o zaman musiqi və səs fayllarına da müraciət etməsinə icazə veriləcək.</string>
-    <string name="media_confirm_dialog_message_q_to_s_visual_deny">Bu tətbiq, Android-in ən son versiyasını dəstəkləmir. Əgər bu tətbiq musiqi və səs fayllarına müraciət edə bilmirsə, o zaman foto və videolara da müraciət etməsinə icazə verilməyəcək.</string>
+    <string name="media_confirm_dialog_message_a_to_p_aural_allow">Bu tətbiq, Android-in ən son versiyasını dəstəkləmir. Əgər bu tətbiq musiqi və səs fayllarına erişə bilirsə, o zaman foto, video və digər fayllara da erişməsinə icazə veriləcək.</string>
+    <string name="media_confirm_dialog_message_a_to_p_aural_deny">Bu tətbiq, Android-in ən son versiyasını dəstəkləmir. Əgər bu tətbiq musiqi və səs fayllarına erişə bilmirsə, o zaman foto, video və digər fayllara da erişməsinə icazə verilməyəcək.</string>
+    <string name="media_confirm_dialog_message_a_to_p_visual_allow">Bu tətbiq, Android-in ən son versiyasını dəstəkləmir. Əgər bu tətbiq foto və videolara erişə bilirsə, o zaman musiqi, səs və digər fayllara da erişməsinə icazə veriləcək.</string>
+    <string name="media_confirm_dialog_message_a_to_p_visual_deny">Bu tətbiq, Android-in ən son versiyasını dəstəkləmir. Əgər bu tətbiq foto və videolara erişə bilmirsə, o zaman musiqi, səs və digər fayllara da erişməsinə icazə verilməyəcək.</string>
+    <string name="media_confirm_dialog_message_q_to_s_aural_allow">Bu tətbiq, Android-in ən son versiyasını dəstəkləmir. Əgər bu tətbiq musiqi və səs fayllarına erişə bilirsə, o zaman foto və videolara da erişməsinə icazə veriləcək.</string>
+    <string name="media_confirm_dialog_message_q_to_s_aural_deny">Bu tətbiq, Android-in ən son versiyasını dəstəkləmir. Əgər bu tətbiq musiqi və səs fayllarına erişə bilmirsə, o zaman foto və videolara da erişməsinə icazə verilməyəcək.</string>
+    <string name="media_confirm_dialog_message_q_to_s_visual_allow">Bu tətbiq, Android-in ən son versiyasını dəstəkləmir. Əgər bu tətbiq foto və videolara erişə bilirsə, o zaman musiqi və səs fayllarına da erişməsinə icazə veriləcək.</string>
+    <string name="media_confirm_dialog_message_q_to_s_visual_deny">Bu tətbiq, Android-in ən son versiyasını dəstəkləmir. Əgər bu tətbiq musiqi və səs fayllarına erişə bilmirsə, o zaman foto və videolara da erişməsinə icazə verilməyəcək.</string>
     <string name="media_confirm_dialog_negative_button">Geri</string>
     <string name="media_confirm_dialog_positive_button">Təsdiqlə</string>
-    <string name="media_confirm_dialog_title_a_to_p_aural_allow">Digər fayllara müraciətinə də icazə veriləcək</string>
-    <string name="media_confirm_dialog_title_a_to_p_aural_deny">Digər fayllara müraciətinə də icazə verilməyəcək</string>
-    <string name="media_confirm_dialog_title_a_to_p_visual_allow">Digər fayllara müraciətinə də icazə veriləcək</string>
-    <string name="media_confirm_dialog_title_a_to_p_visual_deny">Digər fayllara müraciətinə də icazə verilməyəcək</string>
-    <string name="media_confirm_dialog_title_q_to_s_aural_allow">Foto və videolara müraciətinə də icazə veriləcək</string>
-    <string name="media_confirm_dialog_title_q_to_s_aural_deny">Foto və videolara müraciətinə də icazə verilməyəcək</string>
-    <string name="media_confirm_dialog_title_q_to_s_visual_allow">Musiqi və səs fayllarına müraciətinə də icazə veriləcək</string>
-    <string name="media_confirm_dialog_title_q_to_s_visual_deny">Musiqi və səs fayllarına müraciətinə də icazə verilməyəcək</string>
+    <string name="media_confirm_dialog_title_a_to_p_aural_allow">Digər fayllara erişməsinə də icazə veriləcək</string>
+    <string name="media_confirm_dialog_title_a_to_p_aural_deny">Digər fayllara erişməsinə də icazə verilməyəcək</string>
+    <string name="media_confirm_dialog_title_a_to_p_visual_allow">Digər fayllara erişməsinə də icazə veriləcək</string>
+    <string name="media_confirm_dialog_title_a_to_p_visual_deny">Digər fayllara erişməsinə də icazə verilməyəcək</string>
+    <string name="media_confirm_dialog_title_q_to_s_aural_allow">Foto və videolara erişməsinə də icazə veriləcək</string>
+    <string name="media_confirm_dialog_title_q_to_s_aural_deny">Foto və videolara erişməsinə də icazə verilməyəcək</string>
+    <string name="media_confirm_dialog_title_q_to_s_visual_allow">Musiqi və səs fayllarına erişməsinə də icazə veriləcək</string>
+    <string name="media_confirm_dialog_title_q_to_s_visual_deny">Musiqi və səs fayllarına erişməsinə də icazə verilməyəcək</string>
     <string name="menu_adjust_user_sensitive">Qabaqcıl ayarlar</string>
     <string name="menu_hide_system">Sistemi gizlət</string>
     <string name="menu_show_24_hours_data">24 saatı göstər</string>
     <string name="menu_show_7_days_data">7 günü göstər</string>
     <string name="menu_show_system">Sistemi göstər</string>
     <string name="message_staging">Tətbiq hazırlanır…</string>
-    <string name="mic_toggle_description">Tətbiqlər və xidmətlər üçün. Bu ayar bağlıdırsa, fövqəladə hal nömrəsinə zəng etdikdə mikrofon məlumatları hələ də paylaşıla bilər.</string>
-    <string name="mic_toggle_title">Mikrofon müraciəti</string>
-    <string name="microphone_toggle_label_qs">Mikrofon müraciəti</string>
+    <string name="mic_toggle_description">Tətbiqlər və xidmətlər üçün. Bu ayar bağlıdırsa, fövqəladə hal nömrəsinə zəng etdikdə mikrofon veriləri hələ də paylaşıla bilər.</string>
+    <string name="mic_toggle_title">Mikrofona erişim</string>
+    <string name="microphone_toggle_label_qs">Mikrofona erişim</string>
     <string name="microphone_usage_qs">Son mikrofon istifadəsinə bax</string>
     <string name="minutes">{count, plural, one {}=1 {# dəqiqə} other {# dəqiqə} }</string>
     <string name="months_ago">%1$d ay əvvəl</string>
@@ -463,19 +463,19 @@ Data paylaşım təcrübələri, tətbiq versiyanıza, istifadənizə, bölgəni
     <string name="no_permissions">İcazə yoxdur</string>
     <string name="no_permissions_allowed">Heç bir icazə verilməyib</string>
     <string name="no_permissions_denied">Heç bir icazəyə rədd cavabı verilməyib</string>
-    <string name="no_special_app_access">Xüsusi tətbiq müraciəti yoxdur</string>
+    <string name="no_special_app_access">Xüsusi tətbiq erişimi yoxdur</string>
     <string name="no_unused_apps">İstifadə edilməyən tətbiq yoxdur</string>
     <string name="no_updates_at_this_time">Hazırda heç bir güncəlləmə yoxdur</string>
     <string name="not_selected">Seçilmədi</string>
     <string name="not_set">Ayarlanmadı</string>
     <string name="not_used_permissions_description">Yalnız sistem tətbiqlərinin istifadə etdiyi icazələr.</string>
     <string name="not_used_permissions_label">Sistemin istifadə etdiyi icazə</string>
-    <string name="notification_listener_reminder_notification_content">%s, bildirişlərinizdəki məzmunu bağlaya, üzərində əməliyyat icra edə və məzmuna müraciət edə bilər</string>
-    <string name="notification_listener_reminder_notification_title">Bildirişlərinizə müraciət edən tətbiqləri incələyin</string>
-    <string name="notification_listener_remove_access_button_label">Müraciəti sil</string>
-    <string name="notification_listener_remove_access_success_label">Müraciət silindi</string>
+    <string name="notification_listener_reminder_notification_content">%s, bildirişlərinizdəki məzmunu bağlaya, üzərində əməliyyat icra edə və məzmuna erişə bilər</string>
+    <string name="notification_listener_reminder_notification_title">Bildirişlərinizə erişən tətbiqləri incələyin</string>
+    <string name="notification_listener_remove_access_button_label">Erişimi sil</string>
+    <string name="notification_listener_remove_access_success_label">Erişim silindi</string>
     <string name="notification_listener_review_app_button_label">Daha çox seçimə bax</string>
-    <string name="notification_listener_warning_card_content">Bu tətbiq, bildirişlərinizdəki məzmunu bağlaya, üzərində əməliyyat icra edə və məzmuna müraciət edə bilər. Bəzi tətbiqlər, nəzərdə tutulduğu kimi işləmək üçün bu müraciəti tələb edə bilər.</string>
+    <string name="notification_listener_warning_card_content">Bu tətbiq, bildirişlərinizdəki məzmunu bağlaya, üzərində əməliyyat icra edə və məzmuna erişə bilər. Bəzi tətbiqlər, nəzərdə tutulduğu kimi işləmək üçün bu erişimi tələb edə bilər.</string>
     <string name="num_unused_apps_summary">%s tətbiq bir neçə aydır ki istifadə edilmir</string>
     <string name="off">Bağlı</string>
     <string name="ok">Oldu</string>
@@ -499,93 +499,93 @@ Data paylaşım təcrübələri, tətbiq versiyanıza, istifadənizə, bölgəni
     <string name="permgroup_list_microphone_and_camera">Mikrofon və Kamera</string>
     <string name="permgroupbackgroundrequest_camera">&lt;b&gt;%1$s&lt;/b&gt; - şəkillər çəkməsinə və video yazmasına icazə verilsin?</string>
     <string name="permgroupbackgroundrequest_device_aware_camera">&lt;b&gt;%1$s&lt;/b&gt; - &lt;b&gt;%2$s&lt;/b&gt; üzərində şəkillər çəkməsinə və video yazmasına icazə verilsin?</string>
-    <string name="permgroupbackgroundrequest_device_aware_location">&lt;b&gt;%1$s&lt;/b&gt; - &lt;b&gt;%2$s&lt;/b&gt; yerləşməsinə müraciət etməsinə icazə verilsin?</string>
+    <string name="permgroupbackgroundrequest_device_aware_location">&lt;b&gt;%1$s&lt;/b&gt; - &lt;b&gt;%2$s&lt;/b&gt; yerləşməsinə erişməsinə icazə verilsin?</string>
     <string name="permgroupbackgroundrequest_device_aware_microphone">&lt;b&gt;%1$s&lt;/b&gt; - &lt;b&gt;%2$s&lt;/b&gt; üzərində səs yazmasına icazə verilsin?</string>
-    <string name="permgroupbackgroundrequest_device_aware_sensors">&lt;b&gt;%1$s&lt;/b&gt; - &lt;b&gt;%2$s&lt;/b&gt; üzərindəki həyati əlamətləriniz barədə sensor datalarına müraciət etməsinə icazə verilsin?</string>
-    <string name="permgroupbackgroundrequest_location">&lt;b&gt;%1$s&lt;/b&gt; - bu cihazın yerləşməsinə müraciət etməsinə icazə verilsin?</string>
+    <string name="permgroupbackgroundrequest_device_aware_sensors">&lt;b&gt;%1$s&lt;/b&gt; - &lt;b&gt;%2$s&lt;/b&gt; üzərindəki həyati əlamətləriniz barədə sensor verilərinə erişməsinə icazə verilsin?</string>
+    <string name="permgroupbackgroundrequest_location">&lt;b&gt;%1$s&lt;/b&gt; - bu cihazın yerləşməsinə erişməsinə icazə verilsin?</string>
     <string name="permgroupbackgroundrequest_microphone">&lt;b&gt;%1$s&lt;/b&gt; - səs yazmasına icazə verilsin?</string>
-    <string name="permgroupbackgroundrequest_sensors">&lt;b&gt;%1$s&lt;/b&gt; - həyati əlamətləriniz barədə sensor datalarına müraciət etməsinə icazə verilsin?</string>
+    <string name="permgroupbackgroundrequest_sensors">&lt;b&gt;%1$s&lt;/b&gt; - həyati əlamətləriniz barədə sensor verilərinə erişməsinə icazə verilsin?</string>
     <string name="permgroupbackgroundrequestdetail_camera">Bu tətbiq, tətbiqi istifadə etmədiyiniz vaxtlarda belə davamlı şəkil çəkmək və video yazmaq istəyə bilər. <annotation id="link">İcazəni ayarlarda verin.</annotation></string>
-    <string name="permgroupbackgroundrequestdetail_location">Bu tətbiq, tətbiqi istifadə etmədiyiniz vaxtlarda belə davamlı yerləşmənizə müraciət etmək istəyə bilər. <annotation id="link">İcazəni ayarlarda verin.</annotation></string>
+    <string name="permgroupbackgroundrequestdetail_location">Bu tətbiq, tətbiqi istifadə etmədiyiniz vaxtlarda belə davamlı yerləşmənizə erişmək istəyə bilər. <annotation id="link">İcazəni ayarlarda verin.</annotation></string>
     <string name="permgroupbackgroundrequestdetail_microphone">Bu tətbiq, tətbiqi istifadə etmədiyiniz vaxtlarda belə davamlı səs yazmaq istəyə bilər. <annotation id="link">İcazəni ayarlarda verin.</annotation></string>
-    <string name="permgroupbackgroundrequestdetail_sensors">Bu tətbiq, tətbiqi istifadə etmədiyiniz vaxtlarda belə davamlı bədən sensor datalarına müraciət etmək istəyə bilər. <annotation id="link">Ayarlarda gedin.</annotation></string>
-    <string name="permgrouprequest_activityRecognition">&lt;b&gt;%1$s&lt;/b&gt; - fiziki fəaliyyətinizə müraciət etməsinə icazə verilsin?</string>
-    <string name="permgrouprequest_calendar">&lt;b&gt;%1$s&lt;/b&gt; - təqviminizə müraciət etməsinə icazə verilsin?</string>
-    <string name="permgrouprequest_calllog">&lt;b&gt;%1$s&lt;/b&gt; - telefon zəng jurnalınıza müraciət etməsinə icazə verilsin?</string>
+    <string name="permgroupbackgroundrequestdetail_sensors">Bu tətbiq, tətbiqi istifadə etmədiyiniz vaxtlarda belə davamlı bədən sensor verilərinə erişmək istəyə bilər. <annotation id="link">Ayarlarda gedin.</annotation></string>
+    <string name="permgrouprequest_activityRecognition">&lt;b&gt;%1$s&lt;/b&gt; - fiziki fəaliyyətinizə erişməsinə icazə verilsin?</string>
+    <string name="permgrouprequest_calendar">&lt;b&gt;%1$s&lt;/b&gt; - təqviminizə erişməsinə icazə verilsin?</string>
+    <string name="permgrouprequest_calllog">&lt;b&gt;%1$s&lt;/b&gt; - telefon zəng jurnalınıza erişməsinə icazə verilsin?</string>
     <string name="permgrouprequest_camera">&lt;b&gt;%1$s&lt;/b&gt; - şəkillər çəkməsinə və video yazmasına icazə verilsin?</string>
-    <string name="permgrouprequest_coarselocation">&lt;b&gt;%1$s&lt;/b&gt; - bu cihazın təxmini yerləşməsinə müraciət etməsinə icazə verilsin?</string>
+    <string name="permgrouprequest_coarselocation">&lt;b&gt;%1$s&lt;/b&gt; - bu cihazın təxmini yerləşməsinə erişməsinə icazə verilsin?</string>
     <string name="permgrouprequest_coarselocation_imagetext">Təxmini</string>
-    <string name="permgrouprequest_contacts">&lt;b&gt;%1$s&lt;/b&gt; - kontaktlarınıza müraciət etməsinə icazə verilsin?</string>
-    <string name="permgrouprequest_device_aware_activityRecognition">&lt;b&gt;%1$s&lt;/b&gt; - &lt;b&gt;%2$s&lt;/b&gt; üzərindəki fiziki fəaliyyətinizə müraciət etməsinə icazə verilsin?</string>
-    <string name="permgrouprequest_device_aware_calendar">&lt;b&gt;%1$s&lt;/b&gt; - &lt;b&gt;%2$s&lt;/b&gt; üzərindəki təqviminizə müraciət etməsinə icazə verilsin?</string>
-    <string name="permgrouprequest_device_aware_calllog">&lt;b&gt;%1$s&lt;/b&gt; - &lt;b&gt;%2$s&lt;/b&gt; üzərindəki telefon zəng jurnalınıza müraciət etməsinə icazə verilsin?</string>
+    <string name="permgrouprequest_contacts">&lt;b&gt;%1$s&lt;/b&gt; - kontaktlarınıza erişməsinə icazə verilsin?</string>
+    <string name="permgrouprequest_device_aware_activityRecognition">&lt;b&gt;%1$s&lt;/b&gt; - &lt;b&gt;%2$s&lt;/b&gt; üzərindəki fiziki fəaliyyətinizə erişməsinə icazə verilsin?</string>
+    <string name="permgrouprequest_device_aware_calendar">&lt;b&gt;%1$s&lt;/b&gt; - &lt;b&gt;%2$s&lt;/b&gt; üzərindəki təqviminizə erişməsinə icazə verilsin?</string>
+    <string name="permgrouprequest_device_aware_calllog">&lt;b&gt;%1$s&lt;/b&gt; - &lt;b&gt;%2$s&lt;/b&gt; üzərindəki telefon zəng jurnalınıza erişməsinə icazə verilsin?</string>
     <string name="permgrouprequest_device_aware_camera">&lt;b&gt;%1$s&lt;/b&gt; - &lt;b&gt;%2$s&lt;/b&gt; üzərində şəkillər çəkməsinə və video yazmasına icazə verilsin?</string>
-    <string name="permgrouprequest_device_aware_coarselocation">&lt;b&gt;%1$s&lt;/b&gt; - &lt;b&gt;%2$s&lt;/b&gt; təxmini yerləşməsinə müraciət etməsinə icazə verilsin?</string>
-    <string name="permgrouprequest_device_aware_contacts">&lt;b&gt;%1$s&lt;/b&gt; - &lt;b&gt;%2$s&lt;/b&gt; üzərindəki kontaktlarınıza müraciət etməsinə icazə verilsin?</string>
-    <string name="permgrouprequest_device_aware_fineupgrade">&lt;b&gt;%2$s%2$s üzərindəki &lt;b&gt;%1$s&lt;/b&gt; yerləşmə müraciəti təxmini dəyərdən dəqiq dəyərə dəyişilsin?</string>
-    <string name="permgrouprequest_device_aware_location">&lt;b&gt;%1$s&lt;/b&gt; - &lt;b&gt;%2$s&lt;/b&gt; yerləşməsinə müraciət etməsinə icazə verilsin?</string>
+    <string name="permgrouprequest_device_aware_coarselocation">&lt;b&gt;%1$s&lt;/b&gt; - &lt;b&gt;%2$s&lt;/b&gt; təxmini yerləşməsinə erişməsinə icazə verilsin?</string>
+    <string name="permgrouprequest_device_aware_contacts">&lt;b&gt;%1$s&lt;/b&gt; - &lt;b&gt;%2$s&lt;/b&gt; üzərindəki kontaktlarınıza erişməsinə icazə verilsin?</string>
+    <string name="permgrouprequest_device_aware_fineupgrade">&lt;b&gt;%2$s%2$s üzərindəki &lt;b&gt;%1$s&lt;/b&gt; yerləşmə erişimi təxmini dəyərdən dəqiq dəyərə dəyişilsin?</string>
+    <string name="permgrouprequest_device_aware_location">&lt;b&gt;%1$s&lt;/b&gt; - &lt;b&gt;%2$s&lt;/b&gt; yerləşməsinə erişməsinə icazə verilsin?</string>
     <string name="permgrouprequest_device_aware_microphone">&lt;b&gt;%1$s&lt;/b&gt; - &lt;b&gt;%2$s&lt;/b&gt; üzərində səs yazmasına icazə verilsin?</string>
-    <string name="permgrouprequest_device_aware_more_photos">&lt;b&gt;%1$s&lt;/b&gt;  - &lt;b&gt;%2$s&lt;/b&gt; daxilindəki daha çox foto və videoya müraciət etməsinə icazə verilsin?</string>
+    <string name="permgrouprequest_device_aware_more_photos">&lt;b&gt;%1$s&lt;/b&gt;  - &lt;b&gt;%2$s&lt;/b&gt; daxilindəki daha çox foto və videoya erişməsinə icazə verilsin?</string>
     <string name="permgrouprequest_device_aware_nearby_devices">&lt;b&gt;%1$s&lt;/b&gt; - &lt;b&gt;%2$s&lt;/b&gt; üzrə yaxınlıqdakı cihazları tapmasına, onlara bağlanmasına və onların nisbi mövqeyini müəyyən etməsinə icazə verilsin?</string>
     <string name="permgrouprequest_device_aware_notifications">&lt;b&gt;%1$s&lt;/b&gt; - &lt;b&gt;%2$s&lt;/b&gt; üzərində sizə bildiriş göndərməsinə icazə verilsin?</string>
     <string name="permgrouprequest_device_aware_phone">&lt;b&gt;%1$s&lt;/b&gt; - &lt;b&gt;%2$s&lt;/b&gt; üzərində telefon zənglərini etməsinə və idarə etməsinə icazə verilsin?</string>
-    <string name="permgrouprequest_device_aware_read_media_aural">&lt;b&gt;%1$s&lt;/b&gt; - &lt;b&gt;%2$s&lt;/b&gt; daxilindəki musiqi və səslərə müraciət etməsinə icazə verilsin?</string>
-    <string name="permgrouprequest_device_aware_read_media_visual">&lt;b&gt;%1$s&lt;/b&gt;  - &lt;b&gt;%2$s&lt;/b&gt; daxilindəki foto və videolara müraciət etməsinə icazə verilsin?</string>
-    <string name="permgrouprequest_device_aware_sensors">&lt;b&gt;%1$s&lt;/b&gt; - &lt;b&gt;%2$s&lt;/b&gt; üzərindəki həyati əlamətləriniz barədə sensor datalarına müraciət etməsinə icazə verilsin?</string>
+    <string name="permgrouprequest_device_aware_read_media_aural">&lt;b&gt;%1$s&lt;/b&gt; - &lt;b&gt;%2$s&lt;/b&gt; daxilindəki musiqi və səslərə erişməsinə icazə verilsin?</string>
+    <string name="permgrouprequest_device_aware_read_media_visual">&lt;b&gt;%1$s&lt;/b&gt;  - &lt;b&gt;%2$s&lt;/b&gt; daxilindəki foto və videolara erişməsinə icazə verilsin?</string>
+    <string name="permgrouprequest_device_aware_sensors">&lt;b&gt;%1$s&lt;/b&gt; - &lt;b&gt;%2$s&lt;/b&gt; üzərindəki həyati əlamətləriniz barədə sensor verilərinə erişməsinə icazə verilsin?</string>
     <string name="permgrouprequest_device_aware_sms">&lt;b&gt;%1$s&lt;/b&gt; - &lt;b&gt;%2$s&lt;/b&gt; üzərində SMS mesajlarını göndərməsinə və görməsinə icazə verilsin?</string>
-    <string name="permgrouprequest_device_aware_storage">&lt;b&gt;%1$s&lt;/b&gt; - &lt;b&gt;%2$s&lt;/b&gt; daxilindəki foto, media və fayllara müraciət etməsinə icazə verilsin?</string>
-    <string name="permgrouprequest_device_aware_storage_isolated">&lt;b&gt;%1$s&lt;/b&gt;  - &lt;b&gt;%2$s&lt;/b&gt; daxilindəki foto və mediaya müraciət etməsinə icazə verilsin?</string>
+    <string name="permgrouprequest_device_aware_storage">&lt;b&gt;%1$s&lt;/b&gt; - &lt;b&gt;%2$s&lt;/b&gt; daxilindəki foto, media və fayllara erişməsinə icazə verilsin?</string>
+    <string name="permgrouprequest_device_aware_storage_isolated">&lt;b&gt;%1$s&lt;/b&gt;  - &lt;b&gt;%2$s&lt;/b&gt; daxilindəki foto və mediaya erişməsinə icazə verilsin?</string>
     <string name="permgrouprequest_finelocation_imagetext">Dəqiq</string>
-    <string name="permgrouprequest_fineupgrade">&lt;b&gt;%1$s&lt;/b&gt; yerləşmə müraciəti təxmini dəyərdən dəqiq dəyərə dəyişilsin?</string>
-    <string name="permgrouprequest_location">&lt;b&gt;%1$s&lt;/b&gt; - bu cihazın yerləşməsinə müraciət etməsinə icazə verilsin?</string>
+    <string name="permgrouprequest_fineupgrade">&lt;b&gt;%1$s&lt;/b&gt; yerləşmə erişimi təxmini dəyərdən dəqiq dəyərə dəyişilsin?</string>
+    <string name="permgrouprequest_location">&lt;b&gt;%1$s&lt;/b&gt; - bu cihazın yerləşməsinə erişməsinə icazə verilsin?</string>
     <string name="permgrouprequest_microphone">&lt;b&gt;%1$s&lt;/b&gt; - səs yazmasına icazə verilsin?</string>
-    <string name="permgrouprequest_more_photos">&lt;b&gt;%1$s&lt;/b&gt;  - bu cihazda daha çox foto və videoya müraciət etməsinə icazə verilsin?</string>
+    <string name="permgrouprequest_more_photos">&lt;b&gt;%1$s&lt;/b&gt;  - bu cihazda daha çox foto və videoya erişməsinə icazə verilsin?</string>
     <string name="permgrouprequest_nearby_devices">&lt;b&gt;%1$s&lt;/b&gt; - yaxınlıqdakı cihazları tapmasına, onlara bağlanmasına və onların nisbi mövqeyini müəyyən etməsinə icazə verilsin?</string>
     <string name="permgrouprequest_notifications">&lt;b&gt;%1$s&lt;/b&gt; - sizə bildiriş göndərməsinə icazə verilsin?</string>
     <string name="permgrouprequest_phone">&lt;b&gt;%1$s&lt;/b&gt; - telefon zənglərini etməsinə və idarə etməsinə icazə verilsin?</string>
-    <string name="permgrouprequest_read_media_aural">&lt;b&gt;%1$s&lt;/b&gt; - bu cihazdakı musiqi və səslərə müraciət etməsinə icazə verilsin?</string>
-    <string name="permgrouprequest_read_media_visual">&lt;b&gt;%1$s&lt;/b&gt; - bu cihazdakı foto və videolara müraciət etməsinə icazə verilsin?</string>
-    <string name="permgrouprequest_sensors">&lt;b&gt;%1$s&lt;/b&gt; - həyati əlamətləriniz barədə sensor datalarına müraciət etməsinə icazə verilsin?</string>
+    <string name="permgrouprequest_read_media_aural">&lt;b&gt;%1$s&lt;/b&gt; - bu cihazdakı musiqi və səslərə erişməsinə icazə verilsin?</string>
+    <string name="permgrouprequest_read_media_visual">&lt;b&gt;%1$s&lt;/b&gt; - bu cihazdakı foto və videolara erişməsinə icazə verilsin?</string>
+    <string name="permgrouprequest_sensors">&lt;b&gt;%1$s&lt;/b&gt; - həyati əlamətləriniz barədə sensor verilərinə erişməsinə icazə verilsin?</string>
     <string name="permgrouprequest_sms">&lt;b&gt;%1$s&lt;/b&gt; - SMS mesajlarını göndərməsinə və görməsinə icazə verilsin?</string>
-    <string name="permgrouprequest_storage">&lt;b&gt;%1$s&lt;/b&gt; - bu cihazdakı foto, media və fayllara müraciət etməsinə icazə verilsin?</string>
-    <string name="permgrouprequest_storage_isolated">&lt;b&gt;%1$s&lt;/b&gt; - bu cihazdakı foto və mediaya müraciət etməsinə icazə verilsin?</string>
-    <string name="permgrouprequest_storage_pre_q">&lt;b&gt;%1$s&lt;/b&gt; - bu cihazdakı &lt;b&gt;fotolara, videolara, musiqilərə, səslərə və digər fayllara&lt;/b&gt; müraciət etməsinə icazə verilsin?</string>
-    <string name="permgrouprequest_storage_q_to_s">&lt;b&gt;%1$s&lt;/b&gt; - bu cihazdakı &lt;b&gt;fotolara, videolara musiqi və səslərə&lt;/b&gt; müraciət etməsinə icazə verilsin?</string>
+    <string name="permgrouprequest_storage">&lt;b&gt;%1$s&lt;/b&gt; - bu cihazdakı foto, media və fayllara erişməsinə icazə verilsin?</string>
+    <string name="permgrouprequest_storage_isolated">&lt;b&gt;%1$s&lt;/b&gt; - bu cihazdakı foto və mediaya erişməsinə icazə verilsin?</string>
+    <string name="permgrouprequest_storage_pre_q">&lt;b&gt;%1$s&lt;/b&gt; - bu cihazdakı &lt;b&gt;fotolara, videolara, musiqilərə, səslərə və digər fayllara&lt;/b&gt; erişməsinə icazə verilsin?</string>
+    <string name="permgrouprequest_storage_q_to_s">&lt;b&gt;%1$s&lt;/b&gt; - bu cihazdakı &lt;b&gt;fotolara, videolara musiqi və səslərə&lt;/b&gt; erişməsinə icazə verilsin?</string>
     <string name="permgrouprequestdetail_camera">Tətbiq, yalnız tətbiqi istifadə edərkən şəkil çəkə və video yaza biləcək</string>
-    <string name="permgrouprequestdetail_location">Tətbiq, yalnız tətbiqi istifadə edərkən yerləşməyə müraciət edə biləcək</string>
+    <string name="permgrouprequestdetail_location">Tətbiq, yalnız tətbiqi istifadə edərkən yerləşməyə erişə biləcək</string>
     <string name="permgrouprequestdetail_microphone">Tətbiq, yalnız tətbiqi istifadə edərkən səs yaza biləcək</string>
-    <string name="permgroupupgraderequest_camera">&lt;b&gt;%1$s&lt;/b&gt; üçün kamera müraciəti dəyişdirilsin?</string>
-    <string name="permgroupupgraderequest_device_aware_camera">&lt;b&gt;%2$s&lt;/b&gt; üzərində &lt;b&gt;%1$s&lt;/b&gt; üçün kamera müraciəti dəyişdirilsin?</string>
-    <string name="permgroupupgraderequest_device_aware_location">&lt;b&gt;%2$s&lt;/b&gt; üzərində &lt;b&gt;%1$s&lt;/b&gt; üçün yerləşmə müraciəti dəyişdirilsin?</string>
-    <string name="permgroupupgraderequest_device_aware_microphone">&lt;b&gt;%2$s&lt;/b&gt; üzərində &lt;b&gt;%1$s&lt;/b&gt; üçün mikrofon müraciəti dəyişdirilsin?</string>
-    <string name="permgroupupgraderequest_device_aware_sensors">Tətbiq istifadə edilərkən  &lt;b&gt;%1$s&lt;/b&gt; tətbiqinin &lt;b&gt;%2$s&lt;/b&gt; üzərindəki bədən sensor datalarına müraciətinə icazə verməyə davam edilsin?</string>
-    <string name="permgroupupgraderequest_location">&lt;b&gt;%1$s&lt;/b&gt; üçün yerləşmə müraciəti dəyişdirilsin?</string>
-    <string name="permgroupupgraderequest_microphone">&lt;b&gt;%1$s&lt;/b&gt; üçün mikrofon müraciəti dəyişdirilsin?</string>
-    <string name="permgroupupgraderequest_sensors">Tətbiq istifadə edilərkən  &lt;b&gt;%1$s&lt;/b&gt; tətbiqinin bədən sensor datalarına müraciətinə icazə verməyə davam edilsin?</string>
+    <string name="permgroupupgraderequest_camera">&lt;b&gt;%1$s&lt;/b&gt; üçün kamera erişimi dəyişdirilsin?</string>
+    <string name="permgroupupgraderequest_device_aware_camera">&lt;b&gt;%2$s&lt;/b&gt; üzərində &lt;b&gt;%1$s&lt;/b&gt; üçün kamera erişimi dəyişdirilsin?</string>
+    <string name="permgroupupgraderequest_device_aware_location">&lt;b&gt;%2$s&lt;/b&gt; üzərində &lt;b&gt;%1$s&lt;/b&gt; üçün yerləşmə erişimi dəyişdirilsin?</string>
+    <string name="permgroupupgraderequest_device_aware_microphone">&lt;b&gt;%2$s&lt;/b&gt; üzərində &lt;b&gt;%1$s&lt;/b&gt; üçün mikrofon erişimi dəyişdirilsin?</string>
+    <string name="permgroupupgraderequest_device_aware_sensors">Tətbiq istifadə edilərkən  &lt;b&gt;%1$s&lt;/b&gt; tətbiqinin &lt;b&gt;%2$s&lt;/b&gt; üzərindəki bədən sensor verilərinə erişməsinə icazə verməyə davam edilsin?</string>
+    <string name="permgroupupgraderequest_location">&lt;b&gt;%1$s&lt;/b&gt; üçün yerləşmə erişimi dəyişdirilsin?</string>
+    <string name="permgroupupgraderequest_microphone">&lt;b&gt;%1$s&lt;/b&gt; üçün mikrofon erişimi dəyişdirilsin?</string>
+    <string name="permgroupupgraderequest_sensors">Tətbiq istifadə edilərkən  &lt;b&gt;%1$s&lt;/b&gt; tətbiqinin bədən sensor verilərinə erişməsinə icazə verməyə davam edilsin?</string>
     <string name="permgroupupgraderequestdetail_camera">Bu tətbiq, tətbiqi istifadə etmədiyiniz vaxtlarda belə davamlı şəkil çəkmək və video yazmaq istəyir. <annotation id="link">İcazəni ayarlarda verin.</annotation></string>
-    <string name="permgroupupgraderequestdetail_location">Bu tətbiq, tətbiqi istifadə etmədiyiniz vaxtlarda belə davamlı yerləşmənizə müraciət etmək istəyir. <annotation id="link">İcazəni ayarlarda verin.</annotation></string>
+    <string name="permgroupupgraderequestdetail_location">Bu tətbiq, tətbiqi istifadə etmədiyiniz vaxtlarda belə davamlı yerləşmənizə erişmək istəyir. <annotation id="link">İcazəni ayarlarda verin.</annotation></string>
     <string name="permgroupupgraderequestdetail_microphone">Bu tətbiq, tətbiqi istifadə etmədiyiniz vaxtlarda belə davamlı səs yazmaq istəyir. <annotation id="link">İcazəni ayarlarda verin.</annotation></string>
     <string name="permgroupupgraderequestdetail_nearby_devices">&lt;b&gt;%1$s&lt;/b&gt; - yaxınlıqdakı cihazları tapmasına, onlara bağlanmasına və onların nisbi mövqeyini müəyyən etməsinə icazə verilsin? <annotation id="link">İcazəni ayarlarda verin.</annotation></string>
-    <string name="permgroupupgraderequestdetail_sensors">Bu tətbiq, tətbiqi istifadə etmədiyiniz vaxtlarda belə davamlı həyati əlamətlərinizlə bağlı sensor datalarına müraciət etmək istəyir. Bunu dəyişdirmək üçün <annotation id="link">ayarlara gedin.</annotation></string>
+    <string name="permgroupupgraderequestdetail_sensors">Bu tətbiq, tətbiqi istifadə etmədiyiniz vaxtlarda belə davamlı həyati əlamətlərinizlə bağlı sensor verilərinə erişmək istəyir. Bunu dəyişdirmək üçün <annotation id="link">ayarlara gedin.</annotation></string>
     <string name="permission_access_always">Hər zaman icazə ver</string>
     <string name="permission_access_never">İcazə verilməsin</string>
     <string name="permission_access_only_foreground">Yalnız tətbiqi istifadə edərkən icazə ver</string>
     <string name="permission_add_background_warning_template">&lt;b&gt;%1$s&lt;/b&gt; - hər zaman %2$s faəliyyətinə icazə verilsin?</string>
-    <string name="permission_description_summary_activity_recognition">Bu icazəyə sahib tətbiqlər gəzinti, velosiped sürmə, avtomobil idarə etmə, addım sayma və daha çoxu kimi fiziki fəaliyyətinizə müraciət edə bilər</string>
-    <string name="permission_description_summary_calendar">Bu icazəyə sahib tətbiqlər təqviminizə müraciət edə bilər</string>
+    <string name="permission_description_summary_activity_recognition">Bu icazəyə sahib tətbiqlər gəzinti, velosiped sürmə, avtomobil idarə etmə, addım sayma və daha çoxu kimi fiziki fəaliyyətinizə erişə bilər</string>
+    <string name="permission_description_summary_calendar">Bu icazəyə sahib tətbiqlər təqviminizə erişə bilər</string>
     <string name="permission_description_summary_call_log">Bu icazəyə sahib tətbiqlər telefon zəng jurnalını oxuya və yaza bilər</string>
     <string name="permission_description_summary_camera">Bu icazəyə sahib tətbiqlər şəkil çəkə və video yaza bilər</string>
-    <string name="permission_description_summary_contacts">Bu icazəyə sahib tətbiqlər kontaktlarınıza müraciət edə bilər</string>
+    <string name="permission_description_summary_contacts">Bu icazəyə sahib tətbiqlər kontaktlarınıza erişə bilər</string>
     <string name="permission_description_summary_generic">Bu icazəyə sahib tətbiqlər %1$s edə bilər</string>
-    <string name="permission_description_summary_location">"Bu icazəyə sahib tətbiqlər bu cihazın yerləşməsinə müraciət edə bilər"</string>
+    <string name="permission_description_summary_location">"Bu icazəyə sahib tətbiqlər bu cihazın yerləşməsinə erişə bilər"</string>
     <string name="permission_description_summary_microphone">Bu icazəyə sahib tətbiqlər səs yaza bilər</string>
     <string name="permission_description_summary_nearby_devices">Bu icazəyə sahib tətbiqlər yaxınlıqdakı cihazları tapa, onlara bağlana və onların nisbi mövqeyini müəyyənləşdirə bilər</string>
     <string name="permission_description_summary_phone">Bu icazəyə sahib tətbiqlər telefon zənglərini edə və idarə edə bilər</string>
-    <string name="permission_description_summary_read_media_aural">Bu icazəyə sahib tətbiqlər bu cihazdakı musiqi və digər səs fayllarına müraciət edə bilər</string>
-    <string name="permission_description_summary_read_media_visual">Bu icazəyə sahib tətbiqlər bu cihazdakı foto və videolara müraciət edə bilər</string>
-    <string name="permission_description_summary_sensors">Bu icazəyə sahib tətbiqlər həyati əlamətlərinizlə bağlı sensor datalarına müraciət edə bilər</string>
+    <string name="permission_description_summary_read_media_aural">Bu icazəyə sahib tətbiqlər bu cihazdakı musiqi və digər səs fayllarına erişə bilər</string>
+    <string name="permission_description_summary_read_media_visual">Bu icazəyə sahib tətbiqlər bu cihazdakı foto və videolara erişə bilər</string>
+    <string name="permission_description_summary_sensors">Bu icazəyə sahib tətbiqlər həyati əlamətlərinizlə bağlı sensor verilərinə erişə bilər</string>
     <string name="permission_description_summary_sms">Bu icazəyə sahib tətbiqlər SMS mesajlarını göndərə və görə bilər</string>
-    <string name="permission_description_summary_storage">Bu icazəyə sahib tətbiqlər bu cihazdakı foto, media və fayllara müraciət edə bilər</string>
+    <string name="permission_description_summary_storage">Bu icazəyə sahib tətbiqlər bu cihazdakı foto, media və fayllara erişə bilər</string>
     <string name="permission_grant_dialog_streaming_blocked_description">Bu tətbiq, əlavə icazələr tələb edir, ancaq icazələr yayım seansında verilə bilməz. Əvvəlcə icazələri telefonunuzda verin.</string>
     <string name="permission_grant_dialog_streaming_blocked_title">İcazə tələbi dayandırıldı</string>
     <string name="permission_group_name_with_device_name">%2$s üzərində %1$s</string>
@@ -595,20 +595,20 @@ Data paylaşım təcrübələri, tətbiq versiyanıza, istifadənizə, bölgəni
     <string name="permission_history_category_today">Bu gün</string>
     <string name="permission_history_category_yesterday">Dünən</string>
     <string name="permission_history_title">İcazə tarixçəsi</string>
-    <string name="permission_rationale_data_sharing_device_manufacturer_message">"Gəlişdirici, bu cihazın istehsalçısına bu tətbiqin dataları necə paylaşdığı ilə bağlı məlumat təqdim edib. Gəlişdirici, bu məlumatları zamanla güncəlləyə bilər."</string>
+    <string name="permission_rationale_data_sharing_device_manufacturer_message">"Gəlişdirici, bu cihazın istehsalçısına bu tətbiqin veriləri necə paylaşdığı ilə bağlı məlumat təqdim edib. Gəlişdirici, bu məlumatları zamanla güncəlləyə bilər."</string>
     <string name="permission_rationale_data_sharing_source_message">Gəlişdirici, <annotation id="link">
   <annotation example="App Store" id="install_source">%1$s</annotation>
-</annotation> istehsalçısına bu tətbiqin dataları necə paylaşdığı ilə bağlı məlumat təqdim edib. Gəlişdirici, bu məlumatları zamanla güncəlləyə bilər.</string>
-    <string name="permission_rationale_data_sharing_source_title">Dataların paylaşılma məlumatları haradan gəlir</string>
-    <string name="permission_rationale_data_sharing_varies_message">Data təcrübələri tətbiq versiyanıza, istifadənizə, bölgənizə və yaşınıza görə dəyişə bilər. <annotation id="link">Data paylaşımı ilə bağlı daha ətraflı</annotation></string>
-    <string name="permission_rationale_data_sharing_varies_message_without_link">Data təcrübələri tətbiq versiyanıza, istifadənizə, bölgənizə və yaşınıza görə dəyişə bilər.</string>
-    <string name="permission_rationale_location_purpose_title">Bu tətbiq, aşağıdakılar üçün yerləşmə datalarını paylaşa bilər:</string>
-    <string name="permission_rationale_location_settings_title">Yerləşmə datalarınız</string>
-    <string name="permission_rationale_location_title">Data paylaşımı və yerləşmə</string>
-    <string name="permission_rationale_message_location">Bu tətbiq, yerləşmə datalarını üçüncü tərəflərlə paylaşa biləcəyini bildirdi</string>
-    <string name="permission_rationale_permission_data_sharing_varies_title">Data paylaşımı dəyişir</string>
-    <string name="permission_rationale_permission_settings_message">Bu tətbiqin müraciətini <annotation id="link">gizlilik ayarlarında</annotation> dəyişdir</string>
-    <string name="permission_rationale_purpose_account_management">Müraciətin idarə edilməsi</string>
+</annotation> istehsalçısına bu tətbiqin veriləri necə paylaşdığı ilə bağlı məlumat təqdim edib. Gəlişdirici, bu məlumatları zamanla güncəlləyə bilər.</string>
+    <string name="permission_rationale_data_sharing_source_title">Verilərin paylaşılma məlumatları haradan gəlir</string>
+    <string name="permission_rationale_data_sharing_varies_message">Veri təcrübələri tətbiq versiyanıza, istifadənizə, bölgənizə və yaşınıza görə dəyişə bilər. <annotation id="link">Veri paylaşımı ilə bağlı daha ətraflı</annotation></string>
+    <string name="permission_rationale_data_sharing_varies_message_without_link">Veri təcrübələri tətbiq versiyanıza, istifadənizə, bölgənizə və yaşınıza görə dəyişə bilər.</string>
+    <string name="permission_rationale_location_purpose_title">Bu tətbiq, aşağıdakılar üçün yerləşmə verilərini paylaşa bilər:</string>
+    <string name="permission_rationale_location_settings_title">Yerləşmə veriləriniz</string>
+    <string name="permission_rationale_location_title">Veri paylaşımı və yerləşmə</string>
+    <string name="permission_rationale_message_location">Bu tətbiq, yerləşmə verilərini üçüncü tərəflərlə paylaşa biləcəyini bildirdi</string>
+    <string name="permission_rationale_permission_data_sharing_varies_title">Veri paylaşımı dəyişir</string>
+    <string name="permission_rationale_permission_settings_message">Bu tətbiqin erişimini <annotation id="link">gizlilik ayarlarında</annotation> dəyişdir</string>
+    <string name="permission_rationale_purpose_account_management">Erişimin idarə edilməsi</string>
     <string name="permission_rationale_purpose_advertising">Reklam və ya marketinq</string>
     <string name="permission_rationale_purpose_analytics">Analitik</string>
     <string name="permission_rationale_purpose_app_functionality">Tətbiq funksionallığı</string>
@@ -618,8 +618,8 @@ Data paylaşım təcrübələri, tətbiq versiyanıza, istifadənizə, bölgəni
     <string name="permission_reminders">İcazə xatırladıcıları</string>
     <string name="permission_removed_page_title">İcazələr silindi</string>
     <string name="permission_request_title">İcazə istəyi</string>
-    <string name="permission_review_title_template_install">&lt;b&gt;%1$s&lt;/b&gt; - müraciət etməsinə icazə veriləcək elementləri seçin</string>
-    <string name="permission_review_title_template_update">&lt;b&gt;%1$s&lt;/b&gt; güncəlləndi. Bu tətbiqin nəyə müraciət etməsinə icazə verəcəyinizi seçin.</string>
+    <string name="permission_review_title_template_install">&lt;b&gt;%1$s&lt;/b&gt; - erişməsinə icazə veriləcək elementləri seçin</string>
+    <string name="permission_review_title_template_update">&lt;b&gt;%1$s&lt;/b&gt; güncəlləndi. Bu tətbiqin nəyə erişməsinə icazə verəcəyinizi seçin.</string>
     <string name="permission_revoked_all">hamısı sıradan çıxarıldı</string>
     <string name="permission_revoked_count">%1$d sıradan çıxarılıb</string>
     <string name="permission_revoked_none">heç biri sıradan çıxarılmayıb</string>
@@ -627,12 +627,12 @@ Data paylaşım təcrübələri, tətbiq versiyanıza, istifadənizə, bölgəni
     <string name="permission_subtitle_all_files">Bütün fayllar</string>
     <string name="permission_subtitle_background">Hər zaman icazə verilir</string>
     <string name="permission_subtitle_only_in_foreground">Yalnız tətbiq istifadə edilərkən</string>
-    <string name="permission_summary_disabled_by_admin_background_only">Arxaplan müraciəti admin tərəfindən sıradan çıxarılıb</string>
-    <string name="permission_summary_disabled_by_policy_background_only">Arxaplan müraciəti siyasət tərəfindən sıradan çıxarılıb</string>
-    <string name="permission_summary_enabled_by_admin_background_only">Arxaplan müraciəti admin tərəfindən fəallaşdırılıb</string>
-    <string name="permission_summary_enabled_by_admin_foreground_only">Önplan müraciəti admin tərəfindən fəallaşdırılıb</string>
-    <string name="permission_summary_enabled_by_policy_background_only">Arxaplan müraciəti siyasət tərəfindən fəallaşdırılıb</string>
-    <string name="permission_summary_enabled_by_policy_foreground_only">Önplan müraciəti siyasət tərəfindən fəallaşdırılıb</string>
+    <string name="permission_summary_disabled_by_admin_background_only">Arxaplanda erişim admin tərəfindən sıradan çıxarılıb</string>
+    <string name="permission_summary_disabled_by_policy_background_only">Arxaplanda erişim siyasət tərəfindən sıradan çıxarılıb</string>
+    <string name="permission_summary_enabled_by_admin_background_only">Arxaplanda erişim admin tərəfindən fəallaşdırılıb</string>
+    <string name="permission_summary_enabled_by_admin_foreground_only">Önplanda erişim admin tərəfindən fəallaşdırılıb</string>
+    <string name="permission_summary_enabled_by_policy_background_only">Arxaplanda erişim siyasət tərəfindən fəallaşdırılıb</string>
+    <string name="permission_summary_enabled_by_policy_foreground_only">Önplanda erişim siyasət tərəfindən fəallaşdırılıb</string>
     <string name="permission_summary_enabled_system_fixed">Cihazın işləməsi üçün bu icazəyə ehtiyacı var</string>
     <string name="permission_summary_enforced_by_admin">Admin tərəfindən nəzarət olunur</string>
     <string name="permission_summary_enforced_by_policy">Siyasət tərəfindən tətbiq olunur</string>
@@ -649,12 +649,12 @@ Data paylaşım təcrübələri, tətbiq versiyanıza, istifadənizə, bölgəni
     <string name="permission_usage_last_n_days">{count, plural, one {}=1 {Son # gün} other {Son # gün} }</string>
     <string name="permission_usage_last_n_hours">{count, plural, one {}=1 {Son # saat} other {Son # saat} }</string>
     <string name="permission_usage_last_n_minutes">{count, plural, one {}=1 {Son # dəqiqə} other {Son # dəqiqə} }</string>
-    <string name="permission_usage_list_title_any_time">Hər hansısa vaxtdakı ən son müraciət</string>
-    <string name="permission_usage_list_title_last_15_minutes">Son 15 dəqiqədəki ən son müraciət</string>
-    <string name="permission_usage_list_title_last_7_days">Son 7 gündəki ən son müraciət</string>
-    <string name="permission_usage_list_title_last_day">Son 24 saatdakı ən son müraciət</string>
-    <string name="permission_usage_list_title_last_hour">Son 1 saatdakı ən son müraciət</string>
-    <string name="permission_usage_list_title_last_minute">Son 1 dəqiqədəki ən son müraciət</string>
+    <string name="permission_usage_list_title_any_time">Hər hansısa vaxtdakı ən son erişim</string>
+    <string name="permission_usage_list_title_last_15_minutes">Son 15 dəqiqədəki ən son erişim</string>
+    <string name="permission_usage_list_title_last_7_days">Son 7 gündəki ən son erişim</string>
+    <string name="permission_usage_list_title_last_day">Son 24 saatdakı ən son erişim</string>
+    <string name="permission_usage_list_title_last_hour">Son 1 saatdakı ən son erişim</string>
+    <string name="permission_usage_list_title_last_minute">Son 1 dəqiqədəki ən son erişim</string>
     <string name="permission_usage_preference_label">{count, plural, one {}=1 {1 tətbiq istifadə etdi} other {# tətbiq istifadə etdi} }</string>
     <string name="permission_usage_preference_summary_not_used_in_past_n_days">{count, plural, one {}=1 {Son # gündə istifadə edilmədi} other {Son # gündə istifadə edilmədi} }</string>
     <string name="permission_usage_preference_summary_not_used_in_past_n_hours">{count, plural, one {}=1 {Son # saatda istifadə edilmədi} other {Son # saatda istifadə edilmədi} }</string>
@@ -667,10 +667,10 @@ Data paylaşım təcrübələri, tətbiq versiyanıza, istifadənizə, bölgəni
     <string name="phone_call_uses_camera">Kamera &lt;b&gt;görüntülü zəngdə&lt;/b&gt; istifadə olunur</string>
     <string name="phone_call_uses_microphone">Mikrofon &lt;b&gt;telefon zəngində&lt;/b&gt; istifadə olunur</string>
     <string name="phone_call_uses_microphone_and_camera">Kamera və Mikrofon &lt;b&gt;görüntülü zəngdə&lt;/b&gt; istifadə olunur</string>
-    <string name="post_drive_permission_decision_reminder_summary_1_app_1_permission">Sürərkən %1$s üçün %2$s müraciətinə icazə verirsiniz</string>
-    <string name="post_drive_permission_decision_reminder_summary_1_app_2_permissions">Sürərkən %1$s üçün %2$s və %3$s müraciətinə icazə verirsiniz</string>
+    <string name="post_drive_permission_decision_reminder_summary_1_app_1_permission">Sürərkən %1$s üçün %2$s erişməsinə icazə verirsiniz</string>
+    <string name="post_drive_permission_decision_reminder_summary_1_app_2_permissions">Sürərkən %1$s üçün %2$s və %3$s erişməsinə icazə verirsiniz</string>
     <string name="post_drive_permission_decision_reminder_summary_1_app_multi_permission">Sürərkən %2$s üçün %1$d icazə verdiniz</string>
-    <string name="post_drive_permission_decision_reminder_summary_multi_apps">{count, plural, one {}=1 {Sürərkən, siz %1$s və digər # tətbiq müraciətini vermisiniz} other {Sürərkən, siz %1$s və digər # tətbiq müraciətini vermisiniz} }</string>
+    <string name="post_drive_permission_decision_reminder_summary_multi_apps">{count, plural, one {}=1 {Sürərkən, %1$s və digər # tətbiqə erişim icazəsi vermisiniz} other {Sürərkən, %1$s və digər # tətbiqə erişim icazəsi vermisiniz} }</string>
     <string name="post_drive_permission_decision_reminder_title">Son icazələri yoxla</string>
     <string name="precise_image_description">Dəqiq yerləşmə</string>
     <string name="preference_copied">\"%1$s\" lövhəyə kopyalandı.</string>
@@ -711,7 +711,7 @@ Data paylaşım təcrübələri, tətbiq versiyanıza, istifadənizə, bölgəni
     <string name="role_automotive_navigation_request_description">Heç bir icazə tələb olunmur</string>
     <string name="role_automotive_navigation_request_title">%1$s, ilkin naviqasiya tətbiqiniz olaraq ayarlansın?</string>
     <string name="role_automotive_navigation_short_label">Naviqasiya tətbiqi</string>
-    <string name="role_browser_description">İnternetə müraciətinizi təmin edən və toxunduğunuz keçidləri nümayiş etdirən tətbiqlər</string>
+    <string name="role_browser_description">İnternetə erişim təmin edən və toxunduğunuz keçidləri nümayiş etdirən tətbiqlər</string>
     <string name="role_browser_label">İlkin brauzer tətbiqi</string>
     <string name="role_browser_request_description">Heç bir icazə tələb olunmur</string>
     <string name="role_browser_request_title">%1$s, ilkin brauzer tətbiqiniz olaraq ayarlansın?</string>
@@ -729,7 +729,7 @@ Data paylaşım təcrübələri, tətbiq versiyanıza, istifadənizə, bölgəni
     <string name="role_companion_device_computer_description">Bu xidmət, telefonunuzdakı fotoları, medianı və bildirişləri digər cihazlarla paylaşır.</string>
     <string name="role_dialer_description">Cihazınızda telefon zəngləri etməyinizə və almağınıza imkan verən tətbiqlər</string>
     <string name="role_dialer_label">İlkin telefon tətbiqi</string>
-    <string name="role_dialer_request_description">Bu tətbiq üçün Kameranıza, Kontaktlarınıza, Mikrofonunuza, Telefon və SMS-lərinizə müraciət icazəsi veriləcək</string>
+    <string name="role_dialer_request_description">Bu tətbiq üçün Kameranıza, Kontaktlarınıza, Mikrofonunuza, Telefon və SMS-lərinizə erişim icazəsi veriləcək</string>
     <string name="role_dialer_request_title">%1$s, ilkin telefon tətbiqiniz olaraq ayarlansın?</string>
     <string name="role_dialer_search_keywords">nömrəyığan</string>
     <string name="role_dialer_short_label">Telefon tətbiqi</string>
@@ -738,7 +738,7 @@ Data paylaşım təcrübələri, tətbiq versiyanıza, istifadənizə, bölgəni
     <string name="role_emergency_request_description">Heç bir icazə tələb olunmur</string>
     <string name="role_emergency_request_title">%1$s, ilkin fövqəladə hal tətbiqiniz olaraq ayarlansın?</string>
     <string name="role_emergency_short_label">Fövqəladə hal tətbiqi</string>
-    <string name="role_home_description">Android cihazınızdakı Əsas ekranları əvəz edən və cihazınızdakı məzmunlara və özəlliklərə müraciət etməyinizə imkan verən, adətən başladıcı (launcher) olaraq adlandırılan tətbiqlər</string>
+    <string name="role_home_description">Android cihazınızdakı Əsas ekranları əvəz edən və cihazınızdakı məzmunlara və özəlliklərə erişməyinizə imkan verən, adətən başladıcı (launcher) olaraq adlandırılan tətbiqlər</string>
     <string name="role_home_label">İlkin əsas ekran tətbiqi</string>
     <string name="role_home_request_description">Heç bir icazə tələb olunmur</string>
     <string name="role_home_request_title">%1$s, ilkin əsas ekran tətbiqiniz olaraq ayarlansın?</string>
@@ -750,7 +750,7 @@ Data paylaşım təcrübələri, tətbiq versiyanıza, istifadənizə, bölgəni
     <string name="role_notes_short_label">Notlar tətbiqi</string>
     <string name="role_sms_description">Telefon nömrənizi istifadə edərək mətn mesajları, fotolar, videolar və daha çoxunu göndərməyinizə və almağınıza imkan verən tətbiqlər</string>
     <string name="role_sms_label">İlkin SMS tətbiqi</string>
-    <string name="role_sms_request_description">Bu tətbiq üçün Kameranıza, Kontaktlarınıza, Fayllar və medianıza, Mikrofonunuza, Telefon və SMS-lərinizə müraciət icazəsi veriləcək</string>
+    <string name="role_sms_request_description">Bu tətbiq üçün Kameranıza, Kontaktlarınıza, Fayllar və medianıza, Mikrofonunuza, Telefon və SMS-lərinizə erişim icazəsi veriləcək</string>
     <string name="role_sms_request_title">%1$s, ilkin SMS tətbiqiniz olaraq ayarlansın?</string>
     <string name="role_sms_search_keywords">mətn mesajı, mesaj yazmaq, mesajlar, mesajlaşma</string>
     <string name="role_sms_short_label">SMS tətbiqi</string>
@@ -759,14 +759,14 @@ Data paylaşım təcrübələri, tətbiq versiyanıza, istifadənizə, bölgəni
     <string name="role_wallet_request_description">Heç bir icazə tələb olunmur</string>
     <string name="role_wallet_request_title">%1$s, ilkin pulqabı tətbiqiniz olaraq ayarlansın?</string>
     <string name="role_wallet_short_label">Pulqabı tətbiqi</string>
-    <string name="role_watch_description">%1$s, bildirişlərinizlə qarşılıqlı əlaqə qura biləcək və Telefon, SMS, Kontaktlar və Təqvim icazələrinə müraciət edə biləcək.</string>
-    <string name="safety_center_background_location_access_notification_title">Arxaplanda yerləşmə müraciəti olan tətbiqi incələ</string>
-    <string name="safety_center_background_location_access_reminder_notification_content">%s, tətbiq bağlı olsa belə yerləşmənizə həmişə müraciət edə biləcək</string>
-    <string name="safety_center_background_location_access_reminder_summary">"Bu tətbiq, tətbiq bağlı olsa belə yerləşmənizə həmişə müraciət edə biləcək
+    <string name="role_watch_description">%1$s, bildirişlərinizlə qarşılıqlı əlaqə qura biləcək və Telefon, SMS, Kontaktlar və Təqvim icazələrinə erişə biləcək.</string>
+    <string name="safety_center_background_location_access_notification_title">Arxaplanda yerləşmə erişimi olan tətbiqi incələ</string>
+    <string name="safety_center_background_location_access_reminder_notification_content">%s, tətbiq bağlı olsa belə yerləşmənizə həmişə erişə biləcək</string>
+    <string name="safety_center_background_location_access_reminder_summary">"Bu tətbiq, tətbiq bağlı olsa belə yerləşmənizə həmişə erişə biləcək
 
-Bəzi güvənlik və fövqəladə hal tətbiqləri, istənildiyi kimi çalışması üçün arxaplanda yerləşmənizə müraciət tələb edir. "</string>
-    <string name="safety_center_background_location_access_reminder_title">Arxaplanda yerləşmə müraciəti olan tətbiqi incələ</string>
-    <string name="safety_center_background_location_access_revoked">Müraciət dəyişdirildi</string>
+Bəzi güvənlik və fövqəladə hal tətbiqləri, istənildiyi kimi çalışması üçün arxaplanda yerləşmənizə erişim tələb edir. "</string>
+    <string name="safety_center_background_location_access_reminder_title">Arxaplanda yerləşməyə erişimi olan tətbiqi incələ</string>
+    <string name="safety_center_background_location_access_revoked">Erişim dəyişdirildi</string>
     <string name="safety_center_dashboard_page_title">Güvənlik və gizlilik</string>
     <string name="safety_center_entries_category_title">Ayarlar</string>
     <string name="safety_center_issue_card_cancel_dismiss_button">İmtina</string>
@@ -778,8 +778,8 @@ Bəzi güvənlik və fövqəladə hal tətbiqləri, istənildiyi kimi çalışma
     <string name="safety_center_rescan_button">Cihazı skan et</string>
     <string name="safety_center_view_recent_location_access">Son yerləşmə istifadəsinə bax</string>
     <string name="safety_label_changes_gear_description">Ayarlar</string>
-    <string name="safety_label_changes_notification_desc">Bəzi tətbiqlər, yerləşmə datalarınızı paylaşma üsulunu dəyişdirdi</string>
-    <string name="safety_label_changes_notification_title">Data paylaşma güncəlləmələri</string>
+    <string name="safety_label_changes_notification_desc">Bəzi tətbiqlər, yerləşmə verilərinizi paylaşma üsulunu dəyişdirdi</string>
+    <string name="safety_label_changes_notification_title">Veri paylaşma güncəlləmələri</string>
     <string name="safety_privacy_qs_tile_subtitle">Statusu yoxla</string>
     <string name="safety_privacy_qs_tile_title">Güvənlik və gizlilik</string>
     <string name="safety_status_preference_title_and_summary_content_description">Güvənlik və gizlilik statusu. %1$s. %2$s</string>
@@ -796,32 +796,32 @@ Bəzi güvənlik və fövqəladə hal tətbiqləri, istənildiyi kimi çalışma
     <string name="settings_button">Ayarlar</string>
     <string name="settings_label">Ayarlar</string>
     <string name="settingslib_learn_more_text">Daha ətraflı</string>
-    <string name="shares_location_with_third_parties">Yerləşmə datalarınız artıq üçüncü tərəflərlə paylaşılır</string>
-    <string name="shares_location_with_third_parties_for_advertising">Yerləşmə datalarınız artıq reklam və ya marketinq məqsədilə üçüncü tərəflərlə paylaşılır</string>
-    <string name="show_clip_access_notification_summary">Tətbiqlər mətnə, təsvirlərə və ya kopyaladığınız digər məzmuna müraciət etdikdə bir mesaj göstər</string>
-    <string name="show_clip_access_notification_title">Lövhəyə müraciəti göstər</string>
+    <string name="shares_location_with_third_parties">Yerləşmə veriləriniz artıq üçüncü tərəflərlə paylaşılır</string>
+    <string name="shares_location_with_third_parties_for_advertising">Yerləşmə veriləriniz artıq reklam və ya marketinq məqsədilə üçüncü tərəflərlə paylaşılır</string>
+    <string name="show_clip_access_notification_summary">Tətbiqlər mətnə, təsvirlərə və ya kopyaladığınız digər məzmuna erişdikdə bir mesaj göstər</string>
+    <string name="show_clip_access_notification_title">Lövhəyə erişimi göstər</string>
     <string name="show_password_summary">Yazarkən xarakterləri qısaca göstər</string>
     <string name="show_password_title">Parolları göstər</string>
     <string name="side_sheet_accessibility_pane_title">Yan vərəq</string>
     <string name="sort_by_app">Tətbiq istifadəsinə görə sırala</string>
     <string name="sort_by_time">Vaxta görə sırala</string>
-    <string name="sort_spinner_most_accesses">Ən çox müraciət</string>
+    <string name="sort_spinner_most_accesses">Ən çox erişim</string>
     <string name="sort_spinner_most_permissions">Ən çox icazə</string>
     <string name="sort_spinner_recent">Son</string>
-    <string name="special_app_access">Xüsusi tətbiq müraciəti</string>
+    <string name="special_app_access">Xüsusi tətbiq erişimi</string>
     <string name="special_app_access_no_apps">Tətbiq yoxdur</string>
-    <string name="special_app_access_search_keyword">xüsusi tətbiq müraciəti</string>
-    <string name="special_file_access_dialog">Bu tətbiqin bu cihazdakı və ya bağlantılı olduğu istənilən anbar cihazlarındakı fayllara müraciət etməsinə, faylları dəyişdirməsinə və silməsinə icazə verilsin? Bu tətbiq, sizdən soruşmadan fayllara müraciət edə bilər.</string>
+    <string name="special_app_access_search_keyword">xüsusi tətbiq erişimi</string>
+    <string name="special_file_access_dialog">Bu tətbiqin bu cihazdakı və ya bağlantılı olduğu istənilən anbar cihazlarındakı fayllara erişməsinə, faylları dəyişdirməsinə və silməsinə icazə verilsin? Bu tətbiq, sizdən soruşmadan fayllara erişə bilər.</string>
     <string name="state_empty">Boşdur</string>
     <string name="state_off">Bağlı</string>
     <string name="state_on">Açıq</string>
-    <string name="storage_footer_hyperlink_text">Bütün fayllara müraciət edə bilən daha çox tətbiqə bax</string>
-    <string name="storage_supergroup_warning_allow">Bu tətbiq, Android-in köhnə bir versiyası üçün hazırlanıb. Bu icazəni versəniz, bütün anbara (fotolar, videolar, musiqi, səs və digər fayllar daxil olmaqla) müraciətə icazə veriləcək.</string>
-    <string name="storage_supergroup_warning_deny">Bu tətbiq, Android-in köhnə bir versiyası üçün hazırlanıb. Bu icazəyə rədd cavabı versəniz, bütün anbara (fotolar, videolar, musiqi, səs və digər fayllar daxil olmaqla) müraciətə rədd cavabı veriləcək.</string>
+    <string name="storage_footer_hyperlink_text">Bütün fayllara erişə bilən daha çox tətbiqə bax</string>
+    <string name="storage_supergroup_warning_allow">Bu tətbiq, Android-in köhnə bir versiyası üçün hazırlanıb. Bu icazəni versəniz, bütün anbara (fotolar, videolar, musiqi, səs və digər fayllar daxil olmaqla) erişimə icazə veriləcək.</string>
+    <string name="storage_supergroup_warning_deny">Bu tətbiq, Android-in köhnə bir versiyası üçün hazırlanıb. Bu icazəyə rədd cavabı versəniz, bütün anbara (fotolar, videolar, musiqi, səs və digər fayllar daxil olmaqla) erişimə rədd cavabı veriləcək.</string>
     <string name="switch_role">Keç</string>
-    <string name="system_uses_camera">Sistem xidməti istifadə edilərək kameraya müraciət edildi</string>
-    <string name="system_uses_microphone">Sistem xidməti istifadə edilərək mikrofona müraciət edildi</string>
-    <string name="system_uses_microphone_and_camera">Sistem xidməti istifadə edilərək kamera və mikrofona müraciət edildi</string>
+    <string name="system_uses_camera">Sistem xidməti istifadə edilərək kameraya erişildi</string>
+    <string name="system_uses_microphone">Sistem xidməti istifadə edilərək mikrofona erişildi</string>
+    <string name="system_uses_microphone_and_camera">Sistem xidməti istifadə edilərək kamera və mikrofona erişildi</string>
     <string name="system_warning">Bu icazəyə rədd cavabı versəniz, cihazın təməl özəllikləri artıq lazımi qaydada işləməyə bilər.</string>
     <string name="tab">Vərəq</string>
     <string name="template_percent">%1$d faiz.</string>
@@ -829,8 +829,8 @@ Bəzi güvənlik və fövqəladə hal tətbiqləri, istənildiyi kimi çalışma
     <string name="tooltip_description">i̇pucu</string>
     <string name="tooltip_label">alət ipucunu göstər</string>
     <string name="uninstall_or_disable">Sil və ya sıradan çıxart</string>
-    <string name="unused_app_permissions_removed_summary">Datalarınızı qorumaq üçün bir neçə aydır istifadə etmədiyiniz tətbiqlərdən icazələr silindi</string>
-    <string name="unused_app_permissions_removed_summary_some">Datalarınızı qorumaq üçün bir neçə aydır istifadə etmədiyiniz bəzi tətbiqlərdən icazələr silindi</string>
+    <string name="unused_app_permissions_removed_summary">Verilərinizi qorumaq üçün bir neçə aydır istifadə etmədiyiniz tətbiqlərdən icazələr silindi</string>
+    <string name="unused_app_permissions_removed_summary_some">Verilərinizi qorumaq üçün bir neçə aydır istifadə etmədiyiniz bəzi tətbiqlərdən icazələr silindi</string>
     <string name="unused_apps">İstifadə edilməyən tətbiqlər</string>
     <string name="unused_apps_category_title">İstifadə edilməyən tətbiq ayarları</string>
     <string name="unused_apps_label">İcazələri sil və boş yer aç</string>
@@ -840,7 +840,7 @@ Bəzi güvənlik və fövqəladə hal tətbiqləri, istənildiyi kimi çalışma
     <string name="unused_apps_notification_title">{count, plural, one {}=1 {# istifadə edilməyən tətbiq} other {# istifadə edilməyən tətbiq} }</string>
     <string name="unused_apps_page_summary">"Əgər bir tətbiq bir neçə aydır istifadə edilmirsə:
 
-• Datalarınızı qorumaq üçün icazələr silinir
+• Verilərinizi qorumaq üçün icazələr silinir
 • Batareyaya qənaət etmək üçün bildirişlər dayandırılır
 • Boş yer açmaq üçün müvəqqəti fayllar silinir
 
@@ -848,7 +848,7 @@ Bəzi güvənlik və fövqəladə hal tətbiqləri, istənildiyi kimi çalışma
     <string name="unused_apps_page_title">İstifadə edilməyən tətbiqlər</string>
     <string name="unused_apps_page_tv_summary">"Əgər bir tətbiq bir ay ərzində istifadə edilməsə:
 
-• Datalarınızı qorumaq üçün icazələr silinir
+• Verilərinizi qorumaq üçün icazələr silinir
 • Boş yer açmaq üçün müvəqqəti fayllar silinir
 
 İcazələri yenidən aktivləşdirmək üçün tətbiqi açın."</string>
@@ -865,9 +865,9 @@ Bəzi güvənlik və fövqəladə hal tətbiqləri, istənildiyi kimi çalışma
     <string name="updated_in_last_days">{count, plural, one {}=0 {Son gün ərzində güncəlləndi} =1 {Son gün ərzində güncəlləndi} other {Son # gün ərzində güncəlləndi} }</string>
     <string name="v7_preference_off">BAĞLI</string>
     <string name="v7_preference_on">AÇIQ</string>
-    <string name="wear_app_perms_24h_access">Müraciət edildi: %1$s</string>
-    <string name="wear_app_perms_24h_access_yest">Dünən müraciət edildi: %1$s</string>
-    <string name="wear_app_perms_7d_access">Müraciət edildi: %1$s %2$s</string>
+    <string name="wear_app_perms_24h_access">Erişildi: %1$s</string>
+    <string name="wear_app_perms_24h_access_yest">Dünən erişildi: %1$s</string>
+    <string name="wear_app_perms_7d_access">Erişildi: %1$s %2$s</string>
     <string name="ws_action_drawer_content_description">Fəaliyyət siyirməsi</string>
     <string name="ws_navigation_drawer_content_description">Naviqasiya siyirməsi</string>
     <string name="zero_unused_apps">0 i̇stifadə edilməyən tətbiq</string>

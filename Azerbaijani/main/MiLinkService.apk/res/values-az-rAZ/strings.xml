@@ -134,7 +134,7 @@
     <string name="car_camera_unavailable_dialog_message">"Nəqliyyat, Zəif enerji və ya Gizlilik rejimindədir. Ön görünüş kamerası indi istifadə edilə bilmir."</string>
     <string name="car_camera_unavailable_dialog_positive_button">Anladım</string>
     <string name="car_camera_unavailable_dialog_title">"Kamera istifadə edilə bilmir"</string>
-    <string name="car_card_air_control_backseat_air">Arxa oturacaqlar</string>
+    <string name="car_card_air_control_backseat_air">İkinci sıra havalandırması</string>
     <string name="car_card_air_temperature_minus">Kondisionerin temperaturunu azalt</string>
     <string name="car_card_air_temperature_plus">Kondisionerin temperaturunu artır</string>
     <string name="car_card_air_temperature_text">Temperatur</string>
@@ -533,9 +533,10 @@ və Xiaomi Hesabınıza daxil olun"</string>
     <string name="device_permission_authorize_dialog_message_car_pad">"İkinci sıranın lentini görə bilmək üçün EV-inizin, planşetinizin kamerasını istifadə etməsinə icazə verin."</string>
     <string name="device_permission_authorize_dialog_title">%s üzərində kamera icazələrini ver</string>
     <string name="device_permission_authorize_dialog_title_car_pad">Planşetinizdə icazələri verin</string>
-    <string name="device_permission_dialog_message">%s üzərində Ayarlar &gt; Ara bağlantı &gt; \"Ara bağlantı və icazələr\"i açın və əvvəlcə kamera icazəsini verin.</string>
+    <string name="device_permission_dialog_message">\"%s\" üzərində Ayarlar > Gizlilik və güvənlik > \"Ara bağlantı və icazələr\"ə gedin və bu özəlliyi istifadə edə bilmək üçün kamera icazəsini verin.</string>
     <string name="device_permission_dialog_message_car">Kamera erişiminə icazə vermək üçün Ayarlar &gt; Sistem &gt; Tətbiqləri idarə et &gt; Xüsusi icazələr &gt; \"%s üzərində ara bağlantı\"ya gedin.</string>
-    <string name="device_permission_dialog_message_car_pad">Bu özəlliyi istifadə edə bilmək üçün Ayarlar &gt; Ara bağlantı &gt; Ara bağlantı və icazələr &gt; \"Kamera və icazələri ver\"i açın.</string>
+    <string name="device_permission_dialog_message_car_pad">Bu özəlliyi istifadə edə bilmək üçün planşetinizdə Ayarlar > Gizlilik və güvənlik > \"Ara bağlantı və icazələr\"də kamera icazəsini verin.</string>
+    <string name="device_permission_dialog_message_global_old">"%s cihazınızın ayarlarında, Ara bağlantı > \"Ara bağlantı və icazələr\"ə gedin və bu özəlliyi istifadə edə bilmək üçün kamera icazəsini verin."</string>
     <string name="device_permission_dialog_positive_button">Anladım</string>
     <string name="device_permission_dialog_title">%s üzərindəki icazələri ver</string>
     <string name="device_permission_dialog_title_car_pad">Planşetinizdə icazələri verin</string>
@@ -765,6 +766,9 @@ Miracast-ı işə salsanız, [MENU] düyməsinə basın və Tətbiqlərim &gt; Y
     <string name="icon_content_description">Dialoq ikonu</string>
     <string name="image_transfer_failed">"Təsvir köçürülə bilmədi"</string>
     <string name="install">Quraşdır</string>
+    <string name="inter_connect_setting_unavailable_dialog_message">Cihazlar arası kameranı işə salmaq üçün Ayarlar > \"Ara bağlantı\"ya gedin.</string>
+    <string name="inter_connect_setting_unavailable_dialog_positive_button">Analdım</string>
+    <string name="inter_connect_setting_unavailable_dialog_title">Cihazlar arası kamera</string>
     <string name="introduction_to_accessibility_message">"Ara bağlantı, dataları cihazlar arasında idarə etməyinizə və ötürməyinizə imkan verir.
 
 \"Ara bağlantı\"nı istifadə edərkən, mikrofonun digər tətbiqlər tərəfindən istifadə edilməsini önləmək üçün əlçatımlılıq özəliklərini işə salın.
@@ -1417,17 +1421,20 @@ Oyunları yayımlamazdan əvvəl \"Game Turbo\"nu işə saldığınıza əmin ol
     <string name="solar_term_winter_solstice">Qış gündönümü</string>
     <string name="start_associate">Əlaqələndirməyə başla</string>
     <string name="start_association">Əlaqələndirmə başladılır</string>
+    <string name="start_forbidden_by_glasses_camera_in_use_toast">Eynək kamerası istifadə edilir. Daha sonra yenidən sınayın.</string>
+    <string name="start_forbidden_by_glasses_temperature_high_toast">Eynəyiniz aşırı isinib. Daha sonra yenidən sınayın.</string>
     <string name="start_forbidden_by_not_worn">"Bağlantı qurula bilmədi. Eynəyinizi taxıb yenidən sınayın."</string>
     <string name="state_app_continuity">Tətbiq lenti istifadə edilir</string>
-    <string name="state_audio_cast">Xiaomi Smart Play vasitəsilə səs yayımlanır</string>
-    <string name="state_call_synergy">Zəng sinxronlaşdırma istifadə edilir</string>
+    <string name="state_audio_cast">Xiaomi Mi Audio Cast istifadə edilir</string>
+    <string name="state_call_synergy">Cihazlar arası zəng paylaşımı istifadə edilir</string>
     <string name="state_camera_synergy">Cihazlar arası kamera istifadə edilir</string>
-    <string name="state_cellular_synergy">Naqilsiz internet paylaşımı istifadə edilir</string>
-    <string name="state_computing_power">Hesablama dəstəyi istifadə edilir</string>
-    <string name="state_hid_synergy">Cihazlar arası kontrollar istifadə edilir</string>
-    <string name="state_mirror">Yayım davam edir</string>
+    <string name="state_cellular_synergy">Cihazlar arası rabitə paylaşımı istifadə edilir</string>
+    <string name="state_computing_power">Paylaşılan hesablama gücü istifadə edilir</string>
+    <string name="state_hid_synergy">Klaviatura və maus paylaşımı istifadə edilir</string>
+    <string name="state_mirror">Ekran paylaşımı istifadə edilir</string>
     <string name="state_music_playing">Musiqi oxudulur</string>
-    <string name="state_screen_synergy">Əsas ekran+ istifadə edilir</string>
+    <string name="state_open">Açıqdır</string>
+    <string name="state_screen_synergy">Əsas ekran paylaşımı istifadə edilir</string>
     <string name="state_take_photo">Cihazlar arası kamera istifadə edilir</string>
     <string name="state_video_cast">Xiaomi Smart Play vasitəsilə video yayımlanır</string>
     <string name="status_bar_car_camera_icon_name">Nəqliyyat</string>
@@ -1600,6 +1607,9 @@ Oyunları yayımlamazdan əvvəl \"Game Turbo\"nu işə saldığınıza əmin ol
     <string name="weibo_application_id"></string>
     <string name="weibo_redirect_uri"></string>
     <string name="wifi_connect_btn_text">Konfiqurasiya et</string>
+    <string name="wifi_disabled_dialog_message">Cihazlar arası kameranı istifadə edə bilmək üçün cihazınızdan Wi-Fi-ı işə salın.</string>
+    <string name="wifi_disabled_dialog_positive_button">Anladım</string>
+    <string name="wifi_disabled_dialog_title">Cihazlar arası kamera</string>
     <string name="wifi_other">Digər şəbəkələr</string>
     <string name="wifi_passwd_et_hint">Parol</string>
     <string name="wifi_recommendation">Daha yaxşı yayım təcrübəsi üçün %1$d GHz şəbəkələri seçin</string>

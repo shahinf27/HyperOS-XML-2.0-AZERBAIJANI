@@ -133,14 +133,14 @@ AI şəklini fərqli fotolarla yaratmağa çalışın."</string>
     <string name="ai_free_creation_random_button">Təsadüfi</string>
     <string name="ai_free_creation_text_container_tips">"Süni zəka şəkil generatorumuz davamlı inkişaf edir. Nəticələr sizi qane etmirsə, bir müddət sonra yenidən sınaya bilərsiniz!"</string>
     <string name="ai_free_creation_text_count_exceed_limit">Daxil etdiyiniz mətn çox uzundur</string>
-    <string name="ai_free_creation_text_illage">Bu açıqlama cəmiyyət standartlarımızı pozur</string>
+    <string name="ai_free_creation_text_illage">Bu açıqlama icma standartlarımızı pozur</string>
     <string name="ai_free_theme_subtitle">Açıqlamalar əsasında</string>
     <string name="ai_free_theme_title">Mətn əsaslı</string>
     <string name="ai_get_it_btn">Anladım</string>
     <string name="ai_go_to_select_photo">Foto seçin</string>
     <string name="ai_has_image_tip">Süni zəka şəkli yaradıldı</string>
     <string name="ai_have_a_think_btn">İmtina</string>
-    <string name="ai_illegal_photo_tip">"Deyəsən, seçdiyiniz fotolar cəmiyyət standartlarımızı pozur.
+    <string name="ai_illegal_photo_tip">"Deyəsən, seçdiyiniz fotolar icma standartlarımızı pozur.
 Bunun əvəzində başqa fotolar seçin və yenidən sınayın."</string>
     <string name="ai_image_count_limit_msg">"Bu gün bundan artıq süni zəka şəkli yaradıla bilmir. Sabah yenidən görüşərik!"</string>
     <string name="ai_image_creating_failed_msg">"%s üçün şəkil yaradıla bilmədi"</string>
@@ -163,7 +163,7 @@ Bunun əvəzində başqa fotolar seçin və yenidən sınayın."</string>
     <string name="ai_multi_window_tip">"Bu səhifəyə bölünmüş ekranda baxıla bilmir"</string>
     <string name="ai_network_failed">"Şəbəkəyə bağlana bilmədi. Bir və ya iki dəqiqə gözləyib yenidən sınayın."</string>
     <string name="ai_new_name_title">Bu AI təsvirinə ad verin</string>
-    <string name="ai_no_access_message">"Deyəsən, artıq Beta tester deyilsiniz. Süni zəka istifadə edərək portretlər yaratmağa başlamaq üçün Xiaomi Cəmiyyətinə müraciət edin!"</string>
+    <string name="ai_no_access_message">"Deyəsən, artıq Beta tester deyilsiniz. Süni zəka istifadə edərək portretlər yaratmağa başlamaq üçün Xiaomi İcmasına erişin!"</string>
     <string name="ai_no_access_title">Beta tester icazələri tələb olunur</string>
     <string name="ai_no_net_toast">"Şəbəkəyə bağlana bilmədi. Yenidən sınayın."</string>
     <string name="ai_normal_theme_button">Yarat</string>
@@ -349,10 +349,10 @@ Xatirələrin görünməsi üçün doldurma cihazını taxıb və ekranı sönd�
     <string name="apply">Tətbiq et</string>
     <string name="art_still_download_failed_for_notwork">"Endirilə bilmədi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın."</string>
     <string name="art_still_download_sdk_without_wifi_title">\"İncəsənət\" qoşmasını endir</string>
-    <string name="art_still_load_data_fail">"Məlumat yüklənə bilmədi"</string>
+    <string name="art_still_load_data_fail">"Verilər yüklənə bilmədi"</string>
     <string name="art_still_module_finish">\"İncəsənət\" qoşması uğurla endirildi</string>
     <string name="art_still_module_loading">\"İncəsənət\" qoşması endirilir…</string>
-    <string name="assistant_page_community">Cəmiyyət</string>
+    <string name="assistant_page_community">İcma</string>
     <string name="assistant_page_discovery">Kəşf et</string>
     <string name="assistant_page_image_printing">Çap et</string>
     <string name="assistant_page_label">Xatirələr</string>
@@ -420,7 +420,7 @@ Xatirələrin görünməsi üçün doldurma cihazını taxıb və ekranı sönd�
     <string name="backup_cloud_space_low_title">Yetərsiz Xiaomi Cloud anbar sahəsi</string>
     <string name="backup_cta_not_allow_btn_text">İcazə ver</string>
     <string name="backup_cta_not_allow_desc">Avtomatik nüsxələmə ilə razılaş</string>
-    <string name="backup_cta_not_allow_title">"Şəbəkəyə müraciət edilə bilmir"</string>
+    <string name="backup_cta_not_allow_title">"Şəbəkəyə erişilə bilmir"</string>
     <string name="backup_detail_page_empty">Nüsxələnməni gözləyən foto və ya video yoxdur</string>
     <string name="backup_detail_page_title">Sinxronlaşdırılan elementlər</string>
     <string name="backup_device_space_low_btn_text">Təmizlə</string>
@@ -439,14 +439,14 @@ Xatirələrin görünməsi üçün doldurma cihazını taxıb və ekranı sönd�
     <string name="backup_no_network_btn_text">Ayarlar</string>
     <string name="backup_no_network_desc">Elementləri nüsxələmək üçün şəbəkəyə bağlanın</string>
     <string name="backup_no_network_title">"\"Xiaomi Cloud\"a bağlana bilmir"</string>
-    <string name="backup_no_wifi_btn_text">Mobil internet istifadə et</string>
-    <string name="backup_no_wifi_desc">Mobil internet istifadə edərkən sinxronlaşdırmağa davam edə bilərsiniz</string>
+    <string name="backup_no_wifi_btn_text">Mobil veri istifadə et</string>
+    <string name="backup_no_wifi_desc">Mobil veri istifadə edərkən sinxronlaşdırmağa davam edə bilərsiniz</string>
     <string name="backup_no_wifi_title">Sinxronlaşdırma, Wi-Fi-ya bağlandıqdan sonra davam edəcək</string>
     <string name="backup_off_des">Foto və videoları avtomatik nüsxələmək üçün buludla sinxronlaşdırmanı işə salın</string>
-    <string name="backup_onedrive_description">Fotolarınızı buludda qoruyun və onlara istənilən cihazdan müraciət edin</string>
+    <string name="backup_onedrive_description">Fotolarınızı buludda qoruyun və onlara istənilən cihazdan erişin</string>
     <string name="backup_only_in_wifi">Foto və videoları sinxronlaşdırmaq üçün yalnız Wi-Fi istifadə edin</string>
-    <string name="backup_only_in_wifi_summary">Foto və videoları sinxronlaşdırmaq üçün heç vaxt mobil internet istifadə etmə</string>
-    <string name="backup_only_wifi_dialog_message">Foto və videoları sinxronlaşdırmaq üçün mobil internet istifadə edilsin?</string>
+    <string name="backup_only_in_wifi_summary">Foto və videoları sinxronlaşdırmaq üçün heç vaxt mobil veri istifadə etmə</string>
+    <string name="backup_only_wifi_dialog_message">Foto və videoları sinxronlaşdırmaq üçün mobil veri istifadə edilsin?</string>
     <string name="backup_pause">Nüsxələməyə fasilə ver</string>
     <string name="backup_pause_dialog_title">Sinxr. fasilə ver</string>
     <string name="backup_pause_title">Sinxr. fasilə verildi</string>
@@ -470,11 +470,11 @@ Xatirələrin görünməsi üçün doldurma cihazını taxıb və ekranı sönd�
     <string name="backup_sync_off_desc">Foto və videolarınızı nüsxələmək üçün buludla sinxronlaşdırmanı işə salın</string>
     <string name="backup_sync_off_title">Buludla sinxronlaşdırma bağlıdır</string>
     <string name="backup_with_gprs_dialog_btn">Nüsxələ</string>
-    <string name="backup_with_gprs_dialog_message">Elementləri nüsxələmək üçün %s internet tələb olunur. İndi nüsxələnsin?</string>
-    <string name="backup_with_gprs_dialog_title">Mobil internetlə nüsxələ</string>
+    <string name="backup_with_gprs_dialog_message">Elementləri nüsxələmək üçün %s veri tələb olunur. İndi nüsxələnsin?</string>
+    <string name="backup_with_gprs_dialog_title">Mobil veri ilə nüsxələ</string>
     <string name="backuped_desc">Foto və videolar Xiaomi Cloud-a nüsxələndi</string>
     <string name="backuped_title">Uğurla nüsxələndi</string>
-    <string name="backuping_title_gprs">Mobil internet istifadə edilərək nüsxələnir…</string>
+    <string name="backuping_title_gprs">Mobil veri istifadə edilərək nüsxələnir…</string>
     <string name="backuping_title_normal">Nüsxələnir…</string>
 	<string name="bank_card">Bank kartları</string>
     <string name="base_btn_cancel">İmtina</string>
@@ -628,7 +628,7 @@ Xatirələrin görünməsi üçün doldurma cihazını taxıb və ekranı sönd�
     <string name="clear_thumbnails_ending_dialog_content">"Buludla sinxronlaşdırma artıq \"Qalereya\"nın bu versiyasında əlçatan deyil. Artıq bu cihaza endirilməmiş elementlərə baxa bilməyəcəksiniz. Onları hələ də i.mi.com üzərində görə və endirə bilərsiniz."</string>
     <string name="clear_thumbnails_ending_dialog_title">Buludla sinxronlaşdırma artıq əlçatmazdır</string>
     <string name="clear_thumbnails_ending_view_detail_btn">Davam</string>
-    <string name="clear_thumbnails_progress_dialog_text">Data doğrulanır…</string>
+    <string name="clear_thumbnails_progress_dialog_text">Verilər doğrulanır…</string>
     <string name="clear_thumbnails_text_link_content">Buludla sinxronlaşdırma artıq \"Qalereya\"nın bu versiyasında əlçatan deyil. Onları hələ də i.mi.com üzərində görə bilərsiniz.</string>
     <string name="clear_thumbnails_text_link_content_global">Buludla sinxronlaşdırma artıq əlçatmazdır. Sinxronlaşdırılmamış elementlər Qalereya lentinizdən silindi.</string>
     <string name="clear_thumbnails_text_show_no_again">"Təkrar göstərmə"</string>
@@ -678,7 +678,7 @@ Xatirələrin görünməsi üçün doldurma cihazını taxıb və ekranı sönd�
     <string name="cloud_storage_video_title">Videolar</string>
     <string name="cloud_storage_warn_desc">Əlavə anbar sahəsi üçün bulud VIP satın alın</string>
     <string name="cloud_storage_warn_title">Yetərsiz Xiaomi Cloud anbar sahəsi</string>
-    <string name="cloud_sync_card_description">Birdən çox cihazdan onlara müraciət etmək üçün foto və videolarınızı Xiaomi Cloud-a sinxronlaşdırın</string>
+    <string name="cloud_sync_card_description">Birdən çox cihazdan onlara erişmək üçün foto və videolarınızı Xiaomi Cloud-a sinxronlaşdırın</string>
     <string name="cloud_sync_card_title">Buludla sinxronlaşdırmanı işə sal</string>
     <string name="cloud_watch_on_tv">TV-də bax</string>
     <string name="cloudfolder_cannot_start_with">"Albom adı '%s' ilə başlaya bilməz"</string>
@@ -752,7 +752,7 @@ Xatirələrin görünməsi üçün doldurma cihazını taxıb və ekranı sönd�
     <string name="datetimepicker_updatetime_failed">"Vaxt dəyişdirilə bilmədi"</string>
     <string name="datetimepicker_updatetime_success">Vaxt uğurla dəyişdirildi</string>
     <string name="debugging_info">Sazlama məlumatı uğurla yaradıldı. Qovluğu açmaq üçün \"Oldu\"ya toxunun.</string>
-    <string name="debugging_tip">Sazlama datası yaradılır</string>
+    <string name="debugging_tip">Sazlama veriləri yaradılır</string>
     <string name="decrypt_video_failed">"Video hazırlana bilmədi"</string>
     <string name="decrypting_video">Video hazırlanır…</string>
     <string name="default_device_name">Bilinməyən cihaz</string>
@@ -768,7 +768,7 @@ Xatirələrin görünməsi üçün doldurma cihazını taxıb və ekranı sönd�
     <string name="delete_album_msg_format_local">%1$s %2$s silinsin?</string>
     <string name="delete_album_msg_format_local_new">Seçilmiş albomlar %1$s indi silinsin?</string>
     <string name="delete_album_success">Albom silindi</string>
-    <string name="delete_all_photos">"Bu cihazdakı bütün fotoları silmək üzrəsiniz. Bu, vacib datalarınızı itirməyinizə səbəb ola bilər. Yenə də silinsin?"</string>
+    <string name="delete_all_photos">"Bu cihazdakı bütün fotoları silmək üzrəsiniz. Bu, vacib verilərinizi itirməyinizə səbəb ola bilər. Yenə də silinsin?"</string>
     <string name="delete_from_all_devices_and_cloud">bütün cihazlardan və Xiaomi Cloud-dan</string>
     <string name="delete_from_cloud">Buluddan da sil</string>
     <string name="delete_from_this_album_and_cloud">bu albomdan və Xiaomi Cloud-dan</string>
@@ -870,7 +870,7 @@ Xatirələrin görünməsi üçün doldurma cihazını taxıb və ekranı sönd�
     <string name="drop_failed">"Saxlanıla bilmədi"</string>
     <string name="drop_format_not_supported">"Bu növ fayl dəstəklənmir"</string>
     <string name="drop_success">Uğurla saxlanıldı</string>
-    <string name="dump_db_info">Databaza məlumat tullantısı</string>
+    <string name="dump_db_info">Veri bazası məlumat tullantısı</string>
     <string name="early_morning">Səhər</string>
     <string name="edit_baby_info">Körpə məlumatlarına bax</string>
     <string name="edit_file_not_exits_tip">Orijinal faylı endirib yenidən sınayın</string>
@@ -947,13 +947,13 @@ Xatirələrin görünməsi üçün doldurma cihazını taxıb və ekranı sönd�
     <string name="error_no_account_msg">Xiaomi Hesabınıza daxil olub yenidən sınayın.</string>
     <string name="error_no_account_tip">Xiaomi Hesabına daxil olun</string>
     <string name="error_no_cta_permission_action">İcazə ver</string>
-    <string name="error_no_cta_permission_msg">Şəbəkə müraciəti məhdudlaşdırılıb.</string>
-    <string name="error_no_cta_permission_tip">Şəbəkə müraciəti məhdudlaşdırılıb</string>
+    <string name="error_no_cta_permission_msg">Şəbəkə erişimi məhdudlaşdırılıb.</string>
+    <string name="error_no_cta_permission_tip">Şəbəkə erişimi məhdudlaşdırılıb</string>
     <string name="error_no_network_action">Şəbəkə ayarları</string>
-    <string name="error_no_network_msg">Cihazınızın Wi-Fi-a bağlı olduğuna və ya mobil internetin açıq olduğuna əmin olun.</string>
+    <string name="error_no_network_msg">Cihazınızın Wi-Fi-a bağlı olduğuna və ya mobil verinin açıq olduğuna əmin olun.</string>
     <string name="error_no_network_tip">"Şəbəkəyə bağlana bilmədi"</string>
-    <string name="error_no_wifi_action">Mobil internet istifadə et</string>
-    <string name="error_no_wifi_msg">"Cihazınız Wi-Fi-a bağlı deyil. Mobil internet istifadəsi əlavə xərclər yarada bilər."</string>
+    <string name="error_no_wifi_action">Mobil veri istifadə et</string>
+    <string name="error_no_wifi_msg">"Cihazınız Wi-Fi-a bağlı deyil. Mobil veri istifadəsi əlavə xərclər yarada bilər."</string>
     <string name="error_no_wifi_tip">"Wi-Fi-a bağlana bilmədi"</string>
     <string name="error_not_acceptable">Sinxr sıradan çıxarıldı.</string>
     <string name="error_not_synced_action">İndi sinxr</string>
@@ -999,19 +999,19 @@ Xatirələrin görünməsi üçün doldurma cihazını taxıb və ekranı sönd�
     <string name="ext_sdcard_first_entrance_request_failed_title">"İcazələr verilə bilmədi."</string>
     <string name="ext_sdcard_guide_first_page_button_text">Növbəti</string>
     <string name="ext_sdcard_guide_last_page_button_text">İcazələri ver</string>
-    <string name="ext_sdcard_guide_text">"Qalereyanın SD karta müraciət etməsi üçün icazənizə ehtiyacı var. Edə biləcəkləriniz:"</string>
-    <string name="ext_sdcard_operation_failed_text">Qalereyanın SD karta müraciət etməsi üçün icazələrə ehtiyacı var.</string>
+    <string name="ext_sdcard_guide_text">"Qalereyanın SD karta erişməsi üçün icazənizə ehtiyacı var. Edə biləcəkləriniz:"</string>
+    <string name="ext_sdcard_operation_failed_text">Qalereyanın SD karta erişməsi üçün icazələrə ehtiyacı var.</string>
     <string name="ext_sdcard_operation_failed_title">"Bu əməliyyat tamamlana bilmədi"</string>
     <string name="ext_sdcard_permission_request_button_text">Anladım</string>
-    <string name="ext_sdcard_permission_request_reason">Qalereyanın SD karta müraciət etməsi üçün icazənizə ehtiyacı var. Bu, SD kartınızda saxlanılan fotoları və videoları silməyinizə və onlara düzəliş etməyinizə imkan verir.</string>
-    <string name="ext_sdcard_permission_request_title">Qalereyanın SD karta müraciətinə icazə verin</string>
+    <string name="ext_sdcard_permission_request_reason">Qalereyanın SD karta erişməsi üçün icazənizə ehtiyacı var. Bu, SD kartınızda saxlanılan fotoları və videoları silməyinizə və onlara düzəliş etməyinizə imkan verir.</string>
+    <string name="ext_sdcard_permission_request_title">Qalereyanın SD karta erişməsinə icazə verin</string>
     <string name="ext_sdcard_request_failed_button_text">Oldu</string>
     <string name="ext_sdcard_request_succeed_toast_text">"Artıq hazırsınız!"</string>
     <string name="external_delete_notification_content">Vacib heç nəyin itmədiyinə əmin olmaq məqsədilə son silinən elementlərə baxmaq üçün toxunun</string>
     <string name="external_delete_notification_title">Elementlər \"Qalereya\"dan silindi</string>
     <string name="face_album_empty">"İnsanları tanımaq üçün yetərli foto yyoxdur.
 Dostlarınızın daha çox fotosunu çəkin!"</string>
-    <string name="face_album_empty_syncing">Data sinxronlaşdırılır, bir azdan geri qayıdın</string>
+    <string name="face_album_empty_syncing">Verilər sinxronlaşdırılır, bir azdan geri qayıdın</string>
     <string name="face_album_empty_syncing_when_connect_wifi">Məlumatları sinxronlaşdırmaq üçün şəbəkəyə bağlanın</string>
     <string name="face_album_long_tap_tip">Çoxlu şəxs seçmək və ya qrup ayarlarını dəyişdirmək üçün, profil fotosunu basılı tutun</string>
     <string name="face_album_new_name_hint">Yeni ad</string>
@@ -1019,7 +1019,7 @@ Dostlarınızın daha çox fotosunu çəkin!"</string>
     <string name="face_album_rename_hint">Adı daxil edin</string>
     <string name="face_album_title">%s ilə fotolar</string>
     <string name="face_album_use_tip">Fotoları içərisindəki insanlara görə avtomatik sırala.</string>
-    <string name="face_albumset_loading_data">Data yüklənir…</string>
+    <string name="face_albumset_loading_data">Verilər yüklənir…</string>
     <string name="face_choose_tip">Mövcud albomdan seç</string>
     <string name="face_confirm">Bu eyni şəxsdir</string>
     <string name="face_move_dialog_title">Bir albom seçin</string>
@@ -1147,12 +1147,12 @@ mövcuddur"</string>
     <string name="grant_permission_go_and_set_2">Ayarlar</string>
     <string name="grant_permission_go_and_set_3">Ayarlar</string>
     <string name="grant_permission_manage_storage">İcazələr tələb olunur</string>
-    <string name="grant_permission_manage_storage_unlock">Cihazın kilidini açın və elementlərə baxa bilmək üçün bu tətbiqin bütün fayllara müraciətinə icazə verin.</string>
+    <string name="grant_permission_manage_storage_unlock">Cihazın kilidini açın və elementlərə baxa bilmək üçün bu tətbiqin bütün fayllara erişməsinə icazə verin.</string>
     <string name="grant_permission_shortcut">Əvvəlcə bu tətbiqin Əsas ekran qısayolları yaratmasına icazə verin.</string>
-    <string name="grant_permission_storage">Əvvəlcə bu tətbiqin anbara müraciətinə icazə verin.</string>
-    <string name="grant_permission_storage_unlock">Cihazınızın kilidiin açın və əvvəlcə bu tətbiqin anbara müraciətinə icazə verin.</string>
-    <string name="grant_permission_text">Qalereyanın cihazınızdakı bütün foto və videolara müraciət etməsinə icazə verin. Bu icazəni Ayarlarda verə bilərsiniz.</string>
-    <string name="grant_permission_title">Müraciətə icazə ver</string>
+    <string name="grant_permission_storage">Əvvəlcə bu tətbiqin anbara erişməsinə icazə verin.</string>
+    <string name="grant_permission_storage_unlock">Cihazınızın kilidiin açın və əvvəlcə bu tətbiqin anbara erişməsinə icazə verin.</string>
+    <string name="grant_permission_text">Qalereyanın cihazınızdakı bütün foto və videolara erişməsinə icazə verin. Bu icazəni Ayarlarda verə bilərsiniz.</string>
+    <string name="grant_permission_title">Erişməsinə icazə ver</string>
     <string name="grant_permission_unlock_and_set">Kilidi aç və ayarla</string>
     <string name="grant_permission_unlock_and_set_2">Kilidi aç</string>
     <string name="grant_permission_write_clipboard">Elementləri kopyalaya bilmək üçün bu tətbiqin elementləri lövhədə saxlamasına icazə verin.</string>
@@ -1224,7 +1224,7 @@ mövcuddur"</string>
     <string name="hybrid_check_network">Şəbəkə ayarları</string>
     <string name="hybrid_data_error">Xəta baş verdi</string>
     <string name="hybrid_locating_fail">"Yerləşməniz tapıla bilmədi"</string>
-    <string name="hybrid_network_access_denied">Şəbəkə müraciəti rədd edildi</string>
+    <string name="hybrid_network_access_denied">Şəbəkə erişimi rədd edildi</string>
     <string name="hybrid_network_unavaliable">"Şəbəkəyə bağlana bilmir"</string>
     <string name="hybrid_provider">%1$s tərəfindən təmin edilir</string>
     <string name="hybrid_pull_to_refresh_pull_label">Təzələmək üçün çək…</string>
@@ -1234,10 +1234,10 @@ mövcuddur"</string>
     <string name="hybrid_try_again">Yenidən sına</string>
     <string name="id_card">Şəxsiyyət vəsiqəsi kartları</string>
     <string name="id_photo_download_failed_for_notwork">"Endirilə bilmədi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın."</string>
-    <string name="id_photo_download_sdk_without_wifi_msg">"Deyəsən, cihazınız Wi-Fi-ya bağlanmayıb. Qoşma, mobil internet istifadə edərək endirilsin?"</string>
-    <string name="id_photo_download_sdk_without_wifi_msg_china">"Deyəsən, cihazınız Wi-Fi-ya bağlanmayıb. Qoşma, mobil internet istifadə edərək endirilsin?"</string>
+    <string name="id_photo_download_sdk_without_wifi_msg">"Deyəsən, cihazınız Wi-Fi-ya bağlanmayıb. Qoşma, mobil veri istifadə edərək endirilsin?"</string>
+    <string name="id_photo_download_sdk_without_wifi_msg_china">"Deyəsən, cihazınız Wi-Fi-ya bağlanmayıb. Qoşma, mobil veri istifadə edərək endirilsin?"</string>
     <string name="id_photo_download_sdk_without_wifi_title">\"Kimlik\" qoşmasını endir</string>
-    <string name="id_photo_load_data_fail">"Data yüklənə bilmədi"</string>
+    <string name="id_photo_load_data_fail">"Verilər yüklənə bilmədi"</string>
     <string name="id_photo_module_finish">\"Kimlik\" qoşması uğurla endirildi</string>
     <string name="id_photo_module_loading">\"Kimlik\" qoşması endirilir…</string>
     <string name="ignore_album">"Göstərmə"</string>
@@ -1290,7 +1290,7 @@ mövcuddur"</string>
     <string name="invite_user_info_top_hint_text">Hesabı təsdiqlə</string>
     <string name="invite_user_now">Dəvət et</string>
     <string name="invite_user_success_toast">Dəvət uğurla göndərildi</string>
-    <string name="invite_wechat_user_title">"%1$s üçün müraciəti paylaşmağa dəvət edildiniz"</string>
+    <string name="invite_wechat_user_title">"%1$s üçün erişimi paylaşmağa dəvət edildiniz"</string>
     <string name="is">Bəli</string>
     <string name="is_higher_definition">HD önizləməsi</string>
     <string name="is_in_ocr">Tanınır…</string>
@@ -1330,8 +1330,8 @@ mövcuddur"</string>
     <string name="loading_fail">"Endirilə bilmədi"</string>
     <string name="loading_fail_sync_off">Endirmək üçün buludla sinxronlaşdırmanı işə salın</string>
     <string name="loading_fail_sync_off_message">"Fotolar yüklənə bilmədi, buludla sinxronlaşdırma bağlıdır."</string>
-    <string name="loading_fail_sync_without_network">Meta datanı endirmək üçün şəbəkəyə bağlanın</string>
-    <string name="loading_fail_syncing">Metadata tam endirilə qədər gözləyin və yenidən sınayın</string>
+    <string name="loading_fail_sync_without_network">Meta veriləri endirmək üçün şəbəkəyə bağlanın</string>
+    <string name="loading_fail_syncing">Meta verilər tam endirilə qədər gözləyin və yenidən sınayın</string>
     <string name="loading_gif">GIF endirilir…</string>
     <string name="loading_gif_thumbnail">GIF kiçik şəkli endirilir…</string>
     <string name="loading_image">Təsvir endirilir…</string>
@@ -1341,8 +1341,8 @@ mövcuddur"</string>
     <string name="loading_text_format">Şəxsi məlumatlar silinir…</string>
     <string name="loading_video">Video endirilir…</string>
     <string name="loading_video_compress_lib">Video sıxışdırma qoşması endirilir…</string>
-    <string name="loading_video_fail_sync_without_network">Metadatanı endirmək üçün şəbəkəyə bağlanın</string>
-    <string name="loading_video_fail_syncing">Metadata tam endirilə qədər gözləyin və yenidən sınayın</string>
+    <string name="loading_video_fail_sync_without_network">Meta veriləri endirmək üçün şəbəkəyə bağlanın</string>
+    <string name="loading_video_fail_syncing">Meta verilər tam endirilə qədər gözləyin və yenidən sınayın</string>
     <string name="loading_video_thumbnail">Video örtüyü endirilir…</string>
     <string name="local_secret_tip">Bütün şəxsi elementləri buludla sinxronlaşdırmadan bu cihazda saxlaya bilərsiniz. Tərcihlərinizi Ayarlar &gt; Buludla sinxronlaşdır &gt; \"Sinxronlaşdırılmış albomları idarə et\"də dəyişdirə bilərsiniz.</string>
     <string name="login_and_enable_service">Xiaomi Hesabı ilə daxil olun</string>
@@ -1352,7 +1352,7 @@ mövcuddur"</string>
     <string name="macarons_download_dialog_message">Sehrli vinyet qoşması indi endirilsin?</string>
     <string name="macarons_download_dialog_title">Qoşmanı endir</string>
     <string name="macarons_download_dialog_without_wifi_confirm">Endir</string>
-    <string name="macarons_download_dialog_without_wifi_message">"Wi-Fi bağlana bilmədi. Sehrli vinyet qoşmasını endirmək üçün mobil internet istifadə edə bilərsiniz."</string>
+    <string name="macarons_download_dialog_without_wifi_message">"Wi-Fi bağlana bilmədi. Sehrli vinyet qoşmasını endirmək üçün mobil veri istifadə edə bilərsiniz."</string>
     <string name="macarons_download_later">Bir və ya iki dəqiqə gözləyib yenidən sınayın</string>
     <string name="macarons_download_network_fail">"Qoşma endirilə bilmədi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın."</string>
     <string name="macarons_download_other_fail">"Bir xətaya görə endirilə bilmədi"</string>
@@ -1363,10 +1363,10 @@ mövcuddur"</string>
     <string name="macarons_select_image_range">"Sehrli bir vinyet yaratmaq üçün bir neçə təsvir istifadə oluna bilməz"</string>
     <string name="macarons_select_video">"Sehrli bir vinyetləri yaratmaq üçün videolar istifadə oluna bilməz"</string>
     <string name="magic_matting_download_failed_for_notwork">"Endirilə bilmədi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın."</string>
-    <string name="magic_matting_download_sdk_without_wifi_msg">"Deyəsən, cihazınız Wi-Fi-ya bağlanmayıb. Qoşma, mobil internet istifadə edərək endirilsin?"</string>
-    <string name="magic_matting_download_sdk_without_wifi_msg_china">"Deyəsən, cihazınız Wi-Fi-ya bağlanmayıb. Qoşma, mobil internet istifadə edərək endirilsin?"</string>
+    <string name="magic_matting_download_sdk_without_wifi_msg">"Deyəsən, cihazınız Wi-Fi-ya bağlanmayıb. Qoşma, mobil veri istifadə edərək endirilsin?"</string>
+    <string name="magic_matting_download_sdk_without_wifi_msg_china">"Deyəsən, cihazınız Wi-Fi-ya bağlanmayıb. Qoşma, mobil veri istifadə edərək endirilsin?"</string>
     <string name="magic_matting_download_sdk_without_wifi_title">\"Cutout\" qoşmasını endir</string>
-    <string name="magic_matting_load_data_fail">"Data yüklənə bilmədi"</string>
+    <string name="magic_matting_load_data_fail">"Verilər yüklənə bilmədi"</string>
     <string name="magic_matting_module_finish">\"Cutout\" qoşması uğurla endirildi</string>
     <string name="magic_matting_module_loading">\"Cutout\" qoşmasını endirilir…</string>
     <string name="main_save_error_msg">"Bir xətaya görə dəyişikliklər saxlanıla bilmədi"</string>
@@ -1378,13 +1378,13 @@ mövcuddur"</string>
     <string name="map_enable_position_service_message">Foto və videolara xəritədə baxmaq üçün əvvəlcə yerləşmə xidmətlərini işə salın.</string>
     <string name="map_enable_position_service_title">Yerləşmə xidmətlərini aç</string>
 	<string name="map_gallery">Qalereya xəritəsi</string>
-    <string name="map_grant_position_permission_after_declined_twice_message">Foto və videolara xəritədə baxmaq üçün əvvəlcə Qalereyanın yerləşmənizə müraciətinə icazə verin.</string>
+    <string name="map_grant_position_permission_after_declined_twice_message">Foto və videolara xəritədə baxmaq üçün əvvəlcə Qalereyanın yerləşmənizə erişməsinə icazə verin.</string>
     <string name="map_grant_position_permission_subtitle">Yaxınlıqdakı foto və videoları xəritədə göstərmək üçün</string>
     <string name="map_guide_message">Foto və videolarınıza xəritədə baxın</string>
     <string name="map_location">Hazırkı yerə daşı</string>
     <string name="map_positioning_failed_tip">"Zəif siqnala görə yer məlumatları alına bilmədi"</string>
-    <string name="map_privacy_dialog_content"><Data>Bu xidmət, yerləşmə məlumatı olan foto və videolara bir xəritədə baxmağınıza imkan verir. Sizə bu xidməti təqdim etmək üçün Baidu Map Open SDK istifadə edirik. Davam etməzdən əvvəl &lt;a href=\"%1$s\"&gt;Qalereya Xəritəsi Üçüncü Tərəf Data Paylaşım Bəyanatını&lt;/a&gt; oxuyun və razılaşın.</Data></string>
-    <string name="map_privacy_dialog_content_new"><Data>Bu xidmət yerləşməyə görə çeşidlənmiş foto və videoları nümayiş etdirir, səyahət albomları yaradır və elementləri yerə görə axtarmağınıza imkan verir. Sizə yuxarıda göstərilən xidmətləri təmin etmək üçün Baidu Maps Open Platform SDK-sını istifadə edirik. Bu xidməti istifadə etməzdən əvvəl oxuyun və razılaşın: &lt;a href=\"%1$s\"&gt;Qalereya Xəritəsi Üçüncü Tərəf Data Paylaşım Bəyanatı&lt;/a&gt;.</Data></string>
+    <string name="map_privacy_dialog_content"><Data>Bu xidmət, yerləşmə məlumatı olan foto və videolara bir xəritədə baxmağınıza imkan verir. Sizə bu xidməti təqdim etmək üçün Baidu Map Open SDK istifadə edirik. Davam etməzdən əvvəl &lt;a href=\"%1$s\"&gt;Qalereya Xəritəsi Üçüncü Tərəf Veri Paylaşım Bəyanatını&lt;/a&gt; oxuyun və razılaşın.</Data></string>
+    <string name="map_privacy_dialog_content_new"><Data>Bu xidmət yerləşməyə görə çeşidlənmiş foto və videoları nümayiş etdirir, səyahət albomları yaradır və elementləri yerə görə axtarmağınıza imkan verir. Sizə yuxarıda göstərilən xidmətləri təmin etmək üçün Baidu Maps Open Platform SDK-sını istifadə edirik. Bu xidməti istifadə etməzdən əvvəl oxuyun və razılaşın: &lt;a href=\"%1$s\"&gt;Qalereya Xəritəsi Üçüncü Tərəf Veri Paylaşım Bəyanatı&lt;/a&gt;.</Data></string>
     <string name="map_privacy_dialog_message"><Data>Bu xidmət, yerləşmə məlumatı olan foto və videolara xəritədə baxmağınıza imkan verir. Sizə bu xidməti təqdim etmək üçün Baidu Map Open SDK istifadə edirik. Daha ətraflı öyrənmək üçün &lt;a href=\"%1$s\"&gt;AÇıq Platforma Məhsulları və Xidmətləri üçün Baidu Map Gizlilik Siyasətini&lt;/a&gt; oxuyun.</Data></string>
     <string name="map_privacy_dialog_title">Qalereya xəritəsi</string>
     <string name="map_privacy_policy">Qalereya Xəritəsi Gizlilik Siyasəti</string>
@@ -1578,7 +1578,7 @@ mövcuddur"</string>
     <string name="need_to_turn_on_sync_first">Əvvəlcə buludla sinxronlaşdırmanı işə sal</string>
     <string name="need_to_turn_on_wlan">Əvvəlcə Wi-Fi-a bağlanın</string>
     <string name="network_connected_rescan">"Şəbəkəyə bağlana bilmir"</string>
-    <string name="network_message">"Bu özəllik normal işləmək üçün internet bağlanmalıdır. Deyəsən, bu cihaz Wi-Fi-a bağlanmayıb. Davam etmək üçün mobil internet istifadə edilsin? Mobil internet istifadəsi, əlavə operator xərcləri yarada bilər."</string>
+    <string name="network_message">"Bu özəllik normal işləmək üçün internet bağlanmalıdır. Deyəsən, bu cihaz Wi-Fi-a bağlanmayıb. Davam etmək üçün mobil veri istifadə edilsin? Mobil veri istifadəsi, əlavə operator xərcləri yarada bilər."</string>
     <string name="network_title">Şəbəkəyə bağlan</string>
     <string name="new_album_invalid_byte">Bu ad çox uzundur</string>
     <string name="new_album_invalid_char">"Adlara \"%s\" simvolu daxil ola bilməz, hərf və ya rəqəm daxil edin."</string>
@@ -1634,7 +1634,7 @@ mövcuddur"</string>
     <string name="ocr_translation">Tərcümə et</string>
     <string name="ocr_using_cellular_negative">Tanı</string>
     <string name="ocr_using_cellular_positive">İmtina</string>
-    <string name="ocr_using_cellular_text">Mobil internet istifadə edərək mətnin tanınması əlavə operator xərcləri yarada bilər. Yenə də tanınsın?</string>
+    <string name="ocr_using_cellular_text">Mobil veri istifadə edərək mətnin tanınması əlavə operator xərcləri yarada bilər. Yenə də tanınsın?</string>
     <string name="ok">Oldu</string>
     <string name="online_video_error_unknown">Onlayn oxutma xətası baş verdi. Əvəzində element endirildi.</string>
     <string name="online_video_error_unsupported_type">"Onlayn pleyer bu formatı dəstəkləmir. Əvəzində element endirildi."</string>
@@ -1722,7 +1722,7 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="other_settings">Əlavə ayarlar</string>
     <string name="owner_album_subtitle">%1$s nəfərlə paylaşıldı</string>
 	<string name="pasport_register_dialog_message">%s telefon nömrənizlə bir Xiaomi Hesabı indi yaradılsın?</string>
-    <string name="passport_access_denied">Müraciət rədd edildi</string>
+    <string name="passport_access_denied">Erişim rədd edildi</string>
     <string name="passport_account_crop_user_avatar">Fotonu qayçıla</string>
     <string name="passport_account_empty_user_name">Adınızı daxil edin</string>
     <string name="passport_account_error_all_space_user_name">"Ad yalnız boşluq simvolundan ibarət ola bilməz"</string>
@@ -1846,7 +1846,7 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="passport_request_error_invalid_token">"Doğrulana bilmədi"</string>
     <string name="passport_request_error_network">Bir şəbəkə xətası baş verdi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın.</string>
     <string name="passport_request_error_unknown">Sistem xətası baş verdi. Geri qayıdın və yenidən sınayın.</string>
-    <string name="passport_request_gallery_permission_message">Bu tətbiqin profil fotonuzu təyin edə bilməsi üçün seçilmiş Qalereya elementlərinə müraciət etməsi lazımdır. İndi icazə verilsin?</string>
+    <string name="passport_request_gallery_permission_message">Bu tətbiqin profil fotonuzu təyin edə bilməsi üçün seçilmiş Qalereya elementlərinə erişməsi lazımdır. İndi icazə verilsin?</string>
     <string name="passport_request_permission_title">İcazələr tələb olunur</string>
 	<string name="passport_resend_email_reach_limit_message">"Həddən artıq doğrulama e-poçtu tələb etdiniz. Doğrulama e-poçtunun gələn qutunuzun Spam qovluğunda olmadığına əmin olun."</string>
     <string name="passport_resend_email_reach_limit_title">Həddindən artıq cəhd</string>
@@ -1908,13 +1908,13 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="people_page_unname">Adsız</string>
     <string name="people_photo">Bu şəxslə fotolar</string>
     <string name="permission_account_desc">Sistem hesabına daxil olmaq və onu idarə etmək üçün</string>
-    <string name="permission_account_name">Hesablara müraciət</string>
-    <string name="permission_clipboard_desc">Elementlərə müraciət etmək və onları lövhədə saxlamaq üçün</string>
-    <string name="permission_clipboard_name">Elementlərə müraciət et və ya onları lövhədə saxla</string>
+    <string name="permission_account_name">Hesablara erişim</string>
+    <string name="permission_clipboard_desc">Elementlərə erişmək və onları lövhədə saxlamaq üçün</string>
+    <string name="permission_clipboard_name">Elementlərə eriş və ya onları lövhədə saxla</string>
     <string name="permission_contacts_desc">Kontaktları fotolardakı şəxslərə təyin etmək üçün</string>
     <string name="permission_contacts_desc_2">Fotolardakı şəxsləri kontaktlarla əlaqələndirmək üçün</string>
     <string name="permission_contacts_name">Kontaktlar</string>
-    <string name="permission_contacts_name_2">Kontaktlara müraciət</string>
+    <string name="permission_contacts_name_2">Kontaktlara erişim</string>
     <string name="permission_custom_cta_network_button_negative">"Razı deyiləm"</string>
     <string name="permission_custom_cta_network_button_positive">Razıyam</string>
     <string name="permission_custom_cta_network_title">Diqqət</string>
@@ -1924,11 +1924,11 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="permission_phone_desc">Müvafiq cihazları Xiaomi Cloud-da təzəlikcə silinmiş elementlərə təyin etmək üçün</string>
     <string name="permission_phone_name">Telefon</string>
     <string name="permission_post_notification_desc">Paylaşılan albomlar haqqında bildiriş göndərmək və sinxr. statusunu güncəlləmək üçün</string>
-    <string name="permission_read_media_images_desc">Qalereyanı istifadə edərkən foto və videolara müraciət etmək və onları saxlamaq üçün</string>
+    <string name="permission_read_media_images_desc">Qalereyanı istifadə edərkən foto və videolara erişmək və onları saxlamaq üçün</string>
     <string name="permission_require_category">Məcburi icazələr</string>
     <string name="permission_storage_desc">Foto və videolarınızı saxlamaq, göstərmək, sinxronlaşdırmaq, endirmək və onlara düzəliş etmək üçün</string>
     <string name="permission_storage_name">Anbar</string>
-    <string name="permission_storage_name_2">Cihazdakı fotolara və fayllara müraciət et və onları saxla</string>
+    <string name="permission_storage_name_2">Cihazdakı fotolara və fayllara eriş və onları saxla</string>
     <string name="permission_use_desc">İcazələr</string>
     <string name="pet_album_display_name">Ev heyvanı fotoları</string>
     <string name="photo">Fotolar</string>
@@ -1973,7 +1973,7 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="pic_to_pdf_install_dialog_positive">Quraşdır</string>
     <string name="pic_to_pdf_install_dialog_title">Mi Doc Viewer quraşdır</string>
     <string name="pic_to_pdf_not_support_video">"Videolar PDF olaraq saxlanıla bilməz"</string>
-    <string name="pic_to_pdf_permission_dialog_content">"PDF fayllarını saxlaya bilmək üçün \"Mi Doc Viewer\"in bu cihazın foto və videolarına müraciət etməsinə icazə verin. Bu icazəni Ayarlarda verə bilərsiniz."</string>
+    <string name="pic_to_pdf_permission_dialog_content">"PDF fayllarını saxlaya bilmək üçün \"Mi Doc Viewer\"in bu cihazın foto və videolarına erişməsinə icazə verin. Bu icazəni Ayarlarda verə bilərsiniz."</string>
     <string name="pic_to_pdf_permission_dialog_positive">Ayarlar</string>
     <string name="pic_to_pdf_permission_dialog_title">Tələb olunan icazələr</string>
     <string name="pic_to_pdf_preview_loading">Önizləmə yüklənir…</string>
@@ -2006,10 +2006,10 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="picker_exit_dialog_message">Davam etsəniz, saxlanılmamış bütün dəyişikliklər itəcək. Yenə də davam edilsin?</string>
     <string name="picker_exit_dialog_title">Dəyişiklikləri ləğv et</string>
     <string name="picker_full_format">%d ədədə qədər foto seçə bilərsiniz</string>
-    <string name="picker_image_need_download">"Seçilmiş fotoların %d dənəsi cihazda yoxdur. Mobil internet istifadə edilərək endirilsin?"</string>
+    <string name="picker_image_need_download">"Seçilmiş fotoların %d dənəsi cihazda yoxdur. Mobil veri istifadə edilərək endirilsin?"</string>
     <string name="picker_image_will_download">"Seçilmiş fotoların %d dənəsi cihazda yoxdur. Fotolar endiriləcək."</string>
     <string name="picker_no_network_message">Endirmək üçün şəbəkəyə bağlanın</string>
-    <string name="picker_origin_need_download">"Seçilmiş fotoların %1$d dənəsi (%2$d MB) cihazda yoxdur. Mobil internet istifadə edilərək endirilsin?"</string>
+    <string name="picker_origin_need_download">"Seçilmiş fotoların %1$d dənəsi (%2$d MB) cihazda yoxdur. Mobil veri istifadə edilərək endirilsin?"</string>
     <string name="picker_origin_request_progress_fail">"Şəbəkə xətasına görə orijinal şəkil endirilə bilmədi."</string>
     <string name="picker_origin_request_progress_message">Orijinal fayllar hazırlanır (%1$d/%2$d)…</string>
     <string name="picker_title_format">%1$d - %2$d foto seçin</string>
@@ -2044,13 +2044,13 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="privacy_map">Qalereya Xəritəsi</string>
     <string name="privacy_map_detail"><Data>Bu xidmət, yerləşmə məlumatı olan foto və videolara xəritədə baxmağınıza imkan verir. Sizə bu xidməti təqdim etmək üçün Baidu Map Open SDK istifadə edirik. Davam etməzdən əvvəl &lt;a href=\"%1$s\"&gt;AÇıq Platforma Məhsulları və Xidmətləri üçün Baidu Map Gizlilik Siyasətini&lt;/a&gt; oxuyun və razılaşın.</Data></string>
     <string name="privacy_map_detail_content">Açıq Platforma Məhsul və Xidmətləri üçün Baidu Xəritəsi Gizlilik Siyasəti</string>
-    <string name="privacy_map_detail_content_new">Qalereya Xəritəsi Üçüncü Tərəf Data Paylaşım Bəyanatı</string>
+    <string name="privacy_map_detail_content_new">Qalereya Xəritəsi Üçüncü Tərəf Veri Paylaşım Bəyanatı</string>
     <string name="privacy_permission">İcazələr</string>
     <string name="privacy_permission_account">Hesablar</string>
     <string name="privacy_permission_account_detail">Daxil olmaq və elementləri buludla sinxronlaşdırmaq üçün</string>
     <string name="privacy_permission_agree">İcazə verildi</string>
-    <string name="privacy_permission_clip">Lövhəyə müraciət edilir</string>
-    <string name="privacy_permission_clip_detail">Kopyalanan elementlərə müraciət etmək üçün</string>
+    <string name="privacy_permission_clip">Lövhəyə erişilir</string>
+    <string name="privacy_permission_clip_detail">Kopyalanan elementlərə erişmək üçün</string>
     <string name="privacy_permission_clip_write">Elementlər lövhədə saxlanılır</string>
     <string name="privacy_permission_clip_write_detail">Elementləri kopyalamaq üçün</string>
     <string name="privacy_permission_contact">Kontaktlar</string>
@@ -2059,7 +2059,7 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="privacy_permission_disagree">İcazə verilmədi</string>
     <string name="privacy_permission_location">Yerləşmə</string>
     <string name="privacy_permission_location_detail">Xəritədə foto və videoları nümayiş etdirmək üçün</string>
-    <string name="privacy_permission_request_message"><Data>Qalereya bura müraciət etməlidir: %3$s. Yığdığımız məlumatalar &lt;a href=\"%1$s\"&gt;\"Xidmət Şərtlərimizə\"&lt;/a&gt; və &lt;a href=\"%2$s\"&gt;\"Gizlilik Siyasətimizə\"&lt;/a&gt; uyğun olaraq istifadə olunacaq. İcazə verilsin?</Data></string>
+    <string name="privacy_permission_request_message"><Data>Qalereya bura erişməlidir: %3$s. Yığdığımız məlumatalar &lt;a href=\"%1$s\"&gt;\"Xidmət Şərtlərimizə\"&lt;/a&gt; və &lt;a href=\"%2$s\"&gt;\"Gizlilik Siyasətimizə\"&lt;/a&gt; uyğun olaraq istifadə olunacaq. İcazə verilsin?</Data></string>
     <string name="privacy_permission_request_negative">Məhdudlaşdır</string>
     <string name="privacy_permission_request_positive">İcazə ver</string>
     <string name="privacy_permission_request_title">İcazələr tələb olunur</string>
@@ -2068,15 +2068,15 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="privacy_permission_storage">Anbar</string>
     <string name="privacy_permission_storage_detail">Foto və videoları saxlamaq üçün</string>
     <string name="privacy_protect_settings_item_camera_subtitle">Cihaz modeli və çəkiliş parametrləri daxildir</string>
-    <string name="privacy_protect_settings_item_camera_title">Təsvir meta datasını sil</string>
+    <string name="privacy_protect_settings_item_camera_title">Təsvir meta verilərini sil</string>
     <string name="privacy_protect_settings_item_location_subtitle">Foto çəkilən yeri yerləşmə məlumatları</string>
     <string name="privacy_protect_settings_item_location_title">Foto yerləşməsini sil</string>
     <string name="privacy_protect_settings_title">Gizlilik qoruması</string>
-    <string name="privacy_reject_map_detail_new"><Data>\"&lt;a href=\"%1$s\"&gt;Qalereya Xəritəsi Üçüncü Tərəf Data Paylaşım Bəyanatına&lt;/a&gt; verdiyiniz razılığı geri götürməyiniz, Qalereya Xəritəsi xidmətlərini qəbul etməyi rədd etmək olaraq nəzərə alınacaq. Hələ də digər Qalereya özəlliklərini normal şəkildə istifadə edə biləcəksiniz. Razılıq indi geri götürülsün?\"</Data></string>
+    <string name="privacy_reject_map_detail_new"><Data>\"&lt;a href=\"%1$s\"&gt;Qalereya Xəritəsi Üçüncü Tərəf Veri Paylaşım Bəyanatına&lt;/a&gt; verdiyiniz razılığı geri götürməyiniz, Qalereya Xəritəsi xidmətlərini qəbul etməyi rədd etmək olaraq nəzərə alınacaq. Hələ də digər Qalereya özəlliklərini normal şəkildə istifadə edə biləcəksiniz. Razılıq indi geri götürülsün?\"</Data></string>
     <string name="privacy_rejected">Razılığı geri götür</string>
     <string name="privacy_rejected_map">Qalereya Xəritəsinin Gizlilik Siyasətinə verdiyiniz razılığı geri götürmə</string>
     <string name="privacy_rejected_map_detail">"Qalereya Xəritəsi Gizlilik Siyasətinə verdiyiniz razılığı geri götürməyiniz, onun xidmətlərini qəbul etməyi rədd etmək olaraq nəzərə alınacaq. Qalereyanın digər təməl özəlliklərini və xidmətləri bundan təsirlənməyəcək. Yenə də geri götürülsün?"</string>
-    <string name="privacy_rejected_map_new">Qalereya Xəritəsi Üçüncü Tərəf Data Paylaşma Bəyanatına verilən razılığın geri götürülməsi</string>
+    <string name="privacy_rejected_map_new">Qalereya Xəritəsi Üçüncü Tərəf Veri Paylaşım Bəyanatına verilən razılığın geri götürülməsi</string>
     <string name="privacy_rejected_pos_btn">Geri götür</string>
     <string name="privacy_share_album_confirm">Şərtlər və qaydalar</string>
     <string name="privacy_share_album_confirm_detail">Paylaşılan albomlar, Xiaomi Cloud tərəfindən dəstəklənir. Bu özəlliyi istifadə etməzdən əvvəl, &lt;font color=\"#ff32b4ff\"&gt;&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\"&gt;İstifadəçi Razılaşmamızı&lt;/a&gt;&lt;/font&gt; və &lt;font color=\"#ff32b4ff\"&gt;&lt;a href=\"%2$s\" style=\"color:#ff32b4ff;\"&gt;Gizlilik Siyasətimizi&lt;/a&gt;&lt;/font&gt; oxuyun və razılaşın.</string>
@@ -2184,9 +2184,9 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="saf_operation_guide_1">"\"Qalereya\"nın, məlumatlarınızı qoruya və idarə edə bilməsi üçün icazənizə ehtiyacı var. "</string>
     <string name="saf_operation_guide_2">İcazə vermək üçün, \"%1$s\" toxunub \"%2$s\" seçin.</string>
     <string name="saf_operation_guide_param1">Növbəti</string>
-    <string name="saf_operation_guide_param2">Bu qovluğa müraciət et</string>
+    <string name="saf_operation_guide_param2">Bu qovluğa eriş</string>
     <string name="saf_requester_cancel">İmtina</string>
-    <string name="saf_requester_title">\"Qalereya\"nın \"%s\" üçün müraciət etməsinə icazə verin</string>
+    <string name="saf_requester_title">\"Qalereya\"nın \"%s\" üçün erişməsinə icazə verin</string>
     <string name="saf_secret_album">Şəxsi albom</string>
     <string name="saf_secret_album_guide">Bu tətbiqin şəxsi albomunuzdakı elementləri göstərməsi üçün icazənizə ehtiyacı var.</string>
     <string name="same_name_album_exist_and_toast">"Eyni adlı albom artıq var. Əvəzində '%s' yaradıldı."</string>
@@ -2676,12 +2676,12 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="scene_tag_name_zebra">Zebr</string>
     <string name="scope_storage_dialog_cancel_btn">İmtina</string>
     <string name="scope_storage_dialog_confirm_btn">Növbəti</string>
-    <string name="scope_storage_dialog_description">Qalereya icazələri güncəlləndi. Məzmununa baxa bilməsi üçün Qalereyanın bu qovluğa müraciətinə icazə verin.</string>
+    <string name="scope_storage_dialog_description">Qalereya icazələri güncəlləndi. Məzmununa baxa bilməsi üçün Qalereyanın bu qovluğa erişməsinə icazə verin.</string>
     <string name="scope_storage_dialog_guide_content"><Data>Toxunun &lt;b&gt;\"%1$s\"&lt;/b&gt; daha sonra &lt;b&gt;\"%2$s\"&lt;/b&gt; seçin.</Data></string>
     <string name="scope_storage_dialog_guide_title">İcazə necə verilir</string>
     <string name="scope_storage_dialog_title">İcazələr tələb olunur</string>
     <string name="scope_storage_operation_btn_1">Saxla</string>
-    <string name="scope_storage_operation_btn_2">Bu qovluğa müraciət et</string>
+    <string name="scope_storage_operation_btn_2">Bu qovluğa eriş</string>
     <string name="sea_title">Dalğalar</string>
     <string name="search_backup_full_screen">Daha çox obyekt və insan tapmaq üçün buludla sinxronlaşdırmanı işə sal</string>
     <string name="search_backup_full_screen_new">Axtarışın daha effektiv olması üçün buludla sinxronlaşdırmanı işə sal</string>
@@ -2700,7 +2700,7 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="search_error_and_retry">Xəta baş verdi, yenidən sınamaq üçün toxunun</string>
     <string name="search_failed_mark_feedback_false_negative">"Əlavə edilə bilmədi"</string>
     <string name="search_failed_mark_feedback_false_positive">"Silinə bilmədi"</string>
-    <string name="search_feedback_contribute">AI alqoritm data bazasına fotolar əlavə et</string>
+    <string name="search_feedback_contribute">AI alqoritm veri bazasına fotolar əlavə et</string>
     <string name="search_feedback_false_negative_text">Fotolar bura əlavə edilsin: \"%s\"?</string>
     <string name="search_feedback_false_negative_title">Seçilmiş elementlər bunlardır: \"%s\"</string>
     <string name="search_feedback_false_positive_text">Fotolar buradan silinsin: \"%s\"?</string>
@@ -2738,7 +2738,7 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="search_setting_sub_title">Fotolarınızdakı insanları, məkanları və obyektləri axtarın.</string>
     <string name="search_setting_title">Fotoları Qalereyada tap</string>
     <string name="search_sub_pet">Ev heyvanları</string>
-    <string name="search_syncing">Data sinxronlaşdırılır, bir azdan geri qayıdın</string>
+    <string name="search_syncing">Verilər sinxronlaşdırılır, bir azdan geri qayıdın</string>
     <string name="search_time_last_year">İki il əvvəl</string>
     <string name="search_time_past_year">Keçən il</string>
     <string name="search_title_ai_others">Hamısına bax</string>
@@ -2820,7 +2820,7 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="send_one_zip_dialog_desc_received">%2$d ZIP faylı \"%3$s\" | %1$s cihazından alındı</string>
     <string name="send_one_zip_dialog_desc_receiving">%2$d ZIP faylı \"%3$s\" | %1$s cihazından alınır</string>
 	<string name="send_photographic_competition_tip_confirm">Göndər</string>
-    <string name="send_photographic_competition_tip_content">Bu fotonu göndərmək üçün cihaz modeli və kamera parametrləri daxil olmaqla təsvir metadataları tələb olunur. İndi göndərilsin?</string>
+    <string name="send_photographic_competition_tip_content">Bu fotonu göndərmək üçün cihaz modeli və kamera parametrləri daxil olmaqla təsvir meta veriləri tələb olunur. İndi göndərilsin?</string>
     <string name="send_photographic_competition_tip_title">Diqqət</string>
     <string name="send_public_url">Albom URL-sini göndər</string>
     <string name="send_secret_file_failed">"Paylaşıla bilmədi"</string>
@@ -2846,22 +2846,22 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="setup_network_connection">Şəbəkə ayarları</string>
     <string name="share">Paylaş</string>
     <string name="share_album">Albomu paylaş</string>
-    <string name="share_album_action_mode_title">Kontrol müraciəti</string>
+    <string name="share_album_action_mode_title">Kontrol erişimi</string>
     <string name="share_album_add_share_photos">Paylaşılan fotoları əlavə et</string>
     <string name="share_album_auto_add_people">Seç</string>
     <string name="share_album_cancel_share">Paylaşımı dayandır</string>
     <string name="share_album_change_background">Arxaplan fotosunu dəyişdir</string>
     <string name="share_album_create_failed">"Paylaşılan albom yaradıla bilmədi"</string>
     <string name="share_album_exit_button_text">Paylaşımı dayandır</string>
-    <string name="share_album_exit_confirm">Davam etsəniz, artıq bu albomdakı bütün elementlərə müraciət edə bilməyəcəksiniz. Getməzdən əvvəl bütün vacib elementləri saxlayın.</string>
+    <string name="share_album_exit_confirm">Davam etsəniz, artıq bu albomdakı bütün elementlərə erişə bilməyəcəksiniz. Getməzdən əvvəl bütün vacib elementləri saxlayın.</string>
     <string name="share_album_exit_confirm_title">Bu qrup tərk edilsin?</string>
     <string name="share_album_family_add_sharer_dialog_title">Dəvət et</string>
     <string name="share_album_family_cancel_share_dialog_message">"Bu albomun paylaşılmasını indi dayandırsanız, adi alboma çevriləcək və digər insanlar ona baxa bilməyəcək. Yenə də paylaşım dayandırılsın?"</string>
     <string name="share_album_family_delete_sharer_message">"Bu şəxsi indi silsəniz, bu alboma baxa bilməyəcək. Yenə də silinsin?"</string>
-    <string name="share_album_family_delete_sharer_title">Müraciət məhdudlaşdırılır</string>
+    <string name="share_album_family_delete_sharer_title">Erişim məhdudlaşdırılır</string>
     <string name="share_album_family_invite_category_title">Ailə qrupuna üzvlər əlavə edin</string>
-    <string name="share_album_family_invite_confirm_dialog_message">"Qabaqcıl data qorumasını işə saldınız. Bu albomu paylaşsanız, paylaşılan məzmun şifrələnməyəcək. Yenə də paylaşılsın?"</string>
-    <string name="share_album_family_invite_confirm_dialog_title">"Paylaşılan elementlərlə Qabaqcıl data qoruması istifadə edilə bilmir"</string>
+    <string name="share_album_family_invite_confirm_dialog_message">"Qabaqcıl veri qorumasını işə saldınız. Bu albomu paylaşsanız, paylaşılan məzmun şifrələnməyəcək. Yenə də paylaşılsın?"</string>
+    <string name="share_album_family_invite_confirm_dialog_title">"Paylaşılan elementlərlə Qabaqcıl veri qoruması istifadə edilə bilmir"</string>
     <string name="share_album_family_invite_default">Paylaş</string>
     <string name="share_album_family_invite_family_cate_title">Ailə qrupu</string>
     <string name="share_album_family_invite_miaccount">Xiaomi Hesabı</string>
@@ -2875,7 +2875,7 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="share_album_family_manage">Ailə paylaşımı</string>
     <string name="share_album_family_share_to_friend">Dostlar</string>
     <string name="share_album_family_share_to_friend_and_family">Dostlarla və ailə ilə paylaşın</string>
-    <string name="share_album_family_sharer_title">Müraciəti olan şəxslər</string>
+    <string name="share_album_family_sharer_title">Erişimi olan şəxslər</string>
     <string name="share_album_home_cancel_device_share_dialog_message">"Bu cihazı indi silsəniz, bu albom %1$s üzərində göstərilməyəcək. Yenə də silinsin?"</string>
     <string name="share_album_home_cancel_device_share_dialog_title">Cihazlar silinir</string>
     <string name="share_album_home_choose_family">Ağıllı ev mühitlərini seçin</string>
@@ -3054,7 +3054,7 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="storage_description_primary">Daxili anbar</string>
     <string name="storage_description_sdcard">SD kart</string>
     <string name="storage_description_usb">USB anbar</string>
-    <string name="storage_description_xspace">İkili tətbiqlər məlumatı</string>
+    <string name="storage_description_xspace">İkili tətbiqlər veriləri</string>
     <string name="storage_no_space">Yetərli sahə yoxdur</string>
     <string name="story_action_remove">Sil</string>
     <string name="story_action_share">Paylaş</string>
@@ -3109,17 +3109,17 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="sync_cloud_space_full">Xiaomi Cloud-da yetərli sahə yoxdur</string>
     <string name="sync_diabled_toast">Sinxr bağlıdır</string>
     <string name="sync_global_metatata_wait_title">Sinxr başlatmaq üçün gözlənilir…</string>
-    <string name="sync_metatata_wait_title">Xiaomi Cloud data sinxrn. gözlənilir</string>
-    <string name="sync_not_allow_cta_title">"Şəbəkəyə müraciət edilə bilmir"</string>
+    <string name="sync_metatata_wait_title">Xiaomi Cloud veri sinxrn. gözlənilir</string>
+    <string name="sync_not_allow_cta_title">"Şəbəkəyə erişilə bilmir"</string>
     <string name="sync_off_global_title">Foto və videolarınızı güvəndə saxlayın</string>
     <string name="sync_off_title">Foto və videoları avtomatik nüsxələmək üçün buludla sinxronlaşdırmanı işə salın</string>
     <string name="sync_pending_title">Avtomatik sinxronlaşdırılacaq</string>
     <string name="sync_state_unknow">Məlumat alınır</string>
     <string name="synced_photo_video_count">%1$s və %2$s sinxronlaşdırıldı</string>
     <string name="synced_title">Foto və videolar uğurla nüsxələndi</string>
-    <string name="syncing_global_metadata_title">Datalar buludla sinxronlaşdırılır…</string>
-    <string name="syncing_gprs_title">Elementləri nüsxələmək üçün mobil internet istifadə edilir</string>
-    <string name="syncing_metadata_title">Xiaomi Cloud dataları sinxronlaşdırılır</string>
+    <string name="syncing_global_metadata_title">Verilər buludla sinxronlaşdırılır…</string>
+    <string name="syncing_gprs_title">Elementləri nüsxələmək üçün mobil veri istifadə edilir</string>
+    <string name="syncing_metadata_title">Xiaomi Cloud veriləri sinxronlaşdırılır</string>
     <string name="syncing_normal_title">Foto və videolar nüsxələnir</string>
     <string name="system_album">Sistem albomu</string>
     <string name="talkback_delete_search_history">Axtarış tarixçəsini təmizlə</string>
@@ -3217,7 +3217,7 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="to_enable_sync_dialog_positive_button_text">Ayarlara get</string>
     <string name="to_enable_sync_dialog_title">Sinxronlaşdır</string>
     <string name="toast_download_with_metered_network_btn_continue">Endir</string>
-    <string name="toast_download_with_metered_network_msg">"Deyəsən, cihazınız Wi-Fi-ya bağlanmayıb. Elementlər mobil internet üzərindən endirilsin?"</string>
+    <string name="toast_download_with_metered_network_msg">"Deyəsən, cihazınız Wi-Fi-ya bağlanmayıb. Elementlər mobil veri üzərindən endirilsin?"</string>
     <string name="toast_download_with_metered_network_title">İnternet istifadə xəbərdarlığı</string>
     <string name="toast_invalid_char">"Fayl adları \"%s\" ehtiva edə bilməz"</string>
     <string name="toast_invalid_prefix">"Fayl adları \".\" və ya \"_\" başlaya bilməz"</string>
@@ -3260,7 +3260,7 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="transfer_banner_btn_title_cancel_reminder">"Təkrar göstərmə"</string>
     <string name="transfer_banner_btn_view_detail">Ətraflı öyrən</string>
     <string name="transfer_banner_btn_view_migrate_data">Nüsxələrə bax</string>
-    <string name="transfer_banner_msg_download_complete">"Bulud datanızın endirilməsini tələb etdiniz. Endirmə tamamlandıqdan sonra endirilmiş elementləri görə və idarə edə bilərsiniz."</string>
+    <string name="transfer_banner_msg_download_complete">"Bulud verilərinizin endirilməsini tələb etdiniz. Endirmə tamamlandıqdan sonra endirilmiş elementləri görə və idarə edə bilərsiniz."</string>
     <string name="transfer_banner_msg_migrate_complete">Elementlər \"Google Fotolar\"a köçürüldü. Sinxronlaşdırılmamış nüsxələri yoxa çıxmazdan əvvəl görün və endirin.</string>
     <string name="transfer_banner_msg_migrate_download_progress">Tələb olunan endirmə hazırlanır…</string>
     <string name="transfer_banner_msg_migrate_download_success">Tələb olunan elementləri endirə bilərsiniz. Endirmə keçidi yalnız %d günlük yararlıdır.</string>
@@ -3273,7 +3273,7 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="transfer_dialog_btn_open_google_backup">İşə sal</string>
     <string name="transfer_dialog_btn_view_cloud">Bulud elementlərinə bax</string>
     <string name="transfer_dialog_consistent_msg">Xiaomi Cloud sinxr xidmətləri, \"Google Fotolar\" nüsxələməsi ilə əvəz olundu. Daha əvvəl Xiaomi Cloud-da saxlanılan bütün foto və videolar bu cihazla sinxronlaşdırılıb. Artıq elementləri buludda saxlamağa davam etmək üçün \"Google Fotolar\" nüsxələməsini işə sala bilərsiniz.</string>
-    <string name="transfer_dialog_download_complete_msg">"Xiaomi Cloud sinxr xidmətləri, \"Google Fotolar\" nüsxələməsi ilə əvəz olundu. Foto və videolarınzdan bəziləri bu cihazla sinxronlaşdırılmayıb və artıq göstərilməyəcək. Bununla belə, artıq bu elementləri ehtiva edən bulud datanızın endirilməsini tələb etmisiniz. Bu foto və videoları endirdiyiniz cihazda görə və idarə edə biləcəksiniz."</string>
+    <string name="transfer_dialog_download_complete_msg">"Xiaomi Cloud sinxr xidmətləri, \"Google Fotolar\" nüsxələməsi ilə əvəz olundu. Foto və videolarınzdan bəziləri bu cihazla sinxronlaşdırılmayıb və artıq göstərilməyəcək. Bununla belə, artıq bu elementləri ehtiva edən bulud verilərinizin endirilməsini tələb etmisiniz. Bu foto və videoları endirdiyiniz cihazda görə və idarə edə biləcəksiniz."</string>
     <string name="transfer_dialog_migrate_complete_msg">"Foto və videolarınız \"Google Fotolar\"a köçürüldü. Bundan sonra, bu cihazla sinxronlaşdırılmamış elementlər göstərilməyəcək. Bu elementləri artıq nüsxələriniz arasında görə bilərsiniz."</string>
     <string name="transfer_dialog_migrate_msg">"Xiaomi Cloud sinxr xidmətləri, \"Google Fotolar\" nüsxələməsi ilə əvəz olundu. Bundan sonra, bu cihazla sinxronlaşdırılmamış elementlər göstərilməyəcək. %1$s tarixinə qədər, elementlərinizi \"Google Fotolar\"a daşıya və ya i.mi.com saytını ziyarət edərək endirə bilərsiniz. Bundan sonra, Xiaomi Cloud-da saxlanılmış elementlər həmişəlik silinəcək."</string>
     <string name="transfer_dialog_msg_link">Qalereya elementlərinin sinx. xidmətlərinin dayandırılması və elementlərin \"Google Fotolar\"a köçürülməsi</string>
@@ -3370,7 +3370,7 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="video_compress_download_failed_for_notwork">"Endirilə bilmədi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın."</string>
     <string name="video_compress_encode_video">Video sıxışdırılır…</string>
     <string name="video_compress_lib_download">Video sıxışdırma qoşmasını endir</string>
-    <string name="video_compress_lib_download_without_wifi">"Deyəsən, cihazınız Wi-Fi-ya bağlanmayıb. Video sıxışdırma qoşmasını (%.1f MB) endirmək üçün mobil internet istifadə edə bilərsiniz."</string>
+    <string name="video_compress_lib_download_without_wifi">"Deyəsən, cihazınız Wi-Fi-ya bağlanmayıb. Video sıxışdırma qoşmasını (%.1f MB) endirmək üçün mobil veri istifadə edə bilərsiniz."</string>
     <string name="video_compress_not_with_8k">"%dK videolar sıxışdırıla bilmir"</string>
     <string name="video_compress_not_with_format">"Video sıxışdırma bu format üçün dəstəklənmir"</string>
     <string name="video_compress_not_with_low_quality">Hazırkı dəqiqlik ən aşağı səviyyədədir</string>
@@ -3386,10 +3386,10 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="video_err">"Video oxudula bilmir"</string>
     <string name="video_not_exist">"Video mövcud deyil"</string>
     <string name="video_post_download_failed_for_notwork">"Endirilə bilmədi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın."</string>
-    <string name="video_post_download_sdk_without_wifi_msg">"Deyəsən, cihazınız Wi-Fi-ya bağlanmayıb. Qoşma, mobil internet istifadə edərək endirilsin?"</string>
-    <string name="video_post_download_sdk_without_wifi_msg_china">"Deyəsən, cihazınız Wi-Fi-ya bağlanmayıb. Qoşma, mobil internet istifadə edərək endirilsin?"</string>
+    <string name="video_post_download_sdk_without_wifi_msg">"Deyəsən, cihazınız Wi-Fi-ya bağlanmayıb. Qoşma, mobil veri istifadə edərək endirilsin?"</string>
+    <string name="video_post_download_sdk_without_wifi_msg_china">"Deyəsən, cihazınız Wi-Fi-ya bağlanmayıb. Qoşma, mobil veri istifadə edərək endirilsin?"</string>
     <string name="video_post_download_sdk_without_wifi_title">\"Video effektləri\" qoşmasını endir</string>
-    <string name="video_post_load_data_fail">"Data yüklənə bilmədi"</string>
+    <string name="video_post_load_data_fail">"Verilər yüklənə bilmədi"</string>
     <string name="video_post_module_finish">\"Video effektləri\" qoşması uğurla endirildi</string>
     <string name="video_post_module_loading">\"Video effektləri\" qoşması endirilir…</string>
     <string name="video_quality_1080p_hd">1080P (yüksək dəqiqlik)</string>

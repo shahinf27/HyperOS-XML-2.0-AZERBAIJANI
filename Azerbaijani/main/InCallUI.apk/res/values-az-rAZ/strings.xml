@@ -39,7 +39,7 @@
     <string name="antispam_provider">%s olaraq müəyyən edildi</string>
     <string name="app_disable_description_text">"Bu tətbiqi sıradan çıxartsanız, zəng edə, zəng qəbul edə və əlaqəli özəllikləri istifadə edə bilməyəcəksiniz. Bu sistem tətbiqi silinə bilməz."</string>
     <string name="app_disable_title_text">Tətbiqi sıradan çıxart</string>
-    <string name="bluetooth_permission_content">Sistem icazələri güncəlləndi. Bu tətbiqin, Bluetooth cihazlarını görə bilməsi üçün adlarına müraciət etməsinə icazə verin.</string>
+    <string name="bluetooth_permission_content">Sistem icazələri güncəlləndi. Bu tətbiqin, Bluetooth cihazlarını görə bilməsi üçün adlarına erişməsinə icazə verin.</string>
     <string name="bluetooth_permission_grant_immediately">İcazə ver</string>
     <string name="bluetooth_permission_later">İndi yox</string>
     <string name="bluetooth_permission_title">İcazələr tələb edilir</string>
@@ -48,7 +48,7 @@
     <string name="call_button_conference_manager_text">İdarə et</string>
     <string name="call_button_dialer_text">Klaviatura</string>
     <string name="call_button_tools_text">Özəlliklər</string>
-    <string name="call_contacts_deny_permission_msg">"Əlaqə oxuma icazəsini ləğv etdiniz, əlaqə məlumatları göstərilə bilmir."</string>
+    <string name="call_contacts_deny_permission_msg">"Kontakt oxuma icazəsini ləğv etdiniz, kontakt məlumatları göstərilə bilmir."</string>
     <string name="call_log_short_in">Bu nömrə sizə indicə zəng edib</string>
     <string name="call_log_short_out">Bu nömrəyə indicə zəng etmisiniz</string>
     <string name="call_not_support_high_frequency_click">"Bu düyməyə tez-tez toxunmayın"</string>
@@ -66,11 +66,11 @@
     <string name="call_record_wait_label">Gözləyir</string>
     <string name="call_recording">Zəng səsyazması davam edir</string>
     <string name="call_recording_deny_permission_msg">"Yaza bilmir. Əvvəlcə Ayarlarda icazələri verin."</string>
-    <string name="call_recording_disclaimer_msg">"Sizin və digər zəng iştirakçılarının yerləşdiyi yurisdikada qüvvədə olan qanun, bütün tərəflərin zəng səsyazmasına razılıq verməsini tələb edə bilər. Siz bu cür qanunlara əməl etməyə borclusunuz və Xiaomi, bu özəlliyin hər hansısa qeyri-qanuni istifadəsinə görə məsuliyyət daşımır. Zəng səsyazmaları yalnız cihazınızda saxlanılır və Xiaomi, bu səsyazmalara müraciət edə bilməz."</string>
+    <string name="call_recording_disclaimer_msg">"Sizin və digər zəng iştirakçılarının yerləşdiyi yurisdikada qüvvədə olan qanun, bütün tərəflərin zəng səsyazmasına razılıq verməsini tələb edə bilər. Siz bu cür qanunlara əməl etməyə borclusunuz və Xiaomi, bu özəlliyin hər hansısa qeyri-qanuni istifadəsinə görə məsuliyyət daşımır. Zəng səsyazmaları yalnız cihazınızda saxlanılır və Xiaomi, bu səsyazmalara erişə bilməz."</string>
     <string name="call_recording_disclaimer_title">Məsuliyyətdən imtina</string>
     <string name="call_recording_error_low_storage">Anbarda yetərli boş yer yoxdur.</string>
     <string name="call_recording_error_privacy">"Qonaq rejimində səs yazıla bilmir"</string>
-    <string name="call_recording_error_sd_access">"SD karta müraciət edilə bilmir"</string>
+    <string name="call_recording_error_sd_access">"SD karta erişilə bilmir"</string>
     <string name="call_recording_error_sd_unmounted">Səsyazma dayandırıldı: SD kart çıxarıldı.</string>
     <string name="call_recording_error_start_failed">Səsyazan başqa bir tətbiq tərəfindən istifadə edilir.</string>
     <string name="call_recording_error_unknown">Bilinməyən bir xəta baş verdi.</string>
@@ -318,7 +318,7 @@
     <string name="pause_prompt_no">Xeyr</string>
     <string name="pause_prompt_yes">Bəli</string>
     <string name="payphone">Taksafon</string>
-    <string name="picking_participant">Əlaqə məlumatları alınır…</string>
+    <string name="picking_participant">Kontakt məlumatları alınır…</string>
     <string name="pm">GS</string>
     <string name="private_num">Özəl nömrə</string>
     <string name="relay_cal_from_device_name">%1$s üzərindən</string>
@@ -367,7 +367,7 @@ cihazınızı yuxarı əyin"</string>
     <string name="satellite_incall_tip">"Peyk rabitələri istifadə edilərkən qulaqlıq istifadə edilə bilmir"</string>
     <string name="satellite_knew">Anladım</string>
     <string name="satellite_latitude_longitude">"Hazırkı yer: "</string>
-    <string name="satellite_location_deny_permission_msg">Tiantong Peyk rabitələrini işə salmaq üçün yerləşmə müraciətinə icazə verin</string>
+    <string name="satellite_location_deny_permission_msg">Tiantong Peyk rabitələrini işə salmaq üçün yerləşmə erişməsinə icazə verin</string>
     <string name="satellite_ok">İstifadə et</string>
     <string name="satellite_satellite_accessory">"Peyk üçün sqnal gücləndirici istifadə edirəm"</string>
     <string name="satellite_satellite_service_redirection">Aktivləşdir</string>
@@ -497,7 +497,7 @@ Cihazı bu mövqedə tutun"</string>
     <string name="unknown">Bilinmir</string>
     <string name="unlock_phone">Cihaz kilidini aç</string>
     <string name="upgrade_vt_prompt">Görüntülü zəngə keçilsin?</string>
-    <string name="user_locked_prompt">Kontaktlara müraciət etmək üçün cihaz kilidini açın.</string>
+    <string name="user_locked_prompt">Kontaktlara erişmək üçün cihaz kilidini açın.</string>
     <string name="video_call_downgrade_insufficient_bandwidth">Bant genişliyi yetərsizdir, səsli zəngə endirin</string>
     <string name="video_conference_caller_info_name">"%1$s tərəfindən görüntülü konfrans zəngi"</string>
     <string name="video_crbt_title">Profil videosu oxudulur…</string>

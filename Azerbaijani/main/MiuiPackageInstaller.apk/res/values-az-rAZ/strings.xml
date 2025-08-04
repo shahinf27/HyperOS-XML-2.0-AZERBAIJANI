@@ -39,7 +39,7 @@
     <string name="already_understood_bundle_app">Paketlənmiş tətbiqlərin risklərini anlayıram</string>
     <string name="am">GƏ</string>
     <string name="anonymous_source_continue">Davam</string>
-    <string name="anonymous_source_warning">Telefonunuz və şəxsi məlumatlarınız bilinməyən tətbiqlərin hücumlarına qarşı daha həssasdır. Bu tətbiqi quraşdıraraq, telefonunuza dəyən istənilən zərərə və onun istifadəsi nəticəsində yarana biləcək məlumat itkisinə görə məsuliyyət daşıdığınızı qəbul edirsiniz.</string>
+    <string name="anonymous_source_warning">Telefonunuz və şəxsi veriləriniz bilinməyən tətbiqlərin hücumlarına qarşı daha həssasdır. Bu tətbiqi quraşdıraraq, telefonunuza dəyən istənilən zərərə və onun istifadəsi nəticəsində yarana biləcək veri itkisinə görə məsuliyyət daşıdığınızı qəbul edirsiniz.</string>
     <string name="app_already_on_the_app_store">GetApps-dan endir</string>
     <string name="app_crash_test_text">Paket quraşdırıcı məcburi bağlandı</string>
     <string name="app_data_safe_inside">应用数据保险箱内测</string>
@@ -60,6 +60,7 @@
     <string name="app_installing_not_allow">"%1$s quraşdırılmasını əngəllədiniz. "</string>
     <string name="app_installing_not_allow_1">"%1$s - bir tətbiq quraşdırması əngəlləndi. "</string>
     <string name="app_installing_not_allow_2">Quraşdırma əngəlləndi. Tərcihlərinizi dəyişdirmək üçün Ayarlarda \"Bilinməyən tətbiqləri quraşdır\" seçimini axtarın.</string>
+    <string name="app_installing_not_allow_2_with_name">%1$s tətbiqinin başqa tətbiqi quraşdırma cəhdi əngəlləndi. Tərcihlərinizi dəyişdirmək üçün Ayarlarda \"Bilinməyən tətbiqləri quraşdır\"ı axtarın.</string>
     <string name="app_name">Paket quraşdırıcı</string>
     <string name="app_name_unknown">Bilinmir</string>
     <string name="app_not_found_dlg_text">"Tətbiq, quraşdırılmış tətbiqlər siyahısında tapılmadı."</string>
@@ -227,10 +228,12 @@ Aşağıdakı ssenarilərdə güvənlik risklərinin qarşısını effektiv şə
     <string name="enhanced_protection_f_1_des">Təkmil qoruma olmadan, zərərli tətbiqləri sizi aldada bilər.</string>
     <string name="enhanced_protection_f_1_title">Fırıldaqçılığa qarşı qoruma</string>
     <string name="enhanced_protection_f_2_demo">Li, 2020-ci ilin İyul-Sentyabr ayları arasında istifadəçilərin fotolarını oğurlayan bilən bir proqram hazırladı və bu proqramı \"üz aşkarlama\" proqramları olaraq gizlətdi. Beləliklə, istifadəçilərin cihazlarından 1,751 foto oğurladı. Bu fotoların arasında üz məlumatları, ad, kimlik üzərindəki FIN (fərdi identifikasiya nömrəsi), ev ünvanı və sairə daxil olmaqla vətəndaşların 100-dən çox fərdi məlumatları yer alıb.</string>
-    <string name="enhanced_protection_f_2_des">Təkmil qoruma bağlı olarkən, zərərli tətbiqlər şəxsi məlumatlarınıza müraciət edə bilər.</string>
+    <string name="enhanced_protection_f_2_des">Təkmil qoruma bağlı olarkən, zərərli tətbiqlər şəxsi məlumatlarınıza erişə bilər.</string>
     <string name="enhanced_protection_f_2_title">Gizlilik qoruması</string>
     <string name="enhanced_protection_f_3_des">Təkmil qoruma rejimi açıq olmasa zərərli tətbiqlər telefonuza hücum edə və telefonun donmasına səbəb ola bilər.</string>
     <string name="enhanced_protection_f_3_title">Sistem stabilliyi</string>
+    <string name="environment_indicator_text">"%1$s serveri
+%2$s"</string>
     <string name="eras_ad">B.E.</string>
     <string name="eras_bc">B.E.Ə.</string>
     <string name="error_a11y_label">Xəta: yararsızdır</string>
@@ -336,7 +339,7 @@ Addım 2: Cihazınızı sıfırlamazdan əvvəl daxil olduğunuz Google Hesabın
     <string name="install_hint_risk_detail">Detallar</string>
     <string name="install_hint_risk_found">Risklər aşkarlandı</string>
     <string name="install_hint_risk_found_description">"Bu tətbiqi quraşdırmaq, güvənlik riskləri yarada bilər. "</string>
-    <string name="install_hint_risk_unregistered">"Gəlişdirici, bu tətbiqin siyahısını tənzimləyici orqanlara təqdim etməyib. Tətbiq, virus ehtiva edə, şəxsi məlumatlarınıza müraciət edə və digər güvənlik riskləri yarada bilər. Əgər siz bu tətbiqin siyahısını artıq gəlişdirici kimi tənzimləyici orqanlara təqdim etmisinizsə, apellyasiya şikayəti verə bilərsiniz. İndi şikayət edin"</string>
+    <string name="install_hint_risk_unregistered">"Gəlişdirici, bu tətbiqin siyahısını tənzimləyici orqanlara təqdim etməyib. Tətbiq, virus ehtiva edə, şəxsi məlumatlarınıza erişə və digər güvənlik riskləri yarada bilər. Əgər siz bu tətbiqin siyahısını artıq gəlişdirici kimi tənzimləyici orqanlara təqdim etmisinizsə, apellyasiya şikayəti verə bilərsiniz. İndi şikayət edin"</string>
     <string name="install_hint_risk_unregistered_clickable">Şikayət et</string>
     <string name="install_package_error">"Bu tətbiq, sisteminizlə uyumlu deyil"</string>
     <string name="install_package_error_des">Gəlişdirici ilə əlaqə saxlayın və ya güvənli bir mənbədən uyumlu bir versiyanı quraşdırın.</string>
@@ -429,8 +432,8 @@ Addım 2: Cihazınızı sıfırlamazdan əvvəl daxil olduğunuz Google Hesabın
     <string name="miui_other_permission">Digər</string>
     <string name="miui_permission_manage_title">%s detal</string>
     <string name="miui_privacy_relative">Gizlilik</string>
-    <string name="miui_recommend_clean">Tətbiq məlumatlarını da təmizlə</string>
-    <string name="miui_recommend_clean_msg">"Tətbiq məlumatlarında bu tətbiqin endirmələri, faylları və s. ola bilər."</string>
+    <string name="miui_recommend_clean">Tətbiq verilərini də təmizlə</string>
+    <string name="miui_recommend_clean_msg">"Tətbiq verilərində bu tətbiqin endirmələri, faylları və s. ola bilər."</string>
     <string name="miui_security_relative">Güvənlik</string>
     <string name="miui_uninstall_success">Uğurla silindi</string>
     <string name="miui_uninstalling">Silinir…</string>
@@ -558,8 +561,9 @@ Addım 2: Cihazınızı sıfırlamazdan əvvəl daxil olduğunuz Google Hesabın
     <string name="out_of_space_dlg_text">"%1$s quraşdırıla bilmədi. Bir az yer boşaldıb yenidən sınayın."</string>
     <string name="out_of_space_dlg_title">Boş sahə qalmadı</string>
     <string name="parse_error_dlg_text_miui">Paketin parsing prosesində problem var idi. (%1$s)</string>
+    <string name="pasport_register_dialog_message">İndi %s telefon nömrənizlə bir Xiaomi Hesabı yaradılsın?</string>
     <string name="passed_security_test">Xiaomi güvənlik testlərini keçdi</string>
-    <string name="passport_access_denied">Müraciət rədd edildi</string>
+    <string name="passport_access_denied">Erişim rədd edildi</string>
     <string name="passport_account_crop_user_avatar">Fotonu kəs</string>
     <string name="passport_account_empty_user_name">Adınızı daxil edin</string>
     <string name="passport_account_error_all_space_user_name">"Ad yalnız boşluq simvolundan ibarət ola bilməz"</string>
@@ -575,7 +579,7 @@ Addım 2: Cihazınızı sıfırlamazdan əvvəl daxil olduğunuz Google Hesabın
     <string name="passport_account_secure_info_pref_title">Hesab məlumatları</string>
     <string name="passport_account_security_info_pref_title">Güvənlik məlumatları</string>
     <string name="passport_account_user_avatar">Profil fotosu</string>
-    <string name="passport_account_user_avatar_from_album">Qalereya</string>
+    <string name="passport_account_user_avatar_from_album">Qalereyadan seç</string>
     <string name="passport_account_user_avatar_from_camera">Kamera</string>
     <string name="passport_account_user_base_info">Təməl məlumatlar</string>
     <string name="passport_account_user_details">Şəxsi məlumatlar</string>
@@ -653,7 +657,6 @@ Addım 2: Cihazınızı sıfırlamazdan əvvəl daxil olduğunuz Google Hesabın
     <string name="passport_login_register_by_local_phone_long_text">Hesab yarat</string>
     <string name="passport_login_with_sns">Digər daxil olma yolları</string>
     <string name="passport_logout_account">Çıxış et</string>
-    <string name="passport_mi_account_first_title">"Telefon nömrənizi ilk dəfə istifadə edirsinizsə, avtomatik olaraq hesab yaradacağıq."</string>
     <string name="passport_mi_account_title">Xiaomi Hesabı ilə daxil olun</string>
     <string name="passport_network_error">Bir şəbəkə xətası baş verdi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın.</string>
     <string name="passport_network_error_hint">URL-ni yoxlayıb yenidən sınayın və ya URL-ni kopyalayıb brauzerinizdə açın.</string>
@@ -662,6 +665,7 @@ Addım 2: Cihazınızı sıfırlamazdan əvvəl daxil olduğunuz Google Hesabın
     <string name="passport_no_account">Daxil olunmadı</string>
     <string name="passport_open_settings">Ayarlar</string>
     <string name="passport_page_load_failed">"Səhifə açıla bilmir"</string>
+    <string name="passport_password_hide_show">Parolu gizlət</string>
     <string name="passport_password_login_btn">Daxil ol</string>
     <string name="passport_password_not_show">"Parolu göstərməyin"</string>
     <string name="passport_password_show">Parolu göstər</string>
@@ -673,6 +677,8 @@ Addım 2: Cihazınızı sıfırlamazdan əvvəl daxil olduğunuz Google Hesabın
     <string name="passport_reging">Hesab yaradılır…</string>
     <string name="passport_register_by_local_phone_long_text">Hesab yarat</string>
     <string name="passport_register_by_local_phone_short_text">Hesab yarat</string>
+    <string name="passport_register_dialog_positive">Yarat</string>
+    <string name="passport_register_dialog_title">Xiaomi Hesabı yarat</string>
     <string name="passport_register_restricted">Bu nömrə ilə həddən artıq hesab əlaqələndirilib. Fərqli bir nömrə ilə sınayın.</string>
     <string name="passport_relogin_notice">Yenidən daxil olmağınız lazımdır</string>
     <string name="passport_request_agree">İcazə ver</string>
@@ -681,7 +687,8 @@ Addım 2: Cihazınızı sıfırlamazdan əvvəl daxil olduğunuz Google Hesabın
     <string name="passport_request_error_invalid_token">"Doğrulana bilmədi"</string>
     <string name="passport_request_error_network">Bir şəbəkə xətası baş verdi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın.</string>
     <string name="passport_request_error_unknown">Sistem xətası baş verdi. Geri qayıdın və yenidən sınayın.</string>
-    <string name="passport_request_gallery_permission_message">Qalereyaya müraciətə icazə verin:&lt;br /&gt;Profil fotosunu ayarlamaq üçün</string>
+    <string name="passport_request_gallery_permission_message">Profil fotonuzu təyin edə bilmək üçün bu tətbiqin seçilmiş Qalereya elementlərinə erişməsi lazımdır. İndi icazə verilsin?</string>
+    <string name="passport_request_permission_title">İcazələr tələb olunur</string>
     <string name="passport_resend_email_reach_limit_message">"Həddən artıq doğrulama e-poçtu tələb etdiniz. Doğrulama e-poçtunun gələn qutunuzun Spam qovluğunda olmadığına əmin olun."</string>
     <string name="passport_resend_email_reach_limit_title">Həddindən artıq cəhd</string>
     <string name="passport_resend_ticket">Kodu yenidən göndər</string>
@@ -700,6 +707,7 @@ Addım 2: Cihazınızı sıfırlamazdan əvvəl daxil olduğunuz Google Hesabın
     <string name="passport_talkback_switch_image_captcha">Şəkil doğrulama koduna keç</string>
     <string name="passport_talkback_switch_voice_captcha">Səsli doğrulama koduna keç</string>
     <string name="passport_talkback_voice_captcha">Səsli doğrulama kodunu oxut</string>
+    <string name="passport_third_sns_service_unavailable">"Xidmət əlçatmazdır. Tətbiqin quraşdırıldığına və əngəllənmədiyinə əmin olun."</string>
     <string name="passport_ticket_send_by_second">%d sonra göndər</string>
     <string name="passport_to_forget_password">Parolu unutdunuz?</string>
     <string name="passport_to_password_login">Parol istifadə edərək daxil ol</string>
@@ -732,27 +740,27 @@ Addım 2: Cihazınızı sıfırlamazdan əvvəl daxil olduğunuz Google Hesabın
     <string name="password_wrong_msg">"Doğrulana bilmədi. Yenidən sınayın."</string>
     <string name="perm_privacy_app_finish">Oldu</string>
     <string name="perm_privacy_app_launch">Başlat</string>
-    <string name="permission_des_access_background_location">Tətbiq arxaplanda çalışarkən yerləşməyə müraciət etmək üçün</string>
-    <string name="permission_des_access_coarse_location">Təxmini yerləşmənizə müraciət etmək üçün</string>
-    <string name="permission_des_access_fine_location">Yerləşmənizə müraciət etmək üçün</string>
+    <string name="permission_des_access_background_location">Tətbiq arxaplanda çalışarkən yerləşməyə erişmək üçün</string>
+    <string name="permission_des_access_coarse_location">Təxmini yerləşmənizə erişmək üçün</string>
+    <string name="permission_des_access_fine_location">Yerləşmənizə erişmək üçün</string>
     <string name="permission_des_access_media_location">Saxlanılmış media üçün yerləşmə məlumatları vasitəsilə yerləşdirmə üçün</string>
-    <string name="permission_des_access_notifications">Parolları və bankçılıq məlumatlarını ehtiva edən bildirişlərə müraciət etmək, bildirişləri yoxlamaq və təmizləmək üçün</string>
-    <string name="permission_des_activity_recognition">Addım sayına və digər fiziki fəaliyyətlə bağlı məlumatlara müraciət etmək üçün</string>
-    <string name="permission_des_body_sensors">Ürək döyünmə sürəti məlumatları kimi bədən sensorları tərəfindən yaradılan məlumatlara müraciət etmək üçün</string>
-    <string name="permission_des_call_companion_app">Zəng statusuna və zənglərin telefon nömrələrinə müraciət etmək üçün</string>
+    <string name="permission_des_access_notifications">Parolları və bankçılıq məlumatlarını ehtiva edən bildirişlərə erişmək, bildirişləri yoxlamaq və təmizləmək üçün</string>
+    <string name="permission_des_activity_recognition">Addım sayına və digər fiziki fəaliyyətlə bağlı məlumatlara erişmək üçün</string>
+    <string name="permission_des_body_sensors">Ürək döyünmə sürəti məlumatları kimi bədən sensorları tərəfindən yaradılan məlumatlara erişmək üçün</string>
+    <string name="permission_des_call_companion_app">Zəng statusuna və zənglərin telefon nömrələrinə erişmək üçün</string>
     <string name="permission_des_camera">Foto və video çəkmək üçün</string>
-    <string name="permission_des_get_accounts">Cihazınızdakı sosial media və rabitə hesablarının siyahısına müraciət etmək üçün</string>
-    <string name="permission_des_get_installed_apps">Quraşdırılmış tətbiqlər haqqındakı məlumatlara müraciət etmək üçün</string>
+    <string name="permission_des_get_accounts">Cihazınızdakı sosial media və rabitə hesablarının siyahısına erişmək üçün</string>
+    <string name="permission_des_get_installed_apps">Quraşdırılmış tətbiqlər haqqındakı məlumatlara erişmək üçün</string>
     <string name="permission_des_get_tasks">Təzəlikcə və hazırda istifadə edilən tətbiqləri izləmək üçün</string>
     <string name="permission_des_manage_own_calls">Gələn zəngləri yönləndirmək üçün</string>
     <string name="permission_des_permlab_bluetooth_scan">Bluetooth cihazları da daxil olmaqla, yaxınlıqdakı cihazları aşkarlamaq və onlara bağlanmaq üçün</string>
-    <string name="permission_des_read_calendar">Təqvimdəki tədbirlərə və fəaliyyətlərə müraciət etmək üçün</string>
-    <string name="permission_des_read_call_log">Gələn və gedən zənglər barədə məlumatlara müraciət etmək üçün</string>
+    <string name="permission_des_read_calendar">Təqvimdəki tədbirlərə və fəaliyyətlərə erişmək üçün</string>
+    <string name="permission_des_read_call_log">Gələn və gedən zənglər barədə məlumatlara erişmək üçün</string>
     <string name="permission_des_read_cell_broadcasts">Cihazınız tərəfindən alınan mobil yayımları oxumaq üçün</string>
     <string name="permission_des_read_contacts">Kontaktları və onlarla qarşılıqlı əlaqə tezliyini tanımaq üçün</string>
-    <string name="permission_des_read_external_storage">Cihazda saxlanılan fotolara, sənədlərə və digər mediaya müraciət etmək üçün</string>
-    <string name="permission_des_read_phone_numbers">Cihazdakı telefon nömrələrinə müraciət etmək üçün</string>
-    <string name="permission_des_read_phone_state">Zəng statusuna və mobil şəbəkə məlumatlarına müraciət etmək üçün</string>
+    <string name="permission_des_read_external_storage">Cihazda saxlanılan fotolara, sənədlərə və digər mediaya erişmək üçün</string>
+    <string name="permission_des_read_phone_numbers">Cihazdakı telefon nömrələrinə erişmək üçün</string>
+    <string name="permission_des_read_phone_state">Zəng statusuna və mobil şəbəkə məlumatlarına erişmək üçün</string>
     <string name="permission_des_read_sms">Parollar və bankçılıq məlumatları üzrə mesajları yoxlamaq üçün</string>
     <string name="permission_des_receive_mms">Gələn MMS mesajlarını izləmək və silmək üçün</string>
     <string name="permission_des_receive_sms">Gələn SMS mesajlarını izləmək və silmək üçün</string>
@@ -763,29 +771,29 @@ Addım 2: Cihazınızı sıfırlamazdan əvvəl daxil olduğunuz Google Hesabın
     <string name="permission_des_write_external_storage">Foto, sənəd və digər medianı saxlamaq üçün</string>
     <string name="permission_lost_dialog_content">"Sistem optimallaşdırma ayarlarındakı dəyişikliklərə görə quraşdırıla bilmədi. Cihazınızı yenidən başladın və bir daha sınayın."</string>
     <string name="permission_lost_dialog_title">"Quraşdırıla bilmədi"</string>
-    <string name="permission_name_access_background_location">Arxaplanda işləyərkən yerləşməyə müraciət et</string>
-    <string name="permission_name_access_coarse_location">Önplanda işləyərkən təxmini yerləşməyə müraciət et</string>
-    <string name="permission_name_access_fine_location">Yerləşməyə müraciət</string>
-    <string name="permission_name_access_media_location">Saxlanılmış media üçün yerləşmə məlumatlarına müraciət et</string>
-    <string name="permission_name_access_notifications">Bildirişlərə müraciət et və onları idarə et</string>
-    <string name="permission_name_activity_recognition">Sağlamlıq və fəaliyyət məlumatlarına müraciət</string>
+    <string name="permission_name_access_background_location">Arxaplanda işləyərkən yerləşməyə eriş</string>
+    <string name="permission_name_access_coarse_location">Önplanda işləyərkən təxmini yerləşməyə eriş</string>
+    <string name="permission_name_access_fine_location">Yerləşməyə erişim</string>
+    <string name="permission_name_access_media_location">Saxlanılmış media üçün yerləşmə məlumatlarına eriş</string>
+    <string name="permission_name_access_notifications">Bildirişlərə eriş və onları idarə et</string>
+    <string name="permission_name_activity_recognition">Sağlamlıq və fəaliyyət məlumatlarına erişim</string>
     <string name="permission_name_body_sensors">Sensor məlumatlarını oxu</string>
-    <string name="permission_name_call_companion_app">Zəng statusuna müraciət</string>
+    <string name="permission_name_call_companion_app">Zəng statusuna erişim</string>
     <string name="permission_name_camera">Kameranı istifadə et</string>
-    <string name="permission_name_get_accounts">Cihaz hesablarına müraciət</string>
-    <string name="permission_name_get_installed_apps">Bu cihazda quraşdırılmış tətbiqlərin siyahısına müraciət</string>
+    <string name="permission_name_get_accounts">Cihaz hesablarına erişim</string>
+    <string name="permission_name_get_installed_apps">Bu cihazda quraşdırılmış tətbiqlərin siyahısına erişim</string>
     <string name="permission_name_get_tasks">Hazırda istifadə olunan tətbiqlərə bax</string>
     <string name="permission_name_manage_own_calls">Sistem vasitəsilə zəngləri yönləndir</string>
     <string name="permission_name_permlab_bluetooth_scan">Yaxınlıqdakı cihazlara bağlan</string>
-    <string name="permission_name_read_calendar">Təqvimə müraciət</string>
-    <string name="permission_name_read_call_log">Zəng tarixçəsinə müraciət</string>
-    <string name="permission_name_read_cell_broadcasts">Hüceyrə yayımlarına müraciət</string>
-    <string name="permission_name_read_contacts">Kontaktlara müraciət</string>
-    <string name="permission_name_read_external_storage">Cihaz anbarına müraciət</string>
+    <string name="permission_name_read_calendar">Təqvimə erişim</string>
+    <string name="permission_name_read_call_log">Zəng tarixçəsinə erişim</string>
+    <string name="permission_name_read_cell_broadcasts">Hüceyrə yayımlarına erişim</string>
+    <string name="permission_name_read_contacts">Kontaktlara erişim</string>
+    <string name="permission_name_read_external_storage">Cihaz anbarına erişim</string>
     <string name="permission_name_read_phone_numbers">Telefon nömrələrini oxu</string>
-    <string name="permission_name_read_phone_state">Cihaz məlumatlarına müraciət</string>
-    <string name="permission_name_read_sms">SMS-ə müraciət</string>
-    <string name="permission_name_receive_mms">MMS-ə müraciət</string>
+    <string name="permission_name_read_phone_state">Cihaz məlumatlarına erişim</string>
+    <string name="permission_name_read_sms">SMS-ə erişim</string>
+    <string name="permission_name_receive_mms">MMS-ə erişim</string>
     <string name="permission_name_receive_sms">SMS al</string>
     <string name="permission_name_receive_wap_push">WAP məlumatını qəbul et</string>
     <string name="permission_name_record_audio">Səs yaz</string>
@@ -837,7 +845,7 @@ Addım 2: Cihazınızı sıfırlamazdan əvvəl daxil olduğunuz Google Hesabın
     <string name="risk_app_has_trust">Güvənli</string>
     <string name="risk_app_install_agree_button">Bu tətbiqə güvən</string>
     <string name="risk_app_install_agree_checkbox">"Bütün mümkün riskləri götürməyə hazıram."</string>
-    <string name="risk_app_install_agree_message">"Bu tətbiqlər üçüncü tərəf tərəfindən hazırlanıb və yerli qanun və qaydaları poza bilər. Xiaomi, bu tətbiqin təmin etdiyi məzmun və xidmətlərin mövcudluğuna, davamlılığına və əlçatımlılığına zəmanət vermir. Bu tətbiqin istifadəsi nəticəsində yaranan hər hansı bir itki və ya zərər sizin tərəfinizdən qarşılanacaq."</string>
+    <string name="risk_app_install_agree_message">"Bu tətbiqlər üçüncü tərəf tərəfindən hazırlanıb və yerli qanun və qaydaları poza bilər. Xiaomi, bu tətbiqin təmin etdiyi məzmun və xidmətlərin mövcudluğuna, davamlılığına və erişiləbilənliyinə zəmanət vermir. Bu tətbiqin istifadəsi nəticəsində yaranan hər hansı bir itki və ya zərər sizin tərəfinizdən qarşılanacaq."</string>
     <string name="risk_app_install_agree_title">Məsuliyyətdən imtina</string>
     <string name="risk_app_install_auth_result">"%1$s quraşdırmağa icazə verdiniz. Quraşdırma paketi aşkarlandıqdan sonra davam edə bilərsiniz."</string>
     <string name="risk_app_install_empty_text">Burada element yoxdur</string>
@@ -924,8 +932,8 @@ Addım 2: Cihazınızı sıfırlamazdan əvvəl daxil olduğunuz Google Hesabın
     <string name="service_mode_advantage_app_security_detection_tip">"Tətbiqlərin güvəndə
 olduğunu bilin"</string>
     <string name="service_mode_advantage_app_security_detection_title">Güvənlik testlərimiz</string>
-    <string name="service_mode_advantage_icon_dark_desc">"Endirilən tətbiqlər həmişə güvənli deyil.&lt;br&gt;Onlar şəxsi məlumatlarınızı ifşa edə bilər.&lt;br&gt;Saxtakarlıq və fırıldaqçılıq üçün bir çox tətbiq istifadə olunur.&lt;br&gt;&lt;font color=#569a77&gt;Mi Protext&lt;/font&gt; bu problemləri həll etmək üçün buradadır."</string>
-    <string name="service_mode_advantage_icon_desc">"Endirilən tətbiqlər həmişə güvənli deyil.&lt;br&gt;Onlar şəxsi məlumatlarınızı ifşa edə bilər.&lt;br&gt;Saxtakarlıq və fırıldaqçılıq üçün bir çox tətbiq istifadə olunur.&lt;br&gt;&lt;font color=#52E0A6&gt;Mi Protext&lt;/font&gt; bu problemləri həll etmək üçün buradadır."</string>
+    <string name="service_mode_advantage_icon_dark_desc">"Endirilən tətbiqlər həmişə güvənli deyil.&lt;br&gt;Onlar şəxsi verilərinizi ifşa edə bilər.&lt;br&gt;Saxtakarlıq və fırıldaqçılıq üçün bir çox tətbiq istifadə olunur.&lt;br&gt;&lt;font color=#569a77&gt;Mi Protext&lt;/font&gt; bu problemləri həll etmək üçün buradadır."</string>
+    <string name="service_mode_advantage_icon_desc">"Endirilən tətbiqlər həmişə güvənli deyil.&lt;br&gt;Onlar şəxsi verilərinizi ifşa edə bilər.&lt;br&gt;Saxtakarlıq və fırıldaqçılıq üçün bir çox tətbiq istifadə olunur.&lt;br&gt;&lt;font color=#52E0A6&gt;Mi Protext&lt;/font&gt; bu problemləri həll etmək üçün buradadır."</string>
     <string name="service_mode_advantage_pay_protection_subtitle">Mi Protect, əməliyyatlarınızı güvəndə tutmaq üçün ödəniş mühitini hər hansı mümkün risklərə qarşı yoxlayır.</string>
     <string name="service_mode_advantage_pay_protection_tip">Maliyyənizi qoruyun</string>
     <string name="service_mode_advantage_pay_protection_title">Ödəniş mühitinin qorunması</string>
@@ -1095,8 +1103,8 @@ gəldiyini bilin"</string>
     <string name="uninstall_failed_device_policy_manager_of_user">"%1$s üçün aktiv cihaz admin tətbiqi silinə bilmir"</string>
     <string name="uninstall_failure_notification_channel">Uğursuz silmələr</string>
     <string name="uninstall_keep_data">Tətbiq datasında %1$s qalsın.</string>
-    <string name="uninstall_update_text">Bu tətbiq zavod versiyası ilə əvəzlənsin? Bütün məlumatlar silinəcək.</string>
-    <string name="uninstall_update_text_multiuser">Bu tətbiq zavod versiyası ilə əvəzlənsin? Bütün məlumatlar silinəcək. Bu, iş profilləri olanlar daxil olmaqla bu cihazdakı bütün istifadəçilərə təsir edəcək.</string>
+    <string name="uninstall_update_text">Bu tətbiq zavod versiyası ilə əvəzlənsin? Bütün verilər silinəcək.</string>
+    <string name="uninstall_update_text_multiuser">Bu tətbiq zavod versiyası ilə əvəzlənsin? Bütün verilər silinəcək. Bu, iş profilləri olanlar daxil olmaqla bu cihazdakı bütün istifadəçilərə təsir edəcək.</string>
     <string name="uninstall_update_title">Güncəlləməni sil</string>
     <string name="uninstalling">Silinir…</string>
     <string name="uninstalling_app">%1$s silinir…</string>
@@ -1122,7 +1130,7 @@ gəldiyini bilin"</string>
     <string name="unrecorded_risk_app_description_temp">"Gəlişdirici, bu tətbiqin siyahısını tənzimləyici orqanlara təqdim etməyib. Maraqlarınız pozulduğu halda gəlişdirici ilə əlaqə saxlaya bilməyəcəksiniz."</string>
     <string name="untrusted_external_source_title">\"%1$s\" üçün tətbiqləri quraşdırma icazəsi verilsin?</string>
     <string name="untrusted_external_source_warning">Güvənliyiniz üçün telefonunuz, hazırda bu mənbəyən bilinməyən tətbiqlərin quraşdırılmasına icazə vermir. Bunu Ayarlarda dəyişdirə bilərsiniz.</string>
-    <string name="untrusted_external_source_warning_summary">Cihazınız və şəxsi məlumatlarınız bilinməyən tətbiqlərin hücumlarına qarşı daha həssasdır. Bu mənbədən tətbiqləri quraşdıraraq, cihazınıza dəyən istənilən zərərə və onların istifadəsi nəticəsində yarana biləcək məlumat itkisinə görə məsuliyyət daşıdığınızı qəbul edirsiniz.</string>
+    <string name="untrusted_external_source_warning_summary">Cihazınız və şəxsi veriləriniz bilinməyən tətbiqlərin hücumlarına qarşı daha həssasdır. Bu mənbədən tətbiqləri quraşdıraraq, cihazınıza dəyən istənilən zərərə və onların istifadəsi nəticəsində yarana biləcək veri itkisinə görə məsuliyyət daşıdığınızı qəbul edirsiniz.</string>
     <string name="update">Güncəllə</string>
     <string name="update_anyway">Yenə də güncəllə</string>
     <string name="update_start">Güncəllə</string>
