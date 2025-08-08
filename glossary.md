@@ -2,7 +2,7 @@
 
 ## Əsas Qeyd
 
-Bu sənəd, Azərbaycan dilində texnoloji interfeyslərin tərcüməsi zamanı istifadə olunan və lüğətdə olmayan, lakin məntiqi və dil qaydalarına uyğun terminlərin izahını verir. Burada məqsəd, tərcümə zamanı daha anlaşılan, ardıcıl və texniki cəhətdən düzgün qarşılıqların işlədilməsidir.
+Bu lüğət, Azərbaycan dilində texnoloji interfeyslərin tərcüməsi zamanı istifadə olunan və lüğətdə olmayan, lakin məntiqi və dil qaydalarına uyğun terminlərin izahını verir. Burada məqsəd, tərcümə zamanı daha anlaşılan, ardıcıl və texniki cəhətdən düzgün qarşılıqların işlədilməsidir.
 
 - **"Erişmək" və "Erişim"** sözləri 2016-cı ilə qədər Azərbaycan dilinin orfoqrafiya lüğətində mövcud olmuş, sonradan istifadənin azalması səbəbilə çıxarılmışdır. Ancaq bu sözlər "ermək" (çatmaq) feilindən törədiyi üçün dil qaydalarına uyğun hesab edilir və yenidən istifadəyə qaytarılmışdır.
 - **"Erişiləbilənlik"** sözü "accessibility" qarşılığı kimi seçilmişdir. "-bilənlik" şəkilçisi Azərbaycan dilində işlək olan "qədirbilənlik", "başbilənlik" kimi sözlərdə mövcuddur.
@@ -18,7 +18,7 @@ Bu sənəd, Azərbaycan dilində texnoloji interfeyslərin tərcüməsi zamanı 
 - **"Donanım"** sözü türkcədən alınma və texnoloji sahədə standartlaşmış termindir. "Avadanlıq təminatı" və "texniki təminat" kimi ifadələrə nisbətən qısa, anlaşılan və sektora uyğun alternativ kimi çıxış edir. "Donatmaq" felindən yaranıb, texniki cihazın içində olan hər şeyə (RAM, motherboard və s.) aiddir. Yəni sistemin fiziki olaraq donadıldığı komponentləri bildirir.
 - **"Gəlişdirmək"** sözü türkcədən alınma sözdür. Azərbaycan dilində “inkişaf etdirmək” və ya “təkmilləşdirmək” deyimləri çox uzundur və kontekstdən kənar anlamlar yarada bilir.
 
-## Cədvəl
+## Texnoloji lüğət
 
 | İngiliscə      | Azərbaycanca                    |
 |----------------|---------------------------------|
@@ -153,7 +153,9 @@ Bu sənəd, Azərbaycan dilində texnoloji interfeyslərin tərcüməsi zamanı 
 | consume        | sərf etmək                      |
 | consumption    | sərfiyyat                       |
 | to withdraw    | geri götürmək                   |
-| disclaimer     | məsuliyyətdən imtina            | 
+| disclaimer     | məsuliyyətdən imtina            |
+| feedback       | əks-əlaqə                       |
+| haptic feedback| toxunuş əks-əlaqəsi             |  
 | workout        | fiziki məşq                     |
 | training       | hazırlıq                        |
 | exercise       | hərəkət                         |
