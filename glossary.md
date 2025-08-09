@@ -37,17 +37,93 @@ Bu lüğət, Azərbaycan dilində texnoloji interfeyslərin tərcüməsi zamanı
 | to activate    | aktivləşdirmək                  |  
 | to deactivate  | deaktiv etmək                   | 
 | note           | not                             |
+| record         | qeyd                            | 
 | image          | təsvir                          | 
 | picture        | şəkil                           | 
 | photo          | foto                            | 
-| description    | açıqlama                        | 
+| description    | açıqlama                        |
+| log in         | giriş etmək                     |
+| log out        | çıxış etmək                     |
+| sign in        | (hesaba) daxil olmaq            |
+| sign out       | (hesabdan) çıxış etmək          |
+| input          | giriş                           |
+| output         | çıxış                           |
+| current        | hazırkı                         |
+| exist          | mövcud                          |
+| private        | şəxsi, gizli                    |
+| secret         | sirr                            |
+| hidden         | gizli                           |
+| personal       | fərdi                           |
+| provider 	     | provayder                       |
+| sufficient     | yetərli                         |
+| insufficient   | yetərsiz                        |
+| order          | sıra, sifariş                   |
+| to sort        | sıralamaq                       |
+| new            | yeni                            |
+| (to) update    | güncəl(ləmək)                   |
+| (to) upgrade   | yüksəltmə(k)                    |
+| to downgrade   | alt versiyaya endirmək          |
+| recent         | ən son                          |
+| recently       | təzəlikcə                       |
+| just now       | indicə                          |
+| refresh        | təzələmək                       |
+| tool           | alət                            |
+| app(lication)  | tətbiq(etmə)                    |
+| to cancel      | imtina etmək, ləğv etmək        |
+| build          | quruluş                         |
+| to install     | quraşdırmaq                     |
+| to set up      | qurmaq                          |
+| installation   | quraşdırma                      |
+| to load        | yükləmək                        |
+| to download    | endirmək                        |
+| downloads      | endirmələr, endirilənlər        |
+| to upload      | yükləmək (qarşı tərəfə)         |
+| to transmit    | ötürmək                         |
+| to transfer    | köçürmək, transfer etmək        |
+| to send        | göndərmək                       |
+| to receive     | almaq, qəbul etmək              |
+| to try         | sınamaq                         |
+| to check       | yoxlamaq                        |
+| to edit        | düzəliş etmək                   |
+| to ban         | yasaqlamaq                      |
+| ban            | yasaq                           |
+| storage        | anbar                           |
+| memory         | yaddaş                          |
+| item           | element                         |
+| release        | buraxılış                       |
+| content        | məzmun                          |
+| history        | tarixçə                         |
+| bookmark       | əlfəcin                         |
+| tab            | vərəq                           |
+| FAQ            | TVS                             |
+| (to) comment   | rəy (bildirmək)                 |
+| reputation     | nüfuz                           |
+| vote           | səs vermək                      |
+| member         | üzv                             |
+| post           | göndəriş                        |
+| lock           | kilid                           |
+| to lock        | kilidləmək                      |
+| to unlock      | kilidi açmaq                    |
+| to suspend     | fəaliyyətini dayandırmaq        |
+| suspension     | müvəqqəti dayandırma            |
+| guide          | bələdçi                         |
+| device         | cihaz                           |
+| teardown       | sökmə                           |
+| fix            | düzəltmə                        |
+| repair         | təmir                           |
+| community      | icma                            |
+| society        | cəmiyyət                        |
+| contribute     | töhfə vermək                    |
+| participate    | iştirak etmək                   |
+| preview        | önizləmə                        |
+| link           | keçid                           |
+| shipping       | daşınma, yükdaşıma              |
 | data           | veri                            |
 | mobile data    | mobil veri                      | 
 | connection     | bağlantı                        | 
 | to connect     | bağlanmaq, bağlantı qurmaq      |
 | to disconnect  | bağlantını kəsmək               |
 | connected      | bağlantılı                      | 
-| record         | qeyd                            | 
 | extension      | uzantı                          |
 | verification   | doğrulama                       |
 | to verify      | doğrulamaq                      | 
