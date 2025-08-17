@@ -964,7 +964,6 @@ Təkrar onlayn olduğunuz zaman daha çoxunu paylaşacağıq."</string>
     <string name="sponsored">Sponsorlu</string>
     <string name="start_downloading_app">Endirmə başlayır: %1$s</string>
     <string name="start_install">İndi quraşdır</string>
-    <string name="summary_delete_apk">Seçilmiş APK-lər həmişəlik silinsin?</string>
     <string name="summary_delete_cache">Seçilmiş tətbiqlərin keşi təmizlənsin?</string>
     <string name="summary_delete_large_file">Seçilmiş fayllar həmişəlik silinsin?</string>
     <string name="summary_delete_video">Seçilmiş videolar həmişəlik silinsin?</string>

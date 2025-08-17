@@ -19,107 +19,103 @@
         <item quantity="other">Dərhal</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">%d dəq ərzində</item>
         <item quantity="one">%d dəq ərzində</item>
+        <item quantity="other">%d dəq ərzində</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">İndicə</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d dəq əvvəl</item>
         <item quantity="one">%d dəq əvvəl</item>
+        <item quantity="other">%d dəq əvvəl</item>
     </plurals>
     <plurals name="cloud_storage_full_upgrade_text">
-        <item quantity="other">"Yetərsiz anbar. %d foto sinxronlaşdırıla bilmədi."</item>
         <item quantity="one">"Yetərsiz anbar. %d foto sinxronlaşdırıla bilmədi."</item>
+        <item quantity="other">"Yetərsiz anbar. %d foto sinxronlaşdırıla bilmədi."</item>
     </plurals>
     <plurals name="dirty_blocklist_count">
-        <item quantity="other">%d əngəlli siyahısı girişi</item>
         <item quantity="one">%d əngəlli siyahısı girişi</item>
+        <item quantity="other">%d əngəlli siyahısı girişi</item>
     </plurals>
     <plurals name="dirty_browser_count">
-        <item quantity="other">%d brauzer elementi</item>
         <item quantity="one">%d brauzer elementi</item>
+        <item quantity="other">%d brauzer elementi</item>
     </plurals>
     <plurals name="dirty_calendar_count">
-        <item quantity="other">%d təqvim elementi</item>
         <item quantity="one">%d təqvim elementi</item>
+        <item quantity="other">%d təqvim elementi</item>
     </plurals>
     <plurals name="dirty_callog_count">
-        <item quantity="other">%d zəng tarixçəsi səsyazması</item>
         <item quantity="one">%d zəng tarixçəsi səsyazması</item>
+        <item quantity="other">%d zəng tarixçəsi səsyazması</item>
     </plurals>
     <plurals name="dirty_contacts_count">
-        <item quantity="other">%d kontakt</item>
         <item quantity="one">%d kontakt</item>
+        <item quantity="other">%d kontakt</item>
     </plurals>
     <plurals name="dirty_image_count">
-        <item quantity="other">%d foto</item>
         <item quantity="one">%d foto</item>
+        <item quantity="other">%d foto</item>
     </plurals>
     <plurals name="dirty_mms_count">
-        <item quantity="other">%d mesaj</item>
         <item quantity="one">%d mesaj</item>
+        <item quantity="other">%d mesaj</item>
     </plurals>
     <plurals name="dirty_note_count">
-        <item quantity="other">%d not</item>
         <item quantity="one">%d not</item>
+        <item quantity="other">%d not</item>
     </plurals>
     <plurals name="dirty_note_count_v2">
-        <item quantity="other">%d not</item>
         <item quantity="one">%d not</item>
+        <item quantity="other">%d not</item>
     </plurals>
     <plurals name="dirty_personalAssistant_count">
-        <item quantity="other">%d Tətbiq seyfinə giriş</item>
         <item quantity="one">%d Tətbiq seyfinə giriş</item>
+        <item quantity="other">%d Tətbiq seyfinə giriş</item>
     </plurals>
     <plurals name="dirty_phrase_count">
-        <item quantity="other">%d çox istfdə olunan ifadə</item>
         <item quantity="one">%d çox istfdə olunan ifadə</item>
+        <item quantity="other">%d çox istfdə olunan ifadə</item>
     </plurals>
     <plurals name="dirty_recorder_count">
-        <item quantity="other">%d səsyazma</item>
         <item quantity="one">%d səsyazma</item>
+        <item quantity="other">%d səsyazma</item>
     </plurals>
     <plurals name="dirty_wlan_count">
-        <item quantity="other">%d Wi-Fi şəbəkəsi</item>
         <item quantity="one">%d Wi-Fi şəbəkəsi</item>
+        <item quantity="other">%d Wi-Fi şəbəkəsi</item>
     </plurals>
     <plurals name="dirty_wlan_count_china">
-        <item quantity="other">%d Wi-Fi şəbəkəsi</item>
         <item quantity="one">%d Wi-Fi şəbəkəsi</item>
+        <item quantity="other">%d Wi-Fi şəbəkəsi</item>
     </plurals>
 	<plurals name="display_number_of_devices">
-        <item quantity="other">Yalnız ilk %s güvənilməyən cihaz göstərilir.</item>
         <item quantity="one">Yalnız ilk %s güvənilməyən cihaz göstərilir.</item>
+        <item quantity="other">Yalnız ilk %s güvənilməyən cihaz göstərilir.</item>
     </plurals>
     <plurals name="e2ee_device_verification_num">
-        <item quantity="other">%s doğrulanmamış cihaz</item>
         <item quantity="one">%s doğrulanmamış cihaz</item>
+        <item quantity="other">%s doğrulanmamış cihaz</item>
     </plurals>
     <plurals name="error_retry_hour">
-        <item quantity="other">%s saat</item>
         <item quantity="one">%s saat</item>
+        <item quantity="other">%s saat</item>
     </plurals>
     <plurals name="error_retry_minute">
-        <item quantity="other">%s dəqiqə</item>
         <item quantity="one">%s dəqiqə</item>
+        <item quantity="other">%s dəqiqə</item>
     </plurals>
     <plurals name="error_retry_second">
-        <item quantity="other">%s saniyə</item>
         <item quantity="one">%s saniyə</item>
+        <item quantity="other">%s saniyə</item>
     </plurals>
     <plurals name="error_screen_pwd_next_retry_time">
-        <item quantity="other">%d saniyə ərzində yenidən sınayın</item>
         <item quantity="one">%d saniyə ərzində yenidən sınayın</item>
-    </plurals>
-    <plurals name="gallery_auto_sync_fail_noti_red_title">
-        <item quantity="other">"&lt;font color=#F22424&gt;%s element&lt;/font&gt; sinxronlaşdırıla bilmədi"</item>
-        <item quantity="one">"&lt;font color=#F22424&gt;%s element&lt;/font&gt; sinxronlaşdırıla bilmədi"</item>
+        <item quantity="other">%d saniyə ərzində yenidən sınayın</item>
     </plurals>
     <plurals name="gallery_auto_sync_fail_noti_title">
-        <item quantity="other">"%s element sinxronlaşdırıla bilmədi"</item>
         <item quantity="one">"%s element sinxronlaşdırıla bilmədi"</item>
+        <item quantity="other">"%s element sinxronlaşdırıla bilmədi"</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Yarım saat əvvəl</item>
@@ -134,86 +130,142 @@
         <item quantity="other">Dərhal</item>
     </plurals>
     <plurals name="in_num_minutes">
-        <item quantity="other">%d dəqiqə ərzində</item>
         <item quantity="one">1 dəqiqə ərzində</item>
+        <item quantity="other">%d dəqiqə ərzində</item>
     </plurals>
     <plurals name="items_unsynced">
-        <item quantity="other">Sinxronlaşdırma üçün gözləyən elementlər: %d</item>
         <item quantity="one">Sinxronlaşdırma üçün gözləyən element: %d</item>
+        <item quantity="other">Sinxronlaşdırma üçün gözləyən elementlər: %d</item>
     </plurals>
     <plurals name="last_sync_time_hours_ago">
-        <item quantity="other">%s saat əvvəl</item>
         <item quantity="one">%s saat əvvəl</item>
+        <item quantity="other">%s saat əvvəl</item>
     </plurals>
     <plurals name="last_sync_time_mins_ago">
-        <item quantity="other">%s dəq əvvəl</item>
         <item quantity="one">%s dəq əvvəl</item>
+        <item quantity="other">%s dəq əvvəl</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">İndicə</item>
     </plurals>
     <plurals name="local_lockscreen_error_hint_retry">
-        <item quantity="other">Həddən artıq cəhd. %s saniyə ərzində yenidən sınayın.</item>
         <item quantity="one">Həddən artıq cəhd. %s saniyə ərzində yenidən sınayın.</item>
+        <item quantity="other">Həddən artıq cəhd. %s saniyə ərzində yenidən sınayın.</item>
     </plurals>
     <plurals name="micloud_manual_pause_and_resume">
-        <item quantity="other">Sinxronlaşdırma %d dəqiqəyə davam edəcək</item>
         <item quantity="one">Sinxronlaşdırma %d dəqiqəyə davam edəcək</item>
+        <item quantity="other">Sinxronlaşdırma %d dəqiqəyə davam edəcək</item>
+    </plurals>
+    <plurals name="micloud_preference_family_detail">
+        <item quantity="one">%1$d nəfərlə paylaşıldı. Ailə üzvü %2$s istifadə etdi.</item>
+        <item quantity="other">%1$d nəfərlə paylaşıldı. Ailə üzvü %2$s istifadə etdi.</item>
+    </plurals>
+    <plurals name="micloud_preference_items_count">
+        <item quantity="one">%s element</item>
+        <item quantity="other">%s element</item>
+    </plurals>
+    <plurals name="micloud_preference_photo_detail">
+        <item quantity="one">%1$s foto</item>
+        <item quantity="other">%1$s foto</item>
+    </plurals>
+    <plurals name="micloud_preference_premium_restore_deleted">
+        <item quantity="one">Premium üzvlər, silmə prosesindən sonrakı %d gün ərzində elementləri bərpa edə bilər</item>
+        <item quantity="other">Premium üzvlər, silmə prosesindən sonrakı %d gün ərzində elementləri bərpa edə bilər</item>
+    </plurals>
+    <plurals name="micloud_preference_premium_restore_deleted_1">
+        <item quantity="one">Üzvlüyü olmayan istifadəçilər silinmiş elementləri %d gün ərzində bərpa edə bilər</item>
+        <item quantity="other">Üzvlüyü olmayan istifadəçilər silinmiş elementləri %d gün ərzində bərpa edə bilər</item>
+    </plurals>
+    <plurals name="micloud_preference_premium_restore_deleted_2">
+        <item quantity="one">Mega üzvlər silinmiş elementləri %d gün ərzində bərpa edə bilər</item>
+        <item quantity="other">Mega üzvlər silinmiş elementləri %d gün ərzində bərpa edə bilər</item>
+    </plurals>
+    <plurals name="micloud_preference_premium_restore_deleted_3">
+        <item quantity="one">Ultra üzvlər silinmiş elementləri %d gün ərzində bərpa edə bilər</item>
+        <item quantity="other">Ultra üzvlər silinmiş elementləri %d gün ərzində bərpa edə bilər</item>
+    </plurals>
+    <plurals name="micloud_preference_record_detail">
+        <item quantity="one">%s element</item>
+        <item quantity="other">%s element</item>
+    </plurals>
+    <plurals name="micloud_preference_recover_deleted_data">
+        <item quantity="one">Üzvlər silinmiş elementləri %d gün ərzində bərpa edə bilər</item>
+        <item quantity="other">Üzvlər silinmiş elementləri %d gün ərzində bərpa edə bilər</item>
+    </plurals>
+    <plurals name="micloud_preference_recover_summary">
+        <item quantity="one">Üzvlüyü olmayan istifadəçilər kontaktları %d gün ərzində saxlanılmış istənilən versiyaya bərpa edə bilər</item>
+        <item quantity="other">Üzvlüyü olmayan istifadəçilər kontaktları %d gün ərzində saxlanılmış istənilən versiyaya bərpa edə bilər</item>
+    </plurals>
+    <plurals name="micloud_preference_recover_summary_1">
+        <item quantity="one">Premium üzvlər kontaktları %d gün ərzində saxlanılmış istənilən versiyaya bərpa edə bilər</item>
+        <item quantity="other">Premium üzvlər kontaktları %d gün ərzində saxlanılmış istənilən versiyaya bərpa edə bilər</item>
+    </plurals>
+    <plurals name="micloud_preference_recover_summary_2">
+        <item quantity="one">Mega üzvlər kontaktları %d gün ərzində saxlanılmış istənilən versiyaya bərpa edə bilər</item>
+        <item quantity="other">Mega üzvlər kontaktları %d gün ərzində saxlanılmış istənilən versiyaya bərpa edə bilər</item>
+    </plurals>
+    <plurals name="micloud_preference_recover_summary_3">
+        <item quantity="one">Ultra üzvlər kontaktları %d gün ərzində saxlanılmış istənilən versiyaya bərpa edə bilər</item>
+        <item quantity="other">Ultra üzvlər kontaktları %d gün ərzində saxlanılmış istənilən versiyaya bərpa edə bilər</item>
+    </plurals>
+    <plurals name="micloud_preference_video_detail">
+        <item quantity="one">%1$s video</item>
+        <item quantity="other">%1$s video</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
-        <item quantity="other">%d element seçildi</item>
         <item quantity="one">%d element seçildi</item>
+        <item quantity="other">%d element seçildi</item>
     </plurals>
     <plurals name="miuix_indexer_selected">
         <item quantity="one">%1$d element seçildi</item>
         <item quantity="other">%1$d element seçildi</item>
     </plurals>
 	<plurals name="not_authenticated_devices">
-        <item quantity="other">Cəmi %s güvənilməyən cihazınız var.</item>
         <item quantity="one">Cəmi %s güvənilməyən cihazınız var.</item>
+        <item quantity="other">Cəmi %s güvənilməyən cihazınız var.</item>
     </plurals>
     <plurals name="noti_quota_full_title_with_icon_text">
-        <item quantity="other">"Anbar dolub. &lt;font color=#F22424&gt;%d tətbiq&lt;/font&gt; sinxronlaşdırıla bilmədi."</item>
         <item quantity="one">"Anbar dolub. &lt;font color=#F22424&gt;%d tətbiq&lt;/font&gt; sinxronlaşdırıla bilmədi."</item>
+        <item quantity="other">"Anbar dolub. &lt;font color=#F22424&gt;%d tətbiq&lt;/font&gt; sinxronlaşdırıla bilmədi."</item>
     </plurals>
     <plurals name="num_minutes_ago">
-        <item quantity="other">%d dəqiqə əvvəl</item>
         <item quantity="one">1 dəqiqə əvvəl</item>
+        <item quantity="other">%d dəqiqə əvvəl</item>
     </plurals>
     <plurals name="other_lockscreen_error_hint_retry">
-        <item quantity="other">Həddən artıq cəhd. %d gün ərzində yenidən sınayın.</item>
         <item quantity="one">Həddən artıq cəhd. %d gün ərzində yenidən sınayın.</item>
+        <item quantity="other">Həddən artıq cəhd. %d gün ərzində yenidən sınayın.</item>
     </plurals>
     <plurals name="provision_sync_items_status_off_title">
-        <item quantity="other">"%s element üçün sinxr işə salınmadı"</item>
         <item quantity="one">"%s element üçün sinxr işə salınmadı"</item>
+        <item quantity="other">"%s element üçün sinxr işə salınmadı"</item>
     </plurals>
     <plurals name="provision_sync_items_status_title">
-        <item quantity="other">%s xidmət Xiaomi Cloud ilə sinxronlaşdırılacaq</item>
         <item quantity="one">%s xidmət Xiaomi Cloud ilə sinxronlaşdırılacaq</item>
+        <item quantity="other">%s xidmət Xiaomi Cloud ilə sinxronlaşdırılacaq</item>
     </plurals>
     <plurals name="select_no_more_than">
-        <item quantity="other">"%d elementdən çoxu seçilə bilmir"</item>
         <item quantity="one">"%d elementdən çoxu seçilə bilmir"</item>
+        <item quantity="other">"%d elementdən çoxu seçilə bilmir"</item>
     </plurals>
     <plurals name="share_sdk_invitation_some_people_accepted">
-        <item quantity="other">%d nəfər dəvəti qəbul etdi</item>
         <item quantity="one">%d nəfər dəvəti qəbul etdi</item>
+        <item quantity="other">%d nəfər dəvəti qəbul etdi</item>
     </plurals>
     <plurals name="time_format_day">
-        <item quantity="other">%1$s gün</item>
         <item quantity="one">%1$s gün</item>
+        <item quantity="other">%1$s gün</item>
     </plurals>
     <plurals name="time_format_hour">
-        <item quantity="other">%1$s saat</item>
         <item quantity="one">%1$s saat</item>
+        <item quantity="other">%1$s saat</item>
     </plurals>
     <plurals name="time_format_min">
-        <item quantity="other">%1$s dəq</item>
         <item quantity="one">%1$s dəq</item>
+        <item quantity="other">%1$s dəq</item>
     </plurals>
     <plurals name="verify_open_SMS_dialog_positive_btn_timer">
-        <item quantity="other">Yeni kod göndər (%s s)</item>
         <item quantity="one">Yeni kod göndər (%s s)</item>
+        <item quantity="other">Yeni kod göndər (%s s)</item>
     </plurals>
 </resources>

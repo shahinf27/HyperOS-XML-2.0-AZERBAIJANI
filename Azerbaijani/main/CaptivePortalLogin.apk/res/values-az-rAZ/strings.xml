@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_abort">Geri</string>
+    <string name="action_bar_label">Şəbəkəyə daxil ol</string>
+    <string name="action_bar_title">Daxil ol: %1$s</string>
+    <string name="action_continue">Davam et</string>
+    <string name="action_do_not_use_network">Bu şəbəkə istifadə edilməsin</string>
+    <string name="action_use_network">Bu şəbəkəni istifadə et</string>
+    <string name="app_name">Captive Portal Login</string>
+    <string name="call_notification_answer_action">Cavabla</string>
+    <string name="call_notification_answer_video_action">Görüntülü</string>
+    <string name="call_notification_decline_action">Rədd et</string>
+    <string name="call_notification_hang_up_action">Dəstəyi as</string>
+    <string name="call_notification_incoming_text">Gələn zəng</string>
+    <string name="call_notification_ongoing_text">Davam edən zəng</string>
+    <string name="call_notification_screening_text">Gələn zəngin filtrlənməsi</string>
+    <string name="cancel_pending_downloads">Endirmə ləğv edildi</string>
+    <string name="channel_description_download_progress">Fayl endirmələrinin irəliləyişini göstərən bildirişlər</string>
+    <string name="channel_description_downloads">Tamamlanmış və ya ləğv edilmiş endirmələri göstərən bildirişlər</string>
+    <string name="channel_name_download_progress">Endirmə irəliləyişi</string>
+    <string name="channel_name_downloads">Endirilənlər</string>
+    <string name="custom_scheme_example">Məsələn, giriş səhifəsi, kimlik doğrulama üçün xüsusi bir tətbiq tələb edə bilər</string>
+    <string name="custom_scheme_warning">Qoşulmağa çalışdığınız şəbəkə, başqa bir tətbiqin açılmasını tələb edir.</string>
+    <string name="download_completed">Endirmə tamamlandı</string>
+    <string name="downloading_paramfile">%1$s endirilir</string>
+    <string name="error_continue_via_browser">Yenə də brauzer ilə davam et</string>
+    <string name="error_downloading_paramfile">%1$s endirilə bilmədi</string>
+    <string name="file_too_large_cancel_download">Fayl çox böyükdür, endirmə ləğv edildi.</string>
+    <string name="no_bypass_error_vpnwarning">Əlavə olaraq, bu cihazda bu cihazda VPN işlədiyi üçün bu xətadan yan keçmək mümkün deyil.</string>
+    <string name="ok">Oldu</string>
+    <string name="page_info">Səhifə məlumatı</string>
+    <string name="page_info_address">Ünvan:</string>
+    <string name="ssl_error_date_invalid">Bu sertifikatın yararsız bir tarixi var.</string>
+    <string name="ssl_error_example">Məsələn, giriş səhifəsi, göstərilən təşkilata aid olmaya bilər.</string>
+    <string name="ssl_error_expired">Bu sertifikatın vaxtı bitib.</string>
+    <string name="ssl_error_invalid">Bu sertifikat yararsızdır.</string>
+    <string name="ssl_error_mismatch">"Bu sertifikatın adı, sertifikatdakı adla uyuşmur."</string>
+    <string name="ssl_error_not_yet_valid">"Bu sertifikat hələ yararlı deyil."</string>
+    <string name="ssl_error_unknown">Bilinməyən sertifikat xətası.</string>
+    <string name="ssl_error_untrusted">"Bu sertifikat güvənli orqandan gəlmir."</string>
+    <string name="ssl_error_view_certificate">Sertifikata bax</string>
+    <string name="ssl_error_warning">Qoşulmağa çalışdığınız şəbəkənin güvənlik problemləri var.</string>
+    <string name="ssl_security_warning_title">Güvənlik xəbərdarlığı</string>
+</resources>

@@ -130,8 +130,9 @@
     <string name="cancel_moving_dialog_message">Daxilə köçürmə indi dayandırlsın?</string>
     <string name="cancel_moving_dialog_title">Daxilə köçürməni dayandır</string>
     <string name="cancel_restore">Dayandır</string>
-	<string name="cannot_use_backup_summary">Mi Mover artıq elementləri köçürür. Hazırkı köçürmə bitənə qədər gözləyin və nüsxələməni yenidən başladın.</string>
+	<string name="cannot_use_backup_summary">Nüsxələmə xidmətləri hazırda %s tərəfindən istifadə edilir. Verilərin köçürülməsi tamamlandıqdan sonra yenidən sınayın.</string>
 	<string name="cannot_use_backup_title">"Nüsxələnə bilmir"</string>
+    <string name="cannot_use_mi_backup_summary">Sistem nüsxələmə xidməti hazırda məşğuldur. Bitməsini gözləyin, sonra yenidən sınayın və ya cihazınızı yenidən başladın.</string>
     <string name="category_contacts">Kontaktlar</string>
     <string name="category_message_contacts">Mesajlaşma və Kontaktlar</string>
     <string name="check_privacy_policy">Gizlilik Siyasətinə bax</string>

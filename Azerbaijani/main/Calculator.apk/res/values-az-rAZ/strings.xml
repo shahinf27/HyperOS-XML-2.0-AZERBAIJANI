@@ -335,6 +335,9 @@ Bir illik və beş illik LPR-lər hər ayın 20-də (bank tətilləri ilə əlaq
 	<string name="pad_handwritten_floating_button_text">Əl yazısını hesablama düyməsi</string>
     <string name="percent"></string>
     <string name="percentDesc">faiz</string>
+    <string name="percentage_formula">100+50%</string>
+    <string name="percentage_key1">=100.5</string>
+    <string name="percentage_key2">=150</string>
     <string name="permission_location_desc_miui12">Yerləşmənizə görə vergi və ipoteka dərəcələrini istifadə etmək üçün</string>
     <string name="permission_location_miui12">Yerləşməyə erişim</string>
     <string name="permission_option_desc_miui12">"Əlavə özəllikləri istifadə edərkən bu icazələr tələb olunur."</string>
@@ -362,10 +365,10 @@ Bir illik və beş illik LPR-lər hər ayın 20-də (bank tətilləri ilə əlaq
     <string name="preference_has_allowed">İcazə verildi</string>
     <string name="preference_not_allowance">İcazə verilmədi</string>
 	 <string name="preference_percentage">Faizlə toplama və çıxma alqoritmi</string>
-    <string name="preference_percentage_numericalvalue">Rəqəmsal dəyərlə hesabla</string>
-    <string name="preference_percentage_numericalvalue_comments">Faizləri onluq formata çevirin, toplama və çıxma hesablamalarını yerinə yetirin.</string>
-    <string name="preference_percentage_proportion">nisbətə görə</string>
-    <string name="preference_percentage_proportion_comments">Faizin əvvəlki hesablama nəticəsi ilə vurulması, sonra onun toplanması və ya çıxılması adətən endirimləri hesablamaq üçün istifadə olunur.</string>
+    <string name="preference_percentage_numericalvalue">Dəyərə görə</string>
+    <string name="preference_percentage_numericalvalue_comments">Faizləri onluq formata çevirin, sonra toplayın və ya çıxın.</string>
+    <string name="preference_percentage_proportion">Nisbətə görə</string>
+    <string name="preference_percentage_proportion_comments">Əvvəlcə faizi əvvəlki nəticəyə tətbiq edin, sonra toplayın və ya çıxın — endirimlər üçün mükəmməldir.</string>
     <string name="preference_permission_info">İcazə detalları</string>
     <string name="preference_privacy_setting">Gizlilik</string>
     <string name="preference_privacy_title">Gizlilik Siyasəti</string>
