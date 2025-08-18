@@ -38,7 +38,7 @@
     <string name="account_secure_info_pref_title">Hesab məlumatları</string>
     <string name="account_security_info_pref_title">Güvənlik məlumatları</string>
     <string name="account_user_avatar">Profil fotosu</string>
-    <string name="account_user_avatar_from_album">Qalereya</string>
+    <string name="account_user_avatar_from_album">Qalereyadan seç</string>
     <string name="account_user_avatar_from_camera">Kamera</string>
     <string name="account_user_base_info">Təməl məlumatlar</string>
     <string name="account_user_details">Şəxsi məlumatlar</string>
@@ -694,6 +694,7 @@ E-poçt: service.jp@xiaomi.com"</string>
     <string name="passport_access_denied">Erişim rədd edildi</string>
     <string name="passport_account_name">"Hesab: %1$s "</string>
     <string name="passport_area_code_title">Ərazi kodu</string>
+    <string name="passport_attention">Diqqət</string>
     <string name="passport_auth_title"></string>
     <string name="passport_bad_authentication">Yararsız istifadəçi adı və ya parol</string>
     <string name="passport_can_not_recevie_verify_code">"Kodu almadınız?"</string>
@@ -738,6 +739,7 @@ E-poçt: service.jp@xiaomi.com"</string>
     <string name="passport_error_user_password">"Parollar uyuşmur"</string>
     <string name="passport_get_login_type_next">Növbəti</string>
     <string name="passport_header_back">Geri</string>
+    <string name="passport_i_know">Anladım</string>
     <string name="passport_identification_expired">Doğrulama kodunun müddəti bitdi. Başdan başlat.</string>
     <string name="passport_input_captcha_hint">Kodu daxil edin</string>
     <string name="passport_input_password_hint">Parolu daxil edin</string>
@@ -760,6 +762,7 @@ E-poçt: service.jp@xiaomi.com"</string>
     <string name="passport_reging">Hesab yaradılır…</string>
     <string name="passport_register_restricted">Bu nömrə ilə həddən artıq hesab əlaqələndirilib. Fərqli bir nömrə ilə sınayın.</string>
     <string name="passport_relogin_notice">Yenidən daxil olmağınız lazımdır</string>
+    <string name="passport_request_permission_title">İcazələr tələb olunur</string>
     <string name="passport_resend_ticket">Kodu yenidən göndər</string>
     <string name="passport_retry">Yenidən sına</string>
     <string name="passport_send_sms_to">Kod göndərildi: %1$s</string>
@@ -771,6 +774,7 @@ E-poçt: service.jp@xiaomi.com"</string>
     <string name="passport_talkback_switch_image_captcha">Şəkil doğrulama koduna keç</string>
     <string name="passport_talkback_switch_voice_captcha">Səsli doğrulama koduna keç</string>
     <string name="passport_talkback_voice_captcha">Səsli doğrulama kodunu oxut</string>
+    <string name="passport_third_sns_service_unavailable">"Xidmət əlçatan deyil. Tətbiqin quraşdırıldığına və əngəllənmədiyinə əmin olun."</string>
     <string name="passport_ticket_send_by_second">%d sonra göndər</string>
     <string name="passport_to_forget_password">Parolu unutmusunuz?</string>
     <string name="passport_to_password_login">Parol istifadə edərək daxil ol</string>
@@ -847,7 +851,7 @@ Davam etməzdən əvvəl %3$s üçün yeni versiyanı oxuyun və razılaşın."<
     <string name="request_error_invalid_token">"Doğrulana bilmədi"</string>
     <string name="request_error_network">Bir şəbəkə xətası baş verdi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın.</string>
     <string name="request_error_unknown">Sistem xətası baş verdi. Geri qayıdın və yenidən sınayın.</string>
-    <string name="request_gallery_permission_message">Qalereyaya erişimə icazə verin:&lt;br /&gt;Profil fotosunu ayarlamaq üçün</string>
+    <string name="request_gallery_permission_message">Profil fotosunu təyin edə bilmək üçün bu tətbiqin seçilmiş Qalereya elementlərinə erişməsi lazımdır. İndi icazə verilsin?</string>
     <string name="resend_active_email">Təkrar göndər</string>
     <string name="resend_email_reach_limit_message">"Həddən artıq doğrulama e-poçtu tələb etdiniz. Doğrulama e-poçtunun gələn qutunuzun Spam qovluğunda olmadığına əmin olun."</string>
     <string name="resend_email_reach_limit_title">Həddən artıq çox cəhd</string>

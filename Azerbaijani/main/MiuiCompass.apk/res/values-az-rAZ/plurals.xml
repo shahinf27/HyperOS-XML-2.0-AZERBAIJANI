@@ -10,15 +10,19 @@
         <item quantity="other">Dərhal</item>
     </plurals>
     <plurals name="in_num_minutes">
-        <item quantity="other">%d dəqiqə ərzində</item>
         <item quantity="one">1 dəqiqə ərzində</item>
+        <item quantity="other">%d dəqiqə ərzində</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
-        <item quantity="other">%d element seçildi</item>
         <item quantity="one">%d element seçildi</item>
+        <item quantity="other">%d element seçildi</item>
+    </plurals>
+    <plurals name="miuix_indexer_selected">
+        <item quantity="one">%1$d element seçildi</item>
+        <item quantity="other">%1$d element seçildi</item>
     </plurals>
     <plurals name="total_pages">
-        <item quantity="other">Cəmi %d səhifə</item>
         <item quantity="one">Cəmi %d səhifə</item>
+        <item quantity="other">Cəmi %d səhifə</item>
     </plurals>
 </resources>

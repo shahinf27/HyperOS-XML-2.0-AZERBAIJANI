@@ -17,6 +17,10 @@
     <string name="abc_shareactionprovider_share_with">Paylaş</string>
     <string name="abc_shareactionprovider_share_with_application">%s ilə paylaş</string>
     <string name="abc_toolbar_collapse_description">Yığcamlaşdır</string>
+    <string name="accessibility_sliding_button_state_description_off">Söndürüldü</string>
+    <string name="accessibility_sliding_button_state_description_on">İşə salındı</string>
+    <string name="accessibility_tab_state_description_unselect">Seçilmədi</string>
+    <string name="accessibility_tab_statedesc_unselect">Seçilmədi</string>
     <string name="across_device_file_temp_name">Kopyalanan fayllar</string>
     <string name="across_device_image_temp_name">Kopyalanan təsvirlər</string>
     <string name="across_device_videos_temp_name">Kopyalanan videolar</string>
@@ -36,7 +40,7 @@
     <string name="clearable_edittext_clear_description">Təmizlə</string>
     <string name="clipboard_sync_phrase_cta_description">Lövhəni və çox işlədilən ifadələri istifadə edərək tez-tez istifadə etdiyiniz ifadələri əlavə edə, çoxlu elementləri kopyalaya və onları cihazlarınız arasında yapışdıra bilərsiniz.</string>
     <string name="clipboard_sync_phrase_cta_label">Lövhə və çox işlədilən ifadələr</string>
-    <string name="clipboard_sync_phrase_cta_perm_desc">Cihazınızdakı fotolara, mediaya və fayllara müraciət etmək üçün</string>
+    <string name="clipboard_sync_phrase_cta_perm_desc">Cihazınızdakı fotolara, mediaya və fayllara erişmək üçün</string>
     <string name="close">Bağla</string>
     <string name="close_clipboard">Lövhəni gizlət</string>
     <string name="date_picker_label_day"></string>
@@ -102,7 +106,11 @@
     <string name="menu_edit">Düzəliş et</string>
     <string name="midnight">Gecə</string>
     <string name="miuix_access_state_desc">Seçildi</string>
+    <string name="miuix_accessibility_title">Başlıq</string>
     <string name="miuix_alphabet_indexer_name">İndeks çubuğu</string>
+    <string name="miuix_appcompat_accessibility_finish_edit_action_mode">Düzəliş rejimindən çıx</string>
+    <string name="miuix_appcompat_accessibility_new_message">Yeni bildiriş</string>
+    <string name="miuix_appcompat_accessibility_start_edit_action_mode">Düzəliş rejiminə daxil ol</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Heç birini seçmə</string>
     <string name="miuix_appcompat_action_mode_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_action_mode_title_empty">Elementləri seç</string>
@@ -118,8 +126,10 @@
     <string name="miuix_appcompat_select_all">Hamısını seç</string>
     <string name="miuix_appcompat_select_all_description">Hamısını seç</string>
     <string name="miuix_appcompat_select_item">Elementləri seç</string>
+	<string name="miuix_appcompat_show_dialog_description">Açılan pəncərə</string>
     <string name="miuix_indexer_collect">Kolleksiyalar</string>
     <string name="miuix_indexer_selected">%s seçildi</string>
+    <string name="miuix_progressbar_loading">Yüklənir</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Təzələmək üçün aşağı çək</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Uğurla təzələndi</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Təzələnir…</string>
@@ -128,6 +138,7 @@
     <string name="miuix_sbl_tracking_progress_labe_up_none">"İndilik bu qədər"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Bir saniyə…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Elementlər yüklənə bilmədi"</string>
+    <string name="miuix_show_password">Parolu göstər</string>
     <string name="monday">Bazar ertəsi</string>
     <string name="monday_short">B.e.</string>
     <string name="monday_shortest">B.e.</string>
@@ -173,6 +184,9 @@
     <string name="noon">Günorta</string>
     <string name="open_the_taobao_password">Taobao keçidini aç</string>
     <string name="open_the_url">URL-ni aç</string>
+    <string name="phrase_edit_cancel_select_all_button">Heç birini seçmə</string>
+    <string name="phrase_edit_select_all_button">Hamısını seç</string>
+    <string name="phrase_edit_select_all_cancel_button">İmtina</string>
     <string name="phrase_network_tip_summary">Çox işlətdiyiniz ifadələri buludla sinxronlaşdıra və cihazlarınız arasında istifadə edə bilmək üçün bu tətbiqin internetə bağlanmasına icazə verin.</string>
     <string name="pm">GS</string>
     <string name="saturday">Şənbə</string>
@@ -212,6 +226,7 @@
     <string name="super_clipboard_send_file">Fayl lövhədən yapışdırılsın?</string>
     <string name="super_clipboard_send_image">Təsvir lövhədən yapışdırılsın?</string>
     <string name="sync_phrase_label">Çox işlədilən ifadələr</string>
+    <string name="text_input_layout_default_error">Bu, ilkin xətadır</string>
     <string name="the_anniversary_of_lifting_martial_law">Hərbi Vəziyyətin Qaldırılma İldönümü</string>
     <string name="the_anti_aggression_day">Təcavüzlə Mübarizə Günü</string>
     <string name="the_arbor_day">Ağacəkmə Günü</string>

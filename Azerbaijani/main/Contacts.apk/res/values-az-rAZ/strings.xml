@@ -135,7 +135,7 @@
     <string name="bh_goto_set">Ayarla</string>
     <string name="bh_i_got_it">Anladım</string>
     <string name="bh_input_hint">Telefon nömrəsi daxil edin</string>
-    <string name="bh_input_total_limit">Data miqdarı daxil edin</string>
+    <string name="bh_input_total_limit">Veri miqdarını daxil edin</string>
     <string name="bh_insert_card_number">SIM %1$d telefon nömrəsini əlavə et</string>
     <string name="bh_is_open">İcazə verildi</string>
     <string name="bh_just_now">İndicə</string>
@@ -319,7 +319,7 @@
     <string name="callrecordview_menu_delete_sim">Zəng tarixçəsi səsyazmalarını təmizlə (%s)</string>
     <string name="callrecordview_menu_delete_stranger">Bilinməyən nömrələri təmizlə</string>
     <string name="callrecordview_menu_identify_numbers">Telefon nömrələrini müəyyənləşdir</string>
-    <string name="callrecordview_menu_mobiledata">Mobil internet al</string>
+    <string name="callrecordview_menu_mobiledata">Mobil veri al</string>
     <string name="callrecordview_menu_recharge">Artır</string>
     <string name="callrecordview_menu_settings">Ayarlar</string>
     <string name="callrecordview_menu_show_accepted">Cavablanan zənglər</string>
@@ -362,7 +362,7 @@
     <string name="combined_title_and_miprofile_swaped_huge_mode">"%1$s
 %2$s"</string>
     <string name="comma">Vergül</string>
-    <string name="composer_failed_to_get_database_infomation">"Data bazası məlumatları alına bilmədi."</string>
+    <string name="composer_failed_to_get_database_infomation">"Veri bazası məlumatları alına bilmədi."</string>
     <string name="composer_has_no_exportable_contact">Xaricə köçürülə biləcək kontakt yoxdur. Əgər cihazınızda kontaktlar varsa, bəzi şəbəkə provayderləri kontaktların cihazınızdan xaricə köçürülməsinə icazə verməyə bilər.</string>
     <string name="composer_not_initialized">"vCard tərtibatçısı düzgün başladılmadı."</string>
     <string name="conference_call_disable_tip">"Zəng edilə bilmir. Cihazınızın VoLTE dəstəyi ilə 4G şəbəkəsinə bağlandığına əmin olun."</string>
@@ -586,11 +586,11 @@ Mi Roaming, normal işləməsi üçün internetə bağlanmalı və yerləşmə m
     <string name="export_to_sim2">SIM kart 2-yə köçür</string>
     <string name="export_to_sim_prepare_title">Hazırlanır…</string>
     <string name="export_to_sim_title">Xaricə köçürülür…</string>
-    <string name="exporting_contact_failed_message">"Kontakt datası xaricə köçürülmədi.
+    <string name="exporting_contact_failed_message">"Kontakt veriləri xaricə köçürülmədi.
 Səbəb: \"%s\""</string>
     <string name="exporting_contact_failed_title">"Xaricə köçürülə bilmədi"</string>
     <string name="exporting_contact_list_message">Bura köçürülür: %s.</string>
-    <string name="exporting_contact_list_title">Kontakt datası xaricə köçürülür</string>
+    <string name="exporting_contact_list_title">Kontakt veriləri xaricə köçürülür</string>
     <string name="exporting_vcard_canceled_title">%s - xaricə köçürmə ləğv edildi.</string>
     <string name="exporting_vcard_finished_title">%s - xaricə köçürmə bitdi.</string>
     <string name="external_profile_title">%1$s profilim</string>
@@ -760,6 +760,7 @@ Səbəb: \"%s\""</string>
     <string name="miprofile_nick_name_divider">"  |  "</string>
     <string name="miprofile_notice_close">Bağla</string>
     <string name="miprofile_switch_off_alertdialog_message">"Kontakt kartlarını digər şəxslərlə mübadilə edə bilməyəcəksiniz."</string>
+    <string name="missed_call">Buraxılmış zəng</string>
     <string name="missing_name">(Ad yoxdur)</string>
     <string name="missing_required_permission">Lazımi bir icazəni sıradan çıxartdınız.</string>
     <string name="miuix_access_state_desc">Seçildi</string>
@@ -949,7 +950,7 @@ Səbəb: \"%s\""</string>
     <string name="permission_retry_dialog_msg">SIM kartınızı bu tətbiqlə istifadə edə bilmək, Əsas ekran qısayolları vasitəsilə zənglər edə bilmək, kontaktlarınızı idarə edə bilmək və zəng tarixçəsini güncəl saxlaya bilmək üçün bu tətbiqin kontaktlarınıza və zəng tarixçənizə erişməsinə və düzəliş etməsinə, zəng etməsinə və cihaz məlumatlarına erişməsinə icazə verin.</string>
     <string name="permission_retry_dialog_msg_pad">SIM kartınızı bu tətbiqlə istifadə edə və kontaktlarınızı idarə edə bilmək üçün bu tətbiqin kontaktlarınıza erişməsinə və düzəliş etməsinə, həmçinin cihaz məlumatlarına erişməsinə icazə verin.</string>
     <string name="permission_retry_setting">Ayarlar</string>
-    <string name="permission_write_external_storage_desc">Tətbiq datasını saxlamaq üçün</string>
+    <string name="permission_write_external_storage_desc">Tətbiq verilərini saxlamaq üçün</string>
     <string name="phoneLabelsGroup">Telefon</string>
     <string name="phone_number_too_long_toast">Nömrə çox uzundur</string>
     <string name="phone_primary">Əsas</string>
@@ -978,7 +979,7 @@ Səbəb: \"%s\""</string>
     <string name="postal_street">Küçə</string>
     <string name="pref_key_photo_word_title">Kontakt fotolarını təyin et</string>
     <string name="pref_key_rebuild_t9_index_message">Axtarış problemlərini həll etmək üçün indeksi yenidən qur</string>
-    <string name="pref_key_rebuild_t9_index_title">İndeks datasını yenidən qur</string>
+    <string name="pref_key_rebuild_t9_index_title">İndeks verilərini yenidən qur</string>
     <string name="pref_key_sdn_manage">SDN göstər</string>
     <string name="pref_key_sdn_manage1">SDN kart 1-ə bax</string>
     <string name="pref_key_sdn_manage2">SDN kart 2-yə bax</string>
@@ -1077,7 +1078,7 @@ Səbəb: \"%s\""</string>
     <string name="quit_dialog_confirm_message">"Heç bir kontaktı birləşdirmədiniz"</string>
     <string name="quit_dialog_confirm_title">Kontaktların birləşdirilməsini ləğv et</string>
     <string name="readingSimContacts">SIM kart oxunur…</string>
-    <string name="reading_vcard_failed_title">"vCard datası oxuna bilmədi"</string>
+    <string name="reading_vcard_failed_title">"vCard veriləri oxuna bilmədi"</string>
     <string name="rebuild_t9_index_dialog_message">Yenidən qurulur…</string>
     <string name="recentCallsIconLabel">Zəng jurnalı</string>
     <string name="recent_contacts_label">Sonuncular</string>
@@ -1117,7 +1118,7 @@ Səbəb: \"%s\""</string>
     <string name="savingContact">Kontakt saxlanılır…</string>
     <string name="savingDisplayGroups">Görüntüləmə seçimləri saxlanılır…</string>
     <string name="scan_business_card">Vizit kartı skan et</string>
-    <string name="scan_bussiness_card_merge_tip">Ziddiyətli data dəyişdirildi</string>
+    <string name="scan_bussiness_card_merge_tip">Ziddiyətli verilər dəyişdirildi</string>
     <string name="scan_merge">Dublikat kontaktlar axtarılır…</string>
     <string name="scan_not_installed_china">Əvvəlcə Mi AI Skaneri quraşdırın</string>
 	<string name="scan_not_installed_china_ai">Bu özəlliyi istifadə edə bilmək üçün AI Skaneri quraşdırın</string>
@@ -1132,7 +1133,7 @@ Səbəb: \"%s\""</string>
     <string name="search_menu_title">Axtar</string>
     <string name="search_results_searching">Axtarılır…</string>
     <string name="search_settings_description">Kontaktlarınızın adları</string>
-    <string name="searching_vcard_message">Cihazdakı vCard datası axtarılır…</string>
+    <string name="searching_vcard_message">Cihazdakı vCard veriləri axtarılır…</string>
 	<string name="seconds">saniyə</string>
     <string name="select_all">Hamısını seç</string>
     <string name="select_groups">Qrupları seç</string>
@@ -1381,7 +1382,7 @@ Aşağıdakı variantlardan birini seçin:"</string>
     <string name="wednesday_short">Çər</string>
     <string name="wednesday_shortest">Çər</string>
     <string name="wifi_pad_disable_phone">"Bu cihazda zəng edilə bilmir"</string>
-    <string name="wipe_data">Datanı təmizlə</string>
+    <string name="wipe_data">Veriləri təmizlə</string>
     <string name="yellowPageNavigationLabel">Sarı səhifələr</string>
     <string name="yellowpage_address_tag">Ünvan</string>
     <string name="yellowpage_provider_label">Zəng edən/Göndərən kimliyinin tanınması üçün texniki dəstək</string>
