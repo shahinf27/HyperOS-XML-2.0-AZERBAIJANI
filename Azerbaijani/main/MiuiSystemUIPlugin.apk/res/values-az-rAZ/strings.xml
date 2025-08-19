@@ -32,7 +32,6 @@
     <string name="accessibility_detail_switch_off">Söndür</string>
     <string name="accessibility_detail_switch_on">İşə sal</string>
     <string name="accessibility_expand_button">Daha çox göstər</string>
-	<string name="accessibility_long_action_text">Ayarlamaq üçün cüt toxunub basılı tutun</string>
     <string name="accessibility_menu">Menyu</string>
     <string name="accessibility_qs_edit_position_label">Mövqe %1$d. Seçmək üçün toxunun.</string>
     <string name="accessibility_qs_edit_tile_added">%1$s, %2$d mövqeyinə əlavə edildi</string>
@@ -104,7 +103,7 @@
     <string name="controls_favorite_other_zone_header">Digər</string>
     <string name="controls_favorite_rearrange">Daşımaq üçün bir kontrolu basılı tutun və sürükləyin</string>
     <string name="controls_favorite_removed">Bütün kontrollar silindi</string>
-    <string name="controls_favorite_subtitle">Güc menyusundan müraciət etmək üçün kontrolları seçin</string>
+    <string name="controls_favorite_subtitle">Güc menyusundan erişmək üçün kontrolları seçin</string>
     <string name="controls_favorite_toast_no_changes">Dəyişikliklər saxlanılmadı</string>
     <string name="controls_loading_device">Yerlər dəyişdirilir…</string>
     <string name="controls_menu_add">Kontrol əlavə et</string>
@@ -152,6 +151,7 @@
     <string name="flashlight_button_close">Fənər düyməsi, hazırda yanılıdır</string>
     <string name="flashlight_button_open">Fənəri düyməsi, hazırda sönülüdür</string>
     <string name="flashlight_not_available">"Kamera istifadə edilərkən fənər istifadə edilə bilmir"</string>
+    <string name="flashlight_notification_btn_close">Söndür</string>
     <string name="flashlight_notification_button">Fənər açarı</string>
     <string name="flashlight_notification_channel_name">Fənər statusu</string>
     <string name="flashlight_notification_content_text">Fənər yanır</string>
@@ -394,7 +394,7 @@ Xiaomi olmayan qulaqlıq istifadəçiləri: qulaqlıqlarınızı Bluetooth ayarl
     <string name="qs_control_customize_save_text">Hazırdır</string>
     <string name="qs_control_customize_sub_title">Yenidən düzmək üçün əlavə edilən keçidləri sürükləyin</string>
     <string name="qs_control_customize_title">Keçidlər əlavə edildi</string>
-    <string name="qs_control_expand_detail_title">Datalarım</string>
+    <string name="qs_control_expand_detail_title">Verilərim</string>
     <string name="qs_control_header_tiles_title">İdarəetmə mərkəzi</string>
     <string name="qs_customize_divider_label_packages_tiles_text">Tətbiq keçidləri</string>
     <string name="qs_customize_divider_label_system_tiles_text">Sistem keçidləri</string>
@@ -429,6 +429,7 @@ Xiaomi olmayan qulaqlıq istifadəçiləri: qulaqlıqlarınızı Bluetooth ayarl
     <string name="qs_flip_tiles_stock">bt,airplane,mute,flashlight,batterysaver,rotation,screenlock,screenshot,custom(com.miui.screenrecorder/.service.QuickService),gps,autobrightness,papermode,quietmode,vibrate,nfc,hotspot,night</string>
     <string name="qs_flip_tiles_stock_global">bt,airplane,mute,flashlight,batterysaver,rotation,screenlock,screenshot,custom(com.miui.screenrecorder/.service.QuickService),gps,autobrightness,papermode,quietmode,vibrate,nfc,hotspot,night</string>
     <string name="qs_item_drag">Sürükləmə</string>
+    <string name="qs_item_drag_and_sort">Yenidən düzmək üçün sürüklə</string>
     <string name="qs_open_night_mode_alert_summary">"Bəzi ekran ayarları Qaranlıq rejimlə uyumlu deyil. Ekran ayarları, Qaranlıq rejimi söndürdükdən sonra bərpa olunacaq."</string>
     <string name="qs_position_hint">%1$d sətrinə və %2$d sütununa yerləşdirildi</string>
 	<string name="quick_controls_subtitle">Bağlantılı cihazlarınız üçün kontrollar əlavə edin</string>
@@ -441,12 +442,12 @@ Xiaomi olmayan qulaqlıq istifadəçiləri: qulaqlıqlarınızı Bluetooth ayarl
     <string name="quick_settings_bluetooth_detail_empty_text">Cütləşmiş cihaz yoxdur</string>
     <string name="quick_settings_camera_grip_charge">Tutacaq vasitəsilə doldur</string>
     <string name="quick_settings_carsickness">Hərəkət xəstəliyi rahatlığı</string>
-	<string name="quick_settings_cellular_detail_dialog_message_turnoff">Mobil internet (WCDMA/LTE) söndürüləcək. Wi-Fi istifadə etməsəniz, internet bağlantısı tələb edən tətbiqləri istifadə edə bilməyəcəksiniz. Multimedia mesajlarının göndərilməsi və ya alınması məhdudlaşdırılacaq.</string>
-    <string name="quick_settings_cellular_detail_dialog_message_turnon">Mobil internet açılacaq. Mobil şəbəkələrə bağlanmaq, ödəniş planınızdan asılı olaraq əlavə ödənişlərlə nəticələnə bilər.</string>
+	<string name="quick_settings_cellular_detail_dialog_message_turnoff">Mobil veri (WCDMA/LTE) söndürüləcək. Wi-Fi istifadə etməsəniz, internet bağlantısı tələb edən tətbiqləri istifadə edə bilməyəcəksiniz. Multimedia mesajlarının göndərilməsi və ya alınması məhdudlaşdırılacaq.</string>
+    <string name="quick_settings_cellular_detail_dialog_message_turnon">Mobil veri açılacaq. Mobil şəbəkələrə bağlanmaq, ödəniş planınızdan asılı olaraq əlavə ödənişlərlə nəticələnə bilər.</string>
     <string name="quick_settings_cellular_detail_dialog_negative_button_cancel">İmtina</string>
     <string name="quick_settings_cellular_detail_dialog_positive_button_ok">Oldu</string>
     <string name="quick_settings_cellular_detail_dialog_positive_button_turnoff">Söndür</string>
-    <string name="quick_settings_cellular_detail_title">Mobil internet</string>
+    <string name="quick_settings_cellular_detail_title">Mobil veri</string>
     <string name="quick_settings_cellular_detail_unable_change">"Zəng zamanı ayarlana bilmir"</string>
     <string name="quick_settings_drivemode_label">Avtomobil rejimi</string>
     <string name="quick_settings_edit_label">Düzəliş et</string>
@@ -488,6 +489,7 @@ Xiaomi olmayan qulaqlıq istifadəçiləri: qulaqlıqlarınızı Bluetooth ayarl
     <string name="recovery">Geri qaytarma</string>
     <string name="reset">Sıfırla</string>
     <string name="restart">Yenidən başlat</string>
+    <string name="restart_hint">Cihazınızı zorla yenidən başlatmaq üçün Güc düyməsini %d saniyə basılı tutun</string>
     <string name="safe_media_volume_warning">"Həcm tövsiyə olunan səviyyədən yuxarı artırılsın?
 
 Yüksək səslərə uzun müddət məruz qalmaq eşitmə problemlərinə səbəb ola bilər."</string>
@@ -610,6 +612,14 @@ Yüksək səslərə uzun müddət məruz qalmaq eşitmə problemlərinə səbəb
     <string name="volume_adjust_panel_title">Həcm ayarlama paneli</string>
     <string name="volume_dialog_accessibility_dismissed_message">Həcm kontrolları gizlədildi</string>
     <string name="volume_dialog_accessibility_shown_message">%s həcm kontrolları göstərilir. Bağlamaq üçün yuxarı sürüşdürün.</string>
+    <string name="volume_dialog_shown_accessibility_talkback">Erişiləbilənlik həcmi %1$s olaraq təyin edildi</string>
+    <string name="volume_dialog_shown_alarm_talkback">Zəngli saatın həcmi %1$s olaraq təyin edildi</string>
+    <string name="volume_dialog_shown_call_talkback">Zəngin həcmi %1$s olaraq təyin edildi</string>
+    <string name="volume_dialog_shown_music_talkback">Musiqinin həcmi %1$s olaraq təyin edildi</string>
+    <string name="volume_dialog_shown_notification_talkback">Bildiriş həcmi %1$s olaraq təyin edildi</string>
+    <string name="volume_dialog_shown_ring_tone_talkback">Zəng səsi həcmi %1$s olaraq təyin edildi</string>
+    <string name="volume_dialog_shown_unknown_talkback">Həcm %1$s olaraq təyin edildi</string>
+    <string name="volume_dialog_shown_voice_assistant_talkback">Səsli köməkçinin həcmi %1$s olaraq təyin edildi</string>
     <string name="wednesday">Çərşənbə</string>
     <string name="wednesday_short">Çər</string>
     <string name="wednesday_shortest">Çər</string>
@@ -628,6 +638,6 @@ Yüksək səslərə uzun müddət məruz qalmaq eşitmə problemlərinə səbəb
     <string name="wireless_charging_tips_sub_message">Digər cihaz Qi naqilsiz doldurma standartını dəstəkləməlidir.</string>
     <string name="wireless_charging_tips_title">Tərsinə naqilsiz doldurma</string>
     <string name="wordless_mode_subtitle_text">İdarəetmə mərkəzindəki ikon etiketlərini göstərmək üçün işə sal</string>
-    <string name="wordless_mode_title_text">İkon etiketlərini göstər</string>
+    <string name="wordless_mode_title_text">İkon etiketlərini İdarəetmə mərkəzində göstər</string>
 	<string name="yesterday">Dünən</string>
 </resources>

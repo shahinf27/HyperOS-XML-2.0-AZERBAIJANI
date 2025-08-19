@@ -1791,6 +1791,8 @@ Daha sonra yenidən sınayın"</string>
     <string name="sign_in_google_account">Google ilə daxil olun</string>
     <string name="sign_in_google_account_hint">"Bəyənəcəyiniz daha çox videoya baxmaq üçün Google hesabınıza daxil olun"</string>
     <string name="sign_in_mi_account">Xiaomi Hesabı ilə daxil olun</string>
+    <string name="similar_recommendations">Oxşar videolara bax</string>
+    <string name="similar_recommendations_title">Oxşar videolar</string>
     <string name="skip_ad">Ötür</string>
     <string name="slid_fail_message">"Saxlanıla bilmədi"</string>
     <string name="slide_or_click_to_open_ad">Daha ətraflı öyrənmək üçün sürüşdür və ya toxun</string>

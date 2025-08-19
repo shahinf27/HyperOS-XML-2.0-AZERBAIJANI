@@ -113,6 +113,10 @@ Yeniləməyinizə kömək etməyimizi istəyirsiniz?"</item>
         <item quantity="one">%d gün əvvəl</item>
         <item quantity="other">%d gün əvvəl</item>
     </plurals>
+    <plurals name="delete_dialog_tips">
+        <item quantity="one">Elementlər həmişəlik silinib. Yenə də %d mahnı silinsin?</item>
+        <item quantity="other">Elementlər həmişəlik silinib. Yenə də %d mahnı silinsin?</item>
+    </plurals>
     <plurals name="dialog_confirm_delete_downloads_message">
         <item quantity="one">%d element silinsin?</item>
         <item quantity="other">%d element silinsin?</item>

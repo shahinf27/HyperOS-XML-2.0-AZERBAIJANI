@@ -107,6 +107,7 @@ Yenidən sınayın."</string>
     <string name="batch_deleting_message_progress_message">Silinir…</string>
     <string name="batch_deleting_progress_message">Silinir…</string>
     <string name="bcc_label">"Kopya: "</string>
+    <string name="beidou_audio_not_support_multi_recipient">"Səsli mesajlar çoxlu alıcılara indi göndərilə bilmir"</string>
     <string name="beidou_cannot_receive_airmode">Mesajları almaq üçün Təyyarə rejimini söndür</string>
     <string name="beidou_cannot_send_mms">"BeiDou peyk rabitəsi MMS-i dəstəkləmir"</string>
     <string name="beidou_cannot_use">Tiantong peyk rabitəsini söndürüb yenidən sınayın</string>
@@ -115,6 +116,7 @@ Yenidən sınayın."</string>
     <string name="beidou_from_contacts">%s cavabı</string>
     <string name="beidou_identification_fail_receive">"Kimlik doğrulana bilmədi. BeiDou vasitəsilə mesaj alına bilmir."</string>
     <string name="beidou_identification_fail_send">"Kimlik doğrulana bilmədi. BeiDou vasitəsilə mesaj göndərilə bilmir."</string>
+    <string name="beidou_image_not_support_multi_recipient">"Səsli təsvirlər çoxlu alıcılara indi göndərilə bilmir"</string>
     <string name="beidou_introduce">BeiDou peyk rabitəsi barədə daha ətraflı</string>
     <string name="beidou_location_failed">"Yerləşmə alına bilmədi. Açıq bir əraziyə gedib yenidən sınayın."</string>
     <string name="beidou_max_support_contact_number">%d kontakta qədər əlavə et</string>
@@ -127,6 +129,7 @@ Yenidən sınayın."</string>
     <string name="beidou_satellite_sms_notification">Bu mesaj, BeiDou peyk rabitəsi vasitəsilə göndərilib</string>
     <string name="beidou_sim_not_support">"SIM kart, BeiDou peyki üzərindən mesajlaşmanı dəstəkləmir"</string>
     <string name="beidou_support_cta_tips">Bu tətbiq, həm də BeiDou peyki üzərindən mesajları oxuya, düzəliş edə, göndərə və ala bilər.</string>
+    <string name="beidou_support_location_tips">BeiDou xidmətlərini istifadə etmək, yerləşmənizə erişim tələb edir.</string>
     <string name="beidou_to_contacts">Alıcı: %s</string>
     <string name="block_messaging_entry_title">Əngəllənmiş SMS</string>
     <string name="block_number_message">Bu telefon nömrəsi əngəlli siyahısına əlavə ediləcək. Bu nömrədən gələn bütün mesajlar əngəllənəcək.</string>

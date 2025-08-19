@@ -394,6 +394,7 @@
     <string name="app_management_for_install">Tətbiq endirmələrini əngəllə</string>
     <string name="app_management_for_install_desc">Bu tətbiqin digər tətbiqləri endirməsini və ya quraşdırmasını önlə</string>
     <string name="app_management_measures">Tətbiq idarəetməsi</string>
+    <string name="app_manager_ad_text_btn_resume">Davam etdir</string>
     <string name="app_manager_advanced_setting">Qabaqcıl ayarlar</string>
     <string name="app_manager_airtel_dlg_msg">Sualınız varsa, Airtel ilə əlaqə saxlayın</string>
     <string name="app_manager_airtel_dlg_title">Airtel tərəfindən əngəlləndi</string>
@@ -1358,6 +1359,7 @@ Yenə də, bəzi əməliyyatlarınız hələ tamamlanmayıb. Razılığı geri g
     <string name="connected_devices_notification_title">"Yuxarıdakı cihazın bu cihazın bildirişlərinə baxmasına icazə verilsin?"</string>
     <string name="connected_devices_permission">Ara bağlantı və icazələr</string>
     <string name="connected_devices_permission_settings">Ara bağlantı və icazələr</string>
+    <string name="connected_devices_permission_summary">Bu cihaza erişimi idarə et</string>
     <string name="connected_devices_record">Yaz</string>
     <string name="connected_devices_record_desc">Eyni hesabda giriş etmiş yaxınqlıqdakı cihazların bu cihazda səs yazmasına icazə verin</string>
     <string name="connected_devices_record_title">Yuxarıdakı cihazın bu cihazda səs yazmasına icazə verilsin?</string>
@@ -1536,6 +1538,8 @@ Yenə də, bəzi əməliyyatlarınız hələ tamamlanmayıb. Razılığı geri g
     <string name="default_result_title_continue">Nəticə əlavə et</string>
     <string name="delete">Sil</string>
     <string name="delete_all_sms">Hamısını sil</string>
+    <string name="delete_connected_devices">Seçilmiş cihazlar indi silinsin?</string>
+    <string name="delete_connected_devices_title">%1$s indi silinsin?</string>
     <string name="delete_from_manual_item_white_list">İstisnalardan sil</string>
     <string name="delete_input">Sil</string>
     <string name="deleted_apps">Silinmiş tətbiqlər</string>
@@ -1931,7 +1935,7 @@ könüllüsü"</string>
     <string name="ew_not_support_area">"Xəbərdarlıqlar bu ərazidə dəstəklənmir"</string>
     <string name="ew_open_tips">Zəlzələ xəbərdarlığı açıqdır</string>
     <string name="ew_push_message">Təxmini intensivlik: %s. Yaxınlığınızda yüngül silkələnmə gözləyin.</string>
-    <string name="ew_push_title">%s üçün zəlzələ xəbərdarlığı</string>
+    <string name="ew_push_title">Siqnal | %1$s yaxınlığında %2$s maqnitudalı zəlzələ</string>
     <string name="ew_safe_place_no_maps_tips">"İndi axtarıla bilmir. Əvvəlcə Baidu Maps və ya Amap-ı quraşdırın."</string>
     <string name="ew_setting_desc_message">Biz, zəlzələnin intensivliyini onun miqyasına, episentrin yerləşməsinə və sizin yerləşmənizə görə təxmin edirik. Təxmini intensivlik nə qədər böyükdürsə, zəlzələ ərazinizdə bir o qədər dağıdıcı olacaq.</string>
     <string name="ew_setting_desc_title">Təxmini intensivlik nədir?</string>
@@ -4639,6 +4643,7 @@ söndürülür"</string>
     <string name="power_dialog_performance_mode_checkbox">%d Hz yeniləmə sürətinə keç</string>
     <string name="power_dialog_super_save_msg">"Ultra batareya qənaəti, təməl funksionallığı (məsələn, zənglər, SMS və şəbəkəyə bağlanma) mümkün olduğu qədər uzun müddət əlçatan saxlamaq üçün ən çox enerji sərf edən özəllikləri məhdudlaşdırır və cihazın performansını aşağı salır. Ultra batareya qənaəti işə salınsın?"</string>
     <string name="power_dialog_super_save_msg_5g">"Ultra batareya qənaəti, enerji sərf edən özəlliklərin əksəriyyətini (məs. 5G bağlantısı) məhdudlaşdıraraq cihazın performansını aşağı salır. Yalnız zənglər, mesajlar və şəbəkə bağlantısı təsirlənmir. Ultra batareya qənaəti işə salınsın?"</string>
+    <string name="power_dialog_super_save_msg_p2">"Ultra batareya qənaəti, arxa ekranı söndürür və enerji sərf edən özəlliklərin əksəriyyətini məhdudlaşdırır, cihazınızın performansını aşağı salır, təməl funksionallığın (məs. zənglər, SMS və şəbəkəyə bağlanma) mümkün olduğunca əlçatan qalmasını təmin edir. Ultra batareya qənaəti işə salınsın"</string>
     <string name="power_dialog_super_save_title">Ultra batareya qənaəti</string>
     <string name="power_idle">Telefon boşdadır</string>
     <string name="power_main_battery_last_day_hour">%1$s gün %2$s sa qaldı</string>

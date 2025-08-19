@@ -110,6 +110,7 @@
     <string name="announce_for_open_folder">Aç: \"%1$s\"</string>
     <string name="announce_for_search_bar">Axtarış çubuğu</string>
     <string name="announce_for_show_uninstall_dialog">Silinmə dialoqu göründü. Ləğv et və ya təsdiqlə.</string>
+    <string name="announce_for_super_xiaoai">Xiaomi Hyper XiaoAi</string>
     <string name="announce_for_unchecked">%1$s, işarəsi götürüldü</string>
     <string name="announce_for_unchecked_after">işarəsi götürüldü, %1$s</string>
     <string name="announce_for_widget_span">En %1$d, hündürlük %2$d</string>
@@ -359,6 +360,7 @@ Təkmilləşdirilmiş güvənlik."</string>
     <string name="liked">Sevimlilərə əlavə edildi</string>
     <string name="local_apps">Yerli tətbiqlər</string>
     <string name="local_wallpaper">Endirildi</string>
+    <string name="locate_apps_launcher_loading_tips">Əsas ekran hələ də yüklənir. Bir dəqiqə sonra yenidən sınayın.</string>
     <string name="lock_screen">Kilid ekranı</string>
     <string name="lock_screen_cells_title">Əsas ekran düzümünü kilidlə</string>
     <string name="lock_screen_wallpaper">Kilid ekranı divar kağızı</string>
@@ -585,7 +587,6 @@ Təkmilləşdirilmiş güvənlik."</string>
     <string name="permlab_uninstall_shortcut">Qısayolları sil</string>
     <string name="permlab_uninstall_widget">Vicetləri sil</string>
     <string name="permlab_write_settings">Əsas ekran ayarlarına və qısayollarına düzəliş et</string>
-    <string name="please_slide_agian">Yenidən sürüşdür</string>
     <string name="pm">GS</string>
     <string name="preference_copied">\"%1$s\" lövhəyə kopyalandı.</string>
     <string name="preferred_app_settings_not_selected">Seçilmədi</string>
@@ -662,6 +663,7 @@ Təkmilləşdirilmiş güvənlik."</string>
     <string name="screen_locked_toast">Əsas ekran düzümü kilidlidir.</string>
     <string name="screen_number">%d. ekran</string>
     <string name="search_in_apps_store">%2$s tətbiqində %1$s axtar</string>
+    <string name="search_indicator">Axtar</string>
     <string name="search_menu_title">Axtar</string>
     <string name="search_no_result">"Heç bir nəticə tapıla bilmədi"</string>
     <string name="select_all">Hamısını seç</string>
