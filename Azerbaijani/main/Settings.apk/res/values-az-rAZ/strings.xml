@@ -35,7 +35,7 @@
     <string name="about_phone_device_name_warning">Cihazınızın adı telefonunuzdakı tətbiqlərə görünə bilər. Həmçinin, Bluetooth cihazlarına bağlandıqda, Wi-Fi şəbəkəsinə bağlandıqda və ya Wi-Fi hotspot qurduqda digər şəxslərə də görünə bilər.</string>
     <string name="about_phone_enter_xiaomi_net">Daha ətraflı</string>
     <string name="about_settings">Telefon haqqında</string>
-    <string name="about_settings_summary">Hüquqi məlumata, statusa, proqram məlumatı versiyasına baxın</string>
+    <string name="about_settings_summary">Hüquqi məlumata, statusa, yazılım versiyasına baxın</string>
     <string name="ac_enable_summary">Fərdi tətbiqlər üçün bir parol təyin edin</string>
     <string name="ac_enable_title">Tətbiq kilidi</string>
     <string name="ac_privacy_mode_sum">Qonaq rejimini söndürmək üçün bir parol tələb et</string>
@@ -286,7 +286,7 @@ Klaviaturada və ya naviqasiya çubuğunda yaxınlaşdıra bilməzsiniz."</strin
     <string name="accessibility_screen_magnification_title">Böyütmə</string>
     <string name="accessibility_screen_option">Seçimlər</string>
     <string name="accessibility_screen_reader_haptic_title">Ekran oxuyucu</string>
-    <string name="accessibility_service_action_perform_description">Bir tətbiq və ya avadanlıq sensoru ilə qarşılıqlı əlaqələrinizi izləyə bilər və sizin adınıza tətbiqlərlə qarşılıqlı əlaqədə ola bilər.</string>
+    <string name="accessibility_service_action_perform_description">Bir tətbiq və ya donanım sensoru ilə qarşılıqlı əlaqələrinizi izləyə bilər və sizin adınıza tətbiqlərlə qarşılıqlı əlaqədə ola bilər.</string>
     <string name="accessibility_service_action_perform_title">Əməliyyatları görmə və icra etmə</string>
     <string name="accessibility_service_auto_added_qs_tooltip_content">%1$s Cəld Ayarlara əlavə olundu. İstənilən vaxt işə salmaq və ya söndürmək üçün aşağı sürüşdürün.</string>
     <string name="accessibility_service_default_description">Heç bir açıqlama verilməyib.</string>
@@ -1870,7 +1870,7 @@ Daha əvvəl %2$s cihazına bağlanmamısınız."</string>
     <string name="bluetooth_devices">Bluetooth cihazları</string>
     <string name="bluetooth_devices_card_off_summary">Açmaq üçün toxunun</string>
     <string name="bluetooth_devices_card_off_title">Bluetooth bağlıdır</string>
-    <string name="bluetooth_disable_a2dp_hw_offload">Bluetooth A2DP avadanlıq yükünü sıradan çıxart</string>
+    <string name="bluetooth_disable_a2dp_hw_offload">Bluetooth A2DP donanım yükünü sıradan çıxart</string>
     <string name="bluetooth_disable_absolute_volume">Mütləq həcmi sıradan çıxart</string>
     <string name="bluetooth_disable_absolute_volume_summary">Uzaq cihazlarda qəbuledilməz bir yüksək həcm və ya kontrol əskikliyi kimi həcm problemləri baş verdiyi hallarda, Bluetooth üçün mütləq həcm özəlliyini sıradan çıxardır.</string>
     <string name="bluetooth_disable_hw_offload_dialog_cancel">İmtina</string>
@@ -2235,7 +2235,7 @@ Bağlantı qurularkən, %2$s, %3$s cihazına gələn bütün zəngləri alacaq."
     <string name="bootloader_apply_step_1">Fastboot rejimi açılsın?</string>
     <string name="bootloader_apply_step_2">Cihazınız Fastboot rejimində olduqda və kompüterə bağlandıqda,</string>
     <string name="bootloader_apply_step_3">cihazdakı verilərə (məs. parollar, mesajlar) icazəniz olmadan erişilə bilər.</string>
-    <string name="bootloader_apply_step_4">Bu, verilərin ifşa olunmasına və ya itirilməsinə, hətta düzəldilə bilməyən avadanlıq zədələnməsinə səbəb ola bilər.</string>
+    <string name="bootloader_apply_step_4">Bu, verilərin ifşa olunmasına və ya itirilməsinə, hətta düzəldilə bilməyən donanım zədələnməsinə səbəb ola bilər.</string>
     <string name="bootloader_apply_step_5">Açmazdan əvvəl Fastboot rejimini necə istifadə edəcəyinizi bildiyinizə əmin olun.</string>
     <string name="bootloader_apply_title">Vacib xəbərdarlıq</string>
     <string name="bootloader_device_bind_already">Uğurla əlavə edildi. Mi Hesabı artıq bu cihazla əlaqələndirildi.</string>
@@ -2305,6 +2305,9 @@ Bu özəlliyi Ayarlar &gt; Bluetooth &gt; \"Cütləşdirilmiş cihazlar\"da sön
     <string name="bt_absVolume_open_dialog_title">Diqqət</string>
     <string name="bt_absVolume_pre_title">Mütləq həcm</string>
     <string name="bt_absVolume_summary">"Bluetooth cihazlarının və telefonun həcmlərini ciddi şəkildə sabit saxlayın. Media arxaplanda oxudulmadıqda bu özəlliyi işə salıb söndürə bilərsiniz."</string>
+    <string name="bt_accessibility_description_heading">Başlıq</string>
+    <string name="bt_accessibility_description_select">Seçildi</string>
+    <string name="bt_accessibility_description_unselect">Seçilmədi</string>
     <string name="bt_always_show_icon">Həmişə status çubuğu ikonunu göstər</string>
     <string name="bt_aptx_adaptive_open_dialog_summary">aptX Adaptiv enerji sərfiyyatını artıraraq yüksək keyfiyyətli oxutmanı təmin edir və oyunlar və videolar üçün səs gecikməsini azaldır. Oxutma, Bluetooth avandanlıq məhdudiyyətləri və ətraf mühit müdaxiləsinə görə kəkələyə bilər.</string>
     <string name="bt_aptx_adaptive_open_dialog_title">\"aptX Adaptiv\"ə keçilsin?</string>
@@ -2350,12 +2353,13 @@ Bu özəlliyi Ayarlar &gt; Bluetooth &gt; \"Cütləşdirilmiş cihazlar\"da sön
     <string name="bt_hci_snoop_log_filters_dashboard_summary">Filtrləri ayarla</string>
     <string name="bt_hci_snoop_log_filters_dashboard_title">Bluetooth HCI snoop jurnalı filtrləmə</string>
     <string name="bt_hci_snoop_log_summary">Bütün Bluetooth HCI jurnallarını bir faylda yaxala</string>
+    <string name="bt_headset_picture">Təsvir</string>
     <string name="bt_lc3plus_open_dialog_summary">LC3plus enerji sərfiyyatını artıraraq yüksək keyfiyyətli oxutmanı təmin edir və oyunlar və videolar üçün səs gecikməsini azaldır. Oxutma, Bluetooth avandanlıq məhdudiyyətləri və ətraf mühit müdaxiləsinə görə kəkələyə bilər.</string>
     <string name="bt_lc3plus_open_dialog_title">\"LC3plus\"a keçilsin?</string>
-    <string name="bt_ldac_declaration">Bir Bluetooth cihazı LDAC-ni dəstəklədikdə, ilkin olaraq bağlantılı olacaq. LDAC yüksək keyfiyyətli səs təcrübəsi təmin edir, ancaq enerji sərfiyyatını artırır. Bluetooth avadanlıq məhdudiyyətlərinə görə oxutma əsnasında problemlər yarana bilər.</string>
+    <string name="bt_ldac_declaration">Bir Bluetooth cihazı LDAC-ni dəstəklədikdə, ilkin olaraq bağlantılı olacaq. LDAC yüksək keyfiyyətli səs təcrübəsi təmin edir, ancaq enerji sərfiyyatını artırır. Bluetooth donanım məhdudiyyətlərinə görə oxutma əsnasında problemlər yarana bilər.</string>
     <string name="bt_ldac_dialog_summary">LDAC, yüksək keyfiyyətli səs təcrübəsi təqdim etməklə birgə enerji sərfiyyatını da artırır. Bu özəllik Ayarlarda söndürülə bilər.</string>
     <string name="bt_ldac_dialog_title">Hazırkı cihaz, ilkin olaraq bağlantılı olan LDAC-ni dəstəkləyir:</string>
-    <string name="bt_ldac_open_dialog_summary">LDAC, yüksək keyfiyyətli səs təcrübəsi təqdim etməklə birgə enerji sərfiyyatını da artırır. Bluetooth avadanlıq məhdudiyyətlərinə görə oxutma əsnasında problemlər yarana bilər.</string>
+    <string name="bt_ldac_open_dialog_summary">LDAC, yüksək keyfiyyətli səs təcrübəsi təqdim etməklə birgə enerji sərfiyyatını da artırır. Bluetooth donanım məhdudiyyətlərinə görə oxutma əsnasında problemlər yarana bilər.</string>
     <string name="bt_ldac_open_dialog_title">LDAC işə salınsın?</string>
     <string name="bt_ldac_pre_title">LDAC</string>
     <string name="bt_ldac_property">Xüsusiyyətlər</string>
@@ -2372,10 +2376,10 @@ Bu özəlliyi Ayarlar &gt; Bluetooth &gt; \"Cütləşdirilmiş cihazlar\"da sön
     <string name="bt_leaudio_summary">Yüksək keyfiyyətli səs təcrübəsi</string>
     <string name="bt_leaudio_summary_V2">Azaldılmış gecikmə ilə yüksək keyfiyyətli, az enerjili səsdən həzz alın</string>
     <string name="bt_leaudio_support_multi_dialog_summary">"Bu özəllik açıq olduqda bəzi özəlliklər mövcud olmayacaq. LC3 indi işə salınsın?"</string>
-    <string name="bt_lhdc_declaration">Bir Bluetooth cihazı LHDC-ni dəstəklədikdə, ilkin olaraq bağlantılı olacaq. LHDC yüksək keyfiyyətli səs təcrübəsi təmin edir və oyun əsnasında gecikməni azaldır, ancaq enerji sərfiyyatını artırır. Bluetooth avadanlıq məhdudiyyətlərinə görə oxutma əsnasında problemlər yarana bilər.</string>
+    <string name="bt_lhdc_declaration">Bir Bluetooth cihazı LHDC-ni dəstəklədikdə, ilkin olaraq bağlantılı olacaq. LHDC yüksək keyfiyyətli səs təcrübəsi təmin edir və oyun əsnasında gecikməni azaldır, ancaq enerji sərfiyyatını artırır. Bluetooth donanım məhdudiyyətlərinə görə oxutma əsnasında problemlər yarana bilər.</string>
     <string name="bt_lhdc_dialog_summary">LHDC, yüksək keyfiyyətli səs oxutmağa imkan verir və oyun əsnasında gecikməni azaldır, ancaq enerji sərfiyyatını artırır. Bu özəllik Ayarlarda söndürülə bilər.</string>
     <string name="bt_lhdc_dialog_title">Hazırkı cihaz, ilkin olaraq bağlantılı olan LHDC-ni dəstəkləyir:</string>
-    <string name="bt_lhdc_open_dialog_summary">LHDC, yüksək keyfiyyətli səs oxutmağa imkan verir və oyun əsnasında gecikməni azaldır, ancaq enerji sərfiyyatını artırır. Bluetooth avadanlıq məhdudiyyətlərinə görə oxutma əsnasında problemlər yarana bilər.</string>
+    <string name="bt_lhdc_open_dialog_summary">LHDC, yüksək keyfiyyətli səs oxutmağa imkan verir və oyun əsnasında gecikməni azaldır, ancaq enerji sərfiyyatını artırır. Bluetooth donanım məhdudiyyətlərinə görə oxutma əsnasında problemlər yarana bilər.</string>
     <string name="bt_lhdc_open_dialog_title">LHDC işə salınsın?</string>
     <string name="bt_lhdc_pre_title">LHDC</string>
     <string name="bt_lhdc_property">Xüsusiyyətlər</string>
@@ -2672,6 +2676,53 @@ Bu icazə açıq olduqda, bir etiket aşkarlandıqda bu tətbiq seçim olaraq ə
     <string name="china_mobile">CHN-CMCC</string>
     <string name="china_telecom">CHN-CT</string>
     <string name="china_union">CHN-UNICOM</string>
+    <string name="chip_add_title">Tezlik əlavə et</string>
+    <string name="chip_change_error_toast">"Parametrlər ayarlana bilmədi"</string>
+    <string name="chip_change_toast">Tezlik dəyişdirildi. Dəyişikliklərin qüvvəyə minməsi üçün cihazı yenidən başladın.</string>
+    <string name="chip_cpu_tip">CPU</string>
+    <string name="chip_dialog_cancel">İmtina</string>
+    <string name="chip_dialog_reboot">Yenidən başlat</string>
+    <string name="chip_edit_dialog_message">Tezlik doğrulaması tələb olunur. Bu, yenidən başlatma vaxtını uzada bilər.</string>
+    <string name="chip_edit_dialog_title">Qüvvəyə minməsi üçün yenidən başlat</string>
+    <string name="chip_edit_dialog_title_new">Dəyişikliklərin qüvvəyə minməsi üçün cihazı yenidən başladın.</string>
+    <string name="chip_edit_title">Tezliyə düzəliş et</string>
+    <string name="chip_empty" />
+    <string name="chip_fre_bottom">İcazə verilən aralıqda bir tezlik seçə bilərsiniz. Bitişik tezliklər arasındakı interval %s GHz-dən böyük olmalıdır</string>
+    <string name="chip_fre_label">Özəl</string>
+    <string name="chip_fre_tip">Tezlik (GHz)</string>
+    <string name="chip_frequency">Tezlik: %s GHZ</string>
+    <string name="chip_frequency_msg">Maksimum tezlik %s GHz</string>
+    <string name="chip_gpu_tip">GPU</string>
+    <string name="chip_manager_big">Böyük</string>
+    <string name="chip_manager_gpu">Nüvə</string>
+    <string name="chip_manager_middle">Orta</string>
+    <string name="chip_manager_middle_small">Enerji məhsuldarlığı</string>
+    <string name="chip_manager_small">Kiçik</string>
+    <string name="chip_manager_title">Çip performansı idarəetmə lövhəsi</string>
+    <string name="chip_manager_welcome">"Xoş gəlmisiniz
+Çip performansı idarəetmə lövhəsi"</string>
+    <string name="chip_notification_error_message">Normal istifadəni təmin etmək üçün ilkin tərcihlər bərpa edilib</string>
+    <string name="chip_notification_error_title">Çip parametr xətası</string>
+    <string name="chip_notification_fail_message">"Açılış yoxlanışından keçə bilmədi. Parametrləri ayarlayıb yenidən sınayın."</string>
+    <string name="chip_notification_fail_title">"Çip parametrləri ayarlana bilmədi"</string>
+    <string name="chip_notification_success_message">Açılış yoxlanışından uğurla keçdi. Əgər problem davam edərsə, ilkin tərcihlər bərpa ediləcək.</string>
+    <string name="chip_notification_success_title">Çip parametrləri uğurla ayarlandı</string>
+    <string name="chip_per_summary">Hər bir CPU və GPU nüvə qrupunun tezliyini və gərginliyi tənzimlə</string>
+    <string name="chip_per_summary_new">Hər bir nüvə qrupunun tezliyini və gərginliyi tənzimlə</string>
+    <string name="chip_per_title">Çip performansı idarəetmə lövhəsi</string>
+    <string name="chip_reset_dialog_message">İlkin ayarları bərpa etmək üçün cihazı yenidən başladın.</string>
+    <string name="chip_reset_dialog_message_new">İlkin ayarları bərpa etmək üçün cihazı yenidən başladın.</string>
+    <string name="chip_reset_dialog_title">Cihaz indi yenidən başladılsın?</string>
+    <string name="chip_reset_menu">İlkin ayarları bərpa et</string>
+    <string name="chip_save_restart">Saxla və yenidən başlat</string>
+    <string name="chip_toast_add_msg">%d tezliyə qədər əlavə edə bilərsiniz</string>
+    <string name="chip_vol_bottom">İcazə verilən aralıqda gərginlik offset-ini seçin</string>
+    <string name="chip_vol_default">İlkin</string>
+    <string name="chip_vol_tip">Gərginlik (mV)</string>
+    <string name="chip_voltage">%s mV</string>
+    <string name="chip_voltage_tip">Gərginlik: %s</string>
+    <string name="chip_welcome_tip">Hər bir nüvə qrupunun gərginliyini və tezliyini tənzimlə</string>
+    <string name="chip_welcome_tip_new">Hər bir nüvə qrupunun gərginliyini və tezliyini tənzimlə. Əgər tənzimləmə sonrası stabilliklə bağlı və ya başqa problemlər yaransa, cihaz, ilkin ayarları bərpa etmək üçün avtomatik olaraq yenidən başladılır.</string>
     <string name="choose_a_card_to_reset">Sıfırlanacaq SIM kartı seçin</string>
     <string name="choose_ali_payment">Alipay</string>
     <string name="choose_keyguard_clock_style">Kilid ekranı saat formatı</string>
@@ -2756,7 +2807,7 @@ Bu icazə açıq olduqda, bir etiket aşkarlandıqda bu tətbiq seçim olaraq ə
     <string name="cloud_restore_section_summary_new">Əsas ekran düzümünü, tətbiqləri, sistem ayarlarını və daha çoxunu nüsxələ</string>
     <string name="cloud_restore_section_title">\"Xiaomi Cloud\"dan bərpa et</string>
     <string name="cloud_restore_section_title_new">\"Xiaomi Cloud\"da</string>
-    <string name="cmcc_hardware_version">Avadanlıq versiyası</string>
+    <string name="cmcc_hardware_version">Donanım versiyası</string>
     <string name="codec_low_latency_summary">Oyunun səs və görüntü sinxronizasiyası zamanı gecikməni minimuma endir</string>
     <string name="codec_low_latency_title">Aşağı gecikmə</string>
     <string name="codec_low_latency_video_summary">Səs və şəkil sinxronizasiyasını daha təbii hala gətirərək oyunlar və videolar üçün aşağı gecikməli səs təcrübəsi təmin edin.</string>
@@ -3331,7 +3382,7 @@ Bu ayar, bu cihazın bütün istifadəçilərinə təsir edir."</string>
     <string name="debug_autofill_category">Avto-doldurma</string>
     <string name="debug_debugging_category">Sazlama</string>
     <string name="debug_drawing_category">Rəsm</string>
-    <string name="debug_hw_drawing_category">Avadanlıq sürətləndirilmiş renderləmə</string>
+    <string name="debug_hw_drawing_category">Donanım sürətləndirilmiş renderləmə</string>
     <string name="debug_hw_overdraw">GPU overdraw sazlaması</string>
     <string name="debug_input_category">Giriş</string>
     <string name="debug_layout">Düzüm sərhədlərini göstər</string>
@@ -3986,7 +4037,7 @@ Bu, itmiş və ya oğurlanmış cihazlardakı verilərin qorunmasına kömək ed
     <string name="enterprise_privacy_failed_password_wipe_device">Bütün cihaz veriləri silinməzdən əvvəl uğursuz parol cəhdləri</string>
     <string name="enterprise_privacy_failed_password_wipe_work">İş profili verilərini silməzdən əvvəl uğursuz parol cəhdləri</string>
     <string name="enterprise_privacy_global_http_proxy">Qlobal HTTP proksi dəsti</string>
-    <string name="enterprise_privacy_header">"Təşkilatınız, iş verilərinizə erişimi təmin etmək üçün, ayarları dəyişdirə və cihazınıza proqram təminatı quraşdıra bilər.
+    <string name="enterprise_privacy_header">"Təşkilatınız, iş verilərinizə erişimi təmin etmək üçün, ayarları dəyişdirə və cihazınıza yazılım quraşdıra bilər.
 
 Daha ətraflı məlumat üçün təşkilatınızın admini ilə əlaqə saxlayın."</string>
     <string name="enterprise_privacy_input_method">İlkin klaviatura</string>
@@ -4190,7 +4241,8 @@ Cihazınızı yenidən başladıb bir daha sınayın."</string>
     <string name="failed_to_shut_down_find_device_content">"\"Cihazı tap\" söndürülə bilmədi. Bir və ya iki dəqiqə gözləyib yenidən sınayın."</string>
     <string name="failed_to_shut_down_find_device_title">"\"Cihazı tap\" söndürülə bilmədi"</string>
     <string name="fallback_home_title">Bir saniyə…</string>
-    <string name="fcc_equipment_id">Avadanlıq kimliyi</string>
+    <string name="fast_connect_device_image">Təsvir</string>
+    <string name="fcc_equipment_id">Donanım kimliyi</string>
     <string name="feature_flags_dashboard_title">Özəllik bayraqları</string>
     <string name="feedback">Əks-əlaqə</string>
     <string name="feedback_btn_text">Əks-əlaqə göndər</string>
@@ -4228,7 +4280,7 @@ Cihazınızı yenidən başladıb bir daha sınayın."</string>
     <string name="financed_privacy_factory_reset">Nəsə səhv olarsa, cihazınızı fabrik ayarlarına sıfırlayın</string>
     <string name="financed_privacy_fully_paid_category">Məbləğin tamamını ödədikdən sonra:</string>
     <string name="financed_privacy_install_apps">Play Store xaricində tətbiqləri quraşdır</string>
-    <string name="financed_privacy_intro">"Kredit provayderiniz, quraşdırma zamanı bu cihazda ayarları dəyişdirə və ya proqram təminatı quraşdıra bilər.
+    <string name="financed_privacy_intro">"Kredit provayderiniz, quraşdırma zamanı bu cihazda ayarları dəyişdirə və ya yazılım quraşdıra bilər.
 
 Əgər ödənişi buraxsanız, kredit provayderiniz cihazınızı kilidləyə və cihaz ayarlarını dəyişdirə bilər.
 
@@ -4837,8 +4889,8 @@ Ekran kilidini təsdiqləyə biləcəyiniz sahə sağa hərəkət edəcək."</st
     <string name="haptic_video_content_description">Toxunuş əks-əlaqəsi demo videosu</string>
     <string name="haptic_volume_adjustment_14_content_description">Həcmi ayarlama</string>
     <string name="hardkeyboard_category">Fiziki klaviatura ayarları</string>
-    <string name="hardware_revision">Avadanlıq versiyası</string>
-    <string name="hardware_version">Avadanlıq versiyası</string>
+    <string name="hardware_revision">Donanım versiyası</string>
+    <string name="hardware_version">Donanım versiyası</string>
     <string name="has_screenshot_sound">Ekran şəkli çəkərkən səs oxut</string>
     <string name="hdcp_checking_dialog_title">HDCP yoxlanış davranışını ayarla</string>
     <string name="hdcp_checking_title">HDCP yoxlanışı</string>
@@ -4984,7 +5036,7 @@ Xiaomi Cloud-u açın, elementləri oradan bərpa edin."</string>
     <string name="hwui_force_dark_summary">Məcburi qaranlıq rejimi özəlliyini daim açıq saxla</string>
     <string name="hwui_force_dark_title">Məcburi qaranlıq rejim</string>
     <string name="icon_content_description">Dialoq ikonu</string>
-    <string name="icon_display_customization_action">Keçid ekranını özəlləşdir</string>
+    <string name="icon_display_customization_action">İkon ekranını özəlləşdir</string>
     <string name="ignore_optimizations_off">Optimallaşdır</string>
     <string name="ignore_optimizations_off_desc">Daha yaxşı batareya ömrü üçün tövsiyə olunur</string>
     <string name="ignore_optimizations_on">Optimallaşdırılmasın</string>
@@ -5330,7 +5382,7 @@ Xiaomi Cloud-u açın, elementləri oradan bərpa edin."</string>
     <string name="keywords_media_management_apps">Media, Fayl, İdarəetmə, Menecer, İdarə et, Düzəliş et, Redaktor, Tətbiq, Tətbiqetmə, Proqram</string>
     <string name="keywords_media_vibration">toxunuş əks-əlaqəsi, titrəmə, həssaslıq, media</string>
     <string name="keywords_memtag">MTE, Memory Tagging Extension</string>
-    <string name="keywords_model_and_hardware">seriya nömrəsi, avadanlıq versiyası</string>
+    <string name="keywords_model_and_hardware">seriya nömrəsi, donanım versiyası</string>
     <string name="keywords_more_default_sms_app">null</string>
     <string name="keywords_more_mobile_networks">hüceyrəvi, mobil, hüceyrə operatoru, naqilsiz, veri, 4g, 3g, 2g, lte</string>
     <string name="keywords_network_reset">sıfırlama, bərpa, fabrik</string>
@@ -6741,7 +6793,7 @@ Bu əməliyyatın geri dönüşü yoxdur."</string>
     <string name="mode_wallpaper_summary">Divar kağızı parlaqlığını filtrlə</string>
     <string name="mode_wallpaper_title">Divar kağızını tutqunlaşdır</string>
     <string name="mode_wallpaper_title_secondary_list">divar kağızını tutqunlaşdır</string>
-    <string name="model_hardware_summary">Model:%1$s; Avadanlıq:%2$s</string>
+    <string name="model_hardware_summary">Model:%1$s; Donanım:%2$s</string>
     <string name="model_info">Model</string>
     <string name="model_management">Modelləri idarə et</string>
     <string name="model_management_summary">Cihazınızdakı böyük modelləri endirin, güncəlləyin və silin</string>
@@ -6961,7 +7013,7 @@ Bu əməliyyatın geri dönüşü yoxdur."</string>
     <string name="mvno_type">MVNO növü</string>
     <string name="my_device">Cihazım</string>
     <string name="my_device_camera_params">Kamera xüsusiyyətləri</string>
-    <string name="my_device_disclaimer">Qeyd: CPU, batareya tutumu, ekran ölçüsü və dəqiqliyi və kamera daxil olmaqla avadanlıq məlumatları Xiaomi laboratoriyaları, dizaynerləri və tədarükçüləri tərəfindən təmin edilir.</string>
+    <string name="my_device_disclaimer">Qeyd: CPU, batareya tutumu, ekran ölçüsü və dəqiqliyi və kamera daxil olmaqla donanım məlumatları Xiaomi laboratoriyaları, dizaynerləri və tədarükçüləri tərəfindən təmin edilir.</string>
     <string name="my_device_front_camera">Ön kamera</string>
     <string name="my_device_guarantee">Zəmanət</string>
     <string name="my_device_info_account_preference_summary">%d hesab</string>
@@ -7660,7 +7712,9 @@ Bu xidməti istifadə etməzdən əvvəl bunu oxuyun və razılaşın: %s."</str
     <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
+    <string name="pc_hidemode_performance_chip_title">Performans (overclocking)</string>
     <string name="pc_install_manager">USB vasitəsilə quraşdır</string>
+    <string name="pc_power_mode_has_performance_chip">Performans artırıldı (overclocking)</string>
     <string name="peak_refresh_rate_summary">Bəzi məzmunlar üçün yeniləmə sürətini avtomatik olaraq %1$s Hz-ə qədər artırır. Batareya istifadəsini artırır.</string>
     <string name="peak_refresh_rate_title">Hamar ekran</string>
     <string name="peek_notification_icon_title">Gələn bildirişlər üçün ikonları göstər</string>
@@ -7860,8 +7914,8 @@ Güc düyməsinə və səs artırma düyməsinə eyni anda basın"</string>
     <string name="pre_install_network_unavailable">Əvvəlcə internetə bağlanın</string>
     <string name="pre_install_question_disable_summary">Bəzi sistem tətbiqləri üçün tətbiqin ayarlarında bəzi uzantıları sıradan çıxarda bilərsiniz. Bu genişləndirilmiş funksiyaları bərpa etmək lazımdırsa, ayarlara gedib onları yenidən işə sala bilərsiniz.</string>
     <string name="pre_install_question_disable_title">Funksiya necə sıradan çıxarılır</string>
-    <string name="pre_install_question_query_summary">Ayarlar - Tətbiq ayarları - Tətbiq idarəetmə bölməsinə gedərək baxmaq istədiyiniz tətbiqi seçib proqram təminatı tərəfindən tələb olunan icazələrə baxmaq üçün tətbiq məlumatlarında \"İcazə detallarına bax\"ı seçə bilərsiniz. Həmçinin masaüstündəki menyu düyməsinə basa, tətbiqə uzun basaraq tətbiq məlumatları səhifəsinə sürətlə gedə və icazə detallarına baxmaq üçün birbaşa toxuna bilərsiniz. Əlavə olaraq bütün proqram təminatı quraşdırmasını və tələb olunan icazə siyahısı məlumatlarını istifadəçinin açılış səhifəsində cəld şəkildə görə bilərsiniz.</string>
-    <string name="pre_install_question_query_title">Proqram təminatının quraşdırılması və istifadəsi üçün tələb olunan icazələrin siyahısını necə sorğulamaq olar?</string>
+    <string name="pre_install_question_query_summary">Ayarlar - Tətbiq ayarları - Tətbiq idarəetmə bölməsinə gedərək baxmaq istədiyiniz tətbiqi seçib yazılım tərəfindən tələb olunan icazələrə baxmaq üçün tətbiq məlumatlarında \"İcazə detallarına bax\"ı seçə bilərsiniz. Həmçinin masaüstündəki menyu düyməsinə basa, tətbiqə uzun basaraq tətbiq məlumatları səhifəsinə sürətlə gedə və icazə detallarına baxmaq üçün birbaşa toxuna bilərsiniz. Əlavə olaraq bütün yazılımı quraşdırmasını və tələb olunan icazə siyahısı məlumatlarını istifadəçinin açılış səhifəsində cəld şəkildə görə bilərsiniz.</string>
+    <string name="pre_install_question_query_title">Yazılımın quraşdırılması və istifadəsi üçün tələb olunan icazələrin siyahısını necə sorğulamaq olar?</string>
     <string name="pre_install_question_uninstall_summary">Tətbiqlər > Tətbiq ayarları > Tətbiq idarəetməsinə gedib, silinməsi mümkün olan bir tətbiqi seçib silə bilərsiniz. Sistemdə əvvəlcədən quraşdırılmış tətbiqlərin silinməsi, bəzi sistem funksiyalarının düzgün işləməməsinə və ya anormal işləməsinə səbəb ola bilər. Bu səbəbdən, tətbiqləri silərkən diqqətli olun. Silinə bilən üçüncü tərəf tətbiqləri silmək üçün, masaüstündəki ikonuna uzun basıb ekranın üst hissəsində Tullantı qutusuna sürükləyə bilərsiniz.</string>
     <string name="pre_install_question_uninstall_title">Tətbiq necə silinir</string>
     <string name="pre_installed_application">Ön-quraşdırılmış tətbiqlər</string>
@@ -8303,7 +8357,7 @@ Cihazınızı kompüterə bağlayan və ya cihazınızda zərərli tətbiq qura�
     <string name="qtifeedback_intent_action">com.qti.smq.snapdragonSettings</string>
     <string name="qtifeedback_package">com.qti.smq.Feedback</string>
     <string name="qtifeedback_settings_subtitle">Qualcomm Technologies, Inc Reporting</string>
-    <string name="qtifeedback_settings_title">Avadanlıq əks-əlaqəsi</string>
+    <string name="qtifeedback_settings_title">Donanım əks-əlaqəsi</string>
     <string name="quick_reply_title">Cəld cavablar</string>
     <string name="quick_settings_developer_tiles">Cəld ayarlar gəlişdirici xanası</string>
     <string name="quick_settings_label">Keçidlər</string>
@@ -9599,8 +9653,8 @@ Hər dəfə barmağınızı yüngülcə hərəkət etdirin. Bu, barmaq izinizin 
     <string name="show_first_crash_dialog_summary">Tətbiq hər çökdükdə dialoqu göstər</string>
     <string name="show_hdr_sdr_ratio">HDR/SDR əmsalını göstər</string>
     <string name="show_hdr_sdr_ratio_summary">Hazırkı HDR/SDR əmsalını göstər</string>
-    <string name="show_hw_layers_updates">Avadanlıq qatlarının güncəlləmələrini göstər</string>
-    <string name="show_hw_layers_updates_summary">Güncəllənəndə avadanlıq qatları yaşıl rəngdə yanıb sönür</string>
+    <string name="show_hw_layers_updates">Donanım qatlarının güncəlləmələrini göstər</string>
+    <string name="show_hw_layers_updates_summary">Güncəllənəndə donanım qatları yaşıl rəngdə yanıb sönür</string>
     <string name="show_hw_screen_updates">Görünüş güncəlləmələrini göstər</string>
     <string name="show_hw_screen_updates_summary">Çəkəndə pəncərə içindəki görünüşlər yanıb sönür</string>
     <string name="show_ime">Ekran klaviaturasını istifadə et</string>
@@ -10303,8 +10357,8 @@ Daha sürətli ^3 istifadə etməyə çalışın və ya bunun əvəzinə portati
     <string name="structure_face_enroll_not_able_low_electric_itle">"Zəif batareyaya görə bu özəllik istifadə edilə bilmir"</string>
     <string name="structure_face_enroll_not_able_low_electric_msg">Yazmağa başlamaq üçün batareyanın ən azı 5% dolu olması lazımdır.</string>
     <string name="structure_face_hardware_abnormal_btn">Anladım</string>
-    <string name="structure_face_hardware_abnormal_msg">"Avadanlıq xətası baş verdi. Cihazınızı yenidən başladın. Əgər bu kömək etmirsə, kömək almaq üçün zəng edin: 400–100–5678."</string>
-    <string name="structure_face_hardware_abnormal_title">Avadanlıq xətası</string>
+    <string name="structure_face_hardware_abnormal_msg">"Donanım xətası baş verdi. Cihazınızı yenidən başladın. Əgər bu kömək etmirsə, kömək almaq üçün zəng edin: 400–100–5678."</string>
+    <string name="structure_face_hardware_abnormal_title">Donanım xətası</string>
     <string name="structure_face_modules_abnormal_btn">Yenidən başlat</string>
     <string name="structure_face_modules_abnormal_msg">"Optik modul xətasına görə üz veriləri yazıla bilmir. Cihazı yenidən başladıb bir daha sınayın."</string>
     <string name="structure_face_modules_abnormal_title">Optik modul xətası</string>
@@ -10359,7 +10413,7 @@ Daha sürətli ^3 istifadə etməyə çalışın və ya bunun əvəzinə portati
     <string name="stylus_ota_downloading_firmware">Firmware endirilir</string>
     <string name="stylus_ota_firmware_info">Firmware</string>
     <string name="stylus_ota_firmware_update">Firmware-i güncəllə</string>
-    <string name="stylus_ota_hardware_version">Avadanlıq versiyası</string>
+    <string name="stylus_ota_hardware_version">Donanım versiyası</string>
     <string name="stylus_ota_hava_new_version">"Yeni versiya: "</string>
     <string name="stylus_ota_latest">Güncəldir</string>
     <string name="stylus_ota_model">Model</string>
@@ -10637,8 +10691,8 @@ Daha sürətli ^3 istifadə etməyə çalışın və ya bunun əvəzinə portati
     <string name="tether_use_wifi6_title">Altıncı nəsil standartı dəstəklə</string>
     <string name="tethering_footer_info">Mobil veri bağlantınız vasitəsilə digər cihazları internetlə təmin etmək üçün hotspot və internet paylaşımını istifadə edin. Tətbiqlər, yaxınlıqdakı cihazlarla məzmun paylaşmaq üçün hotspot yarada bilər.</string>
     <string name="tethering_footer_info_sta_ap_concurrency">Wi-Fi və mobil veri bağlantınız vasitəsilə digər cihazları internetlə təmin etmək üçün hotspot və internet paylaşımını istifadə edin. Tətbiqlər, yaxınlıqdakı cihazlarla məzmun paylaşmaq üçün hotspot yarada bilər.</string>
-    <string name="tethering_hardware_offload">İnternet paylaşımı avadanlıq sürətləndirmə</string>
-    <string name="tethering_hardware_offload_summary">Əlçatandırsa, internet paylaşımı avadanlıq sürətləndirməni istifadə et</string>
+    <string name="tethering_hardware_offload">İnternet paylaşımı donanım sürətləndirmə</string>
+    <string name="tethering_hardware_offload_summary">Əlçatandırsa, internet paylaşımı donanım sürətləndirməni istifadə et</string>
     <string name="tethering_help_button_text">Kömək</string>
     <string name="tethering_interface_options">İnternet paylaşımı</string>
     <string name="tethering_settings_not_available">Birinci sahədə internet paylaşımı ayarlarını dəyişdir</string>
@@ -10777,6 +10831,8 @@ Fəal olduqda, bu cihaz Thread şəbəkəsinə qoşulmaq üçün uyğun olur və
     <string name="toggle_disable_ciwlan_call_dialog_title">%s sıradan çıxarılsın?</string>
     <string name="toggle_disable_ciwlan_call_might_drop_dialog_body">%s sıradan çıxartmaq, davam edən zəngin kəsilməsinə səbəb ola bilər.</string>
     <string name="toggle_disable_ciwlan_call_will_drop_dialog_body">%s sıradan çıxartmaq, davam edən zəngin kəsilməsinə səbəb olacaq.</string>
+    <string name="toggle_rtt_preference_summary">Real vaxtlı mətn (RTT), bir telefon zəngi zamanı ünsiyyət qurmaq üçün mətn istifadə etməyinizə imkan verir</string>
+    <string name="toggle_rtt_preference_title">RTT zəngi</string>
     <string name="tomorrow">Sabah</string>
     <string name="tooltip_description">i̇pucu</string>
     <string name="tooltip_label">alət ipucunu göstər</string>
@@ -11201,7 +11257,7 @@ Bu özəlliyin söndürülməsi, cihazınızın sistem güncəlləmələri və g
     <string name="usb_headset_not_support_message">"Adapter vasitəsilə səs oxudula bilmir. Rəqəmsal qulaqlıq
 və ya 3.5 mm girişli qulaqlıq istifadə edin."</string>
     <string name="usb_headset_not_support_tile">"Səs oxudula bilmir"</string>
-    <string name="usb_host_mode_subtext">USB portunda oyun pultlarını və digər periferik avadanlıqları istifadə etmək, daha çox enerji sərf edə bilər</string>
+    <string name="usb_host_mode_subtext">USB portunda oyun pultlarını və digər periferik donanımları istifadə etmək, daha çox enerji sərf edə bilər</string>
     <string name="usb_host_mode_text">USB host rejimi</string>
     <string name="usb_insert_summary">USB anbar vahidinə bağlan</string>
     <string name="usb_install_app">USB vasitəsilə quraşdır</string>
@@ -11654,6 +11710,8 @@ Səsli zəng zamanı interneti istifadə edə bilməzsiniz və bəzi tətbiqlər
     <string name="weight_light">İncə</string>
     <string name="weight_setting_toast">Şriftin qalınlığını, yalnız ilkin sistem şrifti üçün dəyişdirə bilərsiniz</string>
     <string name="welcome">Xoş gəlmisiniz</string>
+    <string name="welcomeBtn">Başlat</string>
+    <string name="welcomeTip">Bütün CPU və GPU nüvə qruplarının gərginliyini və tezliyini tənzimlə</string>
     <string name="wellbing_title">Rəqəmsal Rifah və valideyn nəzarəti</string>
     <string name="wep_network_less_secure_warning_title">Bu şəbəkə, güvənliyi zəif olan WEP adlı köhnə bir güvənlik protokolu istifadə edir</string>
     <string name="wfc_disclaimer_agree_button_text">DAVAM ET</string>

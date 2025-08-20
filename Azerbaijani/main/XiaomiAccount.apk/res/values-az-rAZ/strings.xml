@@ -108,6 +108,7 @@ Artıq %s istifadə edərək Xiaomi Hesabınıza daxil ola bilərsiniz."</string
     <string name="cloud_service_cloud_open">İşə sal</string>
     <string name="cloud_service_space_full">Anbar dolub</string>
     <string name="cloud_service_space_not_enough">Yetərsiz anbar sahəsi</string>
+    <string name="cloud_service_space_over_quota">Anbar sahəsi limiti aşıldı</string>
     <string name="cloud_service_space_used">Tutulan</string>
     <string name="cloud_service_state_error">"Yüklənə bilmədi"</string>
     <string name="cloud_service_status_backup_not_open">Nüsxələmə bağlıdır</string>
@@ -176,14 +177,17 @@ Artıq %s istifadə edərək Xiaomi Hesabınıza daxil ola bilərsiniz."</string
     <string name="default_popup_window_title">Açılan pəncərə</string>
     <string name="delete_bank_card_message">Çıxış edildikdən sonra, Mi Pay bank kartları və NFC kartları silinir.</string>
     <string name="delete_bank_card_title">Diqqət</string>
-    <string name="delete_device_btn">Sil</string>
+    <string name="delete_device_btn">Cihazı sil</string>
     <string name="delete_device_failed">"Cihaz silinə bilmir"</string>
-    <string name="delete_device_notice">"Cihaz silindikdən sonra, avtomatik olaraq Xiaomi Hesabınızdan çıxış ediləcək. Fotolara, mesajlara və ya hesabınızda saxlanılan digər məzmunlara erişmək üçün bu cihazı istifadə edə bilməyəcəksiniz."</string>
+    <string name="delete_device_notice">"Bu cihazı sildiyiniz zaman, Xiaomi Hesabınızdan çıxış edəcəksiniz. Sildikdən sonra, buludda saxlanılmış elementlərə erişə bilməyəcəksiniz."</string>
     <string name="deny">Rədd et</string>
     <string name="device_delete_success_message">"Bu cihazda daxil olmamısınızsa, dərhal parolunuzu dəyişdirin."</string>
     <string name="device_delete_success_title">Çıxış edildi</string>
+    <string name="device_id">Cihaz ID-si</string>
+    <string name="device_list_error_tip"><Data>"Yüklənə bilmədi. &lt;a href=>Yenidən sına&lt;/a>"</Data></string>
     <string name="device_list_title">Cihazlarım</string>
     <string name="device_name">Cihaz adı</string>
+    <string name="device_recent_login_time">Son daxil olma</string>
     <string name="dind_device_service_not_open">Bağlı</string>
     <string name="dind_device_service_opened">Açıq</string>
     <string name="dropdown_menu">Açılan menyu</string>
@@ -265,6 +269,7 @@ Artıq %s istifadə edərək Xiaomi Hesabınıza daxil ola bilərsiniz."</string
     <string name="friday_shortest">Cüm</string>
     <string name="get_back_password">Parolu sıfırla</string>
     <string name="get_back_pwd">Parol sıfırlama</string>
+    <string name="get_device_info_error">"Cihaz məlumatları alına bilmədi"</string>
     <string name="get_identity_auth_url_failed">"Kimlik doğrulana bilmədi"</string>
     <string name="get_phone_bind_exceed_limit">"Bir telefon nömrəsi ilə ən çox %d Xiaomi Hesabı əlaqələndirə bilərsiniz. Yeni hesablar əlavə edilə bilmir."</string>
     <string name="get_phone_verifycode_exceed_limit">"Bu nömrəyə daha çox doğrulama kodu göndərilə bilmir"</string>
@@ -404,6 +409,7 @@ Artıq %s istifadə edərək Xiaomi Hesabınıza daxil ola bilərsiniz."</string
     <string name="night">Axşam</string>
     <string name="no_account_or_forget_password">Hesab yaradırsınız və ya parolunuzu unutmusunuz?</string>
     <string name="no_network_btn">Təzələ</string>
+    <string name="no_network_refresh_btn">Təzələ</string>
     <string name="no_network_title">"Şəbəkəyə bağlana bilmir"</string>
     <string name="no_password_set">Ayarlanmadı</string>
     <string name="no_phone">Telefon nömrəsi yoxdur</string>
@@ -531,6 +537,7 @@ Artıq %s istifadə edərək Xiaomi Hesabınıza daxil ola bilərsiniz."</string
     <string name="passport_error_no_password_user">"Hələ ki, heç bir parol təyin etməmisiniz. SMS ilə daxil olun."</string>
     <string name="passport_error_phone">Yararsız telefon nömrəsi</string>
     <string name="passport_error_server">Server xətası</string>
+    <string name="passport_error_server_msg">Şəbəkə ayarlarınızı yoxlayıb səhifəni təzələyin</string>
     <string name="passport_error_sim_not_ready">"SIM kart tapıla bilmir"</string>
     <string name="passport_error_sms_limit">Bu nömrəyə həddən artıq doğrulama kodu göndərilib. Daha sonra yenidən sınayın.</string>
     <string name="passport_error_ssl_hand_shake">"Serverə bağlana bilmədi"</string>
@@ -690,8 +697,18 @@ Artıq %s istifadə edərək Xiaomi Hesabınıza daxil ola bilərsiniz."</string
     <string name="passport_to_verify_code_login">SMS ilə daxil ol</string>
     <string name="passport_trust_device">Bu cihazı doğrulanmış cihazlara əlavə et</string>
     <string name="passport_two_factor_auth">İki faktorlu kimlik doğrulama</string>
-    <string name="passport_two_factor_auth_hint">Hesabınıza daxil olarkən iki faktorlu kimlik doğrulamanın tələb olunması üçün işə sal</string>
-    <string name="passport_tz_invalid">Güvənlik riskləri tapıldı. Bu cihaz root edilib və ya proqram təminatı dəyişdirilib. Digər giriş seçimlərini sınayın.</string>
+    <string name="passport_two_factor_auth_dialog_desc">"İki faktorlu kimlik doğrulamanı işə salsanız, digər cihazlar və bütün veb saytlarda Xiaomi Hesabınızdan çıxış edəcəksiniz. İndi işə salınsın?"</string>
+    <string name="passport_two_factor_auth_dialog_negative_btn">İmtina</string>
+    <string name="passport_two_factor_auth_dialog_positive_btn">İşə sal</string>
+    <string name="passport_two_factor_auth_dialog_title">Digər cihazlarda çıxış et</string>
+    <string name="passport_two_factor_auth_hint"><Data>Hər Xiaomi Hesabınıza daxil olduğunuz zaman iki faktorlu kimlik doğrulamanı tamamlayın. &lt;a href= >Daha ətraflı&lt;/a></Data></string>
+    <string name="passport_two_factor_set_password_hint">İki faktorlu kimlik doğrulamanı istifadə edə bilmək üçün bir hesab parolu təyin edin</string>
+    <string name="passport_two_factor_set_phone_dialog_desc">İki faktorlu kimlik doğrulamanı işə sala bilmək üçün bir hesab parolu təyin edin.</string>
+    <string name="passport_two_factor_set_phone_dialog_negative_btn">İmtina</string>
+    <string name="passport_two_factor_set_phone_dialog_positive_btn">Təyin et</string>
+    <string name="passport_two_factor_set_phone_dialog_title">Hesab parolu təyin et</string>
+    <string name="passport_two_factor_set_phone_hint">İki faktorlu kimlik doğrulamanı istifadə edə bilmək üçün bir telefon nömrəsi əlavə edin</string>
+    <string name="passport_tz_invalid">Güvənlik riskləri tapıldı. Bu cihaz root edilib və ya yazılım dəyişdirilib. Digər giriş seçimlərini sınayın.</string>
     <string name="passport_unknown_error">Bilinməyən xəta</string>
     <string name="passport_unknown_host_network_error">Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın</string>
     <string name="passport_uplink_reg">Telefon nömrəsini istifadə et</string>

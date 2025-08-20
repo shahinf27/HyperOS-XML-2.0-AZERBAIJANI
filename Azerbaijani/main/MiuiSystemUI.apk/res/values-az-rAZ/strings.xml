@@ -788,7 +788,7 @@ Davam etsəniz, internet istifadəsinə görə ödənişlər tətbiq oluna bilə
     <string name="debug_applications_category">Tətbiqlər</string>
     <string name="debug_debugging_category">Sazlama</string>
     <string name="debug_drawing_category">Rəsm</string>
-    <string name="debug_hw_drawing_category">Avadanlıq sürətləndirilmiş renderləmə</string>
+    <string name="debug_hw_drawing_category">Donanım sürətləndirilmiş renderləmə</string>
     <string name="debug_hw_overdraw">GPU overdraw sazlaması</string>
     <string name="debug_input_category">Giriş</string>
     <string name="debug_layout">Düzüm sərhədlərini göstər</string>
@@ -2425,8 +2425,8 @@ Suallarınız varsa, %2$s ilə əlaqə saxlayın."</string>
     <string name="show_all_anrs">Arxaplan ANR-lərini göstər</string>
     <string name="show_all_anrs_summary">Arxaplan tətbiqləri üçün Tətbiq Cavab Vermir (ANR) mesajını göstər</string>
     <string name="show_demo_mode">Demo rejimini göstər</string>
-    <string name="show_hw_layers_updates">Avadanlıq qatlarının güncəlləmələrini göstər</string>
-    <string name="show_hw_layers_updates_summary">Güncəllənəndə avadanlıq qatları yaşıl rəngdə yanıb sönür</string>
+    <string name="show_hw_layers_updates">Donanım qatlarının güncəlləmələrini göstər</string>
+    <string name="show_hw_layers_updates_summary">Güncəllənəndə donanım qatları yaşıl rəngdə yanıb sönür</string>
     <string name="show_hw_screen_updates">Görünüş güncəlləmələrini göstər</string>
     <string name="show_hw_screen_updates_summary">Çəkəndə pəncərə içindəki görünüşlər yanıb sönür</string>
     <string name="show_key_presses">Düymə toxunuşlarını göstər</string>
@@ -2558,8 +2558,8 @@ Suallarınız varsa, %2$s ilə əlaqə saxlayın."</string>
     <string name="tether_settings_title_usb">USB internet paylaşımı</string>
     <string name="tether_settings_title_usb_bluetooth">İnternet paylaşımı</string>
     <string name="tether_settings_title_wifi">Portativ hotspot</string>
-    <string name="tethering_hardware_offload">İnternet paylaşımı avadanlıq sürətləndirmə</string>
-    <string name="tethering_hardware_offload_summary">Əlçatandırsa, internet paylaşımı avadanlıq sürətləndirməni istifadə et</string>
+    <string name="tethering_hardware_offload">İnternet paylaşımı donanım sürətləndirmə</string>
+    <string name="tethering_hardware_offload_summary">Əlçatandırsa, internet paylaşımı donanım sürətləndirməni istifadə et</string>
     <string name="tethering_settings_not_available">İnternet paylaşım ayarları bu istifadəçi üçün əlçatmazdır</string>
     <string name="the_anniversary_of_lifting_martial_law">Hərbi Vəziyyətin Qaldırılma İldönümü</string>
     <string name="the_anti_aggression_day">Təcavüzlə Mübarizə Günü</string>

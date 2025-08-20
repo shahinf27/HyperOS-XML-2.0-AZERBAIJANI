@@ -96,6 +96,13 @@
     <string name="cancel_dialog_negative_button">"Ləğv etmə"</string>
     <string name="cancel_dialog_positive_button">Ləğv et</string>
     <string name="cancel_send">Göndərməni ləğv et</string>
+    <string name="cant_generate_new_summary_by_account_un_login1">"İcmalları yaratmaq üçün Xiaomi Hesabınıza daxil olun. "</string>
+    <string name="cant_generate_new_summary_by_block_list_error">"Qaydalarımızı bir neçə dəfə pozduğunuz üçün bu funksiyanı istifadə etməyiniz əngəllənib"</string>
+    <string name="cant_generate_new_summary_by_language_type_limit">"Bu dil üçün icmallar yaradıla bilmir"</string>
+    <string name="cant_generate_new_summary_by_network_error2">Yenidən sına</string>
+    <string name="cant_generate_new_summary_by_sensitive_content">"Həssas məzmun icmalları yaradıla bilmir"</string>
+    <string name="cant_generate_new_summary_by_unknown_error">Bilinməyən bir xəta baş verdi</string>
+    <string name="cant_generate_new_summary_by_word_limit">"Həddən az və ya çox xarakter var. İcmal yaradıla bilmir."</string>
     <string name="cant_generate_summary_by_account_un_login1">"İcmalları yaratmaq üçün Xiaomi Hesabınıza daxil olun. "</string>
     <string name="cant_generate_summary_by_account_un_login2">Daxil ol</string>
     <string name="cant_generate_summary_by_block_list_error">"Qaydalarımızı bir neçə dəfə pozduğunuz üçün bu özəlliyi istifadə etməyiniz əngəlləndi"</string>
@@ -225,6 +232,7 @@
     <string name="friday">Cümə</string>
     <string name="friday_short">Cüm</string>
     <string name="friday_shortest">Cüm</string>
+    <string name="generate_new_summary">İcmal yaradılır…</string>
     <string name="google_application_id"></string>
     <string name="guide_update_confirm_dialog_message">"\"Mi AI Translate\"i güncəlləməni seçməsəniz, bəzi özəlliklərə erişə bilməyəcəksiniz."</string>
     <string name="guide_update_confirm_dialog_message_new">"\"Tərcümə et\"i güncəlləməməyi seçsəniz, bəzi özəlliklərə erişə bilməyəcəksiniz."</string>
@@ -249,6 +257,7 @@
     <string name="invisible_mode_dialog_title">"Gizlisiniz"</string>
     <string name="invisible_mode_error_tip">Mikrofonu istifadə edə bilmək üçün Ayarlarda Gizli rejimi söndürün</string>
     <string name="item_view_role_description">Vərəq</string>
+    <string name="jump_to_more_ai_unit_page">Daha çoxuna bax</string>
 	<string name="keyguard_shotcuts">Yeni yazı</string>
     <string name="korea_permission_phone">Telefon</string>
     <string name="korea_permission_phone_resc">Cihaz statusuna erişmək və zəng zamanı səsyazmaları idarə etmək üçün</string>
@@ -393,6 +402,10 @@
     <string name="month_september_short">Sen</string>
     <string name="month_september_shortest">Sen</string>
     <string name="more">Daha çox</string>
+    <string name="more_ai_unit_ask_xiao_ai">Xiaomi Hyper XiaoAi-dən soruş</string>
+    <string name="more_ai_unit_close_page">Bağla</string>
+    <string name="more_ai_unit_share_text">Paylaş</string>
+    <string name="more_ai_unit_title">Mühüm nöqtələr</string>
     <string name="morning">Səhər</string>
     <string name="mtrl_badge_numberless_content_description">Yeni bildiriş</string>
     <string name="mtrl_chip_close_icon_content_description">Sil: %1$s</string>
@@ -431,6 +444,7 @@
     <string name="network_tip_dialog_content">\"Səsyazan\"ın normal işləməsi üçün internetə bağlanması lazımdır. Razılaşırsınız?</string>
     <string name="network_tip_dialog_ok">Razıyam</string>
     <string name="network_tip_dialog_title">İnternet bağlantısı tələb olunur</string>
+    <string name="new_ai_summary">Süni Zəka icmalı</string>
     <string name="new_saf_permission_dialog_content">"Səsyazan icazələri güncəlləndi. \"Səsyazan\"ın zəng səsyazmalarına erişməsinə icazə verin.
 
 İcazəni necə vermək olar
@@ -811,6 +825,8 @@
     <string name="settings_ai_record_abstract_description">Bir yazının mövzusunun və məzmunun icmalını yaradın və icmalı Notlarda saxlayın</string>
     <string name="settings_ai_record_diff_speaker">Danışanları fərqləndir</string>
     <string name="settings_ai_record_diff_speaker_description">"Mətnə çevirmə zamanı bir neçə danışan müəyyən edilsə, avtomatik olaraq fərqləndiriləcək və etiketlənəcək. Mətnə çevirmə tamamlandıqdan sonra, aydın oxumaq üçün danışan etiketlərini özəlləşdirin."</string>
+    <string name="settings_ai_record_new_summary">Mühüm nöqtələr</string>
+    <string name="settings_ai_record_summary_description">Səsyazmalarınız üçün icmallar yaradın, bölmələrə ayrılmış vurğulara baxın və icmalları paylaşın</string>
     <string name="settings_ai_record_trans">Mətnə çevirmə</string>
     <string name="settings_ai_record_trans_description">Səs yazarkən danışığı avtomatik mətnə çevirərək çevrilən mətnlərə real vaxtda baxmağınıza imkan verir</string>
     <string name="settings_ai_record_translate">Tərcümə et</string>

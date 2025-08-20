@@ -73,6 +73,7 @@ Mesajlar yalnız İkinci sahədə görünəcək."</string>
     <string name="back_key">Geri</string>
     <string name="back_tap">Geri düyməsinə toxun</string>
     <string name="back_triple_tap">Üç dəfə geri düyməsinə toxun</string>
+    <string name="backtap_gesture_prompt">Cihazın arxa tərəfinə toxunun, arxa ekrana toxunmadan.</string>
     <string name="bind_device">Cihaz əlavə et</string>
     <string name="bottom_bar_smallwindow_drag_text">Sancmaq üçün bura sürükləyin</string>
     <string name="bottom_bar_smallwindow_text">Sancmaq üçün buraxın</string>
@@ -123,9 +124,9 @@ Mesajlar yalnız İkinci sahədə görünəcək."</string>
     <string name="change_brightness">Parlaqlığı ayarla</string>
     <string name="character_counter_content_description">%1$d/%2$d xarakter daxil edilib</string>
     <string name="character_counter_overflowed_content_description">%1$d/%2$d xarakter limiti aşıldı</string>
-    <string name="check_protocol_msg_detail">"Təmir zamanı cihazın anbar sahəsi ilə əlaqədar bəzi hissələrin dəyişdirilməsinə ehtiyac yaransa, bəzi məlumatlarınız itə bilər. Təmir rejimini işə salmazdan bütün məlumatlarınızı nüsxələyin. Məhsulun təmirə göndərilməsi nəticəsində yarana biləcək məlumat itkisinə görə satış sonrası servis məsuliyyət daşımır.</string>
-    <string name="check_protocol_msg_sub">İstifadəçi Datası üzrə Məsuliyyətdən İmtina</string>
-    <string name="chooseDataTransfer">İkinci sahə məlumatları ilə nə etmək lazımdır?</string>
+    <string name="check_protocol_msg_detail">"Təmir zamanı cihazın anbar sahəsi ilə əlaqədar bəzi hissələrin dəyişdirilməsinə ehtiyac yaransa, bəzi verilər itə bilər. Təmir rejimini işə salmazdan bütün verilərinizi nüsxələyin. Məhsulun təmirə göndərilməsi nəticəsində yarana biləcək veri itkisinə görə satış sonrası servis məsuliyyət daşımır.</string>
+    <string name="check_protocol_msg_sub">İstifadəçi Verisi üzrə Məsuliyyətdən İmtina</string>
+    <string name="chooseDataTransfer">İkinci sahə veriləri ilə nə etmək lazımdır?</string>
     <string name="chooseFile">Digər faylları seçin</string>
     <string name="clear_text_end_icon_content_description">Mətni təmizlə</string>
     <string name="clearable_edittext_clear_description">Təmizlə</string>
@@ -136,7 +137,7 @@ Mesajlar yalnız İkinci sahədə görünəcək."</string>
     <string name="closePassword">Parolu söndür</string>
     <string name="closePasswordGuide">"Parolu söndürdükdən sonra Kilid ekranından İkinci sahəyə daxil ola bilməyəcəksiniz"</string>
     <string name="closeSecondSpace">İkinci sahəni sil</string>
-    <string name="closeSecondSpaceSummary">İkinci sahəni məlumatları ilə birlikdə sil</string>
+    <string name="closeSecondSpaceSummary">İkinci sahəni veriləri ilə birlikdə sil</string>
     <string name="closeSuccess">Söndürüldü</string>
     <string name="close_app">Hazırkı tətbiqi bağla</string>
     <string name="close_kid_space_success">Uşaq sahəsi silindi</string>
@@ -150,7 +151,7 @@ Mesajlar yalnız İkinci sahədə görünəcək."</string>
     <string name="complete_setting_title">"Artıq hazırsınız!"</string>
     <string name="confirm">Oldu</string>
     <string name="confirmClose">Söndür</string>
-    <string name="confirmCloseSpaceDes">"Sildikdən sonra İkinci sahəyə daxil ola bilməyəcəksiniz. Bütün məlumatlar daşınacaq və ya silinəcək."</string>
+    <string name="confirmCloseSpaceDes">"Sildikdən sonra İkinci sahəyə daxil ola bilməyəcəksiniz. Bütün verilər daşınacaq və ya silinəcək."</string>
     <string name="confirmDelete">Sil</string>
     <string name="confirmSecondSpacePassword">İkinci sahə parolunu təsdiqləyin</string>
     <string name="confirm_airspace_password">%s parolunu təsdiqləyin</string>
@@ -159,7 +160,7 @@ Mesajlar yalnız İkinci sahədə görünəcək."</string>
     <string name="confirm_main_space_password">Birinci sahə parolunu təsdiqləyin</string>
     <string name="confirm_restore">"Göstərmə"</string>
     <string name="contactData">Kontaktlar</string>
-    <string name="contact_sub_titile_text">Mesajlaşma məlumatları iki sahə arasında paylaşılacaq</string>
+    <string name="contact_sub_titile_text">Mesajlaşma veriləri iki sahə arasında paylaşılacaq</string>
     <string name="contact_titile_text">"Şəxsi mesajları istənilən vaxt görə bilmək üçün
 onları İkinci sahədə göstərin"</string>
     <string name="contact_us">Bizimlə əlaqə</string>
@@ -248,7 +249,7 @@ Korporasiya adının düzgün olduğuna əmin olun. Aktivləşdirməzdən əvvə
     <string name="ent_agency_code_invalid">Daxil etdiyiniz korporativ kod yararsızdır.</string>
     <string name="ent_agree_privacy_policy">"Gizlilik Siyasətini oxudum və razılaşıram"</string>
     <string name="ent_app_verified">Deyəsən, cihazınızda müəssisə tətbiqləri quraşdırılıb. Müəssisə rejimi aktivləşdirilsin?</string>
-    <string name="ent_confirm_dialog_content">"Müəssisə rejimini aktivləşdirdikdən sonra sisteminizin indiki vəziyyətinə qayıda bilməyəcəksiniz. Ancaq, bütün məlumatlarınız hələ də bu cihazda saxlanılacaq. Müəssisə rejimini aktivləşdirmək üçün cihazınızı yenidən başlatmalısınız. İndi aktivləşdirilsin?"</string>
+    <string name="ent_confirm_dialog_content">"Müəssisə rejimini aktivləşdirdikdən sonra sisteminizin indiki vəziyyətinə qayıda bilməyəcəksiniz. Ancaq, bütün veriləriniz hələ də bu cihazda saxlanılacaq. Müəssisə rejimini aktivləşdirmək üçün cihazınızı yenidən başlatmalısınız. İndi aktivləşdirilsin?"</string>
     <string name="ent_disallow_running">Tətbiqin işləməsi yasaqlanıb</string>
     <string name="ent_download_install_dialog_content">Müəssisə rejimini aktivləşdirmək üçün korporativ tətbiqləri quraşdırmalısınız. İndi quraşdırılsın?</string>
     <string name="ent_download_install_dialog_title">Korporativ tətbiqləri endir</string>
@@ -265,7 +266,7 @@ Korporasiya adının düzgün olduğuna əmin olun. Aktivləşdirməzdən əvvə
     <string name="ent_mode_activated">Müəssisə rejimi aktivləşdirildi</string>
     <string name="ent_network_error">"Şəbəkəyə bağlana bilmədi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın."</string>
     <string name="ent_next_step">Növbəti</string>
-    <string name="ent_privacy_policy_notice">* Bu rejimdə şəxsi məlumatlar, korporasiyanız tərəfindən müəyyən edilmiş siyasətlərə uyğun olaraq yığılır. Xiaomi, bu rejimdə heç bir şəxsi məlumat yığmır.</string>
+    <string name="ent_privacy_policy_notice">* Bu rejimdə şəxsi verilər, korporasiyanız tərəfindən müəyyən edilmiş siyasətlərə uyğun olaraq yığılır. Xiaomi, bu rejimdə heç bir şəxsi verini yığmır.</string>
     <string name="enter_air_space">İş sahəsinə get</string>
     <string name="enterprise_mode">Müəssisə rejimi</string>
     <string name="entrance_reopen_toast_msg">Fərqli parol növlərinə görə, İkinci sahə qısayolu göstərilir</string>
@@ -300,7 +301,7 @@ Korporasiya adının düzgün olduğuna əmin olun. Aktivləşdirməzdən əvvə
     <string name="fingerprint_double_tap">Barmaq izi sensoruna iki dəfə toxun</string>
     <string name="fingerprint_number_upper_limit">Həddindən artıq uğursuz kilid açma cəhdi</string>
     <string name="fingerprint_removal_failed">"Barmaq izi silinə bilmədi"</string>
-    <string name="flashback_background_start_switch_summary">Tətbiqlər arxaplanda işləyərkən əsas məlumatları ehtiva edən məlumat kartlarını avtomatik yarat</string>
+    <string name="flashback_background_start_switch_summary">Tətbiqlər arxaplanda işləyərkən mühüm məlumatları ehtiva edən məlumat kartlarını avtomatik yarat</string>
     <string name="flashback_background_start_switch_title">Məlumat kartlarını avto-yarat</string>
     <string name="flashback_baidu_map_summary">Marşrutu göstər</string>
     <string name="flashback_didi_summary">Sürüş məlumatını göstər</string>
@@ -333,7 +334,7 @@ Korporasiya adının düzgün olduğuna əmin olun. Aktivləşdirməzdən əvvə
     <string name="freeform_demo_previous_tutorial">Geri</string>
     <string name="freeform_demo_title_finish">Möhtəşəm!</string>
     <string name="freeform_demo_title_skip">Ötür</string>
-    <string name="freeform_guide_dialog_freeform_controller_summary">Üzən bir pəncərəni hərəkət etdirmək üçün üst kənarından sürükləyin və ya daha çox seçimə baxmaq üçün toxunun</string>
+    <string name="freeform_guide_dialog_freeform_controller_summary">Üzən bir pəncərəni hərəkət etdirmək üçün üst kənarından sürükləyin və ya daha çox seçimə baxmaq üçün toxunun.</string>
     <string name="freeform_guide_dialog_freeform_resize_summary">Yenidən ölçüləndirmək üçün alt künclərə sürüklə</string>
     <string name="freeform_guide_dialog_freeform_title">Üzən pəncərələr</string>
     <string name="freeform_guide_dialog_split_double_summary">Hər iki tətbiqi bağlamaq üçün ekranın aşağı ortasından yuxarı sürüşdürün</string>
@@ -408,7 +409,10 @@ basılı tutun, sonra sürükləyin"</string>
     <string name="freeform_guide_vedio_description">Üzən pəncərədə açmaq üçün yan çubuqdakı bir tətbiqə toxun</string>
     <string name="freeform_recommend_open_switch_summary">İstifadə ssenarilərinə görə tətbiqləri Bölünmüş ekranda və ya üzən pəncərələrdə açmaq üçün təkliflər alın (məs. oyunları güncəlləyərkən və ya taksi gözləyərkən)</string>
     <string name="freeform_recommend_open_switch_summary_fold">İstifadə ssenarilərinə görə tətbiqləri xarici ekrandakı üzən pəncərələrdə və daxili ekrandakı üzən pəncərələrdə və ya Bölünmüş ekranda açmaq üçün təkliflər alın (məs. oyunları güncəlləyərkən və ya taksi gözləyərkən)</string>
+    <string name="freeform_recommend_open_switch_summary_fold_no_joyose">Taksi və ya paylaşım avtomobili gözləyərkən, xarici ekranda üzən bir pəncərədə və ya daxili ekranda üzən bir pəncərədə və ya Bölünmüş ekranda tətbiqi açmaq üçün bir sorğu alın.</string>
+    <string name="freeform_recommend_open_switch_summary_no_joyose">Taksi və ya paylaşım avtomobili gözləyərkən, üzən bir pəncərədə və ya Bölünmüş ekranda tətbiqi açmaq üçün bir sorğu alın</string>
     <string name="freeform_recommend_open_switch_summary_phone">İstifadə ssenarilərinə görə tətbiqləri üzən pəncərələrdə açmaq üçün təkliflər alın (məs. oyunları güncəlləyərkən və ya taksi gözləyərkən)</string>
+    <string name="freeform_recommend_open_switch_summary_phone_no_joyose">Taksi və ya paylaşım avtomobili gözləyərkən, üzən bir pəncərədə tətbiqi açmaq üçün bir sorğu alın</string>
     <string name="freeform_recommend_open_switch_title">Ağıllı təkliflər</string>
     <string name="freeform_slide_to_small_freeform">Üzən pəncərəni kiçilt</string>
     <string name="freeform_slide_to_small_freeform_summary">Hərəkət çubuğunu basılı tutub küncə sürükləyin</string>
@@ -427,10 +431,16 @@ basılı tutun, sonra sürükləyin"</string>
     <string name="function_not_support">Bu cihazda dəstəklənmir</string>
     <string name="gd_setting_title">Yan çubuğu</string>
 	<string name="genimi_wake_up_guide_know">Anladım</string>
-    <string name="genimi_wake_up_guide_press_power_and_volume_up_message">Söndürmək və ya yenidən başlatmaq üçün Güc və Səs artırma düymələrinə basın</string>
-    <string name="genimi_wake_up_guide_press_power_key_message">Güc düyməsini %s saniyə basılı tutun, sonra Gemini-yə müraciət etmək üçün buraxın</string>
+    <string name="genimi_wake_up_guide_know_v2">Xeyr, təşəkkürlər</string>
+    <string name="genimi_wake_up_guide_press_power_and_volume_up_message">Söndürmək və ya yenidən başlatmaq üçün Güc və Həcm artırma düymələrini basın</string>
+    <string name="genimi_wake_up_guide_press_power_and_volume_up_message_v2">Cihazınızı söndürmək üçün Güc və ya Həcm artırma düymələrini basın</string>
+    <string name="genimi_wake_up_guide_press_power_key_message">Güc düyməsini %s saniyə basılı tutun, sonra Gemini-yə erişmək üçün buraxın</string>
+    <string name="genimi_wake_up_guide_press_power_key_message_for_assistant_v2">Asistentə erişmək üçün Güc düyməsini %s san basılı tutun</string>
+    <string name="genimi_wake_up_guide_press_power_key_message_for_gemini_v2">Gemini-yə erişmək üçün Güc düyməsini %s san basılı tutun</string>
     <string name="genimi_wake_up_guide_settings">Ayarlar</string>
+    <string name="genimi_wake_up_guide_settings_v2">Ayarlara keç</string>
     <string name="genimi_wake_up_guide_title">Güc düyməsi ilə aç</string>
+    <string name="genimi_wake_up_guide_title_v2">Yüksəldilmiş Güc düyməsi seçimləri</string>
     <string name="gesture_disabled">Bağlı</string>
     <string name="gesture_enable">Açıq</string>
     <string name="gesture_fullscreen_to_splitscreen">Bölünmüş ekrana keç</string>
@@ -524,7 +534,7 @@ Mesajlar yalnız İkinci sahədə görünəcək."</string>
     <string name="guide_page_up_down">Səhifələri çevir</string>
     <string name="guide_phone_call_endcall">Planşetə ötürülən zəngləri cavablandır və bitir</string>
     <string name="guide_pwd_detail_title">"Kilid ekranından İkinci sahəyə daxil olaraq
-məlumatlarınızı qoruyun"</string>
+verilərinizi qoruyun"</string>
     <string name="guide_select_word_exercise">Buradakı mətni seçməyə çalışın</string>
     <string name="guide_select_word_tip">Mətni seçmək üçün dairəyə alın və ya altından xətt çəkin</string>
     <string name="guide_select_word_title">Mətn seçin</string>
@@ -614,6 +624,7 @@ Onları ayrı-ayrı endirə bilərsiniz."</string>
     <string name="key_position_cat">Düymə mövqeləri</string>
     <string name="key_settings">Düymə və jest qısayolları</string>
     <string name="key_settings_title">Düymə və jest qısayolları</string>
+    <string name="key_stylus_laser_pen_summary">Lazer qələmi işə salmaq üçün qələmi sıxın. Söndürmək üçün buraxın.</string>
     <string name="key_system_control">Sistem kontrolu</string>
     <string name="keyboard_assistance_category">Klaviatura köməyi</string>
     <string name="keyboard_back_light">Klaviatura arxa işığı</string>
@@ -641,7 +652,7 @@ Onları ayrı-ayrı endirə bilərsiniz."</string>
     <string name="keyboard_layouts_label">Xiaomi Klaviaturası</string>
     <string name="keyboard_mouse_touch">Klaviatura, maus və trekped</string>
     <string name="keyboard_shortcuts_helper">Klaviatura qısayolları</string>
-    <string name="keyboard_shortcuts_helper_summary">Əlçatan qısayolları göstər</string>
+    <string name="keyboard_shortcuts_helper_summary">Mövcud qısayolları göstər</string>
     <string name="keyboard_touchpad_click_force">Track pad klikləmə</string>
     <string name="keyboard_touchpad_click_force_medium">Orta</string>
     <string name="keyboard_touchpad_click_force_strong">Sərt</string>
@@ -742,15 +753,15 @@ Düyməni %s saniyə basılı tutsanız, bunun əvəzinə söndürmə menyusunu 
     <string name="lp_display_shortcut_keys">Qısayolları nümayiş etdirmək üçün*basılı tutun</string>
     <string name="maintenance_mode">Təmir rejimi</string>
     <string name="maintenance_mode_close_title">Təmir rejimi açıqdır</string>
-    <string name="maintenance_mode_data_backup_agreement"><Data>Data itkini önləmək üçün, cihazınızı təmirə göndərməzdən əvvəl &lt;a href=\"%1$s\">datalarınızı nüsxələyin&lt;/a>.</Data></string>
+    <string name="maintenance_mode_data_backup_agreement"><Data>Veri itkisini önləmək üçün, cihazınızı təmirə göndərməzdən əvvəl &lt;a href=\"%1$s\">verilərinizi nüsxələyin&lt;/a>.</Data></string>
     <string name="maintenance_mode_fingerprint_msg">Təmirdən sonra barmaq izinin kalibrlənməsi tələb olunduğu üçün, ilk növbədə hazırkı barmaq izləri silinməlidir. Təmirdən sonra barmaq izini yenidən daxil edə bilərsiniz.</string>
     <string name="maintenance_mode_loading">Təmir rejimi işə salınır və cihaz yenidən başladılır…</string>
     <string name="maintenance_mode_reboot">Təmir rejimi yenidən başlatma</string>
-    <string name="maintenance_mode_title">Datalarınız mühafizə olunur</string>
-    <string name="maintenance_mode_user_data_disclaimer_agreement"><Data>"Bunu oxudum və razılaşıram: &lt;a href=\"%1$s\">İstifadəçi datası üzrə məsuliyyətdən imtina&lt;/a>"</Data></string>
+    <string name="maintenance_mode_title">Veriləriniz mühafizə olunur</string>
+    <string name="maintenance_mode_user_data_disclaimer_agreement"><Data>"Bunu oxudum və razılaşıram: &lt;a href=\"%1$s\">İstifadəçi verisi üzrə məsuliyyətdən imtina&lt;/a>"</Data></string>
     <string name="maintenance_mode_watch_out">Təmir prosesi ərzində fotolarınız, videolarınız, kontaktlarınız, zəng tarixçəniz və mesajlarınız qorunacaq və təmir edən əməkdaşlar tərəfindən görünə bilməyəcək.</string>
-    <string name="master_clear_apply_step_1">Səlahiyyətin ləğv edilməsi, cihazınızda fabrik datasına sıfırlama prosesinin icrasını tələb edir. Bu əməliyyat, hesablar, kontaktlar, fotolar və tətbiqlər daxil olmaqla bütün fayllar və məlumatların silinməsi ilə nəticələnəcək. Səlahiyyəti ləğv etməzdən əvvəl bütün vacib elementləri kompüterinizə nüsxələyin.</string>
-    <string name="master_clear_apply_step_2">Bütün vacib elementlərin kompüterinizə nüsxələndiyinə əmin olun. \"Oldu\"ya toxunduqdan sonra, cihazınızda fabrik datasına sıfırlama prosesi icra ediləcək, hesablar, kontaktlar, fotolar və tətbiqlər daxil olmaqla bütün fayllar və məlumatlar həmişəlik silinəcək.</string>
+    <string name="master_clear_apply_step_1">Səlahiyyətin ləğv edilməsi, cihazınızda fabrik verilərinə sıfırlama prosesinin icrasını tələb edir. Bu əməliyyat, hesablar, kontaktlar, fotolar və tətbiqlər daxil olmaqla bütün faylların və verilərin silinməsi ilə nəticələnəcək. Səlahiyyəti ləğv etməzdən əvvəl bütün vacib elementləri kompüterinizə nüsxələyin.</string>
+    <string name="master_clear_apply_step_2">Bütün vacib elementlərin kompüterinizə nüsxələndiyinə əmin olun. \"Oldu\"ya toxunduqdan sonra, cihazınızda fabrik verilərinə sıfırlama prosesi icra ediləcək, hesablar, kontaktlar, fotolar və tətbiqlər daxil olmaqla bütün fayllar və verilər həmişəlik silinəcək.</string>
     <string name="master_clear_apply_title">Diqqət</string>
     <string name="master_clear_not_available">Fabrik sıfırlama prosesi şirkətiniz tərəfindən məhdudlaşdırılıb.</string>
     <string name="master_clear_not_available_ep">"Fabrik sıfırlama prosesini icra etmə və ya səlahiyyəti ləğv etmə icazəniz yoxdur. Nəzarətçinizlə əlaqə saxlayın."</string>
@@ -920,13 +931,13 @@ Düyməni %s saniyə basılı tutsanız, bunun əvəzinə söndürmə menyusunu 
     <string name="not_support_air_space">"Bu özəllik telefonunuzda dəstəklənmir"</string>
     <string name="not_support_multiple_users">"Çoxlu sahələr dəstəklənmir"</string>
     <string name="notificationSetPassword">Parol təyin et</string>
-    <string name="notificationSetPasswordDes">İkinci sahə məlumatlarını qoruyur</string>
+    <string name="notificationSetPasswordDes">İkinci sahə verilərini qoruyur</string>
     <string name="notificationSummary">Bildiriş panelindən sahələr arasında keçid edin</string>
     <string name="notificationTitle">Bildiriş paneli qısayolu</string>
     <string name="notification_from_owner_user">Birinci sahə bildirişlərini göstər</string>
     <string name="notification_from_second_user">İkinci sahə bildirişlərini göstər</string>
     <string name="notification_setting_second_space">İkinci sahəni qur</string>
-    <string name="notification_setting_second_space_desc">İkinci sahə parolu əlavə edin və məlumatlarınızı daşıyın</string>
+    <string name="notification_setting_second_space_desc">İkinci sahə parolunu əlavə edin və verilərinizi daşıyın</string>
     <string name="notification_tof_gesture_content_text">Ekrana toxunmadan fərqli əməliyyatlar icra etmək üçün bu özəlliyi işə salın</string>
     <string name="notification_tof_gesture_title">Təmassız jestləri tanı</string>
     <string name="ok_button">Oldu</string>
@@ -934,7 +945,7 @@ Düyməni %s saniyə basılı tutsanız, bunun əvəzinə söndürmə menyusunu 
     <string name="openPasswordGuard">İkinci sahə parolu təyin et</string>
     <string name="openSuccess">İşə salındı</string>
     <string name="open_maintenance_mode">İşə sal</string>
-    <string name="open_maintenance_mode_tips">Təmir rejimini bağlıdır. Əlaqəli datalar silinir. Bu, bir neçə dəqiqə çəkəcək.</string>
+    <string name="open_maintenance_mode_tips">Təmir rejimini bağlıdır. Əlaqəli verilər silinir. Bu, bir neçə dəqiqə çəkəcək.</string>
     <string name="open_maintenance_mode_title">Təmir rejimini işə sal</string>
     <string name="open_system_optimization">Əvvəlcə sistem optimallaşdırmanı işə sal</string>
     <string name="opened">Açıq</string>
@@ -962,9 +973,23 @@ Düyməni %s saniyə basılı tutsanız, bunun əvəzinə söndürmə menyusunu 
     <string name="power_key_how_start_detail">Güc düyməsini 0.5 saniyə basılı tutun. Danışmaq üçün buraxın.</string>
     <string name="power_key_start_enjoy">\"Google Köməkçisi\"ni istifadə etməyə başla</string>
     <string name="power_key_start_guide">Tam ekran cihazlarda Güc düyməsini istifadə edərək \"Google Köməkçisi\"ni oyandırın</string>
+    <string name="power_off_cn_guide_1_open_power_panel">Bunun əvəzinə söndürmə menyusunu aç</string>
+    <string name="power_off_cn_guide_1_sub_title">Bunu istənilən vaxt Ayarlar > Jest qısayolları > \"Söndür və yenidən başlat\"da dəyişdirə bilərsiniz.</string>
+    <string name="power_off_cn_guide_1_talk_with_xiaoai">Təyin et</string>
+    <string name="power_off_cn_guide_1_title">Xiaomi Hyper XiaoAi ilə söhbət etmək üçün \"Güc düyməsini basılı tut\"u istifadə edin</string>
+    <string name="power_off_cn_guide_2_get">Anladım</string>
+    <string name="power_off_cn_guide_2_sub_title">Söndürmə menyusunu açmaq üçün, Güc və Həcm artırma düymələrini eyni vaxtda basılı tutun.</string>
+    <string name="power_off_cn_guide_2_title">Uğurla təyin edildi</string>
+    <string name="power_off_cn_setting_bottom_note_info">Cihazınızı məcburi yenidən başlatmaq üçün Güc düyməsini %s saniyə basılı tutun</string>
+    <string name="power_off_cn_setting_press_power_and_volume_up_reboot">Güc və Həcm artırma düymələrini eyni vaxtda basılı tutun</string>
+    <string name="power_off_cn_setting_press_power_reboot">Güc düyməsini %s saniyə basılı tutun</string>
+    <string name="power_off_cn_setting_title">Söndür və yenidən başlat</string>
 	<string name="power_off_press_power_and_volume_up_message">Güc və Səs artırma düymələrinə bas</string>
+    <string name="power_off_press_power_and_volume_up_message_v2">Güc və Həcm artırma düymələrini eyni vaxtda basın</string>
     <string name="power_off_press_power_key_message">Güc düyməsini %s saniyə basılı tut</string>
+    <string name="power_off_press_power_key_message_v2">Güc düyməsini %s san basılı tutun</string>
     <string name="power_off_title">Söndürmə və ya yenidən başlat</string>
+	    <string name="power_off_title_v2">Söndür</string>
     <string name="pref_volume_launch_camera_summary">Kameranı başlatmaq üçün Səsi azaltma düyməsinə iki dəfə basın</string>
     <string name="pref_volume_launch_camera_title">Kameranı başlat</string>
     <string name="pref_volume_wake_summary">Səs düymələrinə basmaq cihazı oyandırır</string>
@@ -979,7 +1004,7 @@ Düyməni %s saniyə basılı tutsanız, bunun əvəzinə söndürmə menyusunu 
     <string name="privacyContactsTitle">Şəxsi mesajlar və kontaktlar</string>
     <string name="privacy_password_fingerprint_dialog_message">Barmağınızı sensorun üzərinə qoyun</string>
     <string name="privacy_password_fingerprint_dialog_title">Barmaq izini skan edin</string>
-    <string name="private_sms_show_sub_title">Mesajlaşma məlumatları iki sahə arasında paylaşılacaq</string>
+    <string name="private_sms_show_sub_title">Mesajlaşma veriləri iki sahə arasında paylaşılacaq</string>
     <string name="private_sms_show_title">Şəxsi mesajlar İkinci sahədə göstərilir</string>
     <string name="private_space_setting">İdarə et</string>
     <string name="public_app">Hər iki sahə</string>
@@ -994,7 +1019,7 @@ Düyməni %s saniyə basılı tutsanız, bunun əvəzinə söndürmə menyusunu 
     <string name="removeSuccess">Uğurla silindi</string>
     <string name="remove_button">Sil</string>
     <string name="remove_button_time">Sil (%ds)</string>
-    <string name="remove_second_space_msg">İkinci sahəni sildikdən sonra bütün İkinci sahədəki tətbiq məlumatlarıni itirəcəksiniz. İndi İkinci sahə silinsin?</string>
+    <string name="remove_second_space_msg">İkinci sahəni sildikdən sonra bütün İkinci sahədəki tətbiq verilərini itirəcəksiniz. İndi İkinci sahə silinsin?</string>
     <string name="removingSpace">Silinir…</string>
     <string name="reopen_maintenance_mode">Deyəsən, cihazın kilidi əsas istifadəçi tərəfindən açılıb. Gizliliyinizi və güvənliyinizi qorumaq üçün Təmir rejimini yenidən işə salın.</string>
     <string name="repeat_scanner_fingerprint">Yenidən əlavə et</string>
@@ -1034,14 +1059,14 @@ Düyməni %s saniyə basılı tutsanız, bunun əvəzinə söndürmə menyusunu 
     <string name="search_screen_shot">Ekran şəkli</string>
     <string name="secondSpace">İkinci sahə</string>
     <string name="second_owner_finger_print">İkinci sahə barmaq izi</string>
-    <string name="second_space_desktop_tips_dialog_message">Bu güncəllənmədən sonra, məlumatların daşınması və İkinci sahənin idarə olunması ikonları artıq Əsas ekranda görüntülənməyəcək. Müvafiq özəlliklərə Ayarlarda müraciət edə biləcəksiniz.</string>
+    <string name="second_space_desktop_tips_dialog_message">Bu güncəllənmədən sonra, verilərin daşınması və İkinci sahənin idarə olunması ikonları artıq Əsas ekranda görüntülənməyəcək. Müvafiq özəlliklərə Ayarlarda erişə biləcəksiniz.</string>
     <string name="second_space_desktop_tips_dialog_positive_text">Anladım</string>
     <string name="second_space_desktop_tips_dialog_title">Vacib güncəlləmə</string>
     <string name="second_space_finger_printf_desc">İkinci sahəyə daxil olmaq üçün özəl olaraq istifadə edilən barmaq izi əlavə edin</string>
     <string name="second_space_finger_printf_title">İkinci sahə barmaq izi</string>
     <string name="second_space_setting_search_label">Gizlilik və güvənlik/Gizlilik</string>
     <string name="secondspace_homepage">"İkinci sahə üçün təyin edilmiş bir ekran kilidi təyin edin.
-Məlumatlarınızı ayırın və güvəndə saxlayın."</string>
+Verilərinizi ayırın və güvəndə saxlayın."</string>
     <string name="securitycenter_sidebar_box">Yan alət qutusu</string>
     <string name="seek_bar_info">Ölçünü ayarla</string>
     <string name="select_existed_fingerprint">Barmaq izini seçin</string>
@@ -1053,7 +1078,7 @@ Məlumatlarınızı ayırın və güvəndə saxlayın."</string>
     <string name="setSpacePasswordGuide">Kilid ekranından hər iki sahəyə daxil olmaq üçün fərqli parollar istifadə edin</string>
     <string name="setSuccess">Parollar uğurla ayarlandı</string>
     <string name="set_password_main_user">Əsas sahənin ekran kilidini təyin et</string>
-    <string name="set_password_main_user_context">"Datalarınızı qorumaq üçün ekran kilidi təyin edin. Təmir rejimini söndürdüyünüz zaman bu ekran kilidini daxil edəcəksiniz. Ekran kilidiniz geri qaytarıla bilməz, ona görə də, onu yaxşı yadda saxlayın.</string>
+    <string name="set_password_main_user_context">"Verilərinizi qorumaq üçün ekran kilidi təyin edin. Təmir rejimini söndürdüyünüz zaman bu ekran kilidini daxil edəcəksiniz. Ekran kilidiniz geri qaytarıla bilməz, ona görə də, onu yaxşı yadda saxlayın.</string>
     <string name="set_space_finger">Barmaq izi təyin et</string>
     <string name="set_space_finger_sub_text_suc">Barmaq izi uğurla ayarlandı</string>
     <string name="set_space_password">Parol təyin et</string>
@@ -1138,7 +1163,7 @@ Sonuncuları açmaq üçün cüt toxunun."</string>
     <string name="space_create_guide_title_2">İstənilən vaxt yaradın</string>
     <string name="space_create_guide_title_3">Tamamilə risksiz</string>
     <string name="space_deleted">Bu sahə silindi</string>
-    <string name="space_des_default">Şifrələnmiş data ilə təcrid olunmuş sahə</string>
+    <string name="space_des_default">Şifrələnmiş veri ilə təcrid olunmuş sahə</string>
     <string name="space_finger_sub_text">Daha sürətli keçid etmək üçün İkinci sahə barmaq izi təyin edin</string>
     <string name="space_name_default">İş sahəsi</string>
     <string name="split_operation_guide_title">Bölünmüş ekran necə istifadə edilir</string>
@@ -1151,10 +1176,14 @@ Sonuncuları açmaq üçün cüt toxunun."</string>
 İkinci sahə barmaq izini istifadə edin"</string>
     <string name="start_setting_guide_desc_title">Qurulacaq bir neçə şey var</string>
     <string name="status_bar_settings_all_app_display_loading">Bir saniyə…</string>
-    <string name="stop_xspace_alert_content">Bütün ikili tətbiqlər, hesabları və tətbiq datası ilə birgə silinsin? Bu dəyişikliyi tətbiq etmək üçün cihazınız yenidən başladılacaq.</string>
+    <string name="stop_xspace_alert_content">Bütün ikili tətbiqlər, hesabları və tətbiq veriləri ilə birgə silinsin? Bu dəyişikliyi tətbiq etmək üçün cihazınız yenidən başladılacaq.</string>
     <string name="stop_xspace_alert_title">"İkili tətbiq hesablarını silin"</string>
     <string name="strong_suppression_summary">Cihazınız təsadüfi toxunuşa daha az reaksiya verəcək, bəzi jest kontrolları kənarlara yaxın işləməyə bilər</string>
     <string name="strong_suppression_title">Böyük sahə</string>
+    <string name="stylus_action_hover">Üzərində gəzinmə</string>
+    <string name="stylus_application_effects_title">Effektlər</string>
+    <string name="stylus_application_title">Tətbiqlər</string>
+    <string name="stylus_brush_preview">Fırça önizləməsi</string>
     <string name="stylus_btn_continue">Növbəti</string>
     <string name="stylus_btn_learn">Təlim</string>
     <string name="stylus_btn_quick_write">Yazı</string>
@@ -1169,13 +1198,29 @@ Sonuncuları açmaq üçün cüt toxunun."</string>
     <string name="stylus_connect_fail_not_open_gps">"Bağlantı qurula bilmədi. Yerləşmə xidmətlərini işə salıb yenidən sınayın."</string>
     <string name="stylus_connecting">Bağlantı qurulur…</string>
     <string name="stylus_dislocation_summary">Qələmi bura taxın</string>
+    <string name="stylus_display_color_wheel">Rəng çarxını göstər</string>
+    <string name="stylus_display_shortcut_function">Qısayol panelini göstər</string>
+    <string name="stylus_double_click_summary">Bir tətbiqdə alətlər arasında cəld keçid etmək üçün qələmə iki dəfə toxunun</string>
+    <string name="stylus_double_click_title">İki dəfə basma</string>
+    <string name="stylus_exit_title">Çıx</string>
+    <string name="stylus_exit_title_summary">Çəkilənləri təmizləmək və ya lazer rejimindən çıxmaq üçün qələmə iki dəfə toxunun</string>
     <string name="stylus_focus_welcome">Xiaomi Fokus Qələmi ilə tanış olun</string>
     <string name="stylus_function_and_action">Özəlliklər</string>
+    <string name="stylus_function_create_notes">Yeni not</string>
+    <string name="stylus_function_hyper_xiaoai">Xiaomi Hyper XiaoAi</string>
+    <string name="stylus_function_partial_screenshot">Qismi ekran şəkli</string>
+    <string name="stylus_function_screen_recognition">Ekran tanıma</string>
+    <string name="stylus_function_settings_title">Funksiya ayarları</string>
     <string name="stylus_function_summary">Özəlliklər</string>
+    <string name="stylus_function_title">Özəlliklər</string>
+    <string name="stylus_function_virtual_laser">İşarətçi</string>
+    <string name="stylus_function_virtual_laser_summary">Qısayol panelindən lazer alətini seçin</string>
     <string name="stylus_guide_summary">Təlimlər</string>
     <string name="stylus_keyboard_settings_title">Qələm və klaviatura</string>
     <string name="stylus_language_summary">İngiliscə və daha bir seçilmiş dildə rəqəmləri və əllə yazılmış mətni tanıyın</string>
     <string name="stylus_laser_key_name">Spot işığı</string>
+    <string name="stylus_laser_pen_summary">Qələmi lazer işarətçisi kimi və ya vurğuları çəkmək üçün istifadə edin</string>
+    <string name="stylus_laser_pen_title">Lazer qələm</string>
     <string name="stylus_laser_summary">Fokus sahələrini dairəyə almaq üçün spotlight düyməsini basılı tutun</string>
     <string name="stylus_laser_title">Sahələri vurğula</string>
     <string name="stylus_not_connect_message">"Qələmlə bağlantı qurulmadı"</string>
@@ -1211,9 +1256,17 @@ Sonuncuları açmaq üçün cüt toxunun."</string>
     <string name="stylus_ota_update_failed">"Firmware güncəllənə bilmədi"</string>
     <string name="stylus_ota_updating">Güncəllənir</string>
     <string name="stylus_pen_mask_text">Yazmağa başlamaq üçün ekrana toxunun</string>
+    <string name="stylus_pinch_high_trigger_pressure">Möhkəm</string>
+    <string name="stylus_pinch_low_trigger_pressure">Yüngül</string>
+    <string name="stylus_pinch_pressure_adjust_title">Sıxma intensivliyi</string>
+    <string name="stylus_pinch_summary">Qısayol panelini açmaq üçün qələmi sıxın</string>
+    <string name="stylus_pinch_title">Sıx</string>
+    <string name="stylus_pinch_trigger_pressure_guide">"Sıxma üçün lazım olan təzyiqi seçin. "</string>
     <string name="stylus_primary_key">Birinci düymə</string>
+    <string name="stylus_projection">Proyeksiya</string>
     <string name="stylus_quick_note_summary">Ekran sönülü olduqda, yazmağa başlamaq üçün qələminizlə ona toxunun. Bu özəllik enerji sərfiyyatını artırır.</string>
     <string name="stylus_quick_note_title">Ekran sönülü ikən yaz</string>
+    <string name="stylus_quick_operations_summary">Qısayol panelini açmaq üçün qələmi sıxın, alətlər arasında keçid etmək üçün cüt toxunun və səhifələri uzaqdan çevirmək üçün yuxarı və ya aşağı sürüşdürün</string>
     <string name="stylus_quick_write">Yaz</string>
     <string name="stylus_quick_write_creator_summary">\"Mi Canvas\"ı açmaq üçün yazma düyməsini basılı tutun</string>
     <string name="stylus_quick_write_summary">Yazmaq və ya çəkmək üçün yazma düyməsini basılı tutun</string>
@@ -1222,9 +1275,18 @@ Sonuncuları açmaq üçün cüt toxunun."</string>
     <string name="stylus_settings_title">Qələm</string>
     <string name="stylus_shortcut_actions_summary">Yazmaq üçün birinci düyməni basılı tutun. Ekran şəkli çəkmək üçün ikinci düyməni basılı tutun.</string>
     <string name="stylus_shortcut_actions_title">Cəld əməliyyatlar</string>
+    <string name="stylus_shortcut_function_title">Qısayol paneli</string>
     <string name="stylus_shortcut_title_note">Yazı</string>
     <string name="stylus_shortcut_title_screenshot">Ekran şəkli</string>
+    <string name="stylus_show_brush_parameters">Fırça ayarlarını göstər</string>
+    <string name="stylus_slide_up_down_summary">Uzaqdan səhifələri çevirmək və ya fırça qalınlığını ayarlamaq üçün qələm üzərində yuxarı/aşağı sürüşdürün</string>
+    <string name="stylus_slide_up_down_title">Yuxarı/aşağı sürüşdür</string>
     <string name="stylus_success">Hazırdır</string>
+    <string name="stylus_switch_current_brush_and_last_brush">Əvvəlki fırçaya keç</string>
+    <string name="stylus_switch_pen_and_eraser">Fırça və silgi arasında keçid et</string>
+    <string name="stylus_touch_film_action_title">Əməliyyatlar</string>
+    <string name="stylus_touch_film_close">Bağlı</string>
+    <string name="stylus_touch_film_settings_guide">Ayarlar</string>
     <string name="stylus_vice_key">İkinci düymə</string>
     <string name="stylus_welcome">Xiaomi Ağıllı Qələmi ilə tanış olun</string>
     <string name="summary_switch_apps_settings">Hazırkı sahədə istifadə edilən tətbiqləri seçin</string>
@@ -1236,7 +1298,7 @@ Sonuncuları açmaq üçün cüt toxunun."</string>
     <string name="switchDataSummary">Elementləri sahələr arasında daşıyın</string>
     <string name="switch_apps_settings">Tətbiq ayarları</string>
     <string name="switch_data_app">Elementləri İkinci sahəyə daşıyın</string>
-    <string name="switch_data_settings">Məlumat daşı</string>
+    <string name="switch_data_settings">Veriləri daşı</string>
     <string name="switch_download_space">İş sahəsinə keç</string>
     <string name="switch_failed">"Daşına bilmədi"</string>
     <string name="switch_file_success">Fayllar uğurla daşındı</string>
@@ -1247,7 +1309,7 @@ Sonuncuları açmaq üçün cüt toxunun."</string>
     <string name="switch_in_privacy_contacts">Şəxsi kontaktları daxilə köçür</string>
     <string name="switch_out_contacts">Kontaktları xaricə köçür</string>
     <string name="switch_out_files">Faylları xaricə köçür</string>
-    <string name="switch_out_hidden_space">Hazırkı sahədən xaricə məlumat köçür</string>
+    <string name="switch_out_hidden_space">Veriləri hazırkı sahədən xaricə köçür</string>
     <string name="switch_out_photos">Fotoları xaricə köçür</string>
     <string name="switch_out_privacy_contacts">Şəxsi kontaktları xaricə köçür</string>
     <string name="switch_success">Uğurla daşındı</string>
@@ -1357,7 +1419,7 @@ Sonuncuları açmaq üçün cüt toxunun."</string>
     <string name="touchpad_title">Trekpad</string>
     <string name="touchpad_touch_click_title">Klikləmək üçün trekpada toxunun</string>
     <string name="trackball_wake_title">Trackball oyandırma</string>
-    <string name="transferApp">İkinci sahədə quraşdırılmış tətbiqlər Birinci sahəyə daşınacaq. Lakin, bütün tətbiq datası itəcək.</string>
+    <string name="transferApp">İkinci sahədə quraşdırılmış tətbiqlər Birinci sahəyə daşınacaq. Lakin, bütün tətbiq veriləri itəcək.</string>
     <string name="transferContact">Kontaktlar İkinci sahədən Birinci sahəyə daşınacaq</string>
     <string name="transferDataConfirm">Qalan elementlər silinəcək</string>
     <string name="transferDataConfirmDes">"Elementləri sildikdən sonra bərpa edə bilməyəcəksiniz."</string>
@@ -1371,7 +1433,7 @@ Sonuncuları açmaq üçün cüt toxunun."</string>
     <string name="tuesday_shortest">Ç.a.</string>
     <string name="turn_on_torch">Fənəri yandır</string>
     <string name="under_keyguard">Ekran sönülü</string>
-    <string name="undo_activated_dialog_message">"Səlahiyyətin ləğv edilməsi, Müəssisə rejimini deaktiv edəcək və cihazınızda fabrik datasına sıfırlanma icra ediləcək. Bütün əlaqəli özəlliklər artıq əlçatmaz olacaq. Bundan əlavə, Xiaomi, Müəssisə rejimi üçün tələb olunan məlumatların (IMEI, Cihaz kimliyi, sistem versiyası, bölgə və s.) yığılmasını dayandıracaq. Xatırlatmaq istərdik ki, Xiaomi, Müəssisə rejimi üçün yığılmış dataları idarə etmir. Bütün əlaqəli tərəfləri xəbərdar etmək üçün əlimizdən gələni edəcəyik, ancaq bu ləğvin təsdiqlənməsi üçün şirkətinizdəki idarəçilərlə əlaqə saxlamağınızı tövsiyə edirik. Səlahiyyət ləğv edilib fabrik datasına sıfırlama icra edilsin?"</string>
+    <string name="undo_activated_dialog_message">"Səlahiyyətin ləğv edilməsi, Müəssisə rejimini deaktiv edəcək və cihazınızda fabrik verilərinə sıfırlanma icra ediləcək. Bütün əlaqəli özəlliklər artıq əlçatmaz olacaq. Bundan əlavə, Xiaomi, Müəssisə rejimi üçün tələb olunan məlumatların (IMEI, Cihaz kimliyi, sistem versiyası, bölgə və s.) yığılmasını dayandıracaq. Xatırlatmaq istərdik ki, Xiaomi, Müəssisə rejimi üçün yığılmış veriləri idarə etmir. Bütün əlaqəli tərəfləri xəbərdar etmək üçün əlimizdən gələni edəcəyik, ancaq bu ləğvin təsdiqlənməsi üçün şirkətinizdəki idarəçilərlə əlaqə saxlamağınızı tövsiyə edirik. Səlahiyyət ləğv edilib fabrik verilərinə sıfırlama icra edilsin?"</string>
     <string name="undo_activated_dialog_ok">Ləğv et</string>
     <string name="undo_grant_dialog_message">Səlahiyyəti ləğv etdikdən sonra Xiaomi, bu özəllik üçün tələb olunan məlumatların (IMEI, Cihaz kimliyi, sistem versiyası, bölgə və s.) yığılmasını dayandıracaq. İndi ləğv edilsin?</string>
     <string name="undo_privacy_menu">Səlahiyyəti ləğv et</string>
@@ -1433,7 +1495,7 @@ Bəzi ikili tətbiqlər Google Xidmət Çərçivəsi dəstəyini tələb edir. B
     <string name="xspace_settins">Ayarla</string>
     <string name="xspace_start">Yarat</string>
     <string name="xspace_uninstall_completed">İkili tətbiq uğurla silindi</string>
-    <string name="xspace_uninstall_dialog_content">İkili tətbiqi silsəniz, bütün tətbiq məlumatları silinəcək.</string>
+    <string name="xspace_uninstall_dialog_content">İkili tətbiqi silsəniz, bütün tətbiq veriləri silinəcək.</string>
     <string name="xspace_uninstall_dialog_title">İkili tətbiqi sil</string>
     <string name="xspace_uninstalling">Silinir…</string>
     <string name="yesterday">Dünən</string>
