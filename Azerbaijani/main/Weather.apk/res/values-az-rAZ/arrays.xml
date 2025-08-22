@@ -99,14 +99,6 @@
         <item>Çox güclü</item>
         <item>Şiddətli</item>
     </string-array>
-    <string-array name="typhoon_uv_level">
-        <item>Tropik Depressiya</item>
-        <item>Tropik Fırtına</item>
-        <item>Şiddətli Tropik Fırtına</item>
-        <item>Tayfun</item>
-        <item>Şiddətli Tayfun</item>
-        <item>Super Tayfun</item>
-    </string-array>
     <string-array name="weather_type">
         <item>Təmiz</item>
         <item>Buludlu</item>

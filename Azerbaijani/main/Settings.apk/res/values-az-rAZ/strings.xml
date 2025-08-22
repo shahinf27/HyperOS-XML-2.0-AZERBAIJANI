@@ -10126,7 +10126,6 @@ Cihazınızda quraşdırılmış güvənli bir kimlik məlumatı bunu mümkün e
     <string name="status_bar_settings_notification_bar">Bildiriş paneli</string>
     <string name="status_bar_settings_notification_use_app_icon">Bildirişlər üçün tətbiq ikonlarını istifadə et</string>
     <string name="status_bar_settings_qs_layout">Cəld ayarlar düzümü</string>
-    <string name="status_bar_settings_show_lte_for_4g">4G üçün LTE ikonunu göstər</string>
     <string name="status_bar_settings_status_bar">Status çubuğu</string>
     <string name="status_bar_settings_system_state">Sistem</string>
     <string name="status_bar_title">İdarəetmə mərkəzi və status çubuğu</string>

@@ -73,6 +73,9 @@ Yeniləməyinizə kömək etməyimizi istəyirsiniz?"</item>
         <item quantity="one">%d dəq əvvəl</item>
         <item quantity="other">%d dəq əvvəl</item>
     </plurals>
+    <plurals name="added_to_playlist">
+        <item quantity="other">%d mahnı pleylistə əlavə edildi</item>
+    </plurals>
     <plurals name="asm_download_batch_action_start_download">
         <item quantity="one">%1$d mahnı endirmə növbəsinə əlavə edildi</item>
         <item quantity="other">%1$d mahnı endirmə növbəsinə əlavə edildi</item>

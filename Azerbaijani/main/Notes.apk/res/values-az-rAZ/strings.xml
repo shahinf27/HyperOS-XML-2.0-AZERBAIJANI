@@ -994,6 +994,7 @@
     <string name="toast_excerpt_open_note">Not çıxarışla açıldı</string>
     <string name="toast_excerpt_saved">Çıxarış \"Notlar\"da saxlanılır…</string>
     <string name="toast_message_add_image_fail">"Təsvir əlavə edilə bilmədi"</string>
+    <string name="toast_minimal_mode_widget_add_unsupported">"Lite rejimində Əsas ekrana vicet əlavə edilə bilmir"</string>
     <string name="toast_notes_delete_success">Uğurla silindi</string>
     <string name="toast_notes_hidden_edit">Bu not uğurla gizlədildi. Gizli notlara baxmaq üçün aşağı çəkin.</string>
     <string name="toast_notes_hidden_edit_new">Not gizlidir. Gizli notlara baxmaq üçün aşağı çəkin.</string>

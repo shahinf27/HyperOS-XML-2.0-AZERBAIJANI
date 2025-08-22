@@ -58,11 +58,13 @@
     <string name="action_item_share">Paylaş</string>
     <string name="action_settings">Ayarlar</string>
     <string name="actionbar_button_up_description">Geri</string>
+    <string name="activity_details">Tədbir detalları</string>
     <string name="ad_close">Bağla</string>
     <string name="ad_data_exception">Reklam veri xətası</string>
     <string name="ad_flag_text">Reklam</string>
     <string name="ad_recommend">Reklamları göstər</string>
     <string name="ad_setting">Əlavə ayarlar</string>
+    <string name="ad_units">Reklam vahidləri</string>
     <string name="add">Əlavə et</string>
     <string name="add_music">Mahnı əlavə et</string>
     <string name="add_songs_manually_bottom">Əlavə et</string>
@@ -73,7 +75,10 @@
     <string name="add_to_playlist">Növbəyə əlavə et</string>
     <string name="add_to_playlist_successful">Uğurla əlavə edildi</string>
     <string name="added_next_play">Növbəyə əlavə edildi</string>
+    <string name="ads_sdk_version">SDK Versiyası</string>
+    <string name="advertisement_network_settings">Reklam Şəbəkə Ayarları</string>
     <string name="afternoon">Günortadan sonra</string>
+    <string name="age_restricted_user">Yaş Məhdudiyyətli İstifadəçi</string>
     <string name="agreement_desc">İstifadəçi Razılaşması (məcburi)</string>
     <string name="agreement_desc_new">"İstifadəçi Razılaşması
 (Məcburi)"</string>
@@ -104,6 +109,7 @@
     <string name="already_favorited">Artıq sevimlilərdədir</string>
     <string name="always_use_metered">Həmişə mobil veri istifadə et</string>
     <string name="am">GƏ</string>
+    <string name="api_level">API Level</string>
     <string name="app_closed_toast">Dinamik üzlər bağlıdır</string>
     <string name="app_description_content">"Musiqi, səs pleyeri ehtiva edən və səs fayllarını idarə etməyinizə imkan verən bir sistem tətbiqidir. Əsas ekran qısayolunu sildikdən sonra yenə də səs fayllarını oxutmağa davam edə biləcəksiniz."</string>
     <string name="app_description_title">\"Musiqi\" Əsas ekrandan silinsin?</string>
@@ -129,9 +135,12 @@
     <string name="app_permission_use_group_storage">Anbar</string>
     <string name="app_permission_use_group_storage_desc">Cihazda saxlanılan mahnıları tapmaq və oxutmaq üçün</string>
     <string name="app_resident_push_switch">Daimi bildirişlərə icazə ver</string>
+    <string name="app_review_status">Tətbiq incələmə statusu</string>
     <string name="app_third_privacy">Üçüncü tərəf gizlilik siyasətləri</string>
+    <string name="app_version">Tətbiq versiyası</string>
 	<string name="app_video_float_switch">Üzən pəncərə rejimi</string>
     <string name="app_video_float_switch_summry">"Arxaplanda oxudarkən videonu Əsas ekranda üzən pəncərə kimi nümayiş etdir"</string>
+    <string name="application_info">Tətbiq məlumatı</string>
     <string name="apply_for_the_following_permissions">Bu tətbiq aşağıdakı icazələri tələb edir:</string>
     <string name="apply_permissions_greater_than_pie">Ayarlar &gt; Tətbiqlər &gt; İcazələr &gt; İcazələr &gt; Fayllar və media &gt; \"Musiqi\"də bu icazəni verə bilərsiniz.</string>
     <string name="apply_permissions_greater_than_tiramisu">Ayarlar &gt; Tətbiqlər &gt; İcazələr &gt; Musiqi və video/Fotolar və videolar &gt; \"Musiqi\"də bu icazəni verə bilərsiniz.</string>
@@ -167,9 +176,9 @@
     <string name="asm_auth_incomplete_toast">Davam etmək üçün kimlik doğrulamanı tamamlayın</string>
     <string name="asm_batch_download_failed">"Endirilə bilmədi"</string>
     <string name="asm_buy_member_success">VIP üzvlük uğurla satın alındı</string>
-    <string name="asm_category_off_no_play_toast">Oflayndır, təzələmək üçün aşağı çəkin</string>
-    <string name="asm_category_updated_play_new_toast">Resurs güncəlləndi, ən son məzmun oxudulacaq</string>
-    <string name="asm_category_updated_toast">Resurs güncəlləndi</string>
+    <string name="asm_category_off_no_play_toast">Bu qrafik artıq mövcud deyil. Təzələmək üçün aşağı çəkin.</string>
+    <string name="asm_category_updated_play_new_toast">Yeni elementlər mövcuddur. Yeni elementlər oxudulacaq.</string>
+    <string name="asm_category_updated_toast">Yeni elementlər mövcuddur</string>
     <string name="asm_check_video_playing">"Video oxudulur. Element pleylistə əlavə edilə bilmir."</string>
     <string name="asm_congratulations">Təbriklər!</string>
     <string name="asm_delete_all">Təmizlə</string>
@@ -472,6 +481,7 @@ Mobil veri üzərindən musiqi yayımı etsəniz, şəbəkəniz xidmət haqqı t
     <string name="cancel_running_download">İmtina</string>
     <string name="cannot_download_to_sdcard_hint">"Müəllif hüququ məhdudiyyətlərinə görə elementlər SD karta endirilə bilmir. Bunun əvəzində elementlər daxili anbara endiriləcək."</string>
     <string name="card_content_descriptor">kart</string>
+    <string name="category_album">Kateqoriya albomu</string>
     <string name="change_download_quality">Endirmə keyfiyyətini dəyişdir</string>
     <string name="character_counter_content_description">%1$d/%2$d xarakter daxil edilib</string>
     <string name="character_counter_overflowed_content_description">%1$d/%2$d xarakter limiti aşıldı</string>
@@ -480,6 +490,7 @@ Mobil veri üzərindən musiqi yayımı etsəniz, şəbəkəniz xidmət haqqı t
     <string name="choose_download_quality">Endirmə keyfiyyətini seçin</string>
     <string name="choose_music_lang_pref">Mahnılar üçün tərcih edilən dillər</string>
     <string name="choose_stream_quality">Yayım keyfiyyətini seçin</string>
+    <string name="claim_immediately">Elə indi al</string>
     <string name="clause_content_first">Qanuni tələblərə əsasən, \"Mi Musiqi\"nin sizə müvafiq xidmətləri təqdim etməsi üçün razılığınıza ehtiyacı var.</string>
     <string name="clause_content_second">"Şəxsi məlumatlarınızı sənaye güvənlik standartlarına uyğun olaraq qoruyacağıq."</string>
     <string name="clause_content_third">İstənilən vaxt Ayarlarda razılığınızı geri götürə bilərsiniz.</string>
@@ -495,6 +506,9 @@ Mobil veri üzərindən musiqi yayımı etsəniz, şəbəkəniz xidmət haqqı t
     <string name="columbus_ad_choices_copy_token">Tokeni kopyala (%s)</string>
     <string name="columbus_ad_choices_privacy_policy">Gizlilik Siyasəti</string>
     <string name="columbus_ad_flag_text">Reklam</string>
+    <string name="columbus_ad_layout_swipe_to_detail_link">Detallara baxmaq üçün sola sürüşdür</string>
+    <string name="columbus_ad_xout_do_not_resubmit">"Təkrar əks-əlaqəni göndərməyin"</string>
+    <string name="columbus_ad_xout_feedback_submitted">Uğurla göndərildi</string>
     <string name="columbus_ad_layout_swipe_to_detail_link">Detallara baxmaq üçün sola sürüşdür</string>
     <string name="columbus_exo_controls_cc_disabled_description">Altyazıları aç</string>
     <string name="columbus_exo_controls_cc_enabled_description">Altyazıları bağla</string>
@@ -563,11 +577,13 @@ Mobil veri üzərindən musiqi yayımı etsəniz, şəbəkəniz xidmət haqqı t
     <string name="common_open_on_phone">Telefonda aç</string>
     <string name="common_signin_button_text">Daxil ol</string>
     <string name="common_signin_button_text_long">Google ilə daxil olun</string>
+    <string name="completed_integration">Tam inteqrasiya</string>
     <string name="confirm">Oldu</string>
     <string name="confirm_exit">Dəyişikliklər saxlanılsın?</string>
     <string name="connect_now">Bağlantı qur</string>
     <string name="connecting_apk">Bağlantı qurulur…</string>
-    <string name="content_failed_to_load">"Məzmun yüklənilə bilmədi"</string>
+    <string name="content_failed_to_load">"Məzmun yüklənə bilmədi"</string>
+    <string name="continue_watching">Baxmağa davam et</string>
     <string name="converting_video">Video çevrilir…</string>
     <string name="copy">Kopyala</string>
     <string name="copy_toast_msg">Keçid lövhəyə kopyalandı</string>
@@ -591,6 +607,8 @@ Mobil veri üzərindən musiqi yayımı etsəniz, şəbəkəniz xidmət haqqı t
     <string name="date_picker_label_year"></string>
     <string name="date_picker_lunar">Ənənəvi Çin Təqvimi</string>
     <string name="date_time_picker_dialog_title">Tarix və saatı ayarla</string>
+    <string name="debug_panel_ad_unit_format">Format</string>
+    <string name="debug_panel_ad_unit_id">ID</string>
     <string name="default_action_cancel_label">İmtina</string>
     <string name="default_action_pause_label">Fasilə ver</string>
     <string name="default_action_resume_label">Davam etdir</string>
@@ -672,10 +690,14 @@ Veriləri təmizlədikdən sonra tətbiqdən çıxış ediləcək. Bu verilər h
     <string name="dialog_title_not_available">"Endirilə bilmədi"</string>
     <string name="dialog_title_queued_body">Fayl hələ mövcud deyil</string>
     <string name="dialog_title_remove_tracks">Sil</string>
+    <string name="disable">Sıradan çıxart</string>
     <string name="disallow_add_to_fm">"\"FM radio\"ya musiqi əlavə edilə bilmir"</string>
-    <string name="discover_more_music">Daha çox mahnı kəşf edin</string>
+    <string name="discover_more_music">Daha çox mahnı kəşf et</string>
+    <string name="div_slider_range_end">Aralıq sonu</string>
+    <string name="div_slider_range_start">Aralıq başlanğıcı</string>
     <string name="do_not_remind_this_version">"Mənə bu versiyanı xatırlatmayın"</string>
     <string name="do_not_support_google_voice_search">"Google Səsli Axtarış cihazınızda dəstəklənmir."</string>
+    <string name="do_you_want_to_enable_logging">Log-lara yazmanı fəallaşdırırsınız?</string>
     <string name="download">Endir</string>
     <string name="download_added_to_list">Endirmə siyahısına əlavə edildi</string>
     <string name="download_apk_desktop_installing">Quraşdırılır</string>
@@ -755,6 +777,7 @@ Veriləri təmizlədikdən sonra tətbiqdən çıxış ediləcək. Bu verilər h
     <string name="empty"></string>
     <string name="empty_page_no_album">Albom yoxdur.</string>
     <string name="empty_page_no_artist">Sənətçi yoxdur.</string>
+    <string name="enable">Fəallaşdır</string>
     <string name="enabled">Fəaldır</string>
     <string name="enjoy_hungama_pro">gungama Gold ilə əylənin</string>
     <string name="enroll_in">Yazıl</string>
@@ -853,6 +876,7 @@ Veriləri təmizlədikdən sonra tətbiqdən çıxış ediləcək. Bu verilər h
     <string name="favorite_tracks">Sevimlilər</string>
     <string name="favorites">Sevimlilər</string>
     <string name="fcm_fallback_notification_channel_label">Müxtəlif</string>
+    <string name="features">Özəlliklərimizi</string>
     <string name="feed_back">Əks-əlaqə</string>
     <string name="feed_back_ad_desc">Mi Musiqi, əsas gəlir mənbəyi olaraq reklamlara əsaslanan ödənişsiz bir xidmətdir. Özəlliklərimizi və xidmətlərimizi təkmilləşdirməyə davam etmək və güncəlləmə buraxılışı üçün reklam gəlirini istifadə edirik. Mümkün olduqda, sizə daha axıcı təcrübə təqdim etmək üçün reklamların sayını azaldırıq.</string>
     <string name="feed_back_ad_problem">Həddən artıq reklam var</string>
@@ -912,10 +936,15 @@ Veriləri təmizlədikdən sonra tətbiqdən çıxış ediləcək. Bu verilər h
     <string name="format_unsupported_or_corrupted">"Bu format dəstəklənmir və ya fayl zədələnmişdir"</string>
     <string name="fragment_title_artist_album">Albomlar</string>
     <string name="free">Ödənişsiz</string>
+    <string formatted="false" name="free_duration_refresh_time">Ödənişsiz vaxt, hər gün UTC-%d vaxtı ilə saat 00:00-da yenilənir.</string>
+    <string name="free_music_period">Bu gün +%d saat</string>
+    <string name="free_music_period_15min">%d dəqiqə</string>
+    <string name="free_rights_expired">Ödənişsiz faydanın müddəti bitdi, daha çox mahnı oxutmaq üçün videoya baxın</string>
     <string name="friday">Cümə</string>
     <string name="friday_short">Cüm</string>
     <string name="friday_shortest">Cüm</string>
     <string name="gcm_fallback_notification_channel_label">Müxtəlif</string>
+    <string name="get_free_music_rights">Təbriklər! Ödənişsiz musiqi dinləmə hüququnu əldə edin</string>
     <string name="get_more_favorite_content_after_login">Daha çox mahnı və video kəşf etmək üçün daxil olun.</string>
     <string name="get_one_day_vip">%d günlük VIP qazandınız!</string>
     <string name="get_one_hour_vip">%d saatlıq VIP qazandınız!</string>
@@ -930,6 +959,8 @@ Veriləri təmizlədikdən sonra tətbiqdən çıxış ediləcək. Bu verilər h
     <string name="gps_prompt_context">Mobil şəbəkə ilə endirilsin?</string>
     <string name="gps_prompt_title">İpucu</string>
     <string name="handle_later">İndi yox</string>
+    <string name="has_location_consent">Yerləşmə razılığı var</string>
+    <string name="has_user_consent">İstifadəçi razılığı var</string>
     <string name="hd_quality_audio">HD keyfiyyətli səs</string>
     <string name="headset_and_audio_effect_category">Qulaqlıqlar və səs effektləri</string>
     <string name="headset_and_audio_effect_summary">Qulaqlıqlar və tarazlayıcı</string>
@@ -984,9 +1015,9 @@ Veriləri təmizlədikdən sonra tətbiqdən çıxış ediləcək. Bu verilər h
     <string name="hungama_subscribe_title">Gold üzvlüyü</string>
     <string name="i_know">Oldu</string>
     <string name="icon_content_description">Dialoq ikonu</string>
-    <string name="iframe_collection_dialog_message">Yığdığınız bütün onlayn videolar burdadır. Onlara baxmaq üçün toxunun.</string>
-    <string name="iframe_collection_dialog_title">Kolleksiyaya bax</string>
-    <string name="iframe_delete_dialog_desc">Bu videonu sevimlilərdən silmək istəyirsiniz?</string>
+    <string name="iframe_collection_dialog_message">"Sevimlilərə əlavə etdiyiniz onlayn videolar \"İzlə\"də tapa bilərsiniz."</string>
+    <string name="iframe_collection_dialog_title">İzlə > Sevimlilər</string>
+    <string name="iframe_delete_dialog_desc">Bu video sevimlilərdən silinsin?</string>
     <string name="ijkplayer_dummy"></string>
     <string name="imported">Daxilə köçürüldü</string>
     <string name="impunity_declaration_content">Məhsulu istifadə etməzdən əvvəl &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=en\"&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; və &lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=en\"&gt;Gizlilik Siyasətimizi&lt;/a&gt; oxumalı və razılaşmalısınız.</string>
@@ -997,6 +1028,9 @@ Veriləri təmizlədikdən sonra tətbiqdən çıxış ediləcək. Bu verilər h
     <string name="impunity_declaration_summary">Musiqi tətbiqi hər dəfə başladılanda Xidmət Şərtlərini göstər</string>
     <string name="impunity_declaration_title">Xidmət Şərtləri</string>
     <string name="in_searching_please_wait">Axtarılır…</string>
+    <string name="incentive_video_dialog_content1">%d、允许用户只需观看一段短视频广告，即可免费畅听高品质音乐。</string>
+    <string formatted="false" name="incentive_video_dialog_content2">%d、免费时长于每日UTC-%d %dAM刷新。</string>
+    <string name="incentive_video_dialog_content3">%d、本活动的最终解释权归Mi Music所有。</string>
     <string name="individuation_card_login_button">Daxil ol</string>
     <string name="individuation_card_login_message">"Sevəcəyiniz daha çox mahnını tapmaq üçün daxil olun"</string>
     <string name="individuation_card_title">Sizin üçün</string>
@@ -1021,6 +1055,10 @@ Veriləri təmizlədikdən sonra tətbiqdən çıxış ediləcək. Bu verilər h
     <string name="insight_web_overview">Endirilə bilən elementlər tapıldı</string>
     <string name="installing_apk">Quraşdırılır…</string>
     <string name="insufficient_space">"Cihazınızın daxili anbarında yetərli sahə yoxdur"</string>
+    <string name="integrated">İnteqrasiya edilib</string>
+    <string name="integration_errors">İnteqrasiya xətaları</string>
+    <string name="invalid_integration">Yararsız inteqrasiya</string>
+    <string name="invalid_mediation_adapter_version">Invalid mediation adapter version</string>
     <string name="is_latest_version">Musiqi güncəldir.</string>
     <string name="is_scanning">Anbar yoxlanılır…</string>
     <string name="is_scanning_support_online">"Anbar yoxlanılır…
@@ -1093,6 +1131,7 @@ Veriləri təmizlədikdən sonra tətbiqdən çıxış ediləcək. Bu verilər h
     <string name="like">Bəyən</string>
     <string name="list_item_play_all_tracks">Hamısını oxut</string>
     <string name="listen_anywhere">İstənilən yerdə dinləyin</string>
+    <string name="listen_now">立即听歌</string>
     <string name="load_shuffle">Yüklənir…</string>
     <string name="loadercontainer_loading">Bir saniyə…</string>
     <string name="loading_hint">Bir saniyə…</string>
@@ -1120,6 +1159,8 @@ Veriləri təmizlədikdən sonra tətbiqdən çıxış ediləcək. Bu verilər h
     <string name="lock_screen_settings">Kilid ekranı ayarları</string>
     <string name="lock_screen_slide_up">Kilidi açmaq üçün yuxarı sürüşdür</string>
     <string name="lock_screen_switch">Kilid ekranında musiqi</string>
+    <string name="logging_is_disabled">Logging sıradan çıxarılıb</string>
+    <string name="logging_is_enabled">Logging fəaldır</string>
     <string name="login_instantly">Daxil ol</string>
     <string name="login_mi_account_and_gain_more_rights">Daha çox özəlliyə erişmək üçün Xiaomi Hesabınızla daxil olun.</string>
     <string name="login_out_tip">"Hələlik çıxış edilə bilmir. Bunun əvəzinə bütün tətbiq məlumatlarını təmizləyə bilərsiniz."</string>
@@ -1210,6 +1251,7 @@ Veriləri təmizlədikdən sonra tətbiqdən çıxış ediləcək. Bu verilər h
     <string name="midnight">Gecə</string>
     <string name="milink_unavaliable_please_update">"Mi Link əlçatmazdır. MIUI-ı güncəllə."</string>
     <string name="millions_songs">Milyonlarla mahnı</string>
+    <string name="missing_integration">Əskik inteqrasiya</string>
     <string name="miuishare_account_login_ok">Daxil ol</string>
     <string name="miuishare_no_network">"Şəbəkəyə bağlana bilmir."</string>
     <string name="miuishare_publish">Göndər</string>
@@ -1241,6 +1283,7 @@ Veriləri təmizlədikdən sonra tətbiqdən çıxış ediləcək. Bu verilər h
     <string name="miuix_appcompat_select_item">Elementləri seç</string>
 	<string name="miuix_appcompat_show_dialog_description">Açılan pəncərə</string>
     <string name="miuix_indexer_collect">Kolleksiyalar</string>
+    <string name="miuix_pairing_dialog_closable_icon_description">Bağla</string>
     <string name="miuix_indexer_selected">%s seçildi</string>
 	<string name="miuix_progressbar_loading">Bir saniyə…</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Təzələmək üçün aşağı çəkin</string>
@@ -1276,10 +1319,12 @@ Veriləri təmizlədikdən sonra tətbiqdən çıxış ediləcək. Bu verilər h
     <string name="monetization_ads_internal_instream_skip">Ötür</string>
     <string name="monetization_ads_internal_instream_sponsored_default">Reklam</string>
     <string name="monetization_ads_internal_instream_sponsored_social">Sosial reklam</string>
+    <string name="monetization_ads_internal_mediation_sponsored_text">Reklam</string>
     <string name="monetization_ads_internal_rewarded_close_verification_button_close">Bağla</string>
     <string name="monetization_ads_internal_rewarded_close_verification_button_dismiss">Rədd et</string>
     <string name="monetization_ads_internal_rewarded_close_verification_text">Taymer bitmədən reklamı bağlasanız, mükafatı almayacaqsınız</string>
     <string name="monetization_ads_internal_rewarded_close_verification_title">Reklam bağlanılsın?</string>
+    <string name="monetization_ads_internal_scan_qrcode">Kodu skan et</string>
     <string name="monetization_ads_internal_text_divider">·</string>
     <string name="monetization_ads_internal_text_divider_with_space">·</string>
     <string name="monetization_ads_internal_tools_age_text">3+</string>
@@ -1398,10 +1443,12 @@ Veriləri təmizlədikdən sonra tətbiqdən çıxış ediləcək. Bu verilər h
     <string name="network_request_error">"Şəbəkəyə bağlana bilmir"</string>
     <string name="network_settings_error">"Şəbəkəyə bağlana bilmir"</string>
     <string name="network_tip_title">Yeni musiqilərlə dolu dünyaya qoşulun</string>
-    <string name="network_traffic">İnternet istifadəsi</string>
+    <string name="network_traffic">Veri istifadəsi</string>
+    <string name="new_user_free_music_rights">恭喜您!获得新用户免费听歌权益</string>
     <string name="next_time">İndi yox</string>
     <string name="next_to_play">Növbəti</string>
     <string name="night">Axşam</string>
+    <string name="no">Xeyr</string>
     <string name="no_album_info">Albom məlumatı yoxdur</string>
     <string name="no_artist_info">Sənətçi məlumatı yoxdur</string>
     <string name="no_downloads">Endirmə yoxdur</string>
@@ -1422,8 +1469,10 @@ Veriləri təmizlədikdən sonra tətbiqdən çıxış ediləcək. Bu verilər h
     <string name="no_song_title">Mi Musiqi</string>
     <string name="no_system_cropper_find">"Sistemdə şəkil üçün kəsici yoxdur"</string>
     <string name="no_url">Ünvan yararsızdır</string>
+    <string name="no_value_set">Heç bir dəyər təyin olunmayıb</string>
     <string name="noon">Günorta</string>
     <string name="normal_quality">Yaxşı</string>
+    <string name="not_integrated">İnteqrasiya olunmayıb</string>
     <string name="not_login">Daxil olunmadı</string>
     <string name="not_now">İndi yox</string>
     <string name="not_selected">Bir mahnı seçin</string>
@@ -1463,6 +1512,7 @@ Təkrar onlayn olduğunuz zaman daha çoxunu paylaşacağıq."</string>
     <string name="one_day_vip">%d günlük VIP</string>
     <string name="one_hour_vip">%d saatlıq VIP</string>
     <string name="one_minute_vip">%d dəqiqəlik VIP</string>
+    <string name="one_video_free_duration">一个视频%d分钟免费时长</string>
     <string name="online_apk_acquired">Yükləndi %d%%</string>
     <string name="online_apk_acquiring">Yüklənir… %d%%</string>
     <string name="online_apk_download_error_no_enough_space">"Yetərsiz anbar sahəsinə görə endirilə bilmədi."</string>
@@ -1603,6 +1653,7 @@ Təkrar onlayn olduğunuz zaman daha çoxunu paylaşacağıq."</string>
     <string name="passport_no_account">Daxil olunmadı</string>
     <string name="passport_open_settings">Ayarlar</string>
     <string name="passport_page_load_failed">"Səhifə açıla bilmir"</string>
+    <string name="passport_password_hide_show">Parolu gizlət</string>
     <string name="passport_password_login_btn">Daxil ol</string>
     <string name="passport_password_not_show">"Parol göstərilməsin"</string>
     <string name="passport_password_show">Parolu göstər</string>
@@ -1775,6 +1826,7 @@ Yuxarıda qeyd olunan xidmətlərin istifadəsi ilə razılaşmırsınızsa, bu 
     <string name="pro_member">Gold üzvü</string>
     <string name="project_device">Mi Telefon</string>
     <string name="prompt_grant_write_settings_permission">Sistem ayarlarını dəyişdirməyə icazə ver</string>
+    <string name="provided">Provided</string>
     <string name="pulluprefreshrecyclerview_loading_error">"Yüklənə bilmədi"</string>
     <string name="pulluprefreshrecyclerview_loading_finished">Uğurla yükləndi</string>
     <string name="pulluprefreshrecyclerview_loading_running">Yüklənir…</string>
@@ -1815,6 +1867,7 @@ Xoşbəxt ol"</string>
     <string name="retry_download">Yenidən sına</string>
     <string name="revoke_upload_playlist_to_hungama_toast">"Onlayn mahnılar hungama-ya sinxronlaşdırılmayacaq"</string>
     <string name="reward_received">Bir VIP üzvlük qazandınız!</string>
+    <string name="rights_less_than_five_minutes">您的权益已不足%d分钟，观看视频以播放更多歌曲</string>
     <string name="ringtone_editing">Zəng səsi redaktoru</string>
     <string name="ringtone_not_support">"Bu mahnı formatı dəstəklənmir"</string>
     <string name="ringtone_selected">Seçildi</string>
@@ -1842,6 +1895,9 @@ Xoşbəxt ol"</string>
     <string name="saturday_shortest">Şən</string>
     <string name="save_changes">Dəyişiklikləri saxla</string>
     <string name="save_image">Təsviri saxla</string>
+    <string name="sdk_integration">SDK Integration</string>
+    <string name="sdk_integration_status">SDK Integration Status</string>
+    <string name="sdk_undefined">SDK Undefined</string>
     <string name="search_album_and_lyric">Albom üzlərini və mahnı sözlərini axtar</string>
     <string name="search_empty">"Heç bir nəticə tapıla bilmədi"</string>
     <string name="search_empty_subtitle_online_music">%s elementini açmaq üçün aşağıdakı düyməyə basın.</string>
@@ -1878,6 +1934,7 @@ Xoşbəxt ol"</string>
     <string name="select_none">Heç birini seçmə</string>
     <string name="select_one_language">Ən azı 1 dil seçin</string>
     <string name="select_three_languages">3 dilə qədər seçə bilərsiniz</string>
+    <string name="selected_album">精选专辑</string>
     <string name="selected_count">%1$d/%2$d seçildi</string>
     <string name="send">Göndər</string>
     <string name="send_to_title">Göndər: %1$s</string>
@@ -1988,6 +2045,7 @@ Xoşbəxt ol"</string>
     <string name="song_swipe_navigation">Mahnını dəyişmək üçün sola və ya sağa sürüşdürün</string>
     <string name="songgroup_pick_album">Albomlar</string>
     <string name="songgroup_pick_playlist">Pleylistlər</string>
+    <string name="sony_playlist">SONY歌单</string>
     <string name="sort_by_name">Ad</string>
     <string name="sort_by_time">Tarix</string>
     <string name="sound">Səs</string>
@@ -2019,6 +2077,7 @@ Xoşbəxt ol"</string>
     <string name="swipe_for_more">Daha çox musiqili videolar üçün yuxarı sürüşdürün</string>
     <string name="swipe_to_exit">Çıxmaq üçün yenidən sürüşdür</string>
     <string name="switch_success">Uğurla keçildi</string>
+    <string name="system">Sistem</string>
     <string name="tab_album">Albomlar</string>
     <string name="tab_album_list">Albomlar</string>
 	<string name="tab_all">Hamısı</string>
@@ -2075,10 +2134,10 @@ Xoşbəxt ol"</string>
     <string name="task_card_button_exchange">İstifadə et</string>
     <string name="task_card_message_received_successfully">"Bugünün tapşırıqlarını tamamladınız. İndi coin-lərinizi istifadə edin!"</string>
     <string name="task_card_title_received_successfully">Uğurla götürüldü</string>
+    <string name="tcf_consent">TCF Razılığı</string>
     <string name="telephone_permissions_for_push">Zəng icazələri: Google ani bildiriş xidmətlərinin göstərilməsi üçün</string>
     <string name="terms_of_service">Xidmət Şərtləri</string>
     <string name="test_mode">Test rejimi</string>
-	<string name="text_input_layout_default_error">Bu, ilkin xətadır</string>
     <string name="the_anniversary_of_lifting_martial_law">Hərbi Vəziyyətin Qaldırılma İldönümü</string>
     <string name="the_anti_aggression_day">Təcavüzlə Mübarizə Günü</string>
     <string name="the_arbor_day">Ağacəkmə Günü</string>
@@ -2119,6 +2178,7 @@ Xoşbəxt ol"</string>
     <string name="the_united_nations_day">Birləşmiş Millətlər Günü</string>
     <string name="the_valentines_day">"Sevgililər Günü"</string>
     <string name="the_water_lantern_festival">Su Fənəri Festivalı</string>
+    <string name="three_videos_free_duration">三个视频%d小时免费时长</string>
     <string name="thursday">Cümə axşamı</string>
     <string name="thursday_short">C.a.</string>
     <string name="thursday_shortest">C.a.</string>
@@ -2174,12 +2234,14 @@ Xoşbəxt ol"</string>
     <string name="tt_ad_close_text">Reklam bağlandı</string>
     <string name="tt_ad_is_closed">Reklamlar bağlandı</string>
     <string name="tt_ad_logo_txt">Reklam</string>
-    <string name="tt_auto_play_cancel_text">İmtina</string>
+    <string name="tt_add_bad_reason">Pis olduğunu düşündüyünüz səbəbi əlavə edin</string>
+    <string name="tt_bad">Pis</string>
     <string name="tt_comment_num">%1$s rəy</string>
     <string name="tt_count_down_view">Ötür</string>
     <string name="tt_dislike_header_tv_back">Geri</string>
     <string name="tt_dislike_header_tv_title">Seç</string>
 	<string name="tt_display_error">Nümayiş xətası</string>
+    <string name="tt_done">Hazırdır</string>
     <string name="tt_error_adtype_differ">Reklam növü xətası</string>
     <string name="tt_error_unknow">Bilinməyən xəta</string>
     <string name="tt_error_update_version">Lütfən, 2310 və ya daha sonrakı versiyaya güncəlləyin</string>
@@ -2187,8 +2249,11 @@ Xoşbəxt ol"</string>
     <string name="tt_feedback_experience_text">"Xidmətimizi təkmilləşdirməyə davam edəcəyik."</string>
     <string name="tt_feedback_submit_text">"Əks-əlaqənizi göndərdiniz! Lütfən təkrar göndərməyin."</string>
     <string name="tt_feedback_thank_text">Əks-əlaqəniz üçün təşəkkürlər!</string>
+    <string name="tt_feel_hint">Bu reklamın sizə təsir etdiyini bildirin</string>
     <string name="tt_frequent_call_erroe">Reklam tələbləri çox tez-tez olur</string>
     <string name="tt_full_screen_skip_tx">5 san sonra ötür</string>
+    <string name="tt_good">Yaxşı</string>
+    <string name="tt_like_this_ad">Bu reklamı bəyəndiniz?</string>
     <string name="tt_logo_cn">Reklam</string>
     <string name="tt_logo_en">Reklam</string>
     <string name="tt_msgPlayable">Mükafat almaq üçün oxutmanı bitir</string>
@@ -2198,21 +2263,24 @@ Xoşbəxt ol"</string>
     <string name="tt_net_error">Şəbəkə xətası</string>
     <string name="tt_no_ad">Reklam yoxdur</string>
     <string name="tt_no_network">Şəbəkə əlçatmazdır, lütfən daha sonra yenidən sınayın.</string>
+    <string name="tt_not_bad">Pis deyil</string>
+    <string name="tt_other_reason">Digər səbəblər</string>
     <string name="tt_postiveBtnText">Davam etdir</string>
     <string name="tt_postiveBtnTextPlayable">Oxutmağa davam et</string>
     <string name="tt_postive_txt">Oldu</string>
     <string name="tt_privacy_title">Gizlilik Siyasəti</string>
+    <string name="tt_report_this_ad">Təkmilləşdirməyimizə kömək etmək üçün bu reklamı bildirin</string>
     <string name="tt_reward_feedback">Əks-əlaqə</string>
     <string name="tt_reward_full_skip">%1$s s sonra ötür</string>
     <string name="tt_reward_msg">Mükafatı almaq üçün videonun tamamına bax</string>
     <string name="tt_reward_screen_skip_tx">Ötür</string>
+    <string name="tt_select_reason">Lütfən səbəbi seçin</string>
     <string name="tt_splash_rock_text">Detallar səhifəsinə və ya üçüncü tərəf tətbiqə gedin</string>
     <string name="tt_splash_rock_top_text">Silkələ və ya ikona kliklə</string>
     <string name="tt_splash_wriggle_text">Detallar səhifəsinə və ya üçüncü tərəf tətbiqə gedin</string>
     <string name="tt_splash_wriggle_top_text">Telefonu çevir</string>
     <string name="tt_splash_wriggle_top_text_style_17">Telefonu çevir və ya ikona toxun</string>
 	<string name="tt_suggestion_commit">Göndər</string>
-    <string name="tt_suggestion_description">Nümayiş xətasının açıqlamasını daxil edin və Göndər düyməsinə basın. Problemi aradan qaldırmaq üçün reklam təsvirləri Pangle-a göndəriləcək.</string>
     <string name="tt_sys_error">Sistem xətası</string>
     <string name="tt_text_privacy_app_version">Versiya：V</string>
     <string name="tt_text_privacy_development">Gəlişdirici：</string>
@@ -2226,6 +2294,7 @@ Xoşbəxt ol"</string>
     <string name="tuesday">Çərşənbə axşamı</string>
     <string name="tuesday_short">Ç.a.</string>
     <string name="tuesday_shortest">Ç.a.</string>
+    <string name="two_videos_free_duration">两个视频%d小时免费时长</string>
     <string name="ucrop_crop">Qayçıla</string>
     <string name="ucrop_label_edit_photo">Fotoya düzəliş et</string>
     <string name="ucrop_label_original">Orijinal</string>
@@ -2252,6 +2321,7 @@ Xoşbəxt ol"</string>
     <string name="user_agreement">İstifadəçi Razılaşması</string>
     <string name="user_experience_program_open">Müəllif hüququ məhdudiyyətlərinə görə, endirilmiş mahnıları oxuda bilmək üçün İstifadəçi Təcrübə Proqramına yazılmaq lazımdır. Bunu Ayarlar &gt; Parollar və güvənlik &gt; Gizlilik &gt; \"İstifadəçi Təcrübə Proqramına yazıl\"da edə bilərsiniz.</string>
     <string name="user_playlist_plaza">Pleylistlər</string>
+    <string name="user_privacy">İstifadəçi məxfiliyi</string>
     <string name="user_privacy_dialog_negative_text">İmtina</string>
     <string name="user_privacy_dialog_positive_count_down_text">Geri götür (%ss)</string>
     <string name="user_privacy_dialog_positive_text">Geri götür</string>
@@ -2318,7 +2388,9 @@ Xoşbəxt ol"</string>
     <string name="vip_required">Bu mahnını oxutmaq üçün Premium Mahnı Paketi alın. İndilik mahnı ötürüldü.</string>
     <string name="vip_required_with_song">%s yalnız Gold üzvləri üçün əlçatandır. İndilik bu mahnı ötürüldü.</string>
     <string name="voice_search_first_hint">Səsli axtarışı sına!</string>
+    <string name="watch_now">立即观看</string>
     <string name="watch_video">Videoya bax</string>
+    <string name="watch_video_for_more_songs">观看视频以播放更多歌曲</string>
     <string name="web_reward_dialog_cancle">İmtina</string>
     <string name="web_reward_dialog_ok">Çıx</string>
     <string name="webpage_hot_rank">Məşhur</string>

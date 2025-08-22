@@ -429,6 +429,7 @@
     <string name="gas_detail_account_name">Hesab nömrəsi</string>
     <string name="gas_detail_deadline">Son faktura tarixi</string>
     <string name="gas_event_delete_successfully">Qaz ödənişi uğurla silindi</string>
+    <string name="get_desk_information">Təqvim məlumatlarını almaq üçün toxun</string>
     <string name="global_festival_for_chinese">Çin bayramları</string>
     <string name="global_festival_for_hongkong">Honq Konq, Çin</string>
     <string name="global_festival_for_macau">Makau, Çin</string>
@@ -781,6 +782,7 @@
     <string name="online_reminder_header_text">Xətırlatma</string>
     <string name="partys_day">Partiya Quruluş Günü</string>
     <string name="partys_day_tradition">Partiya Quruluş Günü</string>
+    <string name="pasport_register_dialog_message">İndi %s telefon nömrəniz vasitəsilə Xiaomi Hesabı yaradılsın?</string>
     <string name="passenger">Sərnişin</string>
     <string name="passport_access_denied">Erişim rədd edildi</string>
     <string name="passport_account_crop_user_avatar">Fotonu qayçıla</string>
@@ -798,7 +800,7 @@
     <string name="passport_account_secure_info_pref_title">Hesab məlumatları</string>
     <string name="passport_account_security_info_pref_title">Güvənlik məlumatları</string>
     <string name="passport_account_user_avatar">Profil fotosu</string>
-    <string name="passport_account_user_avatar_from_album">Qalereya</string>
+    <string name="passport_account_user_avatar_from_album">Qalereyadan seç</string>
     <string name="passport_account_user_avatar_from_camera">Kamera</string>
     <string name="passport_account_user_base_info">Təməl məlumatlar</string>
     <string name="passport_account_user_details">Şəxsi məlumatlar</string>
@@ -876,7 +878,6 @@
     <string name="passport_login_register_by_local_phone_long_text">Hesab yarat</string>
     <string name="passport_login_with_sns">Digər daxil olma yolları</string>
     <string name="passport_logout_account">Çıxış et</string>
-    <string name="passport_mi_account_first_title">"Telefon nömrənizi ilk dəfə istifadə edirsinizsə, avtomatik olaraq hesab yaradacağıq."</string>
     <string name="passport_mi_account_title">Xiaomi Hesabı ilə daxil olun</string>
     <string name="passport_network_error">Bir şəbəkə xətası baş verdi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın.</string>
     <string name="passport_network_error_hint">URL-ni yoxlayıb yenidən sınayın və ya URL-ni kopyalayıb brauzerinizdə açın.</string>
@@ -885,6 +886,7 @@
     <string name="passport_no_account">Daxil olunmadı</string>
     <string name="passport_open_settings">Ayarlar</string>
     <string name="passport_page_load_failed">"Səhifə açıla bilmir"</string>
+    <string name="passport_password_hide_show">Parolu gizlət</string>
     <string name="passport_password_login_btn">Daxil ol</string>
     <string name="passport_password_not_show">"Parol göstərilməsin"</string>
     <string name="passport_password_show">Parolu göstər</string>
@@ -896,6 +898,8 @@
     <string name="passport_reging">Hesab yaradılır…</string>
     <string name="passport_register_by_local_phone_long_text">Hesab yarat</string>
     <string name="passport_register_by_local_phone_short_text">Hesab yarat</string>
+    <string name="passport_register_dialog_positive">Yarat</string>
+    <string name="passport_register_dialog_title">Xiaomi Hesabı yarat</string>
     <string name="passport_register_restricted">Bu nömrə ilə həddən artıq hesab əlaqələndirilib. Fərqli bir nömrə ilə sınayın.</string>
     <string name="passport_relogin_notice">Yenidən daxil olmağınız lazımdır</string>
     <string name="passport_request_agree">İcazə ver</string>
@@ -904,7 +908,8 @@
     <string name="passport_request_error_invalid_token">"Doğrulana bilmədi"</string>
     <string name="passport_request_error_network">Bir şəbəkə xətası baş verdi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın.</string>
     <string name="passport_request_error_unknown">Sistem xətası baş verdi. Geri qayıdın və yenidən sınayın.</string>
-    <string name="passport_request_gallery_permission_message">Qalereyaya erişməyə icazə verin:&lt;br /&gt;Profil fotosunu ayarlamaq üçün</string>
+    <string name="passport_request_gallery_permission_message">Bu tətbiq, profil fotonuzu təyin edə bilmək üçün seçilmiş Qalereya elementlərinə erişməlidir. İndi icazə verilsin?</string>
+    <string name="passport_request_permission_title">İcazələr tələb olunur</string>
     <string name="passport_resend_email_reach_limit_message">"Həddən artıq doğrulama e-poçtu tələb etdiniz. Doğrulama e-poçtunun gələn qutunuzun Spam qovluğunda olmadığına əmin olun."</string>
     <string name="passport_resend_email_reach_limit_title">Həddindən artıq cəhd</string>
     <string name="passport_resend_ticket">Kodu yenidən göndər</string>

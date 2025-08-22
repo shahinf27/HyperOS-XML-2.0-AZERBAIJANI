@@ -677,17 +677,6 @@ sına"</string>
     <string name="tuesday_short">Ç.a.</string>
     <string name="tuesday_shortest">Ç.a.</string>
     <string name="twc_logo_title"></string>
-    <string name="typhoon_card_speed_unit">Qüvvət %1$s</string>
-    <string name="typhoon_card_title">Tayfun</string>
-    <string name="typhoon_level">Tayfun intensivliyi</string>
-    <string name="typhoon_title">Tayfun proqnozu</string>
-    <string name="typhoon_trajectory">İzə bax</string>
-    <string name="typhoon_type">tayfun</string>
-    <string name="typhoon_uv_unit">%1$s səviyyəsi, %2$s km/sa</string>
-    <string name="typhoon_warring_line_24">24 saatlıq xəbərdarlıq xətti</string>
-    <string name="typhoon_warring_line_48">48 saatlıq xəbərdarlıq xətti</string>
-    <string name="typhoon_wind_pressures">Mərkəzi təzyiq</string>
-    <string name="typhoon_wind_speeds">Küləyin sürəti</string>
     <string name="unit">Vahidlər</string>
     <string name="unit_temperature">Temperatur vahidləri</string>
     <string name="unit_wind">Külək sürəti vahidləri</string>

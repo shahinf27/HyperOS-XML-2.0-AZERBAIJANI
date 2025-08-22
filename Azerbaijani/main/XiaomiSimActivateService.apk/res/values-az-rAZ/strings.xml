@@ -299,6 +299,7 @@ Bu kodu nəzarətçiyə göndərin."</string>
     <string name="send_email_activate_message">Doğrulama kodu uğurla göndərildi</string>
     <string name="service_error">Server xətası</string>
     <string name="sim_activate_failed">"Xidmət aktivləşdirilə bilmədi"</string>
+    <string name="sim_activate_input_phone_number">Telefon nömrənizi daxil edin</string>
     <string name="sim_activate_notificat_channel">Aktivləşdirmə bildirişləri</string>
     <string name="sim_activate_prepare">Xidməti aktivləşdir</string>
     <string name="sim_activated_failed_msg">"Xidmət aktivləşdirilə bilmədi. Yenidən sınamaq üçün toxunun."</string>
