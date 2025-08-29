@@ -327,9 +327,9 @@
     <string name="importFailed">"Daxilə köçürülə bilmədi"</string>
     <string name="import_contact">Kontaktı daxilə köçür</string>
     <string name="import_picture">Daxilə köçür</string>
-    <string name="impunity_declaration_content">"\"Skaner\"in kameranızı istifadə etməsi və tətbiqi istifadə edərkən çəkdiyiniz şəkilləri emal etməsi lazımdır. Şəxsi məlumatlarınızı ehtiva edən obyektlərin fotolarını çəkmək üçün \"Skaner\"i istifadə etməyin. \"Razıyam\"a toxunaraq, &lt;font color=\"#ff32b4ff\"&gt;&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\"&gt;Gizlilik Siyasətimizlə&lt;/a&gt;&lt;/font&gt; razılaşırsınız və \"Skaner\"in internetə bağlanmasına icazə verirsiniz."</string>
+    <string name="impunity_declaration_content">"\"Skaner\"in kameranızı istifadə etməsi və tətbiqi istifadə edərkən çəkdiyiniz şəkilləri emal etməsi lazımdır. Şəxsi məlumatlarınızı ehtiva edən obyektlərin fotolarını çəkmək üçün \"Skaner\"i istifadə etməyin. \"Razıyam\"a toxunaraq, &lt;font color=\"#ff32b4ff\"&gt;&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\"&gt;Məxfilik Siyasətimizlə&lt;/a&gt;&lt;/font&gt; razılaşırsınız və \"Skaner\"in internetə bağlanmasına icazə verirsiniz."</string>
     <string name="impunity_declaration_negative_text">Çıx</string>
-    <string name="impunity_declaration_title">Gizlilik Siyasəti</string>
+    <string name="impunity_declaration_title">Məxfilik Siyasəti</string>
     <string name="intelligent_participle">İfadələr</string>
     <string name="intelligent_recognition">Tanı</string>
     <string name="jd_shopping_title">JD-də axtar</string>
@@ -403,6 +403,7 @@
     <string name="miuix_appcompat_select_item">Elementləri seç</string>
 	<string name="miuix_appcompat_show_dialog_description">Açılan pəncərə</string>
     <string name="miuix_indexer_collect">Kolleksiyalar</string>
+    <string name="miuix_pairing_dialog_closable_icon_description">Bağla</string>
     <string name="miuix_progressbar_loading">Bir saniyə…</string>
 	<string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Təzələmək üçün aşağı çək</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Uğurla təzələndi</string>
@@ -625,12 +626,12 @@ Lütfən cihazı şəkildəki bucağa uyğun yerləşdirin və yenidən sınayı
     <string name="preference_copied">\"%1$s\" lövhəyə kopyalandı.</string>
     <string name="preparing_sd">Daxili anbar hazırlanır…</string>
     <string name="previous">Geri</string>
-    <string name="privacy_policy">Gizlilik Siyasəti</string>
-    <string name="privacy_policy_update">Güncəllənmiş Gizlilik Siyasəti</string>
-    <string name="privacy_policy_update_message"><Data>\"&lt;a href=\"%1$s\"&gt;Gizlilik Siyasətinin&lt;/a&gt; yeni versiyası ilə razılaşmadığınız müddətcə Skaneri istifadə edə bilməyəcəksiniz. Güncəl Gizlilik Siyasəti ilə razılaşırsınız?\"</Data></string>
-    <string name="privacy_policy_update_welcome">Skaner Gizlilik Siyasəti güncəlləndi:</string>
+    <string name="privacy_policy">Məxfilik Siyasəti</string>
+    <string name="privacy_policy_update">Güncəllənmiş Məxfilik Siyasəti</string>
+    <string name="privacy_policy_update_message"><Data>\"&lt;a href=\"%1$s\"&gt;Məxfilik Siyasətinin&lt;/a&gt; yeni versiyası ilə razılaşmadığınız müddətcə Skaneri istifadə edə bilməyəcəksiniz. Güncəl Məxfilik Siyasəti ilə razılaşırsınız?\"</Data></string>
+    <string name="privacy_policy_update_welcome">Skaner Məxfilik Siyasəti güncəlləndi:</string>
     <string name="privacy_policy_withdrawal_error">"Razılıq geri götürülə bilmədi. Bir və ya iki dəqiqə gözləyib yenidən sınayın."</string>
-    <string name="privacy_policy_withdrawal_message"><Data>\"Davam etsəniz, \"Skaner\"in Gizlilik Siyasətinə verdiyiniz razılığı geri götürəcəksiniz. Bu, Skaner xidmətlərini qəbul etməkdən imtina olaraq qəbul ediləcək. \"Skaner\"i istifadə etmək qərarına gəlsəniz, yenidən &lt;a href=\"%1$s\"&gt;Gizlilik Siyasəti&lt;/a&gt; ilə razılaşmalı olacaqsınız. Razılıq indi geri götürülsün?\"</Data></string>
+    <string name="privacy_policy_withdrawal_message"><Data>\"Davam etsəniz, \"Skaner\"in Məxfilik Siyasətinə verdiyiniz razılığı geri götürəcəksiniz. Bu, Skaner xidmətlərini qəbul etməkdən imtina olaraq qəbul ediləcək. \"Skaner\"i istifadə etmək qərarına gəlsəniz, yenidən &lt;a href=\"%1$s\"&gt;Məxfilik Siyasəti&lt;/a&gt; ilə razılaşmalı olacaqsınız. Razılıq indi geri götürülsün?\"</Data></string>
     <string name="processing">Emal olunur…</string>
     <string name="prompt">Diqqət</string>
     <string name="qr_code_details">QR kodu detalları:</string>
@@ -672,6 +673,7 @@ Lütfən cihazı şəkildəki bucağa uyğun yerləşdirin və yenidən sınayı
     <string name="request_server_failed">"Serverə bağlana bilmədi"</string>
     <string name="required_permissions">android.permission.x;</string>
     <string name="result_of_identifying_text_is_empty">"Mətn tanına bilmədi"</string>
+    <string name="revert">Geri götür</string>
     <string name="saturday">Şənbə</string>
     <string name="saturday_short">Şәn</string>
     <string name="saturday_shortest">Şәn</string>
@@ -792,7 +794,6 @@ Lütfən cihazı şəkildəki bucağa uyğun yerləşdirin və yenidən sınayı
 	<string name="text_general_guide_btn_tips">Anladım</string>
     <string name="text_general_guide_tips_first">Obyektləri skan et və tanı</string>
     <string name="text_general_guide_tips_second">Kodları skan et, bitkiləri tanı və oxşar məhsulları tap</string>
-    <string name="text_input_layout_default_error">Bu, ilkin xətadır</string>
     <string name="text_ipc_record_number">京ICP备10046444号-90A ></string>
     <string name="text_price">Qiymət</string>
     <string name="text_to_be_translated_cannot_be_empty">Skaner mətni tərcümə etməlidir</string>

@@ -9,6 +9,15 @@
         <item>Ölçü</item>
         <item>Ad</item>
     </string-array>
+    <string-array name="columbus_exo_controls_playback_speeds">
+        <item>0.25x</item>
+        <item>0.5x</item>
+        <item>0.75x</item>
+        <item>Normal</item>
+        <item>1.25x</item>
+        <item>1.5x</item>
+        <item>2x</item>
+    </string-array>
 	<string-array name="feedback_content">
         <item>Maraqlı deyil</item>
         <item>Təkrarlanan</item>

@@ -125,7 +125,7 @@
     <string name="button_sure_abandon">Dəyişikliklər ləğv edilsin?</string>
     <string name="card_item_ad_introduction_text_view">Tanıtım</string>
     <string name="card_item_ad_permission_text_view">İcazələr</string>
-    <string name="card_item_ad_policy_text_view">Gizlilik</string>
+    <string name="card_item_ad_policy_text_view">Məxfilik</string>
     <string name="card_item_ad_popular">Əla</string>
     <string name="card_item_ad_text">Reklam ver</string>
     <string name="card_item_ad_version_text_view">Versiya:</string>
@@ -176,11 +176,11 @@ Yeniləmək üçün aşağıya çəkin və ya şəbəkə ayarlarını yoxlayın"
     <string name="dialog_msg_score_midrop">Hava tətbiqi haqqında nə düşünürsünüz?</string>
     <string name="dialog_msg_score_not_good">Bizə əks-əlaqə verərək fikrinizi bildirmək istəyirsiniz?</string>
     <string name="dialog_msg_score_perfect">Gözəl! Play Store-da Hava tətbiqi qiymətləndirilsin?</string>
-    <string name="dialog_privacy_policy_update_msg">"Hava Gizlilik Siyasəti güncəlləndi:
+    <string name="dialog_privacy_policy_update_msg">"Hava Məxfilik Siyasəti güncəlləndi:
 %1$s
 Davam etməzdən əvvəl %2$s üçün yeni versiyanı oxuyun və razılaşın."</string>
-    <string name="dialog_privacy_policy_update_next_msg">"%1$s yeni versiyası ilə razılaşmayana qədər xidmətlərimizi istifadə etməyə davam edə bilməyəcəksiniz. Güncəllənmiş Gizlilik Siyasəti ilə indi razılaşırsınız?"</string>
-    <string name="dialog_privacy_policy_update_title">Güncəllənmiş Gizlilik Siyasəti</string>
+    <string name="dialog_privacy_policy_update_next_msg">"%1$s yeni versiyası ilə razılaşmayana qədər xidmətlərimizi istifadə etməyə davam edə bilməyəcəksiniz. Güncəllənmiş Məxfilik Siyasəti ilə indi razılaşırsınız?"</string>
+    <string name="dialog_privacy_policy_update_title">Güncəllənmiş Məxfilik Siyasəti</string>
     <string name="dialog_score_bad">Narazı</string>
     <string name="dialog_score_general">Neytral</string>
     <string name="dialog_score_good">Məmnun</string>
@@ -197,7 +197,7 @@ Davam etməzdən əvvəl %2$s üçün yeni versiyanı oxuyun və razılaşın."<
     <string name="empty_view_refresh">Yenidən sına</string>
     <string name="eras_ad">B.E.</string>
     <string name="eras_bc">B.E.Ə.</string>
-    <string name="eu_region_version_first_start_network_msg">"Bu məhsulu istifadə edərək razılaşırsınız ki, bu məhsul şəbəkəyə bağlanacaq, axtardığınız şəhərlərin koordinatları daxil olmaqla şəxsi məlumatlarınızı və Gizlilik Siyasətimizdə göstərilən digər veri növlərini yığacaq, emal edəcək və istifadə edəcək. Məlumatları necə yığdığımızı və emal etdiyimizi öyrənmək üçün Gizlilik Siyasətimizə baxın. \"Razıyam\"a toxunaraq Xiaomi-nin bu bəyanatlarını qəbul edirsiniz: %1$s və %2$s."</string>
+    <string name="eu_region_version_first_start_network_msg">"Bu məhsulu istifadə edərək razılaşırsınız ki, bu məhsul şəbəkəyə bağlanacaq, axtardığınız şəhərlərin koordinatları daxil olmaqla şəxsi məlumatlarınızı və Məxfilik Siyasətimizdə göstərilən digər veri növlərini yığacaq, emal edəcək və istifadə edəcək. Məlumatları necə yığdığımızı və emal etdiyimizi öyrənmək üçün Məxfilik Siyasətimizə baxın. \"Razıyam\"a toxunaraq Xiaomi-nin bu bəyanatlarını qəbul edirsiniz: %1$s və %2$s."</string>
     <string name="evening">Günortadan sonra</string>
     <string name="exo_controls_fastforward_description">İrəli çək</string>
     <string name="exo_controls_fullscreen_description">Tam ekran rejimi</string>
@@ -244,7 +244,7 @@ Davam etməzdən əvvəl %2$s üçün yeni versiyanı oxuyun və razılaşın."<
     <string name="feedback_rain_forecast_title">Yağıntı proqnozu</string>
     <string name="feedback_rain_inaccurate">Qeyri-dəqiq</string>
     <string name="feedback_realtime_button_text">Əks-əlaqə</string>
-    <string name="feedback_report_moji_privacy">Moji Hava durumu Gizlilik Siyasəti</string>
+    <string name="feedback_report_moji_privacy">Moji Hava durumu Məxfilik Siyasəti</string>
     <string name="feedback_report_privacy_msg">Hava durumu məlumatlarını düzəltmək üçün əks-əlaqəniz və hazırkı koordinantlarınız Moji Hava durumu (%1$s) ilə paylaşılacaq. Koordinantlarınız yalnız hava durumu məlumatlarını düzəltmək üçün istifadə olunacaq.</string>
     <string name="feedback_result_fail_no_choice">Hazırkı hava şəraitini seçin</string>
     <string name="feedback_result_fail_no_reason">Əks-əlaqəniz üçün təşəkkürlər!</string>
@@ -455,7 +455,7 @@ sına"</string>
     <string name="permission_device_info">Cihaz məlumatı</string>
     <string name="permission_device_introduce">Cihaz modelinə və IMEI nömrəsinə görə cihaz Kimliyini tanımaq və dil tərcihlərinə əsasən yerli xidmətləri təmin etmək üçün</string>
     <string name="permission_exit">Çıx</string>
-    <string name="permission_privacy">Gizlilik Siyasəti (məcburi)</string>
+    <string name="permission_privacy">Məxfilik Siyasəti (məcburi)</string>
     <string name="permission_select_all">Hamısını seç</string>
     <string name="permission_storage">Anbar</string>
     <string name="permission_storage_introduce">Cihazdakı elementlərə erişmək və onları saxlamaq üçün</string>
@@ -472,11 +472,11 @@ sına"</string>
     <string name="privacy_grant_failed">"Razılıq verilə bilmədi. Bir və ya iki dəqiqə gözləyib yenidən sınayın."</string>
     <string name="privacy_grant_or_revoke_settings">Razılığın geri götürülməsi</string>
     <string name="privacy_grant_success">Səlahiyyət uğurla verildi</string>
-    <string name="privacy_policy">Gizlilik Siyasəti</string>
-    <string name="privacy_policy_msg"><Data>Bu tətbiq aşağıdakı özəllikləri ehtiva edir:&lt;br/&gt;• Yerləşmənizə xas xüsusi hava məlumatları&lt;br/&gt;• Hava proqnozları&lt;br/&gt;• Hava xəbərdarlıqları&lt;br/&gt;&lt;br/&gt;\"Hava\" tətbiqi sizi təməl xidmətlərlə təmin etmək üçün lazımi şəxsi məlumatları yığmalıdır. Yığdığımız məlumatları necə istifadə etdiyimizi &lt;a href=\"%1$s\"&gt;\"Gizlilik Siyasətimiz\"də&lt;/a&gt; öyrənə bilərsiniz. \"Hava\" tətbiqini istifadə etməzdən əvvəl &lt;a href=\"%2$s\"&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; və &lt;a href=\"%3$s\"&gt;Gizlilik Siyasətimizi&lt;/a&gt; oxuyun və razılaşın. \"Hava\" tətbiqinin Gizlilik Siyasətinə verdiyiniz razılığı istənilən vaxt Ayarlarda geri götürə bilərsiniz.</Data></string>
+    <string name="privacy_policy">Məxfilik Siyasəti</string>
+    <string name="privacy_policy_msg"><Data>Bu tətbiq aşağıdakı özəllikləri ehtiva edir:&lt;br/&gt;• Yerləşmənizə xas xüsusi hava məlumatları&lt;br/&gt;• Hava proqnozları&lt;br/&gt;• Hava xəbərdarlıqları&lt;br/&gt;&lt;br/&gt;\"Hava\" tətbiqi sizi təməl xidmətlərlə təmin etmək üçün lazımi şəxsi məlumatları yığmalıdır. Yığdığımız məlumatları necə istifadə etdiyimizi &lt;a href=\"%1$s\"&gt;\"Məxfilik Siyasətimiz\"də&lt;/a&gt; öyrənə bilərsiniz. \"Hava\" tətbiqini istifadə etməzdən əvvəl &lt;a href=\"%2$s\"&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; və &lt;a href=\"%3$s\"&gt;Məxfilik Siyasətimizi&lt;/a&gt; oxuyun və razılaşın. \"Hava\" tətbiqinin Məxfilik Siyasətinə verdiyiniz razılığı istənilən vaxt Ayarlarda geri götürə bilərsiniz.</Data></string>
     <string name="privacy_revoke_failed">"Razılıq geri götürülə bilmədi. Bir və ya iki dəqiqə gözləyib yenidən sınayın."</string>
     <string name="privacy_revoke_success">Səlahiyyət uğurla ləğv edildi</string>
-    <string name="privacy_settings">Gizlilik Siyasəti</string>
+    <string name="privacy_settings">Məxfilik Siyasəti</string>
     <string name="pull_fresh_updated">Uğurla güncəlləndi</string>
     <string name="pull_fresh_updating">Güncəllənir…</string>
     <string name="q_version_location_provider_btn_text">Yerləşmə erişimini işə salın və yerləşmə dəqiqliyini təkmilləşdirin</string>
@@ -529,7 +529,7 @@ sına"</string>
     <string name="send">Göndər</string>
     <string name="setting_about_permission">İcazələr</string>
     <string name="setting_allowed">İcazə verildi</string>
-    <string name="setting_confirm_to_revoke_permission_msg">"Davam etsəniz, \"Hava\"nın Gizlilik Siyasətinə verdiyiniz razılığı geri götürəcəksiniz. Şəxsi məlumatların yığılmasını dayandıracağıq. Artıq yığılmış və saxlanılmış şəxsi məlumatlar, əksi tələb olunmadığı müddətcə, müvafiq qanun və nizamlamalara uyğun olaraq müəyyən bir müddət ərzində silinəcəkdir. \"Hava\", öz xidmətlərini lazımi şəxsi məlumatların yığılması əsasında təmin etdiyi üçün, razılığın geri götürülməsi \"Hava\" xidmətlərini qəbul etməkdən imtina olaraq qəbul ediləcək. Razılıq indi geri götürülsün?"</string>
+    <string name="setting_confirm_to_revoke_permission_msg">"Davam etsəniz, \"Hava\"nın Məxfilik Siyasətinə verdiyiniz razılığı geri götürəcəksiniz. Şəxsi məlumatların yığılmasını dayandıracağıq. Artıq yığılmış və saxlanılmış şəxsi məlumatlar, əksi tələb olunmadığı müddətcə, müvafiq qanun və nizamlamalara uyğun olaraq müəyyən bir müddət ərzində silinəcəkdir. \"Hava\", öz xidmətlərini lazımi şəxsi məlumatların yığılması əsasında təmin etdiyi üçün, razılığın geri götürülməsi \"Hava\" xidmətlərini qəbul etməkdən imtina olaraq qəbul ediləcək. Razılıq indi geri götürülsün?"</string>
     <string name="setting_confirm_to_revoke_permission_title">Razılığı geri götür</string>
     <string name="setting_content_promotion">Məzmun tanıtımı</string>
     <string name="setting_experience_plan_title">İstifadəçi təcrübəsi planı</string>
@@ -537,10 +537,10 @@ sına"</string>
     <string name="setting_not_allowed">İcazə verilmədi</string>
     <string name="setting_notification_manager">Bildirişlər</string>
     <string name="setting_permission_description">İcazə detalları</string>
-    <string name="setting_privacy">Gizlilik</string>
+    <string name="setting_privacy">Məxfilik</string>
     <string name="setting_privacy_policy_withdrawal_of_Consent">Razılığı geri götür</string>
     <string name="setting_read_and_write_phone_storage">Anbara erişim</string>
-    <string name="setting_read_privacy_policy">Gizlilik Siyasətinə bax</string>
+    <string name="setting_read_privacy_policy">Məxfilik Siyasətinə bax</string>
     <string name="setting_share_weather_need">Şəkilləri hava məlumatları ilə paylaşmaq üçün</string>
     <string name="setting_today_news">Bugünün məlumat kartı</string>
     <string name="setting_used_to_display_weather">Müvafiq hava durumu məlumatlarını göstərmək üçün</string>
@@ -677,6 +677,17 @@ sına"</string>
     <string name="tuesday_short">Ç.a.</string>
     <string name="tuesday_shortest">Ç.a.</string>
     <string name="twc_logo_title"></string>
+    <string name="typhoon_card_speed_unit">Qüvvət %1$s</string>
+    <string name="typhoon_card_title">Tayfun</string>
+    <string name="typhoon_level">Tayfun intensivliyi</string>
+    <string name="typhoon_title">Tayfun proqnozu</string>
+    <string name="typhoon_trajectory">İzə bax</string>
+    <string name="typhoon_type">tayfun</string>
+    <string name="typhoon_uv_unit">%1$s səviyyəsi, %2$s km/sa</string>
+    <string name="typhoon_warring_line_24">24 saatlıq xəbərdarlıq xətti</string>
+    <string name="typhoon_warring_line_48">48 saatlıq xəbərdarlıq xətti</string>
+    <string name="typhoon_wind_pressures">Mərkəzi təzyiq</string>
+    <string name="typhoon_wind_speeds">Küləyin sürəti</string>
     <string name="unit">Vahidlər</string>
     <string name="unit_temperature">Temperatur vahidləri</string>
     <string name="unit_wind">Külək sürəti vahidləri</string>

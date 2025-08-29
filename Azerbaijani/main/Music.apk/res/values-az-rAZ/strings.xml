@@ -136,7 +136,7 @@
     <string name="app_permission_use_group_storage_desc">Cihazda saxlanılan mahnıları tapmaq və oxutmaq üçün</string>
     <string name="app_resident_push_switch">Daimi bildirişlərə icazə ver</string>
     <string name="app_review_status">Tətbiq incələmə statusu</string>
-    <string name="app_third_privacy">Üçüncü tərəf gizlilik siyasətləri</string>
+    <string name="app_third_privacy">Üçüncü tərəf məxfilik siyasətləri</string>
     <string name="app_version">Tətbiq versiyası</string>
 	<string name="app_video_float_switch">Üzən pəncərə rejimi</string>
     <string name="app_video_float_switch_summry">"Arxaplanda oxudarkən videonu Əsas ekranda üzən pəncərə kimi nümayiş etdir"</string>
@@ -301,9 +301,9 @@ Bütün veriləri birdəfəlik təmizləməyi seçdikdən sonra tətbiqdən çı
     <string name="asm_pay_order_generate">Sifariş yaradılır…</string>
     <string name="asm_pay_order_generate_failed">"Sifariş yaradıla bilmədi"</string>
     <string name="asm_pay_query_overtime">Ödəniş statusu tələbi üçün vaxt bitdi</string>
-    <string name="asm_privacy_desc">ASM Gizlilik Siyasəti</string>
-    <string name="asm_privacy_tips_content">Onlayn musiqi xidmətlərini istifadə edə bilmək üçün <a href="/link/click">ASM Gizlilik Siyasəti</a> ilə razılaşın.</string>
-    <string name="asm_privacy_tips_title">ASM Gizlilik Siyasəti</string>
+    <string name="asm_privacy_desc">ASM Məxfilik Siyasəti</string>
+    <string name="asm_privacy_tips_content">Onlayn musiqi xidmətlərini istifadə edə bilmək üçün <a href="/link/click">ASM Məxfilik Siyasəti</a> ilə razılaşın.</string>
+    <string name="asm_privacy_tips_title">ASM Məxfilik Siyasəti</string>
 	<string name="asm_private_account_info">Hesab məlumatı</string>
     <string name="asm_private_avatar">Profil fotosu</string>
     <string name="asm_private_data_downloading_toast">"Endirilir. Bu səhifəni tərk etməyin."</string>
@@ -388,10 +388,10 @@ Mobil veri üzərindən musiqi yayımı etsəniz, şəbəkəniz xidmət haqqı t
     <string name="asm_ws_now_playing_listen">Tam versiyasını dinlə</string>
     <string name="asm_ws_pre_listen">%d saniyəlik önizləmə</string>
     <string name="asm_ws_privacy_bottom_title">Musiqi dünyası barmaqlarınızın ucunda</string>
-	<string name="asm_ws_privacy_link">Vansound Gizlilik Siyasəti</string>
+	<string name="asm_ws_privacy_link">Vansound Məxfilik Siyasəti</string>
     <string name="asm_ws_privacy_tips_content">Onlayn musiqi dinləməyə başlamaq üçün <font size="18">
   <a href="/link/click">
-    <b>Wansheng Gizlilik Siyasətini</b>
+    <b>Wansheng Məxfilik Siyasətini</b>
   </a>
 </font> oxuyun və razılaşın.</string>
     <string name="asm_ws_privacy_tips_title">Gizliliyinizə hörmət edirik</string>
@@ -481,7 +481,6 @@ Mobil veri üzərindən musiqi yayımı etsəniz, şəbəkəniz xidmət haqqı t
     <string name="cancel_running_download">İmtina</string>
     <string name="cannot_download_to_sdcard_hint">"Müəllif hüququ məhdudiyyətlərinə görə elementlər SD karta endirilə bilmir. Bunun əvəzində elementlər daxili anbara endiriləcək."</string>
     <string name="card_content_descriptor">kart</string>
-    <string name="category_album">Kateqoriya albomu</string>
     <string name="change_download_quality">Endirmə keyfiyyətini dəyişdir</string>
     <string name="character_counter_content_description">%1$d/%2$d xarakter daxil edilib</string>
     <string name="character_counter_overflowed_content_description">%1$d/%2$d xarakter limiti aşıldı</string>
@@ -504,7 +503,7 @@ Mobil veri üzərindən musiqi yayımı etsəniz, şəbəkəniz xidmət haqqı t
     <string name="columbus_ad_choices_advertiser_info">Reklamçı məlumatı</string>
     <string name="columbus_ad_choices_close">Bağla</string>
     <string name="columbus_ad_choices_copy_token">Tokeni kopyala (%s)</string>
-    <string name="columbus_ad_choices_privacy_policy">Gizlilik Siyasəti</string>
+    <string name="columbus_ad_choices_privacy_policy">Məxfilik Siyasəti</string>
     <string name="columbus_ad_flag_text">Reklam</string>
     <string name="columbus_ad_layout_swipe_to_detail_link">Detallara baxmaq üçün sola sürüşdür</string>
     <string name="columbus_ad_xout_do_not_resubmit">"Təkrar əks-əlaqəni göndərməyin"</string>
@@ -1006,9 +1005,9 @@ Veriləri təmizlədikdən sonra tətbiqdən çıxış ediləcək. Bu verilər h
     <string name="hungama_free_download_out_summary">"Daha çox ödənişsiz mahnı endirə bilmirsiniz. Limitsiz mahnılar endirə bilmək üçün Gold üzvlüyü alınsın?"</string>
     <string name="hungama_free_download_out_summary_toast">"Artıq %d mahnı endirmisiniz. Daha çox endirmək üçün abunə olun."</string>
     <string name="hungama_playlist_category">Pleylist kateqoriyası</string>
-    <string name="hungama_privacy_desc">hungama Gizlilik Siyasəti (ixtiyari)</string>
-    <string name="hungama_privacy_tips_content">Onlayn məzmuna erişmək üçün <a href="/link/click">hungama Gizlilik Siyasəti</a> ilə razılaşmalısınız.</string>
-    <string name="hungama_privacy_tips_title">hungama Gizlilik Siyasəti</string>
+    <string name="hungama_privacy_desc">hungama Məxfilik Siyasəti (ixtiyari)</string>
+    <string name="hungama_privacy_tips_content">Onlayn məzmuna erişmək üçün <a href="/link/click">hungama Məxfilik Siyasəti</a> ilə razılaşmalısınız.</string>
+    <string name="hungama_privacy_tips_title">hungama Məxfilik Siyasəti</string>
     <string name="hungama_subscribe_message">Yüksək keyfiyyətdə musiqi endirmək üçün bir Gold üzvlük satın alın.</string>
     <string name="hungama_subscribe_positive_button">Gold üzvlük satın al</string>
     <string name="hungama_subscribe_title">Gold üzvlüyü</string>
@@ -1019,7 +1018,7 @@ Veriləri təmizlədikdən sonra tətbiqdən çıxış ediləcək. Bu verilər h
     <string name="iframe_delete_dialog_desc">Bu video sevimlilərdən silinsin?</string>
     <string name="ijkplayer_dummy"></string>
     <string name="imported">Daxilə köçürüldü</string>
-    <string name="impunity_declaration_content">Məhsulu istifadə etməzdən əvvəl &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=en\"&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; və &lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=en\"&gt;Gizlilik Siyasətimizi&lt;/a&gt; oxumalı və razılaşmalısınız.</string>
+    <string name="impunity_declaration_content">Məhsulu istifadə etməzdən əvvəl &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=en\"&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; və &lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=en\"&gt;Məxfilik Siyasətimizi&lt;/a&gt; oxumalı və razılaşmalısınız.</string>
     <string name="impunity_declaration_ignore">"Təkrar göstərmə"</string>
     <string name="impunity_declaration_negative_text">Çıx</string>
     <string name="impunity_declaration_positive_text">Razıyam</string>
@@ -1100,9 +1099,9 @@ Veriləri təmizlədikdən sonra tətbiqdən çıxış ediləcək. Bu verilər h
     <string name="joox_category_unvip">Ödənişsiz VIP</string>
     <string name="joox_category_vip">Azarkeş Mərkəzi</string>
     <string name="joox_download_title">JOOX endirmələri</string>
-    <string name="joox_privacy_desc">JOOX Gizlilik Siyasəti (ixtiyari)</string>
-    <string name="joox_privacy_tips_content">Bu onlayn xidmətləri istifadə etməzdən əvvəl <a href="/link/click">JOOX Gizlilik Siyasətini</a> ooxuyun və razılaşın.</string>
-    <string name="joox_privacy_tips_title">JOOX Gizlilik Siyasəti</string>
+    <string name="joox_privacy_desc">JOOX Məxfilik Siyasəti (ixtiyari)</string>
+    <string name="joox_privacy_tips_content">Bu onlayn xidmətləri istifadə etməzdən əvvəl <a href="/link/click">JOOX Məxfilik Siyasətini</a> ooxuyun və razılaşın.</string>
+    <string name="joox_privacy_tips_title">JOOX Məxfilik Siyasəti</string>
     <string name="joox_recommend_artist_title">Tövsiyə edilən sənətçilər</string>
     <string name="joox_recommend_playlist_title">Tövsiyə edilən pleylistlər</string>
     <string name="joox_search_result_more">Daha çox</string>
@@ -1433,7 +1432,7 @@ Veriləri təmizlədikdən sonra tətbiqdən çıxış ediləcək. Bu verilər h
     <string name="native_media_view">Media görünüşü</string>
     <string name="nav_app_bar_navigate_up_description">Yuxarı get</string>
     <string name="nav_app_bar_open_drawer_description">Naviqasiya siyirməsini aç</string>
-<string name="nct_privacy_text"><Data>Davam etməzdən əvvəl oxuyun və razılaşın: &lt;font color=#A374F0>&lt;a href=%1$s>Mi Musiqi İstifadəçi Razılaşması&lt;/a>&lt;/font>, &lt;font color=#A374F0>&lt;a href=%2$s>Mi Musiqi Gizlilik Siyasəti&lt;/a>&lt;/font> və &lt;font color=#A374F0>&lt;a href=%3$s>Vansound Gizlilik Siyasəti&lt;/a>&lt;/font>.</Data></string>
+<string name="nct_privacy_text"><Data>Davam etməzdən əvvəl oxuyun və razılaşın: &lt;font color=#A374F0>&lt;a href=%1$s>Mi Musiqi İstifadəçi Razılaşması&lt;/a>&lt;/font>, &lt;font color=#A374F0>&lt;a href=%2$s>Mi Musiqi Məxfilik Siyasəti&lt;/a>&lt;/font> və &lt;font color=#A374F0>&lt;a href=%3$s>Vansound Məxfilik Siyasəti&lt;/a>&lt;/font>.</Data></string>
     <string name="nct_song_joox">"Müəllif hüququ məsələlərinə görə oxudula bilmir"</string>
     <string name="need_to_close">Daha az göstər</string>
     <string name="need_to_show">Daha çox göstər</string>
@@ -1443,7 +1442,7 @@ Veriləri təmizlədikdən sonra tətbiqdən çıxış ediləcək. Bu verilər h
     <string name="network_settings_error">"Şəbəkəyə bağlana bilmir"</string>
     <string name="network_tip_title">Yeni musiqilərlə dolu dünyaya qoşulun</string>
     <string name="network_traffic">Veri istifadəsi</string>
-    <string name="new_user_free_music_rights">恭喜您!获得新用户免费听歌权益</string>
+    <string name="new_user_free_music_rights">恭喜您! 获得新用户免费听歌权益</string>
     <string name="next_time">İndi yox</string>
     <string name="next_to_play">Növbəti</string>
     <string name="night">Axşam</string>
@@ -1701,15 +1700,15 @@ Təkrar onlayn olduğunuz zaman daha çoxunu paylaşacağıq."</string>
     <string name="passport_to_verify_code_login">SMS ilə daxil olun</string>
     <string name="passport_unknown_error">Bilinməyən xəta</string>
     <string name="passport_unknown_host_network_error">Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın</string>
-    <string name="passport_user_agreement_hint_3rd_app"><Data>\"Bunları oxudum və razılaşıram: &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt; və Xiaomi Hesabı üzrə &lt;a href=%3$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%4$s&gt;Gizlilik Siyasəti&lt;/a&gt;.\"</Data></string>
-    <string name="passport_user_agreement_hint_3rd_app_mobile"><Data>\"Bunları oxudum və razılaşıram: &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt; və Xiaomi Hesabı üzrə &lt;a href=%3$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%4$s&gt;Gizlilik Siyasəti&lt;/a&gt;, həmçinin &lt;a href=%5$s&gt;Çin Mobil doğrulama xidmətlərinin şərtləri və qaydaları&lt;/a&gt;.\"</Data></string>
-    <string name="passport_user_agreement_hint_3rd_app_with_telecom"><Data>\"Bunları oxudum və razılaşıram: &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt; və Xiaomi Hesabı üzrə &lt;a href=%3$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%4$s&gt;Gizlilik Siyasəti&lt;/a&gt;, həmçinin &lt;a href=%5$s&gt;eSurfing hesab doğrulama xidmətlərinin şərtləri və qaydaları&lt;/a&gt;.\"</Data></string>
-    <string name="passport_user_agreement_hint_3rd_app_with_unicom"><Data>\"Bunları oxudum və razılaşıram: &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt; və Xiaomi Hesabı üzrə &lt;a href=%3$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%4$s&gt;Gizlilik Siyasəti&lt;/a&gt;, həmçinin &lt;a href=%5$s&gt;China Unicorn doğrulama xidmətlərinin şərtləri və qaydaları&lt;/a&gt;.\"</Data></string>
-    <string name="passport_user_agreement_hint_default"><Data>\"Bunları oxudum və razılaşıram: Xiaomi Hesabı üzrə &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt;.\"</Data></string>
+    <string name="passport_user_agreement_hint_3rd_app"><Data>\"Bunları oxudum və razılaşıram: &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Məxfilik Siyasəti&lt;/a&gt; və Xiaomi Hesabı üzrə &lt;a href=%3$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%4$s&gt;Məxfilik Siyasəti&lt;/a&gt;.\"</Data></string>
+    <string name="passport_user_agreement_hint_3rd_app_mobile"><Data>\"Bunları oxudum və razılaşıram: &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Məxfilik Siyasəti&lt;/a&gt; və Xiaomi Hesabı üzrə &lt;a href=%3$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%4$s&gt;Məxfilik Siyasəti&lt;/a&gt;, həmçinin &lt;a href=%5$s&gt;Çin Mobil doğrulama xidmətlərinin şərtləri və qaydaları&lt;/a&gt;.\"</Data></string>
+    <string name="passport_user_agreement_hint_3rd_app_with_telecom"><Data>\"Bunları oxudum və razılaşıram: &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Məxfilik Siyasəti&lt;/a&gt; və Xiaomi Hesabı üzrə &lt;a href=%3$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%4$s&gt;Məxfilik Siyasəti&lt;/a&gt;, həmçinin &lt;a href=%5$s&gt;eSurfing hesab doğrulama xidmətlərinin şərtləri və qaydaları&lt;/a&gt;.\"</Data></string>
+    <string name="passport_user_agreement_hint_3rd_app_with_unicom"><Data>\"Bunları oxudum və razılaşıram: &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Məxfilik Siyasəti&lt;/a&gt; və Xiaomi Hesabı üzrə &lt;a href=%3$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%4$s&gt;Məxfilik Siyasəti&lt;/a&gt;, həmçinin &lt;a href=%5$s&gt;China Unicorn doğrulama xidmətlərinin şərtləri və qaydaları&lt;/a&gt;.\"</Data></string>
+    <string name="passport_user_agreement_hint_default"><Data>\"Bunları oxudum və razılaşıram: Xiaomi Hesabı üzrə &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Məxfilik Siyasəti&lt;/a&gt;.\"</Data></string>
     <string name="passport_user_agreement_hint_first_login">"Telefon nömrənizi ilk dəfə istifadə edirsinizsə, avtomatik olaraq hesab yaradacağıq."</string>
-    <string name="passport_user_agreement_hint_with_mobile"><Data>\"Bunları oxudum və razılaşıram: Xiaomi Hesabı üzrə &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt;, həmçinin &lt;a href=%3$s&gt;Çin Mobil doğrulama xidmətlərinin şərtləri və qaydaları&lt;/a&gt;.\"</Data></string>
-    <string name="passport_user_agreement_hint_with_telecom"><Data>\"Bunları oxudum və razılaşıram: Xiaomi Hesabı üzrə &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt;, həmçinin &lt;a href=%3$s&gt;eSurfing hesab doğrulama xidmətlərinin şərtləri və qaydaları&lt;/a&gt;.\"</Data></string>
-    <string name="passport_user_agreement_hint_with_unicom"><Data>\"Bunları oxudum və razılaşıram: Xiaomi Hesabı üzrə &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Gizlilik Siyasəti&lt;/a&gt;, həmçinin &lt;a href=%3$s&gt;Unicom doğrulama xidmətlərinin şərtləri və qaydaları&lt;/a&gt;.\"</Data></string>
+    <string name="passport_user_agreement_hint_with_mobile"><Data>\"Bunları oxudum və razılaşıram: Xiaomi Hesabı üzrə &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Məxfilik Siyasəti&lt;/a&gt;, həmçinin &lt;a href=%3$s&gt;Çin Mobil doğrulama xidmətlərinin şərtləri və qaydaları&lt;/a&gt;.\"</Data></string>
+    <string name="passport_user_agreement_hint_with_telecom"><Data>\"Bunları oxudum və razılaşıram: Xiaomi Hesabı üzrə &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Məxfilik Siyasəti&lt;/a&gt;, həmçinin &lt;a href=%3$s&gt;eSurfing hesab doğrulama xidmətlərinin şərtləri və qaydaları&lt;/a&gt;.\"</Data></string>
+    <string name="passport_user_agreement_hint_with_unicom"><Data>\"Bunları oxudum və razılaşıram: Xiaomi Hesabı üzrə &lt;a href=%1$s&gt;İstifadəçi Razılaşması&lt;/a&gt; və &lt;a href=%2$s&gt;Məxfilik Siyasəti&lt;/a&gt;, həmçinin &lt;a href=%3$s&gt;Unicom doğrulama xidmətlərinin şərtləri və qaydaları&lt;/a&gt;.\"</Data></string>
     <string name="passport_user_avatar_update_title">Profil fotosunu dəyişdir</string>
     <string name="passport_user_avatar_uploading">Bir saniyə…</string>
     <string name="passport_user_id_hint">E-poçt/telefon nömrəsi/Xiaomi Hesabı Kimliyi</string>
@@ -1809,13 +1808,13 @@ Təkrar onlayn olduğunuz zaman daha çoxunu paylaşacağıq."</string>
     <string name="privacy_authorize_revoke_failed">"Səlahiyyət ləğv edilə bilmədi"</string>
     <string name="privacy_authorize_revoke_success">Səlahiyyət uğurla ləğv edildi</string>
     <string name="privacy_authorize_revoking">Səlahiyyət ləğv edilir…</string>
-    <string name="privacy_desc">Gizlilik Siyasəti (məcburi)</string>
-    <string name="privacy_desc_new">"Gizlilik Siyasəti
+    <string name="privacy_desc">Məxfilik Siyasəti (məcburi)</string>
+    <string name="privacy_desc_new">"Məxfilik Siyasəti
 (Məcburi)"</string>
-    <string name="privacy_policy">Gizlilik Siyasəti</string>
+    <string name="privacy_policy">Məxfilik Siyasəti</string>
     <string name="privacy_policy_title_asm">Musiqi dünyası barmaqlarınızın ucunda</string>
-    <string name="privacy_request_desc"><Data>\"Mi Musiqi, sizə onlayn yayım xidmətlərini təqdim etməsi üçün lazımi şəxsi məlumatları yığmalıdır. Yığdığımız məlumatları necə idarə etdiyimizi &lt;a href=\"%1$s\"&gt;Gizlilik Siyasətimizdə&lt;/a&gt; öyrənə bilərsiniz. İstənilən vaxt Ayarlarda \"Mi Musiqi\"nin Gizlilik Siyasətinə verdiyiniz razılığı geri götürə bilərsiniz.
-Mi Musiqi tətbiqini istifadə etməzdən əvvəl &lt;a href=\"%2$s\"&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; və &lt;a href=\"%1$s\"&gt;Gizlilik Siyasətimizi&lt;/a&gt; oxuyun və razılaşın.
+    <string name="privacy_request_desc"><Data>\"Mi Musiqi, sizə onlayn yayım xidmətlərini təqdim etməsi üçün lazımi şəxsi məlumatları yığmalıdır. Yığdığımız məlumatları necə idarə etdiyimizi &lt;a href=\"%1$s\"&gt;Məxfilik Siyasətimizdə&lt;/a&gt; öyrənə bilərsiniz. İstənilən vaxt Ayarlarda \"Mi Musiqi\"nin Məxfilik Siyasətinə verdiyiniz razılığı geri götürə bilərsiniz.
+Mi Musiqi tətbiqini istifadə etməzdən əvvəl &lt;a href=\"%2$s\"&gt;İstifadəçi Razılaşmamızı&lt;/a&gt; və &lt;a href=\"%1$s\"&gt;Məxfilik Siyasətimizi&lt;/a&gt; oxuyun və razılaşın.
 Yuxarıda qeyd olunan xidmətlərin istifadəsi ilə razılaşmırsınızsa, bu tətbiqin bəzi özəlliklərini istifadə edə bilməyəcəksiniz; ancaq, təməl funksionallığı hələ də sizin üçün əlçatan olacaq.\"</Data></string>
     <string name="privacy_request_subtitle">"\"Mi Musiqi\"yə xoş gəlmisiniz! Bu tətbiq aşağıdakı xidmətləri göstərir:
 - Daxili səs pleyeri
@@ -1831,12 +1830,12 @@ Yuxarıda qeyd olunan xidmətlərin istifadəsi ilə razılaşmırsınızsa, bu 
     <string name="pulluprefreshrecyclerview_loading_running">Yüklənir…</string>
     <string name="qq_application_id"></string>
     <string name="queue_is_empty">Oxutma növbəsi boşdur.</string>
-    <string name="read_and_agree_asm_protocol"><Data>Onlayn musiqi xidmətlərini istifadə edə bilmək üçün &lt;font color=\"#A374F0\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;ASM Gizlilik Siyasətini&lt;/a&gt;&lt;/font&gt; oxuyun və razılaşın.</Data></string>
-    <string name="read_and_agree_hungama_protocol"><Data>\"Bunu oxudum və razılaşıram: &lt;font color=\"#A374F0\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;hungama Gizlilik Siyasəti&lt;/a&gt;&lt;/font&gt;\"</Data></string>
-    <string name="read_and_agree_joox_protocol"><Data>\"Bunu oxudum və razılaşıram: &lt;font color=\"#A374F0\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;JOOX Gizlilik Siyasəti&lt;/a&gt;&lt;/font&gt;\"</Data></string>
-    <string name="read_and_agree_mi_protocol"><Data>\"Bunları oxudum və razılaşıram: Xiaomi &lt;font color=\"#A374F0\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;İstifadəçi Razılaşması&lt;/a&gt;&lt;/font&gt; və &lt;font color=\"#A374F0\"&gt;&lt;/color&gt;&lt;a href=\"%2$s\"&gt;Gizlilik Siyasəti&lt;/a&gt;&lt;/font&gt;\"</Data></string>
-    <string name="read_and_agree_protocol">Davam etməzdən əvvəl İstifadəçi Razılaşmamızı və Gizlilik Siyasətimizi oxuyun və razılaşın.</string>
-    <string name="read_and_agree_ws_protocol"><Data>Onlayn musiqi xidmətlərini istifadə edə bilmək üçün &lt;font color=\"#A374F0\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;Wansheng Gizlilik Siyasətini&lt;/a&gt;&lt;/font&gt; oxuyun və razılaşın.</Data></string>
+    <string name="read_and_agree_asm_protocol"><Data>Onlayn musiqi xidmətlərini istifadə edə bilmək üçün &lt;font color=\"#A374F0\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;ASM Məxfilik Siyasətini&lt;/a&gt;&lt;/font&gt; oxuyun və razılaşın.</Data></string>
+    <string name="read_and_agree_hungama_protocol"><Data>\"Bunu oxudum və razılaşıram: &lt;font color=\"#A374F0\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;hungama Məxfilik Siyasəti&lt;/a&gt;&lt;/font&gt;\"</Data></string>
+    <string name="read_and_agree_joox_protocol"><Data>\"Bunu oxudum və razılaşıram: &lt;font color=\"#A374F0\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;JOOX Məxfilik Siyasəti&lt;/a&gt;&lt;/font&gt;\"</Data></string>
+    <string name="read_and_agree_mi_protocol"><Data>\"Bunları oxudum və razılaşıram: Xiaomi &lt;font color=\"#A374F0\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;İstifadəçi Razılaşması&lt;/a&gt;&lt;/font&gt; və &lt;font color=\"#A374F0\"&gt;&lt;/color&gt;&lt;a href=\"%2$s\"&gt;Məxfilik Siyasəti&lt;/a&gt;&lt;/font&gt;\"</Data></string>
+    <string name="read_and_agree_protocol">Davam etməzdən əvvəl İstifadəçi Razılaşmamızı və Məxfilik Siyasətimizi oxuyun və razılaşın.</string>
+    <string name="read_and_agree_ws_protocol"><Data>Onlayn musiqi xidmətlərini istifadə edə bilmək üçün &lt;font color=\"#A374F0\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;Wansheng Məxfilik Siyasətini&lt;/a&gt;&lt;/font&gt; oxuyun və razılaşın.</Data></string>
     <string name="ready_to_play">Növbəti</string>
     <string name="recently_played">Təzəlikcə oxudulan</string>
     <string name="recently_played_songs">Sonuncu</string>
@@ -1846,10 +1845,10 @@ Yuxarıda qeyd olunan xidmətlərin istifadəsi ilə razılaşmırsınızsa, bu 
     <string name="recommended_no_file_size_download_in_mobile">Bu faylı endirmək üçün mobil veri bağlantısı istifadə edilsin?</string>
     <string name="remove">Sil</string>
     <string name="remove_download">Sil</string>
-    <string name="remove_user_privacy_dialog_message">Açarı bağlayaraq, \"Mi Musiqi\"nin Gizlilik Siyasətinə verdiyiniz razılığı geri götürürsünüz. Şəxsi məlumatların yığılmasını dayandıracağıq. Artıq yığılmış və saxlanılmış şəxsi məlumatlar, müvafiq qanunların tələb etdiyi müddətə silinəcək. \"Mi Musiqi\" tətbiqinin sizi təməl xidmətlərlə təmin etməsi üçün lazımi şəxsi məlumatları yığması lazımdır. Gizlilik Siyasətinə verdiyiniz razılığı geri götürməyiniz, yığılmış şəxsi məlumatlara əsaslanan xidmətlərin qəbul edilməsini rədd etmək kimi nəzərə alınacaqdır.</string>
-    <string name="remove_user_privacy_dialog_message_canuse">Açarı bağlayaraq, \"Mi Musiqi\"nin Gizlilik Siyasətinə verdiyiniz razılığı geri götürürsünüz. Şəxsi məlumatların yığılmasını dayandıracağıq. Artıq yığılmış və saxlanılmış şəxsi məlumatlar, müvafiq qanunların tələb etdiyi müddətə silinəcək. \"Mi Musiqi\" tətbiqinin sizi onlayn yayım xidmətləri ilə təmin etməsi üçün lazımi şəxsi məlumatları yığması lazımdır. Gizlilik Siyasətinə verdiyiniz razılığı geri götürməyiniz, yığılmış şəxsi məlumatlara əsaslanaraq yuxarıda qeyd olunan onlayn xidmətlərin qəbul edilməsini rədd etmək kimi nəzərə alınacaqdır.</string>
-    <string name="remove_user_privacy_dialog_message_new">"Bunu söndürsəniz, Mi Musiqi Gizlilik Siyasətinə verdiyiniz razılığı geri götürəcəksiniz və şəxsi məlumatlarınızın yığılmasını dayandıracağıq. İndi razılıq geri götürülsün?"</string>
-    <string name="remove_user_privacy_dialog_message_new_all">"Bunu söndürsəniz, Mi Musiqi Gizlilik Siyasəti və əlaqəli üçüncü tərəflərin gizlilik siyasətlərinə verdiyiniz razılığı geri götürəcəksiniz və şəxsi məlumatlarınızın yığılmasını dayandıracağıq. İndi razılıq geri götürülsün?"</string>
+    <string name="remove_user_privacy_dialog_message">Açarı bağlayaraq, \"Mi Musiqi\"nin Məxfilik Siyasətinə verdiyiniz razılığı geri götürürsünüz. Şəxsi məlumatların yığılmasını dayandıracağıq. Artıq yığılmış və saxlanılmış şəxsi məlumatlar, müvafiq qanunların tələb etdiyi müddətə silinəcək. \"Mi Musiqi\" tətbiqinin sizi təməl xidmətlərlə təmin etməsi üçün lazımi şəxsi məlumatları yığması lazımdır. Məxfilik Siyasətinə verdiyiniz razılığı geri götürməyiniz, yığılmış şəxsi məlumatlara əsaslanan xidmətlərin qəbul edilməsini rədd etmək kimi nəzərə alınacaqdır.</string>
+    <string name="remove_user_privacy_dialog_message_canuse">Açarı bağlayaraq, \"Mi Musiqi\"nin Məxfilik Siyasətinə verdiyiniz razılığı geri götürürsünüz. Şəxsi məlumatların yığılmasını dayandıracağıq. Artıq yığılmış və saxlanılmış şəxsi məlumatlar, müvafiq qanunların tələb etdiyi müddətə silinəcək. \"Mi Musiqi\" tətbiqinin sizi onlayn yayım xidmətləri ilə təmin etməsi üçün lazımi şəxsi məlumatları yığması lazımdır. Məxfilik Siyasətinə verdiyiniz razılığı geri götürməyiniz, yığılmış şəxsi məlumatlara əsaslanaraq yuxarıda qeyd olunan onlayn xidmətlərin qəbul edilməsini rədd etmək kimi nəzərə alınacaqdır.</string>
+    <string name="remove_user_privacy_dialog_message_new">"Bunu söndürsəniz, Mi Musiqi Məxfilik Siyasətinə verdiyiniz razılığı geri götürəcəksiniz və şəxsi məlumatlarınızın yığılmasını dayandıracağıq. İndi razılıq geri götürülsün?"</string>
+    <string name="remove_user_privacy_dialog_message_new_all">"Bunu söndürsəniz, Mi Musiqi Məxfilik Siyasəti və əlaqəli üçüncü tərəflərin məxfilik siyasətlərinə verdiyiniz razılığı geri götürəcəksiniz və şəxsi məlumatlarınızın yığılmasını dayandıracağıq. İndi razılıq geri götürülsün?"</string>
     <string name="remove_user_privacy_dialog_title">Razılığı geri götür</string>
     <string name="renew_dialog_title">"Pro ol
 Xoşbəxt ol"</string>
@@ -2267,7 +2266,7 @@ Xoşbəxt ol"</string>
     <string name="tt_postiveBtnText">Davam etdir</string>
     <string name="tt_postiveBtnTextPlayable">Oxutmağa davam et</string>
     <string name="tt_postive_txt">Oldu</string>
-    <string name="tt_privacy_title">Gizlilik Siyasəti</string>
+    <string name="tt_privacy_title">Məxfilik Siyasəti</string>
     <string name="tt_report_this_ad">Təkmilləşdirməyimizə kömək etmək üçün bu reklamı bildirin</string>
     <string name="tt_reward_feedback">Əks-əlaqə</string>
     <string name="tt_reward_full_skip">%1$s s sonra ötür</string>
@@ -2318,15 +2317,15 @@ Xoşbəxt ol"</string>
     <string name="upload_playlist_to_hungama_title">Xiaomi Hesabınızı istifadə etdiyiniz digər cihazlarda əldə edə bilmək üçün onlayn mahnıları Hungama-ya sinxronlaşdırın.</string>
     <string name="upload_playlist_to_hungama_toast">Onlayn mahnılar Hungama-ya sinxronlaşdırılacaq</string>
     <string name="user_agreement">İstifadəçi Razılaşması</string>
-    <string name="user_experience_program_open">Müəllif hüququ məhdudiyyətlərinə görə, endirilmiş mahnıları oxuda bilmək üçün İstifadəçi Təcrübə Proqramına yazılmaq lazımdır. Bunu Ayarlar &gt; Parollar və güvənlik &gt; Gizlilik &gt; \"İstifadəçi Təcrübə Proqramına yazıl\"da edə bilərsiniz.</string>
+    <string name="user_experience_program_open">Müəllif hüququ məhdudiyyətlərinə görə, endirilmiş mahnıları oxuda bilmək üçün İstifadəçi Təcrübə Proqramına yazılmaq lazımdır. Bunu Ayarlar &gt; Parollar və güvənlik &gt; Məxfilik &gt; \"İstifadəçi Təcrübə Proqramına yazıl\"da edə bilərsiniz.</string>
     <string name="user_playlist_plaza">Pleylistlər</string>
     <string name="user_privacy">İstifadəçi məxfiliyi</string>
     <string name="user_privacy_dialog_negative_text">İmtina</string>
     <string name="user_privacy_dialog_positive_count_down_text">Geri götür (%ss)</string>
     <string name="user_privacy_dialog_positive_text">Geri götür</string>
     <string name="user_privacy_setting_group_title">Razılığı geri götür</string>
-    <string name="user_privacy_setting_title">Bağlayaraq, \"Mi Musiqi\"nin Gizlilik Siyasətinə verdiyiniz razılığı geri götürürsünüz.</string>
-    <string name="user_privacy_setting_title_all">Bunu söndürsəniz, Mi Musiqi Gizlilik Siyasəti və əlaqəli üçüncü tərəflərin gizlilik siyasətlərinə verdiyiniz razılığı geri götürəcəksiniz</string>
+    <string name="user_privacy_setting_title">Bağlayaraq, \"Mi Musiqi\"nin Məxfilik Siyasətinə verdiyiniz razılığı geri götürürsünüz.</string>
+    <string name="user_privacy_setting_title_all">Bunu söndürsəniz, Mi Musiqi Məxfilik Siyasəti və əlaqəli üçüncü tərəflərin məxfilik siyasətlərinə verdiyiniz razılığı geri götürəcəksiniz</string>
     <string name="user_profile_created_playlist_title">Özəl pleylistlər</string>
     <string name="user_profile_fans_count">İzləyici: %s</string>
     <string name="user_profile_follow_count">İzlənilən: %s</string>
@@ -2425,7 +2424,7 @@ Endirməni, Wi-Fi şəbəkəsinə bağlananda başlatmaq üçün %s toxunun."</s
     <string name="wifi_required_title">Bu faylı endirmək üçün Wi-Fi-a bağlanmalısınız</string>
     <string name="wrong_audio_format">Səs olmayan fayl</string>
     <string name="wrong_video_format">Video olmayan fayl</string>
-    <string name="xiaomi_music_privacy_agreement"><Data>Davam etməzdən əvvəl oxuyun və razılaşın: &lt;font color=#A374F0>&lt;a href=%1$s>Mi Musiqi İstifadəçi Razılaşması&lt;/a>&lt;/font> və &lt;font color=#A374F0>&lt;a href=%2$s>Mi Musiqi Gizlilik Siyasəti&lt;/a>&lt;/font>.</Data></string>
+    <string name="xiaomi_music_privacy_agreement"><Data>Davam etməzdən əvvəl oxuyun və razılaşın: &lt;font color=#A374F0>&lt;a href=%1$s>Mi Musiqi İstifadəçi Razılaşması&lt;/a>&lt;/font> və &lt;font color=#A374F0>&lt;a href=%2$s>Mi Musiqi Məxfilik Siyasəti&lt;/a>&lt;/font>.</Data></string>
     <string name="yesterday">Dünən</string>
     <string name="you_can_switch_mode_in_settings">Ayarlarda rejimlər arasında keçid edə bilərsiniz</string>
     <string name="you_may_like">Bunları da bəyənə bilərsiniz</string>
@@ -2452,6 +2451,6 @@ Endirməni, Wi-Fi şəbəkəsinə bağlananda başlatmaq üçün %s toxunun."</s
     <string name="youtube_tab_popular">Məşhur</string>
     <string name="youtube_tab_shorts">Shorts</string>
     <string name="youtube_tab_trend">Trendlər</string>
-	<string name="ytb_privacy_statement">"Bu səhifəyə baxmaqla siz &lt;a href=\"%1$s\">YouTube Xidmət Şərtləri&lt;/a> və &lt;a href=\"%2$s\">Google Gizlilik Siyasəti&lt;/a>" ilə razılaşırsınız."</string>
+	<string name="ytb_privacy_statement">"Bu səhifəyə baxmaqla siz &lt;a href=\"%1$s\">YouTube Xidmət Şərtləri&lt;/a> və &lt;a href=\"%2$s\">Google Məxfilik Siyasəti&lt;/a>" ilə razılaşırsınız."</string>
     <string name="ytb_turn_on_sound">Səsi açmaq üçün toxunun</string>
 </resources>

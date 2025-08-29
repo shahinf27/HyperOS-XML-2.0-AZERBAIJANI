@@ -306,7 +306,7 @@ Sinxronlaşdırmanı dayandırmaq üçün söndürün."</string>
 	<string name="columbus_ad_choices_advertiser_info">Reklamçı məlumatı</string>
     <string name="columbus_ad_choices_close">Bağla</string>
     <string name="columbus_ad_choices_copy_token">Tokeni kopyala (%s)</string>
-    <string name="columbus_ad_choices_privacy_policy">Gizlilik Siyasəti</string>
+    <string name="columbus_ad_choices_privacy_policy">Məxfilik Siyasəti</string>
     <string name="columbus_ad_flag_text">Reklam</string>
     <string name="columbus_ad_layout_swipe_to_detail_link">Detallara baxmaq üçün sola sürüşdür</string>
     <string name="columbus_exo_controls_cc_disabled_description">Altyazıları fəallaşdır</string>
@@ -916,7 +916,7 @@ Baxdığınız səhifələr tarixçədə görünməyəcək."</string>
     <string name="intercept_panel_ads_img_category_text">Əngəllənmiş reklamlar</string>
     <string name="intercept_panel_download_img_category_text">Qorunan endirmələr</string>
     <string name="intercept_panel_empty_content">Veb sayt davranış tarixçəsi burada görünəcək</string>
-    <string name="intercept_panel_headline">Gizlilik qoruması</string>
+    <string name="intercept_panel_headline">Məxfilik qoruması</string>
     <string name="intercept_panel_item_action_camera">Kamera istifadə edilir</string>
     <string name="intercept_panel_item_action_mic">Səs yazılır</string>
     <string name="intercept_panel_item_action_phish">"Bu veb sayt güvənli deyil"</string>
@@ -1058,7 +1058,7 @@ Baxdığınız səhifələr tarixçədə görünməyəcək."</string>
     <string name="mggc_load_overtime_cancel">Gözləyin</string>
     <string name="mggc_load_overtime_confirm">Əsas səhifəyə qayıt</string>
     <string name="mggc_load_overtime_tip">Yükləmədə bəzi problemlər var. Oyun siyahısına qayıtmaq lazımdır?</string>
-    <string name="mggc_menu_privacy_policy">Gizlilik Siyasəti</string>
+    <string name="mggc_menu_privacy_policy">Məxfilik Siyasəti</string>
     <string name="mggc_more_games">Daha çox oyun</string>
     <string name="mggc_news_load_failed">Yenidən sınamaq üçün toxunun</string>
     <string name="mggc_news_loading">Bir saniyə…</string>
@@ -1215,7 +1215,7 @@ Baxdığınız səhifələr tarixçədə görünməyəcək."</string>
     <string name="more_description">Menyu</string>
     <string name="more_info">Daha ətraflı</string>
     <string name="more_option">Daha çox seçim</string>
-    <string name="more_privacy">Daha çox gizlilik seçimi</string>
+    <string name="more_privacy">Daha çox məxfilik seçimi</string>
     <string name="more_recommend">Daha çox tövsiyə</string>
     <string name="more_videos">Daha çox video</string>
     <string name="morning">Səhər</string>
@@ -1224,7 +1224,7 @@ Baxdığınız səhifələr tarixçədə görünməyəcək."</string>
     <string name="move_bookmark">Daşı</string>
     <string name="msg_token">Firebase Message Token (xaricə köçürmək üçün toxunun)</string>
     <string name="msn_ad_identification">Reklam</string>
-    <string name="msn_privacy">Microsoft Gizlilik Bəyannaməsi</string>
+    <string name="msn_privacy">Microsoft Məxfilik Bəyannaməsi</string>
     <string name="msn_privacy_content">Microsoft News tərəfindən təmin edilən məzmun lenti üçün</string>
     <string name="mtrl_badge_numberless_content_description">Yeni bildiriş</string>
     <string name="mtrl_chip_close_icon_content_description">Sil: %1$s</string>
@@ -1575,7 +1575,7 @@ Təkrar onlayn olduğunuz zaman daha çoxunu paylaşacağıq."</string>
     <string name="page_info">Səhifə məlumatları</string>
     <string name="page_info_address">Ünvan:</string>
     <string name="page_info_view">Səhifə məlumatlarına bax</string>
-    <string name="partner_privacy">Üçüncü tərəf gizlilik siyasətləri</string>
+    <string name="partner_privacy">Üçüncü tərəf məxfilik siyasətləri</string>
     <string name="password">Parol</string>
     <string name="password_toggle_content_description">Parolu göstər</string>
     <string name="pdf_confirm">Oldu</string>
@@ -1735,7 +1735,7 @@ Təkrar onlayn olduğunuz zaman daha çoxunu paylaşacağıq."</string>
     <string name="pref_privacy_performance_id_is">"Hazırkı Performans Kimliyi: "</string>
     <string name="pref_privacy_performance_id_reset">Performans Kimliyinizi sıfırlayın</string>
     <string name="pref_privacy_performance_id_will_reset">Performans Kimliyi sıfırlanacaq</string>
-    <string name="pref_privacy_security_title">Gizlilik &amp; güvənlik</string>
+    <string name="pref_privacy_security_title">Məxfilik &amp; güvənlik</string>
     <string name="pref_rate_app">Qiymətləndir</string>
     <string name="pref_save_bandwidth_mode_title">İnternet istifadəsini azalt</string>
     <string name="pref_security_accept_cookies">Çərəzləri qəbul et</string>
@@ -1806,7 +1806,7 @@ Bəzi saytlar, reklamlarını sizin üçün fərdiləşdirmək məqsədilə əvv
     <string name="pref_ua_string">İstifadəçi agent sətri</string>
     <string name="pref_version_info">Versiya məlumatı</string>
     <string name="pref_volume_key_action">Səs düymələrini istifadə edərək sürüşdür</string>
-    <string name="pref_web_protection">Gizlilik qoruması</string>
+    <string name="pref_web_protection">Məxfilik qoruması</string>
     <string name="preference_copied">\"%1$s\" lövhəyə kopyalandı.</string>
     <string name="preference_des_autocomplete_search">Gəzinmə tarixçəsinə, axtarış mühərriki təkliflərinə və məşhur veb saytlara əsaslanan axtarışları avto-tamamla</string>
     <string name="preference_title_autocomplete_search">Axtarışları və URL-ləri avto-tamamlama</string>
@@ -1827,14 +1827,14 @@ Bəzi saytlar, reklamlarını sizin üçün fərdiləşdirmək məqsədilə əvv
     <string name="privacy_disagree">"Razı deyiləm"</string>
     <string name="privacy_improve_performance">İstifadəçi Təcrübə Proqramı</string>
     <string name="privacy_improve_performance_desc">Məhsul və xidmətlərimizi təkmilləşdirmək üçün Xiaomi-yə istifadəçi verilərini yığma və təhlil etmə icazəsi verin</string>
-    <string name="privacy_message">Brauzeri istifadə etməzdən əvvəl, &lt;font color=#4086f5&gt;&lt;a href=%1$s style=color:#4086f5;&gt;İstifadəçi Razılaşmamız&lt;/a&gt;&lt;/font&gt; və &lt;font color=#4086f5&gt;&lt;a href=%2$s style=color:#4086f5;&gt;Gizlilik Siyasətimizlə&lt;/a&gt;&lt;/font&gt; razılaşmalısınız.</string>
-    <string name="privacy_message_main_tips_first">Mi Brauzer, sizə təməl xidmətləri təqdim etmək üçün lazımi şəxsi məlumatları yığmalıdır. Yığdığımız məlumatları necə emal etdiyimizi &lt;font color=#0a84ff&gt;&lt;a href=%1$s style=color:#0a84ff;&gt;Gizlilik Siyasətimizdə&lt;/a&gt;&lt;/font&gt; öyrənə bilərsiniz. İstənilən vaxt, Ayarlar &gt; Gizlilik və güvənlik bölməsində Mi Brauzerin Gizlilik Siyasətinə verdiyiniz razılığı geri götürə bilərsiniz. Mi Brauzeri istifadə etməzdən əvvəl &lt;font color=#0a84ff&gt;&lt;a href=%2$s style=color:#0a84ff;&gt;İstifadəçi Razılaşmamızı&lt;/a&gt;&lt;/font&gt; və &lt;font color=#0a84ff&gt;&lt;a href=%1$s style=color:#0a84ff;&gt;Gizlilik Siyasətimizi&lt;/a&gt;&lt;/font&gt; oxuyun və razılaşın.</string>
+    <string name="privacy_message">Brauzeri istifadə etməzdən əvvəl, &lt;font color=#4086f5&gt;&lt;a href=%1$s style=color:#4086f5;&gt;İstifadəçi Razılaşmamız&lt;/a&gt;&lt;/font&gt; və &lt;font color=#4086f5&gt;&lt;a href=%2$s style=color:#4086f5;&gt;Məxfilik Siyasətimizlə&lt;/a&gt;&lt;/font&gt; razılaşmalısınız.</string>
+    <string name="privacy_message_main_tips_first">Mi Brauzer, sizə təməl xidmətləri təqdim etmək üçün lazımi şəxsi məlumatları yığmalıdır. Yığdığımız məlumatları necə emal etdiyimizi &lt;font color=#0a84ff&gt;&lt;a href=%1$s style=color:#0a84ff;&gt;Məxfilik Siyasətimizdə&lt;/a&gt;&lt;/font&gt; öyrənə bilərsiniz. İstənilən vaxt, Ayarlar &gt; Məxfilik və güvənlik bölməsində Mi Brauzerin Məxfilik Siyasətinə verdiyiniz razılığı geri götürə bilərsiniz. Mi Brauzeri istifadə etməzdən əvvəl &lt;font color=#0a84ff&gt;&lt;a href=%2$s style=color:#0a84ff;&gt;İstifadəçi Razılaşmamızı&lt;/a&gt;&lt;/font&gt; və &lt;font color=#0a84ff&gt;&lt;a href=%1$s style=color:#0a84ff;&gt;Məxfilik Siyasətimizi&lt;/a&gt;&lt;/font&gt; oxuyun və razılaşın.</string>
     <string name="privacy_message_main_tips_second">"Bu cihazdakı tətbiqləri axtara bilmək və hansı tətbiqlərin quraşdırıldığını bilmək üçün Mi Brauzer, tətbiq quraşdırma məlumatlarına erişməlidir. Bu məlumatlar daxili anbarda saxlanılmır və ya heç bir formada qarşı tərəfə yüklənmir."</string>
     <string name="privacy_message_welcome">Mi Brauzer-ə xoş gəlmisiniz! Tətbiqimiz aşağıdakı xidmətləri göstərir:</string>
     <string name="privacy_message_welcome_tip_first">- İnternetdə sürətli və güvənli gəzinmə</string>
     <string name="privacy_message_welcome_tip_second">- Sosial media platformalarından şəkillər və videoların endirilməsi</string>
     <string name="privacy_permission_name">"Fəaliyyətinizin izlənməsinə icazə verməyin"</string>
-    <string name="privacy_policy">Gizlilik Siyasəti</string>
+    <string name="privacy_policy">Məxfilik Siyasəti</string>
     <string name="privacy_reset_fail">"Sıfırlana bilmədi. Yenidən sınayın."</string>
     <string name="privacy_sub_title">Şərtlər və qaydalar</string>
     <string name="privacy_title">Mi Brauzer-ə xoş gəlmisiniz</string>
@@ -2358,7 +2358,7 @@ Bəzi saytlar, reklamlarını sizin üçün fərdiləşdirmək məqsədilə əvv
     <string name="tt_postiveBtnText">Davam etdir</string>
     <string name="tt_postiveBtnTextPlayable">Oxutmağa davam et</string>
     <string name="tt_postive_txt">Oldu</string>
-    <string name="tt_privacy_title">Gizlilik Siyasəti</string>
+    <string name="tt_privacy_title">Məxfilik Siyasəti</string>
     <string name="tt_reder_ad_load_timeout">Şablon yükləmə vaxtı bitdi</string>
     <string name="tt_render_diff_template_invalid">Şablon fərqi yararsızdır</string>
     <string name="tt_render_fail_meta_invalid">Şablon yararsızdır</string>
@@ -2432,7 +2432,7 @@ Bəzi saytlar, reklamlarını sizin üçün fərdiləşdirmək məqsədilə əvv
     <string name="user_defined_webpage_title">Başlat səhifəsinə əlavə et</string>
     <string name="user_experience_agree">Yazıl</string>
     <string name="user_experience_content">"İstifadəçi Təcrübə Proqramı, məhsul və xidmətlərimizi məqsədyönlü şəkildə təkmilləşdirməyimizə və sizə faydalı olan yeni özəllik və xidmətləri təqdim etməyimizə kömək edir. Proqrama yazıldıqdan sonra, əlaqələri veriləri (məs. məhsul istifadə məlumatları) yığmağa və təhlil etməyə başlayacağıq. Aşağıdakı \"Yazıl\"a toxunaraq, &lt;font color=#4086f5&gt;&lt;a href=%1$s style=color:#4086f5;&gt;İstifadəçi Təcrübə Proqramının&lt;/a&gt;&lt;/font&gt; şərtləri və qaydaları ilə razılaşırsınız.
-İstənilən vaxt Ayarlar &gt; \"Gizlilik və güvənlik\" bölməsində imtina edə bilərsiniz."</string>
+İstənilən vaxt Ayarlar &gt; \"Məxfilik və güvənlik\" bölməsində imtina edə bilərsiniz."</string>
     <string name="user_experience_disagree">"Yazılma"</string>
     <string name="user_experience_title">İstifadəçi Təcrübə Proqramı</string>
     <string name="user_guide_agree">Razıyam</string>
@@ -2440,7 +2440,7 @@ Bəzi saytlar, reklamlarını sizin üçün fərdiləşdirmək məqsədilə əvv
     <string name="user_guide_color_mode_title">Rəng sxemini seçin</string>
     <string name="user_guide_control_privacy_tips">Gizliliyinizə tam nəzarət edin</string>
     <string name="user_guide_disagree">"Razı deyiləm"</string>
-    <string name="user_guide_privacy_message">Məzmun Mərkəzini istifadə etməzdən əvvəl oxuyub razılaşın: &lt;font color=#0a84ff&gt;&lt;a href=%1$s style=color:#0a84ff;&gt;Gizlilik Siyasəti&lt;/a&gt;&lt;/font&gt; və &lt;font color=#0a84ff&gt;&lt;a href=%2$s style=color:#0a84ff;&gt;İstifadəçi Razılaşması&lt;/a&gt;&lt;/font&gt;.</string>
+    <string name="user_guide_privacy_message">Məzmun Mərkəzini istifadə etməzdən əvvəl oxuyub razılaşın: &lt;font color=#0a84ff&gt;&lt;a href=%1$s style=color:#0a84ff;&gt;Məxfilik Siyasəti&lt;/a&gt;&lt;/font&gt; və &lt;font color=#0a84ff&gt;&lt;a href=%2$s style=color:#0a84ff;&gt;İstifadəçi Razılaşması&lt;/a&gt;&lt;/font&gt;.</string>
     <string name="user_guide_provide_service_content">Məşhur videolar və xəbərlər</string>
     <string name="user_guide_provide_service_title">Bu özəllik aşağıdakı xidmətləri təmin edir:</string>
     <string name="user_guide_read_info_tips">Tətbiqləri axtarış nəticələrinə daxil edə bilmək üçün Mi Brauzerin cihazınızda quraşdırılmış tətbiqlər siyahısına erişməsi lazımdır.</string>
@@ -2477,7 +2477,7 @@ Bəzi saytlar, reklamlarını sizin üçün fərdiləşdirmək məqsədilə əvv
 https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="video_downloader_fail">"Bu element endirilə bilmədi"</string>
     <string name="video_downloader_retry">Yenidən sına</string>
-    <string name="video_feedback_description">Yuxarıda daxil etdiyiniz məlumatları istifadəçi təcrübənizi yaxşılaşdırmaq üçün yığırıq və istifadə edirik. Şəxsi məlumatlarınızı necə yığmağımız və emal etməyimizlə bağlı daha ətraflı öyrənmək üçün Gizlilik Siyasətimizə baxın.</string>
+    <string name="video_feedback_description">Yuxarıda daxil etdiyiniz məlumatları istifadəçi təcrübənizi yaxşılaşdırmaq üçün yığırıq və istifadə edirik. Şəxsi məlumatlarınızı necə yığmağımız və emal etməyimizlə bağlı daha ətraflı öyrənmək üçün Məxfilik Siyasətimizə baxın.</string>
     <string name="video_feedback_description_title">Bu məlumat yalnız məzmun tövsiyələri üçün istifadə olunacaq</string>
     <string name="video_feedback_not_sumbit_toast">Göndərməzdən əvvəl bir cavab seçin</string>
     <string name="video_feedback_thanks">Əks-əlaqəniz üçün təşəkkürlər</string>
@@ -2520,9 +2520,9 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="vpn_not_support_by_region">"VPN xidmətləri bölgənizdə mövcud deyil"</string>
     <string name="vpn_offline_tip">"VPN xidmətləri indi əlçatmazdır"</string>
     <string name="vpn_privacy_dialog_agress">Razıyam</string>
-    <string name="vpn_privacy_dialog_content">Bu xidmət \"Tai Xin\" tərəfindən təqdim edilir. Bu xidməti istifadə etməzdən əvvəl &lt;font color=\"#4086f5\"&gt;&lt;a href=\"%1$s\" style=\"color:#4086f5;\"&gt;Tai Xin Gizlilik Siyasətini&lt;/a&gt;&lt;/font&gt; oxuyun və razılaşın.</string>
+    <string name="vpn_privacy_dialog_content">Bu xidmət \"Tai Xin\" tərəfindən təqdim edilir. Bu xidməti istifadə etməzdən əvvəl &lt;font color=\"#4086f5\"&gt;&lt;a href=\"%1$s\" style=\"color:#4086f5;\"&gt;Tai Xin Məxfilik Siyasətini&lt;/a&gt;&lt;/font&gt; oxuyun və razılaşın.</string>
     <string name="vpn_privacy_dialog_disagree">Xeyr, təşəkkürlər</string>
-    <string name="vpn_privacy_dialog_title">Gizlilik bəyanatı</string>
+    <string name="vpn_privacy_dialog_title">Məxfilik bəyanatı</string>
     <string name="vpn_subscribe_tips_1">Bütün mövcud serverləri istifadə et</string>
     <string name="vpn_subscribe_tips_2">Daha çox veb sayta erişim et</string>
     <string name="vpn_subscribe_tips_3">Yüksək sürətdən həzz alın</string>
@@ -2660,7 +2660,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="web_intercept_record_filter_ad">Reklam əngəlləyici</string>
     <string name="web_intercept_record_filter_all">Bütün qeydlər</string>
     <string name="web_intercept_record_filter_download">Qorunan endirmələr</string>
-    <string name="web_intercept_record_filter_permission">Gizlilik qoruması</string>
+    <string name="web_intercept_record_filter_permission">Məxfilik qoruması</string>
     <string name="web_intercept_record_sub_title_hint_ad">Veb səhifədəki reklamları əngəllə</string>
     <string name="web_intercept_record_sub_title_hint_download">Tətbiqləri avtomatik aç</string>
     <string name="web_intercept_track_record_delete_hint">İmtina</string>
@@ -2685,8 +2685,8 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="web_permission_protect_lookup_all">Tarixçəyə bax</string>
     <string name="web_permission_protect_manage_ad_mark">"Aşağıdakı veb saytlarda reklamlar əngəllənməyəcək"</string>
     <string name="web_permission_protect_manage_ad_record">Əllə əlavə edilən reklam etiketləri olan veb saytlar</string>
-    <string name="web_permission_protect_manager_permission">Gizlilik qorumasını idarə et</string>
-    <string name="web_permission_protect_permission">Gizlilik qoruması</string>
+    <string name="web_permission_protect_manager_permission">Məxfilik qorumasını idarə et</string>
+    <string name="web_permission_protect_permission">Məxfilik qoruması</string>
     <string name="web_permission_protect_permissions_title">Veb sayt davranışı</string>
     <string name="web_permission_protect_pie_title">Qorunan elementlər</string>
     <string name="web_permission_protect_privacy_auto_play_title">Avto-oxutma</string>
@@ -2698,7 +2698,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="web_permission_protect_record">Veb sayt davranış tarixçəsi</string>
     <string name="web_permission_protect_record_dialog_msg">Bütün qoruma tarixçəsi qeydləri indi silinsin?</string>
     <string name="web_permission_protect_record_dialog_title">Qoruma tarixçəsini təmizlə</string>
-    <string name="web_permission_protect_title">Gizlilik qoruması</string>
+    <string name="web_permission_protect_title">Məxfilik qoruması</string>
     <string name="web_permission_protect_track_record">"\"İzləmə\", bu veb saytlar üçün işləmir"</string>
     <string name="web_permission_protect_track_switch_summary">Veb saytların fəaliyyətinizi izləməsini önləmək üçün işə salın</string>
     <string name="web_permission_protect_track_switch_title">İlkin əməliyyatlar</string>
@@ -2709,7 +2709,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="web_permission_setting_page_intercept_desc">Veb saytlar tərəfindən başladılan endirmələri məhdudlaşdırmaq üçün işə salın</string>
     <string name="web_permission_setting_page_intercept_subtitle">Endirmələri qoru</string>
     <string name="web_permission_setting_page_intercept_title">Endirmələri idarə et</string>
-    <string name="web_permission_setting_page_permission_title">Gizlilik qoruması</string>
+    <string name="web_permission_setting_page_permission_title">Məxfilik qoruması</string>
     <string name="web_permission_setting_page_privcay_des">"Veb saytların məlumatları yığmasına və fəaliyyətinizi izləməsinə icazə verməyin"</string>
     <string name="web_permission_setting_page_privcay_subtitle">İzləmə</string>
     <string name="web_permission_setting_page_privcay_title">İzlənilir</string>
@@ -2760,7 +2760,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="whatsapp_tab_chats">Söhbətlər</string>
     <string name="whatsapp_webpage_btn">Bax</string>
     <string name="whatsapp_webpage_tips">WhatsApp Status Saxlayıcı</string>
-    <string name="withdraw_dia_content">Məzmun Mərkəzinin Gizlilik Siyasətinə verdiyiniz razılığı geri götürsəniz, bu özəllik şəxsi məlumatlarınızın yığılmasını dayandıracaq. Daha əvvəl yığılmış və serverlərimizə yüklənmiş hər hansısa şəxsi məlumat silinəcək. Razılığı geri götürdükdən sonra, Məzmun Mərkəzini istifadə edə bilməyəcəksiniz. Razılıq indi geri götürülsün?</string>
+    <string name="withdraw_dia_content">Məzmun Mərkəzinin Məxfilik Siyasətinə verdiyiniz razılığı geri götürsəniz, bu özəllik şəxsi məlumatlarınızın yığılmasını dayandıracaq. Daha əvvəl yığılmış və serverlərimizə yüklənmiş hər hansısa şəxsi məlumat silinəcək. Razılığı geri götürdükdən sonra, Məzmun Mərkəzini istifadə edə bilməyəcəksiniz. Razılıq indi geri götürülsün?</string>
     <string name="within_30_days">Son %d gün</string>
     <string name="xiaomi_sign_in_btn_txt">Daxil olun və ya hesab yaradın</string>
     <string name="year_month_day_format">d MMM yyyy</string>
