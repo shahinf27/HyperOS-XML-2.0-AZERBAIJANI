@@ -50,6 +50,7 @@ Bu lüğət, Azərbaycan dilində texnoloji interfeyslərin tərcüməsi zamanı
 | output         | çıxış                           |
 | current        | hazırkı                         |
 | exist          | mövcud                          |
+| privacy        | məxfilik                        |
 | private        | məxfi (İKT)                     |
 | private        | özəl (hüquqi)                   |
 | private data   | məxfi veri(lər)                 |
