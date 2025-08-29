@@ -50,10 +50,21 @@ Bu lüğət, Azərbaycan dilində texnoloji interfeyslərin tərcüməsi zamanı
 | output         | çıxış                           |
 | current        | hazırkı                         |
 | exist          | mövcud                          |
-| private        | şəxsi, gizli                    |
+| private        | məxfi (İKT)                     |
+| private        | özəl (hüquqi)                   |
+| private data   | məxfi veri(lər)                 |
+| private key    | məxfi açar                      |
+| privacy sector | özəl sektor                     |
+| private company| özəl şirkət                     |
 | secret         | sirr                            |
+| secrecy        | gizlilik                        |
+| confidentiality| konfidensiallıq                 |
 | hidden         | gizli                           |
-| personal       | fərdi                           |
+| personal       | fərdi (rəsmi/hüquqi)            |
+| personal       | şəxsi (gündəlik)                |
+| personal data  | fərdi veri(lər)                 |
+| personal info  | fərdi məlumat(lar)              |
+| personal life  | şəxsi həyat                     |
 | provider 	     | provayder                       |
 | sufficient     | yetərli                         |
 | insufficient   | yetərsiz                        |
