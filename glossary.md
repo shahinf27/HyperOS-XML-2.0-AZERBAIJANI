@@ -55,7 +55,7 @@ Bu lüğət, Azərbaycan dilində texnoloji interfeyslərin tərcüməsi zamanı
 | private        | özəl (hüquqi)                   |
 | private data   | məxfi veri(lər)                 |
 | private key    | məxfi açar                      |
-| privacy sector | özəl sektor                     |
+| private sector | özəl sektor                     |
 | private company| özəl şirkət                     |
 | secret         | sirr                            |
 | secrecy        | gizlilik                        |
