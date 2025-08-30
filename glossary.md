@@ -66,6 +66,9 @@ Bu lüğət, Azərbaycan dilində texnoloji interfeyslərin tərcüməsi zamanı
 | personal data  | fərdi veri(lər)                 |
 | personal info  | fərdi məlumat(lar)              |
 | personal life  | şəxsi həyat                     |
+| safety         | əmniyyət                        |
+| safe           | əmniyyətli, əmniyyətdə          |
+| safely         | əmniyyətlə                      |
 | provider 	     | provayder                       |
 | sufficient     | yetərli                         |
 | insufficient   | yetərsiz                        |
@@ -230,6 +233,7 @@ Bu lüğət, Azərbaycan dilində texnoloji interfeyslərin tərcüməsi zamanı
 | to ignore      | yox say                         |
 | interruption   | kəsinti                         |
 | interrupt      | yarımçıq kəsilmə                |
+| valid          | yararlı                         |
 | invalid        | yararsız                        |
 | to override    | yararsız etmək                  |
 | associated     | əlaqələndirilmiş                | 
