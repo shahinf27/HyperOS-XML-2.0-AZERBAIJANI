@@ -165,6 +165,10 @@ Bu lüğət, Azərbaycan dilində texnoloji interfeyslərin tərcüməsi zamanı
 | correspond     | müvafiq                         |
 | adaptive       | adaptiv                         |
 | suitable       | uyğun                           |
+| comply         | riayət etmək                    |
+| compliant      | riayətkar/riayət edən           |
+| compliance     | riayətlilik                     |
+| non-compliance | riayətsizlik                    |
 | to restore     | bərpa etmək                     |
 | to recover     | geri qaytarmaq                  |
 | recovery       | geri qaytarma                   |
