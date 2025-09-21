@@ -169,6 +169,10 @@ Bu lüğət, Azərbaycan dilində texnoloji interfeyslərin tərcüməsi zamanı
 | compliant      | riayətkar/riayət edən           |
 | compliance     | riayətlilik                     |
 | non-compliance | riayətsizlik                    |
+| define         | tərif(ini) vermək               |
+| definition     | tərif(i)                        |
+| definite       | qəti                            |
+| definitive     | qəti                            |
 | to restore     | bərpa etmək                     |
 | to recover     | geri qaytarmaq                  |
 | recovery       | geri qaytarma                   |
