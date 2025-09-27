@@ -644,6 +644,15 @@ Həmçinin başqa şəxslərin öz Xiaomi cihazlarını tapmasına anonim olaraq
     <string name="micloud_wipe_data_remove">Sil</string>
     <string name="micloud_wipe_data_retain">Saxla</string>
     <string name="midnight">Gecə</string>
+    <string name="midrive_guide1_desc">Cihazınızda anbar sahəsini boşaltmaq üçün elementləri buluda nüsxələyin.</string>
+    <string name="midrive_guide1_title">Güvənli nüsxələmə</string>
+    <string name="midrive_guide2_desc">Elementləri yüksək sürətlə endirin.</string>
+    <string name="midrive_guide2_title">Sürətli endirmələr</string>
+    <string name="midrive_guide3_desc">Mi Drive-ı mobil cihazlarınızda, kompüterlərinizdə və brauzerlərinizdə istifadə edin.</string>
+    <string name="midrive_guide3_title">Hər yerdə işləyir</string>
+    <string name="midrive_guide_btn_install">Mi Drive-ı quraşdır</string>
+    <string name="midrive_guide_btn_installed">Mi Drive-ı aç</string>
+    <string name="midrive_guide_btn_installing">Quraşdırılır…</string>
     <string name="miuix_access_state_desc">Seçildi</string>
 	<string name="miuix_accessibility_title">Başlıq</string>
     <string name="miuix_alphabet_indexer_name">İndeks çubuğu</string>

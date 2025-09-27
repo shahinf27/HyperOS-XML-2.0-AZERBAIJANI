@@ -170,7 +170,7 @@
     <string-array name="repeat_choose_end">
         <item>Heç vaxt</item>
         <item>Vaxt</item>
-        <item>Say</item>
+        <item>"Say "</item>
     </string-array>
     <string-array name="repeat_choose_month">
         <item>Yan</item>

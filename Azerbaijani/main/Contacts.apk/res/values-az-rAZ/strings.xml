@@ -275,6 +275,7 @@
     <string name="call_other_fax">Faksa zəng et</string>
     <string name="call_pager">Çağırış cihazına zəng et</string>
     <string name="call_radio">Radiotelefona zəng et</string>
+    <string name="call_recording_seekbar">Zəng səsyazması irəliləyiş çubuğu</string>
     <string name="call_sim1_description">SIM 1</string>
     <string name="call_sim1_menu_title">SIM 1-də zəng et</string>
     <string name="call_sim2_description">SIM 2</string>

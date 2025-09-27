@@ -294,6 +294,7 @@ Sinxronlaşdırmanı dayandırmaq üçün söndürün."</string>
     <string name="close_cant_recommand">"Bunu bağlasanız, fərdiləşdirilmiş məzmun xidmətlərini almayacaqsınız."</string>
     <string name="close_cloud_tab_tip">%s üzərindəki bulud vərəqləri bağlanılsın?</string>
     <string name="close_desktop">Masaüstü versiyası söndürüldü</string>
+    <string name="close_talkback_toast">TalkBack bağlıdır</string>
     <string name="cloud_loading_tips">Sinxronlaşdırmaq üçün aşağı çək</string>
     <string name="cloud_no_new_data_toast">"Hər şey güncəldir"</string>
     <string name="cloud_sync_closed_toast">"Sinxronlaşdırma bağlı olduğu üçün güncəllənə bilmir"</string>
@@ -821,6 +822,7 @@ Baxdığınız səhifələr tarixçədə görünməyəcək."</string>
     <string name="game_center_recommend_title">Sizin üçün tövsiyə edilən</string>
     <string name="game_news_flow_download_bar_download">Endir</string>
     <string name="game_news_flow_download_bar_play">Oyna</string>
+    <string name="game_notification_push_play">Oyna</string>
     <string name="game_play">Oyna</string>
     <string name="game_played">Sonuncular</string>
     <string name="garbage_cleaning">Təmizləyici</string>
@@ -1130,6 +1132,7 @@ Baxdığınız səhifələr tarixçədə görünməyəcək."</string>
     <string name="miuix_appcompat_select_item">Elementləri seç</string>
 	<string name="miuix_appcompat_show_dialog_description">Açılan pəncərə</string>
     <string name="miuix_indexer_collect">Kolleksiyalar</string>
+    <string name="miuix_pairing_dialog_closable_icon_description">Bağla</string>
     <string name="miuix_progressbar_loading">Bir saniyə…</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Təzələmək üçün aşağı çək</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Uğurla təzələndi</string>
@@ -1561,6 +1564,7 @@ Təkrar onlayn olduğunuz zaman daha çoxunu paylaşacağıq."</string>
     <string name="open_google_gaid">"Bu özəlliyi istifadə edə bilmək üçün reklam fərdiləşdirməsini Ayarlar &gt; Google &gt; \"Reklamlar\"da söndürmədiyinizə əmin olun."</string>
     <string name="open_personalized_services">Bu özəlliyi istifadə edə bilmək üçün fərdiləşdirilmiş xidmətləri açın.</string>
     <string name="open_private_folder">Gizli qovluqlara baxmaq üçün buraxın</string>
+    <string name="open_talkback_toast">TalkBack açıqdır</string>
     <string name="open_voice_permission">Mikrofonun internetə bağlanmasına icazə verin</string>
     <string name="open_whatsapp_status">WhatsApp statuslarını yoxla</string>
     <string name="operation_delete">Sil</string>
@@ -1586,6 +1590,7 @@ Təkrar onlayn olduğunuz zaman daha çoxunu paylaşacağıq."</string>
     <string name="pdf_summary">İcmal</string>
     <string name="pdf_unlocking">Fayllara erişim</string>
     <string name="per_month">Hər ay</string>
+    <string name="permanent_delete">Sil</string>
     <string name="permission_agree_service">"Aşağıdakı şərtlər və qaydaların hamısını oxudum və qəbul edirəm."</string>
     <string name="permission_alert_window">Bu özəlliyi istifadə edə bilmək üçün Brauzerin üzən pəncərələri nümayiş etdirməsinə icazə verin.</string>
     <string name="permission_contacts">Kontaktlar</string>
@@ -1935,6 +1940,7 @@ Bəzi saytlar, reklamlarını sizin üçün fərdiləşdirmək məqsədilə əvv
     <string name="relevant_recommendations">Tövsiyə edilən</string>
     <string name="remember_my_choice">Seçimimi xatırla</string>
     <string name="remember_passwords_confirm_message">Bu özəlliyin bağlanılması istifadəyə təsir edə bilər.</string>
+    <string name="remote_config_is_initializing">Remote config başladılır. Lütfən daha sonra yenidən sınayın.</string>
     <string name="remove_bookmark">Əlfəcini sil</string>
     <string name="remove_bookmark_group">Qrupu sil</string>
     <string name="remove_from_bookmarks">Əlfəcinlərdən silindi</string>
@@ -2247,7 +2253,6 @@ Bəzi saytlar, reklamlarını sizin üçün fərdiləşdirmək məqsədilə əvv
     <string name="talkbak_refresh_icon">Təzələ</string>
     <string name="talkbak_title">Başlıq: %1$s</string>
     <string name="tcf_consent">TCF Razılığı</string>
-    <string name="text_input_layout_default_error">Bu, ilkin xətadır</string>
     <string name="the_anniversary_of_lifting_martial_law">Hərbi Vəziyyətin Qaldırılma İldönümü</string>
     <string name="the_anti_aggression_day">Təcavüzlə Mübarizə Günü</string>
     <string name="the_arbor_day">Ağacəkmə Günü</string>

@@ -19,31 +19,39 @@
         <item quantity="other">Dərhal</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">%d dəq ərzində</item>
         <item quantity="one">%d dəq ərzində</item>
+        <item quantity="other">%d dəq ərzində</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">İndicə</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d dəq əvvəl</item>
         <item quantity="one">%d dəq əvvəl</item>
+        <item quantity="other">%d dəq əvvəl</item>
     </plurals>
     <plurals name="file_type_detail_count">
-        <item quantity="other">%1$d fayl</item>
         <item quantity="one">%1$d fayl</item>
+        <item quantity="other">%1$d fayl</item>
     </plurals>
     <plurals name="filter_diy_import_toast_success">
-        <item quantity="other">%1$d filtr uğurla daxilə köçürüldü</item>
         <item quantity="one">%1$d filtr uğurla daxilə köçürüldü</item>
+        <item quantity="other">%1$d filtr uğurla daxilə köçürüldü</item>
     </plurals>
     <plurals name="filter_images_ratio_unsupport">
-        <item quantity="other">Dəstəklənməyən təsvir nisbətinə sahib %d təsvir əngəlləndi</item>
         <item quantity="one">Dəstəklənməyən təsvir nisbətinə sahib %d təsvir əngəlləndi</item>
+        <item quantity="other">Dəstəklənməyən təsvir nisbətinə sahib %d təsvir əngəlləndi</item>
+    </plurals>
+    <plurals name="filter_images_ratio_unsupport_v2">
+        <item quantity="one">%d dəstəklənməyən element filtrləndi</item>
+        <item quantity="other">%d dəstəklənməyən element filtrləndi</item>
     </plurals>
     <plurals name="filter_images_unsupport">
-        <item quantity="other">Dəstəklənməyən %d təsvir əngəlləndi</item>
         <item quantity="one">Dəstəklənməyən %d təsvir əngəlləndi</item>
+        <item quantity="other">Dəstəklənməyən %d təsvir əngəlləndi</item>
+    </plurals>
+    <plurals name="filter_images_unsupport_v2">
+        <item quantity="one">%d dəstəklənməyən element filtrləndi</item>
+        <item quantity="other">%d dəstəklənməyən element filtrləndi</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Yarım saat əvvəl</item>
@@ -58,190 +66,202 @@
         <item quantity="other">Dərhal</item>
     </plurals>
     <plurals name="in_num_minutes">
-        <item quantity="other">%d dəqiqə ərzində</item>
         <item quantity="one">1 dəqiqə ərzində</item>
+        <item quantity="other">%d dəqiqə ərzində</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">İndicə</item>
+    </plurals>
+    <plurals name="mark_doodle_max_node">
+        <item quantity="one">Ən çox %d stiker əlavə edə bilərsiniz</item>
+        <item quantity="other">Ən çox %d stiker əlavə edə bilərsiniz</item>
+    </plurals>
+    <plurals name="mark_shape_max_node">
+        <item quantity="one">Ən çox %d forma əlavə edin</item>
+        <item quantity="other">Ən çox %d forma əlavə edin</item>
+    </plurals>
+    <plurals name="mark_signature_max_node">
+        <item quantity="one">Ən çox %d imza əlavə edə bilərsiniz</item>
+        <item quantity="other">Ən çox %d imza əlavə edə bilərsiniz</item>
+    </plurals>
+    <plurals name="mark_text_max_node">
+        <item quantity="one">Ən çox %d mətn qutusu əlavə edə bilərsiniz</item>
+        <item quantity="other">Ən çox %d mətn qutusu əlavə edə bilərsiniz</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d element seçildi</item>
         <item quantity="one">%d element seçildi</item>
     </plurals>
+    <plurals name="miuix_indexer_selected">
+        <item quantity="one">%1$d element seçildi</item>
+        <item quantity="other">%1$d element seçildi</item>
+    </plurals>
     <plurals name="mtrl_badge_content_description">
-        <item quantity="other">%d yeni bildiriş</item>
         <item quantity="one">%d yeni bildiriş</item>
+        <item quantity="other">%d yeni bildiriş</item>
     </plurals>
     <plurals name="num_minutes_ago">
-        <item quantity="other">%d dəqiqə əvvəl</item>
         <item quantity="one">1 dəqiqə əvvəl</item>
-    </plurals>
-	<plurals name="photo_editor_talkback_corp_preview_clockwise_value">
-        <item quantity="other">Önizləmə saat istiqamətində %d dərəcə döndərildi</item>
-        <item quantity="one">Önizləmə saat istiqamətində %d dərəcə döndərildi</item>
-    </plurals>
-    <plurals name="photo_editor_talkback_corp_preview_counterclockwise_value">
-        <item quantity="other">Önizləmə saatın əksi istiqamətində %d dərəcə döndərildi</item>
-        <item quantity="one">Önizləmə saatın əksi istiqamətində %d dərəcə döndərildi</item>
+        <item quantity="other">%d dəqiqə əvvəl</item>
     </plurals>
 	<plurals name="photo_editor_talkback_crop_distortion_value">
-        <item quantity="other">Təhrif olunma: %d</item>
         <item quantity="one">Təhrif olunma: %d</item>
+        <item quantity="other">Təhrif olunma: %d</item>
     </plurals>
     <plurals name="photo_editor_talkback_crop_horizontal_default_value">
-        <item quantity="other">İlkin üfüqi dəyər: %d dərəcə</item>
         <item quantity="one">İlkin üfüqi dəyər: %d dərəcə</item>
+        <item quantity="other">İlkin üfüqi dəyər: %d dərəcə</item>
     </plurals>
     <plurals name="photo_editor_talkback_crop_horizontal_value">
-        <item quantity="other">Üfüqi: %d dərəcə</item>
         <item quantity="one">Üfüqi: %d dərəcə</item>
+        <item quantity="other">Üfüqi: %d dərəcə</item>
     </plurals>
 	<plurals name="photo_editor_talkback_crop_preview_mirror_clockwise_value">
-        <item quantity="other">Önizləmə əks etdirildi və saat istiqamətində %d dərəcə döndərildi</item>
         <item quantity="one">Önizləmə əks etdirildi və saat istiqamətində %d dərəcə döndərildi</item>
+        <item quantity="other">Önizləmə əks etdirildi və saat istiqamətində %d dərəcə döndərildi</item>
     </plurals>
     <plurals name="photo_editor_talkback_crop_preview_mirror_counterclockwise_value">
-        <item quantity="other">Önizləmə əks etdirildi və saatın əksi istiqamətində %d dərəcə döndərildi</item>
         <item quantity="one">Önizləmə əks etdirildi və saatın əksi istiqamətində %d dərəcə döndərildi</item>
+        <item quantity="other">Önizləmə əks etdirildi və saatın əksi istiqamətində %d dərəcə döndərildi</item>
     </plurals>
     <plurals name="photo_editor_talkback_crop_scale_value">
-        <item quantity="other">%d dərəcə döndər</item>
         <item quantity="one">%d dərəcə döndər</item>
+        <item quantity="other">%d dərəcə döndər</item>
     </plurals>
 	<plurals name="photo_editor_talkback_crop_vertical_default_value">
-        <item quantity="other">İlkin şaquli dəyər: %d dərəcə</item>
         <item quantity="one">İlkin şaquli dəyər: %d dərəcə</item>
+        <item quantity="other">İlkin şaquli dəyər: %d dərəcə</item>
     </plurals>
     <plurals name="photo_editor_talkback_crop_vertical_value">
-        <item quantity="other">Şaquli: %d dərəcə</item>
         <item quantity="one">Şaquli: %d dərəcə</item>
+        <item quantity="other">Şaquli: %d dərəcə</item>
     </plurals>
     <plurals name="send_apk_dialog_desc">
-        <item quantity="other">%1$s - %2$d quraşdırma paketi (%3$s)</item>
         <item quantity="one">%1$s - %2$d quraşdırma paketi (%3$s)</item>
+        <item quantity="other">%1$s - %2$d quraşdırma paketi (%3$s)</item>
     </plurals>
     <plurals name="send_apk_dialog_desc_received">
-        <item quantity="other">%1$s - %2$d quraşdırma paketi alındı (%3$s)</item>
         <item quantity="one">%1$s - %2$d quraşdırma paketi alındı (%3$s)</item>
+        <item quantity="other">%1$s - %2$d quraşdırma paketi alındı (%3$s)</item>
     </plurals>
     <plurals name="send_apk_dialog_desc_receiving">
-        <item quantity="other">%1$s - %2$d quraşdırma paketi alınır (%3$s)…</item>
         <item quantity="one">%1$s - %2$d quraşdırma paketi alınır (%3$s)…</item>
+        <item quantity="other">%1$s - %2$d quraşdırma paketi alınır (%3$s)…</item>
     </plurals>
     <plurals name="send_audio_dialog_desc">
-        <item quantity="other">%1$s - %2$d səs faylı (%3$s)</item>
         <item quantity="one">%1$s - %2$d səs faylı (%3$s)</item>
+        <item quantity="other">%1$s - %2$d səs faylı (%3$s)</item>
     </plurals>
     <plurals name="send_audio_dialog_desc_received">
-        <item quantity="other">%1$s - %2$d səs faylı alındı (%3$s)</item>
         <item quantity="one">%1$s - %2$d səs faylı alındı (%3$s)</item>
+        <item quantity="other">%1$s - %2$d səs faylı alındı (%3$s)</item>
     </plurals>
     <plurals name="send_audio_dialog_desc_receiving">
-        <item quantity="other">%1$s - %2$d səs faylı alınır (%3$s)…</item>
         <item quantity="one">%1$s - %2$d səs faylı alınır (%3$s)…</item>
+        <item quantity="other">%1$s - %2$d səs faylı alınır (%3$s)…</item>
     </plurals>
     <plurals name="send_file_dialog_desc">
-        <item quantity="other">%1$s - %2$d %3$s fayl (%4$s)</item>
         <item quantity="one">%1$s - %2$d %3$s fayl (%4$s)</item>
+        <item quantity="other">%1$s - %2$d %3$s fayl (%4$s)</item>
     </plurals>
     <plurals name="send_file_dialog_desc_received">
-        <item quantity="other">%1$s - %2$d %3$s fayl alındı (%4$s)</item>
         <item quantity="one">%1$s - %2$d %3$s fayl alındı (%4$s)</item>
+        <item quantity="other">%1$s - %2$d %3$s fayl alındı (%4$s)</item>
     </plurals>
     <plurals name="send_file_dialog_desc_receiving">
-        <item quantity="other">%1$s - %2$d %3$s fayl alınır (%4$s)…</item>
         <item quantity="one">%1$s - %2$d %3$s fayl alınır (%4$s)…</item>
+        <item quantity="other">%1$s - %2$d %3$s fayl alınır (%4$s)…</item>
     </plurals>
     <plurals name="send_image_dialog_desc">
-        <item quantity="other">%1$s - %2$d şəkil</item>
         <item quantity="one">%1$s - %2$d şəkil</item>
+        <item quantity="other">%1$s - %2$d şəkil</item>
     </plurals>
     <plurals name="send_image_dialog_desc_received">
-        <item quantity="other">%1$s - %2$d şəkil alındı</item>
         <item quantity="one">%1$s - %2$d şəkil alındı</item>
+        <item quantity="other">%1$s - %2$d şəkil alındı</item>
     </plurals>
     <plurals name="send_image_dialog_desc_receiving">
-        <item quantity="other">%1$s - %2$d şəkil alınır…</item>
         <item quantity="one">%1$s - %2$d şəkil alınır…</item>
+        <item quantity="other">%1$s - %2$d şəkil alınır…</item>
     </plurals>
     <plurals name="send_image_video_dialog_desc">
-        <item quantity="other">%1$s - %2$d şəkil və ya video</item>
         <item quantity="one">%1$s - %2$d şəkil və ya video</item>
+        <item quantity="other">%1$s - %2$d şəkil və ya video</item>
     </plurals>
     <plurals name="send_image_video_dialog_desc_received">
-        <item quantity="other">%1$s - %2$d şəkil və ya video alındı</item>
         <item quantity="one">%1$s - %2$d şəkil və ya video alındı</item>
+        <item quantity="other">%1$s - %2$d şəkil və ya video alındı</item>
     </plurals>
     <plurals name="send_image_video_dialog_desc_receiving">
-        <item quantity="other">%1$s - %2$d şəkil və ya video alınır…</item>
         <item quantity="one">%1$s - %2$d şəkil və ya video alınır…</item>
+        <item quantity="other">%1$s - %2$d şəkil və ya video alınır…</item>
     </plurals>
     <plurals name="send_more_type_file_dialog_desc">
-        <item quantity="other">%1$s - %2$d fayl</item>
         <item quantity="one">%1$s - %2$d fayl</item>
+        <item quantity="other">%1$s - %2$d fayl</item>
     </plurals>
     <plurals name="send_more_type_file_dialog_desc_received">
-        <item quantity="other">%1$s - %2$d fayl alındı</item>
         <item quantity="one">%1$s - %2$d fayl alındı</item>
+        <item quantity="other">%1$s - %2$d fayl alındı</item>
     </plurals>
     <plurals name="send_more_type_file_dialog_desc_receiving">
-        <item quantity="other">%1$s - %2$d fayl alınır…</item>
         <item quantity="one">%1$s - %2$d fayl alınır…</item>
+        <item quantity="other">%1$s - %2$d fayl alınır…</item>
     </plurals>
     <plurals name="send_video_dialog_desc">
-        <item quantity="other">%1$s - %2$d video</item>
         <item quantity="one">%1$s - %2$d video</item>
+        <item quantity="other">%1$s - %2$d video</item>
     </plurals>
     <plurals name="send_video_dialog_desc_received">
-        <item quantity="other">%1$s - %2$d video alındı</item>
         <item quantity="one">%1$s - %2$d video alındı</item>
+        <item quantity="other">%1$s - %2$d video alındı</item>
     </plurals>
     <plurals name="send_video_dialog_desc_receiving">
-        <item quantity="other">%1$s - %2$d video alınır…</item>
         <item quantity="one">%1$s - %2$d video alınır…</item>
+        <item quantity="other">%1$s - %2$d video alınır…</item>
     </plurals>
     <plurals name="send_zip_dialog_desc">
-        <item quantity="other">%1$s - %2$d arxiv (%3$s)</item>
         <item quantity="one">%1$s - %2$d arxiv (%3$s)</item>
+        <item quantity="other">%1$s - %2$d arxiv (%3$s)</item>
     </plurals>
     <plurals name="send_zip_dialog_desc_received">
-        <item quantity="other">%1$s - %2$d arxiv alındı (%3$s)</item>
         <item quantity="one">%1$s - %2$d arxiv alındı (%3$s)</item>
+        <item quantity="other">%1$s - %2$d arxiv alındı (%3$s)</item>
     </plurals>
     <plurals name="send_zip_dialog_desc_receiving">
-        <item quantity="other">%1$s - %2$d arxiv alınır (%3$s)…</item>
         <item quantity="one">%1$s - %2$d arxiv alınır (%3$s)…</item>
+        <item quantity="other">%1$s - %2$d arxiv alınır (%3$s)…</item>
     </plurals>
     <plurals name="vlog_audio_origin_sound">
-        <item quantity="other">%1$d - orijinal səs</item>
         <item quantity="one">%1$d - orijinal səs</item>
+        <item quantity="other">%1$d - orijinal səs</item>
     </plurals>
     <plurals name="vlog_auto_audio_import_success_toast">
-        <item quantity="other">%1$d mahnı daxilə köçürüldü</item>
         <item quantity="one">%1$d mahnı daxilə köçürüldü</item>
+        <item quantity="other">%1$d mahnı daxilə köçürüldü</item>
     </plurals>
     <plurals name="vlog_filter_diy_lut_import_success_toast">
-        <item quantity="other">%1$d filtr uğurla daxilə köçürüldü</item>
         <item quantity="one">%1$d filtr uğurla daxilə köçürüldü</item>
+        <item quantity="other">%1$d filtr uğurla daxilə köçürüldü</item>
     </plurals>
     <plurals name="vlog_import_minutes_limit">
-        <item quantity="other">"Müddət artıq %d dəqiqəni aşır. "</item>
         <item quantity="one">"Müddət artıq %d dəqiqəni aşır. "</item>
+        <item quantity="other">"Müddət artıq %d dəqiqəni aşır. "</item>
     </plurals>
     <plurals name="vlog_import_minutes_no_support_nums">
-        <item quantity="other">%d video ötürüldü.</item>
         <item quantity="one">%d video ötürüldü.</item>
+        <item quantity="other">%d video ötürüldü.</item>
     </plurals>
     <plurals name="vlog_no_support_duration">
-        <item quantity="other">"Daxilə köçürülə bilmədi. Müddət %d dəqiqəni aşır."</item>
         <item quantity="one">"Daxilə köçürülə bilmədi. Müddət %d dəqiqəni aşır."</item>
+        <item quantity="other">"Daxilə köçürülə bilmədi. Müddət %d dəqiqəni aşır."</item>
     </plurals>
     <plurals name="vlog_talkback_crop_scale_value">
-        <item quantity="other">%d dərəcə döndər</item>
         <item quantity="one">%d dərəcə döndər</item>
+        <item quantity="other">%d dərəcə döndər</item>
     </plurals>
     <plurals name="vlog_template_support_count_desc">
-        <item quantity="other">%d klip</item>
         <item quantity="one">%d klip</item>
+        <item quantity="other">%d klip</item>
     </plurals>
 </resources>

@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="a_hour_ago">
-        <item quantity="other">1 saat əvvəl</item>
-    </plurals>
     <plurals name="abbrev_a_hour_ago">
         <item quantity="other">%d saat əvvəl</item>
     </plurals>
@@ -19,82 +16,71 @@
         <item quantity="other">Dərhal</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">%d dəq ərzində</item>
         <item quantity="one">%d dəq ərzində</item>
+        <item quantity="other">%d dəq ərzində</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">İndicə</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d dəq əvvəl</item>
         <item quantity="one">%d dəq əvvəl</item>
-    </plurals>
-    <plurals name="backup_message_wechat_video">
-        <item quantity="other">"WeChat danışıqlarındakı %1$d videonun müddəti bitmək üzrədir. Cihazınızın daxili anbarına nüsxələnsin?"</item>
-        <item quantity="one">"WeChat danışıqlarındakı %1$d videonun müddəti bitmək üzrədir. Cihazınızın daxili anbarına nüsxələnsin?"</item>
+        <item quantity="other">%d dəq əvvəl</item>
     </plurals>
     <plurals name="clockin_day_count">
-        <item quantity="other">Ardıcıl %1$s gün işarələndi, davam edin!</item>
         <item quantity="one">Ardıcıl %1$s gün işarələndi, davam edin!</item>
+        <item quantity="other">Ardıcıl %1$s gün işarələndi, davam edin!</item>
     </plurals>
     <plurals name="clockin_days">
-        <item quantity="other">Ardıcıl %1$s gün işarələndi</item>
         <item quantity="one">Ardıcıl %1$s gün işarələndi</item>
+        <item quantity="other">Ardıcıl %1$s gün işarələndi</item>
     </plurals>
     <plurals name="clockin_new_chip">
-        <item quantity="other">&lt;font color=#faea47&gt;&lt;b&gt;%d&lt;/b&gt;&lt;/font&gt; xal aldınız</item>
         <item quantity="one">&lt;font color=#faea47&gt;&lt;b&gt;%d&lt;/b&gt;&lt;/font&gt; xal aldınız</item>
+        <item quantity="other">&lt;font color=#faea47&gt;&lt;b&gt;%d&lt;/b&gt;&lt;/font&gt; xal aldınız</item>
     </plurals>
     <plurals name="days_ago">
-        <item quantity="other">%1$d gün əvvəl</item>
         <item quantity="one">%1$d gün əvvəl</item>
+        <item quantity="other">%1$d gün əvvəl</item>
     </plurals>
     <plurals name="delete_cloud_files">
-        <item quantity="other">%1$d fayl bütün cihazlarınızdan və buluddan silisin? Mi Drive faylları təzəlikcə silinmiş elementlərdən geri qaytarıla bilər.</item>
         <item quantity="one">%1$d fayl bütün cihazlarınızdan və buluddan silisin? Mi Drive faylları təzəlikcə silinmiş elementlərdən geri qaytarıla bilər.</item>
+        <item quantity="other">%1$d fayl bütün cihazlarınızdan və buluddan silisin? Mi Drive faylları təzəlikcə silinmiş elementlərdən geri qaytarıla bilər.</item>
     </plurals>
     <plurals name="delete_files">
-        <item quantity="other">%1$d fayl silinsin?</item>
         <item quantity="one">%1$d fayl silinsin?</item>
+        <item quantity="other">%1$d fayl silinsin?</item>
     </plurals>
     <plurals name="delete_files_confirm">
-        <item quantity="other">%1$d faylı sil</item>
         <item quantity="one">%1$d faylı sil</item>
+        <item quantity="other">%1$d faylı sil</item>
     </plurals>
     <plurals name="delete_folders">
-        <item quantity="other">%1$d qovluq silinsin?</item>
         <item quantity="one">%1$d qovluq silinsin?</item>
+        <item quantity="other">%1$d qovluq silinsin?</item>
     </plurals>
     <plurals name="delete_folders_confirm">
-        <item quantity="other">" və %1$d qovluq silinsin?"</item>
         <item quantity="one">" və %1$d qovluq silinsin?"</item>
+        <item quantity="other">" və %1$d qovluq silinsin?"</item>
     </plurals>
     <plurals name="directory_item_count">
-        <item quantity="other">%d element</item>
         <item quantity="one">%d element</item>
+        <item quantity="other">%d element</item>
     </plurals>
     <plurals name="file_count">
-        <item quantity="other"> %1$d element</item>
         <item quantity="one"> %1$d element</item>
+        <item quantity="other"> %1$d element</item>
     </plurals>
     <plurals name="follow_count">
-        <item quantity="other">&lt;font color=#fc7050&gt;%d&lt;/font&gt; izləyici</item>
         <item quantity="one">&lt;font color=#fc7050&gt;%d&lt;/font&gt; izləyici</item>
+        <item quantity="other">&lt;font color=#fc7050&gt;%d&lt;/font&gt; izləyici</item>
     </plurals>
     <plurals name="found_new_files">
-        <item quantity="other">%1$d yeni fayl tapıldı</item>
         <item quantity="one">%1$d yeni fayl tapıldı</item>
+        <item quantity="other">%1$d yeni fayl tapıldı</item>
     </plurals>
     <plurals name="gems">
-        <item quantity="other">%1$s qiymətli daş</item>
         <item quantity="one">%1$s qiymətli daş</item>
-    </plurals>
-    <plurals name="half_hour_ago">
-        <item quantity="other">Yarım saat əvvəl</item>
-    </plurals>
-    <plurals name="hours_ago">
-        <item quantity="other">%1$d saat əvvəl</item>
-        <item quantity="one">%1$d saat əvvəl</item>
+        <item quantity="other">%1$s qiymətli daş</item>
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">1 saat ərzində</item>
@@ -106,130 +92,130 @@
         <item quantity="other">Dərhal</item>
     </plurals>
     <plurals name="in_num_minutes">
-        <item quantity="other">%d dəqiqə ərzində</item>
         <item quantity="one">1 dəqiqə ərzində</item>
+        <item quantity="other">%d dəqiqə ərzində</item>
     </plurals>
     <plurals name="items_picture">
-        <item quantity="other"> (%1$d element)</item>
         <item quantity="one"> (%1$d element)</item>
+        <item quantity="other"> (%1$d element)</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">İndicə</item>
     </plurals>
     <plurals name="mins_ago">
-        <item quantity="other">%1$d dəqiqə əvvəl</item>
         <item quantity="one">%1$d dəqiqə əvvəl</item>
+        <item quantity="other">%1$d dəqiqə əvvəl</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
-        <item quantity="other">%d element seçildi</item>
         <item quantity="one">%d element seçildi</item>
+        <item quantity="other">%d element seçildi</item>
     </plurals>
 	<plurals name="miuix_indexer_selected">
-        <item quantity="other">%1$d element seçildi</item>
         <item quantity="one">%1$d element seçildi</item>
+        <item quantity="other">%1$d element seçildi</item>
     </plurals>
     <plurals name="more_gems">
-        <item quantity="other">Uğurlu tirajda iştirak etmək üçün daha &lt;font color=#fc7050&gt;&lt;b&gt;%d&lt;/b&gt;&lt;/font&gt; qiymətli daş toplayın.</item>
         <item quantity="one">Uğurlu tirajda iştirak etmək üçün daha &lt;font color=#fc7050&gt;&lt;b&gt;%d&lt;/b&gt;&lt;/font&gt; qiymətli daş toplayın.</item>
+        <item quantity="other">Uğurlu tirajda iştirak etmək üçün daha &lt;font color=#fc7050&gt;&lt;b&gt;%d&lt;/b&gt;&lt;/font&gt; qiymətli daş toplayın.</item>
     </plurals>
     <plurals name="mtrl_badge_content_description">
-        <item quantity="other">%d yeni bildiriş</item>
         <item quantity="one">%d yeni bildiriş</item>
+        <item quantity="other">%d yeni bildiriş</item>
     </plurals>
     <plurals name="notification_message_sync_result_fail">
-        <item quantity="other">"%1$s fayl sinxronlaşdırıla bilmədi"</item>
         <item quantity="one">"%1$s fayl sinxronlaşdırıla bilmədi"</item>
+        <item quantity="other">"%1$s fayl sinxronlaşdırıla bilmədi"</item>
     </plurals>
     <plurals name="notification_message_sync_result_success">
-        <item quantity="other">"Sinxronlaşdırılmış %1$s fayl | "</item>
         <item quantity="one">"Sinxronlaşdırılmış %1$s fayl | "</item>
+        <item quantity="other">"Sinxronlaşdırılmış %1$s fayl | "</item>
     </plurals>
     <plurals name="notification_title_syncing_with_count_no_network">
-        <item quantity="other">Şəbəkə bağlantısı gözlənilir. %1$s fayl qaldı.</item>
         <item quantity="one">Şəbəkə bağlantısı gözlənilir. %1$s fayl qaldı.</item>
+        <item quantity="other">Şəbəkə bağlantısı gözlənilir. %1$s fayl qaldı.</item>
     </plurals>
     <plurals name="numSelectedFile">
-        <item quantity="other">%1$d element seçildi</item>
         <item quantity="one">%1$d element seçildi</item>
+        <item quantity="other">%1$d element seçildi</item>
     </plurals>
     <plurals name="num_minutes_ago">
-        <item quantity="other">%d dəqiqə əvvəl</item>
         <item quantity="one">1 dəqiqə əvvəl</item>
+        <item quantity="other">%d dəqiqə əvvəl</item>
     </plurals>
     <plurals name="number_of_comment_flow">
         <item quantity="other">%1$s rəy</item>
         <item quantity="one">%1$s rəy</item>
     </plurals>
     <plurals name="original_user_days">
-        <item quantity="other">" • &lt;font color=#fc7050&gt;%1$d&lt;/font&gt; gün"</item>
         <item quantity="one">" • &lt;font color=#fc7050&gt;%1$d&lt;/font&gt; gün"</item>
+        <item quantity="other">" • &lt;font color=#fc7050&gt;%1$d&lt;/font&gt; gün"</item>
     </plurals>
     <plurals name="original_user_fans">
-        <item quantity="other">" • &lt;font color=#fc7050&gt;%1$s&lt;/font&gt; izləyiciniz var!"</item>
         <item quantity="one">" • &lt;font color=#fc7050&gt;%1$s&lt;/font&gt; izləyiciniz var!"</item>
+        <item quantity="other">" • &lt;font color=#fc7050&gt;%1$s&lt;/font&gt; izləyiciniz var!"</item>
     </plurals>
     <plurals name="original_user_play_1">
-        <item quantity="other">" • &lt;font color=#fc7050&gt;%1$s&lt;/font&gt; video yüklədiniz. "</item>
         <item quantity="one">" • &lt;font color=#fc7050&gt;%1$s&lt;/font&gt; video yüklədiniz. "</item>
+        <item quantity="other">" • &lt;font color=#fc7050&gt;%1$s&lt;/font&gt; video yüklədiniz. "</item>
     </plurals>
     <plurals name="original_user_play_2">
-        <item quantity="other">&lt;font color=#fc7050&gt;%1$s&lt;/font&gt; nəfəri sevindirdiniz!</item>
         <item quantity="one">&lt;font color=#fc7050&gt;%1$s&lt;/font&gt; nəfəri sevindirdiniz!</item>
+        <item quantity="other">&lt;font color=#fc7050&gt;%1$s&lt;/font&gt; nəfəri sevindirdiniz!</item>
     </plurals>
     <plurals name="remote_video_update">
-        <item quantity="other">%1$s yeni video tapıldı</item>
         <item quantity="one">%1$s yeni video tapıldı</item>
+        <item quantity="other">%1$s yeni video tapıldı</item>
     </plurals>
     <plurals name="search_head_hint_all">
-        <item quantity="other">Nəticələr (%1$d element)</item>
         <item quantity="one">Nəticələr (%1$d element)</item>
+        <item quantity="other">Nəticələr (%1$d element)</item>
     </plurals>
     <plurals name="search_head_hint_app">
-        <item quantity="other">%1$s tətbiqi ilə əlaqəli fayllar (%2$d element)</item>
         <item quantity="one">%1$s tətbiqi ilə əlaqəli fayllar (%2$d element)</item>
+        <item quantity="other">%1$s tətbiqi ilə əlaqəli fayllar (%2$d element)</item>
     </plurals>
     <plurals name="search_head_hint_file">
-        <item quantity="other">%1$s - əlaqəli fayllar (%2$d element)</item>
-        <item quantity="one">%1$s - əlaqəli fayllar (%2$d element)</item>
+        <item quantity="one">Fayla daxildir: \"%1$s\" (%2$d element)</item>
+        <item quantity="other">Fayla daxildir: \"%1$s\" (%2$d element)</item>
     </plurals>
     <plurals name="search_head_hint_tag">
-        <item quantity="other">%1$s etiketi ilə əlaqəli fayllar (%2$d element)</item>
         <item quantity="one">%1$s etiketi ilə əlaqəli fayllar (%2$d element)</item>
+        <item quantity="other">%1$s etiketi ilə əlaqəli fayllar (%2$d element)</item>
     </plurals>
     <plurals name="text_group_count">
-        <item quantity="other">%d element</item>
         <item quantity="one">%d element</item>
+        <item quantity="other">%d element</item>
     </plurals>
     <plurals name="total_topic_num">
-        <item quantity="other">%1$s mövzu</item>
         <item quantity="one">%1$s mövzu</item>
+        <item quantity="other">%1$s mövzu</item>
     </plurals>
     <plurals name="total_user_num">
-        <item quantity="other">%1$s nəfər</item>
         <item quantity="one">%1$s nəfər</item>
+        <item quantity="other">%1$s nəfər</item>
     </plurals>
     <plurals name="user_sign_limt">
-        <item quantity="other">%d simvol daxil edə bilərsiniz</item>
         <item quantity="one">%d simvol daxil edə bilərsiniz</item>
+        <item quantity="other">%d simvol daxil edə bilərsiniz</item>
     </plurals>
     <plurals name="video_ad_download_tip">
-        <item quantity="other"> Endirilənlər</item>
         <item quantity="one"> Endirilənlər</item>
+        <item quantity="other"> Endirilənlər</item>
     </plurals>
     <plurals name="video_count">
-        <item quantity="other">&lt;font color=#fc7050&gt;%d&lt;/font&gt; video</item>
         <item quantity="one">&lt;font color=#fc7050&gt;%d&lt;/font&gt; video</item>
+        <item quantity="other">&lt;font color=#fc7050&gt;%d&lt;/font&gt; video</item>
     </plurals>
     <plurals name="video_items">
-        <item quantity="other"> %1$d element</item>
         <item quantity="one"> %1$d element</item>
+        <item quantity="other"> %1$d element</item>
     </plurals>
     <plurals name="video_play_num">
-        <item quantity="other">%1$s baxış</item>
         <item quantity="one">%1$s baxış</item>
+        <item quantity="other">%1$s baxış</item>
     </plurals>
     <plurals name="video_publish_watchable_hint">
-        <item quantity="other">Statusunuzu yüksəltmək üçün daha %1$d izləyici qazanın</item>
         <item quantity="one">Statusunuzu yüksəltmək üçün daha %1$d izləyici qazanın</item>
+        <item quantity="other">Statusunuzu yüksəltmək üçün daha %1$d izləyici qazanın</item>
     </plurals>
 </resources>

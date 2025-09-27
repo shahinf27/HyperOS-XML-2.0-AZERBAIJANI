@@ -52,6 +52,14 @@
         <item quantity="one">%d element seçildi</item>
         <item quantity="other">%d element seçildi</item>
     </plurals>
+    <plurals name="miuix_indexer_selected">
+        <item quantity="one">%1$d element seçildi</item>
+        <item quantity="other">%1$d element seçildi</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d yeni bildiriş</item>
+        <item quantity="other">%d yeni bildiriş</item>
+    </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="one">1 dəqiqə əvvəl</item>
         <item quantity="other">%d dəqiqə əvvəl</item>

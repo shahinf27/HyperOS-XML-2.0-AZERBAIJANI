@@ -450,6 +450,7 @@
     <string name="great_cold_tradition">Şiddətli soyuq</string>
     <string name="great_heat">Möhtəşəm isti</string>
     <string name="great_heat_tradition">Möhtəşəm isti</string>
+    <string name="have_schedule_today">Planlaşdırılan tədbirlər</string>
     <string name="heavy_snow">Güclü qar</string>
     <string name="heavy_snow_tradition">Güclü qar</string>
     <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
@@ -754,6 +755,7 @@
     <string name="new_years_day_tradition">Yeni İl</string>
     <string name="night">Axşam</string>
     <string name="no_contact_birthday_hint">Daxilə köçürüləcək doğum günü yoxdur</string>
+    <string name="no_data">Məzmun yoxdur</string>
     <string name="no_events_hint">Tədbir yoxdur</string>
     <string name="no_locale_list_text">"Yerlərin siyahısı alına bilmədi. Yenidən sınayın."</string>
     <string name="no_more_events">Göstəriləcək heç bir tədbir yoxdur</string>

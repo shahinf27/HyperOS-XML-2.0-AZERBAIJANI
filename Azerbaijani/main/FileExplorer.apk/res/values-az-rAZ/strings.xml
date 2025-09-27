@@ -2,20 +2,14 @@
 <resources>
     <string name="abc_action_bar_home_description">Əsas ekrana keç</string>
     <string name="abc_action_bar_up_description">Yuxarı keç</string>
-    <string name="abc_action_menu_overflow_description">Daha çox seçim</string>
     <string name="abc_action_mode_done">Hazırdır</string>
-    <string name="abc_activity_chooser_view_see_all">Hamısına bax</string>
-    <string name="abc_activitychooserview_choose_application">Bir tətbiq seçin</string>
     <string name="abc_capital_off">BAĞLI</string>
     <string name="abc_capital_on">AÇIQ</string>
     <string name="abc_search_hint">Axtar…</string>
     <string name="abc_searchview_description_clear">Sorğunu təmizlə</string>
-    <string name="abc_searchview_description_query">Axtarış sorğusu</string>
     <string name="abc_searchview_description_search">Axtar</string>
     <string name="abc_searchview_description_submit">Sorğu göndər</string>
     <string name="abc_searchview_description_voice">Səsli axtarış</string>
-    <string name="abc_shareactionprovider_share_with">Paylaş</string>
-    <string name="abc_shareactionprovider_share_with_application">%s ilə paylaş</string>
     <string name="abc_toolbar_collapse_description">Yığcamlaşdır</string>
     <string name="access_limit">Erişim məhdudiyyətləri</string>
     <string name="access_tips">"Elementlərə erişilə bilmir. Əvəzində Android Storage Access Framework istifadə etməyə çalışın."</string>
@@ -173,7 +167,6 @@ Faylları cihazınızdan Mi Drive-a daşımağa çalışın."</string>
     <string name="copy_to">Kopyala…</string>
     <string name="create_folder">Yarat</string>
     <string name="create_shortcut_success">Qısayol uğurla əlavə edildi</string>
-    <string name="cta_function_account_operation">Xiaomi Hesabınıza cəld daxil olmaq üçün</string>
     <string name="cta_use_sync_midrive_file">Faylları Mi Drive-a sinxronlaşdırmaq üçün</string>
     <string name="data_consume_dialog_message">"Hazırda mobil internet istifadə edirsiniz. Davam etsəniz, %s internet istifadə ediləcək."</string>
     <string name="data_consume_dialog_title">Mobil internet istifadə edilsin?</string>
@@ -373,11 +366,7 @@ Faylları cihazınızdan Mi Drive-a daşımağa çalışın."</string>
     <string name="hint_switch_to_grid_mode">Dama görünüşünə keçildi</string>
     <string name="hint_switch_to_list_mode">Siyahı görünüşə keçildi</string>
     <string name="home_action_up">Geri</string>
-    <string name="home_title">Fayl Meneceri</string>
-    <string name="homepage_tab_category">Kateqoriyalar</string>
     <string name="homepage_tab_file_view_phone">Anbar</string>
-    <string name="homepage_tab_recent">Sonuncu</string>
-    <string name="hot_sticker">Stikerlər</string>
     <string name="hybrid_provider">%1$s tərəfindən təmin edilir</string>
     <string name="icon_content_description">Dialoq ikonu</string>
     <string name="if_cancel">Bu əməliyyat ləğv edilsin?</string>
@@ -830,7 +819,6 @@ Faylları cihazınızdan Mi Drive-a daşımağa çalışın."</string>
     <string name="reset_password">Parolu dəyişdir</string>
     <string name="restoring">Bərpa edilir…</string>
     <string name="reverse_order">Tərs</string>
-    <string name="rlv_last_refreshing_time">%1$s güncəlləndi</string>
     <string name="rlv_loading_more">Bir saniyə…</string>
     <string name="rlv_pull_to_refresh">Təzələmək üçün aşağı çək</string>
     <string name="rlv_refreshing">Təzələnir…</string>

@@ -154,6 +154,11 @@
     <string name="clearable_edittext_clear_description">Təmizlə</string>
     <string name="click_to_save">Ümumi zəng səsini ayarlamaq üçün \"Hazırdır\"a toxunun.</string>
     <string name="close">Bağla</string>
+    <string name="close_use_device">Yaxından baxma</string>
+    <string name="close_use_device_desc">Cihazınızı uzun müddət üzünüzə çox yaxın tutmaq, yaxın görmə və yorğunluq riskinizi artırır.</string>
+    <string name="close_use_device_remind_summary">Cihazınızı üzünüzdən bir az uzaq tutun</string>
+    <string name="close_use_device_remind_title">Çox yaxındır</string>
+    <string name="close_use_device_tip">Cihazınızı üzünüzdən daha uzaq tutun</string>
     <string name="close_use_pad">Yaxından baxma</string>
     <string name="close_use_pad_desc">Cihazınızı uzun müddət üzünüzə yaxın tutmaq, miopiya (yaxıngörmə) və ya yorğunluq risklərini artırır.</string>
     <string name="close_use_pad_remind_summary">Cihazınızı üzünüzdən daha uzaqda tutun</string>
@@ -179,8 +184,10 @@
     <string name="control_center_title_new">Bu gün istfdə edilən</string>
     <string name="copy">Kopyala</string>
     <string name="correct_close_use_device_summary">İşinizdə uğurlar</string>
+    <string name="correct_close_use_device_title">"Belə daha yaxşıdır"</string>
     <string name="correct_close_use_pad_title">"Belə daha yaxşıdır"</string>
     <string name="correct_close_use_phone_title">"Belə daha yaxşıdır"</string>
+    <string name="correct_dark_light_use_device_summary">İşlərinizdə bol uğurlar</string>
     <string name="correct_dark_light_use_device_title">"Belə daha yaxşıdır"</string>
     <string name="correct_dark_light_use_pad_summary">İşinizdə uğurlar</string>
     <string name="correct_dark_light_use_phone_summary">İşinizdə uğurlar</string>
@@ -206,7 +213,11 @@
     <string name="customize_radio_btn_summary">Seçilmiş yeniləmə sürətini tərcih edin</string>
     <string name="customize_radio_btn_title">Özəl</string>
     <string name="dall_sheep">Nazikbuynuz qoyun</string>
+    <string name="dark_light_use_device">Zəif işıq</string>
+    <string name="dark_light_use_device_desc">Cihazınızı sönük işıqlı mühitdə istifadə etmək, ciddi göz yorğunluğuna səbəb ola bilər.</string>
+    <string name="dark_light_use_device_remind_summary">Cihazınızı parlaq mühitdə istifadə edin</string>
     <string name="dark_light_use_device_remind_title">Sönük işıq</string>
+    <string name="dark_light_use_device_tip">Cihazınızı parlaq mühitdə istifadə edin</string>
     <string name="dark_light_use_pad">Zəif işıq</string>
     <string name="dark_light_use_pad_desc">Cihazınızı sönük işıqlı mühitdə istifadə etmək, ciddi göz yorğunluğuna səbəb ola bilər.</string>
     <string name="dark_light_use_pad_remind_summary">Cihazınızı daha parlaq bir şəraitdə istifadə edin</string>
@@ -556,6 +567,10 @@
     <string name="low_flicker_mode_summary">Göz yorğunluğunu azaltmaq üçün zəif işıq şəraitində titrəməni önləyin</string>
     <string name="low_fps_description">Aşağı ekran yeniləmə sürəti. Daha aşağı enerji sərfiyyatı.</string>
     <string name="low_light_preview">Zəif işıq önizləməsi</string>
+    <string name="lying_use_device">Uzanma</string>
+    <string name="lying_use_device_desc">Cihazınızı yataqda uzanarkən uzun müddət istifadə etmək, göz yorğunluğuna səbəb ola bilər.</string>
+    <string name="lying_use_device_remind_summary">Görmə bacarığınızı qorumaq üçün yaxşı vədrişlər qurun</string>
+    <string name="lying_use_device_tip">Yataqda uzanaraq cihazınızı istifadə etmək, göz yorğunluğuna səbəb ola bilər.</string>
     <string name="lying_use_pad">Uzanma</string>
     <string name="lying_use_pad_desc">Cihazınızı uzun müddət uzanaraq istifadə etmə, göz yorğunluğuna səbəb ola bilər.</string>
     <string name="lying_use_pad_remind_summary">Görmə qabiliyyətinizi qorumaq üçün yaxşı vərdişlər qurun</string>
@@ -1139,6 +1154,8 @@
     <string name="thursday">Cümə axşamı</string>
     <string name="thursday_short">C.a.</string>
     <string name="thursday_shortest">C.a.</string>
+    <string name="time_limit_period_summary">"Bu vaxt periodunu təyin etmisiniz, beləliklə cihazı istifadə etmək olmaz"</string>
+    <string name="time_limit_period_title">Mövcud deyil</string>
     <string name="time_over_back_home">Əsas ekran</string>
     <string name="time_over_delayed_use">Yox say</string>
     <string name="time_over_not_delayed_use">Anladım</string>

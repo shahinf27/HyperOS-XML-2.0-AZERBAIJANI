@@ -19,8 +19,8 @@
     <string name="abc_toolbar_collapse_description">Yığcamlaşdır</string>
     <string name="about_ai_translate">Tərcümə barədə</string>
     <string name="about_and_feedback">Haqqında</string>
-    <string name="accessibility_sliding_button_state_description_off">bağlı</string>
-    <string name="accessibility_sliding_button_state_description_on">açıq</string>
+    <string name="accessibility_sliding_button_state_description_off">Söndürüldü</string>
+    <string name="accessibility_sliding_button_state_description_on">İşə salındı</string>
     <string name="accessibility_tab_state_description_unselect">Seçilmədi</string>
     <string name="accessibility_tab_statedesc_unselect">Seçilmədi</string>
     <string name="actionbar_button_up_description">Geri</string>
@@ -41,20 +41,35 @@
     <string name="again_download_language_resources_hint_global">Şəbəkəyə bağlanın və elementləri yenidən endirməyə çalışın.</string>
     <string name="agree_join">Qoşul</string>
     <string name="agree_text">Razıyam</string>
-    <string name="ai_enhanced_subtitles_ability_summary_1">Dəstəklənən dillər üçün altyazıları tanı, tərcümə et və yarat. Onlayn iclaslar, dərslər, görüntülü zənglər və erişiləbilənlik üçün mükəmməldir.</string>
-    <string name="ai_enhanced_subtitles_ability_summary_2">İclas notlarını asanlıqla yazmaq üçün altyazıları tək toxunuşda Notlarda saxlayın.</string>
+    <string name="ai_enhanced_subtitles_ability_summary_1">Çin, ingilis, yapon və Koreya dillərini tanıyın və bunlar arasında tərcümə edin. Cihaz və xarici səsləri mətnə çevirin və ikidilli altyazılar yaradın. İclaslar, onlayn dərslər, video izləmə, erişiləbilənlik və daha çoxu üçün mükəmməldir.</string>
+    <string name="ai_enhanced_subtitles_ability_summary_2">Altyazıları tək toxunuşla not kimi saxlayın. İclas və dərs qeydlərinizi heç vaxt itirməyin.</string>
     <string name="ai_enhanced_subtitles_ability_title_1">Real vaxtlı ikidilli altyazılar</string>
     <string name="ai_enhanced_subtitles_ability_title_2">Altyazı məzmununu saxla</string>
+    <string name="ai_enhanced_subtitles_ability_usage_introduction_summary_1_cn">"%1$d. Ayarlarda \"AI Altyazılar\"ı axtar.
+%2$d. \"AI Altyazılar\"ı istifadə etməyə başlamaq üçün toxunun."</string>
+    <string name="ai_enhanced_subtitles_ability_usage_introduction_summary_1_global">"%1$d. Ayarlarda \"AI Altyazılar\"ı axtar.
+%2$d. \"AI Altyazılar\"ı istifadə etməyə başlamaq üçün toxunun."</string>
+    <string name="ai_enhanced_subtitles_ability_usage_introduction_summary_2">%1$d. Saxlamaq üçün altyazılar səhifəsində sağ üst küncdəki \"Endir\"ə toxunun.</string>
+    <string name="ai_enhanced_subtitles_ability_usage_introduction_title">Bu özəlliyin istifadəsi</string>
     <string name="ai_enhanced_subtitles_summary">Görüntülü zəngləri və iclasları mətnə çevirin, səsi ikidilli altyazılara tərcümə edin</string>
     <string name="ai_enhanced_subtitles_title">AI altyazıları</string>
-    <string name="ai_enhanced_voice_trans_ability_summary_1">Maneəsiz ünsiyyət üçün dəstəklənən dillər arasında tərcümə edin.</string>
-    <string name="ai_enhanced_voice_trans_ability_summary_2">"Danışanın dilini, əllə dəyişdirmədən avtomatik müəyyənləşdirin."</string>
-    <string name="ai_enhanced_voice_trans_ability_summary_3">Tərcümə bitdikdən sonra danışığın axınını təmin etmək üçün mikrofon avtomatik açılacaq.</string>
-    <string name="ai_enhanced_voice_trans_ability_summary_4">Üç fərqli düzümü dəstəkləyir: şaquli, üz-üzə və cüt ekran (qatlana bilən cihazlar üçün).</string>
+    <string name="ai_enhanced_voice_trans_ability_summary_1">Çin, ingilis, yapon və Koreya dilləri arasında tərcümə edərək üz-üzə və maneəsiz ünsiyyət qurun.</string>
+    <string name="ai_enhanced_voice_trans_ability_summary_2">"Danışanın dilini avtomatik tanıyır. Manual keçid etməyinizə ehtiyac qalmır."</string>
+    <string name="ai_enhanced_voice_trans_ability_summary_3">Daha axıcı danışıq üçün hər tərcümə raundundan sonra mikrofon avtomatik açılır.</string>
+    <string name="ai_enhanced_voice_trans_ability_summary_4">İstənilən vəziyyət üçün üç düzüm arasından seçim edin: şaquli, üz-üzə və ikili ekran (qatlana bilən cihazlar üçün).</string>
     <string name="ai_enhanced_voice_trans_ability_title_1">Üz-üzə tərcümə</string>
     <string name="ai_enhanced_voice_trans_ability_title_2">Avtomatik dil tanıma</string>
     <string name="ai_enhanced_voice_trans_ability_title_3">Mikrofonu avtomatik işə sal</string>
-    <string name="ai_enhanced_voice_trans_ability_title_4">Çoxlu tərcümə düzümləri</string>
+    <string name="ai_enhanced_voice_trans_ability_title_4">Çoxlu tərcümə baxışları</string>
+    <string name="ai_enhanced_voice_trans_ability_usage_introduction_summary_1">"%1$d. Ayarlarda \"Tərcümə\"ni axtarın və \"Danışığı tərcümə et\"ə toxunun.
+%2$d. Hədəf dili seçin, sonra danışmağa başlamaq üçün müvafiq mənbə dilinin yanındakı mikrofon düyməsinə toxunun. Cihazınız tərcüməni avtomatik olaraq ucadan oxudacaq.
+%3$d. Həmçinin digər şəxs, öz səsini seçdiyiniz dilə tərcümə etmək üçün müvafiq mikrofon düyməsinə toxuna bilər."</string>
+    <string name="ai_enhanced_voice_trans_ability_usage_introduction_summary_2">"%1$d. Danışıq səhifəsində sağ üst küncdəki \"Ayarlar\"a toxunun.
+%2$d. \"Avtomatik dil tanıma\"nı işə salın."</string>
+    <string name="ai_enhanced_voice_trans_ability_usage_introduction_summary_3">"%1$d. Danışıq səhifəsində sağ üst küncdəki \"Ayarlar\"a toxunun.
+%2$d. \"Avtomatik dil tanıma\"nı işə salın, sonra \"Mikrofonu avtomatik işə sal\"ı seçin."</string>
+    <string name="ai_enhanced_voice_trans_ability_usage_introduction_summary_4">"%1$d. Görünüşlər arasındakı keçid etmək üçün sol üst küncdəki düyməyə toxunun.
+%2$d. İstifadə etmək istədiyiniz görünüşü seçin. İkili ekran görünüşü yalnız qatlana bilən cihazlarda dəstəklənir."</string>
     <string name="ai_enhanced_voice_trans_summary">Oflayn, üz-üzə danışıqları tərcümə et</string>
     <string name="ai_enhanced_voice_trans_title">AI Tərcümə Danışığı</string>
     <string name="ai_translate_cn">AI altyazıları</string>
@@ -90,6 +105,11 @@
     <string name="banner_item_5_content">"Cihazınızın ekranında yazılmış məzmunun tərcüməsi"</string>
     <string name="bilingual_example_sentences">Nümunə cümlələr</string>
     <string name="black_color">Qara</string>
+    <string name="bottomsheet_action_collapse">Alt vərəqi yığcamlaşdır</string>
+    <string name="bottomsheet_action_expand">Alt vərəqi genişləndir</string>
+    <string name="bottomsheet_action_expand_halfway">Yarıya qədər genişləndir</string>
+    <string name="bottomsheet_drag_handle_clicked">Sürükləmə tutacağına cüt toxunuldu</string>
+    <string name="bottomsheet_drag_handle_content_description">Sürükləmə tutacağı</string>
     <string name="brand_text">Səs tanıma mühərriki %1$s tərəfindən təmin edilir</string>
     <string name="bullet_chat">Daşınır</string>
     <string name="call_notification_answer_action">Cavabla</string>
@@ -102,7 +122,8 @@
     <string name="camera_translate">Kameranı tərcümə et</string>
     <string name="cancel_text">İmtina</string>
     <string name="caption_guide_know">Anladım</string>
-    <string name="character_counter_content_description">%1$d/%2$d xarakter limiti aşıldı</string>
+    <string name="character_counter_content_description">%1$d/%2$d xarakter daxil edildi</string>
+    <string name="character_counter_overflowed_content_description">%1$d/%2$d xarakter limiti aşıldı</string>
     <string name="check_hint">*Daha asan oxumaq üçün altyazı məzmununun səsə görə ayrılması məqsədilə bu seçimi yoxlayın</string>
     <string name="check_is_need_restore_text_dialog_content_cn">Deyəsən, bu tətbiq gözlənilməz şəkildə bağlanıb. %s yaradılan AI altyazı faylı indi \"Notlar\"da bərpa olunsun?</string>
     <string name="check_is_need_restore_text_dialog_content_global">Deyəsən, bu tətbiq gözlənilməz şəkildə bağlanıb. %s yaradılan AI Altyazı faylı indi \"Notlar\"da bərpa olunsun?</string>
@@ -110,6 +131,7 @@
     <string name="check_network_text">Şəbəkə ayarlarını yoxla</string>
     <string name="check_update">Güncəlləmələri yoxla</string>
     <string name="chinese">Çin dili</string>
+    <string name="clear_text_end_icon_content_description">Mətni təmizlə</string>
     <string name="clearable_edittext_clear_description">Təmizlə</string>
     <string name="clearing_storage_space_hint">Altyazılar, %s MB anbar sahəsi tələb edir. Anbar sahəsində bir yer açıb yenidən sınayın.</string>
     <string name="close">Bağla</string>
@@ -185,6 +207,8 @@
     <string name="english">İngilis dili</string>
     <string name="eras_ad">B.E.</string>
     <string name="eras_bc">B.E.Ə.</string>
+    <string name="error_a11y_label">Xəta: yararsız</string>
+    <string name="error_icon_content_description">Xəta</string>
     <string name="evening">Günortadan sonra</string>
     <string name="exit_improvement_plan_dialog_content_cn">"\"Tərcümə İstifadəçi Təcrübə Proqramı\"ndakı qeydiyyatınızı ləğv etsəniz, Tərcümə, bu özəlliyi təkmilləşdirmək üçün istifadə etdiyi tərcümə edilmiş səs, mətn və digər qeydləri saxlamağı dayandıracaq. Bu cihazın OAID-si ilə əlaqələndirilən yuxarıdakı məlumatlar Xiaomi-nin serverlərindən silinəcək. \"Tərcümə\"ni təkmilləşdirmək üçün artıq istifadə edilmiş az miqdarda nümunə götürülmüş veri artıq bu cihazla əlaqələndirilməyəcək. Yazılma ləğv edilsin?"</string>
     <string name="exit_improvement_plan_dialog_content_global">"\"Mi AI Tərcümə İstifadəçi Təcrübə Proqramı\"ndakı qeydiyyatınızı ləğv etsəniz, Mi AI Tərcümə, bu özəlliyi təkmilləşdirmək üçün istifadə etdiyi tərcümə edilmiş səs, mətn və digər qeydləri saxlamağı dayandıracaq. Bu cihazın OAID-si ilə əlaqələndirilən yuxarıdakı məlumatlar Xiaomi-nin serverlərindən silinəcək. \"Mi AI Tərcümə\"ni təkmilləşdirmək üçün artıq istifadə edilmiş az miqdarda nümunə götürülmüş veri artıq bu cihazla əlaqələndirilməyəcək. Yazılma ləğv edilsin?"</string>
@@ -195,6 +219,7 @@
     <string name="export_note_toast_save_fail">"Altyazı məzmunu saxlanıla bilmədi"</string>
     <string name="export_preview_results_remind_txt">"Danışanı və ya onun ləqəbini dəyişdirmək üçün danışanın etiketinə toxunun"</string>
     <string name="export_preview_results_title">Önizləmə</string>
+    <string name="exposed_dropdown_menu_content_description">Açılan menyunu göstər</string>
     <string name="face_trans_layout_external_screen">Xarici ekran</string>
     <string name="face_trans_layout_face_to_face">Üz-üzə</string>
     <string name="face_trans_layout_inner_screen">Daxili ekran</string>
@@ -242,6 +267,7 @@ Altyazı məzmununu not kimi saxla"</string>
     <string name="have_been_created">Yaradıldı</string>
     <string name="have_downloaded_text">Endirildi</string>
     <string name="hint_text_edit">Düzəliş et</string>
+    <string name="icon_content_description">Dialoq ikonu</string>
     <string name="identify_sound">Mənbə dil</string>
     <string name="img_caption_content_description">Altyazıları işə sal</string>
     <string name="img_keyboard_content_description">Klaviaturanı aç</string>
@@ -253,6 +279,7 @@ Altyazı məzmununu not kimi saxla"</string>
     <string name="input_method_privacy_mode_hint_global">\"Mi AI Tərcümə\"ni istifadə edə bilmək üçün Gizlilik rejimini söndürün</string>
     <string name="insufficient_storage_text">Yetərsiz anbar sahəsi</string>
     <string name="is_save_subtitle_content">Altyazı məzmunu saxlanılsın?</string>
+    <string name="item_view_role_description">Vərəq</string>
     <string name="iv_fw_resize_content_description">Kiçildilmiş tətbiqin ölçüsünü nizamla</string>
     <string name="iv_speaking_content_description">Oxut</string>
     <string name="ja_to_cn">Yapon dilindən Çin dilinə</string>
@@ -323,6 +350,22 @@ Altyazı məzmununu not kimi saxla"</string>
     <string name="loading_text">Bir saniyə…</string>
     <string name="matching_language_error_hint_cn">"Hələ ki, bu dilə tərcümə edilə bilmir"</string>
     <string name="matching_language_error_hint_global">"Hələ ki, bu dilə tərcümə edilə bilmir"</string>
+    <string name="material_clock_toggle_content_description">Günorta və yy axşam seçin</string>
+    <string name="material_hour_24h_suffix">%1$s saat</string>
+    <string name="material_hour_selection">Saatı seç</string>
+    <string name="material_hour_suffix">"%1$s saat"</string>
+    <string name="material_minute_selection">Dəqiqə seçin</string>
+    <string name="material_minute_suffix">%1$s dəqiqə</string>
+    <string name="material_slider_range_end">Aralıq sonu</string>
+    <string name="material_slider_range_start">Aralıq başlanğıcı</string>
+    <string name="material_slider_value">Dəyər</string>
+    <string name="material_timepicker_am">GƏ</string>
+    <string name="material_timepicker_clock_mode_description">Vaxt girişi üçün saat rejiminə keç.</string>
+    <string name="material_timepicker_hour">Saat</string>
+    <string name="material_timepicker_minute">Dəqiqə</string>
+    <string name="material_timepicker_pm">GS</string>
+    <string name="material_timepicker_select_time">Vaxtı seç</string>
+    <string name="material_timepicker_text_input_mode_description">Vaxt girişi üçün mətn giriş rejiminə keç.</string>
     <string name="meeting_sound">Sistem və mikrofon səsi</string>
     <string name="meeting_sound_content_able">Onlayn iclaslar və səsli zənglər üçün idealdır</string>
     <string name="meeting_sound_content_enable">"Onlayn iclaslar zamanı tətbiq və mikrofonunuzdan səs yığmaq üçün MI AI-yı istifadə edin.
@@ -337,8 +380,10 @@ Bu özəlliyi istifadə edə bilmək üçün ən son versiyaya güncəlləyin."<
     <string name="miuix_access_state_desc">Seçildi</string>
     <string name="miuix_accessibility_title">Başlıq</string>
     <string name="miuix_alphabet_indexer_name">İndeks çubuğu</string>
+    <string name="miuix_appcompat_accessibility_collapse_state">Yığcamlaşdırıldı</string>
+    <string name="miuix_appcompat_accessibility_expand_state">Genişləndirildi</string>
     <string name="miuix_appcompat_accessibility_finish_edit_action_mode">Düzəliş rejimindən çıx</string>
-    <string name="miuix_appcompat_accessibility_new_message">Yeni mesaj</string>
+    <string name="miuix_appcompat_accessibility_new_message">Yeni bildiriş</string>
     <string name="miuix_appcompat_accessibility_start_edit_action_mode">Düzəliş rejiminə daxil ol</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Heç birini seçmə</string>
     <string name="miuix_appcompat_action_mode_select_all">Hamısını seç</string>
@@ -357,8 +402,8 @@ Bu özəlliyi istifadə edə bilmək üçün ən son versiyaya güncəlləyin."<
     <string name="miuix_appcompat_select_item">Elementləri seç</string>
     <string name="miuix_appcompat_show_dialog_description">Açılan pəncərə</string>
     <string name="miuix_indexer_collect">Kolleksiyalar</string>
-    <string name="miuix_indexer_selected">%s seçildi</string>
-    <string name="miuix_progressbar_loading">Yüklənir</string>
+    <string name="miuix_pairing_dialog_closable_icon_description">Bağla</string>
+    <string name="miuix_progressbar_loading">Bir saniyə…</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Təzələmək üçün aşağı çək</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Uğurla təzələndi</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Təzələnir…</string>
@@ -368,6 +413,8 @@ Bu özəlliyi istifadə edə bilmək üçün ən son versiyaya güncəlləyin."<
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Bir saniyə…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Elementlər yüklənə bilmədi"</string>
     <string name="miuix_show_password">Parolu göstər</string>
+    <string name="miuix_stretchablewidget_collapsed">Yığcamlaşdırıldı</string>
+    <string name="miuix_stretchablewidget_expanded">Genişləndirildi</string>
     <string name="mobile_data_download_text">Mobil veri ilə endirilsin?</string>
     <string name="model_download_show_text_downloading_cn">%s oflayn dil paketi endirilir…</string>
     <string name="model_download_show_text_downloading_en">%s oflayn dil paketi endirilir…</string>
@@ -428,7 +475,44 @@ Bu özəlliyi istifadə edə bilmək üçün ən son versiyaya güncəlləyin."<
     <string name="more_button_text">Daha çox</string>
     <string name="more_translate_text">Daha çox tərcümə</string>
     <string name="morning">Səhər</string>
+    <string name="mtrl_badge_numberless_content_description">Yeni bildiriş</string>
+    <string name="mtrl_checkbox_state_description_checked">İşarələndi</string>
+    <string name="mtrl_checkbox_state_description_indeterminate">Qismən işarələndi</string>
+    <string name="mtrl_checkbox_state_description_unchecked">İşarələnmədi</string>
     <string name="mtrl_chip_close_icon_content_description">Sil: %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">%1$d ədəddən çox yeni bildiriş</string>
+    <string name="mtrl_picker_a11y_next_month">Növbəti aya dəyişdir</string>
+    <string name="mtrl_picker_a11y_prev_month">Əvvəlki aya dəyişdir</string>
+    <string name="mtrl_picker_announce_current_range_selection">Başlanğıc tarixi seçimi: %1$s – Bitmə tarixi seçimi: %2$s</string>
+    <string name="mtrl_picker_announce_current_selection">Hazırkı seçim: %1$s</string>
+    <string name="mtrl_picker_cancel">İmtina</string>
+    <string name="mtrl_picker_confirm">Oldu</string>
+    <string name="mtrl_picker_date_header_title">Tarix seç</string>
+    <string name="mtrl_picker_date_header_unselected">Seçilmiş tarix</string>
+    <string name="mtrl_picker_end_date_description">Bitmə tarixi %1$s</string>
+    <string name="mtrl_picker_invalid_format">Yararsız format.</string>
+    <string name="mtrl_picker_invalid_format_example">Nümunə: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">İstifadə: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Yararsız aralıq.</string>
+    <string name="mtrl_picker_navigate_to_current_year_description">Hazırkı %1$d ilinə get</string>
+    <string name="mtrl_picker_navigate_to_year_description">%1$d ilinə get</string>
+    <string name="mtrl_picker_out_of_range">Aralıq xarici: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Başlama tarixi – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – Bitmə tarixi</string>
+    <string name="mtrl_picker_range_header_title">Aralıq seç</string>
+    <string name="mtrl_picker_range_header_unselected">Başlama tarixi – Bitmə tarixi</string>
+    <string name="mtrl_picker_save">Saxla</string>
+    <string name="mtrl_picker_start_date_description">Başlama tarixi %1$s</string>
+    <string name="mtrl_picker_text_input_date_hint">Tarix</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Bitmə tarixi</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Başlama tarixi</string>
+    <string name="mtrl_picker_today_description">Bu gün %1$s</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Təqvim giriş rejiminə keç</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Təqvim görünüşünü dəyişdirmək üçün toxunun</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Mətn giriş rejiminə keç</string>
+    <string name="mtrl_picker_toggle_to_year_selection">İl görünüşünü dəyişdirmək üçün toxunun</string>
+    <string name="mtrl_timepicker_cancel">İmtina</string>
+    <string name="mtrl_timepicker_confirm">Oldu</string>
     <string name="multi_entry_toast_one_cn">Əvvəlcə AI altyazıları söndür</string>
     <string name="multi_entry_toast_one_global">Əvvəlcə AI Altyazıları söndür</string>
     <string name="network_unstable">Zəif şəbəkə bağlantısı. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın.</string>
@@ -577,6 +661,8 @@ Razılığı geri götürsəniz, Mi AI Tərcümə xidmətlərini istifadə edə 
     <string name="screen_translate_translating">Tərcümə edilir…</string>
     <string name="screen_translate_wrong_language">"Deyəsən, mənbə dili seçdiyiniz dil deyil. Yenidən seçin."</string>
     <string name="search_menu_title">Axtar</string>
+    <string name="searchview_clear_text_content_description">Mətni təmizlə</string>
+    <string name="searchview_navigation_content_description">Geri</string>
     <string name="send">Göndər</string>
     <string name="settings_already_open_debug_item_toast">Sazlama ayarları fəaldır</string>
     <string name="settings_content_description">Ayarları aç</string>
@@ -590,6 +676,7 @@ Razılığı geri götürsəniz, Mi AI Tərcümə xidmətlərini istifadə edə 
     <string name="share_image_title_text_src">Orijinal mətn</string>
     <string name="share_image_title_text_tra">Tərcümə edilmiş mətn</string>
     <string name="shortcuts">Qısayollar</string>
+    <string name="side_sheet_accessibility_pane_title">Yan vərəq</string>
     <string name="simultaneous_interpretation_name_cn">AI Tərcüməçisi</string>
     <string name="solar_term_autumn_begins">Payız başlayır</string>
     <string name="solar_term_autumn_equinox">Payız gündönümü</string>
@@ -624,6 +711,7 @@ Razılığı geri götürsəniz, Mi AI Tərcümə xidmətlərini istifadə edə 
     <string name="speech_recognition_card_not_network_text">"Şəbəkəyə bağlana bilmədi. Yenidən sınayın."</string>
     <string name="speech_recognition_please_say_text">"Mi AI ilə danışın "</string>
     <string name="start_translation_text">Tərcümə</string>
+    <string name="start_using_text">Başlat</string>
     <string name="stop_transcription_and_generate_summary">Davam etsəniz, mətnə çevirmə dayandırılacaq və icmal yaradılacaq. Davam edilsin?</string>
     <string name="subtitle_language">Altyazı dilləri</string>
     <string name="subtitle_language_v2">Altyazı dili</string>
@@ -639,7 +727,6 @@ Razılığı geri götürsəniz, Mi AI Tərcümə xidmətlərini istifadə edə 
     <string name="sys_app_prot_cracked_confirm">Anladım</string>
     <string name="sys_sound">Sistem səsi</string>
     <string name="sys_sound_content">Videoya baxarkən altyazıları tərcümə etmək üçün idealdır</string>
-    <string name="text_input_layout_default_error">Bu, ilkin xətadır</string>
     <string name="text_size">Mətn ölçüsü</string>
     <string name="the_anniversary_of_lifting_martial_law">Hərbi Vəziyyətin Qaldırılma İldönümü</string>
     <string name="the_anti_aggression_day">Təcavüzlə Mübarizə Günü</string>
