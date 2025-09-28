@@ -575,6 +575,7 @@ Təkmilləşdirilmiş güvənlik."</string>
     <string name="open_personal_assistant_settings_simplified">Tətbiq kassası</string>
     <string name="open_personal_assistant_title">Tətbiq kassası</string>
     <string name="out_of_space">Bu Əsas ekranda yer yoxdur</string>
+    <string name="pa_need_download_talkback">"\"%s\" hələ endirilməyib"</string>
     <string name="permdesc_install_shortcut">Bir tətbiqin istifadəçi müdaxiləsi olmadan qısayollar əlavə etməsinə icazə verir.</string>
     <string name="permdesc_install_widget">Bir tətbiqin istifadəçidən əlavə əməliyyatlar tələb etmədən vicetləri əlavə etməsinə icazə verir.</string>
     <string name="permdesc_read_settings">"Bir tətbiqin Əsas ekran ayarlarını və qısayolları oxumasına icazə verir."</string>

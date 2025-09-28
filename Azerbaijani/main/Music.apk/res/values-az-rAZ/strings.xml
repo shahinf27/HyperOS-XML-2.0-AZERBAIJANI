@@ -141,6 +141,17 @@
 	<string name="app_video_float_switch">Üzən pəncərə rejimi</string>
     <string name="app_video_float_switch_summry">"Arxaplanda oxudarkən videonu Əsas ekranda üzən pəncərə kimi nümayiş etdir"</string>
     <string name="application_info">Tətbiq məlumatı</string>
+    <string name="applovin_agree_message">"Tətbiqimizi istifadə etməyə başlamağı seçsəniz, lütfən \"Davam et\"ə basın."</string>
+    <string name="applovin_alt_privacy_policy_text" />
+    <string name="applovin_continue_button_text">Davam et</string>
+    <string name="applovin_creative_debugger_disabled_text">Son reklamlara baxa bilmək üçün Creative Debugger SDK ayarlarını fəallaşdırın.</string>
+    <string name="applovin_creative_debugger_no_ads_text">Təzəlikcə nümayiş olunan reklam tapılmadı.</string>
+    <string name="applovin_list_item_image_description">Siyahı elementi barədə daha çox məlumat nümayiş etdirir.</string>
+    <string name="applovin_pp_and_tos_title">"%s istifadə etmək üçün \"Şərtlər və Qaydalar\"mızla razılaşmalı və \"Gizlilik Siyasəti\"imizi incələdiyinizi təsdiqləməlisiniz"</string>
+    <string name="applovin_pp_title">"%s istifadə etmək üçün \"Gizlilik Siyasəti\"imizi incələdiyinizi və qəbul etdiyinizi təsdiqləməlisiniz."</string>
+    <string name="applovin_privacy_policy_text">Gizlilik Siyasəti</string>
+    <string name="applovin_terms_of_service_text">Şərtlər və Qaydalar</string>
+    <string name="applovin_terms_of_use_text">İstifadə Şərtləri</string>
     <string name="apply_for_the_following_permissions">Bu tətbiq aşağıdakı icazələri tələb edir:</string>
     <string name="apply_permissions_greater_than_pie">Ayarlar &gt; Tətbiqlər &gt; İcazələr &gt; İcazələr &gt; Fayllar və media &gt; \"Musiqi\"də bu icazəni verə bilərsiniz.</string>
     <string name="apply_permissions_greater_than_tiramisu">Ayarlar &gt; Tətbiqlər &gt; İcazələr &gt; Musiqi və video/Fotolar və videolar &gt; \"Musiqi\"də bu icazəni verə bilərsiniz.</string>
@@ -160,9 +171,44 @@
     <string name="artist_is_empty">Sənətçi adı boş ola bilməz.</string>
     <string name="artist_name">Sənətçi</string>
     <string name="asm_account_exception">Sistem hesab xətası. Çıxış edib təkrar giriş edin.</string>
+    <string name="asm_ad_daily_opportunity_exhausted">Bugünkü fürsətlər tükəndi</string>
+    <string name="asm_ad_download_count">Qaldı: %d dəfə</string>
+    <string formatted="false" name="asm_ad_download_des">%d mahnını ödənişsiz endirmək üçün %d reklama baxın</string>
+    <string name="asm_ad_download_slide_count">%d dəfə</string>
+    <string name="asm_ad_download_tab_title">Mahnıları ödənişsiz endir</string>
+    <string name="asm_ad_download_title">Mahnıları ödənişsiz endir</string>
+    <string name="asm_ad_download_top">Təbriklər. Mahnıları ödənişsiz endirə bilərsiniz.</string>
+    <string name="asm_ad_failed_retry_toast">Yüklənmədi. Lütfən daha sonra yenidən sınayın.</string>
     <string name="asm_ad_free">Reklamsız</string>
     <string name="asm_ad_free_for_subscribers">Reklamları silmək üçün abunə olun</string>
     <string name="asm_ad_free_for_subscribers_first_month_free">Reklamları silmək üçün abunə olun. İlk ay ödənişsizdir.</string>
+    <string name="asm_ad_hq_duration">剩余权益：%s</string>
+    <string formatted="false" name="asm_ad_hq_first">看%d个广告可获得%d分钟免费时长</string>
+    <string formatted="false" name="asm_ad_hq_second">看%d个广告可获得%d小时免费时长</string>
+    <string name="asm_ad_hq_slide_duration">%s分钟</string>
+    <string name="asm_ad_hq_tab_title">免费高音质播放</string>
+    <string name="asm_ad_hq_tab_top">看视频免费播放高音质音乐</string>
+    <string formatted="false" name="asm_ad_hq_third">看%d个广告可获得%d小时免费时长</string>
+    <string name="asm_ad_hq_thirty_minutes">+%d分钟</string>
+    <string name="asm_ad_hq_title">免费获取高音质权益</string>
+    <string name="asm_ad_hq_twenty_four_hours">+%d小时</string>
+    <string name="asm_ad_hq_two_hours">+%d小时</string>
+    <string formatted="false" name="asm_ad_rule_description">"%d. 您可通过观看激励视频获得下载次数及高音质播放时长
+%d.下载权益：每看%d条视频获得%d次下载次数，下载次数无上限，且权益不会清空
+%d. 高音质时长权益：每个周期内可观看%d条激励视频，以获得高音质时长。获得的权益时长会在每天UTC+%d %dAM清零，清零后需要重新通过看激励视频获取权益
+%d. 一个权益周期：T日%d点AM（UTC+%d) - T+%d日%d点AM（UTC+%d）
+%d. 周期内观看第一条激励视频，获得%d分钟高音质时长，立即生效；周期内观看第两条激励视频，新增%d分钟高音质时长，立即生效；周期内观看第三条激励视频，获得全天%d小时高音质时长，立即生效至当前周期结束
+%d. 本规则最终解释权归小米音乐所有"</string>
+    <string name="asm_ad_rules">规则说明</string>
+    <string name="asm_ad_slide_hq_duration">免费高音质时长</string>
+    <string name="asm_ad_slide_reward">领取更多免费权益</string>
+    <string name="asm_ad_slide_title">免费权益</string>
+    <string name="asm_ad_toast_free_benefit_awarded">恭喜获得免费权益</string>
+    <string name="asm_ad_watch">立即观看（%ds)</string>
+    <string name="asm_ad_watch_first">看%d个视频</string>
+    <string name="asm_ad_watch_now">立即观看</string>
+    <string name="asm_ad_watch_second">看%d个视频</string>
+    <string name="asm_ad_watch_third">看%d个视频</string>
     <string name="asm_album_not_available">albom mövcud deyil</string>
 	<string name="asm_album_not_available_toast">"Albomlara erişilə bilmədi"</string>
     <string name="asm_alubm_disc">Disc %d</string>
@@ -180,6 +226,7 @@
     <string name="asm_category_updated_play_new_toast">Yeni elementlər mövcuddur. Yeni elementlər oxudulacaq.</string>
     <string name="asm_category_updated_toast">Yeni elementlər mövcuddur</string>
     <string name="asm_check_video_playing">"Video oxudulur. Element pleylistə əlavə edilə bilmir."</string>
+    <string name="asm_column_offline_toast">Bu, artıq mövcud deyil</string>
     <string name="asm_congratulations">Təbriklər!</string>
     <string name="asm_delete_all">Təmizlə</string>
     <string name="asm_delete_all_data">Bütün veriləri təmizlə</string>
@@ -285,9 +332,12 @@ Bütün veriləri birdəfəlik təmizləməyi seçdikdən sonra tətbiqdən çı
     <string name="asm_no_copyright_or_expire">müəllif hüququ və ya son istifadə tarixi yoxdur</string>
     <string name="asm_no_need_download_songs">Mahnı endirmə növbəsindədir</string>
     <string name="asm_no_network">"Şəbəkəyə bağlana bilmədi"</string>
+    <string name="asm_no_network_toast">"Şəbəkəyə bağlana bilmədi. Şəbəkə ayarlarınızı yoxlayın."</string>
     <string name="asm_no_vip">vip olmayan istifadəçilər</string>
     <string name="asm_not_action_is_local_music">"Bu əməliyyat daxili fayllarda icra edilə bilmir"</string>
     <string name="asm_notify_use_mobile_download">Mobil veri ilə endirilir</string>
+    <string name="asm_online_quality">Səs keyfiyyəti</string>
+    <string name="asm_online_quality_switch">Səs keyfiyyətini dəyişdir</string>
     <string name="asm_online_service_switch">Tətbiq ayarlarında onlayn xidmətləri işə sal</string>
     <string name="asm_page_empty_search">"Nəticələr tapıla bilmədi"</string>
     <string name="asm_page_error_airplane">Bağlantı qura bilmək üçün Təyyarə rejimini söndürün</string>
@@ -301,6 +351,7 @@ Bütün veriləri birdəfəlik təmizləməyi seçdikdən sonra tətbiqdən çı
     <string name="asm_pay_order_generate">Sifariş yaradılır…</string>
     <string name="asm_pay_order_generate_failed">"Sifariş yaradıla bilmədi"</string>
     <string name="asm_pay_query_overtime">Ödəniş statusu tələbi üçün vaxt bitdi</string>
+    <string name="asm_playing_download_song_quality">Endirilən mahnı oxudulur</string>
     <string name="asm_privacy_desc">ASM Məxfilik Siyasəti</string>
     <string name="asm_privacy_tips_content">Onlayn musiqi xidmətlərini istifadə edə bilmək üçün <a href="/link/click">ASM Məxfilik Siyasəti</a> ilə razılaşın.</string>
     <string name="asm_privacy_tips_title">ASM Məxfilik Siyasəti</string>
@@ -323,7 +374,7 @@ Bütün veriləri birdəfəlik təmizləməyi seçdikdən sonra tətbiqdən çı
     <string name="asm_private_self_songlist">Yaradılmış pleylistlər</string>
     <string name="asm_private_username">İstifadəçi adı</string>
     <string name="asm_pro_center">Üzvlük</string>
-	<string name="asm_quality_cd">CD - 16-bit / 44.1 kHz</string>
+	<string name="asm_quality_cd">16-Bit / 44.1 kHz</string>
     <string name="asm_quality_hi_res_192">24-Bit Hi-Res / 192 kHz-ə qədər</string>
     <string name="asm_quality_hi_res_96">24-Bit Hi-Res / 96 kHz-ə qədər</string>
     <string name="asm_quality_hi_res_dialog_message">"Hi-Res faylların həcmi çox olur və cihazınızda çox yer tutur. Bütün cihazlar Hi-Res fayllarla uyumlu deyil. Səs itkisi və ya təhriki o deməkdir ki, cihazınız uyumlu deyil və yenidən CD və ya MP3 keyfiyyətinə qayıtmalı olacaqsınız. Davam edilsin?"</string>
@@ -346,6 +397,7 @@ Mobil veri üzərindən musiqi yayımı etsəniz, şəbəkəniz xidmət haqqı t
     <string name="asm_region_gb">Birləşmiş Krallıq</string>
     <string name="asm_region_it">İtaliya</string>
     <string name="asm_region_pl">Polşa</string>
+    <string name="asm_resource_updated_toast">Yeni elementlər mövcuddur</string>
     <string name="asm_search_hot_title">Məşhur</string>
     <string name="asm_search_result_contain_music">Daxildir: \"%1$s\"</string>
     <string name="asm_service_connecting_toast">Xidmət yüklənir. Daha sonra yenidən sınayın.</string>
@@ -372,6 +424,8 @@ Mobil veri üzərindən musiqi yayımı etsəniz, şəbəkəniz xidmət haqqı t
     <string name="asm_toast_pay_canceled">Ödəniş ləğv edildi</string>
     <string name="asm_toast_pay_failed">"Ödəniş tamamlana bilmədi"</string>
     <string name="asm_top_tracks">Başlıca mahnılar</string>
+    <string name="asm_trial_subscribe_free">&lt;font color=#FFFFFF>Ödənişsiz sınaq aktivdir. &lt;/font>&lt;font color=#FFD179>&lt;b>Bütün mahnılardan zövq almaq üçün abunə olun və &lt;/b>&lt;/font>&lt;font color=#FFFFFF> ilk aydan ödənişsiz imkan əldə edin&lt;/font>.</string>
+    <string name="asm_trial_subscribe_price">&lt;font color=#FFFFFF>Ödənişsiz sınaq aktivdir. &lt;/font>&lt;font color=#FFD179>&lt;b>&lt;xliff:g id=PRICE example=14.99€>%1$s&lt;/xliff:g>/ay&lt;/b>&lt;/font>&lt;font color=#FFFFFF> abunə olaraq bütün mahnılardan zövq alın&lt;/font>.</string>
     <string name="asm_unknow_album">Bilinməyən albom</string>
     <string name="asm_unknow_artist">Bilinməyən sənətçi</string>
     <string name="asm_unlock_tracks_ad_free">Üzvlük ilə reklam və kəsinti olmadan yüksək keyfiyyətli musiqi və endirmələrdən həzz alın.</string>
@@ -379,6 +433,8 @@ Mobil veri üzərindən musiqi yayımı etsəniz, şəbəkəniz xidmət haqqı t
 	<string name="asm_vip_center">Premium</string>
     <string name="asm_vip_share_rights">Bu möhtəşəm üstünlüklər üçün abunə olun</string>
     <string name="asm_vip_subscribed">Abunə olundu</string>
+    <string name="asm_wifi_or_data_toast">Wi-Fi-a bağlanın və ya Ayarlarda mobil veri istifadə edərək endirməyə icazə verin</string>
+    <string name="asm_wifi_or_data_toast_china">Wi-Fi-a bağlanın və ya Ayarlarda mobil veri istifadə edərək endirməyə icazə verin</string>
 	<string name="asm_ws_agree_privacy">Razıyam</string>
     <string name="asm_ws_all_listen">Mahnını tam dinləmək istəyirsiniz?</string>
     <string name="asm_ws_give_up_rights">Bu möhtəşəm özəlliklər üçün abunə olun</string>
@@ -489,7 +545,7 @@ Mobil veri üzərindən musiqi yayımı etsəniz, şəbəkəniz xidmət haqqı t
     <string name="choose_download_quality">Endirmə keyfiyyətini seçin</string>
     <string name="choose_music_lang_pref">Mahnılar üçün tərcih edilən dillər</string>
     <string name="choose_stream_quality">Yayım keyfiyyətini seçin</string>
-    <string name="claim_immediately">Elə indi al</string>
+    <string name="claim_immediately">Götür</string>
     <string name="clause_content_first">Qanuni tələblərə əsasən, \"Mi Musiqi\"nin sizə müvafiq xidmətləri təqdim etməsi üçün razılığınıza ehtiyacı var.</string>
     <string name="clause_content_second">"Şəxsi məlumatlarınızı sənaye güvənlik standartlarına uyğun olaraq qoruyacağıq."</string>
     <string name="clause_content_third">İstənilən vaxt Ayarlarda razılığınızı geri götürə bilərsiniz.</string>
@@ -934,15 +990,15 @@ Veriləri təmizlədikdən sonra tətbiqdən çıxış ediləcək. Bu verilər h
     <string name="format_unsupported_or_corrupted">"Bu format dəstəklənmir və ya fayl zədələnmişdir"</string>
     <string name="fragment_title_artist_album">Albomlar</string>
     <string name="free">Ödənişsiz</string>
-    <string formatted="false" name="free_duration_refresh_time">Ödənişsiz vaxt, hər gün UTC-%d vaxtı ilə saat 00:00-da yenilənir.</string>
-    <string name="free_music_period">Bu gün +%d saat</string>
+    <string formatted="false" name="free_duration_refresh_time">Ödənişsiz vaxt, hər gün UTC-%d vaxtı ilə saat %s da yenilənir.</string>
+    <string name="free_music_period">+%d saat</string>
     <string name="free_music_period_15min">%d dəqiqə</string>
     <string name="free_rights_expired">Ödənişsiz faydanın müddəti bitdi, daha çox mahnı oxutmaq üçün videoya baxın</string>
     <string name="friday">Cümə</string>
     <string name="friday_short">Cüm</string>
     <string name="friday_shortest">Cüm</string>
     <string name="gcm_fallback_notification_channel_label">Müxtəlif</string>
-    <string name="get_free_music_rights">Təbriklər! Ödənişsiz musiqi dinləmə hüququnu əldə edin</string>
+    <string name="get_free_music_rights">Təbriklər! Ödənişsiz musiqi dinləmə imkanının kilidini açdın</string>
     <string name="get_more_favorite_content_after_login">Daha çox mahnı və video kəşf etmək üçün daxil olun.</string>
     <string name="get_one_day_vip">%d günlük VIP qazandınız!</string>
     <string name="get_one_hour_vip">%d saatlıq VIP qazandınız!</string>
@@ -1026,9 +1082,9 @@ Veriləri təmizlədikdən sonra tətbiqdən çıxış ediləcək. Bu verilər h
     <string name="impunity_declaration_summary">Musiqi tətbiqi hər dəfə başladılanda Xidmət Şərtlərini göstər</string>
     <string name="impunity_declaration_title">Xidmət Şərtləri</string>
     <string name="in_searching_please_wait">Axtarılır…</string>
-    <string name="incentive_video_dialog_content1">%d、允许用户只需观看一段短视频广告，即可免费畅听高品质音乐。</string>
-    <string formatted="false" name="incentive_video_dialog_content2">%d、免费时长于每日UTC-%d %dAM刷新。</string>
-    <string name="incentive_video_dialog_content3">%d、本活动的最终解释权归Mi Music所有。</string>
+    <string name="incentive_video_dialog_content1">%d. Ödənişsiz yüksək keyfiyyətli musiqidən həzz almaq üçün qısa bir video izləyin.</string>
+    <string formatted="false" name="incentive_video_dialog_content2">%d. Ödənişsiz dinləmə hər gün %s (UTC) yenilənir.</string>
+    <string name="incentive_video_dialog_content3">%d. Mi Musiqi, bu tədbir üçün yekun şərh hüququnu özündə saxlayır.</string>
     <string name="individuation_card_login_button">Daxil ol</string>
     <string name="individuation_card_login_message">"Sevəcəyiniz daha çox mahnını tapmaq üçün daxil olun"</string>
     <string name="individuation_card_title">Sizin üçün</string>
@@ -1129,7 +1185,7 @@ Veriləri təmizlədikdən sonra tətbiqdən çıxış ediləcək. Bu verilər h
     <string name="like">Bəyən</string>
     <string name="list_item_play_all_tracks">Hamısını oxut</string>
     <string name="listen_anywhere">İstənilən yerdə dinləyin</string>
-    <string name="listen_now">立即听歌</string>
+    <string name="listen_now">İndi dinlə</string>
     <string name="load_shuffle">Yüklənir…</string>
     <string name="loadercontainer_loading">Bir saniyə…</string>
     <string name="loading_hint">Bir saniyə…</string>
@@ -1442,7 +1498,7 @@ Veriləri təmizlədikdən sonra tətbiqdən çıxış ediləcək. Bu verilər h
     <string name="network_settings_error">"Şəbəkəyə bağlana bilmir"</string>
     <string name="network_tip_title">Yeni musiqilərlə dolu dünyaya qoşulun</string>
     <string name="network_traffic">Veri istifadəsi</string>
-    <string name="new_user_free_music_rights">恭喜您! 获得新用户免费听歌权益</string>
+    <string name="new_user_free_music_rights">Təbriklər! Ödənişsiz dinləmə müddəti qazandınız.</string>
     <string name="next_time">İndi yox</string>
     <string name="next_to_play">Növbəti</string>
     <string name="night">Axşam</string>
@@ -1510,7 +1566,7 @@ Təkrar onlayn olduğunuz zaman daha çoxunu paylaşacağıq."</string>
     <string name="one_day_vip">%d günlük VIP</string>
     <string name="one_hour_vip">%d saatlıq VIP</string>
     <string name="one_minute_vip">%d dəqiqəlik VIP</string>
-    <string name="one_video_free_duration">一个视频%d分钟免费时长</string>
+    <string name="one_video_free_duration">%d dəqiqə ödənişsiz dinləmə qazanmaq üçün bir video izləyin</string>
     <string name="online_apk_acquired">Yükləndi %d%%</string>
     <string name="online_apk_acquiring">Yüklənir… %d%%</string>
     <string name="online_apk_download_error_no_enough_space">"Yetərsiz anbar sahəsinə görə endirilə bilmədi."</string>
@@ -1865,7 +1921,7 @@ Xoşbəxt ol"</string>
     <string name="retry_download">Yenidən sına</string>
     <string name="revoke_upload_playlist_to_hungama_toast">"Onlayn mahnılar hungama-ya sinxronlaşdırılmayacaq"</string>
     <string name="reward_received">Bir VIP üzvlük qazandınız!</string>
-    <string name="rights_less_than_five_minutes">您的权益已不足%d分钟，观看视频以播放更多歌曲</string>
+    <string name="rights_less_than_five_minutes">%d dəqiqədən az ödənişsiz dinləmə müddəti qaldı. Daha çox mahnı oxutmaq üçün bir video izləyin.</string>
     <string name="ringtone_editing">Zəng səsi redaktoru</string>
     <string name="ringtone_not_support">"Bu mahnı formatı dəstəklənmir"</string>
     <string name="ringtone_selected">Seçildi</string>
@@ -1932,7 +1988,7 @@ Xoşbəxt ol"</string>
     <string name="select_none">Heç birini seçmə</string>
     <string name="select_one_language">Ən azı 1 dil seçin</string>
     <string name="select_three_languages">3 dilə qədər seçə bilərsiniz</string>
-    <string name="selected_album">精选专辑</string>
+    <string name="selected_album">Seçilmiş albomlar</string>
     <string name="selected_count">%1$d/%2$d seçildi</string>
     <string name="send">Göndər</string>
     <string name="send_to_title">Göndər: %1$s</string>
@@ -2043,7 +2099,7 @@ Xoşbəxt ol"</string>
     <string name="song_swipe_navigation">Mahnını dəyişmək üçün sola və ya sağa sürüşdürün</string>
     <string name="songgroup_pick_album">Albomlar</string>
     <string name="songgroup_pick_playlist">Pleylistlər</string>
-    <string name="sony_playlist">SONY歌单</string>
+    <string name="sony_playlist">SONY pleylist</string>
     <string name="sort_by_name">Ad</string>
     <string name="sort_by_time">Tarix</string>
     <string name="sound">Səs</string>
@@ -2176,7 +2232,7 @@ Xoşbəxt ol"</string>
     <string name="the_united_nations_day">Birləşmiş Millətlər Günü</string>
     <string name="the_valentines_day">"Sevgililər Günü"</string>
     <string name="the_water_lantern_festival">Su Fənəri Festivalı</string>
-    <string name="three_videos_free_duration">三个视频%d小时免费时长</string>
+    <string name="three_videos_free_duration">%d saat ödənişsiz dinləmə əldə etmək üçün üç video izləyin</string>
     <string name="thursday">Cümə axşamı</string>
     <string name="thursday_short">C.a.</string>
     <string name="thursday_shortest">C.a.</string>
@@ -2292,7 +2348,7 @@ Xoşbəxt ol"</string>
     <string name="tuesday">Çərşənbə axşamı</string>
     <string name="tuesday_short">Ç.a.</string>
     <string name="tuesday_shortest">Ç.a.</string>
-    <string name="two_videos_free_duration">两个视频%d小时免费时长</string>
+    <string name="two_videos_free_duration">%d saat ödənişsiz dinləmə əldə etmək üçün iki video izləyin</string>
     <string name="ucrop_crop">Qayçıla</string>
     <string name="ucrop_label_edit_photo">Fotoya düzəliş et</string>
     <string name="ucrop_label_original">Orijinal</string>
@@ -2386,9 +2442,9 @@ Xoşbəxt ol"</string>
     <string name="vip_required">Bu mahnını oxutmaq üçün Premium Mahnı Paketi alın. İndilik mahnı ötürüldü.</string>
     <string name="vip_required_with_song">%s yalnız Gold üzvləri üçün əlçatandır. İndilik bu mahnı ötürüldü.</string>
     <string name="voice_search_first_hint">Səsli axtarışı sına!</string>
-    <string name="watch_now">立即观看</string>
+    <string name="watch_now">İzlə</string>
     <string name="watch_video">Videoya bax</string>
-    <string name="watch_video_for_more_songs">观看视频以播放更多歌曲</string>
+    <string name="watch_video_for_more_songs">Daha çox mahnı oxutmaq üçün bir video izləyin</string>
     <string name="web_reward_dialog_cancle">İmtina</string>
     <string name="web_reward_dialog_ok">Çıx</string>
     <string name="webpage_hot_rank">Məşhur</string>

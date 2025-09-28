@@ -13,11 +13,13 @@
         <item>Bluetooth və Wi-Fi ilə fayl köçürmək üçün</item>
         <item>Bluetooth ilə yaxınlıqdakı cihazları tapmaq üçün</item>
         <item>Yaxınlıqdakı cihazları tapmaq və Wi-Fi ilə faylları köçürmək üçün</item>
+        <item>Veriləri aldıqdan sonra onları açmaq məqsədilə tətbiqlərin quraşdırıldığını yoxlamaq üçün</item>
     </string-array>
     <string-array name="permissions_desc_v12_china">
         <item>Faylları göndərmək və almaq üçün</item>
         <item>Bluetooth və Wi-Fi ilə fayl köçürmək üçün</item>
         <item>Bluetooth ilə yaxınlıqdakı cihazları tapmaq üçün</item>
         <item>Yaxınlıqdakı cihazları tapmaq və Wi-Fi ilə faylları köçürmək üçün</item>
+        <item>Veriləri aldıqdan sonra onları açmaq məqsədilə tətbiqlərin quraşdırıldığını yoxlamaq üçün</item>
     </string-array>
 </resources>

@@ -25,6 +25,7 @@
     <string name="afternoon">Günortadan sonra</string>
     <string name="agree_desc">Yuxarıda sadalanan məcburi icazələri verin.</string>
     <string name="am">GƏ</string>
+    <string name="background_wait">Gizlət</string>
     <string name="btn_cancel">İmtina</string>
     <string name="btn_cancel_send">Bu köçürməni ləğv et</string>
     <string name="btn_exit_send">Çıx</string>
@@ -42,12 +43,16 @@
     <string name="cancel_receive">İmtina</string>
     <string name="cancel_send">Köçürmə ləğv edildi</string>
     <string name="cancel_task">Ləğv et</string>
+    <string name="canceled">Ləğv edildi</string>
     <string name="clearable_edittext_clear_description">Təmizlə</string>
     <string name="close">Bağla</string>
     <string name="complete">Hazırdır</string>
+    <string name="confirm">Oldu</string>
     <string name="confirm_cancel_receive">"Köçürməni indi ləğv etsəniz, bu elementi ala bilməyəcəksiniz. Yenə də ləğv edilsin?"</string>
-    <string name="confirm_cancel_task_files">%1$s üçün fayl göndərilməsi ləğv edilsin?</string>
-    <string name="confirm_cancel_task_images">%1$s üçün şəkil göndərilməsi ləğv edilsin?</string>
+    <string name="confirm_cancel_task_files">Faylların göndərilməsi ləğv edilsin?</string>
+    <string name="confirm_cancel_task_images">Fotoların göndərilməsi ləğv edilsin?</string>
+    <string name="connect">Bağlantı qur</string>
+    <string name="connected">Bağlantılıdır</string>
     <string name="copy">Kopyala</string>
     <string name="custom_define_permission_desc_android.permission_group.LOCATION">Bluetooth və Wi-Fi ilə fayl köçürmək üçün</string>
     <string name="custom_define_permission_desc_android.permission_group.STORAGE">Faylları göndərmək və almaq üçün</string>
@@ -78,13 +83,16 @@
     <string name="err_send_short_remote_refuse">Rədd edildi</string>
     <string name="err_send_short_remote_timeout">Cavab yoxdur</string>
 	<string name="err_send_short_send_cancel">Ləğv edilmiş köçürmə</string>
-    <string name="error_ap_in_use">"Hotspot açıq olduqda digər cihazlara fayl göndərilə bilmir"</string>
     <string name="error_ap_or_screen_already_hosting">"Yayım zamanı və ya portativ hotspot istifadə edərkən digər cihazlara element göndərilə bilmir."</string>
     <string name="error_ble_connect_failure">"Alıcı cihaz, Bluetooth-a bağlana bilmədi. Ekranının açıq olduğuna əmin olun."</string>
     <string name="error_ble_connect_timeout">"Bluetooth-a bağlana bilmədi. Hər iki cihazda Bluetooth-a yenidən bağlanıb bir daha sınayın."</string>
     <string name="error_device_lost">"Görünüşə görə digər cihaz cavab vermir. Bir və ya iki dəqiqə gözləyib yenidən sınayın."</string>
     <string name="error_has_occurred">Bir xəta baş verdi</string>
-    <string name="error_mirror_working">"Ekran paylaşılarkən elementlər paylaşıla bilmir"</string>
+    <string name="error_local_ap_in_use">Bu cihazda hotspot-u söndürüb yenidən sınayın</string>
+    <string name="error_local_easytether">Bu cihazda paylaşılan bağlantını söndürüb yenidən sınayın</string>
+    <string name="error_local_mirror">Bu cihazda Ekran Kombo-nu söndürüb yenidən sınayın</string>
+    <string name="error_local_p2p_in_use">Cihazlar arası özəllikləri söndürüb yenidən sınayın</string>
+    <string name="error_local_screening">Bu cihazda yayımı dayandırıb yenidən sınayın</string>
     <string name="error_msg_network_error">"Şəbəkəyə bağlana bilmədi. Hər iki cihazın Wi-Fi və Bluetooth bağlantılarını yoxlayın."</string>
     <string name="error_msg_network_error_china">"Şəbəkəyə bağlana bilmədi. Hər iki cihazın Wi-Fi və Bluetooth bağlantılarını yoxlayın."</string>
     <string name="error_msg_wlan_error">"Bağlantı qurula bilmədi. Wi-Fi-a yenidən bağlanıb bir daha sınayın."</string>
@@ -102,9 +110,14 @@
     <string name="error_receive_user_cancel">Köçürmə ləğv edildi</string>
     <string name="error_receive_user_interrupted">Digər şəxs köçürməni ləğv etdi</string>
     <string name="error_refuse_receive">Köçürmə ləğv edildi</string>
-    <string name="error_remote_ap_working">Digər şəxsdən portativ hotspot-u söndürməsini xahiş edin</string>
+    <string name="error_remote_ap_in_use">Digər cihazda hotspot-u söndürüb yenidən sınayın</string>
     <string name="error_remote_busy">Deyəsən, digər cihaz məşğuldur. Bir və ya iki dəqiqə gözləyib yenidən sınayın.</string>
-    <string name="error_remote_mirror_working">"Digər cihazı ekranı paylaşarkən elementləri qəbul edə bilməz"</string>
+    <string name="error_remote_easytether">Digər cihazda paylaşılan bağlantını söndürüb yenidən sınayın</string>
+    <string name="error_remote_mirror">Digər cihazda Ekran Kombo-nu söndürüb yenidən sınayın</string>
+    <string name="error_remote_p2p_in_use">Digər cihazlar arası özəllikləri söndürüb yenidən sınayın</string>
+    <string name="error_remote_screening">Digər cihazda yayımı dayandırıb yenidən sınayın</string>
+    <string name="error_remote_wlan_off">Digər cihazda Wi-Fi-ı söndürün</string>
+    <string name="error_remote_wlan_off_china">Digər cihazda Wi-Fi-ı işə salın</string>
     <string name="error_self_busy">Cihaz məşğuldur. Bir və ya iki dəqiqə gözləyib yenidən sınayın.</string>
     <string name="error_send_file_cannot_read">"Fayl göndərilə bilmədi. Yenidən sınayın."</string>
     <string name="error_send_file_no_enough_space">"Göndərilə bilmir. Digər cihazda yetərli anbar sahəsi yoxdur."</string>
@@ -146,15 +159,25 @@
 	<string name="go_to_settings">Ayarlar</string>
     <string name="guide_page_view1">Hər iki cihazda Xiaomi Share-i işə salın. Digər şəxs İdarəetmə mərkəzindəki açara toxuna bilər. Səhifə %1$d/%2$d. Keçid etmək üçün iki barmaqla sola və ya sağa sürüşdürün.</string>
     <string name="guide_page_view1_lyra">Xiaomi Share-i İdarəetmə mərkəzində işə sala bilərsiniz. Səhifə: %1$d/%2$d. Keçid etmək üçün iki barmaqla sola və ya sağa sürüşdürün.</string>
+    <string name="guide_page_view1_os3">Faylları almaq üçün İdarəetmə mərkəzində Xiaomi Share-i işə salın. Səhifə %1$d/%2$d. Keçid etmək üçün iki barmaqla sola və ya sağa sürüşdürün.</string>
     <string name="guide_page_view2">"Elementləri göndərmək istədiyiniz cihazı seçin və onun ikonuna toxunun. Səhifə: %1$d/%2$d. Keçid etmək üçün iki barmaqla sola və ya sağa sürüşdürün."</string>
+    <string name="guide_page_view2_os3">"Elementləri göndərmək istədiyiniz cihazı seçin. Səhifə: %1$d/%2$d. Keçid etmək üçün iki barmaqla sola və ya sağa sürüşdürün."</string>
+    <string name="guide_page_view3">Paylaşımı başlatmaq üçün hər iki cihazın arxa NFC sahələrini bir-birinə yaxınlaşdırın. Səhifə: %1$d/%2$d. Keçid etmək üçün iki barmaqla sola və ya sağa sürüşdürün.</string>
     <string name="guide_summary_1">Digər şəxs Bildiriş panelindəki açara toxuna bilər</string>
     <string name="guide_summary_1_lyra">\"İdarəetmə mərkəzi\"ndə \"Xiaomi Share\"i işə sala bilərsiniz</string>
+    <string name="guide_summary_1_os3">\"İdarəetmə mərkəzi\"ndə \"Xiaomi Share\"i işə sala bilərsiniz</string>
     <string name="guide_summary_2">"Elementlər göndərmək istədiyiniz cihazı seçin və ikonuna toxunun"</string>
+    <string name="guide_summary_2_os3">"Elementləri göndərmək istədiyiniz cihazı seçin"</string>
+    <string name="guide_summary_3">Paylaşımı başlatmaq üçün hər iki cihazın arxa NFC sahələrini bir-birinə yaxınlaşdırın</string>
     <string name="guide_title_1">Hər iki cihazda \"Xiaomi Share\"i işə salın</string>
     <string name="guide_title_1_lyra">Faylları almaq üçün Xiaomi Share-i işə salın</string>
+    <string name="guide_title_1_os3">Faylları almaq üçün Xiaomi Share-i işə salın</string>
     <string name="guide_title_2">Paylaşılacaq cihazı seçin</string>
+    <string name="guide_title_2_os3">Faylları göndərmək üçün bir cihaz seçin</string>
+    <string name="guide_title_3">Paylaşmaq üçün toxun</string>
     <string name="help">"Cihazlar tapıla bilmir?"</string>
     <string name="hide">Gizlət</string>
+    <string name="honor_phone">Honor telefonu</string>
     <string name="i_know">Anladım</string>
     <string name="international_privacy_dialog_agree">Razıyam</string>
     <string name="international_privacy_dialog_content">"Bu tətbiqi istifadə edərkən cihazlara bağlana və faylları köçürə bilmək üçün lazımi məlumatları yığmalıyıq. Bu məlumatları verməməyi seçsəniz, sizi müvafiq xidmətləri təmin edə və ya suallarınızı cavablandıra bilməyəcəyik. İstənilən vaxt razılığınızı geri götürmək üçün Gizlilik &gt; Razılığın geri götürülməsi bölməsindən tələb göndərə bilərsiniz."</string>
@@ -176,15 +199,19 @@
     <string name="mishare_folder_in_file_explorer">Fayl Meneceri və Xiaomi Share</string>
     <string name="mishare_service_channel_desc">Xiaomi Share prosesləri barədə bildirişlər</string>
     <string name="mishare_settings_summary_international">"Xiaomi telefonları və planşetləri
-Daha çox Android cihazları: vivo, realme, OPPO və digər markalar bu özəlliyi dəstəkləyə bilər. Detallı məlumat üçün hər bir markanın rəsmi veb saytına baxın."</string><string name="mishare_state_protection">\"Xiaomi Share\"i avtomatik işə sal</string>
+Daha çox Android cihazları: vivo, realme, OPPO və digər markalar bu özəlliyi dəstəkləyə bilər. Detallı məlumat üçün hər bir markanın rəsmi veb saytına baxın."</string>
+    <string name="mishare_settings_summary_international_ios">"Xiaomi telefonları və planşetləri
+Apple cihazları: iPhone, iPad, and Mac
+Digər Android cihazları: vivo, realme, OPPO və digər seçilmiş markalar bu özəlliyi dəstəkləyə bilər. Detallı məlumat üçün hər bir markanın rəsmi veb saytına baxın."</string>
+    <string name="mishare_state_protection">\"Xiaomi Share\"i avtomatik işə sal</string>
     <string name="mishare_state_protection_summary">Bluetooth və Wi-Fi təkrar açıldıqda \"Xiaomi Share\"i avtomatik olaraq yenidən işə sal</string>
     <string name="mishare_state_protection_summary_china">Bluetooth və Wi-Fi təkrar açıldıqda \"Xiaomi Share\"i avtomatik olaraq yenidən işə sal</string>
 	<string name="mishare_support_device_comment">Dəstəklənən cihazlar</string>
-    <string name="mishare_support_device_summary">"Xiaomi telefonları, planşetləri və dizüstü kompüterləri
-Digər istehsalçılardan Android cihazları: vivo, realme, OPPO, Black Shark, Meizu, OnePlus, ZTE, Hisense, ASUS, ROG, Samsung, Lenovo, Motorola, NIO"</string>
+    <string name="mishare_support_device_summary">"Xiaomi telefonları, planşetləri və notbuklar
+Digər istehsalçılardan Android cihazları: vivo, realme, OPPO, Black Shark, Meizu, OnePlus, ZTE, Hisense, ASUS, ROG, Samsung, Lenovo, Motorola, NIO, Honor"</string>
     <string name="mishare_support_device_summary_ios">"Xiaomi telefonları, planşetləri, notbukları
 Apple cihazları: iPhone, iPad, Mac
-Digər istehsalçılardan Android cihazları: vivo, realme, OPPO, Black Shark, Meizu, OnePlus, ZTE, Hisense, ASUS, ROG, Samsung, Lenovo, Motorola, NIO"</string>
+Digər istehsalçılardan Android cihazları: vivo, realme, OPPO, Black Shark, Meizu, OnePlus, ZTE, Hisense, ASUS, ROG, Samsung, Lenovo, Motorola, NIO, Honor"</string>
     <string name="mishare_transefer_channel_desc">Xiaomi Share tərəfindən göndərilən və alınan elementlər barədə bildirişlər</string>
     <string name="miuix_access_state_desc">Seçildi</string>
 	<string name="miuix_accessibility_title">Başlıq</string>
@@ -312,6 +339,7 @@ Digər istehsalçılardan Android cihazları: vivo, realme, OPPO, Black Shark, M
     <string name="receive_only_from_contacts">Yalnız kontaktlardan fayl al</string>
     <string name="receiver_error">"Alına bilmədi. Bir və ya iki dəqiqə gözləyib yenidən sınayın."</string>
     <string name="refuse_file">Rədd et</string>
+    <string name="refused">Rədd edildi</string>
     <string name="retry_task">Yenidən göndər</string>
     <string name="saturday">Şənbə</string>
     <string name="saturday_short">Şәn</string>
@@ -320,7 +348,7 @@ Digər istehsalçılardan Android cihazları: vivo, realme, OPPO, Black Shark, M
     <string name="scanning_only_xiaomi_device">Bu element yalnız Xiaomi və ya Black Shark cihazlarına köçürülə bilər</string>
     <string name="search_menu_title">Axtar</string>
     <string name="select_file">fayl əlavə et</string>
-    <string name="send">göndər</string>
+    <string name="send">Göndər</string>
     <string name="send_file">FAYL GÖNDƏR</string>
     <string name="send_files_by">Faylları paylaş</string>
     <string name="send_files_to">Elementləri göndər</string>
@@ -358,12 +386,18 @@ Digər istehsalçılardan Android cihazları: vivo, realme, OPPO, Black Shark, M
     <string name="share_device_near_share_image_describe">Paylaşımı başlatmaq üçün hər iki cihazın NFC sahələrinin bir-birinə yaxın tutun</string>
     <string name="share_device_near_share_subtitle">Paylaşmaq üçün hər iki cihazı yaxın tutun</string>
     <string name="share_failed">Köçürmə tamamlana bilmədi</string>
+    <string name="share_file_timeout">Tələbin vaxtı bitdi. Daha az faylla yenidən sınayın.</string>
+    <string name="share_not_supported">Dəstəklənmədi</string>
     <string name="share_notification_receive_confirm_content">Buradan: %1$s</string>
     <string name="share_open_nfc_content">Bu özəlliyi istifadə edə bilmək üçün NFC-ni işə salın. İndi işə salınsın?</string>
     <string name="share_open_nfc_title">NFC-ni işə sal</string>
     <string name="share_refuse">Köçürməyə rədd cavabı verildi</string>
     <string name="share_send_notification_describe">Alıcı: %1$s</string>
     <string name="share_show_nfc_position"><Data>&lt;a href=%1$s>NFC sahəsinə bax&lt;/a></Data></string>
+    <string name="share_to_be_sent">Gözlənilir</string>
+    <string name="share_waiting_connect">Gözlənilir</string>
+    <string name="share_waiting_other_recv">Fayllar göndərilir</string>
+    <string name="share_waiting_recv">Gözlənilir</string>
     <string name="size_of_B">%d B</string>
     <string name="size_of_GB">%d GB</string>
     <string name="size_of_KB">%d KB</string>
@@ -411,6 +445,7 @@ Digər istehsalçılardan Android cihazları: vivo, realme, OPPO, Black Shark, M
     <string name="sub_title_mishare_switch_mine">Sizin hesabınıza daxil olmuş cihazlardan faylları ala bilərsiniz</string>
 	<string name="sub_title_mishare_switch_mine_desc">"Alma statusunuzu \"Bu hesabdan\" olaraq ayarlamazdan əvvəl, digər cihazın Xiaomi HyperOS və ya daha yuxarı sistem versiyasına və Xiaomi Share-in 3.0.0 və ya daha yuxarı versiyaya güncəlləndiyinə əmin olun."</string>
     <string name="sub_title_mishare_switch_none">Faylları ala bilmək üçün Xiaomi Share-i işə salın</string>
+    <string name="sub_title_mishare_switch_none_os3">Yaxınlıqdakı cihazlar tərəfindən tapıla bilər</string>
     <string name="sub_title_turbo_mode">Bu özəllik işə salındıqda, köçürmə zamanı şəbəkənin bağlantısı kəsiləcək</string>
     <string name="sub_title_withdraw_privacy_policy_consent">Gizlilik Siyasətinə verilmiş razılığın geri götürülməsi ilə \"Xiaomi Share\" də söndürüləcək</string>
     <string name="success_receive_much_file_from_pc">%1$s cihazından %2$d ədəddən çox fayl alınır. Baxmaq üçün toxunun.</string>
@@ -420,7 +455,53 @@ Digər istehsalçılardan Android cihazları: vivo, realme, OPPO, Black Shark, M
     <string name="support_device_type">Dəstəklənən cihazlar</string>
     <string name="switch_mode_all">Hər kəsdən (%d dəq)</string>
     <string name="switch_mode_close">Bağlı</string>
+    <string name="switch_mode_close_os3">Bağlı</string>
     <string name="switch_mode_sameaccount">Bu hesabdan</string>
+    <string name="tap_share_condition_describe">"%1$d. Hər iki cihazda NFC, Bluetooth və Wi-Fi açıq olmalıdır.
+%2$d. Xiaomi cihazınızda, \"Xiaomi Share\"i %3$s versiyasına güncəlləyin.
+%4$d. \"iPhone\"nunuzda, Xiaomi Interconnectivity tətbiqini quraşdırın."</string>
+    <string name="tap_share_condition_describe_china">"%1$d. Hər iki cihazda NFC, Bluetooth və Wi-Fi açıq olmalıdır.
+%2$d. Xiaomi cihazınızda, \"Xiaomi Share\"i %3$s versiyasına güncəlləyin.
+%4$d. \"iPhone\"nunuzda, Xiaomi Interconnectivity tətbiqini quraşdırın."</string>
+    <string name="tap_share_condition_describe_os3">"%1$d. Hər iki cihazda kilidin açıq olduğuna və NFC, Bluetooth və Wi-Fi-ın işlək olduğuna əmin olun.
+%2$d. Xiaomi cihazınızı %3$s və ya daha yuxarı versiyaya güncəlləyin. Həmçinin Ayarlarda \"Xiaomi Share\"i axtararaq \"Paylaşmaq üçün toxun\" funksiyasının dəstəkləndiyini yoxlaya bilərsiniz.
+%4$d. iOS 17 və ya daha yuxarı əməliyyat sistemi ilə çalışan iPhone 12 və ya daha yeni modeli istifadə etdiyinizə əmin olun. iPhone-nunuzda ən son \"Xiaomi Interconnectivity\" versiyasını quraşdırın."</string>
+    <string name="tap_share_condition_describe_os3_china">"%1$d. Hər iki cihazda kilidin açıq olduğuna və NFC, Bluetooth və Wi-Fi-ın işlək olduğuna əmin olun.
+%2$d. Xiaomi cihazınızı %3$s və ya daha yuxarı versiyaya güncəlləyin. Həmçinin Ayarlarda \"Xiaomi Share\"i axtararaq \"Paylaşmaq üçün toxun\" funksiyasının dəstəkləndiyini yoxlaya bilərsiniz.
+%4$d. iOS 17 və ya daha yuxarı əməliyyat sistemi ilə çalışan iPhone 12 və ya daha yeni modeli istifadə etdiyinizə əmin olun. iPhone-nunuzda ən son \"Xiaomi Interconnectivity\" versiyasını quraşdırın."</string>
+    <string name="tap_share_connecting_this_wifi">Bu Wi-Fi şəbəkəsinə bağlanılır</string>
+    <string name="tap_share_connecting_this_wlan">Bu Wi-Fi şəbəkəsinə bağlanılır</string>
+    <string name="tap_share_connecting_wifi">\"%1$s\" ilə bağlantı qurulur</string>
+    <string formatted="false" name="tap_share_content_describe">"Göndərən \"Paylaşmaq üçün toxun\" istifadə edərək aşağıdakı yollarla paylaşa bilər:
+%d. Foto və videoları Qalereyada tam ölçüdə baxaraq, seçim səhifəsində və ya “Göndər” düyməsinə toxunaraq paylaşım pəncərəsini açıb paylaşın.
+%d. Faylları \"Fayl meneceri\"nin seçim səhifəsindən və ya \"Göndər\" düyməsinə toxunaraq paylaşım pəncərəsini açıb paylaşın.
+%d. Bağlandığınız Wi-Fi şəbəkəsini paylaşmaq üçün, Wi-Fi siyahısını açın və ya bağlandığınız Wi-Fi şəbəkəsinə toxunaraq paylaşım pəncərəsini açın.
+%d. Kontaktları kontaktın detallar səhifəsində baxaraq seçim səhifəsində və ya \"Paylaş\"a toxunaraq paylaşım pəncərəsini açıb paylaşın.
+%d. Bir veb səhifəni \"Mi Brauzer\"də səhifəni açaraq və ya \"Paylaş\"a toxunaraq paylaşım pəncərəsini açıb paylaşın.
+"</string>
+    <string formatted="false" name="tap_share_content_describe_china">"Göndərən \"Paylaşmaq üçün toxun\" istifadə edərək aşağıdakı yollarla paylaşa bilər:
+%d. Foto və videoları Qalereyada tam ölçüdə baxaraq, seçim səhifəsində və ya \"Göndər\" düyməsinə toxunaraq paylaşım pəncərəsini açıb paylaşın.
+%d. Faylları \"Fayl meneceri\"nin seçim səhifəsindən və ya \"Göndər\" düyməsinə toxunaraq paylaşım pəncərəsini açıb paylaşın.
+%d. Bağlandığınız Wi-Fi şəbəkəsini paylaşmaq üçün, Wi-Fi siyahısını açın və ya bağlandığınız Wi-Fi şəbəkəsinə toxunaraq paylaşım pəncərəsini açın.
+%d. Kontaktları kontaktın detallar səhifəsində baxaraq seçim səhifəsində və ya \"Paylaş\"a toxunaraq paylaşım pəncərəsini açıb paylaşın.
+%d. Bir veb səhifəni \"Mi Brauzer\"də səhifəni açaraq və ya \"Paylaş\"a toxunaraq paylaşım pəncərəsini açıb paylaşın.
+"</string>
+    <string name="tap_share_image_describe">Elementləri cəld paylaşmaq üçün hər iki cihazın arxa NFC sahələrini bir-birinə toxundurun</string>
+    <string name="tap_share_is_connect_this_wifi">Bu Wi-Fi şəbəkəsinə bağlanılsın?</string>
+    <string name="tap_share_is_connect_this_wlan">Bu Wi-Fi şəbəkəsinə bağlanılsın?</string>
+    <string name="tap_share_preparing">Hazırlanır</string>
+    <string name="tap_share_preparing_file">Fayllar hazırlanır</string>
+    <string name="tap_share_send_this_wifi">Bu Wi-Fi şəbəkəsini paylaş</string>
+    <string name="tap_share_send_this_wlan">Bu Wi-Fi şəbəkəsini paylaş</string>
+    <string name="tap_share_subTitle">Elementləri paylaşmaq üçün hər iki cihazın arxasını bir-birinə toxundurun</string>
+    <string name="tap_share_tips_title">Elementləri paylaşmaq üçün hər iki cihazın arxasını bir-birinə toxundurun</string>
+    <string name="tap_share_title">Paylaşmaq üçün toxun</string>
+    <string name="tap_share_wifi_cannot_share">"Bu şəbəkə paylaşıla bilmir"</string>
+    <string name="tap_share_wifi_connect_cancel">Bağlantı ləğv edildi</string>
+    <string name="tap_share_wifi_connect_success">Bağlantılıdır</string>
+    <string name="tap_share_wifi_connected">\"%1$s\" ilə bağlantılıdır</string>
+    <string name="tap_share_wifi_fail">"Bağlantı qurula bilmədi"</string>
+    <string name="tapshare_receive_describe_wifi">\"%1$s\" ilə bağlantı qur</string>
 	<string name="text_input_layout_default_error">Bu, ilkin xətadır</string>
     <string name="the_anniversary_of_lifting_martial_law">Hərbi Vəziyyətin Qaldırılma İldönümü</string>
     <string name="the_anti_aggression_day">Təcavüzlə Mübarizə Günü</string>

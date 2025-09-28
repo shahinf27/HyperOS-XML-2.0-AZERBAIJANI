@@ -230,6 +230,7 @@ Bunun əvəzində başqa fotolar seçin və yenidən sınayın."</string>
     <string name="album_ai_page_title">Ağıllı albomlar</string>
     <string name="album_already_exists_check">Bax</string>
     <string name="album_already_exists_msg">\"%s\" albomu artıq mövcuddur</string>
+    <string name="album_already_forced_common">Sancıldı</string>
     <string name="album_already_forced_top">Artıq ən üstdə</string>
     <string name="album_camera_name">Kamera</string>
     <string name="album_cloud_list_page_title">Sinxronlaşdırılan albomları idarə et</string>
@@ -298,11 +299,15 @@ Bunun əvəzində başqa fotolar seçin və yenidən sınayın."</string>
     <string name="album_show_local_only">Yalnız yerli albomları göstər</string>
     <string name="album_show_local_only_summary">Bu özəllik açıq olduqda yalnız yerli albomları silmək üçün bir seçim mövcud olacaq</string>
     <string name="album_sort_type">Sıralama qaydası</string>
+    <string name="album_sort_type_by_name">Adına görə sırala</string>
+    <string name="album_sort_type_create_time">Yaradılma tarixinə görə sırala</string>
     <string name="album_sort_type_create_time_asc">Köhnədən yeniyə</string>
     <string name="album_sort_type_create_time_desc">Yenidən köhnəyə</string>
     <string name="album_sort_type_custom">Özəl</string>
     <string name="album_sort_type_name_asc">A-dan Z-yə</string>
     <string name="album_sort_type_name_desc">Z-dən A-ya</string>
+    <string name="album_sort_type_update_time">Dəyişdirilmə tarixinə görə sırala</string>
+    <string name="album_switch_sort_mode_tips">Çoxlu sıralama seçimləri mövcuddur</string>
     <string name="album_tab_page_switch_view_style_to_grid">Dama görünüşü</string>
     <string name="album_tab_page_switch_view_style_to_linear">Siyahı görünüşü</string>
     <string name="album_type_baby">Körpə albomu</string>
@@ -452,6 +457,7 @@ Xatirələrin görünməsi üçün doldurma cihazını taxıb və ekranı sönd�
     <string name="backup_pause_title">Sinxr. fasilə verildi</string>
     <string name="backup_pending">Avtomatik olaraq nüsxələnəcək</string>
     <string name="backup_settings">Buludla sinxronlaşdır</string>
+    <string name="backup_settings_banner_msg_error">"Bulud sinxronlaşdırma məlumatı göstərilə bilmir"</string>
     <string name="backup_settings_banner_msg_off">Bütün xatirələrinizi güvənli saxlamaq üçün foto və videolarınızı Google Fotolar ilə nüsxələyin</string>
     <string name="backup_settings_banner_msg_on">Nüsxənin statusuna \"Google Fotolar\"da bax</string>
     <string name="backup_settings_banner_title_not_allow">Google Fotolar nüsxələməsi</string>
@@ -551,6 +557,8 @@ Xatirələrin görünməsi üçün doldurma cihazını taxıb və ekranı sönd�
     <string name="card_title_three_month_baby">Vaxt uçur</string>
     <string name="cast_devices_unavailable_desc">Həm bu cihazın, həm də proyektorun eyni Wi-Fi şəbəkəsinə bağlandığına əmin olun</string>
     <string name="cast_devices_unavailable_title">"Proyektor tapıla bilmədi"</string>
+    <string name="cast_off_talkback">Yayım bağlıdır</string>
+    <string name="cast_on_talkback">Yayım açıqdır</string>
     <string name="cd_btn_back">Geri düyməsi</string>
     <string name="change_baby_album_choose_from_photos">Qalereya</string>
     <string name="change_baby_album_dialog_title">Profil fotosunu dəyişdir</string>
@@ -690,8 +698,8 @@ Xatirələrin görünməsi üçün doldurma cihazını taxıb və ekranı sönd�
     <string name="com.tencent.mm_com.tencent.mm.ui.tools.ShareToTimeLineUI">WeChat Anları</string>
     <string name="common_google_play_services_unknown_issue">%1$s, Google Play xidmətləri ilə bağlı çətinlik yaşayır. Lütfən yenidən sınayın.</string>
     <string name="confirm">Oldu</string>
-    <string name="confirm_cancel_task_files">Bura fayl göndərilməsi ləğv edilsin: %1$s?</string>
-    <string name="confirm_cancel_task_images">Bura şəkil göndərilməsi ləğv edilsin: %1$s?</string>
+    <string name="confirm_cancel_task_files">Faylların göndərilməsi ləğv edilsin?</string>
+    <string name="confirm_cancel_task_images">Fotoların göndərilməsi ləğv edilsin?</string>
     <string name="confirm_delete_selected_albums">Seçilmiş albomlar silinsin?</string>
     <string name="confirm_download_video_message">Baxmağa başlamaq üçün bu videonun endirilməsi bitməlidir. Endirmə Wi-Fi əlçatan olduqda davam edəcək.</string>
     <string name="confirm_download_video_title">Video endir</string>
@@ -703,6 +711,7 @@ Xatirələrin görünməsi üçün doldurma cihazını taxıb və ekranı sönd�
     <string name="confirm_merge_album_title">Elementləri birləşdir</string>
     <string name="confirm_merge_face_albums">" \"<Data> Bu albom %s ilə birləşdirilsin? </Data>\" "</string>
     <string name="confirm_merge_many_face_albums">" \"<Data> Bu albomlar %s ilə birləşdirilsin? </Data>\" "</string>
+    <string name="confirm_no_name_people_merge_tip">Bu iki şəxsin fotolarını birləşdirsəniz, onlar eyni şəxs olaraq tanınacaq</string>
     <string name="confirm_not_face">Uyuşma yoxdur</string>
     <string name="confirm_recommandation_face_is">" \"<Data> Əminsiniz ki, bu &lt;font color=#323232&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;/font&gt;? Bu şəxs \"%2$s\" albomuna daşınacaq. </Data>\" "</string>
     <string name="confirm_recommandation_face_not">" \"<Data>\" Əminsiniz ki, bu &lt;font color=#323232&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;/font&gt; deyil? \"</Data>\" "</string>
@@ -894,6 +903,7 @@ Xatirələrin görünməsi üçün doldurma cihazını taxıb və ekranı sönd�
     <string name="empty_description_conditions">Əhəmiyyətli olanları xatırla</string>
     <string name="empty_description_conditions_new">Elementlərin burada daha tez görünməsi üçün doldurma cihazını taxıb ekranı söndürün</string>
     <string name="empty_description_no_cards">"Foto çəkməyə davam edin. Elementlər yaradılan kimi burada görünəcək."</string>
+    <string name="empty_description_no_common">Sancılmış albomlar burada görünəcək</string>
     <string name="empty_description_no_pinned">Elementləri burada görünməsi üçün sanc</string>
     <string name="empty_query_text_msg">"Nə axtaracağımı bilmirəm…"</string>
     <string name="empty_recommend_back">Geri</string>
@@ -901,6 +911,7 @@ Xatirələrin görünməsi üçün doldurma cihazını taxıb və ekranı sönd�
     <string name="empty_relation">"Qrup adı boş buraxıla bilməz"</string>
     <string name="empty_tip_btn">Foto çəkin</string>
     <string name="empty_title_no_cards">Xatirələr</string>
+    <string name="empty_title_no_common">Element yoxdur</string>
     <string name="empty_title_no_photos">Foto və ya video yoxdur</string>
     <string name="empty_title_no_pinned">Sancılan element yoxdur</string>
     <string name="enable_auto_upload_tip">Bu albom üçün buludla sinxronlaşdırma işə salınsın?</string>
@@ -1036,9 +1047,14 @@ Dostlarınızın daha çox fotosunu çəkin!"</string>
     <string name="fast_share_auto_render">Gözəlləşdir</string>
     <string name="fast_share_auto_render_finish">Gözəlləşdirildi</string>
     <string name="father_day">"Analar Günü"</string>
+    <string name="feature_album_empty_subtitle">Elementlərinizi düzmək üçün albomlar yaradın</string>
+    <string name="feature_album_empty_title">Albom yoxdur</string>
+    <string name="feature_create_album">Bir albom yarat</string>
     <string name="feature_guidance_photo_effects">"Yeni foto effektləri
 mövcuddur"</string>
     <string name="feature_guidance_video_editor_smart_effects">Yeni effektlər mövcuddur</string>
+    <string name="feature_sticky_empty_subtitle">Əvvəlcə foto və ya video çəkin və ya daxilə köçürün</string>
+    <string name="feature_sticky_empty_title">Foto və ya video yoxdur</string>
     <string name="featured_added_to_top_album">Uğurla əlavə edildi</string>
     <string name="featured_change_album_cover">Albom üzünü dəyişdir</string>
     <string name="featured_customize">Özəlləşdir</string>
@@ -1053,6 +1069,7 @@ mövcuddur"</string>
     <string name="featured_people_pets_empty_des">Buludla sinxronlaşdırmanı işə salın, seçilmiş insanları, ev heyvanlarını və qrupları burada görmək üçün daha çox foto çəkin</string>
     <string name="featured_people_pets_empty_title">Hələ burada insan və ya ev heyvanı yoxdur</string>
     <string name="featured_pin_to_collection">Xüsusi kolleksiyalara əlavə et</string>
+    <string name="featured_remove_common_album">Sancaq götürüldü</string>
     <string name="featured_remove_top_album">Sancağı uğurla götürüldü</string>
     <string name="featured_time_empty_des">Xatirələr, cihaz doldurularkən və ekran bağlı olduqda təşkil olunacaq</string>
     <string name="featured_time_empty_title">Burada hələ xatirə yoxdur</string>
@@ -1085,9 +1102,12 @@ mövcuddur"</string>
     <string name="friday_short">Cüm</string>
     <string name="friday_shortest">Cüm</string>
     <string name="functions_are_being_developed">Bu özəllik tezliklə əlçatan olacaq. Bizimlə qalın!</string>
+    <string name="gallery_common">Sancıldı</string>
+    <string name="gallery_common_toast_tips">"Daha çox element sancıla bilmir"</string>
 	<string name="gallery_dmphprof_success">Dump hprof success</string>
     <string name="gallery_pinned">Sancıldı</string>
     <string name="gallery_pinned_toast_tips">"Daha çox element sancıla bilmir"</string>
+    <string name="gallery_remove_common">Sancağı götür</string>
     <string name="gallery_remove_pinned">Sancağı götür</string>
     <string name="gallery_setting">Ayarlar</string>
     <string name="gallery_sync_disable_toast">Sinxronlaşdırma Qalereya üçün bağlıdır</string>
@@ -1190,18 +1210,21 @@ mövcuddur"</string>
     <string name="home_menu_video_post">Video effektləri</string>
     <string name="home_page_all_photos">Hamısı</string>
     <string name="home_page_camera">Kamera</string>
+    <string name="home_page_checkbox">İşarələmə qutusu</string>
     <string name="home_page_custom">Özəl</string>
     <string name="home_page_custom_drag_description_album">\"Albomlar\"ı yenidən düzmək üçün cüt toxunub basılı saxlayın, sonra sürükləyin.</string>
     <string name="home_page_custom_drag_description_creation">\"Yaradıcılıq\"ı yenidən düzmək üçün cüt toxunub basılı saxlayın, sonra sürükləyin.</string>
     <string name="home_page_custom_drag_description_journey">\"Səyahətlər\"i yenidən düzmək üçün cüt toxunub basılı saxlayın, sonra sürükləyin.</string>
     <string name="home_page_custom_drag_description_more">\"Daha çox\"u yenidən düzmək üçün cüt toxunub basılı saxlayın, sonra sürükləyin.</string>
     <string name="home_page_custom_drag_description_people">\"İnsanlar\"ı yenidən düzmək üçün cüt toxunub basılı saxlayın, sonra sürükləyin.</string>
+    <string name="home_page_custom_drag_description_sticky">\"Sancılmışlar\"ı yenidən düzmək üçün cüt toxunub basılı saxlayın, sonra sürükləyin.</string>
     <string name="home_page_custom_drag_description_time">\"Xatirələr\"i yenidən düzmək üçün cüt toxunub basılı saxlayın, sonra sürükləyin.</string>
     <string name="home_page_custom_drag_item_talkback_album">Seçildi: Albomlar. Yenidən düzmək üçün basılı tutun, yuxarı və ya aşağı sürükləyin.</string>
     <string name="home_page_custom_drag_item_talkback_creation">Seçildi: Yaradıcılıq. Yenidən düzmək üçün basılı tutun, yuxarı və ya aşağı sürükləyin.</string>
     <string name="home_page_custom_drag_item_talkback_journey">Seçildi: Səyahətlər. Yenidən düzmək üçün basılı tutun, yuxarı və ya aşağı sürükləyin.</string>
     <string name="home_page_custom_drag_item_talkback_more">Seçildi: Daha çox. Yenidən düzmək üçün basılı tutun, yuxarı və ya aşağı sürükləyin.</string>
     <string name="home_page_custom_drag_item_talkback_people">Seçildi: İnsanlar. Yenidən düzmək üçün basılı tutun, yuxarı və ya aşağı sürükləyin.</string>
+    <string name="home_page_custom_drag_item_talkback_sticky">Seçildi: Sancılmışlar. Yenidən düzmək üçün basılı tutun, yuxarı və ya aşağı sürükləyin.</string>
     <string name="home_page_custom_drag_item_talkback_time">Seçildi: Xatirələr. Yenidən düzmək üçün basılı tutun, yuxarı və ya aşağı sürükləyin.</string>
     <string name="home_page_custom_save">Dəyişiklikləri saxla</string>
     <string name="home_page_custom_second">Elementləri yenidən düz və ya məzmunu gizlət</string>
@@ -1218,6 +1241,7 @@ mövcuddur"</string>
     <string name="homepage_allphotos_tip_dialog_description_only_camera">Kamera ilə çəkilib</string>
     <string name="homepage_allphotos_tip_dialog_subtitle">Bunu daha sonra Ayarlarda da edə bilərsiniz</string>
     <string name="homepage_allphotos_tip_dialog_title">\"Fotolar\"da hansı təsvirləri görmək istərdiniz?</string>
+    <string name="honor_phone">Honor telefonu</string>
     <string name="how_to_set_relation">Qrup yaratmaq üçün albomu basılı tutun</string>
     <string name="hr_preview_108m">108MP önizləməsinə keçildi</string>
     <string name="hr_preview_200m">200MP önizləməsinə keçildi</string>
@@ -1667,6 +1691,7 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="operation_export_video">Video olaraq xaricə köçür</string>
     <string name="operation_failed">"Əməliyyat tamamlana bilmədi"</string>
     <string name="operation_favorites">Sevimlilər</string>
+    <string name="operation_force_common">Sanc</string>
     <string name="operation_force_top">Sanc</string>
     <string name="operation_hide">Gizlət</string>
     <string name="operation_hide_time">Tarixləri gizlət</string>
@@ -1720,6 +1745,8 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="other_album_operation_move_to_rubbish_albums">Lazımsız albomlara daşı</string>
     <string name="other_album_operation_remove_from_other_albums">\"Digər albomlar\"dan sil</string>
     <string name="other_settings">Əlavə ayarlar</string>
+    <string name="other_three_group_name">%1$s、%2$sand%3$s</string>
+    <string name="other_two_group_name">%1$s、digər %2$sand%3$s nəfər</string>
     <string name="owner_album_subtitle">%1$s nəfərlə paylaşıldı</string>
 	<string name="pasport_register_dialog_message">%s telefon nömrənizlə bir Xiaomi Hesabı indi yaradılsın?</string>
     <string name="passport_access_denied">Erişim rədd edildi</string>
@@ -1946,6 +1973,7 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="photo_page_rotate_screen">Ekranı döndər</string>
     <string name="photo_page_save_uri_image_fail">"Qalereyada saxlanıla bilmədi"</string>
     <string name="photo_page_save_uri_image_ok">Foto Qalareyada saxlanıldı</string>
+    <string name="photo_page_save_uri_image_success">Bu təsvir Qalereyada saxlanıldı.</string>
     <string name="photo_print_menu_loading">Qoşma yüklənir…</string>
     <string name="photo_print_package_finish">Çap qoşması uğurla yükləndi</string>
     <string name="photo_print_package_installing">Çap qoşması yüklənir…</string>
@@ -2021,12 +2049,17 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="picker_title_specify_format_one">%d foto seçin</string>
     <string name="picker_title_unlimit">Foto seçin</string>
     <string name="picture_not_support_privacy_watermark">"Filiqran əlavə edilə bilmir. Bu təsvir çox kiçikdir."</string>
+    <string name="pinned_introduction_content">\"Sancılmışlar\" ilkin olaraq bütün fotoları, kamera çəkilişlərini və ekran şəkillərini ehtiva edir. Cəld erişim üçün digər albomları da əlavə edə bilərsiniz.</string>
+    <string name="pinned_introduction_negative_button">Anladım</string>
+    <string name="pinned_introduction_positive_button">Bax</string>
+    <string name="pinned_introduction_title">Kolleksiyalarınızdakı sancılmış elementlər</string>
     <string name="places_album_empty_title">Fotolar yerə görə sıralana bilər</string>
     <string name="play_gif_desc">GIF-i oxut</string>
     <string name="play_video_desc">Videonu oxut</string>
     <string name="pm">GS</string>
     <string name="pref_today_of_year_summary">"İllər ərzində bu gündə çəkdiyiniz anları xatırlayın. Bu özəlliyi söndürsəniz, artıq yaradılmış xatirələr itməyəcək."</string>
     <string name="preference_copied">\"%1$s\" lövhəyə kopyalandı.</string>
+    <string name="prepare_contains_dolby_convert">Fayl hazırlanır (Dolby Vision çevirməsi daxildir)…</string>
     <string name="prepare_to_drop">Saxlanılır: %s</string>
     <string name="preparing_data">Bir saniyə…</string>
     <string name="print_log">Çap jurnalı</string>
@@ -3138,6 +3171,7 @@ Bu özəlliyi ilk dəfə istifadə etdikdə transkodlaşdırma bir qədər vaxt 
     <string name="talkback_screenshot_with_time">Ekran şəkli, %s</string>
     <string name="talkback_screenshot_with_time_and_location">Ekran şəkli, %1$s, %2$s</string>
     <string name="talkback_story_album_playicon">Bu yaddaşı oxut</string>
+    <string name="tap_share_tips_title">Elementləri paylaşmaq üçün hər iki cihazın arxasını bir-birinə toxundurun</string>
     <string name="text_recognition">Mətni tanı</string>
     <string name="text_segment">Foto kəsimi</string>
     <string name="thanksgiving_day">Şükran günü</string>

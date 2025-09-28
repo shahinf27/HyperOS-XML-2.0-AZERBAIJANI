@@ -247,10 +247,8 @@
     <string name="expand_button_title">Qabaqcıl</string>
     <string name="experience_new_feature_tips">"Beta versiyasına istifadəsi üzrə icazələrə müraciət etmək üçün Xiaomi Hesabınıza daxil olun. Müraciətiniz nəzərdən keçirildikdən sonra Beta versiyasını istifadə edə biləcəksiniz. Beta versiyası xətalar ehtiva edə bilər."</string>
     <string name="experience_new_features">Beta versiyası</string>
-    <string name="experiential_version_of_the_prompt_content">Skaner Beta-ya müraciət etmək üçün Xiaomi Hesabınıza daxil olun. İndi daxil olursunuz?</string>
+    <string name="experiential_version_of_the_prompt_content">\"Skaner Beta\"ya erişmək üçün Xiaomi Hesabınıza daxil olun. İndi daxil olursunuz?</string>
     <string name="express_no_empty">Əvvəlcə sifariş nömrəsini daxil edin</string>
-    <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
-    <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
     <string name="failed_to_get_xiaomi_account">"Daxil oluna bilmədi"</string>
     <string name="fax">Faks</string>
     <string name="feed_search_fail">Nəticə yoxdur, yenidən sınayın</string>
@@ -403,7 +401,6 @@
     <string name="miuix_appcompat_select_item">Elementləri seç</string>
 	<string name="miuix_appcompat_show_dialog_description">Açılan pəncərə</string>
     <string name="miuix_indexer_collect">Kolleksiyalar</string>
-    <string name="miuix_pairing_dialog_closable_icon_description">Bağla</string>
     <string name="miuix_progressbar_loading">Bir saniyə…</string>
 	<string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Təzələmək üçün aşağı çək</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Uğurla təzələndi</string>
@@ -518,7 +515,7 @@ Lütfən cihazı şəkildəki bucağa uyğun yerləşdirin və yenidən sınayı
     <string name="not_identification_form">"Cədvəl tanına bilmədi. Yenidən seçib təzədən başladın."</string>
     <string name="not_insert_contact">"Kontaktlara əlavə edilə bilmir"</string>
     <string name="not_network">"Şəbəkəyə bağlana bilmədi. Bir və ya iki dəqiqə gözləyib yenidən sınayın."</string>
-    <string name="not_permissions_hint">Bu özəlliyi istifadə edə bilmək üçün kameraya müraciətə icazə verin.</string>
+    <string name="not_permissions_hint">Bu özəlliyi istifadə edə bilmək üçün kameraya erişimə icazə verin.</string>
     <string name="not_permissions_title">İcazələr tələb olunur</string>
     <string name="not_recommend_access_web_url">Yenə də get</string>
     <string name="not_set">Ayarlanmadı</string>
@@ -673,7 +670,6 @@ Lütfən cihazı şəkildəki bucağa uyğun yerləşdirin və yenidən sınayı
     <string name="request_server_failed">"Serverə bağlana bilmədi"</string>
     <string name="required_permissions">android.permission.x;</string>
     <string name="result_of_identifying_text_is_empty">"Mətn tanına bilmədi"</string>
-    <string name="revert">Geri götür</string>
     <string name="saturday">Şənbə</string>
     <string name="saturday_short">Şәn</string>
     <string name="saturday_shortest">Şәn</string>
@@ -794,6 +790,7 @@ Lütfən cihazı şəkildəki bucağa uyğun yerləşdirin və yenidən sınayı
 	<string name="text_general_guide_btn_tips">Anladım</string>
     <string name="text_general_guide_tips_first">Obyektləri skan et və tanı</string>
     <string name="text_general_guide_tips_second">Kodları skan et, bitkiləri tanı və oxşar məhsulları tap</string>
+    <string name="text_input_layout_default_error">Bu, ilkin xətadır</string>
     <string name="text_ipc_record_number">京ICP备10046444号-90A ></string>
     <string name="text_price">Qiymət</string>
     <string name="text_to_be_translated_cannot_be_empty">Skaner mətni tərcümə etməlidir</string>

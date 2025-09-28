@@ -74,6 +74,7 @@ Yeniləməyinizə kömək etməyimizi istəyirsiniz?"</item>
         <item quantity="other">%d dəq əvvəl</item>
     </plurals>
     <plurals name="added_to_playlist">
+        <item quantity="one">%d mahnı pleylistə əlavə edildi</item>
         <item quantity="other">%d mahnı pleylistə əlavə edildi</item>
     </plurals>
     <plurals name="asm_download_batch_action_start_download">
@@ -176,6 +177,10 @@ Qeyd: Fayl bu cihazdan da silinəcək."</item>
     <plurals name="hide_reason_duration">
         <item quantity="one">%1$d saniyədən az</item>
         <item quantity="other">%1$d saniyədən az</item>
+    </plurals>
+    <plurals name="iframe_playlist">
+        <item quantity="one">Pleylist (%d mahnı)</item>
+        <item quantity="other">Pleylist (%d mahnı)</item>
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">1 saat ərzində</item>

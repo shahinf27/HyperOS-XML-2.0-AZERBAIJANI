@@ -19,30 +19,30 @@
         <item quantity="other">Dərhal</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">%d dəq ərzində</item>
         <item quantity="one">%d dəq ərzində</item>
+        <item quantity="other">%d dəq ərzində</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">İndicə</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d dəq əvvəl</item>
         <item quantity="one">%d dəq əvvəl</item>
+        <item quantity="other">%d dəq əvvəl</item>
     </plurals>
     <plurals name="file_received_successfully">
-        <item quantity="other">%1$s şəxsindən %2$d fayl uğurla alındı</item>
         <item quantity="one">%1$s şəxsindən %2$d fayl uğurla alındı</item>
+        <item quantity="other">%1$s şəxsindən %2$d fayl uğurla alındı</item>
     </plurals>
     <plurals name="file_type_detail_count">
-        <item quantity="other">%1$d fayl</item>
         <item quantity="one">%1$d fayl</item>
+        <item quantity="other">%1$d fayl</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Yarım saat əvvəl</item>
     </plurals>
     <plurals name="image_received_successfully">
-        <item quantity="other">%1$s şəxsindən %2$d şəkil uğurla alındı</item>
         <item quantity="one">%1$s şəxsindən %2$d şəkil uğurla alındı</item>
+        <item quantity="other">%1$s şəxsindən %2$d şəkil uğurla alındı</item>
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">1 saat ərzində</item>
@@ -54,23 +54,23 @@
         <item quantity="other">Dərhal</item>
     </plurals>
     <plurals name="in_num_minutes">
-        <item quantity="other">%d dəqiqə ərzində</item>
         <item quantity="one">1 dəqiqə ərzində</item>
+        <item quantity="other">%d dəqiqə ərzində</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">İndicə</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
-        <item quantity="other">%d element seçildi</item>
         <item quantity="one">%d element seçildi</item>
+        <item quantity="other">%d element seçildi</item>
     </plurals>
 	<plurals name="miuix_indexer_selected">
-        <item quantity="other">%1$d element seçildi</item>
         <item quantity="one">%1$d element seçildi</item>
+        <item quantity="other">%1$d element seçildi</item>
     </plurals>
     <plurals name="num_minutes_ago">
-        <item quantity="other">%d dəqiqə əvvəl</item>
         <item quantity="one">1 dəqiqə əvvəl</item>
+        <item quantity="other">%d dəqiqə əvvəl</item>
     </plurals>
     <plurals name="onehop_receive_describe_file">
         <item quantity="one">%1$d fayl al</item>
@@ -137,275 +137,335 @@
         <item quantity="other">%1$d video göndərilir…</item>
     </plurals>
     <plurals name="send_apk_dialog_desc">
-        <item quantity="other">%1$s şəxsindən %2$d quraşdırma paketi (%3$s)</item>
         <item quantity="one">%1$s şəxsindən %2$d quraşdırma paketi (%3$s)</item>
+        <item quantity="other">%1$s şəxsindən %2$d quraşdırma paketi (%3$s)</item>
     </plurals>
     <plurals name="send_apk_dialog_desc_received">
-        <item quantity="other">%1$s şəxsindən %2$d quraşdırma paketi (%3$s) alındı</item>
         <item quantity="one">%1$s şəxsindən %2$d quraşdırma paketi (%3$s) alındı</item>
+        <item quantity="other">%1$s şəxsindən %2$d quraşdırma paketi (%3$s) alındı</item>
     </plurals>
     <plurals name="send_apk_dialog_desc_receiving">
-        <item quantity="other">%1$s şəxsindən %2$d quraşdırma paketi (%3$s) alınır…</item>
         <item quantity="one">%1$s şəxsindən %2$d quraşdırma paketi (%3$s) alınır…</item>
+        <item quantity="other">%1$s şəxsindən %2$d quraşdırma paketi (%3$s) alınır…</item>
     </plurals>
     <plurals name="send_audio_dialog_desc">
-        <item quantity="other">%1$s şəxsindən %2$d səs faylı (%3$s)</item>
         <item quantity="one">%1$s şəxsindən %2$d səs faylı (%3$s)</item>
+        <item quantity="other">%1$s şəxsindən %2$d səs faylı (%3$s)</item>
     </plurals>
     <plurals name="send_audio_dialog_desc_received">
-        <item quantity="other">%1$s şəxsindən %2$d səs faylı (%3$s) alındı</item>
         <item quantity="one">%1$s şəxsindən %2$d səs faylı (%3$s) alındı</item>
+        <item quantity="other">%1$s şəxsindən %2$d səs faylı (%3$s) alındı</item>
     </plurals>
     <plurals name="send_audio_dialog_desc_receiving">
-        <item quantity="other">%1$s şəxsindən %2$d səs faylı (%3$s) alınır…</item>
         <item quantity="one">%1$s şəxsindən %2$d səs faylı (%3$s) alınır…</item>
+        <item quantity="other">%1$s şəxsindən %2$d səs faylı (%3$s) alınır…</item>
     </plurals>
     <plurals name="send_file_dialog_desc">
-        <item quantity="other">%1$s şəxsindən %2$d %3$s faylı (%4$s)</item>
         <item quantity="one">%1$s şəxsindən %2$d %3$s faylı (%4$s)</item>
+        <item quantity="other">%1$s şəxsindən %2$d %3$s faylı (%4$s)</item>
     </plurals>
     <plurals name="send_file_dialog_desc_received">
-        <item quantity="other">%1$s şəxsindən %2$d %3$s faylı (%4$s) alındı</item>
         <item quantity="one">%1$s şəxsindən %2$d %3$s faylı (%4$s) alındı</item>
+        <item quantity="other">%1$s şəxsindən %2$d %3$s faylı (%4$s) alındı</item>
     </plurals>
     <plurals name="send_file_dialog_desc_receiving">
-        <item quantity="other">%1$s şəxsindən %2$d %3$s faylı (%4$s) alınır…</item>
         <item quantity="one">%1$s şəxsindən %2$d %3$s faylı (%4$s) alınır…</item>
+        <item quantity="other">%1$s şəxsindən %2$d %3$s faylı (%4$s) alınır…</item>
     </plurals>
     <plurals name="send_file_success_detail_files">
-        <item quantity="other">%1$s fayl uğurla göndərildi</item>
         <item quantity="one">%1$s fayl uğurla göndərildi</item>
+        <item quantity="other">%1$s fayl uğurla göndərildi</item>
     </plurals>
     <plurals name="send_file_success_detail_files_content">
-        <item quantity="other">%1$d fayl %2$s ünvanına köçürüldü</item>
         <item quantity="one">%1$d fayl %2$s ünvanına köçürüldü</item>
+        <item quantity="other">%1$d fayl %2$s ünvanına köçürüldü</item>
     </plurals>
     <plurals name="send_file_success_detail_images">
-        <item quantity="other">%1$s şəkil uğurla göndərildi</item>
         <item quantity="one">%1$s şəkil uğurla göndərildi</item>
+        <item quantity="other">%1$s şəkil uğurla göndərildi</item>
     </plurals>
     <plurals name="send_file_success_detail_images_content">
-        <item quantity="other">%1$d şəkil bura köçürüldü: %2$s</item>
         <item quantity="one">%1$d şəkil bura köçürüldü: %2$s</item>
+        <item quantity="other">%1$d şəkil bura köçürüldü: %2$s</item>
     </plurals>
 	<plurals name="send_file_success_detail_live_photos_content">
-        <item quantity="other">%1$d Canlı foto bura göndərildi: %2$s</item>
         <item quantity="one">%1$d Canlı foto bura göndərildi: %2$s</item>
+        <item quantity="other">%1$d Canlı foto bura göndərildi: %2$s</item>
     </plurals>
     <plurals name="send_files_to_device_files">
-        <item quantity="other">%2$d fayl bura göndərilməyə hazırlanır: %1$s…</item>
         <item quantity="one">%2$d fayl bura göndərilməyə hazırlanır: %1$s…</item>
+        <item quantity="other">%2$d fayl bura göndərilməyə hazırlanır: %1$s…</item>
     </plurals>
     <plurals name="send_files_to_device_images">
-        <item quantity="other">%2$d şəkil bura göndərilməyə hazırlanır: %1$s…</item>
         <item quantity="one">%2$d şəkil bura göndərilməyə hazırlanır: %1$s…</item>
+        <item quantity="other">%2$d şəkil bura göndərilməyə hazırlanır: %1$s…</item>
     </plurals>
 	<plurals name="send_files_to_device_live_photos">
-        <item quantity="other">%2$d Canlı foto bura göndərilməyə hazırlanır: %1$s…</item>
         <item quantity="one">%2$d Canlı foto bura göndərilməyə hazırlanır: %1$s…</item>
+        <item quantity="other">%2$d Canlı foto bura göndərilməyə hazırlanır: %1$s…</item>
     </plurals>
     <plurals name="send_image_dialog_desc">
-        <item quantity="other">%1$s şəxsindən %2$d şəkil</item>
         <item quantity="one">%1$s şəxsindən %2$d şəkil</item>
+        <item quantity="other">%1$s şəxsindən %2$d şəkil</item>
     </plurals>
     <plurals name="send_image_dialog_desc_received">
-        <item quantity="other">%1$s şəxsindən %2$d şəkil alındı</item>
         <item quantity="one">%1$s şəxsindən %2$d şəkil alındı</item>
+        <item quantity="other">%1$s şəxsindən %2$d şəkil alındı</item>
     </plurals>
     <plurals name="send_image_dialog_desc_receiving">
-        <item quantity="other">%1$s şəxsindən %2$d şəkil alınır…</item>
         <item quantity="one">%1$s şəxsindən %2$d şəkil alınır…</item>
+        <item quantity="other">%1$s şəxsindən %2$d şəkil alınır…</item>
     </plurals>
     <plurals name="send_image_video_dialog_desc">
-        <item quantity="other">%1$s şəxsindən %2$d şəkil və ya video</item>
         <item quantity="one">%1$s şəxsindən %2$d şəkil və ya video</item>
+        <item quantity="other">%1$s şəxsindən %2$d şəkil və ya video</item>
     </plurals>
     <plurals name="send_image_video_dialog_desc_received">
-        <item quantity="other">%1$s şəxsindən %2$d şəkil və ya video alındı</item>
         <item quantity="one">%1$s şəxsindən %2$d şəkil və ya video alındı</item>
+        <item quantity="other">%1$s şəxsindən %2$d şəkil və ya video alındı</item>
     </plurals>
     <plurals name="send_image_video_dialog_desc_receiving">
-        <item quantity="other">%1$s şəxsindən %2$d şəkil və ya video alınır…</item>
         <item quantity="one">%1$s şəxsindən %2$d şəkil və ya video alınır…</item>
+        <item quantity="other">%1$s şəxsindən %2$d şəkil və ya video alınır…</item>
     </plurals>
 	<plurals name="send_live_photo_dialog_desc">
-        <item quantity="other">%1$s, sizə %2$d Canlı foto göndərdi</item>
         <item quantity="one">%1$s, sizə %2$d Canlı foto göndərdi</item>
+        <item quantity="other">%1$s, sizə %2$d Canlı foto göndərdi</item>
     </plurals>
     <plurals name="send_live_photo_dialog_desc_received">
-        <item quantity="other">Buradan %2$d Canlı foto alındı: %1$s</item>
         <item quantity="one">Buradan %2$d Canlı foto alındı: %1$s</item>
+        <item quantity="other">Buradan %2$d Canlı foto alındı: %1$s</item>
     </plurals>
     <plurals name="send_live_photo_dialog_desc_receiving">
-        <item quantity="other">Buradan %2$d Canlı foto alınır: %1$s</item>
         <item quantity="one">Buradan %2$d Canlı foto alınır: %1$s</item>
+        <item quantity="other">Buradan %2$d Canlı foto alınır: %1$s</item>
     </plurals>
     <plurals name="send_more_type_file_dialog_desc">
-        <item quantity="other">%1$s şəxsindən %2$d fayl</item>
         <item quantity="one">%1$s şəxsindən %2$d fayl</item>
+        <item quantity="other">%1$s şəxsindən %2$d fayl</item>
     </plurals>
     <plurals name="send_more_type_file_dialog_desc_received">
-        <item quantity="other">%1$s şəxsindən %2$d fayl alındı</item>
         <item quantity="one">%1$s şəxsindən %2$d fayl alındı</item>
+        <item quantity="other">%1$s şəxsindən %2$d fayl alındı</item>
     </plurals>
     <plurals name="send_more_type_file_dialog_desc_receiving">
-        <item quantity="other">%1$s şəxsindən %2$d fayl alınır…</item>
         <item quantity="one">%1$s şəxsindən %2$d fayl alınır…</item>
+        <item quantity="other">%1$s şəxsindən %2$d fayl alınır…</item>
     </plurals>
     <plurals name="send_video_dialog_desc">
-        <item quantity="other">%1$s şəxsindən %2$d video</item>
         <item quantity="one">%1$s şəxsindən %2$d video</item>
+        <item quantity="other">%1$s şəxsindən %2$d video</item>
     </plurals>
     <plurals name="send_video_dialog_desc_received">
-        <item quantity="other">%1$s şəxsindən %2$d video alındı</item>
         <item quantity="one">%1$s şəxsindən %2$d video alındı</item>
+        <item quantity="other">%1$s şəxsindən %2$d video alındı</item>
     </plurals>
     <plurals name="send_video_dialog_desc_receiving">
-        <item quantity="other">%1$s şəxsindən %2$d video alınır…</item>
         <item quantity="one">%1$s şəxsindən %2$d video alınır…</item>
+        <item quantity="other">%1$s şəxsindən %2$d video alınır…</item>
     </plurals>
     <plurals name="send_zip_dialog_desc">
-        <item quantity="other">%1$s şəxsindən %2$d arxiv (%3$s)</item>
         <item quantity="one">%1$s şəxsindən %2$d arxiv (%3$s)</item>
+        <item quantity="other">%1$s şəxsindən %2$d arxiv (%3$s)</item>
     </plurals>
     <plurals name="send_zip_dialog_desc_received">
-        <item quantity="other">%1$s şəxsindən %2$d arxiv (%3$s) alındı</item>
         <item quantity="one">%1$s şəxsindən %2$d arxiv (%3$s) alındı</item>
+        <item quantity="other">%1$s şəxsindən %2$d arxiv (%3$s) alındı</item>
     </plurals>
     <plurals name="send_zip_dialog_desc_receiving">
-        <item quantity="other">%1$s şəxsindən %2$d arxiv (%3$s) alınır…</item>
         <item quantity="one">%1$s şəxsindən %2$d arxiv (%3$s) alınır…</item>
+        <item quantity="other">%1$s şəxsindən %2$d arxiv (%3$s) alınır…</item>
     </plurals>
 	<plurals name="share_notification_receive_confirm_title_file">
-        <item quantity="other">%1$d fayl alındı</item>
         <item quantity="one">%1$d fayl alındı</item>
+        <item quantity="other">%1$d fayl alındı</item>
     </plurals>
     <plurals name="share_notification_receive_confirm_title_image">
-        <item quantity="other">%1$d foto alındı</item>
         <item quantity="one">%1$d foto alındı</item>
+        <item quantity="other">%1$d foto alındı</item>
     </plurals>
 	<plurals name="share_notification_receive_confirm_title_live_photo">
-        <item quantity="other">%1$d Canlı fotonu al</item>
         <item quantity="one">%1$d Canlı fotonu al</item>
+        <item quantity="other">%1$d Canlı fotonu al</item>
     </plurals>
     <plurals name="share_notification_receive_confirm_title_video">
-        <item quantity="other">%1$d video alındı</item>
         <item quantity="one">%1$d video alındı</item>
+        <item quantity="other">%1$d video alındı</item>
     </plurals>
     <plurals name="share_notification_receiving_title_file">
-        <item quantity="other">%1$d fayl alınır</item>
         <item quantity="one">%1$d fayl alınır</item>
+        <item quantity="other">%1$d fayl alınır</item>
     </plurals>
     <plurals name="share_notification_receiving_title_image">
-        <item quantity="other">%1$d foto alınır</item>
         <item quantity="one">%1$d foto alınır</item>
+        <item quantity="other">%1$d foto alınır</item>
     </plurals>
 	<plurals name="share_notification_receiving_title_live_photo">
-        <item quantity="other">%1$d Canlı foto alınır</item>
         <item quantity="one">%1$d Canlı foto alınır</item>
+        <item quantity="other">%1$d Canlı foto alınır</item>
     </plurals>
     <plurals name="share_notification_receiving_title_video">
-        <item quantity="other">%1$d video alınır</item>
         <item quantity="one">%1$d video alınır</item>
+        <item quantity="other">%1$d video alınır</item>
     </plurals>
     <plurals name="share_notification_sending_title_file">
-        <item quantity="other">%1$d fayl göndərilir</item>
         <item quantity="one">%1$d fayl göndərilir</item>
+        <item quantity="other">%1$d fayl göndərilir</item>
     </plurals>
     <plurals name="share_notification_sending_title_image">
-        <item quantity="other">%1$d foto göndərilir</item>
         <item quantity="one">%1$d foto göndərilir</item>
+        <item quantity="other">%1$d foto göndərilir</item>
     </plurals>
 	<plurals name="share_notification_sending_title_live_photo">
-        <item quantity="other">%1$d Canlı foto göndərilir</item>
         <item quantity="one">%1$d Canlı foto göndərilir</item>
+        <item quantity="other">%1$d Canlı foto göndərilir</item>
     </plurals>
     <plurals name="share_notification_sending_title_video">
-        <item quantity="other">%1$d video göndərilir</item>
         <item quantity="one">%1$d video göndərilir</item>
+        <item quantity="other">%1$d video göndərilir</item>
     </plurals>
     <plurals name="share_received_describe_for_aod_status_bar_file">
-        <item quantity="other">%1$d fayl alındı</item>
         <item quantity="one">%1$d fayl alındı</item>
+        <item quantity="other">%1$d fayl alındı</item>
     </plurals>
     <plurals name="share_received_describe_for_aod_status_bar_image">
-        <item quantity="other">%1$d foto alındı</item>
         <item quantity="one">%1$d foto alındı</item>
+        <item quantity="other">%1$d foto alındı</item>
     </plurals>
 	<plurals name="share_received_describe_for_aod_status_bar_live_photo">
-        <item quantity="other">%1$d Canlı foto alındı</item>
         <item quantity="one">%1$d Canlı foto alındı</item>
+        <item quantity="other">%1$d Canlı foto alındı</item>
     </plurals>
     <plurals name="share_received_describe_for_aod_status_bar_video">
-        <item quantity="other">%1$d video alındı</item>
         <item quantity="one">%1$d video alındı</item>
+        <item quantity="other">%1$d video alındı</item>
     </plurals>
     <plurals name="share_receiving_describe_file">
-        <item quantity="other">%1$d fayl</item>
         <item quantity="one">%1$d fayl</item>
+        <item quantity="other">%1$d fayl</item>
     </plurals>
     <plurals name="share_receiving_describe_image">
-        <item quantity="other">%1$d foto</item>
         <item quantity="one">%1$d foto</item>
+        <item quantity="other">%1$d foto</item>
     </plurals>
 	<plurals name="share_receiving_describe_live_photo">
-        <item quantity="other">%1$d Canlı foto</item>
         <item quantity="one">%1$d Canlı foto</item>
+        <item quantity="other">%1$d Canlı foto</item>
     </plurals>
     <plurals name="share_receiving_describe_video">
-        <item quantity="other">%1$d video</item>
         <item quantity="one">%1$d video</item>
+        <item quantity="other">%1$d video</item>
     </plurals>
     <plurals name="someone_send_file_to_you_files">
-        <item quantity="other">%1$s sizə %2$d fayl göndərir…</item>
         <item quantity="one">%1$s sizə %2$d fayl göndərir…</item>
+        <item quantity="other">%1$s sizə %2$d fayl göndərir…</item>
     </plurals>
     <plurals name="someone_send_file_to_you_images">
-        <item quantity="other">%1$s sizə %2$d şəkil göndərir…</item>
         <item quantity="one">%1$s sizə %2$d şəkil göndərir…</item>
+        <item quantity="other">%1$s sizə %2$d şəkil göndərir…</item>
     </plurals>
     <plurals name="someone_send_somefile_files">
-        <item quantity="other">%1$s sizə %2$d fayl göndərir…</item>
         <item quantity="one">%1$s sizə %2$d fayl göndərir…</item>
+        <item quantity="other">%1$s sizə %2$d fayl göndərir…</item>
     </plurals>
     <plurals name="someone_send_somefile_images">
-        <item quantity="other">%1$s sizə %2$d şəkil göndərir…</item>
         <item quantity="one">%1$s sizə %2$d şəkil göndərir…</item>
+        <item quantity="other">%1$s sizə %2$d şəkil göndərir…</item>
     </plurals>
     <plurals name="start_receive_files_files">
-        <item quantity="other">%1$s şəxsindən %2$d fayl alınır…</item>
         <item quantity="one">%1$s şəxsindən %2$d fayl alınır…</item>
+        <item quantity="other">%1$s şəxsindən %2$d fayl alınır…</item>
     </plurals>
     <plurals name="start_receive_files_images">
-        <item quantity="other">%1$s şəxsindən %2$d şəkil alınır…</item>
         <item quantity="one">%1$s şəxsindən %2$d şəkil alınır…</item>
+        <item quantity="other">%1$s şəxsindən %2$d şəkil alınır…</item>
     </plurals>
     <plurals name="start_send_files_to_device_files">
-        <item quantity="other">%2$d fayl %1$s cihazına göndərilir…</item>
         <item quantity="one">%2$d fayl %1$s cihazına göndərilir…</item>
+        <item quantity="other">%2$d fayl %1$s cihazına göndərilir…</item>
     </plurals>
     <plurals name="start_send_files_to_device_images">
-        <item quantity="other">%2$d şəkil %1$s cihazına göndərilir…</item>
         <item quantity="one">%2$d şəkil %1$s cihazına göndərilir…</item>
+        <item quantity="other">%2$d şəkil %1$s cihazına göndərilir…</item>
     </plurals>
 	<plurals name="start_send_files_to_device_live_photos">
-        <item quantity="other">%2$d Canlı foto bura göndərilir: %1$s…</item>
         <item quantity="one">%2$d Canlı foto bura göndərilir: %1$s…</item>
+        <item quantity="other">%2$d Canlı foto bura göndərilir: %1$s…</item>
     </plurals>
     <plurals name="success_receive_file_files">
-        <item quantity="other">%1$s cihazından %2$d fayl alındı. Baxmaq üçün toxunun.</item>
         <item quantity="one">%1$s cihazından %2$d fayl alındı. Baxmaq üçün toxunun.</item>
+        <item quantity="other">%1$s cihazından %2$d fayl alındı. Baxmaq üçün toxunun.</item>
     </plurals>
     <plurals name="success_receive_file_images">
-        <item quantity="other">%1$s cihazından %2$d şəkil alındı. Baxmaq üçün toxunun.</item>
         <item quantity="one">%1$s cihazından %2$d şəkil alındı. Baxmaq üçün toxunun.</item>
+        <item quantity="other">%1$s cihazından %2$d şəkil alındı. Baxmaq üçün toxunun.</item>
     </plurals>
     <plurals name="successfully_sent_files">
-        <item quantity="other">%2$d fayl %1$s şəxsinə uğurla göndərildi</item>
         <item quantity="one">%2$d fayl %1$s şəxsinə uğurla göndərildi</item>
+        <item quantity="other">%2$d fayl %1$s şəxsinə uğurla göndərildi</item>
     </plurals>
     <plurals name="successfully_sent_images">
-        <item quantity="other">%2$d şəkil %1$s şəxsinə uğurla göndərildi</item>
         <item quantity="one">%2$d şəkil %1$s şəxsinə uğurla göndərildi</item>
+        <item quantity="other">%2$d şəkil %1$s şəxsinə uğurla göndərildi</item>
+    </plurals>
+    <plurals name="tapshare_activity_send_describe_contact">
+        <item quantity="one">%1$d kontakt</item>
+        <item quantity="other">%1$d kontakt</item>
+    </plurals>
+    <plurals name="tapshare_describe_contact">
+        <item quantity="one">%1$d kontakt</item>
+        <item quantity="other">%1$d kontakt</item>
+    </plurals>
+    <plurals name="tapshare_describe_link">
+        <item quantity="one">%1$d keçid</item>
+        <item quantity="other">%1$d keçid</item>
+    </plurals>
+    <plurals name="tapshare_receive_describe_contact">
+        <item quantity="one">%1$d kontaktı al</item>
+        <item quantity="other">%1$d kontaktı al</item>
+    </plurals>
+    <plurals name="tapshare_receive_describe_link">
+        <item quantity="one">%1$d keçidi al</item>
+        <item quantity="other">%1$d keçidi al</item>
+    </plurals>
+    <plurals name="tapshare_receiving_describe_contact">
+        <item quantity="one">%1$d kontakt alınır</item>
+        <item quantity="other">%1$d kontakt alınır</item>
+    </plurals>
+    <plurals name="tapshare_receiving_describe_link">
+        <item quantity="one">%1$d keçid alınır</item>
+        <item quantity="other">%1$d keçid alınır</item>
+    </plurals>
+    <plurals name="tapshare_send_describe_contact">
+        <item quantity="one">%1$d kontaktı göndər</item>
+        <item quantity="other">%1$d kontaktı göndər</item>
+    </plurals>
+    <plurals name="tapshare_send_describe_file">
+        <item quantity="one">%1$d faylı göndər</item>
+        <item quantity="other">%1$d faylı göndər</item>
+    </plurals>
+    <plurals name="tapshare_send_describe_image">
+        <item quantity="one">%1$d fotonu göndər</item>
+        <item quantity="other">%1$d fotonu göndər</item>
+    </plurals>
+    <plurals name="tapshare_send_describe_link">
+        <item quantity="one">%1$d keçidi göndər</item>
+        <item quantity="other">%1$d keçidi göndər</item>
+    </plurals>
+    <plurals name="tapshare_send_describe_live_image">
+        <item quantity="one">%1$d dinamik çəkilişi göndər</item>
+        <item quantity="other">%1$d dinamik çəkilişi göndər</item>
+    </plurals>
+    <plurals name="tapshare_send_describe_video">
+        <item quantity="one">%1$d videonu göndər</item>
+        <item quantity="other">%1$d videonu göndər</item>
+    </plurals>
+    <plurals name="tapshare_sending_describe_contact">
+        <item quantity="one">%1$d kontakt göndərilir</item>
+        <item quantity="other">%1$d kontakt göndərilir</item>
+    </plurals>
+    <plurals name="tapshare_sending_describe_link">
+        <item quantity="one">%1$d keçid göndərilir</item>
+        <item quantity="other">%1$d keçid göndərilir</item>
     </plurals>
 </resources>

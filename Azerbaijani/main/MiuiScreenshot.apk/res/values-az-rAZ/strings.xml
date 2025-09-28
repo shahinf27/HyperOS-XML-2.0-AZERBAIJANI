@@ -63,7 +63,7 @@
     <string name="cta_agree_desc">Bu tətbiqin internetə bağlanmağına icazə verin və yuxarıda sadalanan məcburi icazələri verin.</string>
     <string name="cta_btn_agree">Razıyam</string>
     <string name="cta_btn_disagree">"Razı deyiləm"</string>
-    <string name="cta_main_purpose"><string name="cta_main_purpose">\"Ekran şəkli Redaktoru\"na xoş gəlmisiniz! Ekran şəkillərinizi qayçılamaq və onlara düzəliş etmək üçün bu tətbiqi istifadə edə bilərsiniz. Bu tətbiqin, lazımi xidmətləri təmin edə bilməsi üçün internetə bağlanmasına və cihazınızdakı səs və video fayllarına müraciət etməsinə ehtiyacı var.</string></string>
+    <string name="cta_main_purpose"><string name="cta_main_purpose">\"Ekran şəkli Redaktoru\"na xoş gəlmisiniz! Ekran şəkillərinizi qayçılamaq və onlara düzəliş etmək üçün bu tətbiqi istifadə edə bilərsiniz. Bu tətbiqin, lazımi xidmətləri təmin edə bilməsi üçün internetə bağlanmasına və cihazınızdakı səs və video fayllarına erişməsinə ehtiyacı var.</string></string>
     <string name="custom_define_permission_desc_android.permission_group.STORAGE">Ekran şəkillərini saxlamaq üçün</string>
     <string name="date_picker_label_day"></string>
     <string name="date_picker_label_month"></string>
@@ -310,6 +310,7 @@
     <string name="privacy_mosaic_tip">Şəxsi məlumatları əngəlləmək üçün toxunun</string>
     <string name="privacy_mosaic_tip_long">"Sürüşən ekran şəkilləri dəstəklənmir"</string>
     <string name="privacy_mosaic_tip_partial">"Qismən ekran şəkilləri dəstəklənmir"</string>
+    <string name="prohibited_types_enterprise_model">"Müəssisə rejimində ekran şəkilləri dəstəklənmir"</string>
     <string name="remover_menu_processing">Emal olunur</string>
     <string name="saturday">Şənbə</string>
     <string name="saturday_short">Şәn</string>
@@ -523,7 +524,7 @@
     <string name="thursday_shortest">C.a.</string>
     <string name="time_picker_dialog_title">Vaxtı ayarla</string>
     <string name="toast_download_with_metered_network_btn_continue">Endir</string>
-    <string name="toast_download_with_metered_network_msg">"Deyəsən, cihazınız Wi-Fi-ya bağlanmayıb. Elementlər mobil internet istifadə edərək endirilsin?"</string>
+    <string name="toast_download_with_metered_network_msg">"Deyəsən, cihazınız Wi-Fi-ya bağlanmayıb. Elementlər mobil veri istifadə edərək endirilsin?"</string>
     <string name="toast_download_with_metered_network_title">İnternet istifadə xəbərdarlığı</string>
     <string name="today">Bu gün</string>
     <string name="tomorrow">Sabah</string>
