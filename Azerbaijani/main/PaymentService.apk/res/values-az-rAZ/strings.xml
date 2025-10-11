@@ -2,7 +2,6 @@
 <resources>
     <string name="abc_action_bar_home_description">Əsas ekrana keç</string>
     <string name="abc_action_bar_up_description">Yuxarı keç</string>
-    <string name="abc_action_menu_overflow_description">Daha çox seçim</string>
     <string name="abc_action_mode_done">Hazırdır</string>
     <string name="abc_activity_chooser_view_see_all">Hamısına bax</string>
     <string name="abc_activitychooserview_choose_application">Bir tətbiq seçin</string>
@@ -10,7 +9,6 @@
     <string name="abc_capital_on">AÇIQ</string>
     <string name="abc_search_hint">Axtar…</string>
     <string name="abc_searchview_description_clear">Sorğunu təmizlə</string>
-    <string name="abc_searchview_description_query">Axtarış sorğusu</string>
     <string name="abc_searchview_description_search">Axtar</string>
     <string name="abc_searchview_description_submit">Sorğu göndər</string>
     <string name="abc_searchview_description_voice">Səsli axtarış</string>
@@ -21,7 +19,6 @@
     <string name="afternoon">Günortadan sonra</string>
     <string name="am">GƏ</string>
     <string name="clearable_edittext_clear_description">Təmizlə</string>
-    <string name="close">Bağla</string>
     <string name="date_picker_label_day"></string>
     <string name="date_picker_label_month"></string>
     <string name="date_picker_label_year"></string>
@@ -431,6 +428,7 @@ Müştəri xidmətləri mmərkəzi：400-100-3399"</string>
     <string name="night">Axşam</string>
     <string name="no_network">"Şəbəkəyə bağlana bilmir"</string>
     <string name="noon">Günorta</string>
+    <string name="pasport_register_dialog_message">İndi %s telefon nömrəniz vasitəsilə bir Xiaomi Hesabı yaradılsın?</string>
     <string name="passport_access_denied">Müraciət rədd edildi</string>
     <string name="passport_account_crop_user_avatar">Fotonu qayçıla</string>
     <string name="passport_account_empty_user_name">Adınızı daxil edin</string>
@@ -447,7 +445,7 @@ Müştəri xidmətləri mmərkəzi：400-100-3399"</string>
     <string name="passport_account_secure_info_pref_title">Hesab məlumatları</string>
     <string name="passport_account_security_info_pref_title">Güvənlik məlumatları</string>
     <string name="passport_account_user_avatar">Profil fotosu</string>
-    <string name="passport_account_user_avatar_from_album">Qalereya</string>
+    <string name="passport_account_user_avatar_from_album">Qalereyadan seç</string>
     <string name="passport_account_user_avatar_from_camera">Kamera</string>
     <string name="passport_account_user_base_info">Təməl məlumatlar</string>
     <string name="passport_account_user_details">Şəxsi məlumatlar</string>
@@ -525,7 +523,6 @@ Müştəri xidmətləri mmərkəzi：400-100-3399"</string>
     <string name="passport_login_register_by_local_phone_long_text">Hesab yarat</string>
     <string name="passport_login_with_sns">Digər daxil olma yolları</string>
     <string name="passport_logout_account">Çıxış et</string>
-    <string name="passport_mi_account_first_title">"Telefon nömrənizi ilk dəfə istifadə edirsinizsə, avtomatik olaraq hesab yaradacağıq."</string>
     <string name="passport_mi_account_title">Xiaomi Hesabı ilə daxil olun</string>
     <string name="passport_network_error">Bir şəbəkə xətası baş verdi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın.</string>
     <string name="passport_network_error_hint">URL-ni yoxlayıb yenidən sınayın və ya URL-ni kopyalayıb brauzerinizdə açın.</string>
@@ -534,6 +531,7 @@ Müştəri xidmətləri mmərkəzi：400-100-3399"</string>
     <string name="passport_no_account">Daxil olunmadı</string>
     <string name="passport_open_settings">Ayarlar</string>
     <string name="passport_page_load_failed">"Səhifə açıla bilmir"</string>
+    <string name="passport_password_hide_show">Parolu gizlət</string>
     <string name="passport_password_login_btn">Daxil ol</string>
     <string name="passport_password_not_show">"Parol göstərilməsin"</string>
     <string name="passport_password_show">Parolu göstər</string>
@@ -545,6 +543,8 @@ Müştəri xidmətləri mmərkəzi：400-100-3399"</string>
     <string name="passport_reging">Hesab yaradılır…</string>
     <string name="passport_register_by_local_phone_long_text">Hesab yarat</string>
     <string name="passport_register_by_local_phone_short_text">Hesab yarat</string>
+    <string name="passport_register_dialog_positive">Yarat</string>
+    <string name="passport_register_dialog_title">Xiaomi Hesabı yarat</string>
     <string name="passport_register_restricted">Bu nömrə ilə həddən artıq hesab əlaqələndirilib. Fərqli bir nömrə ilə sınayın.</string>
     <string name="passport_relogin_notice">Yenidən daxil olmağınız lazımdır</string>
     <string name="passport_request_agree">İcazə ver</string>
@@ -553,7 +553,8 @@ Müştəri xidmətləri mmərkəzi：400-100-3399"</string>
     <string name="passport_request_error_invalid_token">"Doğrulana bilmədi"</string>
     <string name="passport_request_error_network">Bir şəbəkə xətası baş verdi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın.</string>
     <string name="passport_request_error_unknown">Sistem xətası baş verdi. Geri qayıdın və yenidən sınayın.</string>
-    <string name="passport_request_gallery_permission_message">Qalereyaya müraciətə icazə verin:&lt;br /&gt;Profil fotosunu ayarlamaq üçün</string>
+    <string name="passport_request_gallery_permission_message">Profil fotonuzu təyin edə bilməsi üçün bu tətbiqin seçilmiş Qalereya elementlərinə erişməsi lazımdır. İndi icazə verilsin?</string>
+    <string name="passport_request_permission_title">İcazələr tələb olunur</string>
     <string name="passport_resend_email_reach_limit_message">"Həddən artıq doğrulama e-poçtu tələb etdiniz. Doğrulama e-poçtunun gələn qutunuzun Spam qovluğunda olmadığına əmin olun."</string>
     <string name="passport_resend_email_reach_limit_title">Həddindən artıq cəhd</string>
     <string name="passport_resend_ticket">Kodu yenidən göndər</string>
@@ -572,6 +573,7 @@ Müştəri xidmətləri mmərkəzi：400-100-3399"</string>
     <string name="passport_talkback_switch_image_captcha">Şəkil doğrulama koduna keç</string>
     <string name="passport_talkback_switch_voice_captcha">Səsli doğrulama koduna keç</string>
     <string name="passport_talkback_voice_captcha">Səsli doğrulama kodunu oxut</string>
+    <string name="passport_third_sns_service_unavailable">"Xidmət mövcud deyil. Tətbiqin quraşdırıldığına və əngəllənmədiyinə əmin olun."</string>
     <string name="passport_ticket_send_by_second">%d sonra göndər</string>
     <string name="passport_to_forget_password">Parolu unutmusunuz?</string>
     <string name="passport_to_password_login">Parol istifadə edərək daxil ol</string>
@@ -687,8 +689,6 @@ Müştəri xidmətləri mmərkəzi：400-100-3399"</string>
     <string name="web_sso_login_message">Daxil olunur…</string>
     <string name="webview_reload">Yenidən sına</string>
     <string name="wechat_application_id"></string>
-    <string name="wechat_scope"></string>
-    <string name="wechat_state"></string>
     <string name="wednesday">Çərşənbə</string>
     <string name="wednesday_short">Çər</string>
     <string name="wednesday_shortest">Çər</string>

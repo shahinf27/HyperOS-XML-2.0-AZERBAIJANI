@@ -131,14 +131,19 @@
     <string name="ew_detail_earthquake_feel_none">Həssas deyil</string>
     <string name="ew_detail_earthquake_feel_normal">Orta</string>
     <string name="ew_detail_earthquake_feel_title">Təxmini intensivlik</string>
-    <string name="ew_detail_earthquake_level_title">Təxmini böyüklük</string>
+    <string name="ew_detail_earthquake_feel_title_new">Lokal intensivlik %d</string>
+    <string name="ew_detail_earthquake_level" />
+    <string name="ew_detail_earthquake_level_title">Təxmini maqnituda</string>
+    <string formatted="false" name="ew_detail_earthquake_times">Xəbərdarlıq %d (%s)</string>
+    <string name="ew_detail_receive_alert_cancel">Ləğv edildi</string>
     <string name="ew_detail_receive_alert_from">Chengdu Yüksək Texnologiyalı Fəlakətlərin Azaldılması İnstitutu tərəfindən təqdim edilən məlumatlar</string>
+    <string name="ew_detail_receive_alert_more">Keçmiş xəbərdarlıqlara bax</string>
     <string name="ew_detail_receive_distance_message2">%s km (Episentr sizdən çox uzaqdır. Zəlzələni hiss etmiyə bilərsiniz.)</string>
-    <string name="ew_detail_receive_distance_title">Episentrə qədər məsafə</string>
+    <string name="ew_detail_receive_distance_title">Episentrdən sizə qədər məsafə</string>
     <string name="ew_detail_receive_location_title">Yerləşmə</string>
     <string name="ew_detail_receive_time_title">Başlama vaxtı</string>
     <string name="ew_detail_receive_warn_time_message">%s san</string>
-    <string name="ew_detail_receive_warn_time_title">Başlanğıcdan əvvəlki vaxt</string>
+    <string name="ew_detail_receive_warn_time_title">Xəbərdarlıq vaxtı</string>
     <string name="ew_monitor_slogan">"Zəlzələ izləmə
 proqramımıza qoşulun"</string>
     <string name="ew_save_title">Saxla</string>

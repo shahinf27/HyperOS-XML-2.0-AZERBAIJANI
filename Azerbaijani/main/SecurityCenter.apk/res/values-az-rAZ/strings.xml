@@ -514,8 +514,8 @@ Heç bir tətbiq məlumatını iitirməyəcəksiniz."</string>
     <string name="app_manager_uninstall_notify_title">Nadir hallarda istifadə olunan tətbiqləri sil</string>
     <string name="app_manager_uninstall_protected_dlg_msg">Sistem tətbiqlərini silmək bəzi sistem komponentlərinin düzgün işləməsini önləyə bilər. Yenə də silinsin?</string>
     <string name="app_manager_uninstall_protected_dlg_title">Sistem tətbiqlərini silmə</string>
-    <string name="app_manager_uninstall_with_xspace_app_dlg_msg">Müvafiq ikili tətbiqlər, tətbiq veriləri ilə birgə silinəcək.</string>
-    <string name="app_manager_uninstall_xspace_app_dlg_msg">İkili tətbiqi silsəniz, bütün tətbiq məlumatları silinəcək.</string>
+    <string name="app_manager_uninstall_with_xspace_app_dlg_msg">Bununla birlikdə ikili tətbiq də silinəcək.</string>
+    <string name="app_manager_uninstall_xspace_app_dlg_msg">Müvafiq ikili tətbiqlər, tətbiq veriləri ilə birlikdə silinəcək.</string>
     <string name="app_manager_uninstall_xspace_app_dlg_title">İkili tətbiq silinsin?</string>
     <string name="app_manager_unstall_application">Sil</string>
     <string name="app_managere_not_have_app">Boş</string>
@@ -1132,6 +1132,7 @@ Yenə də, bəzi əməliyyatlarınız hələ tamamlanmayıb. Razılığı geri g
     <string name="bubble_notification">Danışıq qabarcıqları</string>
     <string name="bubble_notification_switch">Danışıq qabarcıqlarını göstər</string>
     <string name="bubble_notification_switch_desc">Üzən pəncərədəki mesajlaşma tətbiqi ekranın kənarında gizlədildikdə, gələn mesajları qabarcıqlarda göstər</string>
+    <string name="bubble_pickup_voice_print_auto">Səs izi yazılır…</string>
     <string name="business_have_hongbao">Buradan qırmızı zərf: %1$s</string>
     <string name="button_background_connection">İcazə ver</string>
     <string name="button_block_calls_from_cantacts">Əngəldən çıxart</string>
@@ -1140,6 +1141,8 @@ Yenə də, bəzi əməliyyatlarınız hələ tamamlanmayıb. Razılığı geri g
     <string name="button_do_not_disturb">Söndür</string>
     <string name="button_eye_shield">Söndür</string>
     <string name="button_first_aid_kit">İndi düzəlt</string>
+    <string name="button_pickup_voice_print_auto_agree">Yaz</string>
+    <string name="button_pickup_voice_print_auto_disagree">İndi yox</string>
     <string name="button_restrict_data_usage">İcazə ver</string>
     <string name="button_text_accept">Qəbul et</string>
     <string name="button_text_accept_timer">Qəbul et (%d)</string>
@@ -1386,6 +1389,7 @@ Yenə də, bəzi əməliyyatlarınız hələ tamamlanmayıb. Razılığı geri g
     <string name="cpu_usage_view_action_btn_text">Baxmaq üçün toxun</string>
     <string name="create_gamebooster_destop">Əsas ekran qısayolu uğurla yaradıldı</string>
     <string name="create_shortcut">Game Turbo üçün Əsas ekran qısayolu yarat</string>
+    <string name="cs_camera_bubble">Mövcud kamera aşkarlandı. Dəyişdirmək üçün toxunun.</string>
     <string name="cs_close_vt_camera_first_tips">"Cihazlar arasında kamera istifadə edilərkən bu özəllik istifadə edilə bilmir"</string>
     <string name="cs_color_sense">Rəng temperaturu</string>
     <string name="cs_conversation_record_using">Səsyazma</string>
@@ -1418,6 +1422,9 @@ Yenə də, bəzi əməliyyatlarınız hələ tamamlanmayıb. Razılığı geri g
     <string name="cs_pickup_vioce_print_private_dialog_title">Səs izini yaz</string>
     <string name="cs_pickup_vioce_print_unsupport_tips">\"Tək iştirakçı\"nı seçməzdən əvvəl səs izini qeyd edin</string>
     <string name="cs_pickup_vioce_print_unsupport_toast">Xarici cihazları ayırıb yenidən sınayın</string>
+    <string name="cs_pickup_voice_print_auto_dialog_tips">"Səsiniz, bu cihazda yazılıb emal olunacaq.
+Ən yaxşı nəticə üçün səssiz yerdə təkbaşına yazın."</string>
+    <string name="cs_pickup_voice_print_auto_dialog_title">Fərdiləşdirilmiş səs-küy azaltma üçün səs izi tələb olunur</string>
     <string name="cs_pickup_voice_print_desc">Yalnız bir nəfərdən səs alın</string>
     <string name="cs_privacy_camera_global_settings_title">Zəng gizliliyi</string>
     <string name="cs_record_voice_title">Yaz</string>
@@ -1766,8 +1773,9 @@ Bu, istisnalara əlavə ediləcək, ancaq əvvəlcədən əngəllənmiş element
     <string name="ew_action_subscribed_area">Abunə olunmuş bölgələr</string>
     <string name="ew_action_unsubscribe">Abunəlikdən çıx</string>
     <string name="ew_alert_arrive_location">Seysmik dalğa %s çatdı</string>
-    <string name="ew_alert_dial_text">"Fövqəladə hal əlaqəsinə
+    <string name="ew_alert_dial_text">"Fövqəladə hal kontaktına
 zəng et"</string>
+    <string name="ew_alert_earthquake_cancel">Ləğv edildi</string>
     <string name="ew_alert_earthquake_center_title">Episentr</string>
     <string name="ew_alert_earthquake_distance">"Episentrdən %s km uzaqdasınız"</string>
     <string name="ew_alert_earthquake_feel_little">Yüngül silkələnmə</string>
@@ -1775,19 +1783,21 @@ zəng et"</string>
     <string name="ew_alert_earthquake_feel_middle">Güclü</string>
     <string name="ew_alert_earthquake_feel_none">Həssas deyil</string>
     <string name="ew_alert_earthquake_feel_normal">Orta</string>
-    <string name="ew_alert_earthquake_feel_title">Təxmini intensivlik</string>
-    <string name="ew_alert_earthquake_level_title">Təxmini böyüklük</string>
+    <string name="ew_alert_earthquake_feel_title">Proqnozlaşdırılan intensivlik</string>
+    <string name="ew_alert_earthquake_level_title">Maqnituda</string>
+    <string name="ew_alert_earthquake_list_level_title">Xəbərdarlıq maqnitudası</string>
     <string name="ew_alert_emergency_text">"Tibbi kartı
 göstər"</string>
     <string name="ew_alert_emergency_text_single">Tibbi kartı göstər</string>
     <string name="ew_alert_help_earthquake_title">Seysmik dalğa gəldi</string>
     <string name="ew_alert_help_place_navigation">Get</string>
     <string name="ew_alert_help_safe_title">Təhlükədən qaçın</string>
-    <string name="ew_alert_help_tips">"Sakit və ayıq olun. Asılmış əşyalardan uzaq durun, liftə minməyin. Güvənli bir yer tapın, uzanın, üzərinizi örtün və gözləyin."</string>
+    <string name="ew_alert_help_tips">Zəlzələ zamanı əmniyyət tövsiyələri: Sakit qalın, əvvəlcə sığınacağa keçin, sonra təxliyə olun, açıq bir yer tapın, başınızı qoruyun, liftə minməyin.</string>
     <string name="ew_alert_no_contact">Əvvəlcə Ayarlar &gt; Gizlilik və güvənlik &gt; \"Fövqəladə hal SOS-u\"nda fövqəladə hal kontaktınızı təyin edin</string>
     <string name="ew_alert_no_emergency">Tibbi məlumatlarınızı Güvənlik &gt; \"Zəlzələ xəbərdarlığı\"nda əlavə edin</string>
-    <string name="ew_alert_text_from">Məlumatlar %s tərəfindən təmin edilir</string>
+    <string name="ew_alert_text_from">Mənbə: %s</string>
     <string name="ew_app_name">Zəlzələ xəbərdarlığı</string>
+    <string name="ew_app_name_cancel">"Zəlzələ xəbərdarlığı ləğv edildi. Təlaşlanmayın!"</string>
     <string name="ew_app_name_exercise">Zəlzələ xəbərdarlığı (Demo)</string>
     <string name="ew_app_name_test">Zəlzələ xəbərdarlığı (Beta)</string>
     <string name="ew_app_name_test_run">Zəlzələ xəbərdarlığı (Sınaq)</string>
@@ -1852,6 +1862,7 @@ Xiaomi və ICL tərəfindən texniki dəstək"</string>
     <string name="ew_guide_start_agree">İşə sal</string>
     <string name="ew_guide_start_find_area">Əraziləri axtar</string>
     <string name="ew_guide_start_warning_range"><Data>Chengdu Yüksək Texnologiyalı Fəlakətlərin Azaldılması İnstitutunun Materik Zəlzələ Xəbərdarlıq Şəbəkəsinin əhatə etdiyi ərazilər üçün erkən xəbərdarlıqlar edilir. Dəstəklənən əhatə dairələrinin bir siyahısını &lt;a href=%s&gt;burada&lt;/a&gt; tapa bilərsiniz</Data></string>
+    <string name="ew_guide_statement_text_for_cencc"><Data>"Bu məsuliyyətdən imtina bildirişi, zəlzələ xəbərdarlığı özəlliyini işə salan bütün istifadəçilərə (bundan sonra \"siz\" olaraq adlandırılacaq) aiddir. Bu bildirişlə razılaşaraq, Xiaomi Inc. və onun filialları (bundan sonra \"Xiaomi\" olaraq adlandırılacaq) ilə hüquqi qüvvəyə malik müqavilə bağlamış olursunuz. Siz bu bildirişin bütün məzmununu oxuduğunuzu qəbul edirsiniz və bu bildirişin bütün şərtlərini və qaydalarını tamamilə anlayır və bu şərtlər və qaydalarla razılaşırsınız; əks halda, zəlzələ xəbərdarlığı özəlliyini dərhal söndürməlisiniz.&lt;br>Zəlzələ xəbərdarlığı məlumatı Çin Zəlzələ Şəbəkələri Mərkəzi tərəfindən verilir. Siz anlayır və qəbul edirsiniz ki, mövcud texnologiyanın məhdudiyyətləri, monitorinq şəbəkəsinin əhatə dairəsi və geoloji şəraitin mürəkkəbliyi səbəbindən zəlzələ xəbərdarlığı məlumatında xətalar və ya gecikmələr ola bilər. Xiaomi və Çin Zəlzələ Şəbəkələri Mərkəzi, zəlzələ xəbərdarlığı məlumatının düzgünlüyünə, etibarlılığına və vaxtında olmasına vəd və ya zəmanət vermir, həmçinin zəlzələ xəbərdarlığı xidmətinin bütün ehtiyaclarınızı ödəyəcəyinə zəmanət vermir.&lt;br>Bundan əlavə, zəlzələ xəbərdarlığı məlumatının ötürülməsinə şəbəkə şəraiti, mobil siqnalın əhatə dairəsi və yazılımın performansı daxil olmaqla, lakin bununla məhdudlaşmayaraq müxtəlif amillər təsir edə bilər. Siz anlayırsınız ki, Xiaomi üçüncü tərəfin rabitə xətaları, texniki problemlər, şəbəkə və ya cihaz nasazlığı, sistemin qeyri-stabilliyi və ya zəlzələ xəbərdarlığı məlumatını almamağınız və ya onu vaxtında almamağınızla nəticələnən digər fors-major hadisələr kimi məsələlər səbəbindən yaşaya biləcəyiniz hər hansı itkilərə görə məsuliyyət daşımır.&lt;br>Siz anlayırsınız ki, zəlzələ haqqında erkən xəbərdarlıq xidməti yalnız təhlükəsizlik risklərini qiymətləndirmək və təhlükəsizlik qərarları qəbul etmək üçün istinad kimi təqdim olunur. Təqdim olunan xəbərdarlıq müddəti bir neçə saniyədən bir neçə on saniyəyə qədər dəyişə bilər. Zəlzələnin erkən xəbərdarlığı xidmətinə əsaslanaraq görəcəyiniz hər hansı hərəkətlər və bundan irəli gələn risklər və ya nəticələr yalnız sizin məsuliyyətinizdir."</Data></string>
     <string name="ew_guide_statement_text_new"><Data>\"Bu məsuliyyətdən imtina bildirişi, zəlzələ xəbərdarlığı özəlliyini işə salan bütün istifadəçilərə (bundan sonra \"siz\" olaraq adlandırılacaq) aiddir. Bu bildirişlə razılaşaraq, Xiaomi Inc. və onun filialları (bundan sonra \"Xiaomi\" olaraq adlandırılacaq) ilə hüquqi qüvvəyə malik müqavilə bağlamış olursunuz. Siz bu bildirişin bütün məzmununu oxuduğunuzu qəbul edirsiniz və bu bildirişin bütün şərtlərini və qaydalarını tamamilə anlayır və bu şərtlər və qaydalarla razılaşırsınız; əks halda, zəlzələ xəbərdarlığı özəlliyini dərhal söndürməlisiniz.
 Müvafiq qanun və qaydalara uyğun olaraq, Xiaomi, müvafiq qurumların əhatə etdiyi zəlzələ erkən xəbərdarlıq izləmə sahəsinin əhatə dairəsinə görə sizə erkən xəbərdarlıq xidmətləri təqdim edəcək. Yəni, zəlzələ xəbərdarlığı funksionallığını işə saldığınız zaman müəyyən ərazilər üçün verilən zəlzələ xəbərdarlıqlarını ala biləcəksiniz. Dəstəklənən əhatə dairələrinin bir siyahısını &lt;a href=%s&gt;burada&lt;/a&gt; tapa bilərsiniz. Daha çox əhatə dairəsi müntəzəm olaraq əlavə olunacaq.
 Bu özəllik, sizi zəlzələ xəbərdarlığı funksionallığı ilə təmin edir. Zəlzələ xəbərdarlığı məlumatlarının Chengdu Yüksək Texnologiyalı Fəlakətlərin Azaldılması İnstitutu tərəfindən verildiyini anlamalısınız. Xiaomi bu təşkilatı idarə etmir və onun üzərində heç bir nəzarəti yoxdur.
@@ -1873,6 +1884,8 @@ Bu özəlliyin yalnız istinad üçün təqdim edildiyini anlamalısınız. Ald�
     <string name="ew_list_not_receive_tips">*Episentr sizdən uzaqdadır. Zəlzələni hiss etməyə bilərsiniz.</string>
     <string name="ew_list_receive">Alındı</string>
     <string name="ew_list_receive_distance">Episentr sizdən %s km uzaqlıqdadır</string>
+    <string name="ew_list_receive_distance_faraway">Episentr çox uzaqdadır</string>
+    <string name="ew_list_receive_distance_new">Episentrdən uzaqlıq: %1$s | Hazırkı yerləşmə: %2$s</string>
     <string name="ew_list_receive_time">Başlama vaxtı: %s</string>
     <string name="ew_list_receive_time_title">Başlama vaxtı</string>
     <string name="ew_list_title">Xəbərdarlıqlar</string>
@@ -1934,18 +1947,19 @@ könüllüsü"</string>
     <string name="ew_no_contact_tips">Burada kontakt yoxdur</string>
     <string name="ew_not_support_area">"Xəbərdarlıqlar bu ərazidə dəstəklənmir"</string>
     <string name="ew_open_tips">Zəlzələ xəbərdarlığı açıqdır</string>
-    <string name="ew_push_message">Təxmini intensivlik: %s. Yaxınlığınızda yüngül silkələnmə gözləyin.</string>
+    <string name="ew_push_message">Proqnozlaşdırılan intensivlik: %1$s. %2$s ərzində yüngül silkələnmə hiss edə bilərsiniz.</string>
     <string name="ew_push_title">Siqnal | %1$s yaxınlığında %2$s maqnitudalı zəlzələ</string>
+    <string name="ew_push_title_new">(%1$s) Zəlzələ xəbərdarlığı | %3$s maqnitudalı zəlzələ %2$s vaxtında baş verdi.</string>
     <string name="ew_safe_place_no_maps_tips">"İndi axtarıla bilmir. Əvvəlcə Baidu Maps və ya Amap-ı quraşdırın."</string>
-    <string name="ew_setting_desc_message">Biz, zəlzələnin intensivliyini onun miqyasına, episentrin yerləşməsinə və sizin yerləşmənizə görə təxmin edirik. Təxmini intensivlik nə qədər böyükdürsə, zəlzələ ərazinizdə bir o qədər dağıdıcı olacaq.</string>
-    <string name="ew_setting_desc_title">Təxmini intensivlik nədir?</string>
+    <string name="ew_setting_desc_message">Proqnozlaşdırılan intensivlik, zəlzələnin maqnitudasına, episentrin yerləşməsinə və sizin yerləşmənizə görə təxmin edilir. İntensivlik nə qədər böyükdürsə, bölgənizdəki potensial təsiri bir o qədər böyük olacaq.</string>
+    <string name="ew_setting_desc_title">Proqnozlaşdırılan intensivlik nədir?</string>
     <string name="ew_setting_more_title">Zəlzələ xəbərdarlığı haqqında daha ətraflı</string>
-    <string name="ew_setting_normal_push_message">Təxmini intensivlik xəbərdarlıq həddindən aşağı olduqda</string>
+    <string name="ew_setting_normal_push_message">Proqnozlaşdırılan intensivlik xəbərdarlıq həddinin altında olduqda</string>
     <string name="ew_setting_normal_push_title">Sistem bildirişləri al</string>
-    <string name="ew_setting_strong_push_message">Təxmini intensivlik xəbərdarlıq həddindən yüksək olduqda</string>
+    <string name="ew_setting_strong_push_message">Proqnozlaşdırılan intensivlik xəbərdarlıq həddini aşdıqda</string>
     <string name="ew_setting_strong_push_title">Güclü zəlzələlər haqqında xəbərdarlıq edin (ilkin olaraq açıqdır)</string>
     <string name="ew_settings_choose_level">Xəbərdarlıq həddini ayarla</string>
-    <string name="ew_settings_choose_level_title">Təxmini intensivlik: %s</string>
+    <string name="ew_settings_choose_level_title">Proqnozlaşdırılan intensivlik: %s</string>
     <string name="ew_settings_choose_level_value_1">" (Hündürmərtəbəli binalarda titrəmə)"</string>
     <string name="ew_settings_choose_level_value_2">" (Silkələnmə)"</string>
     <string name="ew_settings_choose_level_value_3">" (Güclü silkələnmə)"</string>
@@ -1960,7 +1974,8 @@ könüllüsü"</string>
     <string name="ew_subscribe_city">Əlavə edilən ərazilər</string>
     <string name="ew_subscribe_city_count">%s şəhərə qədər abunə ola bilərsiniz</string>
     <string name="ew_subscribe_search_hint">Əraziləri axtar</string>
-    <string name="ew_subscribe_title">Zəlzələ Xəbərdarlığı | %2$s gücündə zəlzələ %1$s-da baş verdi və %3$s hiss oluna bilər</string>
+    <string name="ew_subscribe_title">Zəlzələ xəbərdarlığı | %1$s ərazisində təxminən %2$s bal gücündə zəlzələ baş verib, %3$s ətrafında hiss edilə bilər.</string>
+    <string name="ew_subscribe_title_new">(%1$s) Zəlzələ xəbərdarlığı | %2$s yaxınlığında təxminən %3$s bal gücündə zəlzələ baş verib, %4$s ərazisində hiss edilə bilər.</string>
     <string name="ew_user_feedback">Əks-əlaqə</string>
     <string name="examination_score_100">Hər şey yaxşı görünür!</string>
     <string name="examination_score_60_0">İndi skan et</string>
@@ -2286,6 +2301,7 @@ könüllüsü"</string>
     <string name="game_toolbox_display_enhance_view_frc_notice">"Qeyd:
 Ağıllı kadr sürəti açıq olduqda, oyundaxili və üçüncü tərəf kadr sürəti aşkarlama alətləri, kadr sürətini düzgün aşkarlamaya bilər. Həqiqi kadr sürəti üçün performans idarəetmə lövhəsinə baxın."</string>
     <string name="game_toolbox_display_style_desc">Vizual üslubu ayarla (oyun HDR-ını dəstəkləyir)</string>
+    <string name="game_toolbox_display_style_not_hdr_des">Fərqli vizual üslublar arasında keçid edə bilərsiniz</string>
     <string name="game_toolbox_display_style_title">Vizual üslub</string>
     <string name="game_toolbox_fps_average">Ortalama %d FPS</string>
     <string name="game_toolbox_fps_realtime">Real vaxtda %d FPS</string>
@@ -3845,10 +3861,11 @@ Ruterinizi bağlamaq üçün başqa bir Ethernet kabeli istifadə etməyə çal�
     <string name="open_game">Aç</string>
     <string name="open_lucky">\"Xiaomi Red Packet Assistant\"ı aç</string>
     <string name="open_now">Tətbiqin mobil verini istifadə etməsinə icazə ver</string>
-    <string name="open_physical_sim_self_detection_noti_centent">"Deyəsən, ölkə xaricindəsiniz və şəbəkə kəsintiləri yaşayırsınız. Problemləri aradan qaldırmaq üçün bir yoxlanış başladın."</string>
-    <string name="open_physical_sim_self_detection_noti_title">Fiziki SIM yoxlanışını işə sal</string>
+    <string name="open_physical_sim_self_detection_noti_centent">Rouminq bağlantınız düzgün işləməyə bilər</string>
+    <string name="open_physical_sim_self_detection_noti_title">Rouminq şəbəkə diaqnostikalarını sınayın</string>
     <string name="open_right_now">İndi qırmızı zərfi al</string>
     <string name="open_right_now_short">Dərhal al</string>
+    <string name="open_shut_down_password">İşə sal</string>
     <string name="open_wlan_title">Bu tətbiqin Wi-Fi-ı açıb bağlamasına icazə ver</string>
     <string name="operator_location_settings">Operatoru və yerləşməni ayarla</string>
     <string name="operator_location_settings_message">"Operatorunuz və yerləşməniz tanına bilmədi. Artıq telefon balansı və veri istifadə xəbərdarlıqları ayarlana bilmir."</string>
@@ -4142,7 +4159,6 @@ söndürülür"</string>
     <string name="pc_remind_close_cover_to_charge_summary">Daha sürətli və daha stabil doldurma təcrübəsi üçün doldurmazdan əvvəl cihazı qatlayın.</string>
     <string name="pc_remind_close_cover_to_charge_title">Doldurmaq üçün qatlayın</string>
     <string name="pc_reminder_always_protect_summary">Batareyanın köhnəlməsini yavaşlandırmaq üçün məhdud doldurmaya keçin</string>
-    <string name="pc_remove_shell_charging_notification_msg">"Oyun qoburu istifadə edərkən naqilsiz doldurmanı istifadə edə bilməzsiniz. Qoburu çıxarıb yenidən sınayın, ya da naqilli doldurmanı istifadə edin."</string>
     <string name="pc_remove_shell_charging_notification_title">Naqilsiz doldurmanı istifadə etmək üçün qoburu çıxarın</string>
     <string name="pc_remove_shell_charging_toast">Tərsinə naqilsiz doldurmanı istifadə etmək üçün qoburu çıxarın</string>
     <string name="pc_satellite_auto_enter_super_power">Peyk bağlantısını təmin etmək üçün Ultra batareya qənaəti işə salındı</string>
@@ -4162,6 +4178,8 @@ söndürülür"</string>
     <string name="pc_smart_charge_notify_summary_high_temp_protect">Cihazın aşırı isinməməsi üçün batareya səviyyəsi %1$s olduqda doldurma dayandırılacaq</string>
     <string name="pc_smart_charge_notify_summary_navagition">Hərəkət edir… Batareya %1$s səviyyəsinə çatdıqda doldurma dayandırılacaq</string>
     <string name="pc_smart_charge_notify_summary_night_charge">Doldurma %s olduqda dayandırılacaq</string>
+    <string name="pc_smart_charge_notify_summary_night_pause_charge">Doldurmağa %1$s olduqda fasilə verildi. %2$s olduqda doldurmağa davam edəcək.</string>
+    <string name="pc_smart_charge_notify_summary_night_start_charge">Batareya %1$s səviyyəsinə çatdıqda doldurmağa fasilə veriləcək və istifadənizə görə doldurma avtomatik olaraq davam etdiriləcək</string>
     <string name="pc_smart_charge_pogo_project_dialog_content">"Batareyanın ömrünü uzatmaq üçün avtomobilə bağlandıqda bu cihazın batareyası hazırkı səviyyənin üzərinə çıxmayacaq."</string>
     <string name="pc_smart_charge_pogo_project_dialog_not_show_again">"Təkrar göstərmə"</string>
     <string name="pc_smart_charge_pogo_project_dialog_title">Batareya qoruması</string>
@@ -4181,6 +4199,7 @@ söndürülür"</string>
     <string name="pc_suggest_open_fast_charge">%dW sürətli doldurmanı işə sal</string>
     <string name="pc_temperature_too_high">Cihaz aşırı isinib</string>
     <string name="pc_this_time_charge_full">Bu dəfə tam doldur</string>
+    <string name="pc_this_time_charge_full_now">Tam dolur</string>
     <string name="pc_this_time_charge_full_work">Demək olar ki, tam dolub</string>
     <string name="pc_timely_charging_summary">Batareya %1$s altındadır. Batareya zəif olarkən cihaz aşırı isinirsə, bu, batareyaya zərər verə bilər.</string>
     <string name="pc_timely_charging_title">Cihazınızı doldurun</string>
@@ -4643,7 +4662,6 @@ söndürülür"</string>
     <string name="power_dialog_performance_mode_checkbox">%d Hz yeniləmə sürətinə keç</string>
     <string name="power_dialog_super_save_msg">"Ultra batareya qənaəti, təməl funksionallığı (məsələn, zənglər, SMS və şəbəkəyə bağlanma) mümkün olduğu qədər uzun müddət əlçatan saxlamaq üçün ən çox enerji sərf edən özəllikləri məhdudlaşdırır və cihazın performansını aşağı salır. Ultra batareya qənaəti işə salınsın?"</string>
     <string name="power_dialog_super_save_msg_5g">"Ultra batareya qənaəti, enerji sərf edən özəlliklərin əksəriyyətini (məs. 5G bağlantısı) məhdudlaşdıraraq cihazın performansını aşağı salır. Yalnız zənglər, mesajlar və şəbəkə bağlantısı təsirlənmir. Ultra batareya qənaəti işə salınsın?"</string>
-    <string name="power_dialog_super_save_msg_p2">"Ultra batareya qənaəti, arxa ekranı söndürür və enerji sərf edən özəlliklərin əksəriyyətini məhdudlaşdırır, cihazınızın performansını aşağı salır, təməl funksionallığın (məs. zənglər, SMS və şəbəkəyə bağlanma) mümkün olduğunca əlçatan qalmasını təmin edir. Ultra batareya qənaəti işə salınsın"</string>
     <string name="power_dialog_super_save_title">Ultra batareya qənaəti</string>
     <string name="power_idle">Telefon boşdadır</string>
     <string name="power_main_battery_last_day_hour">%1$s gün %2$s sa qaldı</string>
@@ -4923,7 +4941,7 @@ söndürülür"</string>
     <string name="pref_operator_not_set">"Operator ayarlanmadı"</string>
     <string name="pref_over_traffic_limit">Veri planınızı aşdığınız zaman</string>
     <string name="pref_package_traffic_settings">Veri planı</string>
-    <string name="pref_physical_sim_self_detection_cat_title">Şəbəkənin bərpası</string>
+    <string name="pref_physical_sim_self_detection_cat_title">Şəbəkəni test et</string>
     <string name="pref_pkg_begin_date">İstifadə sıfırlama tarixi</string>
     <string name="pref_roaming_daily_limit_setting">Rouminqdə gündəlik veri limitini ayarla</string>
     <string name="pref_roaming_daily_limit_setting_cat_title">Gündəlik veri limiti</string>
@@ -4935,7 +4953,7 @@ söndürülür"</string>
     <string name="pref_title_diagnostics_show_float_notification">Üzən bildirişlər</string>
     <string name="pref_title_manual_check_virus_db_update">Güncəlləmələri yoxla</string>
     <string name="pref_title_over_traffic_limit_warning">Aşdığınız zaman</string>
-    <string name="pref_title_physical_sim_self_detection">Fiziki SIM yoxlanışı</string>
+    <string name="pref_title_physical_sim_self_detection">Rouminq şəbəkəsinin diaqnostikası</string>
     <string name="pref_title_traffic_limit_number">Ölçü</string>
     <string name="pref_title_traffic_package_type">Veri planı növü</string>
     <string name="pref_title_traffic_speed_state">Şəbəkə sürətini göstər</string>
@@ -6724,10 +6742,14 @@ Qalan verilərə əvvəlki aydan keçmiş verilər də daxildir."</string>
     <string name="uninstall_app_dialog_msg">Silmə prosesi ilə bütün tətbiq veriləri silinəcək.</string>
     <string name="uninstall_app_dialog_title">İndi silinsin?</string>
     <string name="uninstall_app_done">Uğurla silindi</string>
+    <string name="uninstall_app_reminder_msg">"Anlayıram ki, silinmiş tətbiq veriləri bərpa edilə bilməz"</string>
+    <string name="uninstall_app_reminder_pre_title">Sil: %s</string>
+    <string name="uninstall_app_reminder_toast">"Silinmiş tətbiq verilərinin bərpa oluna bilməyəcəyini anladığınızı təsdiqləyin"</string>
     <string name="uninstall_danagerous_btn">Sil</string>
     <string name="uninstall_danagerous_desc">\"%s\" cihazınıza zərər verə bilər</string>
     <string name="uninstall_danagerous_msg">\"%s\" cihazınıza zərər verə, performansını aşağı sala və ya yenidən başlatmalara səbəb ola bilər.</string>
     <string name="uninstall_danagerous_title">Zərərli tətbiqləri sil</string>
+    <string name="uninstall_xspace_app_reminder_pre_title">"%s ikili tətbiqini sil"</string>
     <string name="unknown_operator">"%1$s ilə planınızın detallarını təsdiqləmək üçün %2$s nömrəsinə zəng edə bilərsiniz."</string>
     <string name="unknown_package">Planınızın nə olduğuna əmin deyilsiniz?</string>
     <string name="unlike">Xeyr, təşəkkürlər</string>
@@ -7091,6 +7113,7 @@ Lütfən yadda saxlayın ki, sistem bütün avtomobil qəzalarını aşkarlaya b
     <string name="warningcenter_mijia_alert_tips_2">Duman aşkarlandı</string>
     <string name="warningcenter_mijia_alert_tips_3">Sel aşkarlandı</string>
     <string name="warningcenter_mijia_alert_tips_4">Kilidiniz zədələnib</string>
+    <string name="warningcenter_mijia_alert_tips_5">Su ilə təmas xəbərdarlığı aşkarlandı. İndi yoxlayın.</string>
     <string name="warningcenter_mijia_alert_view_device">Cihaza bax</string>
     <string name="warningcenter_mijia_devices_1">Sel detektoru</string>
     <string name="warningcenter_mijia_devices_2">Duman detektoru</string>
@@ -7184,6 +7207,12 @@ Lütfən yadda saxlayın ki, sistem bütün avtomobil qəzalarını aşkarlaya b
     <string name="wireless_charging_saver_cancel">Söndür</string>
     <string name="wireless_charging_saver_message">Batareya qənaəti indi açıqdır. Tərsinə naqilsiz doldurma açıq qalsın?</string>
     <string name="wireless_charging_saver_ok">Saxla</string>
+    <string name="wireless_high_temp_notification_warning_title">Aşırı isinməyə görə naqilsiz doldurma dayandırıldı</string>
+    <string name="wireless_high_temp_warning_dialog_ok">Anladım</string>
+    <string name="wireless_high_temp_warning_text">Cihazınız soyuduqdan sonra naqilsiz doldurma davam etdiriləcək</string>
+    <string name="wireless_high_temp_warning_title">Naqilsiz doldurma dayandırıldı</string>
+    <string name="wireless_hottemp_warning_button_ok">Anladım</string>
+    <string name="wireless_hottemp_warning_message">Cihazınız aşırı isinib. Naqilsiz doldurma dayandırılıb və cihazınız soyuduqdan sonra avtomatik olaraq davam etdiriləcək.</string>
     <string name="wl_no_whitelist">İstisna yoxdur.</string>
     <string name="wlan_booster">Wi-Fi optimallaşdırma</string>
     <string name="wlan_change_protection_detail">"Mobil veri şəbəkəsinə bağlandıqda avtomatik olaraq Wi-Fi şəbəkəsinə keçməyin"</string>

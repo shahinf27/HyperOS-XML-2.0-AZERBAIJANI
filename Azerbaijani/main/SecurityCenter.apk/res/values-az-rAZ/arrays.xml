@@ -96,6 +96,24 @@
         <item>"Ekran məzmununuzu uzaqdan izləyə və yaza biləcəksiniz."</item>
         <item>Cihazınız haqqında ətraflı məlumat əldə etmək mümkün olacaq.</item>
     </string-array>
+    <string-array name="ew_alert_feel_title_list">
+        <item>Güclü silkələnmə</item>
+        <item>Gözəçarpan silkələnmə</item>
+        <item>Yüngül silkələnmə</item>
+        <item>Silkələnmə yoxdur</item>
+    </string-array>
+    <string-array name="ew_alert_help_safe_title_list">
+        <item>Sığınacağa keçin!</item>
+        <item>Hazır olun!</item>
+        <item>Əmniyyətdə qalın!</item>
+        <item>"Təlaşlanmayın!"</item>
+    </string-array>
+    <string-array name="ew_alert_intensity_list">
+        <item>Yüngül silkələnmə</item>
+        <item>Gözəçarpan silkələnmə</item>
+        <item>Güclü silkələnmə</item>
+        <item>Güclü silkələnmə</item>
+    </string-array>
     <string-array name="ew_emergency_gender_arrays">
         <item>Təyin edilməyib</item>
         <item>Kişi</item>

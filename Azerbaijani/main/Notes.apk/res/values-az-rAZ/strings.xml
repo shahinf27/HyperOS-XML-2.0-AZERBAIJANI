@@ -97,7 +97,7 @@
     <string name="ai_text_widget_rewrite">Yenidən yaz</string>
     <string name="ai_text_widget_summary">İcmal</string>
     <string name="ai_text_widget_summary_settings">Yazınızı təkmilləşdirin, istədiyiniz vaxt, istədiyiniz yerdə mətn yaradın</string>
-    <string name="ai_text_widget_title">AI yazma</string>
+    <string name="ai_text_widget_title">AI Yazma</string>
     <string name="ai_title_stop_extension">Genişləndirmə dayandırıldı</string>
     <string name="ai_title_stop_polish">Cilalama dayandırıldı</string>
     <string name="ai_title_stop_summary">İcmal yaratma dayandırıldı</string>
@@ -106,7 +106,7 @@
     <string name="ai_watermark">Süni Zəka tərəfindən yaradılmış məzmun yalnız istinad məqsədlidir</string>
     <string name="ai_when_mistake_title">Xəta baş verdi. Yenidən sınayın.</string>
     <string name="ai_writing_invite_beta_testing_content">Bu özəllik, yazınızı düzəltmək, genişləndirmək, icmalını yaratmaq və cilalamaq üçün böyük model bacarıqlarını istifadə edir. Həmçinin, istəklər daxil edə və süni zəkanın sizin üçün yazmasına icazə verə bilərsiniz. Sınamaq üçün \"Razıyam\"a toxunun!</string>
-    <string name="ai_writing_invite_beta_testing_title">AI yazma beta testi</string>
+    <string name="ai_writing_invite_beta_testing_title">AI Yazma beta testi</string>
     <string name="ai_writing_local_message">\"Süni zəka ilə Yazma\" üçün cihazdakı modelləri istifadə edin</string>
 	<string name="aicr_deepthink_done">Məntiqi düşünmə tamamlandı</string>
     <string name="aicr_deepthink_stop">Məntiqi düşünmə dayandırıldı</string>
@@ -139,6 +139,7 @@
     <string name="app_widget_name_create_todo">Tapşırıq yarat</string>
     <string name="app_widget_name_fast_entry">Qısayollar</string>
     <string name="app_widget_name_new">Notlar</string>
+    <string name="apparel_shopping_review">Geyimlər üçün alış-veriş rəyi yaz</string>
     <string name="application_icon">Tətbiq ikonu</string>
     <string name="audio_btn_mode_meeting">Görüş</string>
     <string name="audio_btn_mode_single">Bir nəfər</string>
@@ -161,13 +162,19 @@
     <string name="audio_reocrd_install_btn_positive">Quraşdır</string>
     <string name="audio_reocrd_update_btn_negative">İmtina</string>
     <string name="audio_reocrd_update_btn_positive">Güncəllə</string>
+    <string name="audio_reocrd_update_twice_content">"Bu güncəlləməni quraşdırmasanız, yeni özəllikləri istifadə edə bilməyəcəksiniz. İndi güncəllənsin?"</string>
+    <string name="audio_reocrd_update_twice_title">Yazı özəlliklərini güncəllə</string>
     <string name="audio_stop_talkback">Dayandır</string>
     <string name="audio_toast_file_invalid">Səs faylı yararsızdır</string>
     <string name="audio_toast_file_undownload">"Səs faylı tam endirilməyib və ya əskikdir"</string>
     <string name="audio_toast_network_is_not_available">"Şəbəkəyə bağlana bilmədi"</string>
     <string name="auto_detected">Avto-aşkarlama</string>
     <string name="auto_optimize_handwriting_text">Əl yazısını avtomatik optimallaşdır</string>
+    <string name="beauty_instructional_copywriting">Yeni başlayanlar üçün makiyaj təlimatı yarat</string>
+    <string name="beauty_shopping_list">Yeni başlayanlar üçün gözəllik alış-veriş siyahısı yarat</string>
+    <string name="beauty_shopping_review">Gözəllik məhsulu üçün bir alış-veriş rəyi yaz</string>
     <string name="blackboard_note">Ağıllı yazı lövhəsi</string>
+    <string name="book_reading_guide">Bir kitab üçün dərin oxu təlimatı yaz</string>
     <string name="bottomsheet_action_collapse">Alt vərəqi yığcamlaşdır</string>
     <string name="bottomsheet_action_expand">Alt vərəqi genişləndir</string>
     <string name="bottomsheet_action_expand_halfway">Yarıya qədər genişləndir</string>
@@ -183,6 +190,7 @@
     <string name="call_notification_incoming_text">Gələn zəng</string>
     <string name="call_notification_ongoing_text">Davam edən zəng</string>
     <string name="call_notification_screening_text">Gələn bir zəngin filtrlənməsi</string>
+    <string name="camera_price_analysis">Rəqəmsal kamera üçün xərc təhlilləri yarat</string>
     <string name="cancel_alarm_description">Zəngli saatı ləğv et</string>
     <string name="canvas_is_too_large_to_share">Bu element paylaşmaq üçün çox böyükdür</string>
     <string name="character_counter_content_description">%1$d/%2$d xarakter daxil edilib</string>
@@ -193,16 +201,24 @@
     <string name="clearable_edittext_clear_description">Təmizlə</string>
     <string name="clip_resource_deleted">Bu element artıq mövcud deyil</string>
     <string name="close">Bağla</string>
-    <string name="close_button_talkback_text">\"AI yazma\"dan çıx</string>
+    <string name="close_button_talkback_text">\"AI Yazma\"dan çıx</string>
+    <string name="cloud_state_wait_wifi_count">Bunları sinxronlaşdırmaq üçün Wi-Fi gözlənilir: %1$s</string>
+    <string name="cloud_state_wait_wifi_count_china">Bunları sinxronlaşdırmaq üçün Wi-Fi gözlənilir: %1$s, %2$s</string>
+    <string name="cloud_state_wait_wifi_counts">Bunları sinxronlaşdırmaq üçün Wi-Fi gözlənilir: %1$s, %2$s</string>
+    <string name="cloud_state_wait_wifi_counts_china">Bunları sinxronlaşdırmaq üçün Wi-Fi gözlənilir: %1$s</string>
     <string name="cloud_trash_bin_title">Buludda silinən notlar</string>
+    <string name="collection_of_the_month_news">"Bu ayın xəbər icmallarının bir kolleksiyasını yarat"</string>
     <string name="color_pick_board_talkback">Rəng cədvəli</string>
     <string name="color_pick_talkback">Sətir %1$d, Sütun %2$d</string>
     <string name="color_picker_popup_straw_talkback">Damlalıq aləti</string>
+    <string name="communicates_positive_feedback">Bu tranzaksiya barədə müsbət bir rəy yaz</string>
+    <string name="company_annual_meeting_notice">Şirkətin illik iclası üçün bir elan yaz</string>
     <string name="complete_extension">Genişləndirmə tamamlandı</string>
     <string name="complete_polish">Cilalama bitdi</string>
+    <string name="concert_experience_review">Konsert barədə rəy yaz</string>
     <string name="confirm_cancel">"Razı deyiləm"</string>
     <string name="confirm_ok">Razıyam</string>
-    <string name="content_text">AI yazma, yazınızı genişləndirmə, cilalama, düzəltmə və icmalını yaratma və istəklərinizə görə yazı parçaları yaratma kimi özəlliklər təqdim edir.</string>
+    <string name="content_text">AI Yazma, yazınızı genişləndirmə, cilalama, düzəltmə və icmalını yaratma və istəklərinizə görə yazı parçaları yaratma kimi özəlliklər təqdim edir.</string>
     <string name="continuous_default_hint">Mətni kopyalayın, təsvirləri və ekran şəkillərini çıxarış kimi saxlayın</string>
     <string name="continuous_new_excerpt_title">Yeni çıxarış</string>
     <string name="copy">Kopyala</string>
@@ -269,9 +285,11 @@
     <string name="default_update_documents">Bir güncəlləmə mövcuddur. İndi güncəllənsin?</string>
     <string name="delete_folder_dialog_tile">Qovluğu sil</string>
     <string name="delete_talkback">Sil, düymə</string>
+    <string name="delivery_man_review">Çatdırılma sürücü üçün müsbət bir rəy yaz</string>
     <string name="desc_paper_black_talkback">Qara</string>
     <string name="desc_paper_white_talkback">Ağ</string>
     <string name="desc_paper_yellow_talkback">Yumurta qabığı</string>
+    <string name="description_of_a_used_object">İkinci əl bir məhsul üçün açıqlama yarat</string>
     <string name="dialog_button_cancel">İmtina</string>
     <string name="dialog_button_close">Bağla</string>
     <string name="dialog_button_confirm">Oldu</string>
@@ -384,6 +402,9 @@
     <string name="export_select_empty">Ən azı bir səhifə seç</string>
     <string name="exposed_dropdown_menu_content_description">Açılan menyunu göstər</string>
     <string name="external_share_to_note">%1$s \"Notlar\"da paylaşıldı</string>
+    <string name="fictional_story">Elmi-fantastika dünyası haqqında fantakstik bir hekayə yaz</string>
+    <string name="film_interpretation">Təzəlikcə yaxşı rəy almış bir film üçün şərh yaz</string>
+    <string name="fitness_plan">Bir fitness plan yarat</string>
     <string name="float_note_empty">Burada not yoxdur</string>
     <string name="float_note_title">Notlar</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
@@ -398,6 +419,7 @@
     <string name="folder_operation_rename">Yenidən adlandır</string>
     <string name="folder_other">Digər qovluqlar</string>
     <string name="foler_pinned">Sancılmış qovluqlar</string>
+    <string name="food_review">Qrup alışı üçün yaxşı bir rəy yaz</string>
     <string name="foregound_content">Mi AI Mətn Viceti işləyir…</string>
     <string name="foregound_tile">AI Mətn</string>
     <string name="format_move_note_out_folder">Bu not daşındı</string>
@@ -406,6 +428,7 @@
     <string name="friday_short">Cüm</string>
     <string name="friday_shortest">Cüm</string>
     <string name="generating">Bir saniyə…</string>
+    <string name="generic_praise">Ümumi olaraq tək cümləlik yaxşı bir rəy yaz</string>
     <string name="gesture_guide_cancel">Ötür</string>
     <string name="gesture_guide_title">Jestlər</string>
     <string name="global_cta_v2_app_purpose_v12">Notlar ilə, notlar yaza, təsvir, səsli not əlavə edə və daha çoxunu edə bilərsiniz. Bu tətbiqin lazımi xidmətləri təqdim etməsi üçün internetə bağlanması lazımdır. </string>
@@ -415,7 +438,13 @@
     <string name="handwrite_description_window">Əlyazma pəncərəsi</string>
     <string name="hear_note">Diktə edilmiş notlar</string>
     <string name="hidden_notes_fragment_title">Gizli notlar</string>
+    <string name="highlight_headline">Gözoxşayan bir başlıq yaz</string>
     <string name="hint_cannot_view_hidden_note_content">"Gizli notlardakı məzmuna baxıla bilmir"</string>
+    <string name="holiday_notice">Bayram bildirişi yaz</string>
+    <string name="hot_topic_discussion">Məşhur bir axtarış mövzusu üzrə müzakirə yaz</string>
+    <string name="hot_topic_for_a_cultural_salon_group">Bir mədəniyyət klubu üçün müzakirə mövzusu yarat</string>
+    <string name="hot_topic_in_society">Bir sosial problem barədə müzakirə mövzusu yarat</string>
+    <string name="hot_topic_in_the_news">Məşhur bir xəbər hekayəsi yaz</string>
     <string name="hover_bold">MD: **Mətn** boşluq</string>
     <string name="hover_font_first_level">MD: # boşluq</string>
     <string name="hover_font_second_level">MD: ## boşluq</string>
@@ -468,6 +497,7 @@
     <string name="material_timepicker_pm">GS</string>
     <string name="material_timepicker_select_time">Vaxt seçin</string>
     <string name="material_timepicker_text_input_mode_description">Vaxtı daxil etmək üçün mətn giriş rejiminə keçin.</string>
+    <string name="meeting_minutes">İclas üçün dəqiqə yarat</string>
     <string name="menu_add_audio_description">Səsli not əlavə et</string>
     <string name="menu_add_description">Not əlavə et</string>
     <string name="menu_add_handwrite_description">Əlyazma notu əlavə et</string>
@@ -649,7 +679,9 @@
     <string name="multi_page_max_limit_text_toast">"Daha çox qutu əlavə edilə bilmir"</string>
     <string name="multi_page_reach_max_page_count_toast">"Daha çox səhifə əlavə edilə bilmir"</string>
     <string name="multi_page_release_new_page">Yeni bir səhifə əlavə etmək üçün burax</string>
+    <string name="music_festival_experience_review">Musiqi festivalı təcrübəsi üçün bir rəy yaz</string>
     <string name="net_error">Şəbəkə xətası baş verdi</string>
+    <string name="netflix_restaurant_experience">Məşhur bir restoranda təcrübə barədə yaz</string>
     <string name="network_error_info">Şəbəkə xətası baş verdi. Şəbəkə ayarlarınızı yoxlayıb yenidən sınayın.</string>
     <string name="network_timeout_info">"Şəbəkəyə bağlana bilmədi. Yenidən sınayın."</string>
     <string name="new_ai_search_database_building_pause">Daha dəqiq nəticələr təqdim etmək üçün notlar cihazınızdan təhlil ediləcək</string>
@@ -696,6 +728,7 @@
     <string name="notice_for_ai_search_tips">Detallara bax</string>
     <string name="notification_content_add_todo_from_other_app">Yeni tapşırıq əlavə etdiniz. Baxmaq üçün toxunun.</string>
     <string name="notify_alarm_title">Not xatırladıcı</string>
+    <string name="opinion_piece_on_ai">Süni zəkanın insanları yerini alması barədə fikir məqaləsi yaz</string>
     <string name="option_menu_delete">Sil</string>
     <string name="option_menu_multi_choice">Seç</string>
     <string name="option_menu_new">Yarat</string>
@@ -706,6 +739,7 @@
     <string name="option_menu_share">Paylaş</string>
     <string name="original_empty_content">Orijinal versiyada məzmun yoxdur</string>
     <string name="original_text">Orijinal: \"%1$s\"</string>
+    <string name="outfit_to_share">Bir geyim göndərişini müşayiət edəcək bir mətn yarat</string>
     <string name="pad_collpase_navigation">Naviqasiya panelini gizlət</string>
     <string name="pad_dialog_take_photo_by_device">%1$s ilə foto çəkilir</string>
     <string name="pad_dialog_tip_content_take_photo_by_phone">Kamera istifadə edilir…</string>
@@ -766,6 +800,7 @@
     <string name="permlab_accessNote">Notlara erişim</string>
     <string name="pm">GS</string>
     <string name="polish_title">Cilalama</string>
+    <string name="popular_wearable_copywriter">Moda olmuş geyimlər barədə mətn yaz</string>
     <string name="pref_category_title_quick_func">Cəld özəlliklər</string>
     <string name="pref_excerpt_link_float">Bir URL kopyalandıqda bir çıxarış yaratmaq üçün xatırlatma alın</string>
     <string name="pref_permission_allowed">İcazə verildi</string>
@@ -790,7 +825,8 @@
 	<string name="privacy_preference_title">ICP qeydiyyat nömrəsi</string>
     <string name="private_entry_available">Şəxsi qovluğu açmaq üçün buraxın</string>
     <string name="private_entry_default">Şəxsi qovluğu açmaq üçün aşağı sürüşdürün</string>
-    <string name="progressbar_title">Güvənlik problemləri yoxlanılır…</string>
+    <string name="progressbar_title">Təhlükəsizlik problemləri yoxlanılır…</string>
+    <string name="promotional_copywriter">Bir reklam üçün promosyon mətni yarat</string>
     <string name="quick_note_new_user_guide">Cəld notlar, not və çıxarış yaratmağa imkan verir</string>
     <string name="redo">Təkrar et</string>
     <string name="refuse_to_open_as_pic_because_of_loading">Not yüklənənə qədər gözləyib yenidən sınayın.</string>
@@ -816,6 +852,8 @@
     <string name="repeat_mode_week">Hər həftə</string>
     <string name="repeat_mode_year">Hər il</string>
     <string name="request_alert_window_permission_toast">Bu tətbiqin elementləri digər tətbiqlərin üzərində göstərməsinə icazə ver</string>
+    <string name="restaurant_dining_review">Bir restoran yeməyi barədə yaxşı bir rəy yaz</string>
+    <string name="restaurant_review">Bir mağaza barədə müsbət bir rəy yaz</string>
     <string name="retry">Yenidən sına</string>
     <string name="revoke_modifications">Geri al</string>
     <string name="rich_text_bold_description">Qalın</string>
@@ -841,6 +879,7 @@
     <string name="rich_text_tasklist_description">İşarələmə siyahısı</string>
     <string name="rich_text_underline_description">Altdan xətt</string>
     <string name="rich_text_unorderlist_description">Marker siyahısı</string>
+    <string name="romance_film_review">Bir romantik film barədə rəy yaz</string>
     <string name="saturday">Şənbə</string>
     <string name="saturday_short">Şәn</string>
     <string name="saturday_shortest">Şәn</string>
@@ -857,6 +896,7 @@
     <string name="searchview_navigation_content_description">Geri</string>
     <string name="select_account_prompt">Notları sinxronlaşdır</string>
     <string name="select_text_before_using">Bu özəlliyi istifadə etməzdən əvvəl mətni seçin</string>
+    <string name="selfhealing_manual">Yüksək təzyiq altında qalan cəmiyyətdə yaşamaq üçün özünə kömək bələdçisi yaz</string>
     <string name="send">Göndər</string>
     <string name="send_notifications_for_reminder">Xatırladıcı göndərmək üçün</string>
     <string name="sensitive_content_warn">"Həssas məzmun üçün süni zəka icmalı yaradıla bilmir"</string>
@@ -874,7 +914,8 @@
     <string name="setting_show_line_talkback">Xətli</string>
     <string name="setting_show_solid_talkback">Düz</string>
     <string name="shortcut_key_description">Qələmin ucuna ən yaxın olan düymə, yazma düyməsidir. Fırçaları dəyişdirmək üçün basın, silgiyə keçmək üçün basılı tutun, sonra silmək üçün basılı tutun. Ortadakı düymə ekran şəkli düyməsidir. Ən çox istifadə edilən rəngə keçmək üçün basın.</string>
-    <string name="side_sheet_accessibility_pane_title">Yan vərəq</string>
+    <string name="show_event_review">Bir tamaşa barədə rəy yaz</string>
+	<string name="side_sheet_accessibility_pane_title">Yan vərəq</string>
     <string name="single_link_excerpt_saving">Elementlər saxlanılır…</string>
     <string name="single_new_excerpt_title">Çıxarışlar</string>
     <string name="slider_talkback">Diyircək</string>
@@ -908,6 +949,7 @@
     <string name="solar_term_white_dews">Şeh</string>
     <string name="solar_term_winter_begins">Qış başlayır</string>
     <string name="solar_term_winter_solstice">Qış gündönümü</string>
+    <string name="speech_for_the_annual_meeting">İllik iclas üçün bir nitq yaz</string>
     <string name="splash_note">Qələm</string>
     <string name="stealth_mode_tip">"Gizli rejimdəsiniz. Mikrofon indi istifadə edilə bilmir."</string>
     <string name="suggested_delete">Təklif: \"%1$s\" silinsin</string>
@@ -924,6 +966,7 @@
     <string name="sync_folder_todo">%1$s və %2$s</string>
     <string name="sync_note_todo">%1$s və %2$s</string>
     <string name="system_error_info">Sistem məşğuldur. Bir və ya iki dəqiqə gözləyib yenidən sınayın.</string>
+    <string name="takeaway_review.">Yemək çatdırılması üçün yaxşı bir rəy yaz</string>
     <string name="the_anniversary_of_lifting_martial_law">Hərbi Vəziyyətin Qaldırılma İldönümü</string>
     <string name="the_anti_aggression_day">Təcavüzlə Mübarizə Günü</string>
     <string name="the_arbor_day">Ağacəkmə Günü</string>
@@ -1110,6 +1153,7 @@ Səs yazmaq üçün \"Notlar\"a icazə verin."</string>
     <string name="trash_folder_name">Tullantı</string>
     <string name="trash_folder_name_new">Təzəlikcə silinmiş elementlər</string>
     <string name="trash_folder_reminder_new">Notlar tamamilə silinməzdən əvvəl %d gün tullantı qutusunda saxlanılır</string>
+    <string name="travel_list">Səfər üçün yoxlanış siyahısı yarat</string>
     <string name="tuesday">Çərşənbə axşamı</string>
     <string name="tuesday_short">Ç.a.</string>
     <string name="tuesday_shortest">Ç.a.</string>
@@ -1118,7 +1162,7 @@ Səs yazmaq üçün \"Notlar\"a icazə verin."</string>
     <string name="undo">Geri al</string>
     <string name="unknown_error_info">Bilinməyən xəta</string>
     <string name="upgrade_remind">"Bu özəlliyi güncəlləyirik. İzləmədə qalın!"</string>
-    <string name="upload_summary">"Cihazdakı modellər, AI yazma özəlliklərini təqdim etmək üçün istifadə olunacaq və veriləriniz buluda yüklənməyəcək"</string>
+    <string name="upload_summary">"Cihazdakı modellər, AI Yazma özəlliklərini təqdim etmək üçün istifadə olunacaq və veriləriniz buluda yüklənməyəcək"</string>
     <string name="upload_title">Dataları yalnız daxildə emal edir</string>
     <string name="user_agreement">İstifadəçi Razılaşması</string>
     <string name="v7_preference_off">BAĞLI</string>
@@ -1161,7 +1205,7 @@ Səs yazmaq üçün \"Notlar\"a icazə verin."</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Güncəllə</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Bir güncəlləmə mövcuddur</string>
     <string name="xiaomi_overlay_agree_confirm_ok">Razıyam</string>
-    <string name="xiaomi_overlay_agree_desc">AI yazma özəlliklərini istifadə edə bilmək üçün şərtlər və qaydalarla razılaşın.</string>
+    <string name="xiaomi_overlay_agree_desc">AI Yazma özəlliklərini istifadə edə bilmək üçün şərtlər və qaydalarla razılaşın.</string>
     <string name="xiaomi_overlay_agree_title">"Notlar, digər tətbiqlərdə üzən pəncərələri nümayiş etdirə bilmir"</string>
     <string name="yesterday">Dünən</string>
 </resources>
