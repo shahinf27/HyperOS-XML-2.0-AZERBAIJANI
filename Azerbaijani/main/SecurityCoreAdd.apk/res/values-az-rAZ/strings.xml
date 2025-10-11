@@ -589,6 +589,7 @@ Onları ayrı-ayrı endirə bilərsiniz."</string>
     <string name="input_space_finger">İndi ayarla</string>
     <string name="input_space_password">İndi ayarla</string>
     <string name="inputmethod_switch_automatic">\"Scribe\" işə salındıqda giriş üsulu avtomatik dəyişdiriləcək</string>
+    <string name="inspiration_stylus_welcome">Xiaomi Smart Pen 3-cü nəsil</string>
     <string name="instagram_send">Instagram-da paylaş</string>
     <string name="install">Quraşdır</string>
     <string name="install_error">"Quraşdırıla bilmədi. Yenidən sınayın."</string>
@@ -1181,6 +1182,7 @@ Sonuncuları açmaq üçün cüt toxunun."</string>
     <string name="strong_suppression_summary">Cihazınız təsadüfi toxunuşa daha az reaksiya verəcək, bəzi jest kontrolları kənarlara yaxın işləməyə bilər</string>
     <string name="strong_suppression_title">Böyük sahə</string>
     <string name="stylus_action_hover">Üzərində gəzinmə</string>
+    <string name="stylus_added_shortcuts">Əlavə edilən qısayollar</string>
     <string name="stylus_application_effects_title">Effektlər</string>
     <string name="stylus_application_title">Tətbiqlər</string>
     <string name="stylus_brush_preview">Fırça önizləməsi</string>

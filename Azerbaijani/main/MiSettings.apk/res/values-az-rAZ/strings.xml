@@ -594,8 +594,8 @@
     <string name="minors_mode_name">Uşaq rejimi</string>
     <string name="minors_negativeButton">İmtina</string>
     <string name="minors_not_allow_apps_hint">"Bu tətbiq Uşaq rejimində istifadə edilə bilməz"</string>
-    <string name="minors_should_open">Uşaq rejimi indi işə salınsın?</string>
-    <string name="minors_should_open_summary">Uşaq rejimi ilə, azyaşlıların cihaz istifadəsi zamanı daha sağlam vərdişlər inkişaf etdirməsinə kömək edə bilərsiniz. İndi işə salınsın?</string>
+    <string name="minors_should_open">Uşaq rejimi işə salınsın?</string>
+    <string name="minors_should_open_summary">Uşaqlar üçün daha əmniyyətli və sağlam bir rəqəmsal təcrübə yaradın</string>
     <string name="miuix_access_state_desc">Seçildi</string>
 	<string name="miuix_accessibility_title">Başlıq</string>
     <string name="miuix_alphabet_indexer_name">İndeks çubuğu</string>

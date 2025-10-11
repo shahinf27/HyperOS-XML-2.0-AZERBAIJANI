@@ -529,7 +529,9 @@ Bu özəlliyi Ayarlar &gt; Barmaq izləri, üz veri və ekran kilidi &gt; Gizlil
     <string name="permission_quality_describe_summary">Tətbiq çökmələri haqqında məlumat yığmaq üçün</string>
     <string name="permission_read_app_list">Bu cihazda quraşdırılmış tətbiqlərin siyahısına erişim</string>
     <string name="permission_read_application_list_summary">Endirilmiş tətbiqləri güncəlləmək və paket quraşdırıcının istifadə etdiyi tətbiq məlumatlarını təsdiqləmək üçün;</string>
-    <string name="permission_read_call_records">Zəng tarixçəsinə düzəliş et</string>
+    <string name="permission_read_apps">Bu cihazda quraşdırılmış tətbiqlərin siyahısına erişim</string>
+    <string name="permission_read_apps_introduction">Şəbəkə erişimi və veri istifadə statistikaları üçün;</string>
+	<string name="permission_read_call_records">Zəng tarixçəsinə düzəliş et</string>
     <string name="permission_read_call_records_introduction">Zəng tarixçəsinə element əlavə etmək və əngəllənmiş zəngləri silmək üçün</string>
     <string name="permission_read_contacts">Kontaktlara erişilir</string>
     <string name="permission_read_contacts_introduction">Kimliyinizi doğrulamaq üçün</string>

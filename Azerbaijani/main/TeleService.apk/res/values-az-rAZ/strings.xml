@@ -1997,10 +1997,11 @@ UT İnterfeysi: %5$s"</string>
     <string name="satellite_ct_business_summary">Xidmətlər, China Telecom tərəfindən təmin edilir</string>
     <string name="satellite_display_insert_support_card_message">Tiantong Satellite rabitələrini istifadə edə bilmək üçün, \"China Telecom\"dan peyk dəstəkli bir SIM kart taxın.</string>
     <string name="satellite_display_insert_support_card_title">Peyk dəstəkli SIM kart taxın</string>
-    <string name="satellite_display_message">"Deyəsən, SIM kartınız Tiantong Satellite rabitələrini dəstəkləmir. Bu özəlliyi istifadə edə bilmək üçün \"China Telecom\"dan peyk dəstəkli bir SIM kart daxil edin. Yenə də davam edilsin?"</string>
+    <string name="satellite_display_message">"Tiantong SIM kartı tapıla bilmədi. Bu özəlliyi istifadə edə bilmək üçün Tiantong Peyk üzərindən rabitə özəlliyinə sahib bir SIM kart daxil edin."</string>
     <string name="satellite_display_search_star">Davam</string>
-    <string name="satellite_enable_message">Peyk rabitəsini işə salmaq üçün: İdarəetmə mərkəzini açmaq üçün aşağı sürüşdürün, Peyk rejimi açarını işə salın və bağlantı qurmaq üçün təlimatları izləyin. Lütfən yadda saxlayın ki, yalnız Tiantong Satellite abunəliyi olan Chine Telecom SIM kartları bu özəlliyi dəstəkləyir.</string>
-    <string name="satellite_enable_title">Peyk rabitəsini necə işə sala bilərəm?</string>
+    <string name="satellite_enable_message">"Ayarlar > Peyk şəbəkəsi bölməsində Tiantong Peyk rabitələrini işə salın və ya aşağı sürüşdürərək İdarəetmə mərkəzini açın və Tiantong Peyk açarına toxunun, sonra bağlantı qurmaq üçün təlimatları izləyin.
+Yalnız xüsusi peyk SIM kartları və ya peyk servisinə sahib tariflər dəstəklənir. Xidmət fəal deyilsə operatorunuzla əlaqə saxlayın."</string>
+	<string name="satellite_enable_title">Peyk rabitəsini necə işə sala bilərəm?</string>
     <string name="satellite_environment_requirement_message">"Peyk rabitəsi, yerüstü siqnalı olmayan ərazilər üçün uyğundur və bunu yalnız şəbəkə olmadıqda istifadə etməyi tövsiyə edirik. İstifadə etməzdən əvvəl siqnal müdaxiləsini/kəsintisini önləmək üçün tərkibində metal olan qoburlar çıxarılmalıdır. İstifadə zamanı gövdənizin və ya digər maneələrin cihazın üst hissəsi ilə arasındakı məsafəsi %1$d mm-dən çox olmalıdır. Cihazın batareyası %2$s səviyyəsindən aşağı olduqda, bu özəllik əlçatmaz olacaq. Cihazın temperaturu çox yüksək olarsa, bu özəlliyi zəng etmək üçün istifadə edə bilməyəcəksiniz."</string>
     <string name="satellite_environment_requirement_title">Bu özəlliyi istifadə etmək üçün mühitsəl tələblər nədir?</string>
     <string name="satellite_exit_now_battery">Söndür</string>
@@ -2017,16 +2018,16 @@ UT İnterfeysi: %5$s"</string>
     <string name="satellite_low_battery_message">Tiantong Satellite rabitələrini işə salmaq üçün batareya çox zəifdir.</string>
     <string name="satellite_low_battery_super_save_power_message">Batareya zəifdir. Peyk rabitələrini normal istifadə etmək üçün Ultra batareya qənaətini işə salın. İndi işə salınsın?</string>
     <string name="satellite_low_battery_title">Zəif batareya</string>
-    <string name="satellite_mobile_settings_summary">Yalnız China Telecom və ya digər dəstəklənən operatorların təqdim etdiyi peyk dəstəkli SIM kartlar dəstəklənir</string>
-    <string name="satellite_mobile_settings_title">Peyk rabitələrini fəallaşdır</string>
+    <string name="satellite_mobile_settings_summary">Yalnız peyk dəstəkli SIM kartlar və peyk xidmətli tariflər dəstəklənir</string>
+    <string name="satellite_mobile_settings_title">Tiantong Peyk rabitələri</string>
     <string name="satellite_not_show_again">"Təkrar göstərmə"</string>
     <string name="satellite_notification_text">Tiantong Satellite rabitələrini istifadə edərək siqnal olmadan belə zənglər edə və SMS göndərə bilərsiniz. Əvvəlcə bu xidməti işə salın.</string>
     <string name="satellite_notification_title">"Zəif siqnal ərazisindəsiniz"</string>
     <string name="satellite_open_tiantong_business_title">Tiantong Satellite rabitələrini işə sal</string>
     <string name="satellite_point_title">Tiantong Satellite rabitələrini işə sal</string>
-    <string name="satellite_privacy_statement_message">"Tiantong Satellite xidmətlərini təmin etmək üçün, yerləşmənizə erişməyimiz və peykləri skan etməyimiz lazımdır.
-Peykə bağlandıqdan sonra, \"China Telecom\"un fövqəladə halda sizi tapması üçün yerləşmənizə erişməsi lazımdır. Fərdi məlumatlarınızı necə emal etdiyimizlə bağlı detallar üçün \"<a href="https://privacy.mi.com/TianTong-dianxin/en_US/">Tiantong Satellite Rabitələri üzrə Gizlilik Bəyanatı</a>\"nı oxuyun.
-Bu gizlilik bəyanatını oxuduğunuzu və bununla razılaşdığınızı göstərmək üçün aşağıdakı \"Razıyam\" düyməsinə toxunun."</string>
+    <string name="satellite_privacy_statement_message">"Tiantong Satellite şəbəkəsinə bağlanmaq üçün peykləri lokal olaraq skan etmək məqsədilə yerləşmənizə ehtiyacımı var.
+Bağlantı qurulduqdan sonra, fövqəladə halda xilasedici heyətin sizi cəld tapa bilməsi üçün operatorun da yerləşmənizə ehtiyacı var. Detallar üçün \"<a href="https://privacy.mi.com/TianTong-dianxin/zh_CN/">Tiantong Satellite Rabitələri və Məxfilik</a>\"nı oxuyun.
+\"Razıyam\"a toxunmaqla bu bəyanatı oxuduğunuzu və qəbul etdiyinizi təsdiqləyirsiniz."</string>
     <string name="satellite_privacy_statement_negative">"Razı deyiləm"</string>
     <string name="satellite_privacy_statement_positive">Razıyam</string>
     <string name="satellite_privacy_statement_title">Gizlilik bəyanatı</string>
@@ -2053,8 +2054,10 @@ Xidmətlər indi ləğv edilsin?"</string>
     <string name="satellite_use_phone_message">"Peyk rejimi işə salındıqdan sonra, peyk vasitəsilə zəng edə və ala bilərsiniz. Zəng keyfiyyətini təmin etmək və zəng zamanı peyk rabitəsini davam etdirmək üçün ekrandakı təlimatları izləyin. Əllər sərbəst, ilkin olaraq işə salınacaq. Zəng zamanı kəsintiləri önləmək üçün sabit qalın və cihazınızın mövqeyini dəyişdirməyin."</string>
     <string name="satellite_use_phone_title">Peyk rabitəsini istifadə edərək necə zəng edə bilərəm?</string>
     <string name="satellite_use_title">Peyk rabitəsi niyə istifadə edilir?</string>
-    <string name="satellite_user_reminder">Tiantong Satellite rabitələrinin yerləşmənizə erişməsi lazımdır. Mobil veri, kamera və Üzlə kilid açma müvəqqəti olaraq əlçatmaz olacaq. Bu özəllik, yalnız peyk dəstəkli China Telecom SIM kartları ilə əlçatandır.</string>
-    <string name="saturday">Şənbə</string>
+    <string name="satellite_user_reminder">"Tiantong Satellite zəngləri üçün yerləşməniz lazımdır. Mobile veri, Kamera və Üz ilə kilid açma müvəqqəti olaraq söndürüləcək.
+Əvvəlcə Tiantong Satellite rabitələrini aktivləşdirin.Fəal deyilsə operatorunuzla əlaqə saxlayın.
+Xidmətin mövcudluğu yerli operatorunuzdan asılıdır."</string>
+	<string name="saturday">Şənbə</string>
     <string name="saturday_short">Şәn</string>
     <string name="saturday_shortest">Şәn</string>
     <string name="save">Saxla</string>

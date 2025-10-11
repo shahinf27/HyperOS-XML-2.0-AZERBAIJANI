@@ -654,7 +654,7 @@ Admininiz, şəbəkə fəaliyyəti və cihazınızın yerləşmə məlumatları 
     <string name="ai_key_double_click">İki dəfə bas</string>
     <string name="ai_key_long_press">Basılı tut</string>
     <string name="ai_key_single_click">Bas</string>
-    <string name="ai_notification_settings">AI bildiriş icmalı</string>
+    <string name="ai_notification_settings">AI Bildiriş İcmalı</string>
     <string name="ai_services_title">AI xidmətləri</string>
     <string name="ai_settings_click_title">Bas</string>
     <string name="ai_settings_double_click_category">AI düyməsinə iki dəfə basın</string>
