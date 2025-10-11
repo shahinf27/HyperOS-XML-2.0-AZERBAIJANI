@@ -171,44 +171,40 @@
     <string name="artist_is_empty">Sənətçi adı boş ola bilməz.</string>
     <string name="artist_name">Sənətçi</string>
     <string name="asm_account_exception">Sistem hesab xətası. Çıxış edib təkrar giriş edin.</string>
-    <string name="asm_ad_daily_opportunity_exhausted">Bugünkü fürsətlər tükəndi</string>
-    <string name="asm_ad_download_count">Qaldı: %d dəfə</string>
-    <string formatted="false" name="asm_ad_download_des">%d mahnını ödənişsiz endirmək üçün %d reklama baxın</string>
-    <string name="asm_ad_download_slide_count">%d dəfə</string>
-    <string name="asm_ad_download_tab_title">Mahnıları ödənişsiz endir</string>
+    <string name="asm_ad_daily_opportunity_exhausted">"Daha çox videoya baxıla bilmir"</string>
+    <string name="asm_ad_download_des">%2$d mahnını ödənişsiz endirmək üçün %1$d reklama bax</string>
+    <string name="asm_ad_download_tab_title">Ödənişsiz endir</string>
     <string name="asm_ad_download_title">Mahnıları ödənişsiz endir</string>
-    <string name="asm_ad_download_top">Təbriklər. Mahnıları ödənişsiz endirə bilərsiniz.</string>
-    <string name="asm_ad_failed_retry_toast">Yüklənmədi. Lütfən daha sonra yenidən sınayın.</string>
+    <string name="asm_ad_download_top">Təbriklər! Mahnıları ödənişsiz endirə bilərsiniz.</string>
+    <string name="asm_ad_failed_retry_toast">"Yüklənə bilmədi. Bir və ya iki dəqiqə gözləyib yenidən sınayın."</string>
     <string name="asm_ad_free">Reklamsız</string>
     <string name="asm_ad_free_for_subscribers">Reklamları silmək üçün abunə olun</string>
     <string name="asm_ad_free_for_subscribers_first_month_free">Reklamları silmək üçün abunə olun. İlk ay ödənişsizdir.</string>
-    <string name="asm_ad_hq_duration">剩余权益：%s</string>
-    <string formatted="false" name="asm_ad_hq_first">看%d个广告可获得%d分钟免费时长</string>
-    <string formatted="false" name="asm_ad_hq_second">看%d个广告可获得%d小时免费时长</string>
-    <string name="asm_ad_hq_slide_duration">%s分钟</string>
-    <string name="asm_ad_hq_tab_title">免费高音质播放</string>
-    <string name="asm_ad_hq_tab_top">看视频免费播放高音质音乐</string>
-    <string formatted="false" name="asm_ad_hq_third">看%d个广告可获得%d小时免费时长</string>
-    <string name="asm_ad_hq_thirty_minutes">+%d分钟</string>
-    <string name="asm_ad_hq_title">免费获取高音质权益</string>
-    <string name="asm_ad_hq_twenty_four_hours">+%d小时</string>
-    <string name="asm_ad_hq_two_hours">+%d小时</string>
-    <string formatted="false" name="asm_ad_rule_description">"%d. 您可通过观看激励视频获得下载次数及高音质播放时长
-%d.下载权益：每看%d条视频获得%d次下载次数，下载次数无上限，且权益不会清空
-%d. 高音质时长权益：每个周期内可观看%d条激励视频，以获得高音质时长。获得的权益时长会在每天UTC+%d %dAM清零，清零后需要重新通过看激励视频获取权益
-%d. 一个权益周期：T日%d点AM（UTC+%d) - T+%d日%d点AM（UTC+%d）
-%d. 周期内观看第一条激励视频，获得%d分钟高音质时长，立即生效；周期内观看第两条激励视频，新增%d分钟高音质时长，立即生效；周期内观看第三条激励视频，获得全天%d小时高音质时长，立即生效至当前周期结束
-%d. 本规则最终解释权归小米音乐所有"</string>
-    <string name="asm_ad_rules">规则说明</string>
-    <string name="asm_ad_slide_hq_duration">免费高音质时长</string>
-    <string name="asm_ad_slide_reward">领取更多免费权益</string>
-    <string name="asm_ad_slide_title">免费权益</string>
-    <string name="asm_ad_toast_free_benefit_awarded">恭喜获得免费权益</string>
-    <string name="asm_ad_watch">立即观看（%ds)</string>
-    <string name="asm_ad_watch_first">看%d个视频</string>
-    <string name="asm_ad_watch_now">立即观看</string>
-    <string name="asm_ad_watch_second">看%d个视频</string>
-    <string name="asm_ad_watch_third">看%d个视频</string>
+    <string name="asm_ad_hq_duration">Qaldı: %s</string>
+    <string name="asm_ad_hq_first">%2$d dəqiqə ödənişsiz oxutma üçün reklam izləyin</string>
+    <string name="asm_ad_hq_second">%2$d saat ödənişsiz oxutma üçün reklam izləyin</string>
+    <string name="asm_ad_hq_tab_title">Ödənişsiz oxut</string>
+    <string name="asm_ad_hq_tab_top">Yüksək keyfiyyətli mahnıları ödənişsiz oxutmaq üçün videolara baxın</string>
+    <string name="asm_ad_hq_third">%2$d saat ödənişsiz oxutma üçün reklam izləyin</string>
+    <string name="asm_ad_hq_thirty_minutes">+ %d dəq</string>
+    <string name="asm_ad_hq_title">Mahnıları yüksək keyfiyyətdə ödənişsiz oxut</string>
+    <string name="asm_ad_hq_twenty_four_hours">+ %d saat</string>
+    <string name="asm_ad_hq_two_hours">+ %d saat</string>
+    <string name="asm_ad_rule_descriptions">"%1$d. Mahnıları yüksək keyfiyyətdə endirmək və oxutmaq üçün videolara baxın.
+%2$d. Mahnıları endirmək üçün: %4$d mahnı endirmək üçün %3$d videoya baxın. Nə qədər çox videoya baxsanız, bir o qədər çox ödənişsiz endirmə qazanarsınız və bunlar silinmir.
+%5$d. Yüksək keyfiyyətdə dinləmə vaxtı üçün: Hər period ərzində, ən çox %6$d videoya baxaraq yüksək keyfiyyətli dinləmə vaxtı qazanırsınız. Qazanılan vaxtlar hər gün %7$s vaxtında (UTC) sıfırlanır və sıfırlandıqdan sonra təkrar qazanılmalıdır.
+%8$d. Period müddəti: %9$s (UTC) vaxtından etibarən növbəti gün %10$s (UTC) vaxtına qədər.
+%11$d. Mükafat dərəcələri: Bu müddət ərzində ilk videoya baxmaqla %12$d dəqiqə yüksək keyfiyyətdə dinləmə vaxtı qazanırsınız. İkincisi %13$d dəqiqə əlavə edir. Üçüncüsü, periodun sonuna qədər %14$d saatlıq yüksək keyfiyyətdə dinləmənin kilidini açır. Bütün mükafatlar dərhal qüvvəyə minir.
+%15$d. Mi Musiqi, qaydaların son şərh hüququnu özündə saxlayır."</string>
+    <string name="asm_ad_rules">Qaydalar</string>
+    <string name="asm_ad_slide_hq_duration">Ödənişsiz dinləmə vaxtı</string>
+    <string name="asm_ad_slide_reward">Daha çox götür</string>
+    <string name="asm_ad_slide_title">Üstünlüklər</string>
+    <string name="asm_ad_toast_free_benefit_awarded">Təbriklər! Üstünlüklərinizdən indi faydalanın.</string>
+    <string name="asm_ad_watch_first">%d video</string>
+    <string name="asm_ad_watch_now">Bax</string>
+    <string name="asm_ad_watch_second">%d video</string>
+    <string name="asm_ad_watch_third">%d video</string>
     <string name="asm_album_not_available">albom mövcud deyil</string>
 	<string name="asm_album_not_available_toast">"Albomlara erişilə bilmədi"</string>
     <string name="asm_alubm_disc">Disc %d</string>

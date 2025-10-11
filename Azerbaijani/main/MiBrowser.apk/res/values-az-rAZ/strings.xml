@@ -463,9 +463,9 @@ Baxdığınız səhifələr tarixçədə görünməyəcək."</string>
     <string name="debug_crash">Çökmə sazlamasını fəallaşdır</string>
     <string name="debug_panel_ad_unit_format">Format</string>
     <string name="debug_panel_ad_unit_id">ID</string>
-    <string name="debug_user_firebase_config_list_title">Firebase Konfq. Siyahısı</string>
+    <string name="debug_user_firebase_config_list_title">Remote Config Siyahısı</string>
     <string name="debug_user_firebase_config_reset">Sıfırla</string>
-    <string name="debug_user_firebase_config_reset_confirm_dialog">Firebase konfq.ları sıfırlanacaq</string>
+    <string name="debug_user_firebase_config_reset_confirm_dialog">Remote configs sıfırlanacaq</string>
     <string name="debug_user_firebase_config_reset_loading_dialog">Emal olunur…</string>
     <string name="debug_user_firebase_config_search_hint">Konfiqurasiya axtar</string>
     <string name="debug_youtube_file">YouTube faylını sazlama</string>

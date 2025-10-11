@@ -189,12 +189,12 @@
         <item quantity="other">Ekranın sağ tərəfinə cüt toxunaraq %d saniyə geri çək</item>
     </plurals>
     <plurals name="plus_edit_delete_comfire_text">
-        <item quantity="one">%s element indi silinsin?</item>
-        <item quantity="other">%s element indi silinsin?</item>
+        <item quantity="one">%s fayl indi silinsin?</item>
+        <item quantity="other">%s fayl indi silinsin?</item>
     </plurals>
     <plurals name="plus_edit_top_titletext">
-        <item quantity="one">%s element seçildi</item>
-        <item quantity="other">%s element seçildi</item>
+        <item quantity="one">%s fayl seçildi</item>
+        <item quantity="other">%s fayl seçildi</item>
     </plurals>
     <plurals name="plus_local_edit_delete_confirm_text">
         <item quantity="one">%s fayl indi birdəfəlik silinsin?</item>
@@ -247,6 +247,10 @@
     <plurals name="toast_bookmark_max_size">
         <item quantity="one">%d əlfəcinə qədər əlavə et</item>
         <item quantity="other">%d əlfəcinə qədər əlavə et</item>
+    </plurals>
+    <plurals name="video_favorite_text">
+        <item quantity="one">%s sevimli</item>
+        <item quantity="other">%s sevimli</item>
     </plurals>
     <plurals name="video_like_text">
         <item quantity="one">%s bəyənmə</item>

@@ -219,7 +219,6 @@
     <string name="dialog_safe_launcher_title">Güvənli rejim açıqdır</string>
     <string name="dock_and_folder_not_edit_icon_tip">Düzəliş etmək üçün əvvəlcə tətbiqi yuvadan və qovluqdan çıxarın</string>
     <string name="dock_not_edit_icon_tip">Düzəliş etmək üçün əvvəlcə tətbiqi yuvadan çıxarın</string>
-    <string name="double_tap_to_lock_title">Ekranı kilidləmək üçün cüt toxunun</string>
     <string name="drag_icon_to_homescreen_guide">Bir tətbiq ikonuna basılı tutun, daha sonra Əsas ekran qısayolu əlavə etmək üçün sürükləyin</string>
     <string name="drag_multiple_item_name"></string>
     <string name="drag_single_item_name"></string>
@@ -297,6 +296,7 @@
     <string name="gadget_power_clear_button_label">Dərin təmizlik</string>
     <string name="gadget_search_label">Axtar</string>
     <string name="gadget_weather_title">Hava</string>
+    <string name="gesture_tap_lock">Ekranı kilidləmək üçün cüt toxunun</string>
     <string name="global_search">Axtar</string>
     <string name="global_shelf">Tətbiq tapıcı</string>
     <string name="guide_install_app_msg">"Bu tətbiq cihazınızda quraşdırılmayıb. İndi tapılıb quraşdırılsın?"</string>
