@@ -163,7 +163,11 @@ Bu lüğət, Azərbaycan dilində texnoloji interfeyslərin tərcüməsi zamanı
 | compatible     | uyumlu                          |
 | fit            | uyum, uyumluluq                 |
 | correspond     | müvafiq                         |
-| adaptive       | adaptiv                         |
+| adaptive       | adaptiv, uyarlanan, uyarlaşan   |
+| to adapt       | uyarlaşmaq, uyarlanmaq          |
+| adaptation     | uyarlaşma                       |
+| adaptable      | uyarlana bilən                  |
+| adaptability   | uyarlılıq                       |
 | suitable       | uyğun                           |
 | comply         | riayət etmək                    |
 | compliant      | riayətkar/riayət edən           |
